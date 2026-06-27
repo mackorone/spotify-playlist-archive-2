@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like sad hour, with Asha Banks",
+  "description": "heartbreak feels good in a place like sad hour, with PEGGY",
   "name": "sad hour",
   "tracks": [
     {
@@ -5581,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "FRANKENSTEIN",
+        "url": "https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "FRANKENSTEIN",
+      "url": "https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet Love",
         "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
       },
@@ -8500,7 +8518,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE"
@@ -9431,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190794,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
+    },
+    {
+      "album": {
         "name": "It Still Rains in Paradise",
         "url": "https://open.spotify.com/album/1RzEZUdiyyMFnbpXK5kcyj"
       },
@@ -10326,6 +10362,24 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+    },
+    {
+      "album": {
+        "name": "Liar Out Of Me",
+        "url": "https://open.spotify.com/album/5H68xqeJ7cvT7Jl8KbupQK"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "Liar Out Of Me",
+      "url": "https://open.spotify.com/track/4gkYx1zSCdMEpvoqbCDmdE"
     },
     {
       "album": {
@@ -16566,7 +16620,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 193040,
       "name": "The Summer I Turned Pretty",
       "url": "https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf"
@@ -17760,7 +17814,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149562,
       "name": "walking contradiction",
       "url": "https://open.spotify.com/track/1M9ojFPLrZO5AdoZzaOI2Q"

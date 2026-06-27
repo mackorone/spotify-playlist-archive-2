@@ -8797,6 +8797,28 @@
     },
     {
       "album": {
+        "name": "NOTA",
+        "url": "https://open.spotify.com/album/7AQ1vE4tY1dMceu9sTTyfO"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167106,
+      "name": "NOTA",
+      "url": "https://open.spotify.com/track/7zCBT5SUMOHkuUnTZHyNQC"
+    },
+    {
+      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
       },
@@ -13576,7 +13598,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 196256,
       "name": "UNA NA MAS",
       "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"

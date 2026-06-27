@@ -1,12 +1,12 @@
 {
   "description": "Get ready to party met deze ultieme DANCE Party Mix Playlist!",
-  "num_followers": 50364,
+  "num_followers": 50358,
   "original_name": "DANCE Party Mix | House Party",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+mZ1AhtX4F+lFhVqCVOUucMIE9UfF",
+  "snapshot_id": "AAA+mnEFDQlcQS6HWqq3qYNX71ktn3fr",
   "tracks": [
     {
       "added_at": "2026-04-20 14:52:16",
@@ -175,6 +175,30 @@
       "duration_ms": 162755,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
+    },
+    {
+      "added_at": "2026-06-26 07:31:10",
+      "album": {
+        "name": "Midnight Echoes",
+        "url": "https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        },
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        },
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Midnight Echoes",
+      "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
     },
     {
       "added_at": "2026-04-24 09:56:42",

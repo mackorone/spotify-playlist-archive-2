@@ -5081,6 +5081,28 @@
     },
     {
       "album": {
+        "name": "Love is Everywhere (Beware)",
+        "url": "https://open.spotify.com/album/79nQxkPGvJ2NN1PAXFQCKU"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        },
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193821,
+      "name": "Love is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/3Xq1HvkjYvh3SVUiGfT2MP"
+    },
+    {
+      "album": {
         "name": "Blind and Brave",
         "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
       },
@@ -6516,7 +6538,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 222251,
       "name": "Prodigal Daughter",
       "url": "https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV"

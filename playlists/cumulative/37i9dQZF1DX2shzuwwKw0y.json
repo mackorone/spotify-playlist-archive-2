@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Rey Quinto, El Randall",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Kane Rodriguez",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -5811,6 +5811,28 @@
     },
     {
       "album": {
+        "name": "Loko So\u00f1ador",
+        "url": "https://open.spotify.com/album/3n1583a5Lyd8sxiHCJYTWR"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "El Precio",
+      "url": "https://open.spotify.com/track/1eJGR5UCd3a4Vur1Y6pfB0"
+    },
+    {
+      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
       },
@@ -6564,7 +6586,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 225512,
       "name": "En Pl\u00e1ticas (Los Hermanos) (En Vivo)",
       "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
@@ -9213,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "Le Quitaron la Vida a mi Padre",
+        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162661,
+      "name": "Le Quitaron la Vida a mi Padre",
+      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
+    },
+    {
+      "album": {
         "name": "Le Tir\u00e9 Putazos (En Vivo)",
         "url": "https://open.spotify.com/album/7Mcf9E5BhdKOGR8VmkcLj1"
       },
@@ -9322,6 +9362,32 @@
       "duration_ms": 134507,
       "name": "Lo Que Les Falta",
       "url": "https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM"
+    },
+    {
+      "album": {
+        "name": "Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180657,
+      "name": "Lokera",
+      "url": "https://open.spotify.com/track/7K23Te3utCfxBPwqzq8g7U"
     },
     {
       "album": {
@@ -10106,7 +10172,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 155478,
       "name": "McGregor",
       "url": "https://open.spotify.com/track/5uQ1IgTuCcYH7DWKrc6kkc"
@@ -12432,7 +12498,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 196108,
       "name": "Recuerdos Del 1",
       "url": "https://open.spotify.com/track/6eSTG6L6FIGIuzO02eWLll"

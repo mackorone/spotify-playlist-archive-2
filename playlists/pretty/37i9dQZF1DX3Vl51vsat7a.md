@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Magda
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,826 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,829 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 48 | [Worst Day](https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Worst Day](https://open.spotify.com/album/6M6IYyNGPujN908evSqmLm) | 2:17 |
 | 49 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
 
-Snapshot ID: `AAAAAFOCmDcM5oy3savlybj/eIHROj2S`
+Snapshot ID: `AAAAAJU9K57C6wpHjgv25/TjEToxxKwR`

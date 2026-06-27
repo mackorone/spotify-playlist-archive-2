@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: KIARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,259 likes - 96 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,269 likes - 96 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

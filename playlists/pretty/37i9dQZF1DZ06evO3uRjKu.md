@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,237 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,249 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 35 | [Son tus ojos](https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:06 |
 | 36 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 |
 | 37 | [Me Siento Loco](https://open.spotify.com/track/01TJE0vRdTfmFjcj2Z6Q4U) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Me Siento Loco](https://open.spotify.com/album/1sDQ7rlBAHZZAt8AJfNzzT) | 4:03 |
-| 38 | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y) | 5:34 |
-| 39 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 |
+| 38 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 |
+| 39 | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hasta Allá En El Cielo / Bye Bye](https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y) | 5:34 |
 | 40 | [Vamos Linda](https://open.spotify.com/track/76SP2PwroHhOLu1Hg3s9Eu) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:15 |
 | 41 | [Reina del Club](https://open.spotify.com/track/6W3IFRjM8zedEfisG4BaFW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 4:38 |
 | 42 | [Bailalo](https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz) | [Agus Cassano](https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Bailalo](https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Agarrate Fuerte](https://open.spotify.com/track/6cjwjKXGIgRgr1PQzTfpfg) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/2tdA8vWfgt8YRHAcecbl3v) | 3:15 |
 | 50 | [Bumerang](https://open.spotify.com/track/2Vx2DZxRtEGAvmipf71Yaw) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/1TY6aCob3FJIt3nj7irZPq) | 3:12 |
 
-Snapshot ID: `ajseAAAAAACTI5z98Zz7L7U6VUJDGsVw`
+Snapshot ID: `ajxvgAAAAAAyPgzWi8oFXfNrA/kdZK8l`

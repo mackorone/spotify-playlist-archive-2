@@ -15259,6 +15259,24 @@
     },
     {
       "album": {
+        "name": "Barrystar, Vol. 2",
+        "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Motide",
+      "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
+    },
+    {
+      "album": {
         "name": "MOTION SICKNESS",
         "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
       },
@@ -23182,24 +23200,6 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "album": {
-        "name": "Barrystar, Vol. 2",
-        "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
-      },
-      "artists": [
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
     },
     {
       "album": {

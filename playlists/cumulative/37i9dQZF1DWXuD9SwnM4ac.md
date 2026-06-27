@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: sombr
 
-1,612 songs - 3 day 21 hr 37 min
+1,614 songs - 3 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [ingrained](https://open.spotify.com/track/0z8c9tITOflVHvum6znURZ) | [KCH](https://open.spotify.com/artist/46uWTUVuDzfIAfiLA8Xfgb) | [my head is a jungle in a deforestation way](https://open.spotify.com/album/1FscXGFbEu6Aaq7FZqeoqd) | 3:23 | 2026-04-02 | 2026-05-29 |
 | [Into Gold](https://open.spotify.com/track/2uWJpyxK7gSGdGBLOX4lMV) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Into Gold](https://open.spotify.com/album/7yIJ7abwVOMsviS21jFkeW) | 5:42 | 2024-06-20 | 2024-07-12 |
 | [Into The Wild](https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Into The Wild](https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy) | 3:41 | 2026-02-26 | 2026-04-17 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-26 |  |
 | [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 | 2026-03-19 | 2026-06-12 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-23 |
 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 | 2026-05-28 |  |
@@ -1577,6 +1578,7 @@
 | [Willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 | 2025-07-24 | 2025-08-22 |
 | [Wings](https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Wings](https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr) | 4:08 | 2026-03-19 | 2026-05-08 |
 | [Wings Of A Butterfly](https://open.spotify.com/track/0OUryB8AFlW3zU8POpzHUz) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Wings of a Butterfly](https://open.spotify.com/album/79PdgUPGE22mEJ2iSvcZIn) | 3:47 | 2026-05-28 |  |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-26 |  |
 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 | 2024-10-17 | 2024-11-15 |
 | [Wipe your tears](https://open.spotify.com/track/3K5bLOU8pMGrDsPCfdL25g) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [The woods, vol\. 1](https://open.spotify.com/album/28LD28enRzXd3e0V5zDypI) | 2:36 | 2025-06-19 | 2025-08-15 |
 | [wish i was a robot](https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [falling for robots & wishing i was one](https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg) | 2:57 | 2024-06-06 | 2024-07-05 |

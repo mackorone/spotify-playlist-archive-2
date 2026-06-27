@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 9743,
+  "num_followers": 9748,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAmytI8FjFiCogIJL5ryLFp",
+  "snapshot_id": "ajxvgAAAAAAD8mX70zKv158kTVCNw2lz",
   "tracks": [
     {
       "added_at": null,
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+        "name": "La Fiesta De Mi Rancho (Remix)",
+        "url": "https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg"
       },
       "artists": [
+        {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+      "duration_ms": 158275,
+      "name": "La Fiesta De Mi Rancho - Remix",
+      "url": "https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh"
     },
     {
       "added_at": null,
@@ -887,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta De Mi Rancho (Remix)",
-        "url": "https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg"
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
       },
       "artists": [
-        {
-          "name": "Monir Bautista",
-          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 158275,
-      "name": "La Fiesta De Mi Rancho - Remix",
-      "url": "https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh"
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
     },
     {
       "added_at": null,

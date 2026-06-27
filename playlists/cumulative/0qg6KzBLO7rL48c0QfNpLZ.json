@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 129344,
       "name": "A Sky Full Of Stars",
       "url": "https://open.spotify.com/track/3Z2ueAJtrYO5yHMXLz4TP2"
@@ -4564,7 +4564,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207288,
       "name": "Catharina",
       "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
@@ -5182,6 +5182,24 @@
       "duration_ms": 165245,
       "name": "Coastal Skies",
       "url": "https://open.spotify.com/track/6XtdSiUF4zQ6YlLVeuIDc2"
+    },
+    {
+      "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/3KFURcF5dSIrU0iToTC78K"
+      },
+      "artists": [
+        {
+          "name": "MELOPHANTS",
+          "url": "https://open.spotify.com/artist/31vTdUTqmKypzgh8RiCdG0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/17dtP8zjGfaH8b0Th873Wu"
     },
     {
       "album": {
@@ -6378,6 +6396,24 @@
       "duration_ms": 144959,
       "name": "Defender",
       "url": "https://open.spotify.com/track/0aEGr7B1y5OVGdIXxQVnMS"
+    },
+    {
+      "album": {
+        "name": "Deixa Vir",
+        "url": "https://open.spotify.com/album/0ny2duA1IxpfWIZlvBTz4K"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127862,
+      "name": "Deixa Vir",
+      "url": "https://open.spotify.com/track/49PCRB8GXQZT8wELcUSVHn"
     },
     {
       "album": {
@@ -9050,7 +9086,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 134000,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/0XpdpXlxOdYt2qx0J6WsdO"
@@ -9718,7 +9754,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 164036,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/03RUoZl8yGHMwM86baBEpB"
@@ -9968,7 +10004,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 150967,
       "name": "First Call",
       "url": "https://open.spotify.com/track/3WvNrgfrjVjhdVEhafT4BY"
@@ -10366,7 +10402,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146896,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4DNbZMNkav4GR8ozrBvHPB"
@@ -10675,6 +10711,28 @@
     },
     {
       "album": {
+        "name": "Friday I\u2018m In Love",
+        "url": "https://open.spotify.com/album/7KVKlqh6PrpB63lu6xstwW"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        },
+        {
+          "name": "Blevo",
+          "url": "https://open.spotify.com/artist/5Uu0ppV7jzY7ZR9xVCInHO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129523,
+      "name": "Friday I\u2018m In Love",
+      "url": "https://open.spotify.com/track/76WCBPWg4x1Tqb9O8A0I8o"
+    },
+    {
+      "album": {
         "name": "Full Of Love",
         "url": "https://open.spotify.com/album/3mhaTRUZhIzgcFGjZ6p6Pt"
       },
@@ -10944,7 +11002,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 132708,
       "name": "Get Me",
       "url": "https://open.spotify.com/track/4WUljHUqJT0usnOHHum0ID"
@@ -12018,6 +12076,28 @@
       "duration_ms": 177560,
       "name": "Heartbreak Or Two",
       "url": "https://open.spotify.com/track/10Gu0dKMkGA8ih1gVpWKeQ"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/01FNgS1VYknItWAaMRfNvL"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/6ZBAe2EuZwCeQRJT0oaDxK"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219667,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/3ObO5GMouyUO9fGiRmdR7l"
     },
     {
       "album": {
@@ -14046,7 +14126,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 128709,
       "name": "I Need Nobody",
       "url": "https://open.spotify.com/track/2k5p8521ZVmoQ9a0xwHV6o"
@@ -20636,7 +20716,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "No Me Canso - Radio Mix",
       "url": "https://open.spotify.com/track/0boGSpPJPJy6Ugvu6a9n9K"
@@ -22650,6 +22730,28 @@
       "duration_ms": 177600,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2AwK34wiXqYBYr3DCI42LT"
+    },
+    {
+      "album": {
+        "name": "Part Of You",
+        "url": "https://open.spotify.com/album/030WMfpMQ3dTmTcR1fZoeA"
+      },
+      "artists": [
+        {
+          "name": "2FarAway",
+          "url": "https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3"
+        },
+        {
+          "name": "Francis Skyes",
+          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Part Of You",
+      "url": "https://open.spotify.com/track/7Gbd4QtGiEUErngRQgy8AQ"
     },
     {
       "album": {
@@ -24917,6 +25019,24 @@
     },
     {
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/75MuifMFVGePBojwjlWuV9"
+      },
+      "artists": [
+        {
+          "name": "TEMP!E",
+          "url": "https://open.spotify.com/artist/75TTHqbTvMOttu5BC9dare"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3Rgqz5MvODnEVGqKVZynnP"
+    },
+    {
+      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/6UmvQvC6E4350Ixz3Y5hZO"
       },
@@ -25324,6 +25444,28 @@
       "duration_ms": 150391,
       "name": "Shining Stars",
       "url": "https://open.spotify.com/track/4Ik6SHpNHDJFPT4z2QTuqJ"
+    },
+    {
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/7aeT0guJDZroNpTi9vdzTx"
+      },
+      "artists": [
+        {
+          "name": "Atlantix",
+          "url": "https://open.spotify.com/artist/6SAXEJBlURybBzKlejEU0m"
+        },
+        {
+          "name": "IONA SKY",
+          "url": "https://open.spotify.com/artist/7w1dIcH8K15prG1Nvzr7OZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172217,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/34hfurY0YeIcPXizSRTMYd"
     },
     {
       "album": {
@@ -26004,6 +26146,24 @@
       "duration_ms": 177634,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/2M4MsNop9n0G9HLskcv0k8"
+    },
+    {
+      "album": {
+        "name": "So Sweet",
+        "url": "https://open.spotify.com/album/1KGKtlcALwAzkcSDD7cot5"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120012,
+      "name": "So Sweet",
+      "url": "https://open.spotify.com/track/6um9TYphHKs3Sz6xKxIANC"
     },
     {
       "album": {
@@ -29944,7 +30104,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168050,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/393cmbXj9vM8AzflL3hOln"
@@ -32784,7 +32944,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 161454,
       "name": "You're On My Mind",
       "url": "https://open.spotify.com/track/0NuRQ8T08FBaoWm0fYIHbN"

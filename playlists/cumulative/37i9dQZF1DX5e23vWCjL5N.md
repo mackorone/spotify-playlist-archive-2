@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. DJ Shocca aka Roc Beats in cover.
 
-443 songs - 22 hr 32 min
+444 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-04-15 | 2023-11-03 |
 | [ANTHEM](https://open.spotify.com/track/5RvYbjPoLlvFw60ZrSufCi) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:18 | 2023-11-02 | 2025-04-11 |
 | [Armato \(feat\. Kid Yugi\)](https://open.spotify.com/track/6fgLw0VwPmQtjSmvfCVC6u) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 3:25 | 2026-04-30 |  |
+| [Arricchiti \(feat\. Guè\)](https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Arricchiti \(feat\. Guè\)](https://open.spotify.com/album/5r8qz3XZd9YULzc47y8Nd5) | 2:35 | 2026-06-26 |  |
 | [ATENA](https://open.spotify.com/track/3C7hntSOMdoAlZTAjdIfQD) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [ATENA](https://open.spotify.com/album/3o0X8SGTY9Ifkb3yR2kFjA) | 2:16 | 2025-11-28 | 2026-01-15 |
 | [Atlantide](https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 3:04 | 2025-10-09 | 2026-06-26 |
 | [Autoritratto](https://open.spotify.com/track/2WWzG3tZPmUQXCGHTblSku) | [Charlie Charles](https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [La bella confusione](https://open.spotify.com/album/6v9auApDKLIxYeoJCZqPDO) | 3:20 | 2025-10-24 | 2025-11-14 |
@@ -376,7 +377,7 @@
 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/4bTgVYbTDdBaJRHLtecSoX) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 3:05 | 2022-04-15 | 2022-07-31 |
 | [Se Rinasco \(feat\. Massimo Pericolo & Crookers\)](https://open.spotify.com/track/7FjBYxeIKPSJ4urbawvnUO) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [ORO BLU](https://open.spotify.com/album/1lqbweQ3w6orHhehLOlZim) | 3:05 | 2022-07-15 | 2022-11-25 |
 | [SECONDO MEDIOEVO](https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB) | [Musica Cicatrene](https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d) | 3:26 | 2024-08-07 | 2024-10-18 |
-| [Self control](https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Juniork](https://open.spotify.com/artist/0fmgGC0Djn2ZgujYN4HvFo) | [Self control](https://open.spotify.com/album/5DZxAf5LA7KQEQKx122Uh9) | 3:04 | 2026-06-25 |  |
+| [Self control](https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Self control](https://open.spotify.com/album/5DZxAf5LA7KQEQKx122Uh9) | 3:04 | 2026-06-25 |  |
 | [Sfoghi di una vita complicata 5 \(Atto III\)](https://open.spotify.com/track/1n6xhi0kch30b174KlxoOB) | [lowlow](https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp) | [Sfoghi di una vita complicata 5](https://open.spotify.com/album/2y8CANUxlby7nxb7fbyfi0) | 2:01 | 2026-03-06 | 2026-04-10 |
 | [sharp](https://open.spotify.com/track/0g6u67MW4H4iE5m6goGNwJ) | [lowlow](https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp) | [sharp](https://open.spotify.com/album/673EVAAQVmLEkh5Yy6tsYq) | 2:43 | 2025-05-16 | 2025-06-27 |
 | [Simba](https://open.spotify.com/track/1HYfVj2vVlKDGlpMkbzdVW) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 3:19 | 2025-04-18 | 2025-10-10 |

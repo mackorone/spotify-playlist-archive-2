@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Jubin Nautiyal, Elnaaz Norouzi, Amit Trivedi and more.",
+  "description": "Latest music from Shekhar Ravjiani, Paresh Pahuja, Akhil Sachdeva and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 154045,
       "name": "Aadatan",
       "url": "https://open.spotify.com/track/3EurQfYtnpIsp2LCMQeSbM"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 127821,
       "name": "Awara",
       "url": "https://open.spotify.com/track/5mX2aKNEOmBVMwLb6WknfL"
@@ -5088,7 +5088,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 180000,
       "name": "Belagaam",
       "url": "https://open.spotify.com/track/3asuWddfBn7bR0ounsWdbu"
@@ -5788,7 +5788,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 228245,
       "name": "Body Roll",
       "url": "https://open.spotify.com/track/448nUxDzhJJiYDGgISvs7p"
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 324456,
       "name": "Bulleya Ve | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/6kb9VzJblzeib3eZD38K98"
@@ -11244,6 +11244,28 @@
       "duration_ms": 228437,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk"
+    },
+    {
+      "album": {
+        "name": "Fanda",
+        "url": "https://open.spotify.com/album/056oMfkfjqdtw2nJc4sWml"
+      },
+      "artists": [
+        {
+          "name": "PARTYTONYT",
+          "url": "https://open.spotify.com/artist/53Ki4wRnZGiDPjBoZbJzpz"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133777,
+      "name": "Fanda",
+      "url": "https://open.spotify.com/track/7dZcyOGqEuzialJ5PJsCka"
     },
     {
       "album": {
@@ -20697,6 +20719,24 @@
     },
     {
       "album": {
+        "name": "Kitni Dafaa",
+        "url": "https://open.spotify.com/album/2cxPsVBemetB72EIBg5bqg"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Kitni Dafaa",
+      "url": "https://open.spotify.com/track/55X7yrhGv7sJ3oWG3GlGl3"
+    },
+    {
+      "album": {
         "name": "Kohinoor",
         "url": "https://open.spotify.com/album/6v5MNxW19uV6uwLJmS8zwA"
       },
@@ -22803,6 +22843,32 @@
     },
     {
       "album": {
+        "name": "Mainu Ki Pata",
+        "url": "https://open.spotify.com/album/1DOe8ovWwYeiUUhpLWC1lx"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Mainu Ki Pata",
+      "url": "https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h"
+    },
+    {
+      "album": {
         "name": "Majboor",
         "url": "https://open.spotify.com/album/2fONMruWBGNkb8fZhyNjCM"
       },
@@ -23840,6 +23906,24 @@
       "duration_ms": 188000,
       "name": "Meethi Boliyaan",
       "url": "https://open.spotify.com/track/3YcYEu1aaoQacrj0Bz73DV"
+    },
+    {
+      "album": {
+        "name": "Mehek Ne Lage Hain",
+        "url": "https://open.spotify.com/album/5CmD6Vm7JOqGELaZaPKGst"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218526,
+      "name": "Mehek Ne Lage Hain",
+      "url": "https://open.spotify.com/track/0SCsnnh2uDMD4HzpKLx3fT"
     },
     {
       "album": {
@@ -24993,6 +25077,24 @@
     },
     {
       "album": {
+        "name": "Mohabbat Kisi Aur Se",
+        "url": "https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Mohabbat Kisi Aur Se",
+      "url": "https://open.spotify.com/track/5UDqd1spTXBqEai60mjyGK"
+    },
+    {
+      "album": {
         "name": "Monday Morning",
         "url": "https://open.spotify.com/album/1ONHoesReqVQRDbGdurVGy"
       },
@@ -25176,7 +25278,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 224769,
       "name": "Mujhe Rok Lo",
       "url": "https://open.spotify.com/track/5q68Sjztv6bnxgbj9bwHll"
@@ -26772,7 +26874,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 234000,
       "name": "Noor",
       "url": "https://open.spotify.com/track/7s2e7TAiZtmIJK72ETrRZX"
@@ -29188,7 +29290,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 277674,
       "name": "Pyar Nahi Karna Tha",
       "url": "https://open.spotify.com/track/2mOwldv4SGCvis9cf3Ls5p"
@@ -30716,6 +30818,36 @@
       "duration_ms": 168120,
       "name": "Rum Rum Rum",
       "url": "https://open.spotify.com/track/40WiRVYLt461xQM31KIbMc"
+    },
+    {
+      "album": {
+        "name": "Saadgi",
+        "url": "https://open.spotify.com/album/0exm7XO6qOjaoMe1t0QW8v"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Raees",
+          "url": "https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX"
+        },
+        {
+          "name": "Zain - Sam",
+          "url": "https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL"
+        },
+        {
+          "name": "Vikki Nagar",
+          "url": "https://open.spotify.com/artist/5tRdHbZDFNFrgX9ovVVivs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285104,
+      "name": "Saadgi",
+      "url": "https://open.spotify.com/track/79U7rOCKRIRE2p4G5A2phe"
     },
     {
       "album": {
@@ -33188,7 +33320,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186885,
       "name": "Sharab",
       "url": "https://open.spotify.com/track/3mQdiHyQieUsVbEuA7Vp7u"
@@ -36263,6 +36395,36 @@
     },
     {
       "album": {
+        "name": "Teri Umeed - Aaj Bhi",
+        "url": "https://open.spotify.com/album/7rlczJVWYyETpEPug2YKKi"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239410,
+      "name": "Teri Umeed - Aaj Bhi",
+      "url": "https://open.spotify.com/track/5pE1cy4IXmXlQWvxD94iLs"
+    },
+    {
+      "album": {
         "name": "Teri Yaad",
         "url": "https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH"
       },
@@ -38112,6 +38274,28 @@
       "duration_ms": 186279,
       "name": "Tu Mileeya",
       "url": "https://open.spotify.com/track/4gBjcUkn7Q6WYRKFpQPFTy"
+    },
+    {
+      "album": {
+        "name": "Tu Mileya",
+        "url": "https://open.spotify.com/album/2qG7b9E3cDSSncXO5nfjWC"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189096,
+      "name": "Tu Mileya",
+      "url": "https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ"
     },
     {
       "album": {
@@ -40248,6 +40432,36 @@
       "duration_ms": 222400,
       "name": "Woh Saat Din",
       "url": "https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV"
+    },
+    {
+      "album": {
+        "name": "Ya Baba",
+        "url": "https://open.spotify.com/album/4SO67qeMAkZ5gjhA01aE3X"
+      },
+      "artists": [
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Vayu",
+          "url": "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207117,
+      "name": "Ya Baba",
+      "url": "https://open.spotify.com/track/6PborYNjbcF3SVUvQF4D0O"
     },
     {
       "album": {

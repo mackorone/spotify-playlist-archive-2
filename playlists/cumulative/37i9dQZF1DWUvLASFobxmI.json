@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. ",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149508,
       "name": "Como Te Amo Yo",
       "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
@@ -3422,6 +3422,28 @@
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "album": {
+        "name": "Cuando Casi Te Olvidaba",
+        "url": "https://open.spotify.com/album/4PGMyJQt1WogvqSqFC7MkU"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "Grupo Sexta Edicion",
+          "url": "https://open.spotify.com/artist/3q1xEM5znESUmnQmVtWo6D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/03gfGBQM7VKXbjqU5bTCyX"
     },
     {
       "album": {
@@ -6315,6 +6337,32 @@
     },
     {
       "album": {
+        "name": "El Scrappy",
+        "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227551,
+      "name": "El Scrappy",
+      "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
+    },
+    {
+      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -7473,6 +7521,24 @@
     },
     {
       "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
+    },
+    {
+      "album": {
         "name": "Familia, Honor y Talento",
         "url": "https://open.spotify.com/album/5LoCbJU63mYBbG15Dohpid"
       },
@@ -7692,6 +7758,24 @@
       "duration_ms": 148504,
       "name": "Fondo de Pantalla",
       "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
+    },
+    {
+      "album": {
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
     },
     {
       "album": {
@@ -8438,7 +8522,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 197866,
       "name": "Hoy La Vi Pasar",
       "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
@@ -9271,6 +9355,24 @@
     },
     {
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "La Formula",
+      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
+    },
+    {
+      "album": {
         "name": "La Gata Bajo La Lluvia",
         "url": "https://open.spotify.com/album/3Zg03daN63SxyWwpwR2GwE"
       },
@@ -9521,6 +9623,32 @@
     },
     {
       "album": {
+        "name": "La Misma Luna",
+        "url": "https://open.spotify.com/album/0w037cfpmRPjSwdQObdHRw"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        },
+        {
+          "name": "Conjunto Indestructible",
+          "url": "https://open.spotify.com/artist/5F0ur90jmrob46NKTHjL1X"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146619,
+      "name": "La Misma Luna",
+      "url": "https://open.spotify.com/track/0vLakhyglDq1r7w9DENgXR"
+    },
+    {
+      "album": {
         "name": "La Mochila",
         "url": "https://open.spotify.com/album/2Mb6ZNqUEcRRJUrqub0qpG"
       },
@@ -9684,7 +9812,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178090,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/2qmUxCaT4RjLzaZSyTaWbW"
@@ -10238,7 +10366,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 217650,
       "name": "Legado Beltran",
       "url": "https://open.spotify.com/track/0dp7E6LpxJWfAfGpJKq72m"
@@ -13018,7 +13146,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 188657,
       "name": "No Soy Vegano",
       "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
@@ -13532,6 +13660,28 @@
       "duration_ms": 164210,
       "name": "Pa Que",
       "url": "https://open.spotify.com/track/5AAbD7ELBbHhr8FpqoyS2O"
+    },
+    {
+      "album": {
+        "name": "Pa Que Me Sirve La Vida",
+        "url": "https://open.spotify.com/album/7pDJvVjAgNEUqXfeZEhn4S"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Gonz\u00e1lez El Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0"
+        },
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174562,
+      "name": "Pa Que Me Sirve La Vida",
+      "url": "https://open.spotify.com/track/07MNJQ0BE9oZUuVLV7wCvS"
     },
     {
       "album": {
@@ -15418,7 +15568,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 166533,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/1nWaxwXMkjqfsVCP1T8dtq"
@@ -16960,7 +17110,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177600,
       "name": "Te Cura El Tiempo",
       "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
@@ -18168,10 +18318,28 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 203276,
       "name": "Uno Pal Otro",
       "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+    },
+    {
+      "album": {
+        "name": "VACAS FLACAS",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216288,
+      "name": "VACAS FLACAS",
+      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
     },
     {
       "album": {

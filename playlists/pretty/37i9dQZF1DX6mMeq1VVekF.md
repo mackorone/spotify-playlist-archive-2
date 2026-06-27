@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,739 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,740 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 23 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 |
 | 24 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
 | 25 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
-| 26 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
-| 27 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
+| 26 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
+| 27 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
 | 28 | [play \(feat\. kamasi washington\)](https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 2:10 |
 | 29 | [All My Life](https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [All My Life](https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz) | 3:07 |
 | 30 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 53 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
 | 54 | [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 |
 | 55 | [Sunshine On Catford](https://open.spotify.com/track/6EWH3LNszyqxW9eo6PdByl) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Self Titled](https://open.spotify.com/album/4yRTZSqafx7hhRELaOHU4o) | 3:10 |
-| 56 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
-| 57 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
+| 56 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
+| 57 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
 | 58 | [AppleBottomCigarets](https://open.spotify.com/track/642SEZ5hpoVs5TAg5hTadC) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [AppleBottomCigarets](https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1) | 2:26 |
 | 59 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
 | 60 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,465 songs - 3 day 10 hr 56 min
+1,466 songs - 3 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-19 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-13 |  |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2025-04-27 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2025-04-27 | 2026-06-27 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-10-21 |
 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 | 2022-10-06 | 2022-10-08 |
 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 | 2023-10-28 | 2023-10-30 |
@@ -645,6 +645,7 @@
 | [אבא אבא אבא](https://open.spotify.com/track/3ywRHRZM1OHj57zehAYnz0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:44 | 2026-02-20 | 2026-02-28 |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 3:52 | 2022-05-05 | 2023-04-28 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
+| [אבי הטחול](https://open.spotify.com/track/0rVTBbyS7Etl0lI3bpwo0h) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [אבי הטחול](https://open.spotify.com/album/0tENdDkqnV0PiD6OYmn5f3) | 3:31 | 2026-06-26 |  |
 | [אביצ'י](https://open.spotify.com/track/4DAwc04XQCOGDDHZ6trCbK) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [אופוריה](https://open.spotify.com/album/7bukWWwRd94p8xLUyNXhVs) | 3:08 | 2026-06-06 |  |
 | [אגרוף](https://open.spotify.com/track/5liIuoKq6hJZOheB95eTCt) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:09 | 2025-09-24 | 2025-12-19 |
 | [אדם שבור](https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אדם שבור](https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F) | 3:30 | 2026-01-15 | 2026-02-21 |
@@ -749,7 +750,7 @@
 | [אני חוזר](https://open.spotify.com/track/0D9A15ZzO3VzLIYqOfm6QB) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [לחזור הביתה](https://open.spotify.com/album/5DpY1nWjxRmf3E0AbrG7po) | 3:17 | 2024-07-20 | 2026-05-28 |
 | [אני כבר לא בך](https://open.spotify.com/track/6J8hw9Lcrp3zxk9J7s5RmH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אני כבר לא בך](https://open.spotify.com/album/36lM0F38dXFsNgGKwQ3Cde) | 2:57 | 2021-12-24 | 2022-01-23 |
 | [אני לא מפסיק להתרגש ממך](https://open.spotify.com/track/4rQOpu34WFMZFGaoHcO8d0) | [Danny Robas](https://open.spotify.com/artist/72UMGUwvrkXSesefytfLWy) | [נוסע על כביש מהיר \(הופעה חיה\)](https://open.spotify.com/album/7fUo9SEuJ1CXfN5HEzKp2S) | 3:32 | 2024-11-10 | 2024-11-12 |
-| [אני מסתובב](https://open.spotify.com/track/7362lWsAM9fv1ZF3tjNG1K) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 2:47 | 2025-07-12 |  |
+| [אני מסתובב](https://open.spotify.com/track/7362lWsAM9fv1ZF3tjNG1K) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 2:47 | 2025-07-12 | 2026-06-27 |
 | [אני פה](https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 2:07 | 2023-02-10 | 2024-09-29 |
 | [אני רוצה](https://open.spotify.com/track/31SS0bQEQ9z7rJwLqiJCDr) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [זוכר כמעט הכל](https://open.spotify.com/album/7pCmKsaPbMIcqoRPKo8PHm) | 3:27 | 2024-01-10 | 2024-01-12 |
 | [אני רוצה עוד אהבה](https://open.spotify.com/track/02k88ntKmaWSOjkCRADZMf) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אוגוסט דאמפ](https://open.spotify.com/album/4iWiYzhVxoPbLFk8ROV5Bj) | 3:19 | 2025-08-05 | 2025-08-10 |
@@ -1202,7 +1203,7 @@
 | [נאסף תשרי \(מת אב ומת אלול\)](https://open.spotify.com/track/7IWtwb4ffSlxcyWeq4XIok) | [Svika Pick](https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe) | [מוסיקה](https://open.spotify.com/album/528cpz61Bp02KfZ7ybRQvf) | 6:01 | 2022-08-16 | 2022-08-18 |
 | [נגמר](https://open.spotify.com/track/2Yfd4lEjv3Ah7lLHEAYX50) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/3VGHfCuv4ExmHvYcYdrHlm) | 4:19 | 2022-05-05 | 2026-04-24 |
 | [נגמר](https://open.spotify.com/track/2kQmLi3MUrTkj3E4eICpt1) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [בזמן האחרון](https://open.spotify.com/album/0KKNhG6aIUh1TNpMsOzWks) | 4:19 | 2021-04-16 | 2021-04-17 |
-| [נגנב ממך](https://open.spotify.com/track/05iw1Zb7Lp5DNUSvDhBRk6) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [שובר במות](https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU) | 4:11 | 2025-08-31 | 2026-06-26 |
+| [נגנב ממך](https://open.spotify.com/track/05iw1Zb7Lp5DNUSvDhBRk6) | [Full Trunk](https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [שובר במות](https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU) | 4:11 | 2025-08-31 |  |
 | [נדנדה](https://open.spotify.com/track/66JEjmHsZhMitzs8X4t4Dc) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 3:08 | 2026-05-18 | 2026-06-11 |
 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-01-17 | 2024-01-26 |
 | [נווה הדרים](https://open.spotify.com/track/3E8a4zr8OUM4MIU7t9SGI7) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [נווה הדרים](https://open.spotify.com/album/2NMpP0JNrgwYP7qyqJ26ne) | 3:11 | 2026-05-07 |  |

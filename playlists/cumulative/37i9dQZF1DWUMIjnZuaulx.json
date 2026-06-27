@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Tasha Cobbs Leonard",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Jonathan Nelson",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -6058,6 +6058,32 @@
     {
       "album": {
         "name": "Holy",
+        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380453,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
+    },
+    {
+      "album": {
+        "name": "Holy",
         "url": "https://open.spotify.com/album/0NjhvTxWjm6UViF7ehGoij"
       },
       "artists": [
@@ -6936,7 +6962,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 346056,
       "name": "I Was Made To Glorify Your Name",
       "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
@@ -11538,7 +11564,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 196717,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/7AiabojYVisnAHVr1JwDev"
@@ -15558,6 +15584,28 @@
       "duration_ms": 221915,
       "name": "When I Pray",
       "url": "https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt"
+    },
+    {
+      "album": {
+        "name": "When I Think (I Thank) [Live]",
+        "url": "https://open.spotify.com/album/4gGzUYY1vp9JrYMfJPIZWh"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Pamela Westbrook",
+          "url": "https://open.spotify.com/artist/0luHqzeHAIGzFqrHeFN9ZD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478013,
+      "name": "When I Think (I Thank) [feat. Pamela Westbrook] - Live",
+      "url": "https://open.spotify.com/track/4E32e0xuwmC7CEpgdlOywx"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc)
 
-> I didn’t do my makeup just to cry!<br/>chloe moriondo on the cover.
+> When you're a bop, but you're sad
 
-626 songs - 1 day 11 hr 3 min
+628 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Lit The Fire](https://open.spotify.com/track/1QC3Hy30xDloQAF8yVkPYR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Ralph](https://open.spotify.com/album/7fvhLoXyMHDrob2ceCfytA) | 2:50 | 2019-06-01 | 2021-05-28 |
 | [Little White Lies](https://open.spotify.com/track/6XUscCqVIKxsRKtIQeDuts) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Little White Lies \- EP](https://open.spotify.com/album/1YnCZg48VNqJKeFhzcZXOA) | 3:03 | 2019-07-28 | 2019-08-10 |
 | [Lonely Beat](https://open.spotify.com/track/5mdgcqfSqwbQfzRCw9lO4j) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Lonely Beat](https://open.spotify.com/album/3yyy2ZGtSeVxP9nyw2TL9v) | 2:53 | 2021-12-17 | 2021-12-21 |
-| [Looking for Love](https://open.spotify.com/track/2mnpxgYxvU3cx8EQtY8cuU) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm) | 3:17 | 2024-06-14 |  |
+| [Looking for Love](https://open.spotify.com/track/2mnpxgYxvU3cx8EQtY8cuU) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [The Lost Ones](https://open.spotify.com/album/67vln5FBToyFmc5IML4aSm) | 3:17 | 2024-06-14 | 2026-06-27 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2021-10-23 | 2024-08-24 |
 | [Losing Game \(feat\. ALY\)](https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ALY](https://open.spotify.com/artist/7zVXJ9gnmh8fr40va63ujD) | [Losing Game \(feat\. ALY\)](https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG) | 2:38 | 2022-03-25 | 2022-04-21 |
 | [Losing You](https://open.spotify.com/track/1AY7xcMNSEoX1GQJcKb6kV) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/5zn3NnRE1Z547Hj3EIVODf) | 4:20 | 2019-07-27 | 2019-08-05 |
@@ -442,6 +442,7 @@
 | [Reminds Me](https://open.spotify.com/track/4KNlASXNNrYYmNZj4KG8qX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/39YqiiIeV7BjNSZEggvI0F) | 2:37 | 2020-02-14 | 2021-10-23 |
 | [Reminds Me Of You](https://open.spotify.com/track/5YSHygGN9D0mID1NsVd5my) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Reminds Me Of You](https://open.spotify.com/album/16ilcI6xOgSh3Jd3bxF6MI) | 2:38 | 2021-01-08 | 2021-10-02 |
 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 | 2025-10-10 | 2026-04-04 |
+| [rewrite](https://open.spotify.com/track/555f2FXKrip1OyXSMKURlS) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [darling, darling](https://open.spotify.com/album/0ImFz7IdveBPqcsKL2I02W) | 3:26 | 2026-06-26 |  |
 | [Right Hand Man](https://open.spotify.com/track/7y55jveNYMyVqBQNRUdZme) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Right Hand Man](https://open.spotify.com/album/7M2wRKrfmi8pyjrqdFR8Ih) | 3:25 | 2025-11-18 |  |
 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 | 2024-08-23 | 2025-07-01 |
 | [rubberband](https://open.spotify.com/track/2E8IlL26PwtZq7CqAHBBUw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:27 | 2024-01-22 | 2024-04-19 |
@@ -462,6 +463,7 @@
 | [Sad Together](https://open.spotify.com/track/586bDV7NhZOAfjMdER1cYc) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [The Results Of My Poor Judgement](https://open.spotify.com/album/0qXVEBzNL34X3NgqmI8hH4) | 2:50 | 2020-02-13 | 2022-06-02 |
 | [Sad Tonight](https://open.spotify.com/track/1X8mgsS7R6lcKLjDPeQWum) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/3vlDmQ83joVKRD13pq8GhP) | 2:59 | 2020-01-19 | 2022-05-27 |
 | [Same Again \(For Love\)](https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Same Again \(For Love\)](https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR) | 3:19 | 2023-06-16 | 2025-06-25 |
+| [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 | 2026-06-26 |  |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2022-01-27 |  |
 | [Say Something Loving](https://open.spotify.com/track/728zbo72kOoYdGR3AhNsyF) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/2PXy9USZAoTSdtrxfkPBnl) | 3:58 | 2019-07-30 | 2020-08-07 |
 | [Say You Love Me \- Shura Remix](https://open.spotify.com/track/2s2lBXFmlUgB7Shmi2ZgGr) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Say You Love Me \(Remixes\)](https://open.spotify.com/album/2iHpwDCnvcoItzxYa8RCGc) | 4:12 | 2019-07-27 | 2019-08-10 |
@@ -599,7 +601,7 @@
 | [We Find Love](https://open.spotify.com/track/1TPLsNVlofwX1txcE9gZZF) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:14 | 2019-05-26\* | 2021-07-30 |
 | [Weekends](https://open.spotify.com/track/5x748P8u1DkAIbquBuYOjm) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/2HoOxD1R1cjXwJJzerB0Jc) | 3:20 | 2023-02-07 | 2023-02-25 |
 | [well…](https://open.spotify.com/track/3fp8Zt7cjlnH6E44VTiCgI) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:24 | 2022-07-31 | 2022-09-03 |
-| [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2024-01-26 |  |
+| [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2024-01-26 | 2026-06-27 |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-06-09 |  |
 | [What A Waste](https://open.spotify.com/track/51PlFhgkrZ4JKJzd1iz0aE) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [What A Waste](https://open.spotify.com/album/0bXYmiK8ZbpqPmXAbj7lmO) | 2:39 | 2025-05-27 |  |
 | [What A Waste](https://open.spotify.com/track/7kGIXHL97P3bVy3Wh997ZA) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [What A Waste](https://open.spotify.com/album/4ydBNpc9b94VSX2VizYfRW) | 3:13 | 2021-08-22 | 2021-10-27 |

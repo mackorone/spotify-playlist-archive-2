@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,131 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,134 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 39 | [Mina Chavosa](https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Diabelsmusic](https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA) | [Mina Chavosa](https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ) | 3:37 |
 | 40 | [Um Novo Tom](https://open.spotify.com/track/3uyXq1Y4zSy93mZI2iv8vL) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Um Novo Tom](https://open.spotify.com/album/11hngtRtwhsb9KDuQB3Rf1) | 4:50 |
 | 41 | [Pq a Policia Smp Acaba Com a Festa?](https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:25 |
-| 42 | [MAMA](https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 2:45 |
-| 43 | [7 Ruas](https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 2:00 |
+| 42 | [7 Ruas](https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 2:00 |
+| 43 | [MAMA](https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 2:45 |
 | 44 | [OK](https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [OK](https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq) | 2:09 |
 | 45 | [Mil e uma Treta](https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 1:58 |
 | 46 | [Aju](https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 2:33 |
 
-Snapshot ID: `ajseAAAAAABOgmsOiyrJccTWkcYsBprO`
+Snapshot ID: `ajxvgAAAAAA7jQPUnVsdupzqaHc47jxh`

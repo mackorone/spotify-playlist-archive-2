@@ -1,13 +1,109 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from feeble little horse",
-  "num_followers": 805598,
+  "description": "Explore all things indie rock right now. Featuring music from This Is Lorelei",
+  "num_followers": 805567,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+ZhJeljsONOjo2deC790n48AaI",
+  "snapshot_id": "AAAAAEw0TPa/2Df+kYT+PsFT5HK/yIt1",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/6A5kz0EFCFBf9gXNgddAOo"
+      },
+      "artists": [
+        {
+          "name": "Porch Light",
+          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/2JuuDTjgN7FkR6p0QxOuTw"
+    },
+    {
+      "added_at": "2026-06-26 04:01:46",
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/7dRTgpXhKLpFfL3suMrwep"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 213395,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/53oAPCPAZlaMGGKqDnrL5D"
+    },
     {
       "added_at": "2026-06-19 04:01:45",
       "album": {
@@ -135,22 +231,6 @@
       "duration_ms": 192026,
       "name": "Heart Has To Work So Hard",
       "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
-    },
-    {
-      "added_at": "2026-06-19 04:01:45",
-      "album": {
-        "name": "2 C U",
-        "url": "https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 139159,
-      "name": "2 C U",
-      "url": "https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM"
     },
     {
       "added_at": "2026-06-19 04:01:45",
@@ -827,22 +907,6 @@
       "duration_ms": 206137,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
-    },
-    {
-      "added_at": "2026-06-19 04:01:45",
-      "album": {
-        "name": "I Know!",
-        "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 214304,
-      "name": "I Know!",
-      "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
     },
     {
       "added_at": "2026-06-19 04:01:45",

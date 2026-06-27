@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34682,
+  "num_followers": 34691,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gaslini",
-          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cio che e' scritto nel vento",
-      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Musica Nuda - My Favorite Tunes",
         "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
+        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gaslini",
+          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cio che e' scritto nel vento",
+      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Sogni",
+        "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
+      },
+      "artists": [
+        {
+          "name": "I PATAGARRI",
+          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
+        }
+      ],
+      "duration_ms": 154223,
+      "name": "Sogni",
+      "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -859,22 +875,6 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "Sogni",
-        "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
-      },
-      "artists": [
-        {
-          "name": "I PATAGARRI",
-          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
-        }
-      ],
-      "duration_ms": 154223,
-      "name": "Sogni",
-      "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "La ragazza dalla pelle di luna",
-        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
-      },
-      "artists": [
-        {
-          "name": "Piero Umiliani",
-          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
-        }
-      ],
-      "duration_ms": 175047,
-      "name": "Stella del sud",
-      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Amalia Gr\u00e8",
         "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+        "name": "La ragazza dalla pelle di luna",
+        "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
       },
       "artists": [
         {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+          "name": "Piero Umiliani",
+          "url": "https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk"
         }
       ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
+      "duration_ms": 175047,
+      "name": "Stella del sud",
+      "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 244000,
       "name": "Long John Silver",
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1091,22 +1107,6 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1323,30 +1323,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Trama Latina",
-        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "David Linx",
-          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
-        },
-        {
-          "name": "Gustavo Beytelmann",
-          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
-        }
-      ],
-      "duration_ms": 370960,
-      "name": "chiquil\u00edn de bach\u00edn",
-      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1371,6 +1347,30 @@
       "duration_ms": 278773,
       "name": "Musica e Fumo",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Trama Latina",
+        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "David Linx",
+          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
+        },
+        {
+          "name": "Gustavo Beytelmann",
+          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
+        }
+      ],
+      "duration_ms": 370960,
+      "name": "chiquil\u00edn de bach\u00edn",
+      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
+        "name": "Amore a prima vista",
+        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "Amore a prima vista - Bossa & Jazz Version",
+      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1551,22 +1571,18 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Amore a prima vista",
-        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
       "artists": [
         {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
         }
       ],
-      "duration_ms": 164246,
-      "name": "Amore a prima vista - Bossa & Jazz Version",
-      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1599,22 +1615,6 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-06-25 22:02:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ibzo2Gjliu.md) - [plain]
 
 > ¡Los éxitos pop de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,611 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,633 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

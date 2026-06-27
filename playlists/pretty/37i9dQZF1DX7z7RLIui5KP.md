@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Modest Chabari
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,924 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,926 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

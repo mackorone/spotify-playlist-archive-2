@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 22950,
+  "num_followers": 22970,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACCsHG53Qya6guUt9/b8Yso",
+  "snapshot_id": "ajxvgAAAAABzhSjivbC/LfA2X7oZXSzg",
   "tracks": [
     {
       "added_at": null,
@@ -314,15 +314,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 307565,
-      "name": "EN MI MUNDO",
-      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
+      "duration_ms": 195334,
+      "name": "0 SENTIMIENTOS",
+      "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
     },
     {
       "added_at": null,
@@ -390,11 +386,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 195334,
-      "name": "0 SENTIMIENTOS",
-      "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
+      "duration_ms": 307565,
+      "name": "EN MI MUNDO",
+      "url": "https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL"
     },
     {
       "added_at": null,

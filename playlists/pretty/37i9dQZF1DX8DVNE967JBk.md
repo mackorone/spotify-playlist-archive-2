@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DVNE967JBk.md) - [plain]
 
 > Come join in on the fun this summer with the top hits from Disneyland Resort.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,574 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,666 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

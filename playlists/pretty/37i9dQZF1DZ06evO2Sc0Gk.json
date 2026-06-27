@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21409,
+  "num_followers": 21411,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABU46VhrOwj3xzo4c+PnTWg",
+  "snapshot_id": "ajxvgAAAAADNMUff/d4ZH5WfuSECs0ER",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin Tight",
-        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Efya",
-          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Skin Tight",
-      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance For Me (Eugy X Mr Eazi)",
         "url": "https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 204173,
       "name": "Dance For Me (Eugy X Mr Eazi)",
       "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skin Tight",
+        "url": "https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Efya",
+          "url": "https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Skin Tight",
+      "url": "https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3"
     },
     {
       "added_at": null,
@@ -215,26 +215,6 @@
       "duration_ms": 214253,
       "name": "Bad Vibe",
       "url": "https://open.spotify.com/track/70eehEqNug7oAhozjhG21t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 117389,
-      "name": "No. 1 Fan",
-      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
     },
     {
       "added_at": null,
@@ -287,6 +267,26 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 117389,
+      "name": "No. 1 Fan",
+      "url": "https://open.spotify.com/track/08Nq5kTcYSrrHm19bAD0UJ"
     },
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
       },
       "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 110882,
-      "name": "Baby I'm Still Jealous",
-      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
+      "duration_ms": 119290,
+      "name": "Saudi Arabia",
+      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu"
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
       },
       "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 119290,
-      "name": "Saudi Arabia",
-      "url": "https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb"
+      "duration_ms": 110882,
+      "name": "Baby I'm Still Jealous",
+      "url": "https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 144611,
-      "name": "Mad Ting",
-      "url": "https://open.spotify.com/track/5bssIfMnxCQf5ceNoeuz6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sample You (Remix)",
         "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 213812,
       "name": "Sample You - Remix",
       "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 144611,
+      "name": "Mad Ting",
+      "url": "https://open.spotify.com/track/5bssIfMnxCQf5ceNoeuz6z"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sans toi",
-        "url": "https://open.spotify.com/album/2JfDgtNtA8C5cJxGmk3AWQ"
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0"
       },
       "artists": [
         {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        },
-        {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
         }
       ],
-      "duration_ms": 174522,
-      "name": "Sans toi",
-      "url": "https://open.spotify.com/track/6vwT9bo2J64io4l5wd1YFG"
+      "duration_ms": 218230,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
     }
   ],
   "unique_name": "This Is Mr Eazi",

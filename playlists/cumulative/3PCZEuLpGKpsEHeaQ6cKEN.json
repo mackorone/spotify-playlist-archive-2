@@ -38593,6 +38593,32 @@
     },
     {
       "album": {
+        "name": "Waterman (Bam Bam)",
+        "url": "https://open.spotify.com/album/0mbzwi3dnpIaRghWdsdVZy"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Olav Basoski",
+          "url": "https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157092,
+      "name": "Waterman (Bam Bam)",
+      "url": "https://open.spotify.com/track/272CgbRaq1yXCtTGg6qaHk"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE"
       },

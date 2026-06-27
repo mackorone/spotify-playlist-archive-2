@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,479 likes - 69 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,498 likes - 69 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 68 | [Spectre](https://open.spotify.com/track/4uprTwbuSCx0IZtdlGMBlz) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu) | [Spectre](https://open.spotify.com/album/2zTU3Ei4wiPCGoZPaOmNV7) | 6:46 |
 | 69 | [Manuwe](https://open.spotify.com/track/4FP5sFOVt6J0V3Oc0eu7U0) | [Afriindi](https://open.spotify.com/artist/6j7mWAsDiZmbhmOYqHGMYb), [Jayden Alva](https://open.spotify.com/artist/3LibPAKhzp3GAFK0HfuvAD), [Soul Star](https://open.spotify.com/artist/3hOsGdLoINDweQrMm2tjZy) | [Manuwe](https://open.spotify.com/album/0zXDrtn1h40y47F5fF65L8) | 5:02 |
 
-Snapshot ID: `AAAAANSXkLnbdEZISF1u582aBFTomJR9`
+Snapshot ID: `AAAAAIufa+dEj+bg9620e+2i06zQ1Bdv`

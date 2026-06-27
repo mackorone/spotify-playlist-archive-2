@@ -179,6 +179,42 @@
     },
     {
       "album": {
+        "name": "Alleluia",
+        "url": "https://open.spotify.com/album/16XXBUoWFZSZAA29sDLAPy"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209913,
+      "name": "Alleluia - Radio Version",
+      "url": "https://open.spotify.com/track/7fVwB1a0nAl0s6Itwj2wIY"
+    },
+    {
+      "album": {
+        "name": "The Hymns (Spotify Version)",
+        "url": "https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
+    },
+    {
+      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
       },
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 442264,
       "name": "Trust In God (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 329440,
       "name": "Worthy Of It All - Live",
       "url": "https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2"

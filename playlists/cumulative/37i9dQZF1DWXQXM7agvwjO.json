@@ -15129,6 +15129,28 @@
     },
     {
       "album": {
+        "name": "Good Waves Island",
+        "url": "https://open.spotify.com/album/1qI6WrLnmtOHKCggLtslnC"
+      },
+      "artists": [
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        },
+        {
+          "name": "\u963f\u5f17\u5a04",
+          "url": "https://open.spotify.com/artist/45AmuWhASTkl17qmyearER"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216652,
+      "name": "Good Waves Island",
+      "url": "https://open.spotify.com/track/7qzY06e8kjU1EFakPvBP5E"
+    },
+    {
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/6Zc8CLJjA39qb1ghh6nspf"
       },
@@ -15588,7 +15610,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206291,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"

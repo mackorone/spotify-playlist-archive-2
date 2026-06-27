@@ -4,7 +4,7 @@
 
 > just trying our best
 
-2,819 songs - 5 day 21 hr 58 min
+2,820 songs - 5 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2335,6 +2335,7 @@
 | [stupid lover girl](https://open.spotify.com/track/0BKaNg5jU8cnRhK19T4fku) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [stupid lover girl](https://open.spotify.com/album/05SvOyCXLOKLxGpdn6qeut) | 3:16 | 2025-11-28 | 2026-03-14 |
 | [Suburban Girl](https://open.spotify.com/track/2HsDGZOzNk0oDrqPiYAlT7) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Santa Fe...Suburban Girl](https://open.spotify.com/album/6nm1DJXk6zlofFc2oSOVLP) | 3:02 | 2019-05-26\* | 2019-08-13 |
 | [Suburbia](https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Suburbia](https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE) | 3:34 | 2026-06-26 |  |
+| [such a bitch!](https://open.spotify.com/track/7Lm7AfLMFfUF2dpBGrO2wW) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [such a bitch!](https://open.spotify.com/album/3zk1Kh3nRnLvQojJTtR5EA) | 2:53 | 2026-06-26 |  |
 | [Sucker](https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6) | [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt) | [Sucker](https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD) | 3:55 | 2026-03-13 |  |
 | [Suckerrr](https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Suckerrr](https://open.spotify.com/album/5DI7QnyXRavy0QriWNciyp) | 2:39 | 2026-01-16 | 2026-04-18 |
 | [sucks 4 u](https://open.spotify.com/track/75TJ9ufHDs6R45Wg8wOeEE) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [sucks 4 u](https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR) | 3:25 | 2019-06-15 | 2020-04-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Brandi Carlile",
+  "description": "Where roots meet what\u2019s next. Cover: Brandon Flowers",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 367080,
       "name": "A Friend Like You",
       "url": "https://open.spotify.com/track/2t0s7VqkEetNbUbyPyErHq"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 250666,
       "name": "Capital Letters",
       "url": "https://open.spotify.com/track/7zX4Dhx05emUyPUSEPwi8S"
@@ -2732,6 +2732,24 @@
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+    },
+    {
+      "album": {
+        "name": "Carolina Rain",
+        "url": "https://open.spotify.com/album/0wCYTR5q0kBkdXc8ROcXix"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "Carolina Rain",
+      "url": "https://open.spotify.com/track/7DLuMk0PrnTQt8BE3GK3WY"
     },
     {
       "album": {
@@ -3304,6 +3322,24 @@
       "duration_ms": 254260,
       "name": "Cons and Clowns",
       "url": "https://open.spotify.com/track/2ekZyfx35076vxQPlr2TKu"
+    },
+    {
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/7BwVhcBWK4kLU3QuGLcB1H"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/7tjogpYf166xdw7ECdf2QO"
     },
     {
       "album": {
@@ -8332,7 +8368,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 307339,
       "name": "If We Don't Try",
       "url": "https://open.spotify.com/track/1QcH0s1zMAfjlNNQypKxsw"
@@ -9666,7 +9702,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184383,
       "name": "Lonesome Dove",
       "url": "https://open.spotify.com/track/3ossErA68C3bYNofQgQDsB"
@@ -12400,6 +12436,24 @@
       "duration_ms": 169290,
       "name": "Plain Dealing",
       "url": "https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231351,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
     },
     {
       "album": {
@@ -17087,6 +17141,24 @@
     },
     {
       "album": {
+        "name": "New Ways to Lose",
+        "url": "https://open.spotify.com/album/5r4nL0rGw3L2yArw31GGLM"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181031,
+      "name": "Twin Flames",
+      "url": "https://open.spotify.com/track/0UnIR4LCjIHYNyUDCCnNa6"
+    },
+    {
+      "album": {
         "name": "Ugly Faces",
         "url": "https://open.spotify.com/album/5aXQePQNOHGepOiJOYUbV8"
       },
@@ -17667,6 +17739,24 @@
     },
     {
       "album": {
+        "name": "What Would I Do Without You",
+        "url": "https://open.spotify.com/album/4xpkymIOVlcCtBqczfTHrV"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "What Would I Do Without You",
+      "url": "https://open.spotify.com/track/3HcpEXMCAoqSEhx0zNuMzR"
+    },
+    {
+      "album": {
         "name": "JERRY JEFF",
         "url": "https://open.spotify.com/album/6UpH0BD46arNlmmefz6Tlu"
       },
@@ -17956,7 +18046,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 296380,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"

@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 58 min
+110 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [This Means War](https://open.spotify.com/track/7fZbJhgqvWdmqcviXkKsZe) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:37 | 2026-04-14 | 2026-04-19 |
 | [Tulane](https://open.spotify.com/track/47Q3gt6U0yCnnrUzpyvcHF) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 2:53 | 2025-03-08 | 2026-05-08 |
 | [Tulane](https://open.spotify.com/track/7eHhkn6a1MTFKw4NkY3V61) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa) | 2:53 | 2026-05-09 |  |
-| [Tush](https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 2:21 | 2025-03-08 |  |
+| [Tush](https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 2:21 | 2025-03-08 | 2026-06-27 |
+| [Tush](https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 2:21 | 2026-06-27 |  |
 | [Two Shots](https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Encore](https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51) | 2:50 | 2025-03-08 |  |
 | [Victim of Circumstance](https://open.spotify.com/track/1VGP4asQMmeyd1PHVFN54d) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:54 | 2025-03-08 | 2026-04-21 |
 | [Victim of Circumstance](https://open.spotify.com/track/1xLQkXYNUY4sequtLRmGYD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 2:54 | 2026-04-21 |  |

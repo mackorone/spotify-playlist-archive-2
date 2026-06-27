@@ -1,13 +1,169 @@
 {
-  "description": "New releases for the kids. Cover: Backstreet Boys",
-  "num_followers": 98400,
+  "description": "New releases for the kids. Cover: Laurie Berkner",
+  "num_followers": 98438,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGufdiESQXOwkB7T+NuMycKMLr04",
+  "snapshot_id": "AAAAADgqt1aSaazy4ZbELwWTqNbzvH+c",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Walking With The Penguins",
+        "url": "https://open.spotify.com/album/4qAWz3gB9U30JVd0HDN3fL"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "Put It In The Bag",
+      "url": "https://open.spotify.com/track/1bnJ3pCMIGvrhTQzj32iG2"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "There's A Rave In There",
+        "url": "https://open.spotify.com/album/0t1rvgtl7W3pSjFREmwP3H"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "duration_ms": 127521,
+      "name": "Teddy Bear Twist - Little Ted Turbo Mix",
+      "url": "https://open.spotify.com/track/7sUyKOfdXLjkJWzS5IelAY"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "The Smile Song (DJ Pon-3's Version)",
+        "url": "https://open.spotify.com/album/5uCLaf34OHpCgGB2YnFxS4"
+      },
+      "artists": [
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        },
+        {
+          "name": "DJ Pon-3",
+          "url": "https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen"
+        },
+        {
+          "name": "Mona Rue",
+          "url": "https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "The Smile Song - DJ Pon-3's Version",
+      "url": "https://open.spotify.com/track/2jGCgzzEYJYvEYyvz8loog"
+    },
+    {
+      "added_at": "2026-05-08 04:01:43",
+      "album": {
+        "name": "Sparkle!",
+        "url": "https://open.spotify.com/album/55q5eEBG6FWauedZhGGzRC"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 180006,
+      "name": "Sparkle!",
+      "url": "https://open.spotify.com/track/0HTS1PnNolqh6ERbVP2Dfl"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Mr. Golden Sun",
+        "url": "https://open.spotify.com/album/7wt6nsNHIU4T2igs3ptfan"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 142965,
+      "name": "Mr. Golden Sun",
+      "url": "https://open.spotify.com/track/4bpOGqcJ1nqwCbtVUTpKPe"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Born to Lead (from Hot Wheels Let's Race: Racing Anthems)",
+        "url": "https://open.spotify.com/album/7wyB0AOEgQlDTPm2clJ44J"
+      },
+      "artists": [
+        {
+          "name": "Hot Wheels",
+          "url": "https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 116657,
+      "name": "Born to Lead (from Hot Wheels Let's Race: Racing Anthems)",
+      "url": "https://open.spotify.com/track/7fpFX4RUvBCnfjvlh8npl1"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Duck, Duck, Groove: Sing Along Songs \u2013 Cuddle & Crawl Duck",
+        "url": "https://open.spotify.com/album/2KMWWSU3iKvbepFXk542jW"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 145034,
+      "name": "Baby Ducks Say Quack",
+      "url": "https://open.spotify.com/track/7I1ZbbyitSqYmHsnTywLiI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Thomas & Percy Learn About Cleaning",
+        "url": "https://open.spotify.com/album/2PUI92kl6qA29AKip8fNCs"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "Thomas & Percy Learn About Cleaning",
+      "url": "https://open.spotify.com/track/5XiFtvfsRei0wx7imHH6Yo"
+    },
     {
       "added_at": "2026-06-19 04:00:39",
       "album": {
@@ -1015,22 +1171,6 @@
       "duration_ms": 167000,
       "name": "This Is The Way We Build A Float - Songs From the Netflix Series",
       "url": "https://open.spotify.com/track/0EhvFemRiGSn5azqth5lkQ"
-    },
-    {
-      "added_at": "2026-05-08 04:01:43",
-      "album": {
-        "name": "Sparkle!",
-        "url": "https://open.spotify.com/album/55q5eEBG6FWauedZhGGzRC"
-      },
-      "artists": [
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 180006,
-      "name": "Sparkle!",
-      "url": "https://open.spotify.com/track/0HTS1PnNolqh6ERbVP2Dfl"
     },
     {
       "added_at": "2026-05-08 04:01:43",

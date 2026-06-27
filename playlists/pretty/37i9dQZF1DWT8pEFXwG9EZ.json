@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 192227,
+  "num_followers": 192240,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "One More Kiss, Dear",
+      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 267640,
       "name": "Musetta's Waltz",
       "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "One More Kiss, Dear",
-      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 584760,
-      "name": "Alfie's Theme - From \"Alfie\" Score",
-      "url": "https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Midnight in Paris (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 584760,
+      "name": "Alfie's Theme - From \"Alfie\" Score",
+      "url": "https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 120306,
       "name": "Born to Play",
       "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Bullitt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "Room \"26\"",
-      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -943,6 +927,22 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Bullitt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Room \"26\"",
+      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Knives Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
-      },
-      "artists": [
-        {
-          "name": "Nathan Johnson",
-          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
-        }
-      ],
-      "duration_ms": 107034,
-      "name": "The Thrombey Family Theme",
-      "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 36653,
       "name": "Joe's Lowdown Blues",
       "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Knives Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
+      },
+      "artists": [
+        {
+          "name": "Nathan Johnson",
+          "url": "https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1"
+        }
+      ],
+      "duration_ms": 107034,
+      "name": "The Thrombey Family Theme",
+      "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 152599,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/67cLEzjOg4zkiCzDrT5IIW"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1451,8 +1451,8 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
       },
       "artists": [
         {
@@ -1460,9 +1460,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
+      "duration_ms": 354674,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1531,8 +1531,8 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
       },
       "artists": [
         {
@@ -1540,9 +1540,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 354674,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": "2025-12-11 09:06:36",

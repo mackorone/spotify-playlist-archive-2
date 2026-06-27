@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "You Are Spring!",
+        "url": "https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276546,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
+    },
+    {
+      "album": {
         "name": "Goodnight Summerland",
         "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },

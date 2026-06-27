@@ -2,9 +2,9 @@
 
 ### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Graham Barham
+> A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Marshmello and Kelsea Ballerini
 
-528 songs - 1 day 2 hr 10 min
+530 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Almost There](https://open.spotify.com/track/4FcpNyq8OTtTHXqZVQ3WcD) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Almost There](https://open.spotify.com/album/5jG7OP3MTNwMOyQJjsw45B) | 2:40 | 2021-12-10 | 2022-02-26 |
 | [Always Never](https://open.spotify.com/track/6H5GSjYSsIJG9h7Fm8QeUg) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Always Never](https://open.spotify.com/album/52Wmo9nCaBjqE3GQYDFxcZ) | 3:03 | 2021-12-10 | 2023-02-02 |
 | [Anabelle](https://open.spotify.com/track/3FJapheyNIZg3W7bt1qpOa) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Anabelle](https://open.spotify.com/album/49vqjsIgu9xzPAiURWy4vc) | 3:06 | 2024-01-26 |  |
+| [Another Drink](https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Another Drink](https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2) | 2:33 | 2026-06-26 |  |
 | [Anything Cold](https://open.spotify.com/track/117hcZ2YVEjGHF5xCJJfMh) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/5tJ7Fi9rz7HnjhrOhOD6Lo) | 2:54 | 2022-03-11 | 2024-06-15 |
 | [Anything Cold](https://open.spotify.com/track/5wzzdPCvXvd7caNx6l5izX) | [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [Anything Cold](https://open.spotify.com/album/4Y6rVW06iicinF8IVZqGM4) | 2:54 | 2023-02-10 | 2024-04-19 |
 | [Around You](https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Around You](https://open.spotify.com/album/4xiADjut6p4Q6JaoZZ01tp) | 3:02 | 2022-05-20 | 2025-09-06 |
@@ -206,6 +207,7 @@
 | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/track/3Hj2VfZMpov5Z9KiKv22Cx) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Grow Up \(feat\. Blake Shelton\)](https://open.spotify.com/album/38uTO3DOjGERyVb9ug1R1U) | 3:38 | 2021-12-10 | 2022-06-04 |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-31 | 2022-07-02 |
 | [Happy](https://open.spotify.com/track/055RqRu1mNSgLCEyrj7b76) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Happy](https://open.spotify.com/album/0vuPBOaCaK0a6dhBFp3Ynz) | 3:10 | 2022-04-15 | 2024-06-15 |
+| [Hard Liquor](https://open.spotify.com/track/3X5AFec3grDuQGGjkdBjPT) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Hard Liquor](https://open.spotify.com/album/5vrWuDMShk9otf2NPFh8N5) | 2:40 | 2026-06-26 |  |
 | [Hate Me More](https://open.spotify.com/track/3eR9esizpZyvy4NBAiViZ6) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Hate Me More](https://open.spotify.com/album/75zEUdUGdIoRQDU5MXnzcj) | 2:40 | 2023-05-12 |  |
 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2022-06-10 | 2023-08-02 |
 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 | 2025-01-24 |  |

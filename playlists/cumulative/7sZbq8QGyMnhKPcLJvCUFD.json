@@ -16779,6 +16779,24 @@
     },
     {
       "album": {
+        "name": "Virtual Love 2001",
+        "url": "https://open.spotify.com/album/5BwxhyttmRLxlhhNH9uMKH"
+      },
+      "artists": [
+        {
+          "name": "L\u00d6VI",
+          "url": "https://open.spotify.com/artist/5Lr3MQJETTq3UnAjbx3n1R"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204412,
+      "name": "Virtual Love 2001",
+      "url": "https://open.spotify.com/track/6FJjFMrfGsiErxfi51uRqy"
+    },
+    {
+      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/1KIMzdcNaxOXmlCH63HR96"
       },

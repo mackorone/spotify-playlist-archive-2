@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-258 songs - 14 hr 36 min
+259 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Omnivium Dictus](https://open.spotify.com/track/3mbnCGI9AZJ9Bamb18Sgte) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Huvagen](https://open.spotify.com/artist/3ezX0M9Qa3nPqVj6jjttHr) | [Omnivium Dictus](https://open.spotify.com/album/2tgJB0lOKM7IoDb7IWnr2B) | 3:50 | 2026-01-30 |  |
 | [On The Line \- Estiva Club Mix](https://open.spotify.com/track/1mmvNvYV7JWOn6x0jbcIda) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [On The Line \(Estiva Club Mix\)](https://open.spotify.com/album/4HwHXGHkpgUyiD2t3Hqzzb) | 4:17 | 2025-07-11 | 2025-08-09 |
 | [One Life](https://open.spotify.com/track/17rWerFX9GOF8nqqQS04q6) | [Sanaz](https://open.spotify.com/artist/2pqPET98fPIYAp4cNxUx9h), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [One Life](https://open.spotify.com/album/4PjAkPgyJAWUmaVTny16W9) | 3:04 | 2025-07-11 |  |
+| [Only One](https://open.spotify.com/track/4mGWg0swxzA9C7HrjoiXYy) | [Lørean](https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4), [Tores\_flat](https://open.spotify.com/artist/6bhEMAX8dThfLq5PR77Mm4) | [Only One](https://open.spotify.com/album/0upGQAfzF6qEj0Kn4c8yRP) | 4:03 | 2026-06-26 |  |
 | [Over & Over](https://open.spotify.com/track/3EurOIa1yfkDfpfRmsGlBO) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Over & Over](https://open.spotify.com/album/0COzM2g4u6alqzJNinSpxF) | 2:28 | 2025-11-28 | 2026-02-28 |
 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-05 |  |
 | [Parlez\-Vous](https://open.spotify.com/track/0YmzGMlWrFakKlmQmpEN6m) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Parlez\-Vous](https://open.spotify.com/album/1IwDemhTcLaSqvyO3926jD) | 3:13 | 2025-07-11 |  |

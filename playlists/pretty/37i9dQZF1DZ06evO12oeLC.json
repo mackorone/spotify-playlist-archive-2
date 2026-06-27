@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAuthkmBeeZG91Hh4TApTib",
+  "snapshot_id": "ajxvgAAAAADhuU4l7LDRDTS3clRY0GjW",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1eCCKT1AdeurCcbTFxHPmq"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/2NWhaTgVW8RGF7yLoLoETg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*Me",
         "url": "https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH"
       },
@@ -299,6 +283,26 @@
       "duration_ms": 219082,
       "name": "I LOVE YOU",
       "url": "https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5xbEWVYh6xBdMyOxqOkqD9"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/26ivjFyAPRjNnhhZ1IbeAQ"
     },
     {
       "added_at": null,
@@ -503,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Kitchen EP",
-        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
-      },
-      "artists": [
-        {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La m\u00eame",
         "url": "https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I"
       },
@@ -559,6 +543,26 @@
       "duration_ms": 226680,
       "name": "5H",
       "url": "https://open.spotify.com/track/141nlMCqr45W3DJ7B6QyyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Kitchen EP",
+        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
+      },
+      "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
     },
     {
       "added_at": null,
@@ -659,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encore + pour de vrai",
-        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
       },
       "artists": [
-        {
-          "name": "Ichon",
-          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 183666,
-      "name": "+ M\u00e9lange",
-      "url": "https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y"
+      "duration_ms": 159484,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz"
     },
     {
       "added_at": null,
@@ -731,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noir",
-        "url": "https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB"
+        "name": "Encore + pour de vrai",
+        "url": "https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy"
       },
       "artists": [
+        {
+          "name": "Ichon",
+          "url": "https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 159484,
-      "name": "Noir",
-      "url": "https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz"
+      "duration_ms": 183666,
+      "name": "+ M\u00e9lange",
+      "url": "https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y"
     },
     {
       "added_at": null,
@@ -907,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drapeau blanc",
-        "url": "https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW"
+        "name": "Love Station",
+        "url": "https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9"
       },
       "artists": [
         {
-          "name": "Lord Esperanza",
-          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
         },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 184920,
-      "name": "Laisse aller (feat. Yseult)",
-      "url": "https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8"
+      "duration_ms": 182400,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt"
     }
   ],
   "unique_name": "This Is Yseult",

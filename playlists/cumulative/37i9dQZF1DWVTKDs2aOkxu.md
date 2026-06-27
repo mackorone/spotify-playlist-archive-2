@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Phoebe Bridgers
 
-1,036 songs - 2 day 13 hr 32 min
+1,038 songs - 2 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Big Bite](https://open.spotify.com/track/3kylx2hAIQALe9zQDCajFN) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [Big Bite](https://open.spotify.com/album/464fIAOLIx4pAfDIMjMztj) | 2:12 | 2026-04-16 | 2026-06-19 |
 | [Big Machine](https://open.spotify.com/track/64OQZBi3pOfJaoZH99yDis) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Big Machine](https://open.spotify.com/album/56svbyQy7C9Wr1Ul1hpCpS) | 2:56 | 2026-03-27 | 2026-05-22 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-05-02 |
+| [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 | 2026-06-26 |  |
 | [Billy Elliot](https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Billy Elliot / Alone In Cologne](https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o) | 3:11 | 2026-02-06 | 2026-05-01 |
 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 | 2024-10-07 | 2024-12-06 |
 | [Bitter Everyday](https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bitter Everyday](https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs) | 3:21 | 2025-08-21 | 2025-09-19 |
@@ -397,6 +398,7 @@
 | [Hardy \(feat\. Clairo\)](https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Hardy \(feat\. Clairo\)](https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE) | 3:53 | 2026-05-14 |  |
 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 | 2025-07-17 | 2025-09-05 |
 | [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:31 | 2025-07-31 | 2025-09-05 |
+| [Have You Tried Screaming?](https://open.spotify.com/track/7Kv7D56uIcwuWQkqSuz1ut) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Have You Tried Screaming?](https://open.spotify.com/album/6zr8GKj1JUnErvkGtnVrhC) | 3:03 | 2026-06-25 |  |
 | [haven't seen you in a while](https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [haven't seen you in a while](https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ) | 3:13 | 2026-04-16 | 2026-06-26 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-12 | 2024-12-13 |
 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 | 2026-05-21 | 2026-06-26 |
@@ -950,7 +952,6 @@
 | [Total euphoria](https://open.spotify.com/track/3yp3Hp8OzYV2IoSjYaoqff) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Total euphoria](https://open.spotify.com/album/4JDRogeVzmOCAaVtsdPpuv) | 4:30 | 2025-05-29 | 2025-08-01 |
 | [Total euphoria](https://open.spotify.com/track/5GHYjIrLwK4e7WTTZZcJt5) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:30 | 2025-12-19 | 2026-02-27 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2026-01-23 |
-| [Track 1](https://open.spotify.com/track/7Kv7D56uIcwuWQkqSuz1ut) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Have You Tried Screaming?](https://open.spotify.com/album/6zr8GKj1JUnErvkGtnVrhC) | 0:00 | 2026-06-25 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-06-05 |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-01 | 2025-06-27 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-03 | 2024-11-15 |
@@ -1023,6 +1024,7 @@
 | [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-06-27 | 2024-07-19 |
 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 | 2024-09-12 | 2024-11-01 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-06 | 2025-01-17 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 |  |
 | [Witching Hour](https://open.spotify.com/track/2wRv8M3xboX9UHlkyvpn8l) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Butterfly](https://open.spotify.com/album/3BB0xOQPvpn5Amjh3TFBfI) | 3:47 | 2026-03-20 | 2026-05-15 |
 | [Wolf River](https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Wolf River](https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx) | 3:41 | 2025-05-29 | 2025-08-08 |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-27 | 2024-09-21 |

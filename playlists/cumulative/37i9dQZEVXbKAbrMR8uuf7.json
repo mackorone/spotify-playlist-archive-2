@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 273423,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/3JXzauo7MlrtGocUdOTtdw"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -4684,7 +4684,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 131250,
       "name": "Bo de Bo de Bo",
       "url": "https://open.spotify.com/track/2zVbERV91MhiijUwQVLK3k"
@@ -6001,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "Caribe",
+        "url": "https://open.spotify.com/album/31E1Fl4YvwI1t9Qyhxhb87"
+      },
+      "artists": [
+        {
+          "name": "David Appleton",
+          "url": "https://open.spotify.com/artist/7KagVdHIz2wTVYXlQqb6jY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56737,
+      "name": "Caribe",
+      "url": "https://open.spotify.com/track/2Nwn3xBDa8YxhYCtPd1QXe"
+    },
+    {
+      "album": {
         "name": "Carita Triste",
         "url": "https://open.spotify.com/album/6ipSBgmJvZ22M4MPicp0W2"
       },
@@ -6394,7 +6412,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 122363,
       "name": "Chica Baila",
       "url": "https://open.spotify.com/track/0ayDGpeamuHKkx4H8qhJcX"
@@ -6962,7 +6980,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 143813,
       "name": "Colegiala - Afro House",
       "url": "https://open.spotify.com/track/2e1q4XTspTR4nGl4DykxA3"
@@ -12432,7 +12450,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186122,
       "name": "El Caribe",
       "url": "https://open.spotify.com/track/79ZzzqjxczfxAY0YeNKwb7"
@@ -12670,7 +12688,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 330919,
       "name": "El Jard\u00edn Prohibido",
       "url": "https://open.spotify.com/track/45LErG3Sq9sRdzQC8WSq3x"
@@ -25664,7 +25682,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 134032,
       "name": "Me Va, Me Va - Afro House",
       "url": "https://open.spotify.com/track/1bARDHcdYvvuG2DVMMFcUC"
@@ -27142,7 +27160,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 160000,
       "name": "MONTALE FT GANGGY",
       "url": "https://open.spotify.com/track/5Q05qXJPxDgKEmNQfnFVeI"
@@ -28380,7 +28398,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 151546,
       "name": "No me dejes ir",
       "url": "https://open.spotify.com/track/6R73o8VuP84xvaewDiRGER"
@@ -34000,7 +34018,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 250560,
       "name": "Que Se Mueran",
       "url": "https://open.spotify.com/track/7FrPSk0rZdCPR50pfzdzMK"
@@ -34370,7 +34388,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162142,
       "name": "Qu\u00e9 Cara M\u00e1s Bonita - Remix",
       "url": "https://open.spotify.com/track/2zUYLO4815vdU9m3obyBM7"
@@ -34844,7 +34862,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "Real",
       "url": "https://open.spotify.com/track/6ISYUzUuZlUpKkVHNHfUOV"

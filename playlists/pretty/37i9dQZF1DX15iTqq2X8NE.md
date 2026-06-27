@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,956 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,961 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 21 | [3bdo Mota](https://open.spotify.com/track/46uwZwCZk6K5VKBQhGoDNa) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [3bdo Mota](https://open.spotify.com/album/0JP5fr97ytUIM5IYzAzDw2) | 3:05 |
 | 22 | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/track/6epkYhfZvmAYz6dbAgP2Jw) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W), [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Sit Al Banat \(feat\. Sheme\)](https://open.spotify.com/album/7gwGg3MoOvIUPe0kQ4lonz) | 3:26 |
 | 23 | [TARAT ALTAYARA](https://open.spotify.com/track/50FN7D4vPEJCTzt7KXAyD1) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [TARAT ALTAYARA](https://open.spotify.com/album/4iMrkh6Bh24sQvhQ28uDbu) | 2:02 |
-| 24 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
-| 25 | [Kabasa](https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Kabasa](https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6) | 2:47 |
+| 24 | [Kabasa](https://open.spotify.com/track/3BWwZO7jEDkJDfEMkcu9VO) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Kabasa](https://open.spotify.com/album/3jzgvMVDu6OUaAyyd0IGC6) | 2:47 |
+| 25 | [Caribby](https://open.spotify.com/track/7L2S4kdbsp2NzM3Q3OjyKi) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Caribby](https://open.spotify.com/album/3IRiPrTMPVGt8QkIr2fOy6) | 2:16 |
 | 26 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
 | 27 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 |
 | 28 | [Bouquets \(Freestyle\)](https://open.spotify.com/track/4A52eJ2VD8d2wQxaH4ckMv) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [Bouquets \(Freestyle\)](https://open.spotify.com/album/6sqH8lc5qVrsvtRMJWcTtq) | 3:12 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 33 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 |
 | 34 | [مسامحك يا حبيبي](https://open.spotify.com/track/7EoJBZ8Gi0SL58cpWmw0e9) | [نانسي عجاج](https://open.spotify.com/artist/10eNNn6xl1vLRBIV7W8wYN) | [مسامحك يا حبيبي](https://open.spotify.com/album/6Fa6ccBtkKWYwlkJaEOc5k) | 6:56 |
 | 35 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
-| 36 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
-| 37 | [Herman](https://open.spotify.com/track/4zza6464stnHetdc4NOVZo) | [Abdel Karim Alkabli](https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD) | [Amir Al Oud Part 1](https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN) | 7:03 |
+| 36 | [Herman](https://open.spotify.com/track/4zza6464stnHetdc4NOVZo) | [Abdel Karim Alkabli](https://open.spotify.com/artist/6VESeB6Ehy0WZPLoIaMbCD) | [Amir Al Oud Part 1](https://open.spotify.com/album/5o0S5hIDn2PKf8g8zsvywN) | 7:03 |
+| 37 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
 | 38 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 |
 | 39 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 40 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 |

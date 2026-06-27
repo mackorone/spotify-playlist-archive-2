@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Rol3ert \(Japan\)
 
-2,666 songs - 6 day 18 hr 33 min
+2,667 songs - 6 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -810,6 +810,7 @@
 | [Good News](https://open.spotify.com/track/1yxfzybmAemgfZfBXMly2v) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc), [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Familiarise Yourself with Your Closest Exit](https://open.spotify.com/album/3o4Z0ilAUhqBdqby9lJftF) | 4:05 | 2022-03-24 | 2022-04-29 |
 | [Good Times](https://open.spotify.com/track/12upHAA95HQP1iRRqOOGZ4) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Good Times](https://open.spotify.com/album/4mTkEAZDd4xGZlFEfmROPz) | 3:13 | 2024-07-18 | 2024-09-06 |
 | [Good vibe](https://open.spotify.com/track/2sQd0HmrHWrLF0BY3br4AH) | [Ant Chan](https://open.spotify.com/artist/7kAosYOzDiSkn5LXfUSU0m) | [Backseat Driver](https://open.spotify.com/album/5Vh3EwjMySkJjUNkRAOxhm) | 2:50 | 2024-05-30 | 2024-06-14 |
+| [Good Waves Island](https://open.spotify.com/track/7qzY06e8kjU1EFakPvBP5E) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [阿弗娄](https://open.spotify.com/artist/45AmuWhASTkl17qmyearER) | [Good Waves Island](https://open.spotify.com/album/1qI6WrLnmtOHKCggLtslnC) | 3:36 | 2026-06-26 |  |
 | [Goodbye](https://open.spotify.com/track/1ZhKA4DSN58LzHmRFScj9Q) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Goodbye](https://open.spotify.com/album/6Zc8CLJjA39qb1ghh6nspf) | 3:15 | 2025-06-26 | 2025-08-29 |
 | [Goodbye Caroline](https://open.spotify.com/track/7DSVtzxNAs7OmCXU70sIUL) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [Goodbye Caroline](https://open.spotify.com/album/09VLOEVAEz7TFrREaw4983) | 4:11 | 2022-11-17 | 2023-01-13 |
 | [Goodbye Subtlety](https://open.spotify.com/track/22reehwhNHJvCvtU5Cy9Xy) | [Baby Combat](https://open.spotify.com/artist/0gtkGD5EAl3bRjhQJ83bsT) | [Goodbye Subtlety](https://open.spotify.com/album/0cAF5097w8S8hGHaUBTrpD) | 2:56 | 2024-12-12 | 2025-01-24 |
@@ -834,7 +835,7 @@
 | [Hallucination](https://open.spotify.com/track/2kjZ8lSoVz9AGRDAicIOLy) | [LUNACAT](https://open.spotify.com/artist/14bzN6jDizhJPVNoj8drIG) | [Hallucination](https://open.spotify.com/album/4Sab2c0rpeisHyKB7Jl8iI) | 3:43 | 2025-10-23 | 2026-02-06 |
 | [Halosphere](https://open.spotify.com/track/6C0EbKaOy6eU60CVQcmJwa) | [Robin Block](https://open.spotify.com/artist/3SbJnt1H6mhZwq18OwavfT), [Alfian Emir Adytia](https://open.spotify.com/artist/7ckzCiGZWG0uX83L5haBZL) | [Hello, Sun.](https://open.spotify.com/album/0JdvfBfmKfexBM5j0ylhfL) | 5:05 | 2026-05-15 |  |
 | [Han River Bike Ride](https://open.spotify.com/track/1XX818Dp8iGEjunMsd96zU) | [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [Han River Bike Ride](https://open.spotify.com/album/4UJ5runpjYeu65jNNBWoeN) | 3:31 | 2024-06-27 | 2024-07-19 |
-| [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 | 2026-04-16 |  |
+| [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 | 2026-04-16 | 2026-06-27 |
 | [HANSEL AND GRETEL](https://open.spotify.com/track/0Ixs4wUwlHockq5iO3zrLn) | [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q), [Hormone Boys](https://open.spotify.com/artist/7MR5iqnOtuXv9RMMMQbOIl) | [HANSEL AND GRETEL](https://open.spotify.com/album/3QoHlrglPtVHUcqJnr51mI) | 4:15 | 2024-04-25 | 2024-05-17 |
 | [Hanya Ada Kegelapan yang Menunggumu Di Sana](https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [Durja Bersahaja](https://open.spotify.com/album/3HL3eXVeW5G4gVRNQGVEwb) | 4:21 | 2024-07-11 | 2024-10-04 |
 | [Hanya Merindu](https://open.spotify.com/track/0o9ufiUcXqZs7jFJf42MHV) | [OJA Records](https://open.spotify.com/artist/3gI5NRSwnCDNtfSne6rDiY), [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Nirmana](https://open.spotify.com/album/0lH48lwbEe9TPgh6a7GObt) | 3:30 | 2025-05-01 | 2025-05-16 |

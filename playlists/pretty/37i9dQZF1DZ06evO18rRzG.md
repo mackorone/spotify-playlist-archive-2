@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 
 > This is Daniel Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,175 likes - 42 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,296 likes - 42 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,14 +17,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 | 7 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:38 |
 | 8 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 9 | [Emily’s Song](https://open.spotify.com/track/1tWZGEvn2MIs0knr5XMNWE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 2:54 |
-| 10 | [SUPERPOSITION \(feat\. John Mayer\)](https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 4:23 |
+| 10 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 |
 | 11 | [Hold Me Down](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 3:51 |
 | 12 | [Disillusioned \(with serpentwithfeet\)](https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:01 |
-| 13 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 |
-| 14 | [CYANIDE](https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 3:14 |
+| 13 | [SUPERPOSITION \(feat\. John Mayer\)](https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 4:23 |
+| 14 | [Streetcar](https://open.spotify.com/track/3m5rs2BeWjLUe0Ygc6aM7i) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa) | 4:06 |
 | 15 | [Loose](https://open.spotify.com/track/3xqWiKFFYF9Pv7H1nNoZFd) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 3:05 |
 | 16 | [Toronto 2014 \(with Mustafa\)](https://open.spotify.com/track/4t9R5rbtovdvya28uMODDz) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 4:37 |
-| 17 | [Streetcar](https://open.spotify.com/track/3m5rs2BeWjLUe0Ygc6aM7i) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Pilgrim's Paradise](https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa) | 4:06 |
+| 17 | [CYANIDE](https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 3:14 |
 | 18 | [Who Hurt You?](https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B) | 3:51 |
 | 19 | [Transform \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/1K6oXSGIexEyNnv2cS6vKr) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 4:40 |
 | 20 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18rRzG.md) - [plain]
 | 41 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
 | 42 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 
-Snapshot ID: `ajseAAAAAABX61qhXw1KBDAf3QVkFQYa`
+Snapshot ID: `ajxvgAAAAACdyYlCgw1vqNQV6t/S+L/K`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 30,822 likes - 45 songs - 2 hr 16 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 30,824 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 38 | [Golden](https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Golden \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2q4uMcogIfSvbjZevQTIDL) | 3:14 |
 | 39 | [NO HI HA PLA B](https://open.spotify.com/track/2Fbx71bXpVKKgn0Dycz9NE) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD) | [NO HI HA PLA B](https://open.spotify.com/album/4vPkiF2AkdmAN1IrZDY5eC) | 2:24 |
 | 40 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
-| 41 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 41 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 42 | [no sta mal](https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP) | [guillembautista](https://open.spotify.com/artist/4aMz9dbnuj9prr7EkFnf2r) | [no sta mal](https://open.spotify.com/album/1t4zSbwhZ0R4YWl3CxrgVg) | 2:29 |
 | 43 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 44 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 |

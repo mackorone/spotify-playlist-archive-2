@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 380638,
+  "num_followers": 380741,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACGWxpZprg395I7YoZWW1/C",
+  "snapshot_id": "ajxvgAAAAAB3wU4Pxv0335JjtRBbttD2",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 210826,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
+      "duration_ms": 204813,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 204813,
-      "name": "Second Best",
-      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
+      "duration_ms": 210826,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 239308,
       "name": "No One Knows (with Laufey)",
       "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Typical of Me EP",
-        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "James",
-      "url": "https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX"
     },
     {
       "added_at": null,

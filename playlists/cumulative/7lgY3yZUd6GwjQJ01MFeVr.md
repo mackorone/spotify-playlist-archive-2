@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-302 songs - 16 hr 13 min
+304 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Days of My Life](https://open.spotify.com/track/4Ana7sa1xkbWPMuLTITOjD) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Days of My Life](https://open.spotify.com/album/1M6RCsoo6Cq1yX3YpP93s5) | 3:28 | 2026-06-15 |  |
 | [Dead End Road](https://open.spotify.com/track/1unTSILv272aGjufNBJjQj) | [Jelly Roll](https://open.spotify.com/artist/1aJya6ffz7a0CLVG2nfYYm) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:32 | 2024-07-22 |  |
 | [Dear Miss](https://open.spotify.com/track/17epPYISlrms9BG2REiwi8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Dear Miss](https://open.spotify.com/album/2nrHsWBaEjB6f9fptB48cB) | 3:09 | 2025-02-13 | 2025-09-13 |
+| [Death Of Me](https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [The Tenth Album \(Side A\)](https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD) | 2:24 | 2026-06-26 |  |
 | [Deep Water](https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:33 | 2026-04-27 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-09 | 2025-05-06 |
 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-02 |  |
@@ -237,6 +238,7 @@
 | [Scared To Go To Church \(feat\. Jelly Roll\)](https://open.spotify.com/track/5QXBFo54iULa0kTzoGEDDu) | [Chris Ryan](https://open.spotify.com/artist/3RubIBfkC5ZJ2IKZYUEf70), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Scared To Go To Church \(feat\. Jelly Roll\)](https://open.spotify.com/album/5JrcD3LV31jS5egqUqkHBc) | 3:34 | 2023-12-08 | 2024-01-27 |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-26 | 2025-06-04 |
 | [She Don't Know](https://open.spotify.com/track/0zwpjxsT3JOIH4YKqVeBLz) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honkytonk Revival](https://open.spotify.com/album/6jycEDCkkqY5DVE0tZNFZ4) | 3:24 | 2025-09-25 |  |
+| [Shoot The Bull](https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 3:04 | 2026-06-26 |  |
 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 | 2023-12-08 | 2024-01-27 |
 | [So This Is What It's Like](https://open.spotify.com/track/3cXdgFWhLPrSde4ydBRSf1) | [Daniel Desorcy](https://open.spotify.com/artist/68LpmkWDNECkMEDS4wysRJ) | [So This Is What It's Like](https://open.spotify.com/album/1G3i86Exkgn8dWMtoTCOSJ) | 2:53 | 2023-12-08 | 2024-02-10 |
 | [Sober Sundays](https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Sober Sundays](https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ) | 4:10 | 2024-07-27 | 2024-11-02 |

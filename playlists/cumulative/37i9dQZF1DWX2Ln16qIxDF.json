@@ -4552,7 +4552,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 319746,
       "name": "Circular",
       "url": "https://open.spotify.com/track/69NLNjIbA3aNf1vOV0PLWT"
@@ -10399,7 +10399,7 @@
     },
     {
       "album": {
-        "name": "I Knew It, I Knew You",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
@@ -10412,7 +10412,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
@@ -12956,6 +12956,28 @@
       "duration_ms": 190432,
       "name": "LOS DEPURO (feat. L-Gante)",
       "url": "https://open.spotify.com/track/5IbmI5vcFPncZjrhQteGWl"
+    },
+    {
+      "album": {
+        "name": "LOS MALDITOS RKT",
+        "url": "https://open.spotify.com/album/5MpgcB3vbhZ2lhQErfHy4P"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145961,
+      "name": "LOS MALDITOS RKT",
+      "url": "https://open.spotify.com/track/54ur7hRqLC1vWAxmJ1cDhs"
     },
     {
       "album": {
@@ -19371,6 +19393,28 @@
     },
     {
       "album": {
+        "name": "Quieren Maleanteo",
+        "url": "https://open.spotify.com/album/53PjOvXOB58L0gr8qWUKI8"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252467,
+      "name": "Quieren Maleanteo",
+      "url": "https://open.spotify.com/track/3WUvlSsIPmY99DYGSLToQS"
+    },
+    {
+      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -20084,7 +20128,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -23224,7 +23268,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185658,
       "name": "Timelapse de Sol",
       "url": "https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu"
@@ -23484,6 +23528,28 @@
       "duration_ms": 129000,
       "name": "Todo vuelve",
       "url": "https://open.spotify.com/track/0kHIGN8HW6JFbFq8vlYBMM"
+    },
+    {
+      "album": {
+        "name": "Todos Locos",
+        "url": "https://open.spotify.com/album/4HSumIvijkc7wzBP4PUxu4"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "Todos Locos",
+      "url": "https://open.spotify.com/track/2YDQYFjfLaRdHz86RlKVTK"
     },
     {
       "album": {

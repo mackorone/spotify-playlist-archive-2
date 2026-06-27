@@ -4,7 +4,7 @@
 
 > sir prodige in cover della playlist con il futuro del rap italiano 📈
 
-2,506 songs - 4 day 9 hr 44 min
+2,506 songs - 4 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1039,6 +1039,7 @@
 | [Immigrato](https://open.spotify.com/track/322fNeq8hTL7PXlB5XL3tv) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r) | 3:39 | 2022-07-14 | 2022-08-26 |
 | [IMMORTALE](https://open.spotify.com/track/73s6ijGUtexqEJGGLii98h) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [IMMORTALE](https://open.spotify.com/album/1rNXdaVwiTiUNOv0ZD9CPv) | 3:35 | 2025-11-27 | 2025-12-12 |
 | [Immune](https://open.spotify.com/track/2m86wd66N4qWnuaCe0ZlLS) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7) | [Immune](https://open.spotify.com/album/0grjtbWGawKPIHUN3oHkqC) | 2:48 | 2026-03-05 | 2026-03-20 |
+| [imo](https://open.spotify.com/track/42pWbCeVlANwit1PGd9Hcv) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [paniko !](https://open.spotify.com/album/2ItzxQbgNDocUz9XRONBmG) | 2:01 | 2026-06-25 |  |
 | [Imo & Ino](https://open.spotify.com/track/06GYyg8rI65wt2Cwiu3iiF) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE) | [Imo & Ino](https://open.spotify.com/album/4f3dEwsqGtBbPrgZWCK4WP) | 2:35 | 2023-06-01 | 2023-06-16 |
 | [Impanata \(feat\. Low\-Red\)](https://open.spotify.com/track/471qBD5y74E8QMdJrh3O00) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [Ratchet City](https://open.spotify.com/album/5TF9W5MX0v9dvWfHlWp0WN) | 2:48 | 2025-03-20 | 2025-05-30 |
 | [Imparanoiato](https://open.spotify.com/track/2eToVvJmpHwRytSfnjmH8t) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [Best](https://open.spotify.com/album/2wz3HwAuXX6BYwAJTlS6d9) | 2:31 | 2026-02-19 | 2026-05-15 |
@@ -2159,6 +2160,7 @@
 | [STAY ON BARS \#2](https://open.spotify.com/track/6JeIBwJIeZ1iBrjFld2eoC) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [STAY ON BARS \#2](https://open.spotify.com/album/6vAz3atX9Q7htjQeXwqdmz) | 1:40 | 2024-07-11 | 2024-08-23 |
 | [STELLE](https://open.spotify.com/track/3pAng4b9P3quRYanWSyJ8P) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [STELLE](https://open.spotify.com/album/4MkLCuf0mZWR1w5mgaLad9) | 2:48 | 2022-12-15 | 2023-01-04 |
 | [Stellina](https://open.spotify.com/track/59ToSWwKmlwI6TIgZkw60M) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Stellina](https://open.spotify.com/album/5IKV5k9xXPyN1siJYoX3ku) | 3:02 | 2025-02-27 | 2025-04-18 |
+| [STEP 1 STEP 4](https://open.spotify.com/track/66IAjWe5Bv8XDUEPoGFiIj) | [4Hamza](https://open.spotify.com/artist/7CyhaxNiXYQzFFkxbk9ck7), [BROKEBUSTERZIKO](https://open.spotify.com/artist/5J87lHPNuFWeKrxplsNszg) | [B4](https://open.spotify.com/album/5xryYRjvPUKcl9PPfops04) | 1:52 | 2026-06-25 |  |
 | [step up](https://open.spotify.com/track/4IJ8wbfYg2iFKfSNXryT05) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/684uZkbeznQXV1qT9UcX9s) | 1:37 | 2025-07-17 | 2025-09-13 |
 | [STEPPIN](https://open.spotify.com/track/6N6COGpLrxBZWAJ9i2fVdI) | [BHG Rich](https://open.spotify.com/artist/0oQoakhuWlElIuMe2sZwrl) | [STEPPIN](https://open.spotify.com/album/6uBJv2z62xKlVnH3S6ZNlD) | 2:48 | 2024-09-12 | 2024-10-04 |
 | [STEPPIN' ON BITCHES](https://open.spotify.com/track/5LAb5zRgvQ26sc6wO0SCJu) | [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm), [Flaco](https://open.spotify.com/artist/44rWmNL2UHcKoDoVGkbaPE) | [STEPPIN' ON BITCHES](https://open.spotify.com/album/4ouy8EGY7i4t3aYM61wbo0) | 2:11 | 2023-05-18 | 2023-06-02 |
@@ -2288,8 +2290,6 @@
 | [TOXIC](https://open.spotify.com/track/1iqptdxYyCRi0Gwik6sH9L) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [EMOTIONAL DAMAGE](https://open.spotify.com/album/0KogfLFbZ5o4DackervXzB) | 2:49 | 2023-05-11 | 2023-05-26 |
 | [TR\*P](https://open.spotify.com/track/2l1OdCo3rv0Zgr7pYqKhD0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [TR\*P](https://open.spotify.com/album/2GNB3C5SBcUYn0ylMX4M5b) | 2:32 | 2024-02-22 | 2024-03-08 |
 | [tra parentesi](https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk) | [tra parentesi](https://open.spotify.com/album/1szcGWQ3Mgv5VZwxmobw66) | 1:58 | 2025-11-27 | 2025-12-12 |
-| [Track 3](https://open.spotify.com/track/42pWbCeVlANwit1PGd9Hcv) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [paniko !](https://open.spotify.com/album/2ItzxQbgNDocUz9XRONBmG) | 0:00 | 2026-06-25 |  |
-| [Track 5](https://open.spotify.com/track/66IAjWe5Bv8XDUEPoGFiIj) | [4Hamza](https://open.spotify.com/artist/7CyhaxNiXYQzFFkxbk9ck7) | [B4](https://open.spotify.com/album/5xryYRjvPUKcl9PPfops04) | 0:00 | 2026-06-25 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-24 | 2024-11-22 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-13 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2023-03-03 |

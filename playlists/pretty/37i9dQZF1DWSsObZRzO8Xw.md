@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Elephant Gym
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,827 likes - 130 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,881 likes - 130 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 19 | [Quiet](https://open.spotify.com/track/4llDF3RuBQYj2nkjTCJY4w) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 4:53 |
 | 20 | [Objets de Vertu](https://open.spotify.com/track/3ykYzbCnEmzzZfDrxSQQtK) | [The Omnific](https://open.spotify.com/artist/5yn8jrJH5Z5PaGFStNUvgR) | [Kismet](https://open.spotify.com/album/2wTmoV4HbOxx1l1a6nogAm) | 3:31 |
 | 21 | [Elm](https://open.spotify.com/track/3f27mtLKBWGcGC5VXbMNji) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
-| 22 | [Climbing a Wall](https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [Floral EP](https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr) | 3:39 |
+| 22 | [Electronic Girl](https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW) | [Chinese Football](https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk) | [Here comes a new challenger!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7) | 5:10 |
 | 23 | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/track/4KWDXp5vKg3P2hco4WxFE1) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [ascending faster than before \- ACT I : The Beginning](https://open.spotify.com/album/2ccIhRAvomOmM8DP5YGrzq) | 3:33 |
-| 24 | [Electronic Girl](https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW) | [Chinese Football](https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk) | [Here comes a new challenger!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7) | 5:10 |
+| 24 | [Climbing a Wall](https://open.spotify.com/track/2GZLWeDxVyCxDBdVzVjbMi) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [Floral EP](https://open.spotify.com/album/4oH7pwltJtcV5Kg9hdb6Kr) | 3:39 |
 | 25 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 |
 | 26 | [potage](https://open.spotify.com/track/6n9AvpTLSNunpIr2Gr2AXa) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [potage](https://open.spotify.com/album/4KXkUlTzabU1S2eU5WYnOu) | 4:06 |
 | 27 | [Teleblister](https://open.spotify.com/track/0JQgWfYZJRgi6Xge4Qv7Cb) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 65 | [Sunchaser](https://open.spotify.com/track/6cC7uJWWQq0t4Jl6Pr97fH) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Sunchaser](https://open.spotify.com/album/2wBSQhIxvczNN4aS2kHJwd) | 4:15 |
 | 66 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
 | 67 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 |
-| 68 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 |
-| 69 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
+| 68 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
+| 69 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 |
 | 70 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 | 71 | [Jazztas](https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [Canis Allegro](https://open.spotify.com/album/71YTAB1yF7RROLkgKOLFy6) | 5:02 |
 | 72 | [Cloudy](https://open.spotify.com/track/31R2zckDu43rRW9inEVtoS) | [Trees Before Fall](https://open.spotify.com/artist/0feW6OzAxJuE9si7Q5B8T8) | [Trees Before Fall](https://open.spotify.com/album/2T1bfNOah0IU8Q5XNYWN4i) | 4:59 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 89 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |
 | 90 | [Kelly](https://open.spotify.com/track/1lCNGICdfBgQXCV2Xq9nIR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 1:21 |
 | 91 | [Friends Suck](https://open.spotify.com/track/42pO1zZememxps3eSEXfnp) | [Land Wars](https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O) | [Land Wars](https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb) | 3:54 |
-| 92 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
-| 93 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
-| 94 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
+| 92 | [Gagarin](https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Gagarin](https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t) | 3:08 |
+| 93 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
+| 94 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
 | 95 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 96 | [x Maria Violenza](https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB) | [Scumma do Mar](https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH) | [Gamba Tesa](https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG) | 1:52 |
 | 97 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
@@ -116,8 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 106 | [At the corner of Squanch and Squanch](https://open.spotify.com/track/12oLllpYyJOKWVIpURA3BR) | [biscuit head](https://open.spotify.com/artist/2kw2Y8E5KllNL4PY2MeoMX) | [Chunky Moisture](https://open.spotify.com/album/1uy5vcfYaUcwgs0wubTiuv) | 3:31 |
 | 107 | [Ten Billion People](https://open.spotify.com/track/04B0actK1X1Y4Buy2vXARb) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Ten Billion People](https://open.spotify.com/album/6KkbUhO6mLJSldvbSSK5h8) | 6:29 |
 | 108 | [Imprimatura](https://open.spotify.com/track/46uxWlqpJcaYzF3VMQVCsP) | [Faustus](https://open.spotify.com/artist/6sqXbSeB9ZEfZSEz6kg95k) | [euyl](https://open.spotify.com/album/336Zm4ExIDlSJWxZWeUtq3) | 4:34 |
-| 109 | [Mullally](https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [The Endless Shimmering](https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r) | 3:53 |
-| 110 | [two moons](https://open.spotify.com/track/2uo8RCIshYb1aVSNZlrwZZ) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6I6y9F6LgWdE1RRJ4wrhz5) | 4:10 |
+| 109 | [two moons](https://open.spotify.com/track/2uo8RCIshYb1aVSNZlrwZZ) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [For Long Tomorrow](https://open.spotify.com/album/6I6y9F6LgWdE1RRJ4wrhz5) | 4:10 |
+| 110 | [Mullally](https://open.spotify.com/track/02tJP7k7AstDD5wLrRb16H) | [And So I Watch You from Afar](https://open.spotify.com/artist/7qKMNwlACMZOUdMG3acwst) | [The Endless Shimmering](https://open.spotify.com/album/5EQ5o0bmdRsKTyBaca3l9r) | 3:53 |
 | 111 | [Teratology](https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1) | [The Physics House Band](https://open.spotify.com/artist/30EilmonVXftR1pWoALezP) | [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt) | 6:25 |
 | 112 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
 | 113 | [D \- feat\. Tomotaka Tsuji](https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Tomotaka Tsuji](https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2) | [Fraction](https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl) | 4:43 |

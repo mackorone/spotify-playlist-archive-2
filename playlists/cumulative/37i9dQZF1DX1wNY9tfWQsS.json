@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: M\u00fda",
+  "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: kwn",
   "name": "Women of R&B",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 294545,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/57oerJGupxqNrZ6fEshODu"
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237928,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/5cdA1RgRhQtETGtPBYSe5x"
+    },
+    {
+      "album": {
         "name": "Folded",
         "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 243586,
       "name": "I Need You (feat. Brandy)",
       "url": "https://open.spotify.com/track/1RNcORpluixtdsa5CBFjBH"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223275,
       "name": "Recently Deleted",
       "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
@@ -3150,6 +3168,42 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "album": {
+        "name": "Richest",
+        "url": "https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Richest",
+      "url": "https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch"
+    },
+    {
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "album": {

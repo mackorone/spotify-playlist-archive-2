@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Helado Tropical (Helado Negro & Reyna Tropical)",
+  "description": "Fresh Latin Indie you should know. Cover: YoSoyMatt",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/3MxJ56Kgr93QWm3pCZ9rJ0"
+      },
+      "artists": [
+        {
+          "name": "Quelle Rox",
+          "url": "https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171355,
+      "name": "As\u00ed Soy Yo",
+      "url": "https://open.spotify.com/track/2bHLy5hln1ndrh1MwsjHUc"
+    },
+    {
+      "album": {
         "name": "Ataques en mi ciudad",
         "url": "https://open.spotify.com/album/5Uf4QqRyjV8sVwzCGjDAcC"
       },
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184832,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
@@ -3918,6 +3936,24 @@
       "duration_ms": 321662,
       "name": "como me encanta",
       "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
+    },
+    {
+      "album": {
+        "name": "como ser\u00eda",
+        "url": "https://open.spotify.com/album/0lmqLLmzslUlHAnfrJOo7o"
+      },
+      "artists": [
+        {
+          "name": "Sofia Lafuente",
+          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186766,
+      "name": "como ser\u00eda",
+      "url": "https://open.spotify.com/track/4tSPv1PJbvixeyJA3ULO0O"
     },
     {
       "album": {
@@ -6652,7 +6688,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 224416,
       "name": "Encu\u00e9ntrame en Tokio",
       "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
@@ -7398,6 +7434,24 @@
       "duration_ms": 203127,
       "name": "Falta Algo",
       "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
+    },
+    {
+      "album": {
+        "name": "Falta Por Vivir",
+        "url": "https://open.spotify.com/album/3tnPfi8LJwFAajmS0QMT6H"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224284,
+      "name": "Falta Por Vivir",
+      "url": "https://open.spotify.com/track/6un269HzjfCh3dtOFlmAoX"
     },
     {
       "album": {
@@ -8974,7 +9028,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 284336,
       "name": "Injusto - A COLORS SHOW",
       "url": "https://open.spotify.com/track/10nKyJBzqs6RqvBGxZpcbd"
@@ -17010,7 +17064,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 204257,
       "name": "qu\u00e9 ves en m\u00ed?",
       "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
@@ -18781,6 +18835,32 @@
     },
     {
       "album": {
+        "name": "Space Girl",
+        "url": "https://open.spotify.com/album/1XsU1vapTBjNZrgHn6lELd"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Space Girl",
+      "url": "https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h"
+    },
+    {
+      "album": {
         "name": "Space Parade",
         "url": "https://open.spotify.com/album/6Ga077n4SAlyKzmFKsQ6zc"
       },
@@ -19738,7 +19818,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 201000,
       "name": "Te voy a perdonar",
       "url": "https://open.spotify.com/track/6uxRQlD0UTGDH1jZgVQs8u"
@@ -21988,6 +22068,28 @@
       "duration_ms": 251889,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/4zMbUp4WDZxVeEeBpdgtH4"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/72RfoxQnDYrtbLFj70lmyv"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Andie Gago",
+          "url": "https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277717,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/5kmCukIxbG0ci8q2vB8tWy"
     },
     {
       "album": {

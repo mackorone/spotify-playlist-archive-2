@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 143738,
       "name": "EFECTO BARBAS",
       "url": "https://open.spotify.com/track/4RlkwTCQZoAbztnXMJ2tcF"
@@ -2348,6 +2348,32 @@
       "duration_ms": 225212,
       "name": "El Boss",
       "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
+    },
+    {
+      "album": {
+        "name": "El Buenas Tardes",
+        "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211051,
+      "name": "El Buenas Tardes",
+      "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
     },
     {
       "album": {
@@ -3402,7 +3428,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 271346,
       "name": "El Nini",
       "url": "https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4"
@@ -3538,6 +3564,28 @@
       "duration_ms": 170484,
       "name": "El Postre",
       "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
+    },
+    {
+      "album": {
+        "name": "Loko So\u00f1ador",
+        "url": "https://open.spotify.com/album/3n1583a5Lyd8sxiHCJYTWR"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "El Precio",
+      "url": "https://open.spotify.com/track/1eJGR5UCd3a4Vur1Y6pfB0"
     },
     {
       "album": {
@@ -3969,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Tolerancia Zero",
+        "url": "https://open.spotify.com/album/5LAiLj9Pc0MUKfkf4KcrGx"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Eres Mi Muerte",
+      "url": "https://open.spotify.com/track/3pUiEz0oA2Od06NGfOy4iK"
+    },
+    {
+      "album": {
         "name": "Es Dificil Ser Un Santo",
         "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
       },
@@ -4158,7 +4224,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 163359,
       "name": "Fuga Del Jefe",
       "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
@@ -4840,7 +4906,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 129500,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
@@ -4910,7 +4976,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146851,
       "name": "KOREANAS",
       "url": "https://open.spotify.com/track/1NfIx5rTGzx57BA8cRSE3W"
@@ -5130,6 +5196,24 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+    },
+    {
+      "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "La Formula",
+      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
     },
     {
       "album": {
@@ -5400,7 +5484,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168608,
       "name": "LA RACHA",
       "url": "https://open.spotify.com/track/49fVF0XdONpz5rcn0OCUoW"
@@ -6231,6 +6315,28 @@
     },
     {
       "album": {
+        "name": "Mente Despreocupada",
+        "url": "https://open.spotify.com/album/4NtEk6dzVaYc6nLXxQykah"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Mente Despreocupada",
+      "url": "https://open.spotify.com/track/4AD4eTjIMUA9vdFUa2IJxo"
+    },
+    {
+      "album": {
         "name": "Atrapado en un Sue\u00f1o",
         "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
       },
@@ -6424,6 +6530,24 @@
       "duration_ms": 168298,
       "name": "MIKE TYSON",
       "url": "https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B"
+    },
+    {
+      "album": {
+        "name": "Mil x Hora",
+        "url": "https://open.spotify.com/album/6ve34licV5FXj6JhbgYdcO"
+      },
+      "artists": [
+        {
+          "name": "Christian Ortega",
+          "url": "https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149351,
+      "name": "Mil x Hora",
+      "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
     },
     {
       "album": {
@@ -6810,7 +6934,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "NO PASA NADA",
       "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
@@ -7004,7 +7128,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 151337,
       "name": "Papi Crueldad",
       "url": "https://open.spotify.com/track/5rtiKVuwzkZIeRraVZyXKe"
@@ -7370,7 +7494,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
@@ -8789,6 +8913,24 @@
     },
     {
       "album": {
+        "name": "Tijuana",
+        "url": "https://open.spotify.com/album/6wFZn5EBvLkzHHqgKljTvk"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "Tijuana",
+      "url": "https://open.spotify.com/track/5JVlAB1QMmef065auOCIXC"
+    },
+    {
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -8880,7 +9022,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 170880,
       "name": "Tolerancia Zero (Banda)",
       "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
@@ -9112,6 +9254,24 @@
       "duration_ms": 141500,
       "name": "Una Chevy",
       "url": "https://open.spotify.com/track/7xxQJetweF4orA784Bfae2"
+    },
+    {
+      "album": {
+        "name": "VACAS FLACAS",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216288,
+      "name": "VACAS FLACAS",
+      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
     },
     {
       "album": {

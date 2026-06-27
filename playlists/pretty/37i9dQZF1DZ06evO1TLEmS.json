@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4665,
+  "num_followers": 4666,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAByU0ocBRJz8jO+vsv5lnwh",
+  "snapshot_id": "ajxvgAAAAABJCYaDBumlfA8pCxXtxcQZ",
   "tracks": [
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Heart Protector",
-        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
       },
       "artists": [
         {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 220622,
-      "name": "The Book Of Love (with Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
+      "duration_ms": 166135,
+      "name": "Arrow Through Me",
+      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
+        "name": "The Golden Heart Protector",
+        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
       },
       "artists": [
         {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
         },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 166135,
-      "name": "Arrow Through Me",
-      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
+      "duration_ms": 220622,
+      "name": "The Book Of Love (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

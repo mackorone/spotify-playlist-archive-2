@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PROXIE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KRIST",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1140,6 +1140,24 @@
       "duration_ms": 252709,
       "name": "Daily Magic",
       "url": "https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g"
+    },
+    {
+      "album": {
+        "name": "TAKE OFF",
+        "url": "https://open.spotify.com/album/4Xy0UoGykV7ATkSV0gslk5"
+      },
+      "artists": [
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/3R5a0BnfrASTZ5f2ronWt3"
     },
     {
       "album": {
@@ -6758,7 +6776,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 212000,
       "name": "\u0e04\u0e38\u0e49\u0e21\u0e04\u0e48\u0e32\u0e01\u0e32\u0e23\u0e23\u0e2d\u0e04\u0e2d\u0e22 (Worth the wait) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e15\u0e49\u0e19\u0e2a\u0e49\u0e21\u0e2d\u0e22\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e02\u0e32 \u0e41\u0e15\u0e48\u0e1c\u0e25\u0e2a\u0e49\u0e21\u0e2b\u0e25\u0e48\u0e19\u0e21\u0e32\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e23\u0e32\u0e15\u0e25\u0e2d\u0e14\u0e40\u0e25\u0e22 When Oranges Fall\"",
       "url": "https://open.spotify.com/track/6nHClo4oU2unT87HtxFJMu"
@@ -8358,6 +8376,24 @@
       "duration_ms": 162935,
       "name": "\u0e16\u0e2d\u0e14 (TAKE IT OFF)",
       "url": "https://open.spotify.com/track/7C1NEDCvP1psZenFDA3Sxx"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e39\u0e01\u0e17\u0e35\u0e48\u0e1c\u0e34\u0e14\u0e40\u0e27\u0e25\u0e32 (Wrong Time)",
+        "url": "https://open.spotify.com/album/4TG9jZf2ZRvwIyOSm7h0Zg"
+      },
+      "artists": [
+        {
+          "name": "KRIST",
+          "url": "https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236250,
+      "name": "\u0e16\u0e39\u0e01\u0e17\u0e35\u0e48\u0e1c\u0e34\u0e14\u0e40\u0e27\u0e25\u0e32 (Wrong Time)",
+      "url": "https://open.spotify.com/track/55qhcNPB9rJPTF1ynsSY6g"
     },
     {
       "album": {
@@ -11688,7 +11724,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177637,
       "name": "\u0e27\u0e31\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e1b\u0e35 (DD/MM/YY)",
       "url": "https://open.spotify.com/track/3u5p9KdODknbQlA9ytfxYC"
@@ -11948,7 +11984,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 228648,
       "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e09\u0e31\u0e19\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e14\u0e35",
       "url": "https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR"
@@ -12208,7 +12244,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 280384,
       "name": "\u0e2b\u0e19\u0e31\u0e07\u0e17\u0e38\u0e19\u0e15\u0e48\u0e33",
       "url": "https://open.spotify.com/track/0nQ3fky5NxECcuMv4GqFaO"
@@ -13832,6 +13868,24 @@
       "duration_ms": 189731,
       "name": "\u0e40\u0e17\u0e04\u0e30\u0e41\u0e19\u0e19 (CANDIDATE)",
       "url": "https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
+        "url": "https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8"
+      },
+      "artists": [
+        {
+          "name": "NUTDAN",
+          "url": "https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179433,
+      "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
+      "url": "https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr"
     },
     {
       "album": {
@@ -15998,6 +16052,28 @@
       "duration_ms": 246666,
       "name": "\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e22\u0e2d\u0e2d\u0e01 (Truth or Dare)",
       "url": "https://open.spotify.com/track/3JDHYk07aecvjfD0sGtSw5"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e2d\u0e40\u0e04\u0e4a\u0e30? (Okay) [feat. Ice Paris]",
+        "url": "https://open.spotify.com/album/62kXHw6LvPEPDqALmZ0mFb"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        },
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190429,
+      "name": "\u0e42\u0e2d\u0e40\u0e04\u0e4a\u0e30? (Okay) [feat. Ice Paris]",
+      "url": "https://open.spotify.com/track/5RG9aMHwKfU8BWpuef6yW4"
     },
     {
       "album": {

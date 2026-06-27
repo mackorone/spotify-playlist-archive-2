@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 8084,
+  "num_followers": 8088,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACqQZZJyq9I1CldIcvm5eIK",
+  "snapshot_id": "ajxvgAAAAABIEkN9+LjmrwB5VChk9OfQ",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 168560,
-      "name": "A Cover Over",
-      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
+      "duration_ms": 231800,
+      "name": "Fishing Bird (Empty Gutted in the Evening Breeze)",
+      "url": "https://open.spotify.com/track/637sViSUUQTBice1wmz5id"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Fishing Bird (Empty Gutted in the Evening Breeze)",
-      "url": "https://open.spotify.com/track/637sViSUUQTBice1wmz5id"
+      "duration_ms": 168560,
+      "name": "A Cover Over",
+      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 476626,
-      "name": "Holding",
-      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
+      "duration_ms": 179253,
+      "name": "Call Across Rooms",
+      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Heart Current",
-      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
+      "duration_ms": 367720,
+      "name": "Down to the Ocean",
+      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Call Across Rooms",
-      "url": "https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz"
+      "duration_ms": 476626,
+      "name": "Holding",
+      "url": "https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 480440,
-      "name": "Soul Eraser",
-      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
+      "duration_ms": 313680,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
     },
     {
       "added_at": null,
@@ -708,41 +708,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 367720,
-      "name": "Down to the Ocean",
-      "url": "https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A I A: Dream Loss",
-        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 313680,
-      "name": "A Lie",
-      "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+      "duration_ms": 281386,
+      "name": "Heart Current",
+      "url": "https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf"
     },
     {
       "added_at": null,
@@ -759,6 +727,38 @@
       "duration_ms": 235093,
       "name": "Hold A Desert, Feel Its Hand",
       "url": "https://open.spotify.com/track/1F39HVBjOSlrEM2SK98J2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A I A: Dream Loss",
+        "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 480440,
+      "name": "Soul Eraser",
+      "url": "https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
     },
     {
       "added_at": null,

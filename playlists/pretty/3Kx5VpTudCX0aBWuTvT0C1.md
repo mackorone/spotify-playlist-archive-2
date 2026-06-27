@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,857 likes - 68 songs - 4 hr 9 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,863 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 66 | [Mark My Words \(Unplugged\)](https://open.spotify.com/track/0Xb5yKmAHQYCRfCaOE6hcU) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Mark My Words \(Unplugged\)](https://open.spotify.com/album/0BtA0ZoxxmyteDig2q9jHe) | 4:26 |
 | 67 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 |
 | 68 | [When The Roots Don't Hold \- 2026 Remaster](https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA) | [Dead Poet Warrior Zone](https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T) | [When The Roots Don't Hold \(2026 Remaster\)](https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g) | 3:36 |
+| 69 | [Dimenticare](https://open.spotify.com/track/6DAgcHrCpVAvWEpscvHVR7) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Dimenticare](https://open.spotify.com/album/23nIqYsVN6ig5SBkGRS0lD) | 4:13 |
 
-Snapshot ID: `AAACuGxbUQSeK0Jwv7wLFBpPrQsvZ7PG`
+Snapshot ID: `AAACuV/PqN7J63yNii0MMzrp7MUJPPPD`

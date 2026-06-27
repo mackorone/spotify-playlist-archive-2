@@ -818,7 +818,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 163269,
       "name": "Cry (Just A Little)",
       "url": "https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN"
@@ -2049,6 +2049,28 @@
     },
     {
       "album": {
+        "name": "Jump Around",
+        "url": "https://open.spotify.com/album/5aiwfgZqjmU8SqC0Y8cOth"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Charlie Sparks (UK)",
+          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163166,
+      "name": "Jump Around",
+      "url": "https://open.spotify.com/track/2To0cWOoMe86SXYStBI5Pk"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
       },
@@ -2188,6 +2210,24 @@
       "duration_ms": 119583,
       "name": "Lethal Industry",
       "url": "https://open.spotify.com/track/0QZgj2tq8LVEYesniNZbXm"
+    },
+    {
+      "album": {
+        "name": "Lie 2 U",
+        "url": "https://open.spotify.com/album/5GYGU47ClBBH3CgL2odcTh"
+      },
+      "artists": [
+        {
+          "name": "DJ Rebel",
+          "url": "https://open.spotify.com/artist/0xP4NHjOAiPVmDkmMhAgu6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Lie 2 U",
+      "url": "https://open.spotify.com/track/5pG0gfXT3d0BWckYT3jq0L"
     },
     {
       "album": {
@@ -2500,7 +2540,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 155812,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5luB60l0emJUAZbCBTaB7g"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 27 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 27 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 9 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 10 | [It's a Rainy Day on the Cosmic Shore](https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:20 |
 | 11 | [Cover Me](https://open.spotify.com/track/3YKoxarWdKzwVasA7oiAu7) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 3:46 |
-| 12 | [Wicked Game](https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Wicked Game](https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu) | 4:22 |
+| 12 | [The Veil II](https://open.spotify.com/track/2PlhiLwlhVstW2Ajgg6wiR) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:29 |
 | 13 | [A Study in Vastness](https://open.spotify.com/track/2efXjd2d8PRQPFkoiPwwyS) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:50 |
 | 14 | [Nocturne](https://open.spotify.com/track/1qNiEBMZVAuygzLYYLG7Rv) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:36 |
 | 15 | [The Age of Innocence](https://open.spotify.com/track/6EDopcLclclH78uRO5YQrs) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 2:06 |
-| 16 | [The Veil II](https://open.spotify.com/track/2PlhiLwlhVstW2Ajgg6wiR) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:29 |
+| 16 | [Wicked Game](https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Wicked Game](https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu) | 4:22 |
 | 17 | [Take the Thorn, Leave the Rose](https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:04 |
 | 18 | [Slowness](https://open.spotify.com/track/7qqxrcreNiB1sL91OrvVol) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 4:20 |
 | 19 | [Keepsake](https://open.spotify.com/track/1O1Qmb9eZYK6lAU9EWpTpQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 4:38 |
@@ -34,6 +34,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 24 | [The Veil I](https://open.spotify.com/track/38to0a1eQ09ObTJ6sy4Uj6) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:02 |
 | 25 | [II\. STAR \(Survival\)](https://open.spotify.com/track/43hzcER3XiDqK3ujFpW9WN) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I), [Nsámbu Za Suékama](https://open.spotify.com/artist/3CUr9pUdxmci3oH8JodF7f) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 2:55 |
 | 26 | [Consolación](https://open.spotify.com/track/62r4Voa3btkLgyWDbE2nlX) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Bravespace \(Presented by the Smithsonian Asian Pacific American Center\)](https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY) | 8:50 |
-| 27 | [Natural Wonder Beauty Concept](https://open.spotify.com/track/1womnt3S3SEd8vl43UwwlH) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:24 |
+| 27 | [III](https://open.spotify.com/track/1QASMyabE1yQ1a09J0YklZ) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:43 |
 
-Snapshot ID: `ajseAAAAAADcoj2z0F6qjCeyFfGiTGF3`
+Snapshot ID: `ajxvgAAAAADqOiIMb3UpywpbN/AcEuPh`

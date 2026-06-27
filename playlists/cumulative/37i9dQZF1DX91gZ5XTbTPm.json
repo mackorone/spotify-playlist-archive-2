@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: BabyChiefDoIt",
+  "description": "The Midwest is always on time. Cover: Lelo",
   "name": "CST",
   "tracks": [
     {
@@ -6605,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "Daddy Died",
+        "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
+      },
+      "artists": [
+        {
+          "name": "earthsignchels",
+          "url": "https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252656,
+      "name": "Daddy Died",
+      "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
+    },
+    {
+      "album": {
         "name": "DAMN",
         "url": "https://open.spotify.com/album/1laNezKmfgzVmLo3jvdR44"
       },
@@ -6938,7 +6956,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 192700,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/0JBSjvu8oncHkS48WV9DoH"
@@ -10066,7 +10084,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 106500,
       "name": "GEMINI SEASON",
       "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
@@ -10350,6 +10368,32 @@
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "album": {
+        "name": "Ghetto Thriller",
+        "url": "https://open.spotify.com/album/7aaNxcs9IIdPGJGy9EE61h"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Ghetto Thriller",
+      "url": "https://open.spotify.com/track/0dILi3t1TJ0RlGuBIKH8P7"
     },
     {
       "album": {
@@ -12692,7 +12736,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 132515,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/6YPtERS01n8sSL33Go31IK"
@@ -13350,7 +13394,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 137142,
       "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
@@ -14954,6 +14998,24 @@
       "duration_ms": 173400,
       "name": "Jay & Twan 1",
       "url": "https://open.spotify.com/track/3gpV8e51dn62yi8lXBfpDO"
+    },
+    {
+      "album": {
+        "name": "JD",
+        "url": "https://open.spotify.com/album/3ft7U2LHp66XMVflhcZ2RN"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "JD",
+      "url": "https://open.spotify.com/track/0Ymmd1vQIIyVdslWqshSR3"
     },
     {
       "album": {
@@ -19653,6 +19715,24 @@
     },
     {
       "album": {
+        "name": "Not Yours",
+        "url": "https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro"
+      },
+      "artists": [
+        {
+          "name": "Lady Binladen",
+          "url": "https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Not Yours",
+      "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
+    },
+    {
+      "album": {
         "name": "The Last Doll",
         "url": "https://open.spotify.com/album/7yn4tvk6FnItSAPYgPaQ4F"
       },
@@ -21270,7 +21350,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 166756,
       "name": "Pink Candy",
       "url": "https://open.spotify.com/track/5xEHlUFmaDQNE72EYQZLCw"
@@ -21906,6 +21986,36 @@
       "duration_ms": 195044,
       "name": "Pressikan",
       "url": "https://open.spotify.com/track/2N0wDFXjS97UybI2ellIEu"
+    },
+    {
+      "album": {
+        "name": "Lafamilia",
+        "url": "https://open.spotify.com/album/5UW6j5gTvxJR6U9huDWeXT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bandz",
+          "url": "https://open.spotify.com/artist/7KnXSV7gkQLmGczm2akVOk"
+        },
+        {
+          "name": "Only The Family",
+          "url": "https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3"
+        },
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168311,
+      "name": "Pressin Again",
+      "url": "https://open.spotify.com/track/6OnUEyurkxkUGcqt8t5YvY"
     },
     {
       "album": {
@@ -25498,7 +25608,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 371618,
       "name": "Slide (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2A875AE6xfeiBuC28ZYtO3"
@@ -25928,6 +26038,24 @@
       "duration_ms": 236759,
       "name": "SOS",
       "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/2wdgJ3fzZgxfzSJA7AaB4d"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "South Beach",
+      "url": "https://open.spotify.com/track/7hel2XaXnR6rIRcLyswp2g"
     },
     {
       "album": {
@@ -27893,6 +28021,28 @@
     },
     {
       "album": {
+        "name": "SEVEN77",
+        "url": "https://open.spotify.com/album/6zAQRyUgSpJvjxQ4eYOqUx"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147886,
+      "name": "Thats Me",
+      "url": "https://open.spotify.com/track/3GiyicrnoApCL8vfVuS8nm"
+    },
+    {
+      "album": {
         "name": "The Big 3",
         "url": "https://open.spotify.com/album/5ckvMw09shzHJl5AD75fKF"
       },
@@ -28548,6 +28698,24 @@
       "duration_ms": 169696,
       "name": "Thick One (with Skilla Baby)",
       "url": "https://open.spotify.com/track/1qgL5JjuAgU4BEldI43vzp"
+    },
+    {
+      "album": {
+        "name": "PRETTY OPP",
+        "url": "https://open.spotify.com/album/6qMeRop911fvtul7sC0ctr"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Think Big",
+      "url": "https://open.spotify.com/track/2mYWFhTCHmE1G4lhevtdws"
     },
     {
       "album": {
@@ -30078,7 +30246,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146946,
       "name": "U Feel Me",
       "url": "https://open.spotify.com/track/7cUxVemQxSVEu6ZVnOczw5"
@@ -31524,7 +31692,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189803,
       "name": "White Tee (feat. Jorjiana)",
       "url": "https://open.spotify.com/track/4YQJJetGUWkRPGlf2H3pH6"
@@ -32416,7 +32584,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 135398,
       "name": "Y'all Can't Kill Me",
       "url": "https://open.spotify.com/track/1NEZKzpXUV0QwHlNCXDkTw"

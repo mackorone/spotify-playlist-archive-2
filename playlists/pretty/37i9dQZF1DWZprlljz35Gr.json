@@ -1,13 +1,33 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 14684,
+  "num_followers": 14688,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOaoRf6uDd6r3bwBC5jyiPKyBGY",
+  "snapshot_id": "AAAAALpJLM8VJw5WF8lrlDWx7YGoCfFq",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:32",
+      "album": {
+        "name": "Woke Up This Morning (Porij Remix)",
+        "url": "https://open.spotify.com/album/0eOp7ABTFlhw2lxQNSYKvF"
+      },
+      "artists": [
+        {
+          "name": "Alabama 3",
+          "url": "https://open.spotify.com/artist/25zUD40u8M2kJmdcabBzrz"
+        },
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 248782,
+      "name": "Woke Up This Morning - Porij Remix",
+      "url": "https://open.spotify.com/track/25FidA0PQJqJ7qEETyayCg"
+    },
     {
       "added_at": "2026-04-17 04:01:01",
       "album": {
@@ -1023,22 +1043,6 @@
       "duration_ms": 198058,
       "name": "I'm Back With Trouble",
       "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 261800,
-      "name": "Go On Home",
-      "url": "https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp"
     },
     {
       "added_at": "2022-04-01 04:02:00",

@@ -43303,6 +43303,24 @@
     },
     {
       "album": {
+        "name": "such a bitch!",
+        "url": "https://open.spotify.com/album/3zk1Kh3nRnLvQojJTtR5EA"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173832,
+      "name": "such a bitch!",
+      "url": "https://open.spotify.com/track/7Lm7AfLMFfUF2dpBGrO2wW"
+    },
+    {
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD"
       },

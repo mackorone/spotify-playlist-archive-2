@@ -6577,6 +6577,24 @@
     },
     {
       "album": {
+        "name": "His Presence",
+        "url": "https://open.spotify.com/album/5ZnYVbZkzGgb9V1o3YXrqq"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 880486,
+      "name": "His Presence",
+      "url": "https://open.spotify.com/track/4l5FnTX9O8hUhWFB91EdqR"
+    },
+    {
+      "album": {
         "name": "Hold It All",
         "url": "https://open.spotify.com/album/2Mz5cqlXvTe6abwAHqdaGq"
       },

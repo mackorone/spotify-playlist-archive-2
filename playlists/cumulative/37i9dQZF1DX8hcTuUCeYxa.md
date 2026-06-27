@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Phoebe Bridgers
 
-3,021 songs - 7 day 6 hr 10 min
+3,023 songs - 7 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1193,6 +1193,7 @@
 | [I Believe in You](https://open.spotify.com/track/5AhOzc4lS3deMsgs32K5dp) | [Safari](https://open.spotify.com/artist/3AesSDyMRj85d5eGn2WwIn) | [I Believe in You](https://open.spotify.com/album/0ryzKNAhom3vMPOWqaEEll) | 2:38 | 2024-07-11 | 2024-07-27 |
 | [I Broke Me First](https://open.spotify.com/track/42CK38Zpo02MzVzaHtwx2W) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [I Broke Me First](https://open.spotify.com/album/5vs2EkfmBTmGYXlfJlUWxi) | 2:46 | 2024-12-19 | 2025-01-24 |
 | [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 | 2024-08-01 | 2024-08-23 |
+| [I CAN SEE IT!](https://open.spotify.com/track/4Jtj9nmlQb0AZIO0oIafXE) | [LNA](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [I CAN SEE IT ALL](https://open.spotify.com/album/1CiUUfgLo2jDO57ILzVjWT) | 3:29 | 2026-06-26 |  |
 | [I CAN'T WRITE A SAD SONG](https://open.spotify.com/track/6teHdvK8vMcYElhoIA7NfD) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [I CAN'T WRITE A SAD SONG](https://open.spotify.com/album/2qan4Iwsd5L9CLIC8suhKh) | 3:05 | 2024-08-22 | 2024-09-13 |
 | [I Care For You](https://open.spotify.com/track/4IXJgr9gisUeTc6ZQXox7Q) | [Mira Lu Kovacs](https://open.spotify.com/artist/0T8xnqWlhMlkQX7fFUFQDr) | [Please, Save Yourself](https://open.spotify.com/album/1C6IlpE9cmw6zVx3uLkb9Q) | 4:51 | 2024-11-07 | 2024-12-06 |
 | [I Could Do Much Worse](https://open.spotify.com/track/17xsEULSaXnRB5FlSoqJzh) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [I Could Do Much Worse](https://open.spotify.com/album/6p05gyNLzsqo6tmB57CvXA) | 3:29 | 2025-05-22 | 2025-06-20 |
@@ -2945,6 +2946,7 @@
 | [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 | 2026-03-26 | 2026-04-10 |
 | [Window](https://open.spotify.com/track/4jSvsytqSztXvFvPRDn1LJ) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [Window](https://open.spotify.com/album/0ZlFvyq3LgALFdzcYWQ2jn) | 4:33 | 2025-04-24 | 2025-05-16 |
 | [Windows](https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Windows](https://open.spotify.com/album/7h5CI5YCFigjxUV6ISsQlD) | 4:09 | 2025-01-02 | 2025-01-24 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-26 |  |
 | [Winning](https://open.spotify.com/track/2YowD0UaD8JeLZCPd57xJV) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [Home](https://open.spotify.com/album/2ZMGAQ1QyWmirdMQ1KET8o) | 4:30 | 2025-06-05 | 2025-06-27 |
 | [Winona Forever](https://open.spotify.com/track/4ZZUyU3Ykb53WGTzQdOj6M) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Winona Forever](https://open.spotify.com/album/5JcbIXmE9wMHsBDr7DF6el) | 2:49 | 2026-06-25 |  |
 | [Winter Hat](https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Winter Hat](https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0) | 2:54 | 2024-11-14 | 2024-12-06 |

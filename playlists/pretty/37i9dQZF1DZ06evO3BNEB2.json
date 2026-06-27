@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40694,
+  "num_followers": 40708,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACbq164r89ShoEQbKl3vSDx",
+  "snapshot_id": "ajxvgAAAAACm0gAge2TtJSEDDQcVWLI5",
   "tracks": [
     {
       "added_at": null,
@@ -590,15 +590,11 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 193631,
-      "name": "Like I (with Andra Day)",
-      "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
+      "duration_ms": 128157,
+      "name": "Conundrum",
+      "url": "https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb"
     },
     {
       "added_at": null,
@@ -735,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations",
-        "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 219686,
-      "name": "Red Lights (feat. Wale)",
-      "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
@@ -771,6 +747,26 @@
       "duration_ms": 208000,
       "name": "Angles (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 219686,
+      "name": "Red Lights (feat. Wale)",
+      "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
     },
     {
       "added_at": null,
@@ -1043,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+        "name": "Attention Deficit (Explicit Version)",
+        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
       },
       "artists": [
         {
@@ -1052,13 +1048,17 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 215360,
-      "name": "Running Back (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2h3i5tGUl6hMu572umjcGo"
+      "duration_ms": 304613,
+      "name": "Beautiful Bliss",
+      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
     }
   ],
   "unique_name": "This Is Wale",

@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 747630,
+  "num_followers": 747807,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -811,7 +811,7 @@
     {
       "added_at": "2026-06-23 15:21:25",
       "album": {
-        "name": "Check Check",
+        "name": "check check",
         "url": "https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh"
       },
       "artists": [
@@ -821,7 +821,7 @@
         }
       ],
       "duration_ms": 182326,
-      "name": "Check Check",
+      "name": "check check",
       "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
     },
     {
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-06-23 15:21:25",
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "added_at": "2026-06-23 15:21:25",
+      "album": {
         "name": "Like It",
         "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
       },
@@ -899,42 +915,18 @@
     {
       "added_at": "2026-06-23 15:21:25",
       "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
       },
       "artists": [
         {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
         }
       ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
-    },
-    {
-      "added_at": "2026-06-23 15:21:25",
-      "album": {
-        "name": "mr useless",
-        "url": "https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "mr useless",
-      "url": "https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg"
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
     }
   ],
   "unique_name": "Serotonin",

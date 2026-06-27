@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Barto, Die Piesangskille, Justin Vega, Juanita du Plessis en meer!
 
-2,685 songs - 6 day 5 hr 19 min
+2,686 songs - 6 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Bly](https://open.spotify.com/track/68WtGgQ6MJrhmhRV8DONIc) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [Bly](https://open.spotify.com/album/2gfE8R6z1uIJbMqHEF1vuu) | 4:07 | 2025-08-07 | 2025-10-24 |
 | [Bly by my, \(my lief\)](https://open.spotify.com/track/6exV24WbDWM2pmxacmAHZn) | [Anton Goosen](https://open.spotify.com/artist/24TpZ86w1RuD6QqhJQn3Wg) | [Bly by my, \(my lief\)](https://open.spotify.com/album/5TcZTNxH430bVeRD5jkZCZ) | 3:24 | 2024-05-23 | 2024-06-01 |
 | [Bly by my, \(my lief\)](https://open.spotify.com/track/7GAAIqlPl8OVWbRS5QHdID) | [Anton Goosen](https://open.spotify.com/artist/24TpZ86w1RuD6QqhJQn3Wg) | [Sirkels](https://open.spotify.com/album/3W0z7szwDxlcw1Zz3faByd) | 3:24 | 2024-06-27 | 2024-07-05 |
+| [Bly In Jou Baan](https://open.spotify.com/track/3wNuwI4JUltqlUtof6H32M) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Hierdie Oomblik](https://open.spotify.com/album/6Zny7lSnpbgZ7N2S3YYStO) | 3:19 | 2026-06-25 |  |
 | [Bly Jy's By My](https://open.spotify.com/track/19CzG2cGINwZoXbPOHfUsv) | [Shaun Wulf](https://open.spotify.com/artist/7DYJAQlpFEmHZU02hLjUsS) | [Bly Jy's By My](https://open.spotify.com/album/2Txa3aqSgojRCcOE6PNDid) | 2:45 | 2024-07-04 | 2024-07-12 |
 | [Bly Lit](https://open.spotify.com/track/5AEcHDBFFOBEJwkCJVrKJp) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K), [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [X\_C\_Xreece](https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ) | [Bly Lit](https://open.spotify.com/album/0gv0d9W6EnRd81yVUGxdCz) | 3:12 | 2025-06-05 | 2025-06-13 |
 | [Bo aan my lys](https://open.spotify.com/track/0nQSsjh19aBF2LTIYxMZCz) | [Deidré Barnard](https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL) | [Genoeg Gewees](https://open.spotify.com/album/2nMP4yFKfCskjxSDbP0AoF) | 2:49 | 2023-10-12 | 2023-11-10 |
@@ -2348,7 +2349,6 @@
 | [Tot Die Hane Kraai](https://open.spotify.com/track/6ZRJXfdin2BvNaNNJv4zaE) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Tot Die Hane Kraai](https://open.spotify.com/album/4eTLxQIXhAXmmaU06cC30y) | 3:28 | 2025-04-24 | 2025-07-25 |
 | [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 | 2024-07-27 |
 | [Totsiens](https://open.spotify.com/track/6BhA6x3RdgId5E8vrWGNHG) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Totsiens](https://open.spotify.com/album/5EFwOSXHsxpFAvSdXorPyw) | 2:44 | 2025-11-13 | 2026-02-13 |
-| [Track 4](https://open.spotify.com/track/3wNuwI4JUltqlUtof6H32M) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Hierdie Oomblik](https://open.spotify.com/album/6Zny7lSnpbgZ7N2S3YYStO) | 0:00 | 2026-06-25 |  |
 | [Transkei](https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno) | [Sarel Kleinhans](https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv) | [Transkei](https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm) | 3:27 | 2022-12-01 | 2023-02-17 |
 | [Trap 'n Bietjie](https://open.spotify.com/track/16dVG5XQAtNfIY2pGK1Ca3) | [Jezelle](https://open.spotify.com/artist/5u28bJE9mbh1o28ax8R9WT) | [Trap 'n Bietjie](https://open.spotify.com/album/1a0BKlyhXVsRtwEPQUnrN1) | 2:57 | 2025-12-18 | 2026-02-06 |
 | [Trap Diep](https://open.spotify.com/track/1rVH54VvvAFeTKmdTJlH2Y) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Trap Diep](https://open.spotify.com/album/21CUAZLgw6FlkkzJAQPt9l) | 2:57 | 2025-09-25 | 2025-12-05 |
@@ -2561,6 +2561,7 @@
 | [Vêr Van Die Huis Af](https://open.spotify.com/track/5VgaegynEASH8aApn1fxS0) | [MJ Nel](https://open.spotify.com/artist/0f26xBbgdKK8R4sD6vFO4A), [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Vêr Van Die Huis Af](https://open.spotify.com/album/5exylKwlQSPJE3iI6NTRj9) | 3:46 | 2025-02-20 | 2025-03-14 |
 | [Vêr Van Die Huis Af](https://open.spotify.com/track/2Tsi2JPhmT0p1AiD4TwUoo) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Vêr Van Die Huis Af](https://open.spotify.com/album/27vixl2BCIve2VNi5HY41G) | 2:39 | 2026-06-11 |  |
 | [Vêr Weg](https://open.spotify.com/track/117bdgGOxFFbGabaFz22rn) | [Jaakie](https://open.spotify.com/artist/42quOzLgb6fpnRIiE07ACz), [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq) | [Vêr Weg](https://open.spotify.com/album/2ViyWe6vj0FnDkNzP8gX2d) | 2:36 | 2026-01-01 | 2026-03-27 |
+| [Waar Die Engele Rook](https://open.spotify.com/track/2CSfUdmAa9qIBycNIBVcJu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Waar Die Engele Rook](https://open.spotify.com/album/27p8jYPlg9TST9z1XaVgAb) | 3:15 | 2026-06-26 |  |
 | [Waar Ek Hoort](https://open.spotify.com/track/7bNLjtZNbbSXN7CaJQWDyA) | [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Waar Ek Hoort](https://open.spotify.com/album/4MXRL9Mo9UNKQAAVzQM5EM) | 3:41 | 2023-07-27 | 2023-08-18 |
 | [Waar Ek My Lippe Neerlê](https://open.spotify.com/track/7LxuMfDZjOK8194vrzKWSM) | [Posduif](https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349) | [Waar Ek My Lippe Neerlê](https://open.spotify.com/album/6ZmvaEeeptTonmEKbPBfuP) | 3:29 | 2023-11-02 | 2024-03-01 |
 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-11-23 | 2024-04-03 |

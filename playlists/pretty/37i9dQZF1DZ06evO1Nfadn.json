@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 40246,
+  "num_followers": 40263,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABZVwmxhIkagPVzd4PbA1bY",
+  "snapshot_id": "ajxvgAAAAACitVy+CVaKjUWTLdnTHaZX",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Un Rayo de Sol",
-      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+      "duration_ms": 193593,
+      "name": "Un Rayo de Sol",
+      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+      "duration_ms": 170933,
+      "name": "Te Lavaste la Cara, El Mono No",
+      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 170933,
-      "name": "Te Lavaste la Cara, El Mono No",
-      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 164213,
-      "name": "El Zancudito",
-      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
+      "duration_ms": 156706,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 156706,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+      "duration_ms": 164213,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
     },
     {
       "added_at": null,

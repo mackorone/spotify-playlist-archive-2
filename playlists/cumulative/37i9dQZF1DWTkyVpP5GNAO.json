@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Dale a Dios toda la gloria y alabanza! Foto: Averly Murrillo",
+  "description": "Dale a Dios toda la gloria y alabanza! Foto: Factor de Cambio",
   "name": "Alabanzas y Gloria",
   "tracks": [
     {
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 282826,
       "name": "Esta Cayendo",
       "url": "https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 308989,
       "name": "Gracias A La Cruz",
       "url": "https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF"
@@ -3041,6 +3041,28 @@
     },
     {
       "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/5hptFXidqJFszASYJ1lCqo"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Becky Collazos",
+          "url": "https://open.spotify.com/artist/2e3Cv0nAlMvRoCfrsV75dI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330508,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/1QRHOjkfjbyUm9UFSYai8N"
+    },
+    {
+      "album": {
         "name": "Amor Palabra Poder",
         "url": "https://open.spotify.com/album/5sTiKrYnSSbcYyZYzgz4sm"
       },
@@ -3208,7 +3230,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 319650,
       "name": "Levanto Mis Manos",
       "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
@@ -4370,7 +4392,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 605453,
       "name": "Obra de Tu Amor",
       "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
@@ -4751,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "PUDE VOLVER",
+        "url": "https://open.spotify.com/album/4tx0b9CeJbaOAXCM7ldZgE"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9nesis Col\u00f3n",
+          "url": "https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417857,
+      "name": "PUDE VOLVER",
+      "url": "https://open.spotify.com/track/7KCVkeX3aDNDtVFnogUeXv"
+    },
+    {
+      "album": {
         "name": "Puedes Morar Aqu\u00ed",
         "url": "https://open.spotify.com/album/0Y5Sc8ylaXIds6WKskedqQ"
       },
@@ -5030,6 +5070,28 @@
       "duration_ms": 366081,
       "name": "Quiero m\u00e1s",
       "url": "https://open.spotify.com/track/77v1o59NzTsfmRpnfAkuf6"
+    },
+    {
+      "album": {
+        "name": "Qui\u00e9n M\u00e1s",
+        "url": "https://open.spotify.com/album/6Ttieu50cJhkOxi57CG8SQ"
+      },
+      "artists": [
+        {
+          "name": "Evangelina Crubinca",
+          "url": "https://open.spotify.com/artist/7aquXEXSrOvSZyWkOln2hi"
+        },
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431549,
+      "name": "Qui\u00e9n M\u00e1s",
+      "url": "https://open.spotify.com/track/76jOnAl0tpZAgUP5ep0EtX"
     },
     {
       "album": {
@@ -5329,6 +5391,24 @@
     },
     {
       "album": {
+        "name": "Salmo 8 (ALE)",
+        "url": "https://open.spotify.com/album/1qdW6VICl1X02rsuETum0H"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224750,
+      "name": "Salmo 8 (ALE)",
+      "url": "https://open.spotify.com/track/3SLqn2qHfVJe6XRzRgcJ7V"
+    },
+    {
+      "album": {
         "name": "Salmo 91",
         "url": "https://open.spotify.com/album/3NTNaROyuehgjCxjxrVcAT"
       },
@@ -5366,7 +5446,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 485915,
       "name": "Salvaste Mi Vida",
       "url": "https://open.spotify.com/track/5gXauaIBHrn4I6ZBackxnN"
@@ -5426,7 +5506,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 504302,
       "name": "Santo Por Siempre",
       "url": "https://open.spotify.com/track/2MBF9uj8RlHkIuvan6QbzP"
@@ -5956,6 +6036,46 @@
       "duration_ms": 430000,
       "name": "Te Exaltar\u00e9",
       "url": "https://open.spotify.com/track/55aat3EMyWAfEco7Tk2j0N"
+    },
+    {
+      "album": {
+        "name": "Tesoro Verdadero",
+        "url": "https://open.spotify.com/album/4tNnlLMqrX1lmPZ1X7uo0s"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421000,
+      "name": "Tesoro Verdadero",
+      "url": "https://open.spotify.com/track/5k9Vln6mJT5XbALvmNoOqu"
+    },
+    {
+      "album": {
+        "name": "Toda La Tierra",
+        "url": "https://open.spotify.com/album/2RgIlqpOIyZPtg4LGJxWDr"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        },
+        {
+          "name": "Fede Eyherabide",
+          "url": "https://open.spotify.com/artist/0zAxqDbdCyUOgJBLBbqREp"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195377,
+      "name": "Toda La Tierra",
+      "url": "https://open.spotify.com/track/1StFeUFM9kUU8YNPz5E2py"
     },
     {
       "album": {

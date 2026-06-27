@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  6uff
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,549 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,580 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 32 | [Motho Waka](https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Motho Waka](https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl) | 3:05 |
 | 33 | [Di Maria](https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Di Maria](https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH) | 2:54 |
 | 34 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 |
-| 35 | [News at 7](https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [News at 7](https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt) | 2:46 |
-| 36 | [Ole](https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Ole](https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk) | 2:15 |
+| 35 | [Ole](https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Ole](https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk) | 2:15 |
+| 36 | [News at 7](https://open.spotify.com/track/0BmV1Ke3e4dfuKNzNWrsXv) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [News at 7](https://open.spotify.com/album/0QL33TwFCQGAF9prvHW3Wt) | 2:46 |
 | 37 | [NBA](https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [NBA](https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK) | 2:49 |
 | 38 | [RAPPER](https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:32 |
 | 39 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
-| 40 | [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 |
-| 41 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
+| 40 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
+| 41 | [Akosua Broni](https://open.spotify.com/track/5lVoi1WVhCUHJuerWt6Kyf) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Sexy Highlife](https://open.spotify.com/album/1rAaxsX5aLqoay5bIQIXvi) | 2:07 |
 | 42 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 |
 | 43 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
 | 44 | [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 59 | [Reason](https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Tytanium](https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX) | [Reason](https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli) | 2:01 |
 | 60 | [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 |
 
-Snapshot ID: `AAAAAKVAo2E8LPK1fxLK/YCph4gV/0Ko`
+Snapshot ID: `AAAAAL2s8U9kT//0Vdr043KtvQzu7K/l`

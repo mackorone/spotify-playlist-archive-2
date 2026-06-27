@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1590,
+  "num_followers": 1592,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAIe0rgmq5dX274hxxJHSjf",
+  "snapshot_id": "ajxvgAAAAACKlOFWwXKIXg5ZuOnC3gDm",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+        "name": "Play With The Changes (Remixed)",
+        "url": "https://open.spotify.com/album/26w4mlBTB8ykwRpJK3iOr1"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 212463,
-      "name": "New Wave Groove",
-      "url": "https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp"
+      "duration_ms": 284606,
+      "name": "All Along - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/0tdFXgtx5qTAAkUlP1bVGy"
     },
     {
       "added_at": null,
@@ -155,22 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With The Changes (Remixed)",
-        "url": "https://open.spotify.com/album/26w4mlBTB8ykwRpJK3iOr1"
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
       "artists": [
         {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 284606,
-      "name": "All Along - Kaytranada Remix",
-      "url": "https://open.spotify.com/track/0tdFXgtx5qTAAkUlP1bVGy"
+      "duration_ms": 212463,
+      "name": "New Wave Groove",
+      "url": "https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp"
     },
     {
       "added_at": null,
@@ -311,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
       },
       "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+      "duration_ms": 221153,
+      "name": "Feel the Same Way",
+      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
     },
     {
       "added_at": null,
@@ -363,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
       "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 221153,
-      "name": "Feel the Same Way",
-      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "added_at": null,

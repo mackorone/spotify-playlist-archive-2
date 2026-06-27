@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Amanda Magalh\u00e3es ",
-  "num_followers": 290540,
+  "num_followers": 290543,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 194782,
       "name": "BASQUIAT",
       "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -823,6 +823,26 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
+        "name": "Camisa Vintage",
+        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "duration_ms": 144095,
+      "name": "Camisa Vintage",
+      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Camisa Vintage",
-        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
-      },
-      "artists": [
-        {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        },
-        {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
-        }
-      ],
-      "duration_ms": 144095,
-      "name": "Camisa Vintage",
-      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Quem Vai Ser?",
         "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 157918,
       "name": "Quem Vai Ser?",
       "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Terapia Gr\u00e1tis",
         "url": "https://open.spotify.com/album/5msB5hJsTwO5JLdyfV0alp"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 141352,
       "name": "Quadrado Formado",
       "url": "https://open.spotify.com/track/3aXko8H02cLdkto6j2J45I"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
         "name": "Tudo \u00c9 Pra Sempre Agora",
         "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
       },
@@ -1667,26 +1687,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Cairo",
-        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
-        }
-      ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Onda (Cita\u00e7\u00e3o A onda)",
         "url": "https://open.spotify.com/album/7d9PhQLMcRCy290WQgjq78"
       },
@@ -1707,6 +1707,26 @@
       "duration_ms": 178795,
       "name": "Onda (Cita\u00e7\u00e3o A onda)",
       "url": "https://open.spotify.com/track/629TanzHDvm1G2Z9VQsEgE"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1791,26 +1811,6 @@
       "duration_ms": 192001,
       "name": "Depois do Depois",
       "url": "https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     }
   ],
   "unique_name": "brisa",

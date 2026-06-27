@@ -1,13 +1,45 @@
 {
-  "description": "because I will go wherever you wannaaaa",
-  "num_followers": 146442,
+  "description": "tasha on the cover <3",
+  "num_followers": 146451,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNM0zOYcj+/ieYT06+0Oq4qs5Lv",
+  "snapshot_id": "AAAAAFm8Lo5IGs9PHn/pCLuDHUikIUIY",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:51",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:51",
+      "album": {
+        "name": "You Are Spring!",
+        "url": "https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 276546,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
+    },
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
@@ -25,10 +57,10 @@
       "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
     },
     {
-      "added_at": "2026-06-19 04:01:40",
+      "added_at": "2026-06-26 04:01:51",
       "album": {
-        "name": "Secret Language",
-        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
       },
       "artists": [
         {
@@ -36,9 +68,41 @@
           "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
         }
       ],
-      "duration_ms": 233785,
-      "name": "Secret Language",
-      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+      "duration_ms": 221595,
+      "name": "Virtuoso",
+      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:51",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-06-26 04:01:51",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -103,6 +167,22 @@
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
+    },
+    {
+      "added_at": "2026-06-26 04:01:51",
+      "album": {
+        "name": "dad im scared to age",
+        "url": "https://open.spotify.com/album/22lSxuKjTVyrh1zz8t6Ld8"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 173833,
+      "name": "dad im scared to age",
+      "url": "https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -415,6 +495,22 @@
       "duration_ms": 214200,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/4uw8eVbfUdCAjLp3yt4Woe"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
     },
     {
       "added_at": "2026-06-19 04:01:40",

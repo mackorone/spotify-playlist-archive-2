@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2026\. Cover: Young Miko & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,385 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,964 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 26 | [HBU](https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [HBU](https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq) | 4:08 |
 | 27 | [AGRADECIMIENTO](https://open.spotify.com/track/3n2VrtOex6O2jV9SquyEyh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 3:11 |
 | 28 | [TUS AMIGAS](https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [SECHO GANG](https://open.spotify.com/album/2Fk1qxzc8hy0JXVUConpxn) | 2:18 |
-| 29 | [CANAIMA](https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CANAIMA](https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX) | 2:31 |
-| 30 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
+| 29 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
+| 30 | [CANAIMA](https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CANAIMA](https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX) | 2:31 |
 | 31 | [Dónde, Cómo y Cuándo?](https://open.spotify.com/track/2a6SSmS7AVSTZ9CoxNGl8Y) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 3:03 |
 | 32 | [Silverado](https://open.spotify.com/track/7AiufZydQdIZypUWpiEABD) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Silverado](https://open.spotify.com/album/1AFVBBfgExQd6OKIchabdA) | 3:09 |
 | 33 | [pequeñita!](https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [pequeñita!](https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt) | 2:39 |

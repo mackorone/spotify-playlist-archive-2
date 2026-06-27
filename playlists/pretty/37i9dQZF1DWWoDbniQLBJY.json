@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1783874,
+  "num_followers": 1783631,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Pablo Albor\u00e1n Spotify Sessions",
         "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 266104,
       "name": "Pasos de cero - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Parece Mentira",
-        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 213958,
-      "name": "Parece Mentira",
-      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 186000,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 213958,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
-        "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
-      },
-      "artists": [
-        {
-          "name": "Caceres",
-          "url": "https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn"
-        }
-      ],
-      "duration_ms": 190628,
-      "name": "X Aqu\u00ed X All\u00e1 - Acustico",
-      "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Peque\u00f1os Romances",
         "url": "https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 295000,
       "name": "Enredadera",
       "url": "https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
+        "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
+      },
+      "artists": [
+        {
+          "name": "Caceres",
+          "url": "https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn"
+        }
+      ],
+      "duration_ms": 190628,
+      "name": "X Aqu\u00ed X All\u00e1 - Acustico",
+      "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Acoustic Sessions #1",
-        "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
-      },
-      "artists": [
-        {
-          "name": "NOREH",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Maquillaje (Acoustic)",
-      "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Acoustic Sessions #1",
+        "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
+      },
+      "artists": [
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Maquillaje (Acoustic)",
+      "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 174106,
       "name": "Amanec\u00ed Nublado",
       "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "La Parte Buena",
-        "url": "https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc"
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
       },
       "artists": [
         {
-          "name": "Karen M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
-        },
-        {
-          "name": "Fase",
-          "url": "https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 223634,
-      "name": "La Parte Buena",
-      "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
+      "duration_ms": 247213,
+      "name": "En Medio De Este Ruido",
+      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
     }
   ],
   "unique_name": "Ac\u00fasticas",

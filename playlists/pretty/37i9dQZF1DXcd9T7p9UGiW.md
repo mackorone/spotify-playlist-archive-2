@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Yamê and Adekunle Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,218 likes - 81 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,228 likes - 81 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -21887,6 +21887,24 @@
     },
     {
       "album": {
+        "name": "I CAN SEE IT ALL",
+        "url": "https://open.spotify.com/album/1CiUUfgLo2jDO57ILzVjWT"
+      },
+      "artists": [
+        {
+          "name": "LNA",
+          "url": "https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209322,
+      "name": "I CAN SEE IT!",
+      "url": "https://open.spotify.com/track/4Jtj9nmlQb0AZIO0oIafXE"
+    },
+    {
+      "album": {
         "name": "I CAN'T WRITE A SAD SONG",
         "url": "https://open.spotify.com/album/2qan4Iwsd5L9CLIC8suhKh"
       },
@@ -54300,6 +54318,24 @@
       "duration_ms": 249720,
       "name": "Windows",
       "url": "https://open.spotify.com/track/0mt0tRbBHOoWDFH60iFFH1"
+    },
+    {
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "album": {

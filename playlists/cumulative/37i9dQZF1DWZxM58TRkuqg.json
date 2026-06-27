@@ -8077,6 +8077,24 @@
     },
     {
       "album": {
+        "name": "Sehidup Semusik",
+        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Naksir",
+      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
+    },
+    {
+      "album": {
         "name": "Negoro Angin",
         "url": "https://open.spotify.com/album/473skY7alrmJfasO5CIeDm"
       },
@@ -12868,24 +12886,6 @@
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
-    },
-    {
-      "album": {
-        "name": "Sehidup Semusik",
-        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
-      },
-      "artists": [
-        {
-          "name": "Andien",
-          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
     },
     {
       "album": {

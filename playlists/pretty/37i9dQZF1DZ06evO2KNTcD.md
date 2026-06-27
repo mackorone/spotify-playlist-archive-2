@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2KNTcD.md) - [plain]
 | 20 | [Already On It \(feat\. VanJess\)](https://open.spotify.com/track/4jqnSOR7LY14CFjscQN5eO) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [And Friends](https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe) | 3:20 |
 | 21 | [You Love That](https://open.spotify.com/track/1HJeNSQJHw0AS2LCwxezzN) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [You Love That](https://open.spotify.com/album/57soAwpSVcFnCaCCNuC6kn) | 3:51 |
 | 22 | [Precious](https://open.spotify.com/track/4PpurS5c7TgFOSAbw0Z6X2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:20 |
-| 23 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 |
+| 23 | [2019](https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:24 |
 | 24 | [Headlights](https://open.spotify.com/track/7u39iiYvOnNE8jdJ59biAr) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Headlights](https://open.spotify.com/album/68745bIhoFeTtK3L6TYnzI) | 3:33 |
 | 25 | [Someone Else](https://open.spotify.com/track/6eXwjspkJrSnddEOlSOZj1) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Someone Else](https://open.spotify.com/album/5l2DbtOZqazxbx3w2p8sBw) | 3:34 |
 | 26 | [Long Way to Go](https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Long Way to Go](https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw) | 3:18 |
-| 27 | [2019](https://open.spotify.com/track/16b6aJMurd3OxBo92UDtyw) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:24 |
+| 27 | [what are you doing tonight?](https://open.spotify.com/track/0QmSIJ8eUs7vry56VHiiTc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 2:56 |
 | 28 | [Every Time](https://open.spotify.com/track/6NbQqHnfEcAHBPur9IckVL) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Every Time](https://open.spotify.com/album/0kqpfZCDG8NhePJQMhbiFd) | 3:36 |
 | 29 | [hate LA](https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:04 |
 
-Snapshot ID: `ajseAAAAAABy24k5xWXInwjNZmqUD6L8`
+Snapshot ID: `ajxvgAAAAADdBCbCIzqDrVPf5PYCZRsY`

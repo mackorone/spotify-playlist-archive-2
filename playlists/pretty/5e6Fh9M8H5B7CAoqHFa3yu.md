@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 341 likes - 2,413 songs - 5 day 22 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 340 likes - 2,419 songs - 5 day 22 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1745,7 +1745,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1735 | [cALYPSO cRAB](https://open.spotify.com/track/6HISIzKtm64qArW8y0ltCm) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:54 |
 | 1736 | [Ruin You](https://open.spotify.com/track/5DGEFddKdHhqdBQzc33gsy) | [Maddie Hogan](https://open.spotify.com/artist/6quyQgHYbx0Hiv7sz5PPxk) | [Ruin You](https://open.spotify.com/album/7tsnbxX5EpgDphSwgxA5jR) | 3:37 |
 | 1737 | [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 |
-| 1738 | [FRONTIER SNOW](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FRONTIER SNOW](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 |
+| 1738 | [Frontier Snow](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Frontier Snow](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 |
 | 1739 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [IlostmyTime](https://open.spotify.com/artist/2bGSCoX6Q2o1TPU7PiQVIW) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 |
 | 1740 | [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 |
 | 1741 | [Zenith](https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 |
@@ -2421,5 +2421,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2411 | [I LIGHT UP THE ROOM \(Kids EDM Anthem\)](https://open.spotify.com/track/3Go5cJCWjciTk9LkkCnmcy) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [I LIGHT UP THE ROOM \(Kids EDM Anthem\)](https://open.spotify.com/album/7tJiiukjKAdM1UXJC3OBdH) | 2:47 |
 | 2412 | [Bath Time Wind Down \(Let’s Talk About Your Day\)](https://open.spotify.com/track/1QW0z7lBzuvrlRLjoZlIjv) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [The Bonding Songs Collection](https://open.spotify.com/album/7kHZyIzqOZsshcXqGshcce) | 1:55 |
 | 2413 | [Nieład](https://open.spotify.com/track/783FpVzfgZ7odINgFMNTS3) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF) | [Nieład](https://open.spotify.com/album/2Dugjb0uZBqmWrgbQHrBGf) | 2:45 |
+| 2414 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
+| 2415 | [I Looked Everywhere](https://open.spotify.com/track/22M0EXBxCgecKH6JYhIIUj) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [I Looked Everywhere](https://open.spotify.com/album/7av5Ltu1K5UEHhHzDcBOqq) | 3:45 |
+| 2416 | [Vatandas Hayri Bonus Track](https://open.spotify.com/track/46fvBHlIq3ncEGpmLDHvYb) | [Nedim ERTUNA](https://open.spotify.com/artist/0MFMm7OrfEjP2QmfFQfWLs) | [Vatandas Hayri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G85fepoB8kU82QTEdICjM) | 2:00 |
+| 2417 | [Tight Formation](https://open.spotify.com/track/5TxViqOacvFQbBZHxdVFsi) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [Team Routine Cinema](https://open.spotify.com/album/6YnybNMuQYQw2azSLErpbp) | 3:32 |
+| 2418 | [TIMELINE THE BROKEN](https://open.spotify.com/track/2M7H2SHbVMXFBQ9E3Z63SV) | [JNill](https://open.spotify.com/artist/6B95fKjfN8G03ZmBjmuuO5) | [TIMELINE THE BROKEN](https://open.spotify.com/album/5IpGEqV3cvoV5Rp8xhuqR5) | 2:37 |
+| 2419 | [DEROGATORY](https://open.spotify.com/track/6vFNlT9rxihG5ey0gxUkJo) | [YungBart](https://open.spotify.com/artist/3Zp9dPmBEhieo5EJa9RE1x) | [BIG BREAK](https://open.spotify.com/album/4d1jBtNusVXgO5K3Cun1IM) | 3:08 |
 
-Snapshot ID: `AAAKOamykF4Lf+OFWvyBb3sk79l3UCeq`
+Snapshot ID: `AAAKQA03OJHZNxeUZaFyKgOaFeWVc5xU`

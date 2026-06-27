@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,138 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,192 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 24 | [Bheegi Bheegi](https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Bheegi Bheegi](https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX) | 3:39 |
 | 25 | [Rang Lageya](https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rang Lageya](https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr) | 3:47 |
 | 26 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 |
-| 27 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 |
-| 28 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 |
+| 27 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 |
+| 28 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 |
 | 29 | [Heer Ranjha](https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Heer Ranjha](https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63) | 3:43 |
 | 30 | [Yeh Raaten Yeh Mausam](https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC), [Simran Sehgal](https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D) | [Yeh Raaten Yeh Mausam \- Sanam And Simran Shgal](https://open.spotify.com/album/5eREKQz2rtf9lBwvsTdFjk) | 3:28 |
 | 31 | [Charmer](https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:55 |

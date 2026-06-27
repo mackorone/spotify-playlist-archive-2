@@ -4,7 +4,7 @@
 
 > The best of electronic trap ❤️‍🔥 with Lizdek
 
-932 songs - 2 day 0 hr 27 min
+933 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Buck](https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Lit Lords](https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi) | [Buck](https://open.spotify.com/album/2TtKVJdubkLQ7OrxU5GuHE) | 2:41 | 2022-05-13 | 2023-04-20 |
 | [Buckshots](https://open.spotify.com/track/2kyAeu0jE7sKArUWSQRFbH) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Hostage Situation](https://open.spotify.com/artist/1UnA09CtdmT16mvmzbXnON) | [Buckshots](https://open.spotify.com/album/7mKDEqYo9CuJaN8S2vrwn5) | 2:41 | 2024-04-19 | 2024-10-05 |
 | [Burn For You](https://open.spotify.com/track/7p4PjjO0d9Y8HgVZ7ptT3g) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [RayJhin](https://open.spotify.com/artist/1Qt9Dc7m0ewnea08te3FvF) | [Burn For You](https://open.spotify.com/album/10TlIL9zil6BfNcSF3jBuD) | 3:42 | 2025-09-26 | 2026-03-06 |
-| [BURNER](https://open.spotify.com/track/13naMEc19fkZTX8QEbwnVz) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [BURNER](https://open.spotify.com/album/5cPWgNgAOEy1DYQPu0gbcC) | 2:47 | 2025-10-24 |  |
+| [BURNER](https://open.spotify.com/track/13naMEc19fkZTX8QEbwnVz) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [BURNER](https://open.spotify.com/album/5cPWgNgAOEy1DYQPu0gbcC) | 2:47 | 2025-10-24 | 2026-06-27 |
 | [Burning Bored](https://open.spotify.com/track/4rNZ1AbKc3lwJPg3eIFNmK) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Crosstalk](https://open.spotify.com/artist/6xS8ncgjhNBXYqKDgOLKBq) | [AXIS](https://open.spotify.com/album/4J91AXhVRSPBpYCjzNiOPj) | 2:22 | 2023-12-22 | 2024-03-02 |
 | [Burning Doghouse](https://open.spotify.com/track/4FGtOCJV6ExayepusoUTpl) | [Eastghost](https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv) | [Burning Doghouse](https://open.spotify.com/album/0dE9NXYwSE1236aycODSNd) | 2:09 | 2024-03-01 | 2024-06-18 |
 | [Bust Down](https://open.spotify.com/track/7GXLKIvySJ0jTObHCJtqqV) | [XAVAGE](https://open.spotify.com/artist/0tqQHxodKRUNA18vrWamLh) | [Bust Down](https://open.spotify.com/album/6zYysx1Wvf7iD3SmwPmnnb) | 3:35 | 2024-05-10 | 2024-07-13 |
@@ -543,6 +543,7 @@
 | [Mistakes](https://open.spotify.com/track/1Ezrl79QX3LqBk9v3qIdCl) | [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2), [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Mistakes](https://open.spotify.com/album/0PMQBeEZ2vf4GoOdgxgmlZ) | 2:54 | 2021-11-19 | 2022-01-25 |
 | [Mixed Emotions](https://open.spotify.com/track/5kBNpl4xhFVYlaw5I9BClM) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [Mixed Emotions](https://open.spotify.com/album/7GOms6WDyv5XhcwTl2NpDz) | 3:43 | 2024-03-01 | 2024-03-16 |
 | [MONEY COUNT](https://open.spotify.com/track/6S7fnId2yjrAe5kswGxfOs) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5), [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR) | [MONEY COUNT](https://open.spotify.com/album/0VF6mFQLk9YHlm4LYCM4tA) | 2:59 | 2024-12-06 | 2025-04-12 |
+| [MONSOON](https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV) | [FLY](https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda) | [MONSOON](https://open.spotify.com/album/5A60sszN1Cgkt9kWXme7HT) | 2:58 | 2026-06-26 |  |
 | [Monument](https://open.spotify.com/track/7bYJvPqvCC5tWCLp0zzXn4) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [eliderp](https://open.spotify.com/artist/3xOyUM5jZfbrDcHdI1Hn1J) | [Awakening Compilation 02](https://open.spotify.com/album/1wK8FO6zJxsXIiodeQuRar) | 2:21 | 2025-08-15 | 2025-09-06 |
 | [Monzo](https://open.spotify.com/track/4uEE7AyvysiCXq7jBdj4NJ) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [Gaszia](https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z), [Kollaba](https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG) | [Monzo](https://open.spotify.com/album/0SzAdr9vEME4ynywDkEZLS) | 3:14 | 2023-12-08 | 2023-12-11 |
 | [Monzo](https://open.spotify.com/track/6AU1pwtdQEzBVhFFpsMsMo) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [X&G](https://open.spotify.com/artist/5ic5UHDgniVG1xKLAIU9sG), [Gaszia](https://open.spotify.com/artist/4g1Lsci8x957T6ksPgsW6Z), [Kollaba](https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG) | [Monzo](https://open.spotify.com/album/5RqzZF8XxszlNScsFkQBAu) | 3:14 | 2023-12-08 | 2024-01-06 |

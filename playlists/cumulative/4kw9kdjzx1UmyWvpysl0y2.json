@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 136170,
       "name": "2 u",
       "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 86315,
       "name": "ALLDAWAY",
       "url": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
@@ -3284,7 +3284,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 123697,
       "name": "BREAK YOUR NECK",
       "url": "https://open.spotify.com/track/4OB9Vpew2T1eDEh8kGarFp"
@@ -5306,7 +5306,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 165217,
       "name": "Dancing Through It All",
       "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
@@ -7858,7 +7858,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195862,
       "name": "Feed The Fire",
       "url": "https://open.spotify.com/track/0n4nWZZlJhoYKT3ivA0Tqw"
@@ -9912,7 +9912,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 227657,
       "name": "Gumraah",
       "url": "https://open.spotify.com/track/5CAYoLs7vrGVMT29o5acCL"
@@ -11904,7 +11904,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 220093,
       "name": "JUST A PART OF ME",
       "url": "https://open.spotify.com/track/2yDlUK6T3DwuHDxtVPqwyV"
@@ -15087,6 +15087,32 @@
     },
     {
       "album": {
+        "name": "Nevada (TELYKAST Remix)",
+        "url": "https://open.spotify.com/album/4oML5U5XXyNqtZoshm6uud"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188362,
+      "name": "Nevada - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/1DruZpVMvPr1vfFeXhDBr6"
+    },
+    {
+      "album": {
         "name": "Nevada (Vicetone Lofi Mix)",
         "url": "https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA"
       },
@@ -16994,7 +17020,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 172344,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X"
@@ -17832,7 +17858,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 215131,
       "name": "Reach the Stars",
       "url": "https://open.spotify.com/track/4eyzYTELBYQBtOOr9PZxNF"
@@ -18840,7 +18866,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 133181,
       "name": "Rockin The Drums",
       "url": "https://open.spotify.com/track/4KaepqQ7soHYflZmSDS3YB"
@@ -20082,7 +20108,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206400,
       "name": "Shock Limit",
       "url": "https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq"
@@ -21232,6 +21258,48 @@
       "duration_ms": 178124,
       "name": "STEREO",
       "url": "https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
     },
     {
       "album": {
@@ -23242,7 +23310,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 243453,
       "name": "THUNDER",
       "url": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
@@ -23352,7 +23420,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 137142,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f"
@@ -23568,7 +23636,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162461,
       "name": "touch - Disciples Remix",
       "url": "https://open.spotify.com/track/37HcLbQGmm1mrJUjkoxj0H"

@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2183415,
+  "num_followers": 2183400,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "The Shadow of Your Smile",
+        "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "duration_ms": 155741,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Paramount Quartet",
         "url": "https://open.spotify.com/album/17ACl4xvmRJAPgjcBJEPmh"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 444677,
       "name": "First Song",
       "url": "https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
-        "name": "The Shadow of Your Smile",
-        "url": "https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC"
-      },
-      "artists": [
-        {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
-        }
-      ],
-      "duration_ms": 155741,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Ben Webster Meets Oscar Peterson",
-        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -811,6 +791,26 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "Ben Webster Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/5gtIMCsxsCn9wxlfed5Doy"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Caris Hermes",
         "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 166983,
       "name": "Twelve for J.",
       "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
-        "name": "M\u00f8rket Er Bl\u00e5t",
-        "url": "https://open.spotify.com/album/1jrB9I3aANNfqzto0Dp1fn"
-      },
-      "artists": [
-        {
-          "name": "Hvalfugl",
-          "url": "https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "M\u00f8rket Er Bl\u00e5t",
-      "url": "https://open.spotify.com/track/6Tv9pga7wRDf9zNsgUd5OH"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -867,6 +851,22 @@
       "duration_ms": 229274,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/0fselSFQD5IQ45w1ZMhBBV"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "M\u00f8rket Er Bl\u00e5t",
+        "url": "https://open.spotify.com/album/1jrB9I3aANNfqzto0Dp1fn"
+      },
+      "artists": [
+        {
+          "name": "Hvalfugl",
+          "url": "https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "M\u00f8rket Er Bl\u00e5t",
+      "url": "https://open.spotify.com/track/6Tv9pga7wRDf9zNsgUd5OH"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "This Is The Day",
-        "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
       },
       "artists": [
         {
-          "name": "Giovanni Guidi Trio",
-          "url": "https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy"
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
         }
       ],
-      "duration_ms": 297546,
-      "name": "Trilly - Variation",
-      "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
+      "duration_ms": 267565,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "Second Strike",
-        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+        "name": "This Is The Day",
+        "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
       },
       "artists": [
         {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+          "name": "Giovanni Guidi Trio",
+          "url": "https://open.spotify.com/artist/5AjiK2OwwKdIAZddY1gCgy"
         }
       ],
-      "duration_ms": 267565,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
+      "duration_ms": 297546,
+      "name": "Trilly - Variation",
+      "url": "https://open.spotify.com/track/4gT8dnQ05pxVQecqDNPRlV"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "There Will Always Be We",
+        "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
+      },
+      "artists": [
+        {
+          "name": "David Gibson",
+          "url": "https://open.spotify.com/artist/2xtRXEqN4qxtf4AYocor5g"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "There Will Always Be We",
+      "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Last Decade",
         "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "There Will Always Be We",
-        "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
-      },
-      "artists": [
-        {
-          "name": "David Gibson",
-          "url": "https://open.spotify.com/artist/2xtRXEqN4qxtf4AYocor5g"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "There Will Always Be We",
-      "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "The Past Is What Changes The Most",
         "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
       },
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "Oblique Two-Step",
+        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
+      },
+      "artists": [
+        {
+          "name": "Le Boeuf Brothers",
+          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Oblique Two-Step",
+      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Ballad For Bernt",
         "url": "https://open.spotify.com/album/2YkspzNzQEkKA7byABIRmh"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 357734,
       "name": "Ballad For Bernt",
       "url": "https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
-        "name": "Oblique Two-Step",
-        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf Brothers",
-          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Oblique Two-Step",
-      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        }
-      ],
-      "duration_ms": 270508,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
         "name": "Dialect",
         "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 222858,
       "name": "Road to Eden",
       "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/557dwqxs1MZqGLPe1p4qZl"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        }
+      ],
+      "duration_ms": 270508,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/5xfV4wVvcSYKlItHIyGRpN"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "Broken Balance",
+        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
+      },
+      "artists": [
+        {
+          "name": "Shalosh",
+          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
+        }
+      ],
+      "duration_ms": 160999,
+      "name": "Quiet Corner",
+      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Ledsen",
         "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 432226,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/5GSriSRLRA71Td2F3CR1Ni"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
-        "name": "Broken Balance",
-        "url": "https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb"
-      },
-      "artists": [
-        {
-          "name": "Shalosh",
-          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
-        }
-      ],
-      "duration_ms": 160999,
-      "name": "Quiet Corner",
-      "url": "https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6"
     },
     {
       "added_at": "2026-06-12 07:58:54",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2026-06-12 07:58:54",
       "album": {
+        "name": "Outside Introspections",
+        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
+      },
+      "artists": [
+        {
+          "name": "Federica Lorusso",
+          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
+        }
+      ],
+      "duration_ms": 309960,
+      "name": "Just Go Ahead",
+      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+    },
+    {
+      "added_at": "2026-06-12 07:58:54",
+      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
-    },
-    {
-      "added_at": "2026-06-12 07:58:54",
-      "album": {
-        "name": "Outside Introspections",
-        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
-      },
-      "artists": [
-        {
-          "name": "Federica Lorusso",
-          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
-        }
-      ],
-      "duration_ms": 309960,
-      "name": "Just Go Ahead",
-      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
     },
     {
       "added_at": "2026-06-12 07:58:54",

@@ -4991,7 +4991,7 @@
     },
     {
       "album": {
-        "name": "I Knew It, I Knew You",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
@@ -5004,7 +5004,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
@@ -9359,6 +9359,36 @@
     },
     {
       "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
+    },
+    {
+      "album": {
         "name": "I Love You So F***ing Much",
         "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
       },
@@ -11501,24 +11531,6 @@
     },
     {
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -12562,6 +12574,24 @@
       "duration_ms": 233666,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
+    },
+    {
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "album": {

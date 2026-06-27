@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 289652,
+  "num_followers": 290030,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -1783,42 +1783,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "A Day in the Life",
-        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        },
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 280880,
-      "name": "Georgy Porgy (feat. Faith Evans)",
-      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Right Here - Human Nature Radio Mix",
-      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
@@ -1843,6 +1807,42 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Right Here - Human Nature Radio Mix",
+      "url": "https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "A Day in the Life",
+        "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 280880,
+      "name": "Georgy Porgy (feat. Faith Evans)",
+      "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Dip It Low",
         "url": "https://open.spotify.com/album/3xY1zD84VivPdS2JMY7IY5"
       },
@@ -1855,22 +1855,6 @@
       "duration_ms": 197186,
       "name": "Dip It Low",
       "url": "https://open.spotify.com/track/73JCugW0hKqzGYGwXHVzQ4"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Ideal",
-        "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
-      },
-      "artists": [
-        {
-          "name": "Ideal",
-          "url": "https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT"
-        }
-      ],
-      "duration_ms": 228159,
-      "name": "Whatever - Radio Edit",
-      "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Ideal",
+        "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
+      },
+      "artists": [
+        {
+          "name": "Ideal",
+          "url": "https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT"
+        }
+      ],
+      "duration_ms": 228159,
+      "name": "Whatever - Radio Edit",
+      "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
       },
@@ -1915,30 +1915,6 @@
       "duration_ms": 265666,
       "name": "Are You That Somebody?",
       "url": "https://open.spotify.com/track/2TNaQWWTeTyig2wsr1BNaL"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Ryan Foley",
-          "url": "https://open.spotify.com/artist/5zdR4t6J5pyMrtS1SQCzKH"
-        }
-      ],
-      "duration_ms": 275600,
-      "name": "One Minute Man (feat. Jay-Z) - Remix",
-      "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1963,6 +1939,30 @@
       "duration_ms": 275266,
       "name": "Trade It All, Pt. 2 (feat. P. Diddy & Jagged Edge)",
       "url": "https://open.spotify.com/track/6h7PQQIUQSNSAWqRe98MBU"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Ryan Foley",
+          "url": "https://open.spotify.com/artist/5zdR4t6J5pyMrtS1SQCzKH"
+        }
+      ],
+      "duration_ms": 275600,
+      "name": "One Minute Man (feat. Jay-Z) - Remix",
+      "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
     },
     {
       "added_at": "2024-07-15 07:37:26",

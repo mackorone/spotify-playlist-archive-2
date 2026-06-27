@@ -4,7 +4,7 @@
 
 > The sweetest bops\. Cover: MEOVV
 
-287 songs - 14 hr 0 min
+288 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 | 2023-03-22 | 2023-08-11 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2023-03-22 | 2023-06-15 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2025-08-14 |
-| [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-10-24 |  |
+| [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-10-24 | 2026-06-27 |
 | [in my bag](https://open.spotify.com/track/2anphMUvFBgj9KVWcmo1kq) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [in my bag](https://open.spotify.com/album/55bpPR804d4conpkaB1myb) | 2:35 | 2024-11-25 | 2025-10-25 |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-08-04 | 2025-08-14 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-04 |  |
@@ -224,6 +224,7 @@
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-05 | 2023-12-09 |
 | [Run Away](https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm) | 3:18 | 2024-09-06 | 2026-03-10 |
 | [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-08-29 |  |
+| [Say It](https://open.spotify.com/track/4IiZmwQIkApeVxHDujXJft) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/65RBsDOKOTGm4EW6dGgV6a) | 3:04 | 2026-06-26 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-03-22 |  |
 | [See U Tonight](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 | 2025-05-09 | 2025-11-29 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-22 | 2024-03-28 |

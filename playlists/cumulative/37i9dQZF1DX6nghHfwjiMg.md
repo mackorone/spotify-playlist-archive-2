@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-307 songs - 15 hr 48 min
+308 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [DEJA DE SUFRIR](https://open.spotify.com/track/1YopQmeeJjiwp1BYPaCvtK) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [DEJA DE SUFRIR](https://open.spotify.com/album/0VOsFWnvJ8GE75qVnsk4H6) | 2:16 | 2026-04-14 | 2026-04-24 |
 | [Dejame de Joder](https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE) | [SOFA](https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX) | [Dejame de Joder](https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6) | 2:26 | 2026-04-24 |  |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2021-11-11 | 2023-06-02 |
+| [Diablo Que Soy](https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Diablo Que Soy](https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ) | 2:47 | 2026-06-26 |  |
 | [Dime](https://open.spotify.com/track/07K6fgUdBPCL5ZzhRdu8H0) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq) | 3:13 | 2023-06-01 | 2024-05-08 |
 | [Dime](https://open.spotify.com/track/2msCd7i6rtFqM8lU9lnJdm) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [AQUA](https://open.spotify.com/album/0UTvRc4RJLiFok8MG4KbWC) | 3:13 | 2023-06-01 | 2024-04-19 |
 | [Dispuesto A Morir](https://open.spotify.com/track/67SlD9Piai5B0tHaFaUbbY) | [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p), [Los Asuntos Pendientes](https://open.spotify.com/artist/1IwFwWTYrADJ1S25hJGVrZ) | [Dispuesto A Morir](https://open.spotify.com/album/7wqfqlI6yxRQrjVo7GIG8P) | 3:24 | 2026-04-14 |  |

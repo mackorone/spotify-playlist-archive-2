@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ROBI",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ALMAS",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 176721,
       "name": "Algo que decirte",
       "url": "https://open.spotify.com/track/7chnaUARE0kchT39P2mDD0"
@@ -1402,6 +1402,24 @@
       "duration_ms": 152249,
       "name": "Amor Y Sal",
       "url": "https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh"
+    },
+    {
+      "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
     },
     {
       "album": {
@@ -2699,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
+    },
+    {
+      "album": {
         "name": "las cartas pendientes",
         "url": "https://open.spotify.com/album/3wALfCDPs8EfeZXDHZr9U0"
       },
@@ -3102,7 +3138,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167782,
       "name": "BRRREAK!",
       "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
@@ -5306,7 +5342,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 161249,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
@@ -6467,6 +6503,28 @@
     },
     {
       "album": {
+        "name": "Dumb Boy",
+        "url": "https://open.spotify.com/album/5EkTWCPU6bNaFGvodiYY05"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        },
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183307,
+      "name": "Dumb Boy",
+      "url": "https://open.spotify.com/track/1NnLLdGhBeQRZ8LNGM0CWb"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame Entrar",
         "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
       },
@@ -6566,6 +6624,24 @@
       "duration_ms": 162435,
       "name": "D\u00edmelo",
       "url": "https://open.spotify.com/track/0L2FkH5RUaRlkBajIhRpwK"
+    },
+    {
+      "album": {
+        "name": "Easy Love",
+        "url": "https://open.spotify.com/album/3XLOBz1zhjbYgY5HQgQXum"
+      },
+      "artists": [
+        {
+          "name": "ISADORA",
+          "url": "https://open.spotify.com/artist/3y581XbiJyiM9Y0HBoZk8C"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179702,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/40XRlswBO92cdV7jS7VqIA"
     },
     {
       "album": {
@@ -7924,7 +8000,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 216594,
       "name": "esperando que vuelvas",
       "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
@@ -13763,6 +13839,24 @@
     },
     {
       "album": {
+        "name": "ANTES DE QUE SEA TARDE",
+        "url": "https://open.spotify.com/album/7z513StymZaeATXNoCBeDr"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "mientras pueDa",
+      "url": "https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU"
+    },
+    {
+      "album": {
         "name": "Miguel",
         "url": "https://open.spotify.com/album/3JhJXzDLUmLih2prJA38hD"
       },
@@ -13922,7 +14016,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 147423,
       "name": "Mine",
       "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
@@ -16139,6 +16233,24 @@
     },
     {
       "album": {
+        "name": "Otro Cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/0QCB3aF4ABfpm7oqGpaKVp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Otro Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6NtUqkWvw9oemFVi2q7dKz"
+    },
+    {
+      "album": {
         "name": "Oye Baby",
         "url": "https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d"
       },
@@ -17548,6 +17660,24 @@
       "duration_ms": 180000,
       "name": "Por Ti Ya No Creo En Los Hombres",
       "url": "https://open.spotify.com/track/3xo0LrhsESiMMBXP06HkQ3"
+    },
+    {
+      "album": {
+        "name": "POR VOC\u00ca",
+        "url": "https://open.spotify.com/album/6KW4Rw1p90W3fNsdmrTp73"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171831,
+      "name": "POR VOC\u00ca",
+      "url": "https://open.spotify.com/track/4WeQWRdexqu5Q2VlSGkqs0"
     },
     {
       "album": {
@@ -22648,7 +22778,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177605,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/346d226RJrXm7dQc448i0l"
@@ -22896,7 +23026,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 155255,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"
@@ -23204,6 +23334,24 @@
       "duration_ms": 186451,
       "name": "Why Bye",
       "url": "https://open.spotify.com/track/1PVKh7FCbXovBOAgjRiL8I"
+    },
+    {
+      "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
     },
     {
       "album": {
@@ -23530,7 +23678,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 194755,
       "name": "YOU COULD BE THAT BOY",
       "url": "https://open.spotify.com/track/6k5dlT8rllGwzWSAbjtySZ"

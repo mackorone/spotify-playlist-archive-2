@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,070 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,137 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 2 | [Absolution](https://open.spotify.com/track/3jfHclM5oNBSUvuBS7OgPj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Absolution](https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9) | 4:05 |
 | 3 | [Reflector](https://open.spotify.com/track/7F7QAh5F3apMmeHsLdtHLw) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Reflector](https://open.spotify.com/album/3TnlH9dIjNEbjckdYFNbyy) | 2:59 |
 | 4 | [Neighbor](https://open.spotify.com/track/5pYQZ2HlhVj3dC3zaUV5uA) | [Rachel DeLong](https://open.spotify.com/artist/7DUD02SdWCZHYKKGjnwUQK) | [Neighbor](https://open.spotify.com/album/5pLSE330HFHVMRJEl6jAlP) | 2:44 |
-| 5 | [Cope](https://open.spotify.com/track/1JvYUtwKW4e5L9q5ZFXyAP) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Trevor McNevan](https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6), [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Cope](https://open.spotify.com/album/5kSSwbAlfFNo9mBonOamKv) | 3:38 |
-| 6 | [Change](https://open.spotify.com/track/08xjvKLz3RDTANr5YCCr91) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Change](https://open.spotify.com/album/3oOSJOCqC2FkOG0TvGj1yS) | 2:38 |
-| 7 | [just look at HIM](https://open.spotify.com/track/7vj2tW89HC3WDK5ijLNZXp) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [just look at HIM](https://open.spotify.com/album/0C3EDOYCgh2Wik5SQtkRs5) | 3:09 |
+| 5 | [A Symphony](https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [A Symphony](https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD) | 3:28 |
+| 6 | [Cope](https://open.spotify.com/track/1JvYUtwKW4e5L9q5ZFXyAP) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Trevor McNevan](https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6), [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Cope](https://open.spotify.com/album/5kSSwbAlfFNo9mBonOamKv) | 3:38 |
+| 7 | [Change](https://open.spotify.com/track/08xjvKLz3RDTANr5YCCr91) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Change](https://open.spotify.com/album/3oOSJOCqC2FkOG0TvGj1yS) | 2:38 |
 | 8 | [Get Behind Me](https://open.spotify.com/track/1YB5yZSciFB2PNoML0ZOhr) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [Get Behind Me](https://open.spotify.com/album/2dztwnANbx13xfrRC6vDe8) | 3:45 |
 | 9 | [SEVENS](https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [SEVENS](https://open.spotify.com/album/5e5OdQvdEb6hzOvTwMbjM6) | 4:21 |
 | 10 | [Holy Forever](https://open.spotify.com/track/3DKhJAdyjssQhYVjJUJUqt) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Thy Kingdom Come](https://open.spotify.com/album/5BdXHH1gfAfyHOxzcxTAYP) | 4:35 |
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 18 | [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 |
 | 19 | [GRATITUDE \(PUNK VERSION\)](https://open.spotify.com/track/624YC83QIECcwXCZmpzSb3) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [GRATITUDE \(PUNK VERSION\)](https://open.spotify.com/album/66KECyamPisaXZX8homxpF) | 4:16 |
 | 20 | [Can't Wait](https://open.spotify.com/track/5SxyoSH2J7zqesffjDFv96) | [Natural State](https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1) | [Can't Wait](https://open.spotify.com/album/6Z0toaIlY6IjuQkjIqDtBW) | 3:03 |
-| 21 | [Sulcus](https://open.spotify.com/track/6AqUCz7ewZxEhTN13Tg1Vj) | [THE ONE HE LOVED](https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9), [JORDEN MICHAEL](https://open.spotify.com/artist/7iMmy6p7MMnfoeY52ZAPZh) | [Sulcus](https://open.spotify.com/album/0jqcrUZDsTfighqPMBTmC5) | 4:48 |
-| 22 | [Fly](https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Fly](https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r) | 3:04 |
-| 23 | [Revival](https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj) | [Glory in the Ruins](https://open.spotify.com/artist/6clJ1baTREjSAxrsec1bTo) | [Revival](https://open.spotify.com/album/5j3IED9rKSCzf7T2JgCU77) | 2:43 |
-| 24 | [Paper Doll](https://open.spotify.com/track/40fDHX0Ac4NPheT1Dys5md) | [ALTIRA](https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs) | [Death Of Fear](https://open.spotify.com/album/2WZBkPF4cXKEpTEJfye0dj) | 3:31 |
-| 25 | [How Much Longer?](https://open.spotify.com/track/0GrRkiNOYZZBoBQ9SovC3Y) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [How Much Longer?](https://open.spotify.com/album/01bwQUD2rxE4QIBIpscsCQ) | 3:03 |
+| 21 | [Ambush](https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [Voyage](https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj) | 4:13 |
+| 22 | [Sulcus](https://open.spotify.com/track/6AqUCz7ewZxEhTN13Tg1Vj) | [THE ONE HE LOVED](https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9), [JORDEN MICHAEL](https://open.spotify.com/artist/7iMmy6p7MMnfoeY52ZAPZh) | [Sulcus](https://open.spotify.com/album/0jqcrUZDsTfighqPMBTmC5) | 4:48 |
+| 23 | [Fly](https://open.spotify.com/track/5lzec28JNA1x8Rjnz3zr1a) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Fly](https://open.spotify.com/album/55bAheFPgMQHbMR8WNs97r) | 3:04 |
+| 24 | [Revival](https://open.spotify.com/track/30DoqK6rLbkFOXpJDzljBj) | [Glory in the Ruins](https://open.spotify.com/artist/6clJ1baTREjSAxrsec1bTo) | [Revival](https://open.spotify.com/album/5j3IED9rKSCzf7T2JgCU77) | 2:43 |
+| 25 | [Paper Doll](https://open.spotify.com/track/40fDHX0Ac4NPheT1Dys5md) | [ALTIRA](https://open.spotify.com/artist/49d4O0218ZI3FKYNFLgrNs) | [Death Of Fear](https://open.spotify.com/album/2WZBkPF4cXKEpTEJfye0dj) | 3:31 |
 | 26 | [Showtime \- Live](https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Showtime \(Live\)](https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X) | 4:54 |
 | 27 | [FREE! \- Live](https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [FREE! \(Live\)](https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy) | 3:45 |
 | 28 | [I Declare, I Decree \- Live](https://open.spotify.com/track/7kSDH4uUG1zprJHGJ1c49Q) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Declare, I Decree \(Live\)](https://open.spotify.com/album/1GOjbafLvn5RCZUiOVNmDb) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [PARALLEL \- Live](https://open.spotify.com/track/0zENtJckaa2Nn4XKoKwPZK) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [PARALLEL \(Live\)](https://open.spotify.com/album/4WzVV8wFMiPCPJwLeQ7AK8) | 5:38 |
 | 75 | [Promise](https://open.spotify.com/track/6Q5YYS4lXSO77pnepu4Tte) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Promise](https://open.spotify.com/album/4OK9yH5JyZttlWxvzgRg0G) | 3:50 |
 
-Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`
+Snapshot ID: `AAAAAG7a+rIyh7pZaVFsB4fmP8hDbg0S`

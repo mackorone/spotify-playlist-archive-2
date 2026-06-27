@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
-  "num_followers": 105216,
+  "num_followers": 105258,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -391,8 +391,8 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Maskara (From \"Main Vaapas Aaunga\")",
-        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
+        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
       },
       "artists": [
         {
@@ -400,21 +400,17 @@
           "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Vedang Raina",
-          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
-        },
-        {
-          "name": "Nilanjana Ghosh",
-          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
-        },
-        {
           "name": "Irshad Kamil",
           "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Deepali Sahay",
+          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
         }
       ],
-      "duration_ms": 233741,
-      "name": "Maskara (From \"Main Vaapas Aaunga\")",
-      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
+      "duration_ms": 244647,
+      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -527,8 +523,8 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
+        "name": "Maskara (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
       },
       "artists": [
         {
@@ -536,17 +532,21 @@
           "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
         },
         {
-          "name": "Deepali Sahay",
-          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
+          "name": "Nilanjana Ghosh",
+          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 244647,
-      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
-      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
+      "duration_ms": 233741,
+      "name": "Maskara (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Feeka",
-        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        },
-        {
-          "name": "NEVERSOBER",
-          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Feeka",
-      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Na Lage Nazar",
         "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 180000,
       "name": "Na Lage Nazar",
       "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "Feeka",
+        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Feeka",
+      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -851,30 +851,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 255652,
-      "name": "Ishq Nibhaavan De - Neeti Mohan (From \"Chand Mera Dil\")",
-      "url": "https://open.spotify.com/track/3N6ZUiJdoHPAyYDebUobCw"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Saanware",
         "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
@@ -927,6 +903,30 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 255652,
+      "name": "Ishq Nibhaavan De - Neeti Mohan (From \"Chand Mera Dil\")",
+      "url": "https://open.spotify.com/track/3N6ZUiJdoHPAyYDebUobCw"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Balma",
         "url": "https://open.spotify.com/album/0cIUcddrziyaJ8I8WIqLjT"
       },
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        }
+      ],
+      "duration_ms": 230904,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Behtar",
         "url": "https://open.spotify.com/album/2pK7DPxzdkF0LMpVpiYxTm"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 172405,
       "name": "Behtar",
       "url": "https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
-      },
-      "artists": [
-        {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
-        }
-      ],
-      "duration_ms": 230904,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Koyaliya",
-        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
-      },
-      "artists": [
-        {
-          "name": "Apurva Nisshad",
-          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
-        },
-        {
-          "name": "Abhishek Bonthu",
-          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
-        },
-        {
-          "name": "Pranav Barange",
-          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Koyaliya",
-      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Maan Jao",
         "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
@@ -1347,22 +1323,26 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Rooh",
-        "url": "https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI"
+        "name": "Koyaliya",
+        "url": "https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af"
       },
       "artists": [
         {
-          "name": "Dirty Jays",
-          "url": "https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft"
+          "name": "Apurva Nisshad",
+          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
         },
         {
-          "name": "Kamakshi Khanna",
-          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+          "name": "Abhishek Bonthu",
+          "url": "https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5"
+        },
+        {
+          "name": "Pranav Barange",
+          "url": "https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI"
         }
       ],
-      "duration_ms": 215994,
-      "name": "Rooh",
-      "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
+      "duration_ms": 258000,
+      "name": "Koyaliya",
+      "url": "https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1379,6 +1359,26 @@
       "duration_ms": 212909,
       "name": "Ho Jaa",
       "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "Rooh",
+        "url": "https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI"
+      },
+      "artists": [
+        {
+          "name": "Dirty Jays",
+          "url": "https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft"
+        },
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "duration_ms": 215994,
+      "name": "Rooh",
+      "url": "https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Gal Dil Di",
+        "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        }
+      ],
+      "duration_ms": 149662,
+      "name": "Gal Dil Di",
+      "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Fasaana",
         "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 195789,
       "name": "Ankhiyan Roye",
       "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Gal Dil Di",
-        "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
-      },
-      "artists": [
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Daddy Beats",
-          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
-        }
-      ],
-      "duration_ms": 149662,
-      "name": "Gal Dil Di",
-      "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
     },
     {
       "added_at": "2026-06-23 04:05:06",

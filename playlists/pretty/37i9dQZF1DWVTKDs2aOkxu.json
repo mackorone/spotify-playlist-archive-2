@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Cover: Phoebe Bridgers",
-  "num_followers": 1163051,
+  "num_followers": 1163091,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUKyQVjONjY1kuWKFFLzdtDiffk",
+  "snapshot_id": "AAAAANL5z5KRzvoP0OAg00A4IwVoc2cy",
   "tracks": [
     {
       "added_at": "2026-06-25 23:00:36",
@@ -55,6 +55,38 @@
       "duration_ms": 211486,
       "name": "Whatever You Wanna",
       "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
+    },
+    {
+      "added_at": "2026-06-25 23:00:36",
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+    },
+    {
+      "added_at": "2026-06-26 09:29:03",
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
     },
     {
       "added_at": "2026-06-25 23:00:36",
@@ -472,8 +504,8 @@
           "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 183935,
+      "name": "Have You Tried Screaming?",
       "url": "https://open.spotify.com/track/7Kv7D56uIcwuWQkqSuz1ut"
     },
     {

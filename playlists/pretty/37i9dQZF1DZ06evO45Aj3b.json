@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 109238,
+  "num_followers": 109283,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAB+UPk8rCSJkcN3eg4Un1XB",
+  "snapshot_id": "ajxvgAAAAAByHpVSND+2/f6jSQqxWUbl",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
         },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 143530,
-      "name": "The Kiss Of Venus (Dominic Fike)",
-      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
+      "duration_ms": 209830,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/6lJxjmUZ0EcZoxyKNhOOGa"
     },
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
+        "name": "McCartney III Imagined",
+        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 209830,
-      "name": "Maroon",
-      "url": "https://open.spotify.com/track/6lJxjmUZ0EcZoxyKNhOOGa"
+      "duration_ms": 143530,
+      "name": "The Kiss Of Venus (Dominic Fike)",
+      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
     },
     {
       "added_at": null,

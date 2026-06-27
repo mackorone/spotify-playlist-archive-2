@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/02ue88JVHaPAv6NKF951T7"
+      },
+      "artists": [
+        {
+          "name": "Leon Leke",
+          "url": "https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172419,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/3T4zAHzPvmfAyJOwtlTKB0"
+    },
+    {
+      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH"
       },
@@ -906,6 +924,24 @@
       "duration_ms": 230560,
       "name": "Paka Ua",
       "url": "https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf"
+    },
+    {
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/6NNTBABdwcGcK1dqGbpYQG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Updike",
+          "url": "https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179008,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/52qQFsLZBYjd1VdKQJN7CV"
     },
     {
       "album": {

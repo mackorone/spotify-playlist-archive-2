@@ -2,7 +2,7 @@
 
 ### [Hardstyle Bangers](https://open.spotify.com/playlist/37i9dQZF1DX0pH2SQMRXnC)
 
-> Takeover by Defqon.1! The first 30 tracks picked by Defqon.1 🔥🧨
+> Takeover by Defqon.1! Stay strong warriors 💪 See you next year!
 
 1,040 songs - 2 day 10 hr 6 min
 

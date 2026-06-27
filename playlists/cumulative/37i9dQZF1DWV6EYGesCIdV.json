@@ -90,12 +90,12 @@
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
-        {
           "name": "Benjamin Rice",
           "url": "https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
       "date_added": "2024-03-04",

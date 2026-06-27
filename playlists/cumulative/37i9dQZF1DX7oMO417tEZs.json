@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: HALO",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde + und3rground\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: ACHEL",
   "name": "Proto-",
   "tracks": [
     {
@@ -5381,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "BULL IN A CHINA SHOP",
+        "url": "https://open.spotify.com/album/5F7uSuXVoLqL4dzppS1NMA"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139258,
+      "name": "BULL IN A CHINA SHOP",
+      "url": "https://open.spotify.com/track/75sJj5dLx4He3eS7EPPbId"
+    },
+    {
+      "album": {
         "name": "bunnybunnybunny",
         "url": "https://open.spotify.com/album/2nrBNBlSlBfLNmltiQoDuq"
       },
@@ -8590,6 +8608,24 @@
       "duration_ms": 212040,
       "name": "De Guerre - ELOI remix",
       "url": "https://open.spotify.com/track/62bwoog3qZR1bcJYcxJama"
+    },
+    {
+      "album": {
+        "name": "DEAD INSIDE",
+        "url": "https://open.spotify.com/album/1cONkdKIoUVz9lE6TLChbw"
+      },
+      "artists": [
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135211,
+      "name": "DEAD INSIDE",
+      "url": "https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV"
     },
     {
       "album": {
@@ -27572,7 +27608,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 176335,
       "name": "Regular Looking Man",
       "url": "https://open.spotify.com/track/4BZhgjzRhZyqcKpViR9TaN"
@@ -28970,7 +29006,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 66779,
       "name": "Second Brick",
       "url": "https://open.spotify.com/track/6w0qLAmNSMP4EGsrBCDAGK"
@@ -29948,6 +29984,28 @@
       "duration_ms": 153362,
       "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P"
+    },
+    {
+      "album": {
+        "name": "Sign From God",
+        "url": "https://open.spotify.com/album/52wtfF7dc3lrllLzMhEQ3I"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Sign From God",
+      "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
     },
     {
       "album": {
@@ -32587,6 +32645,24 @@
     },
     {
       "album": {
+        "name": "sweet things",
+        "url": "https://open.spotify.com/album/5bS0HoyNi1VMYJdnM3p4mO"
+      },
+      "artists": [
+        {
+          "name": "element8",
+          "url": "https://open.spotify.com/artist/3zRIvzj11XOT2kqAKJUGIg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194788,
+      "name": "synergy",
+      "url": "https://open.spotify.com/track/0UtGLGVqChLmjlPEkoWNuB"
+    },
+    {
+      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/3QgjM2a1JvYOC8URnFjZrO"
       },
@@ -33352,7 +33428,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 229220,
       "name": "the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY",
       "url": "https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT"

@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 155260,
       "name": "Control",
       "url": "https://open.spotify.com/track/4obv6uSQPHf2mcFb4mwxHl"
@@ -7509,6 +7509,24 @@
     },
     {
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190794,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp"
+    },
+    {
+      "album": {
         "name": "Roomful Of People",
         "url": "https://open.spotify.com/album/3INB8UJeDltOfthzHgPSXu"
       },
@@ -8430,6 +8448,28 @@
       "duration_ms": 315245,
       "name": "Little Miss Sunshine",
       "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
+    },
+    {
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
     },
     {
       "album": {
@@ -15075,24 +15115,6 @@
     },
     {
       "album": {
-        "name": "I understand you sometimes",
-        "url": "https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn"
-    },
-    {
-      "album": {
         "name": "Gumshoe",
         "url": "https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo"
       },
@@ -16478,6 +16500,24 @@
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
+    },
+    {
+      "album": {
+        "name": "I understand you sometimes",
+        "url": "https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Wish Upon A Sun",
+      "url": "https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn"
     },
     {
       "album": {

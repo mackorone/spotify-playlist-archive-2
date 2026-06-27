@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1129188,
+  "num_followers": 1129760,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADR4EdgK5RBryoeXCQjSj6a",
+  "snapshot_id": "ajxvgAAAAACL1JeWpmtpGX/skdEHeExj",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Final Del D\u00eda",
         "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 176226,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Segundas Partes",
+      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis 30 Aniversario (Vol. 2)",
         "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Segundas Partes",
-      "url": "https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hablando Claro (En Vivo)",
-        "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 190671,
-      "name": "Hablando Claro (En Vivo)",
-      "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 152200,
       "name": "Todav\u00eda Te Amo",
       "url": "https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hablando Claro (En Vivo)",
+        "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 190671,
+      "name": "Hablando Claro (En Vivo)",
+      "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
     },
     {
       "added_at": null,

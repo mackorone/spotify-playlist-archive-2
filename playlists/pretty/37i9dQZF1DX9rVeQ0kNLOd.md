@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,183 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,191 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 2 | [Bubble Ring](https://open.spotify.com/track/3GlG2Sj5KFX7ij4wWi0gYu) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [High Tide](https://open.spotify.com/album/1VEAiL8wwNmZRuYLBBfiwW) | 3:20 |
 | 3 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
 | 4 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 |
-| 5 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
+| 5 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
 | 6 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 |
 | 7 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
 | 8 | [Every day](https://open.spotify.com/track/4GbjgXrqXj0Ogc241YaWLZ) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [uku](https://open.spotify.com/album/2BtiXxg6WurFtCAwVGEEy5) | 3:01 |
 | 9 | [Fragility \(feat\. Sala ＆ ZIN\)](https://open.spotify.com/track/1ENeYswoLMQGO4lJf5nTxr) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Fragility \(feat\. Sala ＆ ZIN\)](https://open.spotify.com/album/6FCnhVvjYx52OEMuHr8MmB) | 3:43 |
 | 10 | [風花](https://open.spotify.com/track/6Fx6j95yQOd3RxQ732WkeE) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [unknown](https://open.spotify.com/album/6eWK2ZrOSp3pja1VD2Vj1W) | 5:51 |
-| 11 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
+| 11 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 |
 | 12 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
 | 13 | [雨宿らず](https://open.spotify.com/track/2CdJLWQbNRYsFdlr4izar9) | [永井琳子](https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r) | [雨宿らず](https://open.spotify.com/album/3YF9DNZ28oIi9TIFy32gma) | 3:26 |
 | 14 | [You](https://open.spotify.com/track/2vQhYhGSBBamRhhJeWprr1) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:41 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16789,
+  "num_followers": 16792,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9vW27RIc6IhSU1+Wmt7Ebf2s6y",
+  "snapshot_id": "AAAAAIoNaQxGFGBeSyp5LM60P9pj//H3",
   "tracks": [
     {
       "added_at": "2026-06-19 04:59:04",
@@ -353,6 +353,26 @@
       "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
     },
     {
+      "added_at": "2026-06-26 04:59:12",
+      "album": {
+        "name": "Can't Stand It",
+        "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Can't Stand It",
+      "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
+    },
+    {
       "added_at": "2026-06-19 04:59:04",
       "album": {
         "name": "El AchanTAdo",
@@ -475,6 +495,26 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/10evLNLrgCUrShWYttpITu"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 206454,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Belleza",
         "url": "https://open.spotify.com/album/7dFEzeWR3MbGdQEykDTVbF"
       },
@@ -495,26 +535,6 @@
       "duration_ms": 240006,
       "name": "Belleza",
       "url": "https://open.spotify.com/track/1RCLBRAJc2iEDE8DTXHCxj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/10evLNLrgCUrShWYttpITu"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 206454,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Baby Prime",
-        "url": "https://open.spotify.com/album/3KtYriNAr8k2slfPNfCYXg"
-      },
-      "artists": [
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
-        }
-      ],
-      "duration_ms": 133186,
-      "name": "Baby Prime",
-      "url": "https://open.spotify.com/track/0wM3i3lZSv8pv8ffQobB7q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Saltas Por M\u00ed",
         "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
       },
@@ -1195,6 +1195,26 @@
       "duration_ms": 180652,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Baby Prime",
+        "url": "https://open.spotify.com/album/3KtYriNAr8k2slfPNfCYXg"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 133186,
+      "name": "Baby Prime",
+      "url": "https://open.spotify.com/track/0wM3i3lZSv8pv8ffQobB7q"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1771,26 +1791,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Mochilera",
         "url": "https://open.spotify.com/album/29VDqesyiDj71uuXp6liz0"
       },
@@ -1807,6 +1807,26 @@
       "duration_ms": 228573,
       "name": "Mochilera",
       "url": "https://open.spotify.com/track/3hZwZDBGZChsE3VI91KRUv"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -2031,22 +2051,6 @@
       "duration_ms": 211034,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Calz\u00f3n",
-        "url": "https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 231828,
-      "name": "Calz\u00f3n",
-      "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
     }
   ],
   "unique_name": "Palmera",

@@ -1,13 +1,77 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123687,
+  "num_followers": 123683,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVgdiQUx/vAP+YPbleKFc9qWQcG/39",
+  "snapshot_id": "AAAVhUisMaT0vkqPUF/FEOYpgnwgGUuQ",
   "tracks": [
+    {
+      "added_at": "2026-06-26 15:41:29",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
+    },
+    {
+      "added_at": "2026-06-26 15:40:50",
+      "album": {
+        "name": "Nevada (TELYKAST Remix)",
+        "url": "https://open.spotify.com/album/4oML5U5XXyNqtZoshm6uud"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "duration_ms": 188362,
+      "name": "Nevada - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/1DruZpVMvPr1vfFeXhDBr6"
+    },
     {
       "added_at": "2026-06-25 14:24:06",
       "album": {
@@ -1135,274 +1199,6 @@
       "duration_ms": 168000,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/1DsPPeID1anFjzeuvIKaLK"
-    },
-    {
-      "added_at": "2026-03-23 17:11:13",
-      "album": {
-        "name": "JUST A PART OF ME",
-        "url": "https://open.spotify.com/album/5vMxSOt0t5KJT9JUF6LEEZ"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        },
-        {
-          "name": "dabl",
-          "url": "https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "JUST A PART OF ME",
-      "url": "https://open.spotify.com/track/2yDlUK6T3DwuHDxtVPqwyV"
-    },
-    {
-      "added_at": "2026-03-20 16:39:59",
-      "album": {
-        "name": "Gumraah",
-        "url": "https://open.spotify.com/album/2Rnslkb4HWAUsgn0wvALHf"
-      },
-      "artists": [
-        {
-          "name": "Dirtyphonics",
-          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
-        },
-        {
-          "name": "More Plastic",
-          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
-        }
-      ],
-      "duration_ms": 227657,
-      "name": "Gumraah",
-      "url": "https://open.spotify.com/track/5CAYoLs7vrGVMT29o5acCL"
-    },
-    {
-      "added_at": "2026-03-19 13:59:53",
-      "album": {
-        "name": "2 u",
-        "url": "https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "2 u",
-      "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
-    },
-    {
-      "added_at": "2026-03-18 15:56:59",
-      "album": {
-        "name": "THUNDER",
-        "url": "https://open.spotify.com/album/0hBJbFpgm8u34sSABARGkN"
-      },
-      "artists": [
-        {
-          "name": "TESSERACTS",
-          "url": "https://open.spotify.com/artist/2Oc62iD4J8F2YH34NoSALk"
-        },
-        {
-          "name": "CODE BREAKERZ",
-          "url": "https://open.spotify.com/artist/4WFW8Zsgxhx6xpt4xKcS9H"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "THUNDER",
-      "url": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
-    },
-    {
-      "added_at": "2026-03-16 14:04:01",
-      "album": {
-        "name": "Shock Limit",
-        "url": "https://open.spotify.com/album/2cXC2ZxK1jjJwPAUcWyemZ"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Shock Limit",
-      "url": "https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq"
-    },
-    {
-      "added_at": "2026-03-13 15:12:41",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0GV0Mgwiwx7SdKemncmVbi"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        },
-        {
-          "name": "Luma",
-          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
-        }
-      ],
-      "duration_ms": 172344,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X"
-    },
-    {
-      "added_at": "2026-03-11 14:52:12",
-      "album": {
-        "name": "ALLDAWAY / MAYHEM",
-        "url": "https://open.spotify.com/album/4VyavpxbU4IZbVWzgdwGp9"
-      },
-      "artists": [
-        {
-          "name": "THIRST",
-          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
-        }
-      ],
-      "duration_ms": 86315,
-      "name": "ALLDAWAY",
-      "url": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
-    },
-    {
-      "added_at": "2026-03-09 14:53:42",
-      "album": {
-        "name": "Feed The Fire",
-        "url": "https://open.spotify.com/album/06K7RkgunV8m8Lonc9DtU4"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        }
-      ],
-      "duration_ms": 195862,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/0n4nWZZlJhoYKT3ivA0Tqw"
-    },
-    {
-      "added_at": "2026-03-06 17:32:47",
-      "album": {
-        "name": "BREAK YOUR NECK",
-        "url": "https://open.spotify.com/album/4nIB5DVnc2ryn9UGX4JdWH"
-      },
-      "artists": [
-        {
-          "name": "DJ Mii",
-          "url": "https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m"
-        }
-      ],
-      "duration_ms": 123697,
-      "name": "BREAK YOUR NECK",
-      "url": "https://open.spotify.com/track/4OB9Vpew2T1eDEh8kGarFp"
-    },
-    {
-      "added_at": "2026-03-05 14:47:00",
-      "album": {
-        "name": "Dancing Through It All",
-        "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 165217,
-      "name": "Dancing Through It All",
-      "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
-    },
-    {
-      "added_at": "2026-03-04 15:13:25",
-      "album": {
-        "name": "Rockin The Drums",
-        "url": "https://open.spotify.com/album/0xAROySekkV0IaXtg1LiUQ"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        },
-        {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
-        },
-        {
-          "name": "MC Hughie Babe",
-          "url": "https://open.spotify.com/artist/7nX9rrmXIm4MtQNgt3moE3"
-        }
-      ],
-      "duration_ms": 133181,
-      "name": "Rockin The Drums",
-      "url": "https://open.spotify.com/track/4KaepqQ7soHYflZmSDS3YB"
-    },
-    {
-      "added_at": "2026-03-02 15:37:56",
-      "album": {
-        "name": "Reach the Stars",
-        "url": "https://open.spotify.com/album/0HR642fJvn12DNwlEQQKUY"
-      },
-      "artists": [
-        {
-          "name": "ROY KNOX",
-          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
-        }
-      ],
-      "duration_ms": 215131,
-      "name": "Reach the Stars",
-      "url": "https://open.spotify.com/track/4eyzYTELBYQBtOOr9PZxNF"
-    },
-    {
-      "added_at": "2026-02-27 15:11:54",
-      "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/21t6qH7SVwrYoubXmxhyE2"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        },
-        {
-          "name": "BARELY ALIVE",
-          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1eikreaPZfpVaUX69LwD6f"
-    },
-    {
-      "added_at": "2026-02-27 15:12:15",
-      "album": {
-        "name": "undux (remixes)",
-        "url": "https://open.spotify.com/album/1BUB694gwlVgxUpTCCPHO7"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        },
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "touch - Disciples Remix",
-      "url": "https://open.spotify.com/track/37HcLbQGmm1mrJUjkoxj0H"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

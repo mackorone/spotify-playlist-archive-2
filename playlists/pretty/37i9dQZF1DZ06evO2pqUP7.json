@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 70109,
+  "num_followers": 70116,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADMUlBmwszzOoExAbwB7Xg5",
+  "snapshot_id": "ajxvgAAAAAAgNck/ja7+zLE2VvtBgE11",
   "tracks": [
     {
       "added_at": null,
@@ -951,26 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Org\u00e1nico",
-        "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
       },
       "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 220465,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -999,18 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
       },
       "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+      "duration_ms": 220465,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
     },
     {
       "added_at": null,

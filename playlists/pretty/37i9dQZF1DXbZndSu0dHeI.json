@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234282,
+  "num_followers": 234279,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Anything He Was",
+        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Anything He Was",
+      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 314066,
       "name": "The Boy With the Arab Strap",
       "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Anything He Was",
-        "url": "https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Anything He Was",
-      "url": "https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Energizer",
         "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 151306,
       "name": "Energizer",
       "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Expect Better",
-        "url": "https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 139784,
-      "name": "I Expect Better",
-      "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 290840,
       "name": "Honey Water",
       "url": "https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Expect Better",
+        "url": "https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 139784,
+      "name": "I Expect Better",
+      "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
-      },
-      "artists": [
-        {
-          "name": "Lola Blue",
-          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
-        }
-      ],
-      "duration_ms": 182624,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "I Don't Think of Kissing You",
+        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "I Don't Think of Kissing You",
+      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Sink Into Me",
         "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 309400,
       "name": "Tropic Morning News",
       "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Prime Corner",
+        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/79G3uzyNnNUXKW5u5GUWjA"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Mechanical Bull",
         "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Take you away",
-        "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
-      },
-      "artists": [
-        {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
-        }
-      ],
-      "duration_ms": 234784,
-      "name": "Take you away",
-      "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Prime Corner",
-        "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
+        "name": "Take you away",
+        "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
       },
       "artists": [
         {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/79G3uzyNnNUXKW5u5GUWjA"
+      "duration_ms": 234784,
+      "name": "Take you away",
+      "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "What Are We Doing?",
-        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
       "artists": [
         {
-          "name": "EGOISM",
-          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 193780,
-      "name": "What Are We Doing?",
-      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
+      "duration_ms": 206573,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1511,18 +1511,34 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
+      "duration_ms": 282529,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "What Are We Doing?",
+        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "duration_ms": 193780,
+      "name": "What Are We Doing?",
+      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1543,38 +1559,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 282529,
-      "name": "Everything At Once",
-      "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/0ehkiwlcpGfMa7ylNvPS7z"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Kemplay",
-          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1pcdYtroFnCW20yfUJxffT"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "2much2soon",
         "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 181920,
       "name": "2much2soon",
       "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/0ehkiwlcpGfMa7ylNvPS7z"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Kemplay",
+          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
+        }
+      ],
+      "duration_ms": 211059,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1pcdYtroFnCW20yfUJxffT"
     },
     {
       "added_at": "2026-06-18 23:01:00",

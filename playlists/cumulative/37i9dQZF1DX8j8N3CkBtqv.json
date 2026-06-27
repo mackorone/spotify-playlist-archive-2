@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Ritviz, Aneesh, Ishaan Nigam and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Paresh Pahuja, Aditya Bhardwaj, Arjuna Harjai and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -11086,7 +11086,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 213004,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/760n01fPMR7sqrn3msFBcT"
@@ -12180,6 +12180,28 @@
       "duration_ms": 203448,
       "name": "Jee Lunga",
       "url": "https://open.spotify.com/track/3G2Dmfxo9W68twpibDaJPr"
+    },
+    {
+      "album": {
+        "name": "Jeena Bekar",
+        "url": "https://open.spotify.com/album/0l8XsL5BVLtN36NbypLmhp"
+      },
+      "artists": [
+        {
+          "name": "Arjuna Harjai",
+          "url": "https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN"
+        },
+        {
+          "name": "Priyanka R Bala",
+          "url": "https://open.spotify.com/artist/2Kouoq6OQX1lU6sbtulfGd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Jeena Bekar",
+      "url": "https://open.spotify.com/track/1ZxNgEUVD70wDA0TANVnRB"
     },
     {
       "album": {
@@ -15483,6 +15505,24 @@
     },
     {
       "album": {
+        "name": "Kitni Dafaa",
+        "url": "https://open.spotify.com/album/2cxPsVBemetB72EIBg5bqg"
+      },
+      "artists": [
+        {
+          "name": "Paresh Pahuja",
+          "url": "https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Kitni Dafaa",
+      "url": "https://open.spotify.com/track/55X7yrhGv7sJ3oWG3GlGl3"
+    },
+    {
+      "album": {
         "name": "Kiya Dhara",
         "url": "https://open.spotify.com/album/5LNmi8aUJQXt0IOMFcjIae"
       },
@@ -16993,6 +17033,24 @@
     },
     {
       "album": {
+        "name": "Maa Kasam",
+        "url": "https://open.spotify.com/album/5P5Kst2VxvDaW3WzLd050p"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204179,
+      "name": "Maa Kasam",
+      "url": "https://open.spotify.com/track/4NTLluqX4ViaQX6MZKjUst"
+    },
+    {
+      "album": {
         "name": "Maahi",
         "url": "https://open.spotify.com/album/1IniOCfkXutE7NTe1awOVx"
       },
@@ -17308,7 +17366,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 220414,
       "name": "Main Tera Deewana",
       "url": "https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht"
@@ -27826,7 +27884,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 155124,
       "name": "Thon Buri Nights",
       "url": "https://open.spotify.com/track/5kqK92mAUjjVAmkZTMLWzO"

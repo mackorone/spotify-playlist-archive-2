@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-106 songs - 6 hr 58 min
+107 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Songbird \- Orchestral Version](https://open.spotify.com/track/6LutEnXy3mfA1pSglqssNO) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Songbird \(Orchestral Version\)](https://open.spotify.com/album/2wPyxNiLVSmsPcgqUizdY2) | 3:38 | 2022-06-17 |  |
 | [Sus ojos se cerraron \(Arr\. Pluhar\)](https://open.spotify.com/track/1qgm0PbTh8MssW6DPwf2r6) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU), [Rolando Villazón](https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq), [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ) | [Gardel: Sus ojos se cerraron \(Arr\. Pluhar\)](https://open.spotify.com/album/33uNSEn42LVXoqHIzylXIB) | 4:22 | 2025-11-07 |  |
 | [Tell Me It's Not True](https://open.spotify.com/track/3qV6M1cI4McX7xSLzLQa3H) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 4:30 | 2021-09-24 |  |
+| [The Fool on the Hill \(Arr\. Puerling for Vocal Ensemble\)](https://open.spotify.com/track/5JYKH5KqUXPZfDHcxoOQWc) | [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Ringmasters](https://open.spotify.com/artist/5PA3lsNXbVYa6Zwvf9nXUe) | [The Fool on the Hill \(Arr\. Puerling for Vocal Ensemble\)](https://open.spotify.com/album/7in2hNgOSA5bLaeVjrVyZJ) | 4:49 | 2026-06-26 |  |
 | [The Greatest Gift](https://open.spotify.com/track/3odk8LP7YTi7SfhsnqMZns) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [The Greatest Gift](https://open.spotify.com/album/0TvtvNcqu7717IQrq2cmfX) | 4:01 | 2022-09-09 | 2023-07-01 |
 | [The Lark's Last Song \(Liebesträume, S\. 541: No\. 3, Oh Lieb, so lang du lieben kannst\) \[Arr\. for Choir by Josh Madine\]](https://open.spotify.com/track/7aIDPYP4bWgRXfnw1YQCQt) | [Libera](https://open.spotify.com/artist/235C4ktJ2aGIyqaBlXyg7e) | [Dream](https://open.spotify.com/album/095QDJfBThZnsxe0AQqCPC) | 3:41 | 2024-11-26 |  |
 | [The Music of the Night](https://open.spotify.com/track/00z8mp4OhNj73Q3fxCkA3l) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [The Music of the Night](https://open.spotify.com/album/1tiJbQz0iqXMEx6FPnTNMQ) | 4:19 | 2025-08-15 |  |

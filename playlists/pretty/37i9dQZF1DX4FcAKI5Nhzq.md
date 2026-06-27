@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: Rothy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,482 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,490 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

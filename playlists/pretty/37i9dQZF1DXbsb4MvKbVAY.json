@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26718,
+  "num_followers": 26720,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 176828,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Sisko ja sen veli",
         "url": "https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 188216,
       "name": "Sisko ja sen veli",
       "url": "https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 176828,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -799,22 +799,18 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+        "name": "CEO (Rich Man)",
+        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
         }
       ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+      "duration_ms": 149634,
+      "name": "CEO (Rich Man)",
+      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -855,18 +851,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "CEO (Rich Man)",
-        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
       "artists": [
         {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 149634,
-      "name": "CEO (Rich Man)",
-      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "L\u00e4nsipuoli",
+        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "L\u00e4nsipuoli",
+      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Sonic Youth (feat. Bizi)",
         "url": "https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 233322,
       "name": "Sonic Youth (feat. Bizi)",
       "url": "https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "L\u00e4nsipuoli",
-        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
-      },
-      "artists": [
-        {
-          "name": "Pyrythekid",
-          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "L\u00e4nsipuoli",
-      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Eskapismii",
-        "url": "https://open.spotify.com/album/5pbVEvuMBZUrioCByMoaBb"
-      },
-      "artists": [
-        {
-          "name": "Ellis",
-          "url": "https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu"
-        }
-      ],
-      "duration_ms": 186549,
-      "name": "Eskapismii",
-      "url": "https://open.spotify.com/track/0JfINUS8lIoGPSR6qFPcyP"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kevyt ja kohtuuton",
         "url": "https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 195800,
       "name": "Kevyt ja kohtuuton",
       "url": "https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Eskapismii",
+        "url": "https://open.spotify.com/album/5pbVEvuMBZUrioCByMoaBb"
+      },
+      "artists": [
+        {
+          "name": "Ellis",
+          "url": "https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu"
+        }
+      ],
+      "duration_ms": 186549,
+      "name": "Eskapismii",
+      "url": "https://open.spotify.com/track/0JfINUS8lIoGPSR6qFPcyP"
     },
     {
       "added_at": "2026-05-08 04:10:15",

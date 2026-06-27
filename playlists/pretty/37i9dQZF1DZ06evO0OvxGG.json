@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9529,
+  "num_followers": 9536,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADKT0fex4PDdUzHGDkUUnAf",
+  "snapshot_id": "ajxvgAAAAAAYut9BYWyvPdrKw1xywxFS",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "E.P.A.M.",
+      "url": "https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Preta.Foda.Quente",
         "url": "https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 181951,
       "name": "Preta.Foda.Quente",
       "url": "https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "E.P.A.M.",
-      "url": "https://open.spotify.com/track/0TEuol0LiXWzRMS9K1eGQR"
     },
     {
       "added_at": null,

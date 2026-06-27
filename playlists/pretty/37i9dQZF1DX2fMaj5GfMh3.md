@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Sven Cilliers
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,842 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,863 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 34 | [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 |
 | 35 | [Come Over](https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Come Over](https://open.spotify.com/album/2xXG0abKT34biU7L9siPde) | 2:58 |
 | 36 | [Club To Your Arms](https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms](https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda) | 3:11 |
-| 37 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 37 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 38 | [Tastes So Good](https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:05 |
 | 39 | [Bluffin' \(with The Kid LAROI\)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Piss In The Wind \(Deluxe\)](https://open.spotify.com/album/5xiwCNC26RvgfwElNmIJoL) | 2:34 |
 | 40 | [Thoughts](https://open.spotify.com/track/5TimVS2mjlTKSkmkB4BGfk) | [Janet Livv](https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n) | [Underthink It](https://open.spotify.com/album/1HRvuPg7XXwWmaRATNKk0B) | 2:30 |

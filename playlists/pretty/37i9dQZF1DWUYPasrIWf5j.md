@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,567 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,603 likes - 48 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ordinary](https://open.spotify.com/track/2lUUYUQbhm37to9GULPwvm) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ordinary](https://open.spotify.com/album/1LaisAdR0HlvbkVkyCl2BY) | 3:24 |
 | 2 | [What Was I Made For?](https://open.spotify.com/track/0xcsOkY97rcVpgRJdnzZuz) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [What Was I Made For?](https://open.spotify.com/album/17lSIF2CzLFHpinZ54uJx5) | 3:43 |
-| 3 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/33VeSJ6nlBpjOx2lvgYoMq) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/1qQPONAR8e3OosId6ibAqm) | 2:56 |
-| 4 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 |
-| 5 | [Manchild](https://open.spotify.com/track/4AK9DKcm0cn32XUuTkc3mM) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Manchild](https://open.spotify.com/album/2WFYElJGU48XVnylC4zNcW) | 3:17 |
+| 3 | [Let Her Go](https://open.spotify.com/track/6BYtFxkxYH0of0OEhXgWMp) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Let Her Go](https://open.spotify.com/album/41Ki4tVa7KL4XD27ciqyhk) | 4:01 |
+| 4 | [Manchild](https://open.spotify.com/track/4AK9DKcm0cn32XUuTkc3mM) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Manchild](https://open.spotify.com/album/2WFYElJGU48XVnylC4zNcW) | 3:17 |
+| 5 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/33VeSJ6nlBpjOx2lvgYoMq) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/1qQPONAR8e3OosId6ibAqm) | 2:56 |
 | 6 | [Somewhere Only We Know](https://open.spotify.com/track/5phtxzFNGto6M7XW1IPdkC) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somewhere Only We Know](https://open.spotify.com/album/55i9rcNgPvdQdEx8AsgvVi) | 3:50 |
 | 7 | [Good Luck, Babe!](https://open.spotify.com/track/6l82pJZcXElfVIcPThIT1J) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Good Luck, Babe!](https://open.spotify.com/album/5E44ZxJe12ub98wiapLlVc) | 3:12 |
 | 8 | [Free Fallin'](https://open.spotify.com/track/53s6wjrDKlNU6VU4WKzqHf) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Free Fallin'](https://open.spotify.com/album/3XL2LOza5FwJtK9Da0ScVe) | 2:57 |
 | 9 | [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 |
-| 10 | [Die With A Smile](https://open.spotify.com/track/4U865nUJqG2MrMvafrTvR3) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Die With A Smile](https://open.spotify.com/album/1sK5Yy6L3jJgb7j9HGqZma) | 4:06 |
-| 11 | [The Subway](https://open.spotify.com/track/4OkUdlWg0tJXHBnazQYIGB) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [The Subway](https://open.spotify.com/album/7cYClNSEl8N3fcUXJL2fKU) | 3:33 |
-| 12 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 |
-| 13 | [Jolene](https://open.spotify.com/track/04pU2FFhRKcNVTAA6mZiSR) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Jolene](https://open.spotify.com/album/7JN5r9ErFDdIWP0Z89B8C3) | 2:51 |
+| 10 | [Espresso](https://open.spotify.com/track/3T4zAHzPvmfAyJOwtlTKB0) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Espresso](https://open.spotify.com/album/02ue88JVHaPAv6NKF951T7) | 2:52 |
+| 11 | [Die With A Smile](https://open.spotify.com/track/4U865nUJqG2MrMvafrTvR3) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Die With A Smile](https://open.spotify.com/album/1sK5Yy6L3jJgb7j9HGqZma) | 4:06 |
+| 12 | [The Subway](https://open.spotify.com/track/4OkUdlWg0tJXHBnazQYIGB) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [The Subway](https://open.spotify.com/album/7cYClNSEl8N3fcUXJL2fKU) | 3:33 |
+| 13 | [The Fate of Ophelia](https://open.spotify.com/track/3B6KudQChhlWw7D9YxT22m) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [The Fate of Ophelia](https://open.spotify.com/album/6hoJ6shs0RHjNFuOOPigF9) | 3:43 |
 | 14 | [I'll Be There](https://open.spotify.com/track/3foBkSLypzR5fkDIngs930) | [J\. Adeline](https://open.spotify.com/artist/0tVNHCVKmdQ5KynS8NCZMx) | [I'll Be There](https://open.spotify.com/album/0pDpabFpvlmlaSAdUNaHvw) | 3:49 |
 | 15 | [The Lazy Song](https://open.spotify.com/track/2fOa6SUM7HAtMxZSzA38S8) | [Jillian Bosch](https://open.spotify.com/artist/6M4papcmK0X0HNyA3felGW) | [A Thousand Years](https://open.spotify.com/album/56X5chQwECoMG26y7HY7RQ) | 3:16 |
 | 16 | [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 18 | [We Don't Talk Anymore](https://open.spotify.com/track/504T28mwCWdnMMK8IufHcv) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:58 |
 | 19 | [Somewhere Over the Rainbow](https://open.spotify.com/track/0WnCo4TNZXyOqbh7fadKzy) | [Laura Hoovers](https://open.spotify.com/artist/5hw4kl01y0BUVJf8q6edNQ) | [Somewhere Over the Rainbow](https://open.spotify.com/album/3CylnBlxs0Y4rDWzJkO2Il) | 3:11 |
 | 20 | [Somewhere Only We Know](https://open.spotify.com/track/2v1wN07F5ZCxARs6vvHHMp) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 3:54 |
-| 21 | [Hey Jude](https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Hey Jude](https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3) | 2:57 |
-| 22 | [1234](https://open.spotify.com/track/1rKAZTB6qLY6qtsZkN2olQ) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [1234](https://open.spotify.com/album/06l33XKaZLtkUM1yG0ZwH2) | 2:25 |
-| 23 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 |
+| 21 | [1234](https://open.spotify.com/track/1rKAZTB6qLY6qtsZkN2olQ) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [1234](https://open.spotify.com/album/06l33XKaZLtkUM1yG0ZwH2) | 2:25 |
+| 22 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 |
+| 23 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 |
 | 24 | [Knowing Me, Knowing You](https://open.spotify.com/track/4o8hBDNI3ZFfLay1HM5931) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Knowing Me, Knowing You](https://open.spotify.com/album/4pLawZ6HgMm79iceCSxt1c) | 3:51 |
 | 25 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 |
 | 26 | [Imagine](https://open.spotify.com/track/5PsyUysC9xxltdgASA4A5Y) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Imagine](https://open.spotify.com/album/7ma6gtjLWnj7JmRqnwgyL1) | 2:50 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 30 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 |
 | 31 | [California Stars](https://open.spotify.com/track/4zs1BjUwkwSGaNMHfweh1Z) | [Cliff Hillis](https://open.spotify.com/artist/1mpEw4E2cHyrO6PZVMWqlW) | [California Stars](https://open.spotify.com/album/09gOk1XfZR9icyU09dC5kg) | 3:30 |
 | 32 | [What A Wonderful World](https://open.spotify.com/track/0tSvJUcVba6J2hDazrQLtt) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 2:12 |
-| 33 | [The Scientist](https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 4:00 |
-| 34 | [You Are the Best Thing](https://open.spotify.com/track/6NiWQMv5NynlLse0kgt58K) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [You Are The Best Thing](https://open.spotify.com/album/0eHW7867FHphe1vSyp2uAk) | 3:29 |
-| 35 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |
+| 33 | [Hey Jude](https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Hey Jude](https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3) | 2:57 |
+| 34 | [The Scientist](https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 4:00 |
+| 35 | [You Are the Best Thing](https://open.spotify.com/track/6NiWQMv5NynlLse0kgt58K) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [You Are The Best Thing](https://open.spotify.com/album/0eHW7867FHphe1vSyp2uAk) | 3:29 |
 | 36 | [All Of Me](https://open.spotify.com/track/0q27gc0LjAclgicdlnG182) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:51 |
 | 37 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 |
 | 38 | [Cry Me a River](https://open.spotify.com/track/0s3KTsxYOxEB7npGBf263B) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Cry Me A River](https://open.spotify.com/album/6aH6Lgfw4RDGQXEqLsuQdX) | 3:32 |
@@ -51,8 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 41 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pfvefT7HdWaHZHVG1sYWT) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:48 |
 | 42 | [Perfect](https://open.spotify.com/track/5KD1XpRTsNmaxLtT3M5oiD) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:18 |
 | 43 | [Somebody That I Used To Know](https://open.spotify.com/track/7y8BOvgcHDSRlqkgRE3rZb) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Somebody That I Used To Know](https://open.spotify.com/album/3eM86lV2bNhNGpvWzBw6Ya) | 3:03 |
-| 44 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [Wild World](https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe) | 3:45 |
+| 44 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |
 | 45 | [Shallow](https://open.spotify.com/track/5IOPcHdIf7qq9OYcu6Hilx) | [Sarah Trapp](https://open.spotify.com/artist/0xaDA7p9ytShd7Sk49FPIs) | [Shallow](https://open.spotify.com/album/1w5zIIKL9Zwan57jhtlhcF) | 3:29 |
-| 46 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
+| 46 | [Only Love Can Break Your Heart](https://open.spotify.com/track/2PK8tIp5lpoWjSls9eEXEK) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [Wild World](https://open.spotify.com/album/4rEIHof7KCIYtsapQ2MMbe) | 3:45 |
+| 47 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
+| 48 | [Jolene](https://open.spotify.com/track/04pU2FFhRKcNVTAA6mZiSR) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Jolene](https://open.spotify.com/album/7JN5r9ErFDdIWP0Z89B8C3) | 2:51 |
 
-Snapshot ID: `AAAAAHsAQiTMfK22TROj0hPZtn8Vt3UQ`
+Snapshot ID: `AAAAAOKjWvCpPy5YIbfeAhFKYs1IkWKc`

@@ -4,7 +4,7 @@
 
 > Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-102 songs - 6 hr 57 min
+102 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,6 @@
 | [The Brave](https://open.spotify.com/track/4idatWI87uECptpg5EYMPp) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:15 | 2024-04-11 |  |
 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [midories](https://open.spotify.com/artist/71hoL3Rlmuptv4h4g2bJxU) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:37 | 2022-11-17 |  |
 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 | 2022-11-17 |  |
-| [Track 1](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 0:00 | 2026-06-25 |  |
 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 | 2024-06-30 | 2026-06-26 |
 | [UNDEAD](https://open.spotify.com/track/35xfPPSPHG42a8MSoHBymZ) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:02 | 2026-06-25 |  |
 | [UNDEAD \- English Version](https://open.spotify.com/track/6OjOhAEAIToQ4VrJxrNvLS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD \(English Version\)](https://open.spotify.com/album/1Sr8cnhI92bL74ycNIkFO8) | 3:02 | 2025-02-27 |  |
@@ -79,6 +78,7 @@
 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 | 2026-01-03 | 2026-06-26 |
 | [アドレナ](https://open.spotify.com/track/6opptJmdOo9CLXs2zEaPK6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:07 | 2026-06-25 |  |
 | [アンコール](https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:31 | 2022-11-17 |  |
+| [オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:26 | 2026-06-25 |  |
 | [セブンティーン](https://open.spotify.com/track/62q2gPY4OnQCGnw7T4JWg1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:18 | 2023-10-03 |  |
 | [セブンティーン](https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [セブンティーン](https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6) | 3:19 | 2023-03-26 | 2023-10-05 |
 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-11-17 |  |

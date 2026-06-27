@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Sung Si Kyung\(성시경\) & Raisa\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,765 songs - 4 day 18 hr 36 min
+1,766 songs - 4 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1104,6 +1104,7 @@
 | [Our Spring \(feat\. Im Ga Young\)](https://open.spotify.com/track/59d2K1gzt3M9PKdyCsI6sY) | [Private Story](https://open.spotify.com/artist/2d7sJ0zIcqj1jDMYBkw4S6), [Im Ga Young](https://open.spotify.com/artist/6BgU40lKJzHwS6AzWzjEue) | [Our Spring](https://open.spotify.com/album/4z8DyqmUvuhzUjvkFvRbiH) | 3:52 | 2023-02-24 | 2023-05-16 |
 | [Our Story](https://open.spotify.com/track/6sxQBTaT0AbFVpezBhUGeW) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Our Story](https://open.spotify.com/album/0fZoY3jSo76rHh00Xz5D2m) | 3:38 | 2024-10-16 | 2025-03-13 |
 | [Our story \(Feat\. Lee Ru Da\)](https://open.spotify.com/track/5IwtQvh6siooeSKVvlmyLl) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Lee Ru DA](https://open.spotify.com/artist/5KRcPRmGptkCL1QT6QR9qA) | [Our story](https://open.spotify.com/album/1jCd0DcZBJpGNhVtCOjcMi) | 4:27 | 2022-12-16 | 2023-02-09 |
+| [Our Summer](https://open.spotify.com/track/1aSqypbR0rwLGIxRrPLxNG) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I LOVE SUMMER](https://open.spotify.com/album/7CqcYywNSEGpI9JT3HRQoa) | 3:25 | 2026-06-26 |  |
 | [Our Youth](https://open.spotify.com/track/07yQMmTOzCbHuczo6yR5RJ) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Our Youth](https://open.spotify.com/album/0wLCobJuw9BcWtoVvbIYXf) | 3:44 | 2024-01-19 | 2024-06-12 |
 | [Out of time](https://open.spotify.com/track/0J4JHtige4TIAkC0oS5Wzh) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [2024 SINGLE ALBUM \[SEO IN GUK\]](https://open.spotify.com/album/2Jj0g9jvvwMiESDNlcR11t) | 3:14 | 2024-07-11 | 2024-11-07 |
 | [Over U, Goodbye \(Seeun x J\)](https://open.spotify.com/track/0dzvx0egKD128Icnaz2YeR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Over U, Goodbye \(Seeun x J\)](https://open.spotify.com/album/1nxjZwlxvQ8reEI844D2bm) | 3:01 | 2024-12-24 | 2025-05-26 |

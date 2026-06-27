@@ -1,13 +1,29 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Baby J",
-  "num_followers": 566317,
+  "num_followers": 566295,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfFtUUORuWAhmGKEgR5MeQpDqnj",
+  "snapshot_id": "AAAAAMtEmG6GiyIomXMUXriQZ4l9Fx4B",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:53:27",
+      "album": {
+        "name": "You Don't Know My Name",
+        "url": "https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Fond",
+      "url": "https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh"
+    },
     {
       "added_at": "2026-05-22 04:02:09",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
     },
     {
+      "added_at": "2026-06-26 13:16:35",
+      "album": {
+        "name": "Fated",
+        "url": "https://open.spotify.com/album/4OKlCUOd7YzVcJz2cdRPvN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Rose",
+          "url": "https://open.spotify.com/artist/5cxp2EYF0ZPdMGXPq545tU"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Fated",
+      "url": "https://open.spotify.com/track/3fiVdmvLQeTDVFJ5mJ7mF9"
+    },
+    {
       "added_at": "2026-04-03 04:01:43",
       "album": {
         "name": "Night at the Opera",
@@ -39,6 +71,22 @@
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
+    {
+      "added_at": "2026-06-26 13:16:35",
+      "album": {
+        "name": "On Wires",
+        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 202989,
+      "name": "On Wires",
+      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
     },
     {
       "added_at": "2026-04-24 04:01:20",
@@ -359,22 +407,6 @@
       "duration_ms": 175161,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc"
-    },
-    {
-      "added_at": "2026-04-20 18:16:24",
-      "album": {
-        "name": "Poconos",
-        "url": "https://open.spotify.com/album/0Ghvwl9D5OPrUFpqy5mCB1"
-      },
-      "artists": [
-        {
-          "name": "Katie Lynne Sharbaugh",
-          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
-        }
-      ],
-      "duration_ms": 174655,
-      "name": "Poconos",
-      "url": "https://open.spotify.com/track/3Sqb167kZ1XoEApxbbrDby"
     },
     {
       "added_at": "2026-03-13 00:00:08",
@@ -903,38 +935,6 @@
       "duration_ms": 225657,
       "name": "Above the Neck",
       "url": "https://open.spotify.com/track/1QOjSg4LVUTFtLJba1SWha"
-    },
-    {
-      "added_at": "2025-09-19 04:00:30",
-      "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
-    },
-    {
-      "added_at": "2025-10-31 04:00:43",
-      "album": {
-        "name": "Wishing For Wounds",
-        "url": "https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy"
-      },
-      "artists": [
-        {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
-        }
-      ],
-      "duration_ms": 259626,
-      "name": "Wishing For Wounds",
-      "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"
     },
     {
       "added_at": "2025-09-05 04:00:16",

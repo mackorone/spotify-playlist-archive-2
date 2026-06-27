@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Alyssa Grace",
-  "num_followers": 954232,
+  "num_followers": 954271,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPISKBavWIA7Jg4kzy7k65mlkPbx",
+  "snapshot_id": "AAAAAIflTw5YkixbS9Ruz/ZmxRN0PPgE",
   "tracks": [
     {
       "added_at": "2026-06-12 04:27:39",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/13cZ4NgkcjBeJ63YoWvNHI"
     },
     {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "How do I relate to you?",
-        "url": "https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 164486,
-      "name": "Relate to you",
-      "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
-    },
-    {
       "added_at": "2026-06-12 04:27:39",
       "album": {
         "name": "The Great Divide: The Last Of The Bugs",
@@ -105,20 +89,36 @@
       "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
     },
     {
-      "added_at": "2026-06-15 21:17:20",
+      "added_at": "2026-06-26 04:52:37",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/5REc8JIZ9W788zAhBZHWIj"
+        "name": "You Don't Know My Name",
+        "url": "https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk"
       },
       "artists": [
         {
-          "name": "RYMAN",
-          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
         }
       ],
-      "duration_ms": 241995,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/56g0RZZnk3NRAOxhELYdHj"
+      "duration_ms": 143000,
+      "name": "Fond",
+      "url": "https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh"
+    },
+    {
+      "added_at": "2026-05-29 04:02:53",
+      "album": {
+        "name": "How do I relate to you?",
+        "url": "https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 164486,
+      "name": "Relate to you",
+      "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
     },
     {
       "added_at": "2026-06-12 04:27:39",
@@ -137,6 +137,38 @@
       "url": "https://open.spotify.com/track/4WJV42FGtNRS2epH9lQS8Q"
     },
     {
+      "added_at": "2026-06-15 21:17:20",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/5REc8JIZ9W788zAhBZHWIj"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 241995,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/56g0RZZnk3NRAOxhELYdHj"
+    },
+    {
+      "added_at": "2026-06-26 04:01:03",
+      "album": {
+        "name": "To Love A Thing That Fades",
+        "url": "https://open.spotify.com/album/1mBprt4SXV2ih1O6HVRbUK"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lima",
+          "url": "https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX"
+        }
+      ],
+      "duration_ms": 218226,
+      "name": "Fair To You",
+      "url": "https://open.spotify.com/track/5WNh6gcqlXOp26jHYIRsx6"
+    },
+    {
       "added_at": "2026-06-12 04:27:39",
       "album": {
         "name": "Bleeding Heart",
@@ -151,6 +183,22 @@
       "duration_ms": 197539,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/00tvkuuXnJogx9XjxvPqOP"
+    },
+    {
+      "added_at": "2026-06-26 04:52:37",
+      "album": {
+        "name": "Gravedigger",
+        "url": "https://open.spotify.com/album/3ljvoeP8qxZvC5Q5b85STU"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 166301,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/4cpwbQ87rrbKM9d7acnPmr"
     },
     {
       "added_at": "2026-06-12 04:27:39",

@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98733,
+  "num_followers": 98729,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAMJCZNaiN5d5s3s65OuCqs",
+  "snapshot_id": "ajxvgAAAAACNKGT3bg0SCEVuuruVhLx+",
   "tracks": [
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
       "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 380342,
-      "name": "Ex\u00e1ltate",
-      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
+      "duration_ms": 93254,
+      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
     },
     {
       "added_at": null,
@@ -463,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 93254,
-      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+      "duration_ms": 380342,
+      "name": "Ex\u00e1ltate",
+      "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 227291,
+      "name": "Ll\u00e9name Se\u00f1or",
+      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Volver\u00e1 (En Vivo)",
         "url": "https://open.spotify.com/album/4fzp1eex4YNmJaaPJR8aiQ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 358086,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Ll\u00e9name Se\u00f1or",
-      "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
     },
     {
       "added_at": null,

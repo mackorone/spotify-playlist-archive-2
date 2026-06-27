@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 48232,
+  "num_followers": 48260,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
         "name": "STATE OF MIND",
         "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 192227,
       "name": "STATE OF MIND",
       "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-06-26 00:01:55",
@@ -943,6 +943,30 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 119347,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 119347,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
     },
     {
       "added_at": "2026-06-26 00:01:55",
@@ -1259,34 +1259,6 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
-        "name": "STINGY",
-        "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
-        }
-      ],
-      "duration_ms": 220206,
-      "name": "STINGY",
-      "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -1327,6 +1299,34 @@
       "duration_ms": 129449,
       "name": "BMF \u200b(f\u200beat\u200b. Byron Messia, Fireboy DML\u200b)",
       "url": "https://open.spotify.com/track/5479b6rH90I7QnI5QF1vnA"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
+        "name": "STINGY",
+        "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 220206,
+      "name": "STINGY",
+      "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
     },
     {
       "added_at": "2026-06-26 00:01:55",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
-        "name": "I'm Available",
-        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "I'm Available",
-      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
       },
@@ -1499,6 +1483,38 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
+        "name": "I'm Available",
+        "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "I'm Available",
+      "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/6ZP4GInPQJoQovE7lq0xzw"
+      },
+      "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        }
+      ],
+      "duration_ms": 172711,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/2Md155L5t3ShDWE7lzNYLr"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
         "name": "Must Have Been",
         "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
       },
@@ -1511,30 +1527,6 @@
       "duration_ms": 156320,
       "name": "Must Have Been",
       "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
     }
   ],
   "unique_name": "Afro Chill",

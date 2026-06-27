@@ -2,7 +2,7 @@
 
 ### [Wedding Songs 2026](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
-> Your perfect 2026 Wedding Playlist! ✨ Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs\. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! ❤️ Save for your special day.
+> Your perfect 2026 Wedding Reception Playlist! ✨ Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs\. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! ❤️ Save for your special day.
 
 283 songs - 16 hr 59 min
 

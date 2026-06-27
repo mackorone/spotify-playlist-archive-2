@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 607481,
+  "num_followers": 607707,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAC7XWVTiuKmA/vtntTefKsR",
+  "snapshot_id": "ajxvgAAAAAB3NLcHx4Wk3lZW4qeC92G1",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 142733,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
+      "duration_ms": 253333,
+      "name": "Charlotte Sometimes - Single 10/81",
+      "url": "https://open.spotify.com/track/5WcWhs1VKAAnfinQqXEXv7"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 253333,
-      "name": "Charlotte Sometimes - Single 10/81",
-      "url": "https://open.spotify.com/track/5WcWhs1VKAAnfinQqXEXv7"
+      "duration_ms": 142733,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
     },
     {
       "added_at": null,

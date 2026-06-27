@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 129593,
+  "num_followers": 129611,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -707,18 +707,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
+        "name": "Intermodulation",
+        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
       "artists": [
         {
-          "name": "Jonathan Kreisberg",
-          "url": "https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 311000,
-      "name": "Canto De Ossanha",
-      "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
+      "duration_ms": 290000,
+      "name": "All Across The City",
+      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -739,22 +743,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Intermodulation",
-        "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
+        "name": "One",
+        "url": "https://open.spotify.com/album/3oZkynRnCLOPFi2elO0JXD"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Jonathan Kreisberg",
+          "url": "https://open.spotify.com/artist/7MWuLeRKJ1WCx4GQRzT3Hy"
         }
       ],
-      "duration_ms": 290000,
-      "name": "All Across The City",
-      "url": "https://open.spotify.com/track/4IHEsg1VgH9dZE4QswwhaE"
+      "duration_ms": 311000,
+      "name": "Canto De Ossanha",
+      "url": "https://open.spotify.com/track/0FCx8spWfkTjpEU7sEQr7M"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -791,38 +791,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Arclight",
-        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Green Street (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 432213,
-      "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Intermodulation",
         "url": "https://open.spotify.com/album/2fdNshVv7KpFZJOy6qKpJS"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 394333,
       "name": "Angel Face",
       "url": "https://open.spotify.com/track/2gePqIl6YIoKbDlATyIYgN"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Green Street (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1RmoKOfLnMAafzhWRJCI8q"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 432213,
+      "name": "Alone Together - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3IVB1oNHzF3Eyhh6L5FbRA"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -871,6 +855,22 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Arclight",
+        "url": "https://open.spotify.com/album/6sKJEBTRRuQhI696nyr1mD"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/7BQVhWw9GR1Up3eKQrYFlI"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Concierto (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        }
+      ],
+      "duration_ms": 447026,
+      "name": "You'd Be So Nice To Come Home To - alt. take",
+      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Standard Brands",
         "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Concierto (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0"
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
       "artists": [
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Jimmy Bruno",
+          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
         }
       ],
-      "duration_ms": 447026,
-      "name": "You'd Be So Nice To Come Home To - alt. take",
-      "url": "https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV"
+      "duration_ms": 492400,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1123,22 +1139,6 @@
       "duration_ms": 296613,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Bruno",
-          "url": "https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
     },
     {
       "added_at": "2025-09-10 12:20:14",

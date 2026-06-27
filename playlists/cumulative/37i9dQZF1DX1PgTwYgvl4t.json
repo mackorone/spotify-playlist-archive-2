@@ -6965,24 +6965,6 @@
     },
     {
       "album": {
-        "name": "Intimacy (Worship Night Ottawa)",
-        "url": "https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ojo",
-          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o"
-    },
-    {
-      "album": {
         "name": "Unlimited God, Vol. 1",
         "url": "https://open.spotify.com/album/6y4l8GyQ5admjdTNt32XNw"
       },
@@ -7130,6 +7112,28 @@
       "duration_ms": 640750,
       "name": "We Join Them - Live",
       "url": "https://open.spotify.com/track/2xX6ZweQwcLFxsdTQxYI6L"
+    },
+    {
+      "album": {
+        "name": "Intimacy (Worship Night Ottawa)",
+        "url": "https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309473,
+      "name": "We Want More - Live",
+      "url": "https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o"
     },
     {
       "album": {

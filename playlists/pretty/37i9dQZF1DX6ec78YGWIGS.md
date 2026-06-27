@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: TOBIKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,256 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,234 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [la única q quiero](https://open.spotify.com/track/7oHP2lKRTevXofV1vGEcTG) | [JOTTA](https://open.spotify.com/artist/3bssLS5nuLXRJMvAPBzLN0), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [la única q quiero](https://open.spotify.com/album/6Yn8oCQA34lipYSNsZUzbH) | 2:31 |
 | 100 | [DOS HORAS](https://open.spotify.com/track/2exXEndpd1LniGNwCA2Ea3) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [DOS HORAS](https://open.spotify.com/album/0zOZ3ubXanRAlG2AnXM6ec) | 2:17 |
 
-Snapshot ID: `AAAAAGIm4iEowTMEJfi2Kwe6gMd+FoXc`
+Snapshot ID: `AAAAACve3iauPCIfh+Z+uvIp4W1tD5TW`

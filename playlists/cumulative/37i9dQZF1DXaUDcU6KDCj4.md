@@ -2,7 +2,7 @@
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Tiny Habits
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ryan Beatty
 
 4,151 songs - 10 day 10 hr 4 min
 

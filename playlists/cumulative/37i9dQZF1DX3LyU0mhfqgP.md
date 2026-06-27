@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Honey Dijon
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Guitarricadelafuente
 
 1,856 songs - 4 day 4 hr 47 min
 

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1",
+  "snapshot_id": "AAAAAJT2AvyuofTCrJJtQ5Ru9AiINRb0",
   "tracks": [
     {
       "added_at": "2026-06-01 09:19:24",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Multiplied",
-        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 182463,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
         "name": "On Cam",
         "url": "https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 244995,
       "name": "On Cam",
       "url": "https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Mercy on the Skyline",
-        "url": "https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s"
-      },
-      "artists": [
-        {
-          "name": "Noah Derksen",
-          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
-        }
-      ],
-      "duration_ms": 222221,
-      "name": "Who Do You Wanna Be",
-      "url": "https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
         "name": "So Smart",
         "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 169431,
       "name": "So Smart",
       "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
+        "name": "Mercy on the Skyline",
+        "url": "https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "duration_ms": 222221,
+      "name": "Who Do You Wanna Be",
+      "url": "https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
+        "name": "Univers",
+        "url": "https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        }
+      ],
+      "duration_ms": 144635,
+      "name": "Univers",
+      "url": "https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL"
+    },
+    {
+      "added_at": "2026-06-01 09:19:24",
+      "album": {
         "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
         "url": "https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 251226,
       "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
       "url": "https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR"
-    },
-    {
-      "added_at": "2026-06-01 09:19:24",
-      "album": {
-        "name": "Univers",
-        "url": "https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn"
-      },
-      "artists": [
-        {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
-        }
-      ],
-      "duration_ms": 144635,
-      "name": "Univers",
-      "url": "https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL"
     },
     {
       "added_at": "2026-06-01 09:19:24",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-06-01 09:19:24",
       "album": {
-        "name": "Get It N Go",
-        "url": "https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj"
+        "name": "Tout ce qui d\u00e9passe",
+        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
       },
       "artists": [
         {
-          "name": "Sofia Ly",
-          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Get It N Go",
-      "url": "https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb"
+      "duration_ms": 170693,
+      "name": "Tout ce qui d\u00e9passe",
+      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
     }
   ],
   "unique_name": "Editors' Picks: Best Canadian Songs of May",

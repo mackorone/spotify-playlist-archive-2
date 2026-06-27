@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 43875,
+  "num_followers": 43882,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Gracias por Cuidar el Equipo",
-        "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
-      },
-      "artists": [
-        {
-          "name": "MUGRE",
-          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Directa",
-      "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Tigre Ulli",
         "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 127600,
       "name": "Postales Blancas",
       "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Gracias por Cuidar el Equipo",
+        "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
+      },
+      "artists": [
+        {
+          "name": "MUGRE",
+          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Directa",
+      "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Hasta Abajo - Ep",
-        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
+        "name": "Autodefensa",
+        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
       },
       "artists": [
         {
-          "name": "Violeta Castillo",
-          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
+          "name": "Las Ex",
+          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
         }
       ],
-      "duration_ms": 345723,
-      "name": "Las Se\u00f1ales",
-      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
+      "duration_ms": 180277,
+      "name": "Autodefensa",
+      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Autodefensa",
-        "url": "https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu"
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
       },
       "artists": [
         {
-          "name": "Las Ex",
-          "url": "https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY"
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
         }
       ],
-      "duration_ms": 180277,
-      "name": "Autodefensa",
-      "url": "https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj"
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Juego",
         "url": "https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
       },
       "artists": [
         {
-          "name": "Karina Vismara",
-          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
         }
       ],
-      "duration_ms": 197493,
-      "name": "Nada, Nadie",
-      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
+      "duration_ms": 190165,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd"
+      },
+      "artists": [
+        {
+          "name": "Karina Vismara",
+          "url": "https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Nada, Nadie",
+      "url": "https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "On\u00edrica",
         "url": "https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef"
       },
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Tengo Ganas",
-        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 240528,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb"
-      },
-      "artists": [
-        {
-          "name": "HTML",
-          "url": "https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8"
-        }
-      ],
-      "duration_ms": 156108,
-      "name": "Vocales",
-      "url": "https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Sola y Feliz",
         "url": "https://open.spotify.com/album/0LBHjan8S8zDznTrooHNgP"
       },
@@ -1399,6 +1367,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "Tengo Ganas",
+        "url": "https://open.spotify.com/album/6sLKSZ4mYBOcXjbTPDqOQI"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 240528,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/2XIgbgLK1303sJzh3ijDY6"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 274414,
       "name": "Desvelo",
       "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb"
+      },
+      "artists": [
+        {
+          "name": "HTML",
+          "url": "https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8"
+        }
+      ],
+      "duration_ms": 156108,
+      "name": "Vocales",
+      "url": "https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Se Trata de Ti",
-        "url": "https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc"
-      },
-      "artists": [
-        {
-          "name": "Vondr\u00e9",
-          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
-        }
-      ],
-      "duration_ms": 265496,
-      "name": "Se Trata de Ti",
-      "url": "https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "Rompe Paga",
         "url": "https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+        "name": "Se Trata de Ti",
+        "url": "https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
         }
       ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
+      "duration_ms": 265496,
+      "name": "Se Trata de Ti",
+      "url": "https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1539,6 +1523,22 @@
       "duration_ms": 242714,
       "name": "Mama, Deja Que Entren por la Ventana los Siete Mares - Remasterizado",
       "url": "https://open.spotify.com/track/3i3DPWZVCywz2gy8ZwDGAQ"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2025-06-26 15:52:01",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
+        "name": "La Piel Dura",
+        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
+      },
+      "artists": [
+        {
+          "name": "She Devils",
+          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "No Importa",
+      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
         "name": "Comprensi\u00f3n1",
         "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 216358,
       "name": "\u00bfA D\u00f3nde Voy Si Se Termina el Mundo?",
       "url": "https://open.spotify.com/track/7jXOyUXySEKG0V7Kxpiy4t"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
-        "name": "La Piel Dura",
-        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
-      },
-      "artists": [
-        {
-          "name": "She Devils",
-          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "No Importa",
-      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
     }
   ],
   "unique_name": "Rockeras",

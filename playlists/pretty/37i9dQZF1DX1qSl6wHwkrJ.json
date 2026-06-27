@@ -1,6 +1,6 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 25312,
+  "num_followers": 25311,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Happy Xmas",
-        "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 209362,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1dTbaytzmCoyFrWMvyV1BR"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "A Christmas Celebration Of Hope",
         "url": "https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 291440,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/13syy8gRhefDlNIBfe0ZKh"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Happy Xmas",
+        "url": "https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 209362,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1dTbaytzmCoyFrWMvyV1BR"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Death Might Be Your Santa Claus",
-        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Santa",
-      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "The Complete James Brown Christmas",
         "url": "https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 181053,
       "name": "Santa Claus Go Straight To The Ghetto",
       "url": "https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Death Might Be Your Santa Claus",
+        "url": "https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "An Austin Rhythm And Blues Christmas",
-        "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
-      },
-      "artists": [
-        {
-          "name": "Angela Strehli",
-          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Boogie Woogie Santa Claus",
-      "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "The 30 Most Unusual Christmas Songs",
         "url": "https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 124000,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "An Austin Rhythm And Blues Christmas",
+        "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Boogie Woogie Santa Claus",
+      "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas in Your Arms",
-        "url": "https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A"
-      },
-      "artists": [
-        {
-          "name": "Bad Temper Joe",
-          "url": "https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "Christmas in Your Arms",
-      "url": "https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Christmas Blues: Savoy Jazz Christmas Album",
         "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 157333,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/1Lg5CgB4Y3ECA1389Da6AC"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas in Your Arms",
+        "url": "https://open.spotify.com/album/0hWzZwvOFL3tmG3PY0999A"
+      },
+      "artists": [
+        {
+          "name": "Bad Temper Joe",
+          "url": "https://open.spotify.com/artist/5RaO6ECyM6IAfhFbyjuik6"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "Christmas in Your Arms",
+      "url": "https://open.spotify.com/track/0TGPlJMf1vafM8oNyKMML4"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
+        "name": "Classics: 1949-1954",
+        "url": "https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s"
+      },
+      "artists": [
+        {
+          "name": "Titus Turner",
+          "url": "https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2"
+        }
+      ],
+      "duration_ms": 162226,
+      "name": "Christmas Morning (10-29-52)",
+      "url": "https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
         "name": "Christmas Blues: Savoy Jazz Christmas Album",
         "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Classics: 1949-1954",
-        "url": "https://open.spotify.com/album/3jlhSl1o47UZ4Bdh7mIB0s"
+        "name": "Merry Blue Christmas",
+        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
       },
       "artists": [
         {
-          "name": "Titus Turner",
-          "url": "https://open.spotify.com/artist/0cilTln9dpUgfKhi52fqP2"
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 162226,
-      "name": "Christmas Morning (10-29-52)",
-      "url": "https://open.spotify.com/track/6Oyx0NuSzR6zzT8erMVZ8V"
+      "duration_ms": 154919,
+      "name": "Christmas Date Blues",
+      "url": "https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -783,18 +799,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Merry Blue Christmas",
-        "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
+        "name": "Alligator Records' Genuine Houserockin' Christmas",
+        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
       },
       "artists": [
         {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 154919,
-      "name": "Christmas Date Blues",
-      "url": "https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ"
+      "duration_ms": 284320,
+      "name": "Have You Heard The News?",
+      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Alligator Records' Genuine Houserockin' Christmas",
-        "url": "https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B"
+        "name": "A Blues Christmas",
+        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 284320,
-      "name": "Have You Heard The News?",
-      "url": "https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH"
+      "duration_ms": 262119,
+      "name": "Stay A Little Longer, Santa",
+      "url": "https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -859,22 +875,6 @@
       "duration_ms": 203154,
       "name": "Christmas Morning Blues",
       "url": "https://open.spotify.com/track/5gIXMjdqGoRoILyzFH65Pi"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "A Blues Christmas",
-        "url": "https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 262119,
-      "name": "Stay A Little Longer, Santa",
-      "url": "https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0"
     },
     {
       "added_at": "2023-11-22 12:51:56",

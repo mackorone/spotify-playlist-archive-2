@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,224 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,227 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 18 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 19 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 |
 | 20 | [BIRTHDAY BEHAVIOR](https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIRTHDAY BEHAVIOR](https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW) | 2:24 |
-| 21 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
-| 22 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
+| 21 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 |
+| 22 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 |
 | 23 | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Perfect \(Remix\) \(feat\. Doja Cat & BIA\)](https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS) | 3:17 |
 | 24 | [Mami \(feat\. BIA\)](https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:58 |
 | 25 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 | 50 | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/track/64Rn2oaQjAW6gIAjvukhWu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Trampoline \(feat\. Missy Elliott, BIA and Doechii\)](https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI) | 2:24 |
 
-Snapshot ID: `ajseAAAAAACJGeWv95faPl0J72OSQN3m`
+Snapshot ID: `ajxvgAAAAAAkiyPLO3lyjkNFHzLvywx8`

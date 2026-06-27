@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60017,
+  "num_followers": 60010,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 174372,
       "name": "Vesipisaroiden valssi (feat. KAUKUA)",
       "url": "https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Mun vuoro luovuttaa",
-        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Mun vuoro luovuttaa",
-      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Stand Back",
         "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 165359,
       "name": "Stand Back",
       "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Mun vuoro luovuttaa",
+        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Mun vuoro luovuttaa",
+      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rockstar (feat. Janna)",
-        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
-      },
-      "artists": [
-        {
-          "name": "Aste",
-          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
-        },
-        {
-          "name": "JANNA",
-          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
-        }
-      ],
-      "duration_ms": 174900,
-      "name": "Rockstar (feat. Janna)",
-      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Viimeiseen tanssiin (feat. Juno)",
         "url": "https://open.spotify.com/album/1blRhJC5hmsaHEcZ5ux29h"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 195933,
       "name": "Viimeiseen tanssiin (feat. Juno)",
       "url": "https://open.spotify.com/track/5edp2II9DgyvE4V9N86PoW"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Rockstar (feat. Janna)",
+        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "Rockstar (feat. Janna)",
+      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "V\u00e4rit",
-        "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "V\u00e4rit",
-      "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Viimeiseen hengenvetoon",
         "url": "https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ"
       },
@@ -1015,50 +999,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Ketjupoltetaan sillat",
-        "url": "https://open.spotify.com/album/4XXjxAEjXD3EmT6ilxQXsb"
+        "name": "V\u00e4rit",
+        "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
       },
       "artists": [
         {
-          "name": "Lilja Lund\u00e9n",
-          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX"
         }
       ],
-      "duration_ms": 160893,
-      "name": "Ketjupoltetaan sillat",
-      "url": "https://open.spotify.com/track/004ABECfTtivFJoK2JByoX"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Ymp\u00e4ri maailmaa",
-        "url": "https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR"
-      },
-      "artists": [
-        {
-          "name": "AB",
-          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Ymp\u00e4ri maailmaa",
-      "url": "https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor"
+      "duration_ms": 169846,
+      "name": "V\u00e4rit",
+      "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1079,6 +1031,38 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Ketjupoltetaan sillat",
+        "url": "https://open.spotify.com/album/4XXjxAEjXD3EmT6ilxQXsb"
+      },
+      "artists": [
+        {
+          "name": "Lilja Lund\u00e9n",
+          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Ketjupoltetaan sillat",
+      "url": "https://open.spotify.com/track/004ABECfTtivFJoK2JByoX"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Ymp\u00e4ri maailmaa",
+        "url": "https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR"
+      },
+      "artists": [
+        {
+          "name": "AB",
+          "url": "https://open.spotify.com/artist/76sQrG5TTCfEKDqFhc2zWm"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Ymp\u00e4ri maailmaa",
+      "url": "https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Toivon et se olisit s\u00e4",
         "url": "https://open.spotify.com/album/0IJt19qld2lforDczKV6TN"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 151800,
       "name": "Toivon et se olisit s\u00e4",
       "url": "https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rautaa",
-        "url": "https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO"
+        "name": "Tilulilulauluja",
+        "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
       },
       "artists": [
         {
-          "name": "Petra Gargano",
-          "url": "https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4"
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
         }
       ],
-      "duration_ms": 160130,
-      "name": "Rautaa",
-      "url": "https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu"
+      "duration_ms": 247786,
+      "name": "Tilulilulauluja",
+      "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1143,18 +1143,42 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Tilulilulauluja",
-        "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
+        "name": "Rautaa",
+        "url": "https://open.spotify.com/album/4sFlXW6P8GXgZ8oAckX1HO"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "Petra Gargano",
+          "url": "https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4"
         }
       ],
-      "duration_ms": 247786,
-      "name": "Tilulilulauluja",
-      "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
+      "duration_ms": 160130,
+      "name": "Rautaa",
+      "url": "https://open.spotify.com/track/79D4icNYZNeZ6i53WUN0Qu"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Jumalanmiehii III",
+        "url": "https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e"
+      },
+      "artists": [
+        {
+          "name": "Immanuel",
+          "url": "https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr"
+        },
+        {
+          "name": "Josua Leier",
+          "url": "https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh"
+        },
+        {
+          "name": "Alttari",
+          "url": "https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj"
+        }
+      ],
+      "duration_ms": 268541,
+      "name": "Vastaa",
+      "url": "https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Jumalanmiehii III",
-        "url": "https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e"
-      },
-      "artists": [
-        {
-          "name": "Immanuel",
-          "url": "https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr"
-        },
-        {
-          "name": "Josua Leier",
-          "url": "https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh"
-        },
-        {
-          "name": "Alttari",
-          "url": "https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj"
-        }
-      ],
-      "duration_ms": 268541,
-      "name": "Vastaa",
-      "url": "https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Stiigerihai",
         "url": "https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8"
       },
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "El\u00e4m\u00e4 jatkuu",
-        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
-      },
-      "artists": [
-        {
-          "name": "Roosa",
-          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "El\u00e4m\u00e4 jatkuu",
-      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Kuka Vaan",
         "url": "https://open.spotify.com/album/0nm1pGaRjoY0P8nAogDGXr"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 142285,
       "name": "Kuka Vaan",
       "url": "https://open.spotify.com/track/6mdRQoDI0ojsAIsJcpAQlV"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "El\u00e4m\u00e4 jatkuu",
+        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "El\u00e4m\u00e4 jatkuu",
+      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
     }
   ],
   "unique_name": "Nousussa",

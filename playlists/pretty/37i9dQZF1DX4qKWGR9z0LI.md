@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877,143 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,877,063 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 38 | [Con la Punta del Pie](https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ) | [La Gloria Matancera](https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj) | [Pare Cochero](https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU) | 3:37 |
 | 39 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |
 | 40 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
-| 41 | [Señora De Madrugada](https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [A Mi Estilo...](https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf) | 5:49 |
-| 42 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
-| 43 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
+| 41 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
+| 42 | [Señora De Madrugada](https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [A Mi Estilo...](https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf) | 5:49 |
+| 43 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
 | 44 | [Valió la Pena \- Salsa Version](https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 4:49 |
 | 45 | [Abre Que Voy](https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw) | [Miguel Enriquez](https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL) | [Grandes Exitos](https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ) | 4:22 |
 | 46 | [Si Tú Me Besas](https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Si Tú Me Besas](https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b) | 4:20 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 82 | [Me Dediqué A Perderte](https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av) | [Me Dedique A Perderte](https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs) | 2:47 |
 | 83 | [Páginas De Amor](https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs) | [Tito Gomez](https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:56 |
 | 84 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
-| 85 | [Quien](https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Quien](https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp) | 4:19 |
+| 85 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
 | 86 | [Mal Necesario](https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Mal Necesario](https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU) | 3:06 |
-| 87 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
+| 87 | [Quien](https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Quien](https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp) | 4:19 |
 | 88 | [LA RONDA](https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:29 |
 | 89 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 |
 | 90 | [Tesoro Mío](https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mío](https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD) | 4:02 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 94 | [Porque Te Amo](https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Salsa At It's Best](https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R) | 5:04 |
 | 95 | [Como Olvidarte](https://open.spotify.com/track/4BqXG8Al1bDML9J8Ywapt7) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Olvidarte](https://open.spotify.com/album/32uPouQihQTzUcgZCPXJY9) | 3:08 |
 | 96 | [La Carrera](https://open.spotify.com/track/7rZ1zXk0K0gSSUInOd9Tss) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [La Carrera](https://open.spotify.com/album/6k67isnOdUxFxG45TxPR0H) | 3:40 |
-| 97 | [Cómo Se Compara](https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [GRIS](https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f) | 3:59 |
-| 98 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 |
+| 97 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 |
+| 98 | [Cómo Se Compara](https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [GRIS](https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f) | 3:59 |
 | 99 | [Juguete de Nadie](https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:04 |
 | 100 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1170500,
+  "num_followers": 1170613,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACRkdHAMrwt/JZjBl0OSUeI",
+  "snapshot_id": "ajxvgAAAAACV8fKZZglwI3cbPdLfq6cs",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bare Trees",
-        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Sunny Side of Heaven",
-      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (2015 Remaster)",
         "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 294053,
       "name": "Angel - 2015 Remaster",
       "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bare Trees",
+        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Sunny Side of Heaven",
+      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
     },
     {
       "added_at": null,

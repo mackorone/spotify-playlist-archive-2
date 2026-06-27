@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 181880,
       "name": "Bone Structure",
       "url": "https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o"
@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "Cursive",
+        "url": "https://open.spotify.com/album/2RAKDVCGDTuPnPcUle2Ljq"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181743,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/7GTJo0jGZm3MifQFNwpHEn"
+    },
+    {
+      "album": {
         "name": "cut my hair",
         "url": "https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1"
       },
@@ -6434,7 +6452,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 256000,
       "name": "Daredevil",
       "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
@@ -6744,6 +6762,24 @@
       "duration_ms": 203349,
       "name": "Delete Ya",
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
+    },
+    {
+      "album": {
+        "name": "delicate",
+        "url": "https://open.spotify.com/album/1QMIHpWtsRn6ajIqBoChA0"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182120,
+      "name": "delicate",
+      "url": "https://open.spotify.com/track/6YBLmU3kjppbQx3GjP2Q5y"
     },
     {
       "album": {
@@ -9710,7 +9746,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207338,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9"
@@ -18555,6 +18591,24 @@
     },
     {
       "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/0Tk6VmFzD7jRn4C0cvR1c1"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241139,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/5YggJREAjt93xaRmFwcKvu"
+    },
+    {
+      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi"
       },
@@ -20096,7 +20150,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 144501,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
@@ -20536,7 +20590,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 242517,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
@@ -21262,6 +21316,24 @@
       "duration_ms": 193526,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12"
+    },
+    {
+      "album": {
+        "name": "EAVESDROPPING",
+        "url": "https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "RODEO",
+      "url": "https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG"
     },
     {
       "album": {
@@ -22238,7 +22310,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184655,
       "name": "She's Missing",
       "url": "https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo"
@@ -23270,6 +23342,24 @@
       "duration_ms": 183322,
       "name": "Song From Hell",
       "url": "https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf"
+    },
+    {
+      "album": {
+        "name": "Sooner or Later",
+        "url": "https://open.spotify.com/album/4ybDedFZDn9Y5G2wuc4KDA"
+      },
+      "artists": [
+        {
+          "name": "CHXRL",
+          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/78iQfzUp6HcPN4AnONdqCf"
     },
     {
       "album": {
@@ -24766,6 +24856,24 @@
       "duration_ms": 195924,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/0MWcbfTaDRtQDhqthVmVon"
+    },
+    {
+      "album": {
+        "name": "Suzy",
+        "url": "https://open.spotify.com/album/2s8GMXJrYAbVG8E38rBuKi"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Suzy",
+      "url": "https://open.spotify.com/track/0yhCViFEIlPZ2Jhvtu0WYY"
     },
     {
       "album": {

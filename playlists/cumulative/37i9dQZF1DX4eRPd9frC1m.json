@@ -7480,7 +7480,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
@@ -8936,6 +8936,48 @@
       "duration_ms": 180298,
       "name": "STFU",
       "url": "https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA"
+    },
+    {
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
     },
     {
       "album": {

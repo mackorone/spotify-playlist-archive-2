@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-578 songs - 1 day 7 hr 43 min
+579 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dreams](https://open.spotify.com/track/3cC6Sx3Z0UTyr5gM2vHFdg) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Dreams](https://open.spotify.com/album/0A7mcxKjEulhu0P9ves8sT) | 2:37 | 2020-10-24 | 2022-08-06 |
 | [Dreams \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6WNksTFvo7VSeiP0UfNpWf) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Dreams \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/4aRvJ1Tc1Qi1mNT30QYpjw) | 5:04 | 2021-08-21 | 2021-08-24 |
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2021-09-18 | 2021-11-11 |
+| [Elephant](https://open.spotify.com/track/25eziuXzuP0USgaLErpQOF) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Elephant](https://open.spotify.com/album/3ieNe0PtLpl2bJXoJiPcNZ) | 2:11 | 2026-06-26 |  |
 | [Emergency](https://open.spotify.com/track/6L0B2i6TKUP2vazSDqViUM) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Emergency](https://open.spotify.com/album/2migdnnPxbvIHUGbKlBO6M) | 2:48 | 2023-03-31 | 2024-02-24 |
 | [Emotion \- JYRYMY Remix](https://open.spotify.com/track/6SE6vHi1PhYjQBIMVI5zwj) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [JYRYMY](https://open.spotify.com/artist/4rAYqc4yDNxG7fn8nkNFYe) | [Emotion \(Remixes\)](https://open.spotify.com/album/0gdHmGF8vBT4te9pF0nzFs) | 3:14 | 2021-03-06 | 2021-05-15 |
 | [Erase](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Erase](https://open.spotify.com/album/4NZkbSAu3tAnWrL7j3uuDy) | 4:15 | 2023-07-21 | 2024-06-01 |

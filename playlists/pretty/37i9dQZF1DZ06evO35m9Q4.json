@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 168998,
+  "num_followers": 169019,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAXo4tALMMlRvzQ/yKsIjqB",
+  "snapshot_id": "ajxvgAAAAAAQnpu1f8PfkKBT0aXP27qx",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 551786,
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+      "duration_ms": 551786,
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 58716,
-      "name": "Pep Talk - Remastered 2024",
-      "url": "https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q"
+      "duration_ms": 1402620,
+      "name": "I'm Gonna Move To The Outskirts Of Town - Remastered 2024",
+      "url": "https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 1402620,
-      "name": "I'm Gonna Move To The Outskirts Of Town - Remastered 2024",
-      "url": "https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf"
+      "duration_ms": 58716,
+      "name": "Pep Talk - Remastered 2024",
+      "url": "https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

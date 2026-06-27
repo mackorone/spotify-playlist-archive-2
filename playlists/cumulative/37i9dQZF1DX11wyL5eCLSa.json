@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Arriba La L",
+        "url": "https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223076,
+      "name": "Arriba La L",
+      "url": "https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe"
+    },
+    {
+      "album": {
         "name": "El Final de Las Cosas",
         "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
@@ -4716,7 +4734,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189666,
       "name": "El Himno (Me Siento Genial)",
       "url": "https://open.spotify.com/track/3oHtR8PdWEDOWJPAmHTE0M"
@@ -5236,7 +5254,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189397,
       "name": "Es Mentira",
       "url": "https://open.spotify.com/track/3l6g9Evcuq5eH5M40Uu9xk"
@@ -7622,6 +7640,24 @@
       "duration_ms": 197685,
       "name": "Lagrimas de Sal",
       "url": "https://open.spotify.com/track/3Iau7Oh49UqO5AE041BuME"
+    },
+    {
+      "album": {
+        "name": "las flores que te traigo",
+        "url": "https://open.spotify.com/album/6olCgezuuHSyxuSGnzKqd6"
+      },
+      "artists": [
+        {
+          "name": "El Muchacho de los Ojos Tristes",
+          "url": "https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188117,
+      "name": "las flores que te traigo",
+      "url": "https://open.spotify.com/track/5zzQpGql2gLl21hJJ1FArl"
     },
     {
       "album": {
@@ -11552,7 +11588,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 192453,
       "name": "Perdon",
       "url": "https://open.spotify.com/track/1NvDQSzsO28nUBxDKoRdtI"
@@ -15504,6 +15540,28 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "album": {
+        "name": "Bruxer\u00eda",
+        "url": "https://open.spotify.com/album/5VEZvFA3FLSBHs8WIYe25w"
+      },
+      "artists": [
+        {
+          "name": "LaPeste",
+          "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        },
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151052,
+      "name": "Viste Mister",
+      "url": "https://open.spotify.com/track/149dGPibHqV1ypIQWcXjim"
     },
     {
       "album": {

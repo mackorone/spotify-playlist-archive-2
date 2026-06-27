@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Masego",
+  "description": "Chill r&b. Cover: BOY SODA",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 231489,
       "name": "'Flawless' Do It Well Pt. 3 (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/6Ok5DivyUJjsLVUUWLzz6o"
+    },
+    {
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238950,
+      "name": "'til u cry",
+      "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
     },
     {
       "album": {
@@ -2186,7 +2204,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 246422,
       "name": "baby, can we?",
       "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 203458,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/5l0FelDpLcRGzvpYhT9eCH"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 214574,
       "name": "Bring That Body",
       "url": "https://open.spotify.com/track/1vB4WYXgTNukibYgQvpXuV"
@@ -5494,7 +5512,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 236670,
       "name": "Choose",
       "url": "https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg"
@@ -8012,7 +8030,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 193373,
       "name": "DUSTY (with Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
@@ -10328,6 +10346,24 @@
       "duration_ms": 186109,
       "name": "For You",
       "url": "https://open.spotify.com/track/51utzcuw1SxGYh92nmbFrm"
+    },
+    {
+      "album": {
+        "name": "Foreign",
+        "url": "https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203183,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf"
     },
     {
       "album": {
@@ -13088,7 +13124,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 199533,
       "name": "Holding Back",
       "url": "https://open.spotify.com/track/2VUqrHj4z85HUBMQVdjqmj"
@@ -13834,7 +13870,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 151547,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/08U3QpENVVF2YUuPAN0Wz1"
@@ -14749,6 +14785,28 @@
     },
     {
       "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "album": {
         "name": "IS IT WORTH IT",
         "url": "https://open.spotify.com/album/07Cy5GDf829nfPbW5hIHKf"
       },
@@ -15404,7 +15462,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 105774,
       "name": "Just In Case",
       "url": "https://open.spotify.com/track/0HtelFc6TxhZ61iGYA9dI3"
@@ -15476,7 +15534,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 160922,
       "name": "Just My Type",
       "url": "https://open.spotify.com/track/2gNlXEKVALGg73k51Ord3x"
@@ -16498,7 +16556,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 182001,
       "name": "Lil' Obsession (feat. Ambr\u00e9)",
       "url": "https://open.spotify.com/track/7r5vzUiBPrYlfGjkdnj1MX"
@@ -19977,6 +20035,24 @@
     },
     {
       "album": {
+        "name": "No Jodeci",
+        "url": "https://open.spotify.com/album/6dBdwwOZ7TkDligPleqtvJ"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202190,
+      "name": "No Jodeci",
+      "url": "https://open.spotify.com/track/3zDxTV5IYwcdmcxrRhcST4"
+    },
+    {
+      "album": {
         "name": "It's Not Me, It's You",
         "url": "https://open.spotify.com/album/3420KGAv7XqNKYAUOCHyTM"
       },
@@ -20446,6 +20522,24 @@
       "duration_ms": 180353,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s"
+    },
+    {
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/0Had0RbdGN44yC2zoYXA8Z"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176297,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
     },
     {
       "album": {
@@ -23109,6 +23203,24 @@
     },
     {
       "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326341,
+      "name": "rather never love again",
+      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
+    },
+    {
+      "album": {
         "name": "Read You Well (feat. Akeem Ali)",
         "url": "https://open.spotify.com/album/3ZMN0o8ZUqT9WWduRUHsrF"
       },
@@ -23674,6 +23786,24 @@
       "duration_ms": 168160,
       "name": "RIGHT/WRONG",
       "url": "https://open.spotify.com/track/1kdWhxp9RbFFkv5exPEfrB"
+    },
+    {
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "album": {
@@ -25190,7 +25320,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 156586,
       "name": "She",
       "url": "https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL"
@@ -29679,6 +29809,24 @@
     },
     {
       "album": {
+        "name": "To Want Someone Badly",
+        "url": "https://open.spotify.com/album/1RCqDfERqTPoW669sQdYWA"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177155,
+      "name": "To Want Someone Badly",
+      "url": "https://open.spotify.com/track/6f6EdKXS6CRFGIk6hW8qjS"
+    },
+    {
+      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -29872,7 +30020,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 249218,
       "name": "touch myself",
       "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
@@ -32394,7 +32542,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187248,
       "name": "Win Or Lose",
       "url": "https://open.spotify.com/track/4YUU0sam6DtijJ847SqjYf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,818 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,821 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 10 | [Corazon Duro \(En Vivo\)](https://open.spotify.com/track/0fV373c5T4q4UbjiG64zdm) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En Vivo Desde Culiacan Con Servando ZL](https://open.spotify.com/album/50LIglz8oy1KJ9ys8GjEbB) | 3:44 |
 | 11 | [El HR \- En Vivo Desde Culiacan](https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En Vivo Desde Culiacan](https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF) | 3:06 |
 | 12 | [De Huarache y Sombrero / Huarache De Tres Piquetes](https://open.spotify.com/track/5NrcpNz06ZxDwjKFv13Ja5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Daniel Ortiz](https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8) | [Al Millon Y Medio Y Pasaditooo](https://open.spotify.com/album/6zM6WwCnlkpiLnLVJI9ksS) | 2:42 |
-| 13 | [El Jabali \- En Vivo](https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:53 |
-| 14 | [El Enemigo Público](https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:18 |
+| 13 | [El Enemigo Público](https://open.spotify.com/track/1V6lwiuvK0ZzMmuUVJP9L5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Enemigo Público](https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53) | 2:18 |
+| 14 | [El Jabali \- En Vivo](https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:53 |
 | 15 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
 | 16 | [Ni el Dinero Ni Nada](https://open.spotify.com/track/0YiNEnEmLo3gHc7w2USFua) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:50 |
 | 17 | [Las Tempestades](https://open.spotify.com/track/28ylzCdO95jHk2gjTcD02P) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre de 14 Años](https://open.spotify.com/album/3BLUTvavXdcEmRfo52xCPy) | 3:59 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 24 | [Se Equivocó El Pistolero](https://open.spotify.com/track/6h8mrn4tKFtPSfvd9N7RMB) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 2:42 |
 | 25 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
 | 26 | [La Clave 7 \- En Vivo](https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:36 |
-| 27 | [Mario Aguirre \- En Vivo](https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:59 |
+| 27 | [Los Dos Jefes](https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:05 |
 | 28 | [La Carrucha](https://open.spotify.com/track/55mqlCzGFS1szEKuaxL8mI) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 |
-| 29 | [Los Dos Jefes](https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:05 |
+| 29 | [Mario Aguirre \- En Vivo](https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 2:59 |
 | 30 | [El Inicio...](https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:48 |
 | 31 | [El de Arriva Me Bendice](https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:49 |
 | 32 | [El Hueso Del Perron](https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 49 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 |
 | 50 | [El Cisne](https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:01 |
 
-Snapshot ID: `ajseAAAAAADOd7KiKM3+THUEUvwpUBCu`
+Snapshot ID: `ajxvgAAAAAD6Oc2ojcOUz8NXvuThNW23`

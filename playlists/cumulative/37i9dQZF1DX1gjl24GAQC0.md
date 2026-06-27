@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: ONF\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: ATEEZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-871 songs - 1 day 23 hr 0 min
+872 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 | 2022-11-30 | 2023-05-09 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 | 2024-11-20 |
 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-11-04 | 2026-06-02 |
+| [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 | 2026-06-26 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 | 2026-02-14 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-02 | 2022-07-11 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-09-28 |
@@ -85,7 +86,7 @@
 | [Beautiful Breakup](https://open.spotify.com/track/2NlTJ3Jf6skIJfTD0oJatY) | [LUNA](https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk) | [Beautiful Breakup](https://open.spotify.com/album/3g4zzjFwMgwkRZjiosqlDI) | 4:07 | 2022-01-17 | 2022-04-21 |
 | [Beautiful Liar](https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [REASON](https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS) | 3:03 | 2023-01-09 | 2023-06-21 |
 | [Beautiful Pain](https://open.spotify.com/track/3zM2yi75oB3v00sZvWUzIn) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [HOUR MOMENT](https://open.spotify.com/album/3qgQ4Zlq1j5zJL0DadUYU0) | 3:59 | 2022-01-17 | 2022-04-07 |
-| [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-21 |  |
+| [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-21 | 2026-06-27 |
 | [Beauty and the Beast](https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Beauty and the Beast](https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS) | 4:24 | 2022-01-26 | 2022-07-29 |
 | [BIBORA](https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [Sequence](https://open.spotify.com/album/23325hP3aqsiTottDna0mg) | 3:14 | 2024-01-08 | 2024-01-23 |
 | [BIG BANDS \- Korean Version](https://open.spotify.com/track/65ivb51ZNPZzsuea4qL3QX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \- The 7th Mini Album](https://open.spotify.com/album/7bznUQPHdmQnEPx0AjC9qI) | 2:58 | 2025-07-23 | 2025-07-29 |
@@ -572,7 +573,7 @@
 | [Only U](https://open.spotify.com/track/4x1ElCGJXFEsj8Pk8aBxiC) | [IMFACT](https://open.spotify.com/artist/3ejYNz33SNAa1Qxo9g0qCG) | [Only U](https://open.spotify.com/album/3HsrUWvi7nM0UVcniW3FKw) | 3:50 | 2022-03-22 | 2022-04-10 |
 | [OoWee](https://open.spotify.com/track/57dLypRhQoRBX9wFt4Ug7c) | [NOWADAYS](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [NOWADAYS](https://open.spotify.com/album/4Ne62dPo4QnXDaIpaWc87L) | 2:59 | 2024-04-02 | 2024-04-16 |
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-07-18 | 2024-09-01 |
-| [Open The Door](https://open.spotify.com/track/1A7nHCu8oMqnzSvLEzrW8w) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY SELF](https://open.spotify.com/album/1wqI1tDPnRb4UP5H5Ffw7F) | 3:12 | 2026-06-17 |  |
+| [Open The Door](https://open.spotify.com/track/1A7nHCu8oMqnzSvLEzrW8w) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY SELF](https://open.spotify.com/album/1wqI1tDPnRb4UP5H5Ffw7F) | 3:12 | 2026-06-17 | 2026-06-27 |
 | [OUR DAYS](https://open.spotify.com/track/31SfUhe4smQ6X31pmE9u4L) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [SOME DAY](https://open.spotify.com/album/7EEAmGzNqw1LrMwACBDJlR) | 3:17 | 2024-09-26 | 2024-10-01 |
 | [Outsider](https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [4U : OUTSIDE](https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA) | 3:32 | 2022-01-27 | 2022-07-23 |
 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 | 2025-10-13 |  |
@@ -720,7 +721,7 @@
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
 | [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 | 2025-07-28 | 2025-08-23 |
 | [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 | 2025-11-28 | 2025-12-16 |
-| [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 | 2026-04-14 |
+| [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 | 2022-10-27 |
 | [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-22 | 2024-02-15 |
 | [Summer Light](https://open.spotify.com/track/0nvv7QmRopuA4rylN4EOly) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Summer Light](https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg) | 3:01 | 2025-08-04 | 2025-08-23 |

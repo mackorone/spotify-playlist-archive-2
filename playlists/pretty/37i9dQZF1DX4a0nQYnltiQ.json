@@ -1,6 +1,6 @@
 {
   "description": "The #1 Destination for the best melodies in the world. Cover: Steve Lacy",
-  "num_followers": 583335,
+  "num_followers": 583266,
   "original_name": "Essence",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "AAAAALteS8//9aOuUlprjggbyniM3Jik",
   "tracks": [
+    {
+      "added_at": "2026-06-25 23:00:47",
+      "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
     {
       "added_at": "2026-06-25 23:00:47",
       "album": {

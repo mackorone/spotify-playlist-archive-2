@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517 likes - 390 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 390 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 183 | [Fresh As A Daisy](https://open.spotify.com/track/70lTL8pZLu3TLaNa4IVrRv) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Complete Glenn Miller and His Orchestra](https://open.spotify.com/album/58rMb0yOYCIqwoDjdhwGlK) | 2:45 |
 | 184 | [Can Can](https://open.spotify.com/track/7vFRI6pxGYoxu1B2mYJlGj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/6lW9fc3yUitOjJwg6nWYj1) | 2:12 |
 | 185 | [I'm gettin' myself ready for you](https://open.spotify.com/track/3OHDDHdqLCsoZ8nBVw0yg7) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/6xfl3npd0wHLenah8VGBJS) | 3:07 |
-| 186 | [Kiss Me, Kate \- Act 1 Finale](https://open.spotify.com/track/7JuOfsmhR55Y9gxHCQHt40) | [Will Chase](https://open.spotify.com/artist/1xMUrRkfPwUuGgCIXqxO8B), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [The Kiss Me Kate 2019 Broadway Company](https://open.spotify.com/artist/0jigujFMzkZ5TUBJvUiGbk) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 2:26 |
-| 187 | [Hotel Exterior](https://open.spotify.com/track/1bPXS00ewWqWqYAQxgkiJL) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 3:25 |
+| 186 | [Hotel Exterior](https://open.spotify.com/track/1bPXS00ewWqWqYAQxgkiJL) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 3:25 |
+| 187 | [Kiss Me, Kate \- Act 1 Finale](https://open.spotify.com/track/7JuOfsmhR55Y9gxHCQHt40) | [Will Chase](https://open.spotify.com/artist/1xMUrRkfPwUuGgCIXqxO8B), [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [The Kiss Me Kate 2019 Broadway Company](https://open.spotify.com/artist/0jigujFMzkZ5TUBJvUiGbk) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 2:26 |
 | 188 | [Most Gentlemen Don't Like Love](https://open.spotify.com/track/6dG9l4VKGjeOYoOZWa1NTy) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [I Get A Kick Out Of You \- The Cole Porter Songbook \(Vol\. II\)](https://open.spotify.com/album/115HTh9oZl6O2qLUTLAs4F) | 3:04 |
 | 189 | [Street Scene](https://open.spotify.com/track/23cY7ZA4A4qbxWuoEDLBkw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Cosmopolite](https://open.spotify.com/album/5acG39Tvcy0MmQm5fWojv5) | 3:22 |
 | 190 | [Two Little Babes In the Wood](https://open.spotify.com/track/1OJ11DacCGhqltcbWAomt9) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/00V8X8Gj43p6pqiROdZ0DV) | 3:18 |
@@ -399,4 +399,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 389 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 390 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcVMpgAAAAD4tVaDs5ZRUeReHOHJ8185`
+Snapshot ID: `AcVSRgAAAAC6M8JiICWWLD0nBCgvdTZL`

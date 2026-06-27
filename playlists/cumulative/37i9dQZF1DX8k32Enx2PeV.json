@@ -642,10 +642,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 231828,
       "name": "Calz\u00f3n",
       "url": "https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs"
+    },
+    {
+      "album": {
+        "name": "Can't Stand It",
+        "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Can't Stand It",
+      "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
     },
     {
       "album": {

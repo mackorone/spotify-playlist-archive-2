@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,899 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,902 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 5 | [IT'S OK](https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [IT'S OK](https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE) | 2:19 |
 | 6 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
 | 7 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
-| 8 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 |
-| 9 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
-| 10 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
-| 11 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
+| 8 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 9 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 |
+| 10 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
+| 11 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
 | 12 | [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 |
 | 13 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 |
 | 14 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 66 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
 | 67 | [100](https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [100](https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr) | 3:54 |
 | 68 | [Before We Get Started \(feat\. Fabolous\)](https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Before We Get Started \(feat\. Fabolous\)](https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F) | 2:55 |
-| 69 | [Anita Valentine](https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Dreamsoul Ballads](https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK) | 3:57 |
-| 70 | [11th Hour](https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH) | 4:11 |
+| 69 | [11th Hour](https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH) | 4:11 |
+| 70 | [Anita Valentine](https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Dreamsoul Ballads](https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK) | 3:57 |
 | 71 | [Perfect Stranger \(feat\. Kenny Lattimore\)](https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Perfect Stranger \(feat\. Kenny Lattimore\)](https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW) | 3:51 |
 | 72 | [Guns](https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Guns](https://open.spotify.com/album/5icW3F94z3FdkoTEoDejwd) | 3:09 |
 | 73 | [Took A Turn](https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Took A Turn](https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3) | 4:52 |

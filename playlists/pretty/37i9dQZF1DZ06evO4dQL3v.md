@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,620 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,622 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 7 | [La Vida Alegre](https://open.spotify.com/track/5zT0IoSZ32APqIAUmTO1kk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Ecuaro](https://open.spotify.com/album/2uRdvRRlHrwIzGuBCVf2aT) | 2:51 |
 | 8 | [Anoche Me Enamore](https://open.spotify.com/track/43e0OdJ7OCtdhmMKU6ERM4) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:42 |
 | 9 | [La Lección](https://open.spotify.com/track/1dpnYgl9aEzpaGL4uqm41B) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 3:00 |
-| 10 | [El Meneito](https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:41 |
-| 11 | [La Cama de Piedra](https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 2:30 |
+| 10 | [La Cama de Piedra](https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 2:30 |
+| 11 | [El Meneito](https://open.spotify.com/track/2pDqG6OH20cX1vUmNINqvy) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:41 |
 | 12 | [El Parrandero](https://open.spotify.com/track/1OLk8kkjWQfaqQIxT5hq9d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:27 |
 | 13 | [La Mafafa](https://open.spotify.com/track/4hR7rAesIXv5yv1XJVkija) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa) | 2:31 |
 | 14 | [El Ultimo Trago](https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [El Caballo Blanco, Vol\. 4](https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3) | 2:18 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 31 | [Libro Abierto \- Con Mariachi](https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mis Primeras Canciones](https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs) | 2:01 |
 | 32 | [El Toro Zacatecano](https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:27 |
 | 33 | [El Cotorro Enamorado \- Tecno Banda](https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Ando Que Me Lleva "Recordando los Exitos," Vol\. 4](https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj) | 2:58 |
-| 34 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 |
-| 35 | [El Pajaro Chogui](https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:43 |
+| 34 | [El Pajaro Chogui](https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:43 |
+| 35 | [Vive](https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:51 |
 | 36 | [Ritmo Que Jala](https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:04 |
-| 37 | [Vive](https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:51 |
+| 37 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 |
 | 38 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 |
 | 39 | [Mi Destino Fue Quererte](https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 3:19 |
 | 40 | [Oh Que Gusto de Volverte a Ver](https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:29 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 44 | [Lamento de Amor](https://open.spotify.com/track/5ohsnDhQ6NmFmkcvv90Gdc) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 3:08 |
 | 45 | [Las Nieves de Enero](https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 2:48 |
 | 46 | [Vamos a la Playa](https://open.spotify.com/track/72oywVmmUrqh1uZeY032YA) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 3:57 |
-| 47 | [La Tiznada](https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 3:15 |
-| 48 | [A Mi Manera](https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 4:00 |
+| 47 | [A Mi Manera](https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 4:00 |
+| 48 | [La Tiznada](https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 3:15 |
 | 49 | [No Que No](https://open.spotify.com/track/0UEUwCarcQk88KX1zxrwx6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:35 |
 | 50 | [La Noche Que Chicago Se Murió](https://open.spotify.com/track/2EqtWXQ6kX9VsjB91Sf944) | [Los Estrafalarios](https://open.spotify.com/artist/59h5QRZ8x3gk5oF8dr2UJf), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Chicago Se Murió](https://open.spotify.com/album/01Mr1tBBemO3LOKu8BJOHK) | 2:42 |
 
-Snapshot ID: `ajseAAAAAADuZOcggXA7gmRCQmcaDUaM`
+Snapshot ID: `ajxvgAAAAABf++U3eHWuOhsicrDvaeBv`

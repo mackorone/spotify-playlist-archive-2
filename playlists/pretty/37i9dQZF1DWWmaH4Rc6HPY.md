@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! ANASOF en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,844 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,850 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 49 | [Rayo de Luz](https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Campeones del Mundo / Rayo de Luz](https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF) | 5:41 |
 | 50 | [Perfecto Final](https://open.spotify.com/track/7gX02EZpixtgIuiygeYGtj) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Perfecto Final](https://open.spotify.com/album/5u2Wo701mKXII7HGqiWhGx) | 3:26 |
 | 51 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
-| 52 | [Los mejores años de nuestra vida](https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Los mejores años de nuestra vida](https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo) | 4:17 |
-| 53 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
+| 52 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 |
+| 53 | [Los mejores años de nuestra vida](https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Los mejores años de nuestra vida](https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo) | 4:17 |
 | 54 | [Vidrio por Doquier](https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Vidrio por Doquier](https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV) | 3:36 |
 | 55 | [EN LO TOTAL](https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [EN LO TOTAL](https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix) | 3:55 |
 | 56 | [Todo está pasando ahora](https://open.spotify.com/track/4QrrOXttnTFPpLRf5PyZwb) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo está pasando ahora](https://open.spotify.com/album/2d3AHkakmD2pD6UTNe5Sj2) | 3:48 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 67 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 68 | [Vivos](https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Vivos](https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p) | 3:46 |
 | 69 | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx) | 4:27 |
-| 70 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
-| 71 | [El Méndigo Día Del Padre](https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Méndigo Día Del Padre](https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9) | 4:26 |
+| 70 | [El Méndigo Día Del Padre](https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Méndigo Día Del Padre](https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9) | 4:26 |
+| 71 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 72 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 | 73 | [Te Extrañaré](https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Te Extrañaré](https://open.spotify.com/album/1UT6WSgRQ09CY40pHslYEQ) | 3:16 |
 | 74 | [Quito](https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Quito](https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY) | 2:59 |

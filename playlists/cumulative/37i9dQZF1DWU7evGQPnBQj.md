@@ -4,7 +4,7 @@
 
 > Go back in time with these video throwbacks\. Music videos only available on Premium.
 
-20 songs - 1 hr 18 min
+22 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,12 @@
 | [Amor Prohibido](https://open.spotify.com/track/2E3nzvIOGboZn1x0yb6glz) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/1WuLxjNTpxHrgoYS609lDz) | 2:49 | 2025-12-09 |  |
 | [Azul](https://open.spotify.com/track/5v2J1rsYOdQp1MgOVVcoZD) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Azul](https://open.spotify.com/album/4rDldxr37LjWlD30i7oG9F) | 4:23 | 2025-12-09 |  |
 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 | 2025-12-09 |  |
+| [Con los Años Que Me Quedan](https://open.spotify.com/track/2lyRJpAxxL7ViWSc8KSiuP) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Con Los Anos Que Me Quedan](https://open.spotify.com/album/7lIkoVG5usLfSOfEUvwygG) | 4:35 | 2026-06-26 |  |
 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 | 2025-12-09 |  |
 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4cmcEv0JgFugg83rlkL7x2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/album/4l4PJEkHF3ch8E7zWBbmf2) | 3:17 | 2025-12-09 |  |
 | [Fotografía](https://open.spotify.com/track/5jBfkqdBerfIfbIJnsiJMA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Fotografia](https://open.spotify.com/album/6SmF6tVaxpzqifWkGJtBqF) | 4:09 | 2025-12-09 |  |
 | [Labios Compartidos](https://open.spotify.com/track/1TKg3TNK8AN6WSoETpnNnI) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 5:17 | 2025-12-09 |  |
+| [Me Hace Tanto Bien](https://open.spotify.com/track/4xS1LeP6dNOVd5h5QApUIy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Hace Tanto Bien](https://open.spotify.com/album/0LgR2DUfnnbfldZ14ZHsF7) | 3:15 | 2026-06-26 |  |
 | [Mi primer millon](https://open.spotify.com/track/3Rxt51gqi2jvZfetBHQu8g) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Mi Primer Millon](https://open.spotify.com/album/0Ut51mDEf3ISY1OU1qAKch) | 3:54 | 2025-12-09 |  |
 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 | 2025-12-09 |  |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2025-12-09 |  |

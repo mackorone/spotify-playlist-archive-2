@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Preto no Branco
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,348 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,468 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 29 | [Eu Navegarei](https://open.spotify.com/track/1Bop5nmEJu1JrfEGQRzLGQ) | [Luiza Possi](https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq) | [Quero Conhecer Jesus](https://open.spotify.com/album/4PYw0eCwj2hUnJs4fYg94l) | 4:35 |
 | 30 | [Quando Me Preocupo Eu Oro](https://open.spotify.com/track/1K8ytV24MV69DwZkNqqWEo) | [Gerson Borges](https://open.spotify.com/artist/5oVAfxApcM67olFFGpQGEe), [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV) | [Quando Me Preocupo Eu Oro](https://open.spotify.com/album/4Fu5NIfsIE5WLJCubKOlxG) | 5:22 |
 | 31 | [Luz](https://open.spotify.com/track/1z1qlolfJ2f8Og672PGt2I) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Luz](https://open.spotify.com/album/0dAswbz5tuuFKTt6Fa6QY8) | 2:44 |
-| 32 | [Track 9](https://open.spotify.com/track/3aPDCemiu98FNek0Kw9QbF) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Gba Stage, Vol\. 38](https://open.spotify.com/album/4k1JAMMXMoz4BlJGNCQjF6) | 0:00 |
+| 32 | [Como Tu Não Há](https://open.spotify.com/track/3aPDCemiu98FNek0Kw9QbF) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Gba Stage, Vol\. 38](https://open.spotify.com/album/4k1JAMMXMoz4BlJGNCQjF6) | 4:18 |
 | 33 | [Me Libertou](https://open.spotify.com/track/5hFsvHyh917s153UNzycx4) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Me Libertou](https://open.spotify.com/album/2tphlU5EWtZvMkYyHrzx6c) | 3:35 |
 | 34 | [Sempre Esteve Aqui \- Live Acoustic](https://open.spotify.com/track/1wSZ4JNbFr88PcbhwLOATH) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8), [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Sempre Esteve Aqui \(Live Acoustic\)](https://open.spotify.com/album/4chy1RisNKu4e3LBzy4ejX) | 3:10 |
 | 35 | [Mergulha \- Ao Vivo](https://open.spotify.com/track/7oY5Q1JZhvTd2YyUgnGBtx) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Mergulha \(Ao Vivo\)](https://open.spotify.com/album/4lmxH98NpV89ynVnT337M1) | 4:18 |

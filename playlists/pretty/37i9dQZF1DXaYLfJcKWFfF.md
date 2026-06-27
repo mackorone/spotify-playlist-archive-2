@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Dumama
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,320 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 22 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 23 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 24 | [This Side of Love](https://open.spotify.com/track/3qGDRNfWzv0znuGVnCr9cI) | [Celeste Ojatula](https://open.spotify.com/artist/1FNzBwz8L9wGtZU1GkIAT4), [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [This Side of Love](https://open.spotify.com/album/4Mj0BcwVlj9Ub9XqPhvTPO) | 2:18 |
-| 25 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
+| 25 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 26 | [Word Vomit](https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Word Vomit](https://open.spotify.com/album/4f675l51sEciftAWInTtKB) | 2:46 |
-| 27 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 27 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 28 | [Alleluya \(Another World\)](https://open.spotify.com/track/7M2ThqUVttzAEZxf9XFF5Y) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Alleluya \(Another World\)](https://open.spotify.com/album/4ZGcnoWB6M3CDYp3v1fNfV) | 3:30 |
 | 29 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
 | 30 | [Exit Signs](https://open.spotify.com/track/1AUn3FMh5YsMB9Kv37097W) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [Exit Signs](https://open.spotify.com/album/03u4t8s1QezNAXlVLQobii) | 4:46 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
 | 50 | [I’m On Fire \(feat\. The Cavemen.\)](https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:38 |
 | 51 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
-| 52 | [Zama](https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Zama](https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh) | 4:23 |
-| 53 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
-| 54 | [Echoes](https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Echoes](https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy) | 3:13 |
-| 55 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
+| 52 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
+| 53 | [Zama](https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Zama](https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh) | 4:23 |
+| 54 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
+| 55 | [Echoes](https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Echoes](https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy) | 3:13 |
 | 56 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 57 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |
 | 58 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 76 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 |
 | 77 | [A Different Corner](https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [A Different Corner](https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe) | 3:59 |
 | 78 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
-| 79 | [SORE LOSER](https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [SORE LOSER](https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d) | 2:06 |
-| 80 | [Glimmer](https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ) | [Jade Olivia](https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej) | [Glimmer](https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ) | 3:28 |
+| 79 | [Glimmer](https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ) | [Jade Olivia](https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej) | [Glimmer](https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ) | 3:28 |
+| 80 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
 
 Snapshot ID: `AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t`

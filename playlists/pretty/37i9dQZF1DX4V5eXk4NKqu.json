@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring rusowsky.",
-  "num_followers": 168217,
+  "num_followers": 168221,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
         "name": "Choque",
         "url": "https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+        "name": "ETHEREA",
+        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+      "duration_ms": 224416,
+      "name": "Encu\u00e9ntrame en Tokio",
+      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-04-03 04:02:10",
@@ -691,22 +707,6 @@
       "duration_ms": 232211,
       "name": "despu\u00e9s del PARi",
       "url": "https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
-        "name": "ETHEREA",
-        "url": "https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 224416,
-      "name": "Encu\u00e9ntrame en Tokio",
-      "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
     },
     {
       "added_at": "2026-04-03 04:02:10",

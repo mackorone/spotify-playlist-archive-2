@@ -835,6 +835,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "PENKILLER",
+        "url": "https://open.spotify.com/album/0OWt4MfX6LNXO7Z5ie5vRm"
+      },
+      "artists": [
+        {
+          "name": "Nerone",
+          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Beh ok (feat. Madman)",
+      "url": "https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "60Hz",
         "url": "https://open.spotify.com/album/3KQwNJg8LJTJ4ES4OmAblt"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 233786,
       "name": "Bolo By Night (feat. Royal Mehdi)",
       "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "PENKILLER",
-        "url": "https://open.spotify.com/album/0OWt4MfX6LNXO7Z5ie5vRm"
-      },
-      "artists": [
-        {
-          "name": "Nerone",
-          "url": "https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Beh ok (feat. Madman)",
-      "url": "https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Lo straniero",
+      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Sacrosanto",
         "url": "https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 167416,
       "name": "El Cl\u00e1sico",
       "url": "https://open.spotify.com/track/1o3zBspiPekHlbnewhq7Nf"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Lo straniero",
-      "url": "https://open.spotify.com/track/6ne3ofJbU2NZQCrzvZPaEh"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Adversus",
-        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
-      },
-      "artists": [
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        },
-        {
-          "name": "Kaos One",
-          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Miglia e promesse",
-      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Guerra fra poveri",
         "url": "https://open.spotify.com/album/4zOunfgjcbRsITq6aek64C"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Adversus",
+        "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
+      },
+      "artists": [
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        },
+        {
+          "name": "Kaos One",
+          "url": "https://open.spotify.com/artist/1RFdjZ9IJTz0g3QmbV3kUh"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Miglia e promesse",
+      "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1287,6 +1287,34 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Fritz",
+        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
+      },
+      "artists": [
+        {
+          "name": "Fritz Da Cat",
+          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 290128,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/3nIoWJulA29AQ7DtkUkNrF"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Dead poets",
         "url": "https://open.spotify.com/album/2u4ck3pMmH9uvBTk98e6XO"
       },
@@ -1319,30 +1347,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Fritz",
-        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
+        "name": "Io sono il viaggio",
+        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
       },
       "artists": [
         {
-          "name": "Fritz Da Cat",
-          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
         }
       ],
-      "duration_ms": 290128,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/3nIoWJulA29AQ7DtkUkNrF"
+      "duration_ms": 333296,
+      "name": "Io sono il viaggio",
+      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1359,22 +1375,6 @@
       "duration_ms": 253683,
       "name": "L'Anima Giusta",
       "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Io sono il viaggio",
-        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
-      },
-      "artists": [
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        }
-      ],
-      "duration_ms": 333296,
-      "name": "Io sono il viaggio",
-      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1403,30 +1403,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Dead Poets 3 - Maledetti",
-        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
-      },
-      "artists": [
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 172151,
-      "name": "Sindrome di Stendhal",
-      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/0SgiOs3fQQ3Rw6oj4nfeIF"
       },
@@ -1451,6 +1427,30 @@
       "duration_ms": 197290,
       "name": "Welcome To The Jungle (feat. Ernia, Joshua, Neffa)",
       "url": "https://open.spotify.com/track/7D5N7XBeGeAedTg7oL8xEl"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Dead Poets 3 - Maledetti",
+        "url": "https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 172151,
+      "name": "Sindrome di Stendhal",
+      "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Magic boulevard",
-        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
-      },
-      "artists": [
-        {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Fra le note",
-      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "ALHAMBRA",
         "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 137941,
       "name": "ALHAMBRA",
       "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Magic boulevard",
+        "url": "https://open.spotify.com/album/3x8eBEnzxafgEgDQLvhRRf"
+      },
+      "artists": [
+        {
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Fra le note",
+      "url": "https://open.spotify.com/track/7F2H0BrYM1VszjX54sSaHM"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
-      },
-      "artists": [
-        {
-          "name": "Mondo Marcio",
-          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 141090,
-      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Fritz",
         "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 204512,
       "name": "Schiaffetto Correttivo - P.te 2",
       "url": "https://open.spotify.com/track/2YaIP3cwj5xYzzt53qzrRh"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+        "url": "https://open.spotify.com/album/5o6USQtnT18kqF3eIEQ2VW"
+      },
+      "artists": [
+        {
+          "name": "Mondo Marcio",
+          "url": "https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 141090,
+      "name": "Citt\u00e0 del Fumo PT.2 (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/3hhrUjXOFIR4VqtZjj6dy0"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2087,18 +2087,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Il viaggio dell'anima",
-        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
       },
       "artists": [
         {
-          "name": "Jesto",
-          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+          "name": "DJ Fede",
+          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Il viaggio dell'anima",
-      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
+      "duration_ms": 186750,
+      "name": "Modus Operandi",
+      "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2127,22 +2131,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Modus Operandi",
-        "url": "https://open.spotify.com/album/2WTTRseuCoYyC0GaKgfnqN"
+        "name": "Il viaggio dell'anima",
+        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
       },
       "artists": [
         {
-          "name": "DJ Fede",
-          "url": "https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
         }
       ],
-      "duration_ms": 186750,
-      "name": "Modus Operandi",
-      "url": "https://open.spotify.com/track/7cDrxc8g7AnIhrwFhSiV1U"
+      "duration_ms": 212915,
+      "name": "Il viaggio dell'anima",
+      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2495,6 +2495,30 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "IncrEdible Freestyle, pt. IV",
+        "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
+      },
+      "artists": [
+        {
+          "name": "W.edy Wonders",
+          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Beba",
+          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "IncrEdible Freestyle, pt. IV",
+      "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "L'unica amica leale",
         "url": "https://open.spotify.com/album/6PPtwMJbPw606PzQnPhQU8"
       },
@@ -2523,30 +2547,6 @@
       "duration_ms": 207474,
       "name": "L'unica amica leale",
       "url": "https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "IncrEdible Freestyle, pt. IV",
-        "url": "https://open.spotify.com/album/4mGjbNDpPafcMP0ijaqFrD"
-      },
-      "artists": [
-        {
-          "name": "W.edy Wonders",
-          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Beba",
-          "url": "https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh"
-        }
-      ],
-      "duration_ms": 73846,
-      "name": "IncrEdible Freestyle, pt. IV",
-      "url": "https://open.spotify.com/track/6VrZppoTt3YJ847GZYg1Iv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2611,6 +2611,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
+      },
+      "artists": [
+        {
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
+        },
+        {
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
+        }
+      ],
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Poco dopo mezzanotte",
         "url": "https://open.spotify.com/album/1uopB5lFeCi2xsPukEnLPZ"
       },
@@ -2647,26 +2667,6 @@
       "duration_ms": 173960,
       "name": "Veleno 7",
       "url": "https://open.spotify.com/track/2jkIbZ43eH3rM1yro2Ojzh"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
-      },
-      "artists": [
-        {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
-        }
-      ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2879,26 +2879,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Mambo del Diablo",
-        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
-      },
-      "artists": [
-        {
-          "name": "Jangy Leeon",
-          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
-        },
-        {
-          "name": "Weirdo",
-          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "Mambo del Diablo",
-      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Blocchi Di Marmo",
         "url": "https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn"
       },
@@ -2927,22 +2907,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "BLOOD IN BLOOD OUT",
-        "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
+        "name": "Mambo del Diablo",
+        "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
       },
       "artists": [
         {
-          "name": "Sace",
-          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+          "name": "Jangy Leeon",
+          "url": "https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7"
         },
         {
-          "name": "Wiser Keegan",
-          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+          "name": "Weirdo",
+          "url": "https://open.spotify.com/artist/3P9LwUyXVBkyLlNKfbtYJ6"
         }
       ],
-      "duration_ms": 156090,
-      "name": "ONION",
-      "url": "https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3"
+      "duration_ms": 166530,
+      "name": "Mambo del Diablo",
+      "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2963,6 +2943,26 @@
       "duration_ms": 148334,
       "name": "WILD",
       "url": "https://open.spotify.com/track/47m0BEZRvD0fAPMqe87Nxa"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "BLOOD IN BLOOD OUT",
+        "url": "https://open.spotify.com/album/7rA3LmwcwvXjoCnxKDgXPI"
+      },
+      "artists": [
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+        },
+        {
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "ONION",
+      "url": "https://open.spotify.com/track/7Mfuyof4zXVZPTJHJxKhb3"
     },
     {
       "added_at": "2026-05-29 09:57:53",

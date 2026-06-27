@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8504,
+  "num_followers": 8509,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAA9d/FJ8m89Asd0xcKK7I7d",
+  "snapshot_id": "ajxvgAAAAABnRgR3cmbXluL6JZ3XoR8N",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/02f69ZvOxhR4Uo6xXsicfT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165991,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life {Freestyle}",
         "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
       },
@@ -635,6 +615,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeleton (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
+      },
+      "artists": [
+        {
+          "name": "FEMI VEGA",
+          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Skeleton (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeleton (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
-      },
-      "artists": [
-        {
-          "name": "FEMI VEGA",
-          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Skeleton (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
     },
     {
       "added_at": null,
@@ -891,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Ale Yi",
+      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killin Dem",
         "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
       },
@@ -907,22 +903,6 @@
       "duration_ms": 220884,
       "name": "Killin Dem",
       "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Ale Yi",
-      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
     },
     {
       "added_at": null,
@@ -1067,6 +1047,26 @@
       "duration_ms": 141025,
       "name": "TE WO II",
       "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agege",
+        "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Agege",
+      "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"
     }
   ],
   "unique_name": "This Is Zlatan",

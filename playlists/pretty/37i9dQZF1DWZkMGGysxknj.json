@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 821047,
+  "num_followers": 820961,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+        "name": "It Ain't Me Babe",
+        "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
       },
       "artists": [
         {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+          "name": "Lucas Francisco da Silva",
+          "url": "https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5"
+        },
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+      "duration_ms": 224160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -371,22 +375,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "It Ain't Me Babe",
-        "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
       "artists": [
         {
-          "name": "Lucas Francisco da Silva",
-          "url": "https://open.spotify.com/artist/0q5JowzvhV2iVatlPv1oL5"
-        },
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
         }
       ],
-      "duration_ms": 224160,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Still Haven't Found Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
-      },
-      "artists": [
-        {
-          "name": "Raye Mills",
-          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
-        }
-      ],
-      "duration_ms": 253686,
-      "name": "I Still Haven't Found Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "I Still Haven't Found Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
+      },
+      "artists": [
+        {
+          "name": "Raye Mills",
+          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
+        }
+      ],
+      "duration_ms": 253686,
+      "name": "I Still Haven't Found Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
-      },
-      "artists": [
-        {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+      },
+      "artists": [
+        {
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I'm a Mess (Acoustic)",
-        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 153094,
-      "name": "I'm a Mess - Acoustic",
-      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 214143,
       "name": "Feels - Acoustic",
       "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "I'm a Mess (Acoustic)",
+        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 153094,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
+      },
+      "artists": [
+        {
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/3Zm85V97fhnqWGUNxblt5E"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 225674,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/6erAapz0pGmUY5koXSnhqT"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Where Our Hearts Will Go (To Providence)",
-        "url": "https://open.spotify.com/album/4pou3y0tzhknpZFcY7yYQE"
-      },
-      "artists": [
-        {
-          "name": "Nat\u00e1le",
-          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Where Our Hearts Will Go (To Providence)",
-      "url": "https://open.spotify.com/track/0CRIiLoZLK9WLCziBamUvH"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 195655,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Where Our Hearts Will Go (To Providence)",
+        "url": "https://open.spotify.com/album/4pou3y0tzhknpZFcY7yYQE"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1le",
+          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Where Our Hearts Will Go (To Providence)",
+      "url": "https://open.spotify.com/track/0CRIiLoZLK9WLCziBamUvH"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Nothing Breaks Like a Heart",
-        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Nothing Breaks Like a Heart",
-      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Nothing Breaks Like a Heart",
+        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 203261,
+      "name": "Nothing Breaks Like a Heart",
+      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Saturday Nights",
         "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
       },
@@ -1947,6 +1931,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
       },
@@ -1959,6 +1959,22 @@
       "duration_ms": 214500,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "The Day I Left Hanoi",
+        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
+      },
+      "artists": [
+        {
+          "name": "Jokai",
+          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Day I Left Hanoi",
+      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1979,22 +1995,6 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "The Day I Left Hanoi",
-        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
-      },
-      "artists": [
-        {
-          "name": "Jokai",
-          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Day I Left Hanoi",
-      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 125895,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Todo Tiene Su Fin",
-        "url": "https://open.spotify.com/album/3Yw8r4DH4NNdggO1AyZPBa"
-      },
-      "artists": [
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        }
-      ],
-      "duration_ms": 151253,
-      "name": "Todo Tiene Su Fin",
-      "url": "https://open.spotify.com/track/0DnXuxd7owdJPojjO1Gfwz"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
@@ -2179,18 +2163,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+        "name": "Todo Tiene Su Fin",
+        "url": "https://open.spotify.com/album/3Yw8r4DH4NNdggO1AyZPBa"
       },
       "artists": [
         {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
         }
       ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+      "duration_ms": 151253,
+      "name": "Todo Tiene Su Fin",
+      "url": "https://open.spotify.com/track/0DnXuxd7owdJPojjO1Gfwz"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2211,6 +2195,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -2223,22 +2223,6 @@
       "duration_ms": 216746,
       "name": "Fin",
       "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Baby Teeth",
-        "url": "https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
-        }
-      ],
-      "duration_ms": 262760,
-      "name": "Bleachers",
-      "url": "https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2259,18 +2243,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
+        "name": "Baby Teeth",
+        "url": "https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF"
       },
       "artists": [
         {
-          "name": "Jameson David",
-          "url": "https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
         }
       ],
-      "duration_ms": 178143,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
+      "duration_ms": 262760,
+      "name": "Bleachers",
+      "url": "https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2287,6 +2271,22 @@
       "duration_ms": 230253,
       "name": "Arueira Mata",
       "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
+      },
+      "artists": [
+        {
+          "name": "Jameson David",
+          "url": "https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq"
+        }
+      ],
+      "duration_ms": 178143,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
     },
     {
       "added_at": "2025-06-20 16:07:31",

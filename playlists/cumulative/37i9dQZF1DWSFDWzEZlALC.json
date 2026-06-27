@@ -6447,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "der beste sommer meines lebens",
+        "url": "https://open.spotify.com/album/0k5PqjWO0skt1qcxWuQfHk"
+      },
+      "artists": [
+        {
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176109,
+      "name": "der beste sommer meines lebens",
+      "url": "https://open.spotify.com/track/6HXx5dApSjHU2Y0clXM8eQ"
+    },
+    {
+      "album": {
         "name": "der Himmel brennt in Europa",
         "url": "https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X"
       },

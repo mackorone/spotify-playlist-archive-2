@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134243,
+  "num_followers": 134244,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABSV8CGu+XLThG1L90N/tmo",
+  "snapshot_id": "ajxvgAAAAADeNnq9261WuayKneL3Sgh9",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh Berry's",
-        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Ain't That Just Like A Woman",
-      "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
         "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 223573,
       "name": "My Ding-A-Ling",
       "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Ain't That Just Like A Woman",
+      "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 129840,
-      "name": "You Two",
-      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 146760,
       "name": "House Of Blue Lights",
       "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 129840,
+      "name": "You Two",
+      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
     },
     {
       "added_at": null,

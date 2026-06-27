@@ -85,6 +85,46 @@
     },
     {
       "album": {
+        "name": "90th Minute",
+        "url": "https://open.spotify.com/album/6lm5ts4QB0uavfNz0UXiA6"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "90th Minute",
+      "url": "https://open.spotify.com/track/1rm0UlEuApyZsytAfT2zR7"
+    },
+    {
+      "album": {
+        "name": "9:17 In North",
+        "url": "https://open.spotify.com/album/3uOFXU7xP0Wl7kwFoRJDUx"
+      },
+      "artists": [
+        {
+          "name": "Eloquin",
+          "url": "https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181711,
+      "name": "9:17 In North",
+      "url": "https://open.spotify.com/track/6Q8CSm9fvNLkCQAx2GY3eN"
+    },
+    {
+      "album": {
         "name": "A Bit More",
         "url": "https://open.spotify.com/album/6JcJBdytrbOCeTGzievyov"
       },
@@ -266,7 +306,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 118356,
       "name": "AP Freestyle",
       "url": "https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s"
@@ -595,6 +635,24 @@
     },
     {
       "album": {
+        "name": "broken vase",
+        "url": "https://open.spotify.com/album/01IAsnb1GLx8tHiNv8MZvV"
+      },
+      "artists": [
+        {
+          "name": "SINN6R",
+          "url": "https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125294,
+      "name": "broken vase",
+      "url": "https://open.spotify.com/track/4bDetS185jvSXnqSDo4IhC"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/6wsIo3vFHDlJx3yvUIUOSj"
       },
@@ -708,7 +766,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 179131,
       "name": "Can\u2019t Stop Won\u2019t Stop II",
       "url": "https://open.spotify.com/track/0szsHSNuPGSAawH9kipma3"
@@ -970,7 +1028,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 130156,
       "name": "cujo",
       "url": "https://open.spotify.com/track/0XbtRAtWnoMMhY1gxXApDp"
@@ -1830,7 +1888,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186000,
       "name": "ICEMAN FREESTYLE",
       "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
@@ -1914,6 +1972,24 @@
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
+    },
+    {
+      "album": {
+        "name": "KILLIN EM",
+        "url": "https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113437,
+      "name": "KILLIN EM",
+      "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
     },
     {
       "album": {
@@ -2030,7 +2106,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 100392,
       "name": "LOCKED IN FREESTYLE",
       "url": "https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk"
@@ -2540,7 +2616,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 102400,
       "name": "ONE HIT WONDER",
       "url": "https://open.spotify.com/track/1kAfNwXFY6GvuvNAm1HA6U"
@@ -2632,7 +2708,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 120827,
       "name": "Pac-Man",
       "url": "https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr"
@@ -2869,6 +2945,28 @@
     },
     {
       "album": {
+        "name": "Roads (Remix)",
+        "url": "https://open.spotify.com/album/2muXYLqRjUsFuuS3o95vrN"
+      },
+      "artists": [
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142312,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/1sV7f1wmZuA1IleDu8ZqIe"
+    },
+    {
+      "album": {
         "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN"
       },
@@ -2884,6 +2982,24 @@
       "duration_ms": 100273,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7"
+    },
+    {
+      "album": {
+        "name": "RockWave",
+        "url": "https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "RockWave",
+      "url": "https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg"
     },
     {
       "album": {
@@ -3072,7 +3188,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 109714,
       "name": "Tartan",
       "url": "https://open.spotify.com/track/4DqqqrFeVbMvhE54x7a3fh"

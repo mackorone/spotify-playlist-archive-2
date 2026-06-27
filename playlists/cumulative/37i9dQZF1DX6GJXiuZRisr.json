@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 217213,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
@@ -7761,6 +7761,24 @@
     },
     {
       "album": {
+        "name": "Major Drop",
+        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190154,
+      "name": "Major Drop",
+      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
+    },
+    {
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
       },
@@ -7794,7 +7812,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195000,
       "name": "Make Me Forget",
       "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
@@ -12532,6 +12550,28 @@
       "duration_ms": 187111,
       "name": "The Horizon (With You)",
       "url": "https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF"
+    },
+    {
+      "album": {
+        "name": "The Last Time",
+        "url": "https://open.spotify.com/album/64hTWY5vA3Z79w0EuDSBIQ"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211115,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/0zfYsG5xe0dMyQWrV68giY"
     },
     {
       "album": {

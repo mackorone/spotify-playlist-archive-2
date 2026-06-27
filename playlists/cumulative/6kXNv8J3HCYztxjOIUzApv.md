@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-326 songs - 20 hr 16 min
+327 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Darkness Settles In](https://open.spotify.com/track/4tDY71ImWHA27HlmBJwjN4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:41 | 2022-09-21 | 2023-01-04 |
 | [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 | 2021-08-20 |  |
 | [Darkness Within](https://open.spotify.com/track/5yDXKaZPyj8ojRJ2nacbLX) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 6:27 | 2022-03-08 | 2024-04-10 |
+| [De Oppresso Liber](https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [De Oppresso Liber](https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ) | 4:00 | 2026-06-26 |  |
 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 | 2022-01-24 |  |
 | [Dead\_Alive](https://open.spotify.com/track/4WOCfO9F6eVwE5KGDt7T1Y) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Wish You The Worst](https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9) | 3:10 | 2025-08-15 |  |
 | [Dead\_Alive](https://open.spotify.com/track/4pZJXU5qsZfWj5Gnp5UgSR) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Dead\_Alive](https://open.spotify.com/album/5jPF4nRhSoj1vsl1GX81qc) | 3:10 | 2025-06-27 |  |

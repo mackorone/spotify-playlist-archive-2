@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 566977,
+  "num_followers": 567209,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280586,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280586,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "Heartbeat City (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234332,
-      "name": "Drive - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 201293,
       "name": "Who Can It Be Now?",
       "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "Heartbeat City (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234332,
+      "name": "Drive - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 223176,
-      "name": "The Longest Time",
-      "url": "https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 217693,
       "name": "A View to a Kill",
       "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 223176,
+      "name": "The Longest Time",
+      "url": "https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "So (2012 Remastered)",
-        "url": "https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx"
+        "name": "So (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 330373,
-      "name": "In Your Eyes - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM"
+      "duration_ms": 311986,
+      "name": "Sledgehammer - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0"
     },
     {
       "added_at": "2024-06-26 01:58:02",
@@ -1375,8 +1375,8 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
-        "name": "So (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3"
+        "name": "So (2012 Remastered)",
+        "url": "https://open.spotify.com/album/2ikq6LspaBbUG2qyiV5qdx"
       },
       "artists": [
         {
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
         }
       ],
-      "duration_ms": 311986,
-      "name": "Sledgehammer - 2012 Remaster",
-      "url": "https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0"
+      "duration_ms": 330373,
+      "name": "In Your Eyes - 2012 Remaster",
+      "url": "https://open.spotify.com/track/4qN7nSAVTjPfOOz0wkRQpM"
     },
     {
       "added_at": "2024-06-26 01:58:02",

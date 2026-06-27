@@ -1,12 +1,12 @@
 {
   "description": "Your shortcut to the best new Hip Hop. Cover: Hooligan Hefs",
-  "num_followers": 502632,
+  "num_followers": 502628,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGTKYE8BC0ef9Bix4HCleKvvm8mb",
+  "snapshot_id": "AAAAAFDFZ9RcgL5yuitvwyPAPCPk0I4A",
   "tracks": [
     {
       "added_at": "2026-06-25 20:00:22",
@@ -75,6 +75,38 @@
       "duration_ms": 74500,
       "name": "Quaresma",
       "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
+    },
+    {
+      "added_at": "2026-06-26 04:02:03",
+      "album": {
+        "name": "HAAVIN",
+        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "HAAVIN",
+      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
+    },
+    {
+      "added_at": "2026-06-26 04:02:03",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj"
     },
     {
       "added_at": "2026-05-15 04:45:08",

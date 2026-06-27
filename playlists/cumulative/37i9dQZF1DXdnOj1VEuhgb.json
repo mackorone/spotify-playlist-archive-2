@@ -10609,6 +10609,24 @@
     },
     {
       "album": {
+        "name": "Karizma",
+        "url": "https://open.spotify.com/album/0nK4TdgxlGcETjDUyXePuE"
+      },
+      "artists": [
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164470,
+      "name": "Karizma",
+      "url": "https://open.spotify.com/track/4VChhXnTFtnmrqtTdszwKa"
+    },
+    {
+      "album": {
         "name": "KASA ORIJINAL",
         "url": "https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT"
       },
@@ -13434,7 +13452,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 188481,
       "name": "muamma - ulubatl\u0131",
       "url": "https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ"

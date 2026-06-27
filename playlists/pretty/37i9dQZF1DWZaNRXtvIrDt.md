@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,531 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,518 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 15 | [SPRINTER](https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha) | [KARMA](https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9) | [SPRINTER](https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj) | 3:07 |
 | 16 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
 | 17 | [RALLY FUNK](https://open.spotify.com/track/4NX1TmWyGuTCTPguqd4KAK) | [prod\. DTM](https://open.spotify.com/artist/661DKnfZy9RMb8FcbUZboE) | [RALLY FUNK](https://open.spotify.com/album/46zifhmnByKMPQaZSjw9oh) | 1:34 |
-| 18 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
-| 19 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
-| 20 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 18 | [Old' On](https://open.spotify.com/track/38zrbBzmIUC4OPL2NUBx4n) | [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Tastes Like The 90s](https://open.spotify.com/album/0IZhc4XwdP5S3HADTrddV1) | 3:21 |
+| 19 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 |
+| 20 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 21 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 22 | [78 To Stanley Bay](https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [816 To Nunhead](https://open.spotify.com/album/1OKJNHif5s5NzcScX4ac44) | 5:07 |
 | 23 | [Two Months Off](https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Hundred Days Off](https://open.spotify.com/album/5n192ghquuwEFORZEtNyLg) | 9:08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. LENCHO portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Los Hnos Rodriguez portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 220874,
       "name": "Chambeandole Macizo",
       "url": "https://open.spotify.com/track/6rF3EcMniPSGzOn5CFVMvJ"
@@ -4896,7 +4896,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 121360,
       "name": "CHEVROLET 90",
       "url": "https://open.spotify.com/track/6XnQxJ4Xc9gAB6QhF44LVY"
@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 197051,
       "name": "Cuando Empec\u00e9",
       "url": "https://open.spotify.com/track/5rRnLEb5pOU0i2I9ZDfojI"
@@ -7834,7 +7834,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187358,
       "name": "Don Roque",
       "url": "https://open.spotify.com/track/5S1KatP6OI1kldBcCo2Jtz"
@@ -9864,6 +9864,24 @@
       "duration_ms": 159421,
       "name": "El Cocol",
       "url": "https://open.spotify.com/track/31nHf4cSrx2QWIE0f5wGan"
+    },
+    {
+      "album": {
+        "name": "Jalate Viejito (Vol.1) [En Vivo]",
+        "url": "https://open.spotify.com/album/5uQLcSbIQogo2WZdukJAEb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Enfocado",
+          "url": "https://open.spotify.com/artist/4ioHvt1Kt1jHb6G7Gebwl9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "El Comandante - En Vivo",
+      "url": "https://open.spotify.com/track/7ElGJsEI9jwuO1uDBANBXe"
     },
     {
       "album": {
@@ -16502,7 +16520,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 225512,
       "name": "En Pl\u00e1ticas (Los Hermanos) (En Vivo)",
       "url": "https://open.spotify.com/track/5vuj9ly8WNoLvrCaMKdC37"
@@ -21398,7 +21416,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 202348,
       "name": "La casa invita",
       "url": "https://open.spotify.com/track/5Ouos7p0h5cznctDj4Zqes"
@@ -23987,6 +24005,24 @@
     },
     {
       "album": {
+        "name": "Le Quitaron la Vida a mi Padre",
+        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162661,
+      "name": "Le Quitaron la Vida a mi Padre",
+      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
+    },
+    {
+      "album": {
         "name": "Le Tir\u00e9 Putazos (En Vivo)",
         "url": "https://open.spotify.com/album/7Mcf9E5BhdKOGR8VmkcLj1"
       },
@@ -25928,7 +25964,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 154100,
       "name": "MAM\u00c1",
       "url": "https://open.spotify.com/track/6iCDYz5bAAugTv8KiIrDsr"
@@ -27842,7 +27878,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 164436,
       "name": "Monta\u00f1as y Cerros",
       "url": "https://open.spotify.com/track/6p2CkKPGBbYxpIJtywqvC0"
@@ -29714,6 +29750,24 @@
       "duration_ms": 200357,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
+    },
+    {
+      "album": {
+        "name": "PADRINO",
+        "url": "https://open.spotify.com/album/27UfbkLNTH9xHyDSqjpH6M"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189590,
+      "name": "PADRINO",
+      "url": "https://open.spotify.com/track/2YiM7SaUhBnZ5rJZSULUKs"
     },
     {
       "album": {
@@ -35636,7 +35690,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 170880,
       "name": "Tolerancia Zero (Banda)",
       "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
@@ -36666,6 +36720,24 @@
       "duration_ms": 171041,
       "name": "V.V.2",
       "url": "https://open.spotify.com/track/1ULKN2VbMYZzBkKKXYIyv7"
+    },
+    {
+      "album": {
+        "name": "VACAS FLACAS",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216288,
+      "name": "VACAS FLACAS",
+      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
     },
     {
       "album": {

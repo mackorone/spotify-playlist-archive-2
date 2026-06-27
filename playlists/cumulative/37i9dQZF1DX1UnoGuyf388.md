@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Jae Stephens
 
-666 songs - 1 day 9 hr 38 min
+667 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Body](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Energy](https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS) | 2:55 | 2026-01-23 | 2026-02-11 |
 | [Body Favors](https://open.spotify.com/track/51QUz7oGI38mc5uAy85OqW) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT](https://open.spotify.com/album/2vIxH1jwz9e2JB6aDlxRSS) | 2:56 | 2025-01-09 | 2025-04-19 |
 | [BODYGUARD](https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:00 | 2024-05-31 | 2024-08-10 |
-| [Bop It](https://open.spotify.com/track/3OQnNdlAiQeJsH8csOvnJA) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [KUNTOLOGY 101](https://open.spotify.com/album/7FtPWcRQufrdzoxr1TC5Fe) | 2:50 | 2026-01-16 |  |
+| [Bop It](https://open.spotify.com/track/3OQnNdlAiQeJsH8csOvnJA) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [KUNTOLOGY 101](https://open.spotify.com/album/7FtPWcRQufrdzoxr1TC5Fe) | 2:50 | 2026-01-16 | 2026-06-27 |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2025-10-24 |  |
 | [Boy Bye](https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Boy Bye](https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG) | 3:25 | 2024-04-12 | 2024-08-10 |
 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2023-01-27 | 2023-02-18 |
@@ -509,6 +509,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-02-04 | 2023-01-28 |
 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 | 2023-06-23 | 2024-06-01 |
 | [Satellite](https://open.spotify.com/track/24ouK1I3KXVItXRWIu2G9W) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [WARM](https://open.spotify.com/album/4IJVAYnl2ZtSBeyNGY1j8A) | 3:19 | 2025-05-27 | 2025-07-19 |
+| [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 | 2026-06-26 |  |
 | [Save The Day \- From "Hoppers"](https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Save The Day \(From "Hoppers"\)](https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL) | 2:52 | 2026-02-20 |  |
 | [Say Cheese](https://open.spotify.com/track/7uJkYfpWvJiiBGsChnk56I) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Say Cheese](https://open.spotify.com/album/1UGN9fmJaWKfTuwmmyaQ3N) | 2:33 | 2024-01-26 | 2024-06-15 |
 | [Secrets](https://open.spotify.com/track/7oXZwT5JkVHvvvPGcMs2tK) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Secrets](https://open.spotify.com/album/4J2sT32zrSyCgAyjYci0r1) | 2:31 | 2024-12-06 | 2025-04-12 |

@@ -1,13 +1,29 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38734,
+  "num_followers": 38736,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAC7hRqtNu8XGR8OR9N3kCti",
+  "snapshot_id": "ajxvgAAAAADatxzGReW3ILglvxigo0Eb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 256379,
+      "name": "As the Deer",
+      "url": "https://open.spotify.com/track/2G83Bi2pnml8ZEskoheM0Y"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 290682,
       "name": "How He Loves Us",
       "url": "https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 256379,
-      "name": "As the Deer",
-      "url": "https://open.spotify.com/track/2G83Bi2pnml8ZEskoheM0Y"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vintage",
-        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Draw Me Close",
-      "url": "https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 5",
         "url": "https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 228330,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Draw Me Close",
+      "url": "https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
       "duration_ms": 371621,
       "name": "The Lord Is My Salvation",
       "url": "https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 322753,
+      "name": "Psalm 8 (How Majestic Is Your Name)",
+      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
-        "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 322753,
-      "name": "Psalm 8 (How Majestic Is Your Name)",
-      "url": "https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 7",
         "url": "https://open.spotify.com/album/3G89R4Q9ml11o8G646UeMv"
       },
@@ -539,6 +539,26 @@
       "duration_ms": 337954,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6PExqNUN5D4nqBTamndm6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship Initiative, Vol. 6",
+        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 271766,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
     },
     {
       "added_at": null,
@@ -587,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 6",
-        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 271766,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psalms, Hymns, and Spiritual Songs, Vol. 1",
         "url": "https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 325849,
-      "name": "Psalm 45 (Fairest of All)",
-      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 1",
         "url": "https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 279973,
       "name": "Lord, I Need You",
       "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 325849,
+      "name": "Psalm 45 (Fairest of All)",
+      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psalms Live",
+        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 292379,
+      "name": "O Praise the Name (Live)",
+      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worship Initiative, Vol. 11",
         "url": "https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 340129,
       "name": "O Come to the Altar",
       "url": "https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psalms Live",
-        "url": "https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 292379,
-      "name": "O Praise the Name (Live)",
-      "url": "https://open.spotify.com/track/06JooBbucchucT6w3HaMlR"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Worship Initiative, Vol. 12",
+        "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 261182,
+      "name": "Great I Am",
+      "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunday Setlist #1",
         "url": "https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 259013,
       "name": "Praise to the Lord (Joyful, Joyful)",
       "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Worship Initiative, Vol. 12",
-        "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 261182,
-      "name": "Great I Am",
-      "url": "https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv"
     }
   ],
   "unique_name": "This Is Shane & Shane",

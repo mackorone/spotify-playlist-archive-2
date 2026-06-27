@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Phoebe Bridgers
 
-2,721 songs - 6 day 19 hr 41 min
+2,722 songs - 6 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1215,6 +1215,7 @@
 | [Intruder](https://open.spotify.com/track/2D20Br4n9YAucPqOZp027g) | [Mafia Pemantik Qolbu](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom) | [Intruder](https://open.spotify.com/album/64xMc7I5npMmd6fPzxIcfs) | 3:11 | 2023-12-17 | 2024-02-16 |
 | [Invisible Woman](https://open.spotify.com/track/2mtsPeNxe9SnEX0Owizdnq) | [The Baby Seals](https://open.spotify.com/artist/6dPxlBjTjehWM4VRwl2bmw) | [Invisible Woman](https://open.spotify.com/album/4TOk292nzkehNxUkx3isMS) | 2:59 | 2024-04-12 | 2024-05-18 |
 | [INVITATION \- Spotify Singles](https://open.spotify.com/track/3SgCMp45HYch7DI0BgCGHy) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:28 | 2024-09-02 | 2024-10-05 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-26 |  |
 | [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-17 | 2024-07-05 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-08-15 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8) | 2:45 | 2022-09-30 | 2022-10-29 |

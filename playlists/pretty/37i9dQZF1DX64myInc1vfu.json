@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 105377,
+  "num_followers": 105379,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
+        "name": "Del Cielo Te Cuido",
+        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Del Cielo Te Cuido",
+      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
-        "name": "Del Cielo Te Cuido",
-        "url": "https://open.spotify.com/album/0DLaniVrUGNKtJxYoREfjb"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Del Cielo Te Cuido",
-      "url": "https://open.spotify.com/track/2ViPveuFTv06DjhGRDYFjo"
     },
     {
       "added_at": "2025-10-24 04:00:22",

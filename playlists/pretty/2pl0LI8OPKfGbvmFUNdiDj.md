@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 945 likes - 65 songs - 3 hr 47 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 954 likes - 68 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 63 | [The Show Must Go On](https://open.spotify.com/track/5vz5HR8tJJwTMobjNIrM6w) | [Madam Radar](https://open.spotify.com/artist/6ujUWoIlmlQWODAb46LmE8) | [The Show Must Go On](https://open.spotify.com/album/64oFLRTDDU3PiNPsv1Pidj) | 3:38 |
 | 64 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 |
 | 65 | [IMAGINE](https://open.spotify.com/track/6aFfR4H9MMPSynCwltX6NS) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [IMAGINE](https://open.spotify.com/album/5BaVRC29U3cDAaz7pbBlAk) | 3:13 |
+| 66 | [Didsbury Dozen](https://open.spotify.com/track/5ze0tk0ZLfW2vBAuabcNsV) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Didsbury Dozen](https://open.spotify.com/album/6b1TM8wYvhk08kXdn2JZ9e) | 3:59 |
+| 67 | [Dancing on Fire](https://open.spotify.com/track/0UYnt2WsBrFRRoYSIBVtoN) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:55 |
+| 68 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
 
-Snapshot ID: `AAAD+1jDg1k9gQIU8hRd7C2ogxXW4cu5`
+Snapshot ID: `AAAD/lMYvuA4Wr7kXRb/14buLGIXf1Hw`

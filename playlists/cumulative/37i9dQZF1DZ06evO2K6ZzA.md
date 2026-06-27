@@ -4,7 +4,7 @@
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-34 songs - 2 hr 1 min
+35 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 | 2025-12-30 |  |
 | [ivy](https://open.spotify.com/track/4FViqA2oyyONDAvTs16Lvd) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 4:07 | 2025-12-30 |  |
 | [makes me want you](https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [makes me want you](https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx) | 2:40 | 2025-12-30 |  |
+| [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 | 2026-06-27 |  |
 | [my house is warm](https://open.spotify.com/track/5szktaZo20RhrFUfRp4Res) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [my house is warm](https://open.spotify.com/album/75EFextiYNP5Xd1AE1aMHp) | 3:35 | 2025-12-30 |  |
 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2025-12-30 |  |
 | [nothing left to say](https://open.spotify.com/track/5wHxolLhv57y3eGKtndvwE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [nothing left to say](https://open.spotify.com/album/5Tm8qe8ULxBORiRswEbuNU) | 3:40 | 2025-12-30 |  |

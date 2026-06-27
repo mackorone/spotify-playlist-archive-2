@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Dimenticare",
+        "url": "https://open.spotify.com/album/23nIqYsVN6ig5SBkGRS0lD"
+      },
+      "artists": [
+        {
+          "name": "Gin Ozz",
+          "url": "https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253721,
+      "name": "Dimenticare",
+      "url": "https://open.spotify.com/track/6DAgcHrCpVAvWEpscvHVR7"
+    },
+    {
+      "album": {
         "name": "Do you tell",
         "url": "https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj"
       },

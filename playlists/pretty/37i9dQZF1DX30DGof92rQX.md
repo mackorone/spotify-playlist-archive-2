@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,505 likes - 86 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,543 likes - 86 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 85 | [Main Wo Nahi](https://open.spotify.com/track/0jg78sSq67ZNtK3bn2mKBN) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Main Wo Nahi](https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ) | 3:51 |
 | 86 | [Lovestruck](https://open.spotify.com/track/3j34rJMliX9YYZlFYWX1rd) | [Mudabbir Azeez Jamall](https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l), [The Hashtags](https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV) | [The Unsent Messages](https://open.spotify.com/album/3klHtYs0xMUwU8uC19AUxt) | 3:11 |
 
-Snapshot ID: `AAAAAEbc72MDsFF9ve3jrLj72JKwo6uL`
+Snapshot ID: `AAAAADAQ6oGqH5a65d6iTIi7yc46MY9a`

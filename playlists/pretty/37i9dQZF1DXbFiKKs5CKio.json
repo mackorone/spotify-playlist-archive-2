@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 72872,
+  "num_followers": 72873,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
-      },
-      "artists": [
-        {
-          "name": "Thiago Jamel\u00e3o",
-          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
-        }
-      ],
-      "duration_ms": 279412,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
         "name": "Fiquei assim",
         "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 218662,
       "name": "Fiquei assim",
       "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1e1ElMB1qLhDlKQTcjYCsq"
+      },
+      "artists": [
+        {
+          "name": "Thiago Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj"
+        }
+      ],
+      "duration_ms": 279412,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/7d6fo0hoWXzL1rcQ8jl2ZR"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
         "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 206000,
       "name": "Vai dar Bom (Ao Vivo)",
       "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -647,38 +647,6 @@
     {
       "added_at": "2026-06-12 03:01:44",
       "album": {
-        "name": "Mais Prazer",
-        "url": "https://open.spotify.com/album/7s7ygL3e8FaDH7A1z4vB90"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 159687,
-      "name": "Mais Prazer",
-      "url": "https://open.spotify.com/track/35Lw74EetsAZzUFpi9Wa3P"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:44",
-      "album": {
         "name": "Como \u00e9 bom poder dizer eu te amo",
         "url": "https://open.spotify.com/album/21295uHlotpc6pU7N7dso1"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 143305,
       "name": "Me Amas",
       "url": "https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
+        "name": "Mais Prazer",
+        "url": "https://open.spotify.com/album/7s7ygL3e8FaDH7A1z4vB90"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 159687,
+      "name": "Mais Prazer",
+      "url": "https://open.spotify.com/track/35Lw74EetsAZzUFpi9Wa3P"
     },
     {
       "added_at": "2026-06-12 03:01:44",
@@ -711,6 +695,22 @@
       "duration_ms": 152571,
       "name": "V\u00edcios q eu gosto",
       "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
+    },
+    {
+      "added_at": "2026-06-12 03:01:44",
+      "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2026-06-12 03:01:44",

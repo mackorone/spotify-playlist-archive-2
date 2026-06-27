@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 14563,
+  "num_followers": 14582,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABu8YSZTTH3H0T5DWwdyc2f",
+  "snapshot_id": "ajxvgAAAAABwaYns+9GHJGJnmROmUzgb",
   "tracks": [
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Thing",
+        "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 162230,
+      "name": "Last Thing",
+      "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Life (Deluxe)",
         "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 225760,
       "name": "Nothing On You",
       "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Thing",
-        "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 162230,
-      "name": "Last Thing",
-      "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
     }
   ],
   "unique_name": "This Is Odeal",

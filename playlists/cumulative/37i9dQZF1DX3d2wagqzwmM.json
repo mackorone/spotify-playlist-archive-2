@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 296571,
       "name": "Africa - Afro Acid Mix",
       "url": "https://open.spotify.com/track/02wkiILoKo2xWZ63LbgYT0"
@@ -4122,7 +4122,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195750,
       "name": "Favela",
       "url": "https://open.spotify.com/track/15il8Mg8sAiy7eqISGoJK6"
@@ -6150,7 +6150,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 173419,
       "name": "Hypnotise",
       "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
@@ -6840,6 +6840,50 @@
       "duration_ms": 138214,
       "name": "JUMP AND RAVE",
       "url": "https://open.spotify.com/track/5ccpdTCx1ZxIg4oDaB3aMf"
+    },
+    {
+      "album": {
+        "name": "Jump Around",
+        "url": "https://open.spotify.com/album/5aiwfgZqjmU8SqC0Y8cOth"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Charlie Sparks (UK)",
+          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163166,
+      "name": "Jump Around",
+      "url": "https://open.spotify.com/track/2To0cWOoMe86SXYStBI5Pk"
+    },
+    {
+      "album": {
+        "name": "Jump To The Pump",
+        "url": "https://open.spotify.com/album/6QpNWeO8xdJrQJiWONWxx4"
+      },
+      "artists": [
+        {
+          "name": "Wiwek",
+          "url": "https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT"
+        },
+        {
+          "name": "Tsepo",
+          "url": "https://open.spotify.com/artist/2gH0kSs7X35Iigni2wpxeB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200113,
+      "name": "Jump To The Pump",
+      "url": "https://open.spotify.com/track/146f4yEqzZGS0DtxCAU6r1"
     },
     {
       "album": {
@@ -7634,6 +7678,32 @@
       "duration_ms": 178124,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq"
+    },
+    {
+      "album": {
+        "name": "Lost In The Crowd",
+        "url": "https://open.spotify.com/album/6Xv6Rr5LkEMFVc6SEqzaou"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153984,
+      "name": "Lost In The Crowd",
+      "url": "https://open.spotify.com/track/1lAtNae7Qg91eS3dsFE9Uz"
     },
     {
       "album": {
@@ -8721,6 +8791,28 @@
     },
     {
       "album": {
+        "name": "MOVEMENT:X EP",
+        "url": "https://open.spotify.com/album/77AA7tGtxYu52V0IZXqNdE"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "My Favourite Regrets",
+      "url": "https://open.spotify.com/track/2o77A89Br1dHoz6O2bCvL4"
+    },
+    {
+      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -9100,6 +9192,28 @@
       "duration_ms": 179980,
       "name": "No Illusions",
       "url": "https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
       "album": {
@@ -10036,7 +10150,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 183673,
       "name": "Party People",
       "url": "https://open.spotify.com/track/2qOL9YCX61pJ9AAeblJdfF"
@@ -12992,7 +13106,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186967,
       "name": "Take Over Control (feat. Eva Simons) [Maddix Remix]",
       "url": "https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP"
@@ -13536,6 +13650,28 @@
       "duration_ms": 188078,
       "name": "The House Of House (Yves Deruyter & BY\u00d8RN Remix) [Live At Tomorrowland]",
       "url": "https://open.spotify.com/track/6pvcrKHVbcTZGio7XWMiPG"
+    },
+    {
+      "album": {
+        "name": "The Last Time",
+        "url": "https://open.spotify.com/album/64hTWY5vA3Z79w0EuDSBIQ"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211115,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/0zfYsG5xe0dMyQWrV68giY"
     },
     {
       "album": {
@@ -14325,6 +14461,36 @@
     },
     {
       "album": {
+        "name": "Turn The Lights Off (AFROJACK Remix)",
+        "url": "https://open.spotify.com/album/5V4cGa82yJyGTrZe4M9YXt"
+      },
+      "artists": [
+        {
+          "name": "Just\u0117",
+          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
+        },
+        {
+          "name": "Jaxstyle",
+          "url": "https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195707,
+      "name": "Turn The Lights Off (AFROJACK Remix)",
+      "url": "https://open.spotify.com/track/2rA4VTb4d3ELgJYr4H7BeT"
+    },
+    {
+      "album": {
         "name": "Turn The Lights Off (Paul Elstak Remix)",
         "url": "https://open.spotify.com/album/4z02t8GQPO1052P0gvBPc3"
       },
@@ -14564,7 +14730,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 134055,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/30tZsPXvOp0usNfKiJehl0"
@@ -14868,7 +15034,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 202500,
       "name": "Wake Me Up (I'm Alive)",
       "url": "https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad"

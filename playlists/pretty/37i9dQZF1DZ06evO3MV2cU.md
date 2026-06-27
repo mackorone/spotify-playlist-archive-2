@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,366 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,363 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 11 | [10,000 Reasons \(Bless The Lord\)](https://open.spotify.com/track/7INIvrY07vZU5exGsYMo2U) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:51 |
 | 12 | [Lord, I Need You \- Live](https://open.spotify.com/track/0xGXCPSjxkHxElgi7kC5SZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Here For You \(Live\)](https://open.spotify.com/album/0NGmtUx2BoGIxzfaCmLj4O) | 4:34 |
 | 13 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
-| 14 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 |
+| 14 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
 | 15 | [Good Good Father](https://open.spotify.com/track/1l6Ffi07jIzh5DquHPf7a3) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:24 |
-| 16 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
+| 16 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 |
 | 17 | [Everlasting God](https://open.spotify.com/track/1cUyNauQChHpZm4RIe2Yuy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [See The Morning \(Special Edition\)](https://open.spotify.com/album/3VAqfKdNkk3em16aadExkd) | 4:22 |
 | 18 | [The Cross](https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:41 |
 | 19 | [How Great Is Our God](https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 45 | [Always](https://open.spotify.com/track/55T6hkea97kp6UCZ2CVe0M) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 4:08 |
 | 46 | [Yes And Amen](https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 5:06 |
 | 47 | [Power \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0AGM3L1E346dTkLcGMaEdv) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:13 |
-| 48 | [God Of This City \- Live](https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: God Of This City \(Live\)](https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa) | 5:05 |
-| 49 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
+| 48 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
+| 49 | [God Of This City \- Live](https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: God Of This City \(Live\)](https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa) | 5:05 |
 | 50 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 8:34 |
 
-Snapshot ID: `ajseAAAAAAD0yv1Yd/1NQygGYh/BhtPd`
+Snapshot ID: `ajxvgAAAAAB9XIJgejMphHwoGvFoi+sU`

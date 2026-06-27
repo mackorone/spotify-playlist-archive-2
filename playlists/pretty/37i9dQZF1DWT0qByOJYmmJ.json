@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 628968,
+  "num_followers": 628965,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 171978,
       "name": "Vino Tinto",
       "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Terraformar",
+        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 140929,
+      "name": "Terraformar",
+      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Lo Que Construimos",
         "url": "https://open.spotify.com/album/3aY4BoeqiExyMDDfZNud4M"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 208289,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/0K1eUOeIAW1jwbqSrgoVMj"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Terraformar",
-        "url": "https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 140929,
-      "name": "Terraformar",
-      "url": "https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "pero qu\u00e9 cosa",
         "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 165500,
       "name": "pero qu\u00e9 cosa",
       "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/6rb0q66fl0KXNB9SXW5Ycc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 230334,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/2XHOcpj3XkYsv9aa4inXVQ"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Olvidarme",
+        "url": "https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 171305,
+      "name": "Olvidarme",
+      "url": "https://open.spotify.com/track/52XioIzucenybSvvimJ1hk"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
         "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 185841,
       "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
       "url": "https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "Olvidarme",
-        "url": "https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 171305,
-      "name": "Olvidarme",
-      "url": "https://open.spotify.com/track/52XioIzucenybSvvimJ1hk"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Recuerdo",
-        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
-      },
-      "artists": [
-        {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/2712DcpZs3YMjSjN71Y0t9"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 242000,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5Fn4GIqzuYOheIn8HlhvJG"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
     },
     {
       "added_at": "2024-07-11 01:38:58",

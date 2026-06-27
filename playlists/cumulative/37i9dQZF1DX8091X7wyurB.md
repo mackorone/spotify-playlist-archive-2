@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-899 songs - 3 day 21 hr 13 min
+900 songs - 3 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Heya Ya \(Live\)](https://open.spotify.com/track/2ZBeDN1YpeWeAS2FexVSd2) | [Muyiwa Olarewaju](https://open.spotify.com/artist/2PdnJlwnLIZbC1keeQU6hW) | [Green Worship 1.0 \(Live\)](https://open.spotify.com/album/3C0d6kHPNfgTU9670QQtC8) | 5:59 | 2023-12-05 | 2023-12-10 |
 | [Highly Lifted](https://open.spotify.com/track/7B4o2XhrtS0kvWpkxqsP9Q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Highly Lifted](https://open.spotify.com/album/3w1eEMex8DPkySUT0hrl3p) | 5:39 | 2026-03-20 | 2026-03-27 |
 | [His Own \(Leave Me Alone\)](https://open.spotify.com/track/6t3of7F7zx2SwmDgRD5meQ) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [His Own \(Leave Me Alone\)](https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw) | 2:51 | 2022-06-30 | 2023-04-21 |
+| [His Presence](https://open.spotify.com/track/4l5FnTX9O8hUhWFB91EdqR) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [His Presence](https://open.spotify.com/album/5ZnYVbZkzGgb9V1o3YXrqq) | 14:40 | 2026-06-26 |  |
 | [Hold It All](https://open.spotify.com/track/0VgZalgsvnTj9aXCzUsJUf) | [Allan Scott](https://open.spotify.com/artist/5bTp94uRj4N6iSyVo4sigW) | [Hold It All](https://open.spotify.com/album/2Mz5cqlXvTe6abwAHqdaGq) | 3:01 | 2022-06-30 | 2022-10-16 |
 | [Holy / Emperor of the Universe \- Live](https://open.spotify.com/track/7biwZ5oRVKcYfmIQHJr0tH) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [HOLY \(LIVE ALBUM\)](https://open.spotify.com/album/72Iizf9oEP5JTL2yq2MMWQ) | 12:21 | 2025-12-05 | 2026-01-15 |
 | [Holy Fire](https://open.spotify.com/track/6TycYyYqOHCdsWwHcSe9PI) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [Holy Fire](https://open.spotify.com/album/5bLWR6pwfz9f3AKtdTLUcB) | 4:07 | 2026-01-09 | 2026-01-23 |

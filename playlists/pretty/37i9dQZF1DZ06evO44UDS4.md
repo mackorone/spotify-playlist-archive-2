@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,922 likes - 49 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,765 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 48 | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Life Goes On \(feat\. Trippie Redd & Ski Mask The Slump God\)](https://open.spotify.com/album/1ucf98ip08W4dY41QZrXeq) | 3:02 |
 | 49 | [Movement](https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Movement](https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF) | 2:43 |
 
-Snapshot ID: `ajseAAAAAABLKXcTIo0BooyhjyzZlha8`
+Snapshot ID: `ajxvgAAAAABaYwOwbkWffbO1oX0ni8g1`

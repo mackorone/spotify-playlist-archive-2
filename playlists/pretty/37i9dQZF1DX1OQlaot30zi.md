@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Ele A, Rhove, Kid Yugi, DJ Shocca e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,727 likes - 109 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,750 likes - 109 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 5 | [Pop e perc](https://open.spotify.com/track/0b9qUr2L9LT5zVItVlxLWk) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Pop e perc](https://open.spotify.com/album/0fmcFrPM8ENiDOzacNGBiz) | 1:59 |
 | 6 | [Oki](https://open.spotify.com/track/0VvjGOqozrA3l33E0NZkmE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 2:13 |
 | 7 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
-| 8 | [Self control](https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Juniork](https://open.spotify.com/artist/0fmgGC0Djn2ZgujYN4HvFo) | [Self control](https://open.spotify.com/album/5DZxAf5LA7KQEQKx122Uh9) | 3:04 |
-| 9 | [Track 3](https://open.spotify.com/track/42pWbCeVlANwit1PGd9Hcv) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [paniko !](https://open.spotify.com/album/2ItzxQbgNDocUz9XRONBmG) | 0:00 |
+| 8 | [Self control](https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Self control](https://open.spotify.com/album/5DZxAf5LA7KQEQKx122Uh9) | 3:04 |
+| 9 | [imo](https://open.spotify.com/track/42pWbCeVlANwit1PGd9Hcv) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [paniko !](https://open.spotify.com/album/2ItzxQbgNDocUz9XRONBmG) | 2:01 |
 | 10 | [Problemi](https://open.spotify.com/track/2OlBd5KpLs0eFpoMS6kryP) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Prima Di Cadere](https://open.spotify.com/album/7jxLrhWUCdMtvJqgh7ucZV) | 2:52 |
 | 11 | [LEGGENDA DEL SUD](https://open.spotify.com/track/43dVkgtT9UFzcxviP0sLwb) | [sir prodige](https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp) | [LEGGENDA DEL SUD](https://open.spotify.com/album/6kSBNNGvmc3tG0EAf1H3Yi) | 2:40 |
 | 12 | [RELAX](https://open.spotify.com/track/0Djxy0p7pplQ9eD6QoyVbw) | [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm) | [RELAX](https://open.spotify.com/album/7nB40oTh71UL5zChGnLkB7) | 2:40 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 14 | [NAPOLETANA](https://open.spotify.com/track/6DfdaRmIddhoXWX20DWBYy) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [NAPOLETANA](https://open.spotify.com/album/6G48WKZtGC03BkW9ZcKadf) | 2:16 |
 | 15 | [Una vita fa](https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Una vita fa](https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl) | 2:23 |
 | 16 | [IL PRIMO DEI PERDENTIE](https://open.spotify.com/track/2c9axBm59BBQxfh0jry8wh) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [IL PRIMO DEI PERDENTIE](https://open.spotify.com/album/5NFEXfjEKQFPFWGTXWfE8w) | 2:08 |
-| 17 | [Track 5](https://open.spotify.com/track/66IAjWe5Bv8XDUEPoGFiIj) | [4Hamza](https://open.spotify.com/artist/7CyhaxNiXYQzFFkxbk9ck7) | [B4](https://open.spotify.com/album/5xryYRjvPUKcl9PPfops04) | 0:00 |
+| 17 | [STEP 1 STEP 4](https://open.spotify.com/track/66IAjWe5Bv8XDUEPoGFiIj) | [4Hamza](https://open.spotify.com/artist/7CyhaxNiXYQzFFkxbk9ck7), [BROKEBUSTERZIKO](https://open.spotify.com/artist/5J87lHPNuFWeKrxplsNszg) | [B4](https://open.spotify.com/album/5xryYRjvPUKcl9PPfops04) | 1:52 |
 | 18 | [ho chiamato il plug](https://open.spotify.com/track/2nWLPlQfqqBc3UNSqJYC0y) | [Vins](https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir) | [ho chiamato il plug](https://open.spotify.com/album/5YbyNmivt03cxzeuhe1LFR) | 2:28 |
 | 19 | [DIECI PADRE NOSTRO \(con Toni Zeno\)](https://open.spotify.com/track/4nVWAWVIkJNhwP1B0MwSDm) | [Kkrisna](https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf), [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG) | [NELLA FORMA PIÙ PURA](https://open.spotify.com/album/7aavTGWdHnB0Guxsh4GXB8) | 3:27 |
 | 20 | [Faccio Come Mi Pare](https://open.spotify.com/track/7Dmgr5OEKQUS6U3hNvb5eT) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Faccio Come Mi Pare](https://open.spotify.com/album/5Qvxx9iGN9qDCbShNN4Ef7) | 2:13 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 30 | [10 e Lode](https://open.spotify.com/track/0JRPh0aDHHgjhvIXWCzrUX) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [10 e Lode](https://open.spotify.com/album/1NoegKYZKUcc8AjkvY5Mn1) | 2:37 |
 | 31 | [Barbados \(feat\. Leam & Fady\)](https://open.spotify.com/track/526mA52qgKovkCeOd6kPd3) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Leam](https://open.spotify.com/artist/5unMeXu4SMNZXy64Ad48VO), [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN) | [Barbados \(feat\. Leam & Fady\)](https://open.spotify.com/album/2k9NcWXhjSVnSxA6cVITIv) | 2:22 |
 | 32 | [DA GIÙ](https://open.spotify.com/track/0h8GiMc56Aba9VF4VsyigG) | [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP) | [DA GIÙ](https://open.spotify.com/album/1e8PldXHE8m3HwjmvYcdBh) | 2:38 |
-| 33 | [Track 2](https://open.spotify.com/track/66EplyBAloGVV4QWBttodz) | [yungenob](https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg) | [Mr Solo](https://open.spotify.com/album/59HynGgItg5XNvLdN5xZSP) | 0:00 |
+| 33 | [Shoota](https://open.spotify.com/track/66EplyBAloGVV4QWBttodz) | [yungenob](https://open.spotify.com/artist/2wpyNCDCcqIpRZgAGdHRgg) | [Mr Solo](https://open.spotify.com/album/59HynGgItg5XNvLdN5xZSP) | 2:20 |
 | 34 | [Estate2000](https://open.spotify.com/track/4EEhyO56fmBoIIbVZXSi9g) | [BBY 2K](https://open.spotify.com/artist/5X8Yl3RLyb2XWSuCf9X85r), [Broke](https://open.spotify.com/artist/1bMSQHbWQ3UtZiXc2KfevQ), [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq) | [Estate2000](https://open.spotify.com/album/1PQyJsNwXbjnh5z2IOi49E) | 3:22 |
 | 35 | [CALI N' BACARDI](https://open.spotify.com/track/28RHQob2vxMVqOQciRaZ4r) | [BADMAN](https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p) | [CALI N' BACARDI](https://open.spotify.com/album/6MLqJTXIK23fLcUGIMkYNF) | 2:05 |
 | 36 | [Laptop](https://open.spotify.com/track/2VwKHg0nQXnmZRo6XqfmzP) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C) | [Laptop](https://open.spotify.com/album/7iZP6qFAKNTofKUwZ7RU8u) | 2:26 |

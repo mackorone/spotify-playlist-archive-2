@@ -765,6 +765,32 @@
     },
     {
       "album": {
+        "name": "AS\u00cd DE RICO (Va uno a ver y ve Remizzz)",
+        "url": "https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140937,
+      "name": "As\u00ed de Rico (Va uno a ver y ve Remizzz)",
+      "url": "https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE"
+    },
+    {
+      "album": {
         "name": "Aventurero",
         "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
       },

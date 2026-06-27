@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover:  <br/>Gracie Abrams
 
-3,094 songs - 7 day 11 hr 1 min
+3,096 songs - 7 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1167,7 +1167,7 @@
 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 | 2026-02-12 | 2026-04-03 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-02-29 | 2024-03-22 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-15 | 2026-03-06 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 | 2024-05-09 | 2024-06-01 |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-20 | 2025-03-22 |
 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 | 2026-03-19 | 2026-04-17 |
@@ -1265,6 +1265,7 @@
 | [Iqro'](https://open.spotify.com/track/1w0tQpNChqgM7oBWsV3erJ) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/1tfOH9j7lcUsCMByB3j6RC) | 3:54 | 2026-02-06 | 2026-03-20 |
 | [IRL \(FEAT\. SZA\)](https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:44 | 2025-06-26 | 2025-08-23 |
 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-10 | 2025-08-16 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-26 |  |
 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 | 2026-06-19 |  |
 | [Is It Love?](https://open.spotify.com/track/31M7Jau1Yoi6ilPLlhrVbQ) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Is It Love?](https://open.spotify.com/album/1kJkNIfeNPT7aBL03sT4L7) | 3:15 | 2025-01-31 | 2025-02-28 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-02 |
@@ -3028,6 +3029,7 @@
 | [will i ever \(day bounce\)](https://open.spotify.com/track/2nxNMpGFUIlO4Lsd7M3NLz) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [will i ever \(day bounce\)](https://open.spotify.com/album/0LBmP6XLwxwJlFbY2BJL4K) | 2:51 | 2025-12-04 | 2026-01-30 |
 | [Will I Ever Love Again?](https://open.spotify.com/track/64bczVWu6Y5ZHiNPxJaXaO) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Jordan](https://open.spotify.com/album/2GzoMwLkAXmod1QjiCD4bu) | 3:33 | 2024-08-16 | 2024-10-04 |
 | [Wings](https://open.spotify.com/track/1fq3bgqIetBC9V6EaIENST) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Anna Leeworthy](https://open.spotify.com/artist/262vJxKmW2Xlpl93qaln8W) | [Wings](https://open.spotify.com/album/3l0kuT9Ny5DUhFMyKkdY9N) | 3:35 | 2024-10-11 | 2024-11-22 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-26 |  |
 | [Winner](https://open.spotify.com/track/6HEcXkTRvZSE5zeCqcl88A) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH) | [Winner](https://open.spotify.com/album/6McnIPXNodbUnO0PMHwFho) | 2:16 | 2026-04-17 | 2026-05-29 |
 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2024-11-28 | 2025-01-24 |
 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/1VJhGq3bMl48DBbLxoJt9e) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 | 2025-12-11 | 2026-02-07 |

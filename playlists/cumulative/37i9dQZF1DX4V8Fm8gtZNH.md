@@ -4,7 +4,7 @@
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-372 songs - 21 hr 59 min
+377 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Be Careful](https://open.spotify.com/track/43qoe1yZxqutQmzHAfAeBB) | [Armed Rhymery](https://open.spotify.com/artist/1Fi0pi2srRwimN0RQMFudM) | [Be Careful](https://open.spotify.com/album/2HDcZHyGgvvLwO646Bw3NT) | 3:18 | 2025-08-01 |  |
 | [Be Honest](https://open.spotify.com/track/0RK0zy2hrUcU89diqNkSot) | [Love Pulse Music](https://open.spotify.com/artist/7fC7wiRwJKnHzM5J5xC1F4), [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Infinite Cue Vol\. 1](https://open.spotify.com/album/4iiDcxVsYAFYNxka5sfJvu) | 3:05 | 2023-10-18 |  |
 | [Beautiful Madness](https://open.spotify.com/track/3KnDmVhWh2FvtbPjArxckA) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ) | 2:32 | 2024-06-07 |  |
+| [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 | 2026-06-26 |  |
 | [Before The Dawn](https://open.spotify.com/track/4EFPVeCPM2mJo2K1XXJ6bu) | [Jake & Papa](https://open.spotify.com/artist/0t8jcjbcfE79FcWSpIkGdR) | [Before The Dawn](https://open.spotify.com/album/3Dv6kS6f1bq4n0v7bMcY3J) | 1:08 | 2024-06-21 |  |
 | [Best Advice](https://open.spotify.com/track/3X8VuAmGoBDh4NU2v7iILA) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI) | [Moved](https://open.spotify.com/album/036hmr7bSYXlwSId6GTtJk) | 3:56 | 2023-10-18 |  |
 | [Better Man](https://open.spotify.com/track/5yxtW1RhVybMDiFgHGGOiz) | [MoDre](https://open.spotify.com/artist/0KJuvEXiLRZ8H2Gz1CqKtw), [Freewill](https://open.spotify.com/artist/3bBpgrS9jtGE8dVNBjXgO8) | [Better Man](https://open.spotify.com/album/493S5NPtA5AT2rXlAGADvB) | 3:42 | 2023-10-18 |  |
@@ -78,6 +79,7 @@
 | [Clouded](https://open.spotify.com/track/0bXaQYRL6BlyVVPkQbKbgq) | [Jake & Papa](https://open.spotify.com/artist/0t8jcjbcfE79FcWSpIkGdR) | [Clouded](https://open.spotify.com/album/4NJxl5mKDUQHbYa8gtFp8r) | 3:09 | 2023-10-18 |  |
 | [Clumsy](https://open.spotify.com/track/09lkcmw4ybLjfFkaOz94KZ) | [SMITH](https://open.spotify.com/artist/45AVMO6td9o19NKPsGpAFD) | [Clumsy](https://open.spotify.com/album/6fncXfz9UDfcV6zWalpnzz) | 3:50 | 2023-10-18 |  |
 | [Coast To Coast](https://open.spotify.com/track/0lTSQPNJJfHPIhz1zcKWci) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [Coast To Coast](https://open.spotify.com/album/3lzZCyiEETyh69BetwK4Io) | 4:02 | 2023-10-18 |  |
+| [Collard Greens in Paradise](https://open.spotify.com/track/4xElL4ZQ25iJc0stYW0tbe) | [Iman Jordan](https://open.spotify.com/artist/06HBe4UB9JJvG2eKmcPQ5f), [Figgy Baby](https://open.spotify.com/artist/5l4F8y1YwaXhQHn5mi72j1) | [Odyssey](https://open.spotify.com/album/0jtkyctiuE6clIQx7kGUw4) | 2:35 | 2026-06-26 |  |
 | [Come Home](https://open.spotify.com/track/0qR2sGJ7CQiaBzzF0dRZgY) | [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [Summer Camp](https://open.spotify.com/album/6c6hz80UAdFUHq4y6krwz6) | 2:13 | 2023-10-18 |  |
 | [Come Over](https://open.spotify.com/track/4EEU6KxKKtDfDzDBoE0w3Z) | [Aceyalone](https://open.spotify.com/artist/7CaUk9xCxdXAmmqQn3PLR7) | [Action](https://open.spotify.com/album/4scelWuaIpaHnU4J9OpaQk) | 3:23 | 2023-10-18 |  |
 | [Come Over Here](https://open.spotify.com/track/0bIzlYMI9bsYoAMHZ7LrX5) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [C3](https://open.spotify.com/album/0x1BgsKX3jBtjat6HApyl6) | 3:00 | 2023-10-18 |  |
@@ -193,6 +195,7 @@
 | [Legendary Lyricist](https://open.spotify.com/track/30YsASCRej4BsR48PMKPQ9) | [Percee P](https://open.spotify.com/artist/3jOh5Hdrc5A8nQxBf5Q6gN), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Perseverance: The Madlib Remix](https://open.spotify.com/album/3QkCDwfEfigHrHSkzWCFPZ) | 3:41 | 2023-10-18 |  |
 | [Lemon Pepper Wings](https://open.spotify.com/track/3hD8O27M5vmBkTAAS5RIvY) | [Rae](https://open.spotify.com/artist/0utsXXc4i5jfRRiZf5lsm3) | [Lemon Pepper Wings](https://open.spotify.com/album/2DCzyOJ9AU6Eaca5LZ0x5B) | 3:21 | 2023-10-18 |  |
 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-05-26 |  |
+| [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2026-06-26 |  |
 | [Let the Horns Blow \(feat\. Homeboy Sandman\)](https://open.spotify.com/track/1sCeyN1qc6ZED5A4hLSVBY) | [Evitan](https://open.spotify.com/artist/6fzMpJdUUk726BGGwCr6IC), [Homeboy Sandman](https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb) | [Speed of Life](https://open.spotify.com/album/6yW9RTxNp7h7TkY0liCiXi) | 3:34 | 2023-10-18 |  |
 | [Let's Chill](https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [The Future](https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q) | 5:23 | 2025-06-20 |  |
 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 | 2024-05-17 |  |
@@ -249,6 +252,7 @@
 | [Optimistic](https://open.spotify.com/track/7Mb7jOst43wPQELas93ARE) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [Evolution Of Gospel](https://open.spotify.com/album/3Nadyd2d91SwdnSNPEWLTp) | 5:18 | 2025-05-30 |  |
 | [Our World](https://open.spotify.com/track/6ZSgKQs6wEXP8sY3KuL2xy) | [Campfire](https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4) | [Our World](https://open.spotify.com/album/2jaJZJYKqSuzyCsX2AO7dG) | 3:28 | 2023-10-18 |  |
 | [Outsiders](https://open.spotify.com/track/53jBUTpH07JOQcrFxOMf2u) | [YSN Hazel](https://open.spotify.com/artist/5iJD1eR7hFp5keAR8lqRME) | [You Know the Vibes](https://open.spotify.com/album/5DmIGyk9VKXx8aLYr2QtKv) | 2:45 | 2023-10-18 |  |
+| [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 | 2026-06-26 |  |
 | [Overnight Celebrity \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 | 2023-10-18 |  |
 | [Own Way](https://open.spotify.com/track/12SNpjIjP0eD2HhmmIsygd) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [Godfrey](https://open.spotify.com/album/0EcGLFsz7isRUSyDYZuO3w) | 3:23 | 2023-10-18 |  |
 | [Paid](https://open.spotify.com/track/0XIRYQu4qt2COveyvMptyL) | [Jazzfeezy](https://open.spotify.com/artist/7rxVJrgnsnQhgxg3QnHsmi), [Geek Van Der Beek](https://open.spotify.com/artist/3qT5CJWXd6TFQxgQWi3n7z) | [Paid](https://open.spotify.com/album/0UJtG3ZYBYvD5Ubg7Fad46) | 2:27 | 2023-10-18 |  |
@@ -288,6 +292,7 @@
 | [Sex, Drugs, Alcohol](https://open.spotify.com/track/7lR62jc0BawrEL3AC6UYc5) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Mouth Music](https://open.spotify.com/album/1UL3r8GYomErnkOIZUBZIb) | 3:56 | 2024-06-14 |  |
 | [She Don't Deserve It](https://open.spotify.com/track/7CW7KpPj1oif7Wep6jlsrS) | [J'von](https://open.spotify.com/artist/4PtyUWAVv6iIXgrs7XrlKs) | [She Don't Deserve It](https://open.spotify.com/album/6AZO5M3XOyXGoDA2OzGjms) | 3:20 | 2023-10-18 |  |
 | [She Got It](https://open.spotify.com/track/4AebZz6zjrNpqk7mehE24x) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Illustrations](https://open.spotify.com/album/00pFZrH0XRIXJGo86PQSYW) | 3:09 | 2023-10-18 |  |
+| [SHINE \(LIKE THIS\)](https://open.spotify.com/track/5cAv53vnIXXubWZBwPAn8L) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [SHINE \(LIKE THIS\)](https://open.spotify.com/album/6znubhNvREJjwRnBZfvWkt) | 2:31 | 2026-06-26 |  |
 | [Should've Gotten To Know Me](https://open.spotify.com/track/42vBQWzCwYJnj2JXiSF312) | [Brian McKnight Jr.](https://open.spotify.com/artist/3kMMoBYpbDgdN3zvQedA8U) | [Should've Gotten To Know Me](https://open.spotify.com/album/2SsENpAXiv2SUUvxjGva2C) | 2:34 | 2023-10-18 |  |
 | [Simplicity](https://open.spotify.com/track/4XK6eFb6OtR6X3812oHhn0) | [Bartón](https://open.spotify.com/artist/457E2lSrL1lbWcVkwPFQXK) | [Simplicity](https://open.spotify.com/album/2vi20WDMt1R37bQkCiNNvS) | 2:49 | 2023-10-18 |  |
 | [Sleepless \(feat\. Taylor Bennett\)](https://open.spotify.com/track/53yL6BFwHKHoO4MujVMATh) | [Melo Makes Music](https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS), [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c) | [Sleepless \(feat\. Taylor Bennett\)](https://open.spotify.com/album/4fj6gCXesfcem3EDaDJqpH) | 4:41 | 2023-10-18 |  |

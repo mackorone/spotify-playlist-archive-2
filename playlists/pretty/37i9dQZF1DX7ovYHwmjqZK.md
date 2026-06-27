@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,288 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,300 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 21 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 |
 | 22 | [Bossa De Urso](https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:14 |
 | 23 | [Samba E Amor](https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 2:52 |
-| 24 | [Tantas Coisas](https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j) | [Seu Elias](https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v) | [Fubá Mimoso](https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0) | 2:40 |
-| 25 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 |
+| 24 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 |
+| 25 | [Tantas Coisas](https://open.spotify.com/track/7l8uRccZrtk5Duo21VaI6j) | [Seu Elias](https://open.spotify.com/artist/4Y9OReA2h64LtMZLcVVe8v) | [Fubá Mimoso](https://open.spotify.com/album/1cWWDCemEyE8D3I7lDwhu0) | 2:40 |
 | 26 | [Veja Bem Meu Bem](https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Yves Dharamraj](https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W) | [Veja Bem Meu Bem \(Single\)](https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R) | 5:22 |
 | 27 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
 | 28 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 45 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 | 46 | [All or Nothing at All](https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0) | [Billy Sides Trio](https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn) | [All or Nothing at All](https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo) | 6:15 |
 | 47 | [As Cores das Flores](https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [As Cores das Flores](https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL) | 3:01 |
-| 48 | [Caminhos Cruzados](https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Caminhos Cruzados](https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo) | 2:32 |
-| 49 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 |
+| 48 | [Perto do Tom](https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d) | [Antonio Carlos Bigonha](https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK) | [Saudades de Amanhã](https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr) | 4:35 |
+| 49 | [Caminhos Cruzados](https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Caminhos Cruzados](https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo) | 2:32 |
 | 50 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 |
 | 51 | [A Voz do Brasil](https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB) | [Lili Araujo](https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs) | [Dájazz](https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST) | 5:03 |
 | 52 | [Parti Capuri](https://open.spotify.com/track/6Xsb9SUZgyMy1NbpmQrA37) | [Billynho Blanco](https://open.spotify.com/artist/3ZNM1UvesIx0qMg3aZwIjf) | [Parti Capuri](https://open.spotify.com/album/6576bQHe62FzFsVmvL6OeW) | 4:00 |
-| 53 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 |
-| 54 | [Pega Esse Sambete Aí](https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9) | [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Deslizando Na Canção](https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT) | 2:53 |
+| 53 | [Pega Esse Sambete Aí](https://open.spotify.com/track/6gZPzCXKSgE6aQrLfSw6O9) | [Marcos Lessa](https://open.spotify.com/artist/2AthduHFuFArAvd8MmnpCQ) | [Deslizando Na Canção](https://open.spotify.com/album/0rMKccxzXNE5ZWDpz2jOXT) | 2:53 |
+| 54 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 |
 | 55 | [Falando de Amor](https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe) | [Rosa Collins](https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe) | [Falando de Amor](https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y) | 4:16 |
 | 56 | [Voa](https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Garoa](https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe) | 2:44 |
 | 57 | [Tanto Tempo](https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc) | [Piero Bianchi](https://open.spotify.com/artist/4D5VxntFo9nJEFxiVgALVy), [Ricardo Chacon](https://open.spotify.com/artist/5mHugJovhQFoVL1PTsunXU), [Rafael Marques](https://open.spotify.com/artist/5DIydHipIaK334tZraldoK), [Coral Edgard Moraes](https://open.spotify.com/artist/6POTIoGGJfA2gokRyvQjqu) | [Terra Papagali Coffee Shop](https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb) | 4:23 |

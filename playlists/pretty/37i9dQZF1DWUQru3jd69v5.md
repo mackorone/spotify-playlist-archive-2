@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > sir prodige in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,849 likes - 70 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,888 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 3 | [Pop e perc](https://open.spotify.com/track/0b9qUr2L9LT5zVItVlxLWk) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n) | [Pop e perc](https://open.spotify.com/album/0fmcFrPM8ENiDOzacNGBiz) | 1:59 |
 | 4 | [JUST MUSIC](https://open.spotify.com/track/7aDyoWF5HisJpkb9X8L2nQ) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5) | [JUST MUSIC](https://open.spotify.com/album/7tYQel0bPdxmo9IThsQjo2) | 2:44 |
 | 5 | [RELAX](https://open.spotify.com/track/0Djxy0p7pplQ9eD6QoyVbw) | [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm) | [RELAX](https://open.spotify.com/album/7nB40oTh71UL5zChGnLkB7) | 2:40 |
-| 6 | [Track 3](https://open.spotify.com/track/42pWbCeVlANwit1PGd9Hcv) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [paniko !](https://open.spotify.com/album/2ItzxQbgNDocUz9XRONBmG) | 0:00 |
+| 6 | [imo](https://open.spotify.com/track/42pWbCeVlANwit1PGd9Hcv) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry) | [paniko !](https://open.spotify.com/album/2ItzxQbgNDocUz9XRONBmG) | 2:01 |
 | 7 | [Selena Gomez](https://open.spotify.com/track/22pDDaPCT3zthpC73iy5ui) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Selena Gomez](https://open.spotify.com/album/2JrawLPb3QRBr3Jp2XU2yb) | 2:55 |
 | 8 | [ASTP](https://open.spotify.com/track/3P3KlwQUfD12ggAmnbfeXt) | [Lory G](https://open.spotify.com/artist/67tVbMvYcF1OlbyEUpjYs3), [Sum M](https://open.spotify.com/artist/7BIs2dy9J4quveTbB3Yu3t) | [ASTP](https://open.spotify.com/album/0FD51de5MwzTx730l5ZilT) | 1:55 |
 | 9 | [Island Summer](https://open.spotify.com/track/6hZR5Xv76Gw0kloYW5l7It) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Island Summer](https://open.spotify.com/album/1FnQX1QBAQdyALTe4Z3ANB) | 2:11 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 11 | [7:00 AM](https://open.spotify.com/track/44aXL70yVRq6Cpe0dpejTd) | [Clemi](https://open.spotify.com/artist/315sdH2D4pWLT8Q45Bv6ai), [Jeko](https://open.spotify.com/artist/3aHY5YJ8YSoez2FYLK83CM) | [7:00 AM](https://open.spotify.com/album/6x2QLWgpiloQftbhxs99du) | 2:19 |
 | 12 | [Rodrigo Risivi](https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [Rodrigo Risivi](https://open.spotify.com/album/35tkrI72FDhu3SlSjdqrt4) | 2:44 |
 | 13 | [GRAVITÀ \(feat\. Promessa\)](https://open.spotify.com/track/0yYyt3h8LwzRTQfweZ5Hen) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [THE GOLDFATHER](https://open.spotify.com/album/2wqe37GloOInHxfqo7N6DC) | 2:51 |
-| 14 | [Track 5](https://open.spotify.com/track/66IAjWe5Bv8XDUEPoGFiIj) | [4Hamza](https://open.spotify.com/artist/7CyhaxNiXYQzFFkxbk9ck7) | [B4](https://open.spotify.com/album/5xryYRjvPUKcl9PPfops04) | 0:00 |
+| 14 | [STEP 1 STEP 4](https://open.spotify.com/track/66IAjWe5Bv8XDUEPoGFiIj) | [4Hamza](https://open.spotify.com/artist/7CyhaxNiXYQzFFkxbk9ck7), [BROKEBUSTERZIKO](https://open.spotify.com/artist/5J87lHPNuFWeKrxplsNszg) | [B4](https://open.spotify.com/album/5xryYRjvPUKcl9PPfops04) | 1:52 |
 | 15 | [Krokodyle](https://open.spotify.com/track/16lEt3JYAauK42S9NoRYcs) | [Kheri](https://open.spotify.com/artist/2JU6Kcn0Otv7eZ86BJwgnX), [DLVB](https://open.spotify.com/artist/3UV1o74wbf54cmV1edu9Yb) | [Krokodyle](https://open.spotify.com/album/1kPY0kHKn7gUj2e5oasRAM) | 1:47 |
 | 16 | [Milano Keta Club](https://open.spotify.com/track/15ob0fBiNCCttWT5QbF7wP) | [Clamö](https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR) | [Milano Keta Club](https://open.spotify.com/album/2vzffd0pTE0KjZsBOuPBDc) | 2:03 |
 | 17 | [DOPE](https://open.spotify.com/track/4DSrvpTzS6XyCUmZ7vgPvb) | [Over Lapa](https://open.spotify.com/artist/48e0k55AhCw5JzNWf3WsXm) | [DOPE](https://open.spotify.com/album/0QQo33izNRViZ52jhFvdbY) | 2:43 |

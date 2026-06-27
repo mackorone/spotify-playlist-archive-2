@@ -1,6 +1,6 @@
 {
   "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Sekou",
-  "num_followers": 90097,
+  "num_followers": 90100,
   "original_name": "Groovin' R&B",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,26 @@
     {
       "added_at": "2026-06-25 22:42:31",
       "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "added_at": "2026-06-25 22:42:31",
+      "album": {
         "name": "A LITTLE VENGEANCE",
         "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
       },
@@ -72,8 +92,8 @@
           "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 10",
+      "duration_ms": 186500,
+      "name": "Hurry Hurry",
       "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
     },
     {
@@ -395,6 +415,22 @@
       "duration_ms": 207138,
       "name": "Elements",
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+    },
+    {
+      "added_at": "2026-06-25 22:42:31",
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/0Had0RbdGN44yC2zoYXA8Z"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 176297,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
     },
     {
       "added_at": "2026-06-25 22:42:31",

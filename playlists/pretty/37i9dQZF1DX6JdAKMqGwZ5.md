@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Alba Morena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,911 likes - 120 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,926 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 23 | [Pienso En Ti](https://open.spotify.com/track/6JrampDbMp4AM7R0TyLGtN) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Pienso En Ti](https://open.spotify.com/album/3h9y40Uj7jkoEVbn0TvgKb) | 3:23 |
 | 24 | [primera clase](https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [primera clase](https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1) | 3:01 |
 | 25 | [Mañanas de Euforia](https://open.spotify.com/track/4gjlcKTl9IifCFpHl1Hbyf) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Mañanas de Euforia](https://open.spotify.com/album/4o3VecJjnQ3wdrdWouIyqB) | 2:51 |
-| 26 | [Track 6](https://open.spotify.com/track/32WTUR6LfPmJIIDvve93CG) | [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns) | [SI CANTARA EN ESPAÑOL SERIA ASI](https://open.spotify.com/album/7GIdsjbTKl1O4ZfMtzyT3f) | 0:00 |
+| 26 | [AUNQUE SOLO SEAN UNAS HORAS](https://open.spotify.com/track/32WTUR6LfPmJIIDvve93CG) | [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns), [Siempre Best](https://open.spotify.com/artist/5yU6lm8sR6jowNAY1PORyA) | [SI CANTARA EN ESPAÑOL SERIA ASI](https://open.spotify.com/album/7GIdsjbTKl1O4ZfMtzyT3f) | 2:34 |
 | 27 | [RECIPROCIDAD](https://open.spotify.com/track/17GUT7njYLs4yyNxXizmGB) | [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [RECIPROCIDAD](https://open.spotify.com/album/3JKvyrF0aRvnY5clHokKFP) | 2:47 |
 | 28 | [Soy un avión](https://open.spotify.com/track/0HuMsGcFrztItXtd2YczBE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Soy un avión](https://open.spotify.com/album/2XrTvh8wXfdLs2ZaMiuY2k) | 4:08 |
 | 29 | [Que Le Jodan Al Mundo](https://open.spotify.com/track/4Ps6AWhKeKw718RdeYI37H) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Que Le Jodan Al Mundo](https://open.spotify.com/album/7arXBBtAGfS3ySJYfFzCtQ) | 3:16 |

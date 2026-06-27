@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAD2KAPYq6FnVuQ37zmPGvIe",
+  "snapshot_id": "ajxvgAAAAABkd68S29kcliOxSj3VeUxh",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 189053,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
+      "duration_ms": 212440,
+      "name": "Still No Change",
+      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 212440,
-      "name": "Still No Change",
-      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+      "duration_ms": 189053,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 124156,
-      "name": "Ordinary Life",
-      "url": "https://open.spotify.com/track/2howizZ9AlI3wgWViIkclu"
+      "duration_ms": 161653,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 210958,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood On My Leather",
         "url": "https://open.spotify.com/album/0AdRZ0MgfYiWC1Xm8YKpAh"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 210958,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easing Out Of Control",
         "url": "https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj"
       },
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 161653,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/5zITXIKc2Z9uTeABr8GiEb"
+      "duration_ms": 124156,
+      "name": "Ordinary Life",
+      "url": "https://open.spotify.com/track/2howizZ9AlI3wgWViIkclu"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Ocean Exploder",
-      "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
+      "duration_ms": 211426,
+      "name": "Black Rat",
+      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Black Rat",
-      "url": "https://open.spotify.com/track/5Q5IpqEc3N5dWeetxVFAhq"
+      "duration_ms": 244000,
+      "name": "Ocean Exploder",
+      "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 198692,
-      "name": "Feeling Good, Feeling Great",
-      "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
+      "duration_ms": 131101,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+        "name": "Run To Paradise",
+        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Hypercolour",
-      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+      "duration_ms": 194625,
+      "name": "Run To Paradise",
+      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 131101,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/6EOm9UHVPvCjPUz4UxA9Xk"
+      "duration_ms": 198692,
+      "name": "Feeling Good, Feeling Great",
+      "url": "https://open.spotify.com/track/6ovHi1JMowwLaPHTph0tSB"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run To Paradise",
-        "url": "https://open.spotify.com/album/1gg1EagawFhWLP64wcbqJT"
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
       "artists": [
         {
@@ -644,25 +644,29 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 194625,
-      "name": "Run To Paradise",
-      "url": "https://open.spotify.com/track/5Farmm0MaT8hCsOLOZyhHV"
+      "duration_ms": 264600,
+      "name": "Hypercolour",
+      "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf"
       },
       "artists": [
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        },
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 75568,
-      "name": "Hot Potato",
-      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
+      "duration_ms": 169708,
+      "name": "Daybreak (with DZ Deathrays)",
+      "url": "https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib"
     },
     {
       "added_at": null,
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf"
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
       },
       "artists": [
-        {
-          "name": "Hellcat Speedracer",
-          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
-        },
         {
           "name": "DZ Deathrays",
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 169708,
-      "name": "Daybreak (with DZ Deathrays)",
-      "url": "https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib"
+      "duration_ms": 75568,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S"
     },
     {
       "added_at": null,

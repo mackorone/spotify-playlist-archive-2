@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-498 songs - 1 day 7 hr 43 min
+499 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-10-06 |
 | [CD](https://open.spotify.com/track/0MxfrxF46gT6S3oz6CbNbF) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [CD](https://open.spotify.com/album/3x4ngwfnySLcB3UBtAID91) | 3:06 | 2023-07-11 | 2023-08-18 |
 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 | 2025-07-11 | 2026-02-10 |
-| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
+| [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 | 2026-06-27 |
 | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2) | 2:42 | 2026-01-23 | 2026-05-17 |
 | [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 | 2024-09-25 | 2025-01-14 |
 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 | 2023-08-01 |  |
@@ -284,6 +284,7 @@
 | [MOONLIGHT](https://open.spotify.com/track/2AmftacZfB4ryvX6mzWvP4) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [MOONLIGHT](https://open.spotify.com/album/1OKelYkx4MDM1diKDsg107) | 3:16 | 2023-05-16 | 2023-08-18 |
 | [moonlight](https://open.spotify.com/track/2UoxwIHRIKhHwRYiFySemI) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [exported\_file\_1](https://open.spotify.com/album/6galsYHbpMeQzgpGmVnfHb) | 3:16 | 2023-10-17 | 2023-11-17 |
 | [moonlight](https://open.spotify.com/track/3bcSTJteNi1IdE7s0h9uf9) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [Ted Park](https://open.spotify.com/artist/7s1z4FwBTOjCdQcmXLMbOG) | [exported\_file\_1](https://open.spotify.com/album/0PegtJKho7DMde8b6FhpqK) | 3:16 | 2023-10-17 | 2023-10-19 |
+| [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 | 2026-06-25 |  |
 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-07 | 2026-04-27 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-14 |  |
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-01-25 | 2024-02-16 |

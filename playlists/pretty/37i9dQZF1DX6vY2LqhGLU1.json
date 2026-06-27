@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 110463,
+  "num_followers": 110459,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Because of Bethlehem",
+        "url": "https://open.spotify.com/album/4lyF2RpgKbfEnW72gMQWes"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 263051,
+      "name": "Because of Bethlehem",
+      "url": "https://open.spotify.com/track/1zTTa7l8ANupUFWjAzlgV3"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Behold (Glory To God)",
         "url": "https://open.spotify.com/album/1CSu97EuN2JznGkR773Zys"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 292471,
       "name": "Behold (Glory To God)",
       "url": "https://open.spotify.com/track/4oGHZZifdTU8ouBUvD0Gz1"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Because of Bethlehem",
-        "url": "https://open.spotify.com/album/4lyF2RpgKbfEnW72gMQWes"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 263051,
-      "name": "Because of Bethlehem",
-      "url": "https://open.spotify.com/track/1zTTa7l8ANupUFWjAzlgV3"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "We Receive You",
-        "url": "https://open.spotify.com/album/3egr2L6YMwvbhJqblRVVtd"
-      },
-      "artists": [
-        {
-          "name": "Victory House Worship",
-          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
-        }
-      ],
-      "duration_ms": 381287,
-      "name": "We Receive You",
-      "url": "https://open.spotify.com/track/7MJkXY0C4zD7pWpHZPX1HY"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "UNEXPECTED KING",
         "url": "https://open.spotify.com/album/7JiiLLPbmDA6fAyfmz3uME"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 221071,
       "name": "UNEXPECTED KING",
       "url": "https://open.spotify.com/track/10j0mfFINV55qklpdPkuNx"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "We Receive You",
+        "url": "https://open.spotify.com/album/3egr2L6YMwvbhJqblRVVtd"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "duration_ms": 381287,
+      "name": "We Receive You",
+      "url": "https://open.spotify.com/track/7MJkXY0C4zD7pWpHZPX1HY"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1063,6 +1063,30 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/1VVOQNtgF2kBEuM28GMBrq"
+      },
+      "artists": [
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 578990,
+      "name": "O Holy Night - Live at Bethel",
+      "url": "https://open.spotify.com/track/0lguURObfGlyk1d8HcOKSk"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "O Come Let Us Adore Him/The Blessing",
         "url": "https://open.spotify.com/album/0wIwPCv83L6SdEvsn3fg0U"
       },
@@ -1099,30 +1123,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Christmas Morning",
-        "url": "https://open.spotify.com/album/1VVOQNtgF2kBEuM28GMBrq"
-      },
-      "artists": [
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 578990,
-      "name": "O Holy Night - Live at Bethel",
-      "url": "https://open.spotify.com/track/0lguURObfGlyk1d8HcOKSk"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "O Come, O Come, Emmanuel / Hallelujah",
         "url": "https://open.spotify.com/album/0FoLVwWLXzFGwkIeLrrQZA"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 207272,
       "name": "O Come, O Come, Emmanuel / Hallelujah",
       "url": "https://open.spotify.com/track/7sphTNNSvt5Ewju1ESdLNB"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "When Christmas Comes",
-        "url": "https://open.spotify.com/album/3R2VCPanRYetPeXJ5bmDmj"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "O Come, O Come, Emmanuel",
-      "url": "https://open.spotify.com/track/4wV3z1k4Fhj3oJvlnABJhk"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1191,6 +1175,22 @@
       "duration_ms": 264400,
       "name": "It Came to Pass (Worthy, Worthy) (feat. Jon Guerra)",
       "url": "https://open.spotify.com/track/6MmIUCTupiIiZWFswz1VTm"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "When Christmas Comes",
+        "url": "https://open.spotify.com/album/3R2VCPanRYetPeXJ5bmDmj"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/4wV3z1k4Fhj3oJvlnABJhk"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Let Love Be The Gift",
+        "url": "https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD"
+      },
+      "artists": [
+        {
+          "name": "Trinity (NL)",
+          "url": "https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "Let Love Be The Gift",
+      "url": "https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/6VJ6sHlXtFu9QcXG7Xo2UD"
       },
@@ -1287,38 +1303,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Let Love Be The Gift",
-        "url": "https://open.spotify.com/album/2UDnw4ketZUlZkG5tYIiKD"
-      },
-      "artists": [
-        {
-          "name": "Trinity (NL)",
-          "url": "https://open.spotify.com/artist/3SDefVlv5kSzaP5QYZTSMx"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "Let Love Be The Gift",
-      "url": "https://open.spotify.com/track/2odizPRWsNy8y7ClC0W6er"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Heaven's Promise",
-        "url": "https://open.spotify.com/album/3fvVzf8L41NxU7sc1cirY1"
-      },
-      "artists": [
-        {
-          "name": "Victory House Worship",
-          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
-        }
-      ],
-      "duration_ms": 297709,
-      "name": "Heaven's Promise",
-      "url": "https://open.spotify.com/track/2RetvNRmOGrmk75zFXTqOj"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Crown Him (Glory in the Highest)",
         "url": "https://open.spotify.com/album/0V7o9iGSCjoeJ3QIkMnl5z"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 303330,
       "name": "Crown Him (Glory in the Highest)",
       "url": "https://open.spotify.com/track/4859UK92TjODjB39UrCZo4"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Heaven's Promise",
+        "url": "https://open.spotify.com/album/3fvVzf8L41NxU7sc1cirY1"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "duration_ms": 297709,
+      "name": "Heaven's Promise",
+      "url": "https://open.spotify.com/track/2RetvNRmOGrmk75zFXTqOj"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "What A Beautiful Night",
-        "url": "https://open.spotify.com/album/1iW04mNVEJMygZilDU8M3p"
-      },
-      "artists": [
-        {
-          "name": "Awaken Music",
-          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "What A Beautiful Night",
-      "url": "https://open.spotify.com/track/3lKMHxxIEdm9VNwvB5HlYs"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Worship in the Word, Christmas (Live)",
         "url": "https://open.spotify.com/album/6AMwxLTuB0LqgJdUsrWy4W"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 264244,
       "name": "Joy to the World (Joyful, Joyful) - Live",
       "url": "https://open.spotify.com/track/46m3G9WzGDLLtCVK4OK1VG"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "What A Beautiful Night",
+        "url": "https://open.spotify.com/album/1iW04mNVEJMygZilDU8M3p"
+      },
+      "artists": [
+        {
+          "name": "Awaken Music",
+          "url": "https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "What A Beautiful Night",
+      "url": "https://open.spotify.com/track/3lKMHxxIEdm9VNwvB5HlYs"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/1qoDwsC3WJFSR0X4qgUQMR"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Hart",
+          "url": "https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96"
+        },
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        }
+      ],
+      "duration_ms": 349187,
+      "name": "Emmanuel (Here With Us)",
+      "url": "https://open.spotify.com/track/6Diw01D88jm1v1VnpQnAW1"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Christmas Worship Songs",
         "url": "https://open.spotify.com/album/7H98Nf6YlCVEaXoxDz4NKH"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 195597,
       "name": "What Christmas Is All About",
       "url": "https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/1qoDwsC3WJFSR0X4qgUQMR"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Hart",
-          "url": "https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96"
-        },
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        }
-      ],
-      "duration_ms": 349187,
-      "name": "Emmanuel (Here With Us)",
-      "url": "https://open.spotify.com/track/6Diw01D88jm1v1VnpQnAW1"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "MANGER OF MY HEART",
-        "url": "https://open.spotify.com/album/7FCAJR4cTdqMG7hoTKNbsl"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 249642,
-      "name": "MANGER OF MY HEART",
-      "url": "https://open.spotify.com/track/0Vga9TGN4Xt6JDWSUNlhM7"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Christmas in Kentucky",
         "url": "https://open.spotify.com/album/45kEaPL2jSlqShBXgwfU3i"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 192280,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/5haky0l0zU8JXrY3toKhqO"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "MANGER OF MY HEART",
+        "url": "https://open.spotify.com/album/7FCAJR4cTdqMG7hoTKNbsl"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 249642,
+      "name": "MANGER OF MY HEART",
+      "url": "https://open.spotify.com/track/0Vga9TGN4Xt6JDWSUNlhM7"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Away In A Manger",
-        "url": "https://open.spotify.com/album/08qPNH3YKzorHO6QE1mIjT"
-      },
-      "artists": [
-        {
-          "name": "TaRanda Greene",
-          "url": "https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein"
-        },
-        {
-          "name": "Charles Billingsley",
-          "url": "https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Away In A Manger",
-      "url": "https://open.spotify.com/track/0z1d4DCIBxL0udJtYT1WOJ"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "An Influence Christmas",
         "url": "https://open.spotify.com/album/1FjH4ad26gU4gwDcIbYEVe"
       },
@@ -1967,22 +1947,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/1jvzch7TmbTMwjG1dtLt3q"
+        "name": "Away In A Manger",
+        "url": "https://open.spotify.com/album/08qPNH3YKzorHO6QE1mIjT"
       },
       "artists": [
         {
-          "name": "Fresh Life Worship",
-          "url": "https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E"
+          "name": "TaRanda Greene",
+          "url": "https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein"
         },
         {
-          "name": "Elizabeth Hashley",
-          "url": "https://open.spotify.com/artist/1yH10DFfrpwu3Nmlk69co5"
+          "name": "Charles Billingsley",
+          "url": "https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d"
         }
       ],
-      "duration_ms": 243882,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/5BQ77937qrD3MKERpbWq2l"
+      "duration_ms": 354360,
+      "name": "Away In A Manger",
+      "url": "https://open.spotify.com/track/0z1d4DCIBxL0udJtYT1WOJ"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2003,6 +1983,26 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Mary Did You Know",
+        "url": "https://open.spotify.com/album/4vlswBt1N2Y86NjgvcuseA"
+      },
+      "artists": [
+        {
+          "name": "Prestonwood Worship",
+          "url": "https://open.spotify.com/artist/0vj1ONO111GpehfAlHuYFs"
+        },
+        {
+          "name": "Michael Neale",
+          "url": "https://open.spotify.com/artist/1RfoR5qLjoy96pTpSkDzW9"
+        }
+      ],
+      "duration_ms": 338181,
+      "name": "Mary Did You Know",
+      "url": "https://open.spotify.com/track/7hbjYJFCL29uMATp8QofVI"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Mary Was The First One To Carry The Gospel",
         "url": "https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP"
       },
@@ -2015,6 +2015,46 @@
       "duration_ms": 287222,
       "name": "Mary Was The First One To Carry The Gospel",
       "url": "https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "It's All About You",
+        "url": "https://open.spotify.com/album/2nACCDrSqaEc2VVhW3fSFk"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        }
+      ],
+      "duration_ms": 228260,
+      "name": "First Noel (It's All About You)",
+      "url": "https://open.spotify.com/track/7DwrtWFajs2Nri6qioVXGf"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/1jvzch7TmbTMwjG1dtLt3q"
+      },
+      "artists": [
+        {
+          "name": "Fresh Life Worship",
+          "url": "https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E"
+        },
+        {
+          "name": "Elizabeth Hashley",
+          "url": "https://open.spotify.com/artist/1yH10DFfrpwu3Nmlk69co5"
+        }
+      ],
+      "duration_ms": 243882,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/5BQ77937qrD3MKERpbWq2l"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2079,26 +2119,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Mary Did You Know",
-        "url": "https://open.spotify.com/album/4vlswBt1N2Y86NjgvcuseA"
-      },
-      "artists": [
-        {
-          "name": "Prestonwood Worship",
-          "url": "https://open.spotify.com/artist/0vj1ONO111GpehfAlHuYFs"
-        },
-        {
-          "name": "Michael Neale",
-          "url": "https://open.spotify.com/artist/1RfoR5qLjoy96pTpSkDzW9"
-        }
-      ],
-      "duration_ms": 338181,
-      "name": "Mary Did You Know",
-      "url": "https://open.spotify.com/track/7hbjYJFCL29uMATp8QofVI"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/25qGXXBtKj4DeBFg0BUmz8"
       },
@@ -2127,26 +2147,6 @@
       "duration_ms": 212039,
       "name": "Good Christian Men Rejoice (Born to Reign)",
       "url": "https://open.spotify.com/track/2qqzGZcw3gAWQATZkwMlDp"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "It's All About You",
-        "url": "https://open.spotify.com/album/2nACCDrSqaEc2VVhW3fSFk"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Melody Noel",
-          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
-        }
-      ],
-      "duration_ms": 228260,
-      "name": "First Noel (It's All About You)",
-      "url": "https://open.spotify.com/track/7DwrtWFajs2Nri6qioVXGf"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Christmas Hymns",
+        "url": "https://open.spotify.com/album/0l89jg9sYlmX8GqxrnDM8k"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/3cT2hOmmVCb9ng9eNFfDjH"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "This Is Christmas",
         "url": "https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 210586,
       "name": "This Is Christmas",
       "url": "https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "If You Listen",
-        "url": "https://open.spotify.com/album/0zI9FCWpB5YBOw0Npi2ZLo"
-      },
-      "artists": [
-        {
-          "name": "Jeff & Sheri Easter",
-          "url": "https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm"
-        }
-      ],
-      "duration_ms": 252612,
-      "name": "If You Listen",
-      "url": "https://open.spotify.com/track/6ayW4lNxB2dxFU9Kb812lw"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Christmas Hymns",
-        "url": "https://open.spotify.com/album/0l89jg9sYlmX8GqxrnDM8k"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/3cT2hOmmVCb9ng9eNFfDjH"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Light Has Come",
         "url": "https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj"
       },
@@ -2275,6 +2259,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "If You Listen",
+        "url": "https://open.spotify.com/album/0zI9FCWpB5YBOw0Npi2ZLo"
+      },
+      "artists": [
+        {
+          "name": "Jeff & Sheri Easter",
+          "url": "https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm"
+        }
+      ],
+      "duration_ms": 252612,
+      "name": "If You Listen",
+      "url": "https://open.spotify.com/track/6ayW4lNxB2dxFU9Kb812lw"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "My Heart Would Be Your Bethlehem",
         "url": "https://open.spotify.com/album/2ZQL0DkMbtKd3H0iMH1BZW"
       },
@@ -2287,22 +2287,6 @@
       "duration_ms": 254534,
       "name": "My Heart Would Be Your Bethlehem",
       "url": "https://open.spotify.com/track/4osWMuu2sFE3mr50gO58Fp"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "Christmas Music",
-        "url": "https://open.spotify.com/album/1bBfEbeWu4hYkm0WDHmoD0"
-      },
-      "artists": [
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 343600,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/2TmHy0zXCglnqZiTNpmsQk"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2331,6 +2315,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Christmas Music",
+        "url": "https://open.spotify.com/album/1bBfEbeWu4hYkm0WDHmoD0"
+      },
+      "artists": [
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 343600,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2TmHy0zXCglnqZiTNpmsQk"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl"
       },
@@ -2343,6 +2343,22 @@
       "duration_ms": 210743,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "We Need A Little Christmas",
+        "url": "https://open.spotify.com/album/2L2eY86d7tkjo8XV5c2SeY"
+      },
+      "artists": [
+        {
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+        }
+      ],
+      "duration_ms": 328674,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4zQ2O3bAhEO1c0QI5cxJY5"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2371,22 +2387,6 @@
       "duration_ms": 189176,
       "name": "Home This Christmas",
       "url": "https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "We Need A Little Christmas",
-        "url": "https://open.spotify.com/album/2L2eY86d7tkjo8XV5c2SeY"
-      },
-      "artists": [
-        {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
-        }
-      ],
-      "duration_ms": 328674,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4zQ2O3bAhEO1c0QI5cxJY5"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2443,22 +2443,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Christmas Past",
-        "url": "https://open.spotify.com/album/3btctA0Xw5hPVAsZizRPLo"
-      },
-      "artists": [
-        {
-          "name": "WorshipMob",
-          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
-        }
-      ],
-      "duration_ms": 388475,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/6tYMJrhpToYlJdVK0IAOkE"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Advent Song (Christ Has Come)",
         "url": "https://open.spotify.com/album/5BDdcMskJYCIcGto5Brtg4"
       },
@@ -2499,6 +2483,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Christmas Past",
+        "url": "https://open.spotify.com/album/3btctA0Xw5hPVAsZizRPLo"
+      },
+      "artists": [
+        {
+          "name": "WorshipMob",
+          "url": "https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL"
+        }
+      ],
+      "duration_ms": 388475,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/6tYMJrhpToYlJdVK0IAOkE"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/2Y8WECLIhD8EvAexL4STpB"
       },
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "In The Bleak Midwinter",
-        "url": "https://open.spotify.com/album/4ofhPTJ6v2Q5879EdSIcR7"
-      },
-      "artists": [
-        {
-          "name": "John Van Deusen",
-          "url": "https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK"
-        }
-      ],
-      "duration_ms": 133626,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/1zyAzs5CrGGJaxzYSVvxUR"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Christ Is Born",
         "url": "https://open.spotify.com/album/3oOgSv4nf72OEPyLdehYbB"
       },
@@ -2583,6 +2567,22 @@
       "duration_ms": 215706,
       "name": "Joy to the World - Live",
       "url": "https://open.spotify.com/track/4cg1TCkWsyclRYmzB09mb3"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/4ofhPTJ6v2Q5879EdSIcR7"
+      },
+      "artists": [
+        {
+          "name": "John Van Deusen",
+          "url": "https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK"
+        }
+      ],
+      "duration_ms": 133626,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/1zyAzs5CrGGJaxzYSVvxUR"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Wonderful Christmas",
-        "url": "https://open.spotify.com/album/3HApLuo9xoWzb7ISKhWmHV"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 181571,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Go Tell It On The Mountain (Live)",
         "url": "https://open.spotify.com/album/35g98G1HBr3Dt5hzzmHBR6"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 202200,
       "name": "Go Tell It On The Mountain - Live",
       "url": "https://open.spotify.com/track/5bWg3hp1EpcNvpx2oIYOoZ"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Wonderful Christmas",
+        "url": "https://open.spotify.com/album/3HApLuo9xoWzb7ISKhWmHV"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 181571,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e"
     },
     {
       "added_at": "2025-12-12 06:51:53",

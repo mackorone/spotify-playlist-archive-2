@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,403 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,465 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [Pompous](https://open.spotify.com/track/4EfHXHVSCcWt64s8EkBQ0j) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow) | [Pompous](https://open.spotify.com/album/11ICxLbYsJT0eZ4mIJ0upJ) | 2:39 |
 | 60 | [No Be Kai Kai](https://open.spotify.com/track/0yePA8wX5uWMny5RIvfvmf) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [No Be Kai Kai](https://open.spotify.com/album/3GHjIA8OiEVTY03U7zia1f) | 2:29 |
 
-Snapshot ID: `AAAAAIReAWwqTK6zaIpoIXAgwfhmYQYo`
+Snapshot ID: `AAAAAAxi/GRtf1oaljEQ8mSivLMFtjm7`

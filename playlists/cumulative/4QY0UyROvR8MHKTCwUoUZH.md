@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-272 songs - 15 hr 5 min
+273 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [danny don't](https://open.spotify.com/track/3PtMxHx8skkd05SSfBOgYk) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [danny don't](https://open.spotify.com/album/3ecARtzyeGy9gtmq3iqRuR) | 3:51 | 2025-07-18 | 2025-08-30 |
 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 | 2025-11-14 | 2025-12-20 |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2025-07-18 | 2025-08-23 |
+| [Delancey](https://open.spotify.com/track/6bq0D6FrO8aRKonl0FFYT8) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-26 |  |
 | [Devil's Advocate](https://open.spotify.com/track/6hLwDKMnOEilYvgsfIFDjW) | [NAÉ](https://open.spotify.com/artist/0EyUhdpBF22OrhzmTd40p5) | [Devil's Advocate](https://open.spotify.com/album/70ktvnMQPRuGNVDJLz5Jx4) | 3:40 | 2026-02-27 |  |
 | [Die Happy](https://open.spotify.com/track/3EVLd2B0qKPCGItoVz9onn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:49 | 2026-04-17 |  |
 | [Die Light](https://open.spotify.com/track/0QzB4LiVyEA1yvvt4Ll2mR) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Die Light](https://open.spotify.com/album/5zKU8JHJgD8DBU7whj7K5K) | 2:55 | 2025-07-18 | 2025-08-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Felipe Ara\u00fajo, Panda o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Henry Freitas o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -11383,6 +11383,44 @@
     },
     {
       "album": {
+        "name": "\u00c9 o Baile do Japa NK",
+        "url": "https://open.spotify.com/album/72MiIktTaLRmAvnjViU7hw"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262158,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
+    },
+    {
+      "album": {
         "name": "Pactos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS"
       },
@@ -13848,7 +13886,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 164892,
       "name": "Se Eu Te Perdoar - Ao Vivo",
       "url": "https://open.spotify.com/track/4c4tcqYfqiFc527gqNdRE5"
@@ -14864,6 +14902,28 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Com Ela (Ao Vivo)",
+        "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168916,
+      "name": "S\u00f3 Com Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3"
     },
     {
       "album": {

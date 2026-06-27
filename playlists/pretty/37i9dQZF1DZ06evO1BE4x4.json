@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 7011,
+  "num_followers": 7014,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADAGNK0mrdU5RuVcCfprq3C",
+  "snapshot_id": "ajxvgAAAAACWyPt1yKmIQeEgiF5oWJh3",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
+        "name": "WACO (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 234414,
-      "name": "Tinderbox",
-      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
+      "duration_ms": 223521,
+      "name": "Lay Me Down - B-Side",
+      "url": "https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WACO (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1UgKkNTjwpodAXcVjKomnC"
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/6uWSyefA6d0g8mR1EljR89"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 223521,
-      "name": "Lay Me Down - B-Side",
-      "url": "https://open.spotify.com/track/0ZG80WaQJoqPeoHl48knRg"
+      "duration_ms": 234414,
+      "name": "Tinderbox",
+      "url": "https://open.spotify.com/track/4kzdwZS1CRsIb391XOeTcO"
     },
     {
       "added_at": null,

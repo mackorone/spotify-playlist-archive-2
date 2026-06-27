@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 50735,
+  "num_followers": 50781,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABAG1P5crDkpKjEyHeLrQQ3",
+  "snapshot_id": "ajxvgAAAAACG0/f+mi+fIMdkwmtj9w1c",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
       "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 156134,
-      "name": "Emo (Remix)",
-      "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
       "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+      "duration_ms": 156134,
+      "name": "Emo (Remix)",
+      "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "Goated",
+        "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 140240,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
+      "duration_ms": 138997,
+      "name": "Goated",
+      "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
     },
     {
       "added_at": null,
@@ -859,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goated",
-        "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 138997,
-      "name": "Goated",
-      "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
+      "duration_ms": 140240,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
     },
     {
       "added_at": null,

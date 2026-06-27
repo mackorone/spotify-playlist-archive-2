@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,838 songs - 4 day 1 hr 26 min
+1,839 songs - 4 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1750,6 +1750,7 @@
 | [Watching Over Me](https://open.spotify.com/track/4qopcEuWpl5asUDQ9Fan6l) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Watching Over Me](https://open.spotify.com/album/5n3A23v0indork34sZTUF3) | 3:25 | 2024-06-20 | 2024-10-19 |
 | [Watching Over Me](https://open.spotify.com/track/63Fu6cZVHFsxxeXEBvMBs6) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/6VxEbABUynP9EO928oMktg) | 4:37 | 2025-03-06 | 2025-04-25 |
 | [Watching Over Me](https://open.spotify.com/track/3ENgDvA9HoqMVd70QC3xmn) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Watching Over Me](https://open.spotify.com/album/3agisE9LVoqJBtC5uV0iTy) | 3:22 | 2025-12-12 |  |
+| [Waterman \(Bam Bam\)](https://open.spotify.com/track/272CgbRaq1yXCtTGg6qaHk) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Olav Basoski](https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi) | [Waterman \(Bam Bam\)](https://open.spotify.com/album/0mbzwi3dnpIaRghWdsdVZy) | 2:37 | 2026-06-26 |  |
 | [Waves](https://open.spotify.com/track/2q8EmGuKx14Ihp3sjaLuu1) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Waves](https://open.spotify.com/album/27sIExXAxl4haMaaAye4wE) | 2:39 | 2023-12-07 | 2024-06-08 |
 | [Way Back Home](https://open.spotify.com/track/2ZpL0ykp4gIyMxHam6vi6G) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Way Back Home](https://open.spotify.com/album/4I4yBrnQO22XwUh0iUYiSO) | 2:44 | 2022-11-10 | 2023-07-14 |
 | [Way That I Move](https://open.spotify.com/track/67Uq5J1QfWl2Hre2yqeHol) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Way That I Move](https://open.spotify.com/album/4Ka8StBPKfYwS8Hiuc7Dkj) | 2:27 | 2022-06-09 | 2022-09-09 |

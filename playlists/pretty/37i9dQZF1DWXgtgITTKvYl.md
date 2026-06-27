@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,609 likes - 75 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,670 likes - 75 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Power](https://open.spotify.com/track/5rCTw6Dejbj4NvJOkAbB5X) | [Geoff Tate](https://open.spotify.com/artist/4YGXSFiOaglXLDO92EDVeU) | [Operation: Mindcrime III](https://open.spotify.com/album/5kHX0ag9tSnc8LOdRYPtt5) | 3:30 |
 | 75 | [The World Is On Fire](https://open.spotify.com/track/4sq64jeNjTyjzfmpyhTeDH) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [The World Is On Fire](https://open.spotify.com/album/3fKP7tlP05jb8bGytqMikw) | 5:04 |
 
-Snapshot ID: `AAAAAEhs/+ahu0Ag1FB5pQFFr53ViQzp`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

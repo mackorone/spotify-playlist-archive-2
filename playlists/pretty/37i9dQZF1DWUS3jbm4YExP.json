@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 879396,
+  "num_followers": 879512,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -675,38 +675,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Road to Knowhere",
-        "url": "https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh"
-      },
-      "artists": [
-        {
-          "name": "Tommy Guerrero",
-          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "El camino negro",
-      "url": "https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Nuda Propriet\u00e0",
-        "url": "https://open.spotify.com/album/16nWe1V9fqPFYuspfzt5Nn"
-      },
-      "artists": [
-        {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
-        }
-      ],
-      "duration_ms": 190959,
-      "name": "Signora",
-      "url": "https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -727,6 +695,38 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Nuda Propriet\u00e0",
+        "url": "https://open.spotify.com/album/16nWe1V9fqPFYuspfzt5Nn"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "duration_ms": 190959,
+      "name": "Signora",
+      "url": "https://open.spotify.com/track/0jYE7oP3YhnaQuJNijQw5d"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Road to Knowhere",
+        "url": "https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Guerrero",
+          "url": "https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "El camino negro",
+      "url": "https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Tamat",
         "url": "https://open.spotify.com/album/1ksapQiT36FmK8nAUIgaah"
       },
@@ -743,22 +743,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
+        "name": "Alma\u2019s Cove",
+        "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Kabusa Oriental Choir",
-          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
         }
       ],
-      "duration_ms": 240587,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
+      "duration_ms": 234248,
+      "name": "Alma's Cove",
+      "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -779,18 +775,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Alma\u2019s Cove",
-        "url": "https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre"
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/04asBtmK3GCvnjDvEVKefV"
       },
       "artists": [
         {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Kabusa Oriental Choir",
+          "url": "https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj"
         }
       ],
-      "duration_ms": 234248,
-      "name": "Alma's Cove",
-      "url": "https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq"
+      "duration_ms": 240587,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/7nDdoz7NIXvWArl6a0XhN0"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
       "artists": [
         {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
         }
       ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
       "artists": [
         {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
         }
       ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Beyond Our Shores",
         "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/2nluLEKj1JcPZAZ1l53aM4"
       },
       "artists": [
         {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
         }
       ],
-      "duration_ms": 172777,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
+      "duration_ms": 211976,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4gU95TkHTH4rhrTMPSHLtP"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1751,22 +1767,6 @@
       "duration_ms": 162707,
       "name": "Djanne",
       "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "This Feeling",
-        "url": "https://open.spotify.com/album/2nluLEKj1JcPZAZ1l53aM4"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 211976,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/4gU95TkHTH4rhrTMPSHLtP"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Keep Me On The Dancefloor",
         "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 248659,
       "name": "Samarin Bolga",
       "url": "https://open.spotify.com/track/6P2HSEAhpvApOQ7PTGDcj0"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Los Santos y Pecadores",
-        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198767,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Thonga Lami (Gaudi Remix)",
-        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
-      },
-      "artists": [
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
-        }
-      ],
-      "duration_ms": 351124,
-      "name": "Thonga Lami - Gaudi Remix",
-      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Dubby Sunday",
         "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
       },
@@ -2191,6 +2171,26 @@
       "duration_ms": 348662,
       "name": "Dubby Sunday",
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Thonga Lami (Gaudi Remix)",
+        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 351124,
+      "name": "Thonga Lami - Gaudi Remix",
+      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2223,6 +2223,22 @@
       "duration_ms": 190229,
       "name": "Every Trick in the Book",
       "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Napoletana (Dance Rituals)",
+        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        }
+      ],
+      "duration_ms": 224564,
+      "name": "Napoletana - Dance Rituals",
+      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2287,22 +2303,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Kodak",
-        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 176083,
-      "name": "Kodak",
-      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Space Echo (Analog Africa No. 20)",
         "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
       },
@@ -2315,22 +2315,6 @@
       "duration_ms": 276981,
       "name": "Dia Ja Manche",
       "url": "https://open.spotify.com/track/4DZ8RCTKx5swCemyBYcgaH"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Napoletana (Dance Rituals)",
-        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "Napoletana - Dance Rituals",
-      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2351,6 +2335,38 @@
       "duration_ms": 304334,
       "name": "Water of Life",
       "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Kodak",
+        "url": "https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "Kodak",
+      "url": "https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2387,42 +2403,6 @@
       "duration_ms": 461120,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2479,6 +2459,26 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
         "name": "Fully Loaded",
         "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
       },
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 208444,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
-    },
-    {
-      "added_at": "2026-06-25 22:02:54",
-      "album": {
         "name": "Hafa",
         "url": "https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI"
       },
@@ -2547,18 +2531,18 @@
     {
       "added_at": "2026-06-25 22:02:54",
       "album": {
-        "name": "Felony / Rile 'Em Up",
-        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2856TPVKxbekMQKvCkNYiz"
       },
       "artists": [
         {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
         }
       ],
-      "duration_ms": 197172,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
+      "duration_ms": 208444,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/09NQA1y2NeEWxhqNBveQQY"
     },
     {
       "added_at": "2026-06-25 22:02:54",
@@ -2575,6 +2559,22 @@
       "duration_ms": 304333,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
+    },
+    {
+      "added_at": "2026-06-25 22:02:54",
+      "album": {
+        "name": "Felony / Rile 'Em Up",
+        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
     },
     {
       "added_at": "2026-06-25 22:02:54",

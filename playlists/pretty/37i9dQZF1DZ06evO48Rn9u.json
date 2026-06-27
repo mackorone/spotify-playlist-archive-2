@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 155371,
+  "num_followers": 155396,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACF348OnIHPxzUXVKdybBPm",
+  "snapshot_id": "ajxvgAAAAAA1iXo2fgP5/fX9F6IdoU/C",
   "tracks": [
     {
       "added_at": null,
@@ -99,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
       "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
       "added_at": null,
@@ -131,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
       "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apologize + See You Again (Acoustic)",
-        "url": "https://open.spotify.com/album/74OL4hEPYhlA7k8iWOlcxF"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "Apologize - Acoustic Version",
-      "url": "https://open.spotify.com/track/3NSdgXx0p5mcQTjcs50n9C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 213571,
       "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
       "url": "https://open.spotify.com/track/4XWaUb7mKRcJR5RPp4IIDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apologize + See You Again (Acoustic)",
+        "url": "https://open.spotify.com/album/74OL4hEPYhlA7k8iWOlcxF"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "Apologize - Acoustic Version",
+      "url": "https://open.spotify.com/track/3NSdgXx0p5mcQTjcs50n9C"
     },
     {
       "added_at": null,

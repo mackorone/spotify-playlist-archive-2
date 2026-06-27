@@ -1,13 +1,93 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: AD\u00c9LA",
-  "num_followers": 1785896,
+  "description": "Sit back and relax to the chillest pop.  Cover: Ryan Beatty",
+  "num_followers": 1785676,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAATTYqbVSjKqpurQtNbvtsY/cDjj",
+  "snapshot_id": "AAAAAJR4jvHv3BaMJo6heToAXoX3moc7",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+    },
+    {
+      "added_at": "2026-05-15 19:31:50",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "Where Have All The Good Men Gone?",
+        "url": "https://open.spotify.com/album/2T4mLc6SKNUBQZvdbD8Vt9"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 168215,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/5RbmvXlg7WFVqFZtxv9ATO"
+    },
+    {
+      "added_at": "2026-06-12 04:43:22",
+      "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190199,
+      "name": "I Knew It, I Knew You - Piano Version (From \"Toy Story 5\")",
+      "url": "https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "BAD COMPANY",
+        "url": "https://open.spotify.com/album/11NO5t5VTniRy4dJOxQ1EC"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 173409,
+      "name": "BAD COMPANY",
+      "url": "https://open.spotify.com/track/6l8EVqC5hJbYzys0N3QXAN"
+    },
     {
       "added_at": "2026-06-12 04:11:55",
       "album": {
@@ -25,20 +105,132 @@
       "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
     },
     {
-      "added_at": "2026-05-15 19:31:50",
+      "added_at": "2026-06-26 04:00:34",
       "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "name": "Water The Flowers",
+        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 223332,
-      "name": "Mexico Honey",
-      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+      "duration_ms": 150994,
+      "name": "Water The Flowers",
+      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/4OmNQi3AudOnWKdhTQpkD7"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 212861,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74"
+    },
+    {
+      "added_at": "2026-05-29 04:02:52",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
+    },
+    {
+      "added_at": "2026-06-05 04:01:27",
+      "album": {
+        "name": "it\u2019s a real Cruel World",
+        "url": "https://open.spotify.com/album/7a6MlcuS6BtHHwSzIxGiH3"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "it\u2019s just White Noise",
+      "url": "https://open.spotify.com/track/390rTowRCM4fY7XNNvkwSE"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "Super Superficial",
+        "url": "https://open.spotify.com/album/70AfF57rFFsYiPikgs5ODw"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 146217,
+      "name": "Super Superficial",
+      "url": "https://open.spotify.com/track/04Dkv6Mde5HWHPiH4hdtfN"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 166459,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/405gNtjLCgRcqod42hooqR"
+    },
+    {
+      "added_at": "2026-06-26 04:00:34",
+      "album": {
+        "name": "Liar Out Of Me",
+        "url": "https://open.spotify.com/album/5H68xqeJ7cvT7Jl8KbupQK"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 176253,
+      "name": "Liar Out Of Me",
+      "url": "https://open.spotify.com/track/4gkYx1zSCdMEpvoqbCDmdE"
     },
     {
       "added_at": "2026-06-19 04:01:10",
@@ -73,22 +265,6 @@
       "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
     },
     {
-      "added_at": "2026-05-29 04:02:52",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
       "added_at": "2026-05-08 04:01:35",
       "album": {
         "name": "Jeep",
@@ -105,22 +281,6 @@
       "url": "https://open.spotify.com/track/2NePND1BuFcrVdrDFR2HsS"
     },
     {
-      "added_at": "2026-06-12 04:43:22",
-      "album": {
-        "name": "I Knew It, I Knew You",
-        "url": "https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190199,
-      "name": "I Knew It, I Knew You - Piano Version",
-      "url": "https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX"
-    },
-    {
       "added_at": "2026-06-12 04:11:55",
       "album": {
         "name": "Kicking My Feet & Screaming",
@@ -135,22 +295,6 @@
       "duration_ms": 184417,
       "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
-    },
-    {
-      "added_at": "2026-06-05 04:01:27",
-      "album": {
-        "name": "it\u2019s a real Cruel World",
-        "url": "https://open.spotify.com/album/7a6MlcuS6BtHHwSzIxGiH3"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "it\u2019s just White Noise",
-      "url": "https://open.spotify.com/track/390rTowRCM4fY7XNNvkwSE"
     },
     {
       "added_at": "2026-05-22 04:01:51",
@@ -281,22 +425,6 @@
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
-      "added_at": "2026-05-22 04:01:51",
-      "album": {
-        "name": "sailing",
-        "url": "https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 244221,
-      "name": "sailing",
-      "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
-    },
-    {
       "added_at": "2026-05-15 04:01:37",
       "album": {
         "name": "Too Busy Missing You",
@@ -423,22 +551,6 @@
       "duration_ms": 181278,
       "name": "Say It Baby",
       "url": "https://open.spotify.com/track/44aaJSJ7Is6mtw61i2Xebl"
-    },
-    {
-      "added_at": "2026-05-29 04:02:52",
-      "album": {
-        "name": "Something to Hope For",
-        "url": "https://open.spotify.com/album/2w9oISdB9Gp5dO068DHzWm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        }
-      ],
-      "duration_ms": 201099,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0ADyw9trqLWFrstpPVQd8Y"
     },
     {
       "added_at": "2026-05-15 04:01:37",
@@ -599,22 +711,6 @@
       "duration_ms": 167000,
       "name": "Therapy at the Club",
       "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
-    },
-    {
-      "added_at": "2026-05-01 04:03:47",
-      "album": {
-        "name": "Just A Man",
-        "url": "https://open.spotify.com/album/6nNJN0zUE7bA10yPeeAaXX"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Just A Man",
-      "url": "https://open.spotify.com/track/38EJZ2NYDdLCSViiJkubRu"
     },
     {
       "added_at": "2026-05-15 04:01:37",
@@ -785,22 +881,6 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-05-08 04:01:35",
-      "album": {
-        "name": "Never Be Friends",
-        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 179189,
-      "name": "Never Be Friends",
-      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
-    },
-    {
       "added_at": "2026-04-10 04:01:32",
       "album": {
         "name": "A Matter of Time: The Final Hour",
@@ -815,22 +895,6 @@
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
-    },
-    {
-      "added_at": "2026-05-08 04:01:35",
-      "album": {
-        "name": "Baccarat Rouge",
-        "url": "https://open.spotify.com/album/2VF3BSEMw6jGdgWBauItIQ"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 163557,
-      "name": "Baccarat Rouge",
-      "url": "https://open.spotify.com/track/444zT9uwxx7sbqkNrqt7kC"
     },
     {
       "added_at": "2026-05-01 04:03:47",
@@ -853,22 +917,6 @@
       "url": "https://open.spotify.com/track/5U6eOve1EBA0Z1v2zTomF1"
     },
     {
-      "added_at": "2026-05-22 04:01:51",
-      "album": {
-        "name": "KODACHROMATIC",
-        "url": "https://open.spotify.com/album/0SmsDmuBvapjk6uVgh5zVa"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 173656,
-      "name": "KODACHROMATIC",
-      "url": "https://open.spotify.com/track/2O8AJk9ggC9ZGQgX2gWE8i"
-    },
-    {
       "added_at": "2026-03-27 04:00:28",
       "album": {
         "name": "Carry On",
@@ -883,22 +931,6 @@
       "duration_ms": 168767,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-04-24 04:00:13",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/7n4Uz5DQPoPvyHTvTvtvCI"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "17",
-      "url": "https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1"
     },
     {
       "added_at": "2026-04-03 04:01:40",
@@ -1217,22 +1249,6 @@
       "url": "https://open.spotify.com/track/2ObIu129zXkIbMtGdZode0"
     },
     {
-      "added_at": "2026-02-27 18:35:08",
-      "album": {
-        "name": "picky choosy",
-        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 173988,
-      "name": "picky choosy",
-      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
-    },
-    {
       "added_at": "2026-04-03 04:01:40",
       "album": {
         "name": "the van",
@@ -1247,22 +1263,6 @@
       "duration_ms": 178001,
       "name": "the van",
       "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
-    },
-    {
-      "added_at": "2026-04-03 04:01:40",
-      "album": {
-        "name": "Daredevil",
-        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Daredevil",
-      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
     },
     {
       "added_at": "2026-04-10 04:01:32",

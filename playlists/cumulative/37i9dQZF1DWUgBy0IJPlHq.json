@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Bella White",
+  "description": "A new shade of Country. Cover: Willow Avalon",
   "name": "Indigo",
   "tracks": [
     {
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184894,
       "name": "Burn On",
       "url": "https://open.spotify.com/track/2eOcSHumsqdyoLbrsOQJoJ"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 203320,
       "name": "Dusty Roses",
       "url": "https://open.spotify.com/track/5kpiJXbNsV0ZLnNfwunHjN"
@@ -4752,6 +4752,28 @@
       "duration_ms": 275054,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
+    },
+    {
+      "album": {
+        "name": "Feelin' Good Again",
+        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216502,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
     },
     {
       "album": {
@@ -5365,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Ghost Lives",
+        "url": "https://open.spotify.com/album/2G1qtvEz2qdTI5s3A0BZgh"
+      },
+      "artists": [
+        {
+          "name": "Theo Kandel",
+          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226647,
+      "name": "Ghost Lives",
+      "url": "https://open.spotify.com/track/2diVSumIYeijG80qjMMKRH"
+    },
+    {
+      "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK"
       },
@@ -5658,7 +5698,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 212687,
       "name": "Gone",
       "url": "https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8"
@@ -10350,7 +10390,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 236739,
       "name": "Pink Living Room",
       "url": "https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar"
@@ -10847,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "Pink Pocket Pistol",
+        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220474,
+      "name": "Raining Inside",
+      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
+    },
+    {
+      "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/4D6qrnkYiOb6sWhEJNMW2b"
       },
@@ -11120,6 +11178,24 @@
       "duration_ms": 156178,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq"
+    },
+    {
+      "album": {
+        "name": "Robbing A Bank",
+        "url": "https://open.spotify.com/album/2YkpojFUBlvm2zaOdvpTx4"
+      },
+      "artists": [
+        {
+          "name": "Hunter Flynn",
+          "url": "https://open.spotify.com/artist/5j6t35Ik2EoS5efJDxOAS2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210039,
+      "name": "Robbing A Bank",
+      "url": "https://open.spotify.com/track/2OQIoEBvv9BgAiaT4arWTL"
     },
     {
       "album": {
@@ -11665,6 +11741,24 @@
     },
     {
       "album": {
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174789,
+      "name": "Should\u2019ve Known Better",
+      "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
+    },
+    {
+      "album": {
         "name": "Shovel",
         "url": "https://open.spotify.com/album/7EmzD2qF9Fa101ov4UIL8P"
       },
@@ -11788,7 +11882,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 272722,
       "name": "Six O'Clock News",
       "url": "https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE"
@@ -12541,6 +12635,24 @@
     },
     {
       "album": {
+        "name": "Sunrise on the Absaroke",
+        "url": "https://open.spotify.com/album/3DV6tMGSupZIWxaEWFPl5O"
+      },
+      "artists": [
+        {
+          "name": "Wild Horses",
+          "url": "https://open.spotify.com/artist/5uUudUq1Ignnm2v3BMX88D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "Sunrise on the Absaroke",
+      "url": "https://open.spotify.com/track/2SWzVj3mfz7TyFbOsECc21"
+    },
+    {
+      "album": {
         "name": "Sunrise Tells The Story",
         "url": "https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0"
       },
@@ -12570,7 +12682,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 218910,
       "name": "Supertramp",
       "url": "https://open.spotify.com/track/2VBZWISe1VI2Tt48ciX5Qj"

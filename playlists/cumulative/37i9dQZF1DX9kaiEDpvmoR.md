@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-593 songs - 1 day 11 hr 7 min
+594 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Jag vill tacka livet](https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Så mycket bättre 2024 \(Tolkningarna\)](https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq) | 3:57 | 2024-10-24 | 2025-05-02 |
 | [Jag vände aldrig om](https://open.spotify.com/track/5m3P3SMrHH3GW5O44H88Af) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Jag vände aldrig om](https://open.spotify.com/album/3859Rp7oMrd8bRJv1DYKuT) | 3:36 | 2025-05-29 | 2025-06-27 |
 | [Jag är på väg igen](https://open.spotify.com/track/4WjN78YNJnxBuif5QHjRaI) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Jag är på väg igen](https://open.spotify.com/album/4qRHL64zHw3EcVIGuI2ohf) | 3:29 | 2026-01-22 | 2026-05-10 |
+| [Jealous Lover](https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jealous Lover](https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM) | 3:49 | 2026-06-25 |  |
 | [John Denver](https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG) | [A Choir of Ghosts](https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L), [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [John Denver](https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG) | 3:07 | 2024-06-27 | 2024-09-20 |
 | [Josephine](https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Josephine](https://open.spotify.com/album/4uOsx4KUO4ziKOeKQOZhpH) | 3:43 | 2024-09-12 | 2024-11-10 |
 | [Just Because](https://open.spotify.com/track/7Fft5fn4VlRMv3cFiYHbo5) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Become A Light](https://open.spotify.com/album/1SXQyMhQalnohCyxpP4DXy) | 3:11 | 2025-09-25 | 2026-02-27 |
@@ -556,7 +557,7 @@
 | [Vinterdvala](https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Vinterdvala](https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil) | 3:29 | 2025-11-27 | 2026-05-08 |
 | [VM\-guld](https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [VM\-guld](https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf) | 3:11 | 2026-05-07 |  |
 | [Voice Of The Silent](https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [Voice Of The Silent](https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh) | 2:49 | 2025-01-31 | 2025-08-26 |
-| [Väntar på skymningen](https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Terra Firma](https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx) | 4:19 | 2026-05-28 |  |
+| [Väntar på skymningen](https://open.spotify.com/track/5wd14V8xbTcdrs5abonI11) | [Familjen](https://open.spotify.com/artist/1jBFgqfCh0pz5eNIWFvJGQ) | [Terra Firma](https://open.spotify.com/album/25wFRAWqO0FCUvZKwcINnx) | 4:19 | 2026-05-28 | 2026-06-27 |
 | [Världen kommer snurra ändå](https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Världen kommer snurra ändå](https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG) | 2:49 | 2026-06-11 |  |
 | [Vår bästa tid](https://open.spotify.com/track/5v1oyyCiPfOtesq1lsuNDE) | [Josefine Götestam](https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju) | [Vår bästa tid](https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5) | 3:36 | 2025-06-12 | 2026-02-13 |
 | [Vår vänskap består](https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD) | [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx), [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [Vår vänskap består](https://open.spotify.com/album/54oMR3z8WrNjOGnijVXK8x) | 2:50 | 2024-09-19 | 2025-01-10 |

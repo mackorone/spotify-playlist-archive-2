@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235148,
+  "num_followers": 235132,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACBfxQ0HDdHBp5AMXJI0XUG",
+  "snapshot_id": "ajxvgAAAAACXb0DyUGzzBaJ3UZ/4W+g8",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cena Musical Latina",
-        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Despertar: Reggaeton",
         "url": "https://open.spotify.com/album/4zE5Cz09g8ZMcuLCbbOI4A"
       },
@@ -691,28 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Caminos De Luz",
-      "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+        "name": "Cena Musical Latina",
+        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
       },
       "artists": [
         {
@@ -720,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 123506,
-      "name": "Amy, Amy",
-      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
     },
     {
       "added_at": null,
@@ -743,6 +707,42 @@
       "duration_ms": 149589,
       "name": "tqum",
       "url": "https://open.spotify.com/track/3TQzwGfw73310RvuqBLEYb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Amy, Amy",
+      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Caminos De Luz",
+      "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 182133,
-      "name": "Milagrito",
-      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
+      "duration_ms": 208133,
+      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
+      "duration_ms": 182133,
+      "name": "Milagrito",
+      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 187906,
-      "name": "El Cielo En Brazos De Pap\u00e1",
-      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
+      "duration_ms": 242906,
+      "name": "Late Mi Coraz\u00f3n - Version Pop",
+      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Late Mi Coraz\u00f3n - Version Pop",
-      "url": "https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi"
+      "duration_ms": 187906,
+      "name": "El Cielo En Brazos De Pap\u00e1",
+      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 177786,
-      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
-      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+      "duration_ms": 165613,
+      "name": "Pablo Y Andrea",
+      "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
     },
     {
       "added_at": null,
@@ -951,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Pablo Y Andrea",
-      "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
+      "duration_ms": 177786,
+      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
+      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
     },
     {
       "added_at": null,

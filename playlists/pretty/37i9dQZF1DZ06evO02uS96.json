@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169476,
+  "num_followers": 169479,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADLPgss7E5Xm7Igs73CeqMD",
+  "snapshot_id": "ajxvgAAAAACRsKjm5mdvVhbEe9Vkp1Ci",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 294930,
-      "name": "\u671d\u304c\u6765\u308b",
-      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Bouquet",
         "url": "https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 251578,
       "name": "Little Bouquet",
       "url": "https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 294930,
+      "name": "\u671d\u304c\u6765\u308b",
+      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 350933,
-      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u767d\u8272\u8709\u8763",
         "url": "https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 191803,
       "name": "\u767d\u8272\u8709\u8763",
       "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 350933,
+      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "o1",
-        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
       "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
         {
           "name": "Aimer",
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 274626,
-      "name": "s-AVE",
-      "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
+      "duration_ms": 281558,
+      "name": "Blind to you - Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022",
+      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+        "name": "o1",
+        "url": "https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL"
       },
       "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
         {
           "name": "Aimer",
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 281558,
-      "name": "Blind to you - Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022",
-      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
+      "duration_ms": 274626,
+      "name": "s-AVE",
+      "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
     },
     {
       "added_at": null,

@@ -1,15 +1,271 @@
 {
-  "description": "Here are the clues to find Krypto!\n1. Supergirl's \"official\" tracks\n2. Superman's \"official\" tracks\n3. Supergirl's theme song \n4. Superman's theme song",
-  "num_followers": 12055,
+  "description": "The official Supergirl soundtrack \u2014 plus songs handpicked by the cast and crew that define Supergirl, Ruthye, and Lobo.",
+  "num_followers": 13455,
   "original_name": "Supergirl Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGE/z0R3u6RO5gRk0W9LzCZ7FuYz",
+  "snapshot_id": "AAAAAIme3dLkF6/AIGQPLpcxotkRFBs2",
   "tracks": [
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Bunky Becky Birthday Boy",
+        "url": "https://open.spotify.com/album/0jFDQr2f0BdbnRZtPX3RbG"
+      },
+      "artists": [
+        {
+          "name": "Sleigh Bells",
+          "url": "https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "This Summer",
+      "url": "https://open.spotify.com/track/3o0PKl48N6aeRkNeGYKUNj"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Days Ahead",
+        "url": "https://open.spotify.com/album/7CZeYG5FWAZIfD4qhrfh4e"
+      },
+      "artists": [
+        {
+          "name": "Werner Niedermeier",
+          "url": "https://open.spotify.com/artist/5khIBLnjKmMxakI2BWKCIx"
+        }
+      ],
+      "duration_ms": 368500,
+      "name": "Digital Tattoo",
+      "url": "https://open.spotify.com/track/7BVFJk5aGg3iJopZNDDF9Y"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Tous les gar\u00e7ons et les filles",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour - Stereo Mix",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 188514,
+      "name": "catch these fists",
+      "url": "https://open.spotify.com/track/5yz4ZfLeZ3VdqDM2l8wjjg"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Good News For People Who Love Bad News",
+        "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Satin In A Coffin",
+      "url": "https://open.spotify.com/track/604fgWYaIUfr9UtBe9bj1p"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196804,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "(I've Got) Trouble In Mind: 7\" and Rare Stuff 2009/2014",
+        "url": "https://open.spotify.com/album/6KO5s7sIvdVtcirHjLrGIE"
+      },
+      "artists": [
+        {
+          "name": "The Limi\u00f1anas",
+          "url": "https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "(I've Got) Trouble In Mind",
+      "url": "https://open.spotify.com/track/10xhou0oMhzFZdINhIMJGk"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "The Girl From Ipanema - Single Version",
+      "url": "https://open.spotify.com/track/4qGfJb2KByjvzrwo8HNibg"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Irving Berlin Song Book",
+        "url": "https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/3MRu7wA7ziRNf2cZr9gqtb"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/2vMFO30YvEX3PQFKO1nVLZ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Death By Sexy",
+        "url": "https://open.spotify.com/album/0AgI6ZUDtSE5pQsXBT7Xlm"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Don't Speak (I Came To Make A Bang!)",
+      "url": "https://open.spotify.com/track/0M8v2TOIH4jkFXvU6IJHYd"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/1h6qfkC6dM4kQq8uaduYkk"
+      },
+      "artists": [
+        {
+          "name": "Kelty Greye",
+          "url": "https://open.spotify.com/artist/61hxbfka98EVNkcgMC8dDI"
+        },
+        {
+          "name": "KidMotel",
+          "url": "https://open.spotify.com/artist/3ws3fbTCWxMsCErhegVvZp"
+        }
+      ],
+      "duration_ms": 182485,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/2S0l55osy4NhbaDeUQ86FY"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Supergirl Official Playlist Introductions",
         "url": "https://open.spotify.com/album/033yQxI9yLPoJYo7BkgrcZ"
@@ -25,7 +281,7 @@
       "url": "https://open.spotify.com/episode/6ImaXc1MfJMBYE1w1H06jx"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Life's Too Good",
         "url": "https://open.spotify.com/album/4H4MkUPiL7qlpZfO2SYO1u"
@@ -41,7 +297,7 @@
       "url": "https://open.spotify.com/track/0WSTUuw7gP80yTcEkL7oXc"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "B-52's",
         "url": "https://open.spotify.com/album/4VcKXOCUzcrxltYt0Jyqfk"
@@ -57,7 +313,7 @@
       "url": "https://open.spotify.com/track/0gEeV3AKllRnkBO4Kx3sFE"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Comfort To Me",
         "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
@@ -73,7 +329,7 @@
       "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
@@ -89,7 +345,7 @@
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
@@ -105,7 +361,7 @@
       "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -121,7 +377,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The La's (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
@@ -137,7 +393,7 @@
       "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "3D Country",
         "url": "https://open.spotify.com/album/4RT2pNX9ZXCB0LtqfI2sdJ"
@@ -153,7 +409,7 @@
       "url": "https://open.spotify.com/track/4gFFHAj5iwUEHwPpjZTdi5"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Sometimes I Sit And Think, And Sometimes I Just Sit",
         "url": "https://open.spotify.com/album/1F0II6fZbrtJf7D0meTP9J"
@@ -169,7 +425,7 @@
       "url": "https://open.spotify.com/track/5C7EkyDvEipqgICGItSgkg"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
@@ -185,7 +441,7 @@
       "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
@@ -201,7 +457,7 @@
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Hunky Dory (2015 Remaster)",
         "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
@@ -217,7 +473,7 @@
       "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -233,7 +489,7 @@
       "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
@@ -249,7 +505,7 @@
       "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
@@ -265,7 +521,7 @@
       "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/4bH0EjYwaCI4UmjBkq6ScT"
@@ -281,7 +537,7 @@
       "url": "https://open.spotify.com/track/1gI1BuQAiwo5UiUEOlLpv4"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "feel again",
         "url": "https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4"
@@ -297,7 +553,7 @@
       "url": "https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
@@ -313,7 +569,7 @@
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
@@ -329,7 +585,7 @@
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Good News For People Who Love Bad News",
         "url": "https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0"
@@ -345,7 +601,7 @@
       "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Comfort To Me",
         "url": "https://open.spotify.com/album/09hDOH6485A7SIg1FmpuX2"
@@ -361,7 +617,7 @@
       "url": "https://open.spotify.com/track/0ZPPdsGd5AGHndPiUpmXXm"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
@@ -377,7 +633,7 @@
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
@@ -393,7 +649,7 @@
       "url": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Alexandria The Great",
         "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
@@ -409,7 +665,7 @@
       "url": "https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
@@ -425,7 +681,7 @@
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Supergirl Suite (from \"Supergirl\")",
         "url": "https://open.spotify.com/album/51c3yVmdf5Zz7FD8YAmmT8"
@@ -441,7 +697,7 @@
       "url": "https://open.spotify.com/track/6ayDWtDlYQCt2TCMBRmGfa"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Supergirl Official Playlist Introductions",
         "url": "https://open.spotify.com/album/033yQxI9yLPoJYo7BkgrcZ"
@@ -457,7 +713,7 @@
       "url": "https://open.spotify.com/episode/0lQSzKcUOyaWUMAi0Ve93z"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
@@ -473,7 +729,7 @@
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Deadboys In Trash City",
         "url": "https://open.spotify.com/album/2veXhFJuE6bmq9ZTu5fN9v"
@@ -489,7 +745,7 @@
       "url": "https://open.spotify.com/track/3QsRvvlv90tBrA9NhEF7Mw"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
@@ -505,7 +761,7 @@
       "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Wasted",
         "url": "https://open.spotify.com/album/6GsC4q2IZdX6z9lpteWBUi"
@@ -521,7 +777,7 @@
       "url": "https://open.spotify.com/track/1tDnEbnmicLrPX2u3NZrd6"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Heart On",
         "url": "https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT"
@@ -537,7 +793,7 @@
       "url": "https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Sick Ride",
         "url": "https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ"
@@ -553,7 +809,7 @@
       "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Joy as an Act of Resistance.",
         "url": "https://open.spotify.com/album/2JLMlrYV74wjlOqgsm2hfX"
@@ -569,7 +825,7 @@
       "url": "https://open.spotify.com/track/0mXDySw7m2OXK6Wd9hc9Js"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Ready to Rock",
         "url": "https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05"
@@ -585,7 +841,7 @@
       "url": "https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
@@ -601,7 +857,7 @@
       "url": "https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Not Like This",
         "url": "https://open.spotify.com/album/1gk7HTn8YR862ztkbNzUbq"
@@ -617,7 +873,7 @@
       "url": "https://open.spotify.com/track/5YPRgUK8eF20FoTCyJ6AFZ"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Venomous Anonymous",
         "url": "https://open.spotify.com/album/2M6h5tLrNpD00yN32EWX05"
@@ -633,7 +889,7 @@
       "url": "https://open.spotify.com/track/6M80myfqcsTxwbTbEXBPLz"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3hjZjdVy4Bw28GNWUVwgU1"
@@ -649,7 +905,7 @@
       "url": "https://open.spotify.com/track/0Cun52BuXpERxDZxoqfNFK"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Meliora (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
@@ -665,7 +921,7 @@
       "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Somethings Drippin",
         "url": "https://open.spotify.com/album/6G3TclIPTonPq9dQkCiRE0"
@@ -681,7 +937,7 @@
       "url": "https://open.spotify.com/track/5RqBfTw7YCqnzRd6GfZQod"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
@@ -697,7 +953,7 @@
       "url": "https://open.spotify.com/track/7mczLeiFeYKRb7vtiPjuMb"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Dance Devil Dance",
         "url": "https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2"
@@ -713,7 +969,7 @@
       "url": "https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "F.U.B.A.R.",
         "url": "https://open.spotify.com/album/3rWQy6wSYDfa4fvKACpqDl"
@@ -729,7 +985,7 @@
       "url": "https://open.spotify.com/track/5exrFmdcgAroorWWWa3cud"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Splid",
         "url": "https://open.spotify.com/album/3hezqRj51eBpGkWPWsyTHX"
@@ -745,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4fNQbIKxWcy4h07tknFZdd"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Spidergawd VI",
         "url": "https://open.spotify.com/album/70EGqcOMAJCLlVfKXSYZtT"
@@ -761,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2tHW609FTX3RixUirZiPiD"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Saccharine",
         "url": "https://open.spotify.com/album/35LfBQWwFx2xgH6Z12ZiHQ"
@@ -777,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3TcjPpahFsQWbUvHKwmLYm"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Floodland",
         "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
@@ -793,7 +1049,7 @@
       "url": "https://open.spotify.com/track/2ZiAhZOpTjNgh3JpTGYAyh"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Bad Pack",
         "url": "https://open.spotify.com/album/5Lyx6sAbedH1Stki1Q4uYc"
@@ -809,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3i6jb9Xn8RkTQPe27shd3G"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Brutal Planet",
         "url": "https://open.spotify.com/album/4wvPlwDRXF2nfZStixPI9S"
@@ -825,7 +1081,7 @@
       "url": "https://open.spotify.com/track/1FewZY77JqYYeRRsTljloh"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Wretched And Divine: The Story Of The Wild Ones",
         "url": "https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO"
@@ -841,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1RTYixE1DD3g3upEpmCJpa"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Alternative Metal Giants",
         "url": "https://open.spotify.com/album/4BxL9oPkHPHXiT9jknJkfq"
@@ -857,7 +1113,7 @@
       "url": "https://open.spotify.com/track/7EmvtCpjnNIIDl1gmVXwGb"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "You Gotta Go There To Come Back",
         "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
@@ -873,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0FmKHaqgzeBBesuioH1FoW"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Too Fast For Love (Deluxe Version)",
         "url": "https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb"
@@ -889,7 +1145,7 @@
       "url": "https://open.spotify.com/track/1Jrt2fqQm5JEKlAPMYG2nD"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Need to Feel Your Love",
         "url": "https://open.spotify.com/album/15QgbuUJ0Rf4kzap0L0z1M"
@@ -905,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3CS3n0jp5PWtLWWanWfDKo"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Kiss (Remastered 1997)",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
@@ -921,7 +1177,7 @@
       "url": "https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
@@ -937,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Rock And Roll Over",
         "url": "https://open.spotify.com/album/6722nY178mLes49GPldnjj"
@@ -953,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7xD7MvjAdZkx1YICschIuI"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
@@ -969,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
@@ -985,7 +1241,7 @@
       "url": "https://open.spotify.com/track/51Z2IzJvLCnZaIpBV0IYRr"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/5nTlWQQ6oQ2Z2oNSaJbRpX"
@@ -1001,7 +1257,7 @@
       "url": "https://open.spotify.com/track/6KBwEQIIehy2STQR0aOsmO"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "More '80s Hair Metal",
         "url": "https://open.spotify.com/album/3FtE8lTenwojThDmkC7xuz"
@@ -1017,7 +1273,7 @@
       "url": "https://open.spotify.com/track/7mTSjS0dSqOZG7O76t9gzD"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Supergirl Official Playlist Introductions",
         "url": "https://open.spotify.com/album/033yQxI9yLPoJYo7BkgrcZ"
@@ -1033,7 +1289,7 @@
       "url": "https://open.spotify.com/episode/10FSUCRfzcrMc99DEFNC1P"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Sugarbread",
         "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
@@ -1049,7 +1305,7 @@
       "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
@@ -1065,7 +1321,7 @@
       "url": "https://open.spotify.com/track/5uXacxdjE3cNAzXmtO79o9"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Speak for Yourself (Deluxe Version)",
         "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
@@ -1081,7 +1337,7 @@
       "url": "https://open.spotify.com/track/2tej1KSqNuxwywIpY1rDRc"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "the cure",
         "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
@@ -1097,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
@@ -1113,7 +1369,7 @@
       "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
@@ -1129,7 +1385,7 @@
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
@@ -1145,7 +1401,7 @@
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
@@ -1161,7 +1417,7 @@
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
@@ -1177,7 +1433,7 @@
       "url": "https://open.spotify.com/track/3EnTGnmNu1TDEcpbbTajuo"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Trading Snakeoil for Wolftickets",
         "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
@@ -1197,7 +1453,7 @@
       "url": "https://open.spotify.com/track/3JOVTQ5h8HGFnDdp4VT3MP"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
@@ -1213,7 +1469,7 @@
       "url": "https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi"
@@ -1229,7 +1485,7 @@
       "url": "https://open.spotify.com/track/4vcDr56fq4Jjxpegx3XPnv"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
@@ -1245,7 +1501,7 @@
       "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
-      "added_at": "2026-06-17 14:00:15",
+      "added_at": "2026-06-26 04:00:20",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -1263,6 +1519,310 @@
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Supergirl Suite - from \"Supergirl\"",
+      "url": "https://open.spotify.com/track/1auN5o9uQ60HodlsNrmy1R"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/2Ji1XSqUvt7uauGwcXPbxA"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 113979,
+      "name": "Krypton Destroyed",
+      "url": "https://open.spotify.com/track/5tnHCKfCkpUgtD2t86R6O8"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Argo, Pt. 1",
+      "url": "https://open.spotify.com/track/0yO7dKSJFEhmmTFCXLhvBN"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 179178,
+      "name": "Argo, Pt. 2",
+      "url": "https://open.spotify.com/track/4gMhVcJUtABHwcDJbCPx6S"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 181955,
+      "name": "Cat and Mouse Hunt",
+      "url": "https://open.spotify.com/track/1qzZ4kGdNJop9rP25qwjYE"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 89943,
+      "name": "Silent Scream",
+      "url": "https://open.spotify.com/track/5PDEU2y02rEOBVzuMIBdh5"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 176221,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/0WfPRlgObYPQid9cvNqZvJ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 147121,
+      "name": "Krem",
+      "url": "https://open.spotify.com/track/54P6MZd72k4Vb56mr5zFgm"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 148803,
+      "name": "The Battle",
+      "url": "https://open.spotify.com/track/3EsgP3HCtXNAHvoPkCaiQX"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 135240,
+      "name": "Flying Through Space",
+      "url": "https://open.spotify.com/track/0C42l8r4lzjWwqDiw8GeEN"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 180334,
+      "name": "Sklarian Raiders",
+      "url": "https://open.spotify.com/track/0r7VB3jFo3PMIf2WKSnex3"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 150491,
+      "name": "Vigilantes (Space Cowgirls)",
+      "url": "https://open.spotify.com/track/5hXIYEKycRiutFBszoA9KG"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 194325,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/43nzrb8I3b80JYRtxJIUnA"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 178392,
+      "name": "Supergirl",
+      "url": "https://open.spotify.com/track/1DfL8RNis1oV2EdwPVsPFV"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 176510,
+      "name": "Poisoned",
+      "url": "https://open.spotify.com/track/0p3GKyIJ3XA7DlS5ir8RAM"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 136528,
+      "name": "Ruthye",
+      "url": "https://open.spotify.com/track/5MMVuYOmcfn5sxOiakT4IM"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 98512,
+      "name": "Clark's Apartment",
+      "url": "https://open.spotify.com/track/7LGRXJzXAeXHX5w8AsLuAf"
+    },
+    {
+      "added_at": "2026-06-26 04:00:20",
+      "album": {
+        "name": "Supergirl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX"
+      },
+      "artists": [
+        {
+          "name": "Claudia Sarne",
+          "url": "https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE"
+        }
+      ],
+      "duration_ms": 185989,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/28VmhXuQ6jvvASKoPQnkyN"
     }
   ],
   "unique_name": "Supergirl Official Playlist",

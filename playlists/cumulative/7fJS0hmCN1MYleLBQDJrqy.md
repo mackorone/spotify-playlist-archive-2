@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-172 songs - 7 hr 45 min
+174 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-18 | 2026-02-11 |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2025-07-18 |  |
 | [Superman](https://open.spotify.com/track/2QEPdAKf9AKhp6W5Atg4D5) | [Luca St](https://open.spotify.com/artist/0UUJ3EwkYGvjoIaVlnF6CN), [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Superman](https://open.spotify.com/album/7f8QLkGiCPSRL3asvjOQGO) | 2:12 | 2025-10-24 | 2026-02-11 |
+| [SUPERSTAR](https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0) | 2:29 | 2026-06-26 |  |
 | [Swag](https://open.spotify.com/track/2nBHlYOewYmTU5QioWXBVC) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Swag](https://open.spotify.com/album/6DNviqjktPvGirSvIoe6i4) | 2:31 | 2026-01-30 | 2026-02-11 |
 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-05-27 |  |
 | [Tante Jetje](https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09) | [Tante Jetje](https://open.spotify.com/album/4d7e0D6oOIIlepqR2cJoSO) | 3:14 | 2026-05-01 |  |
@@ -155,6 +156,7 @@
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-02-27 |  |
 | [Uitstelgedrag](https://open.spotify.com/track/6c4OQkxuJkE7bOBIK6fRa0) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Uitstelgedrag](https://open.spotify.com/album/0gWvSIPNEYs1cv6R7aFAzT) | 2:32 | 2025-09-05 | 2026-02-11 |
 | [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-18 |  |
+| [Van Mij Is Van Mij](https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6) | [JANEY](https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN) | [Van Mij Is Van Mij](https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4) | 2:58 | 2026-06-26 |  |
 | [Van Niemand](https://open.spotify.com/track/1vr262SFQ3qXJi7ZkMAC3u) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Van Niemand](https://open.spotify.com/album/6sp13atziZPC4XqN61Z17o) | 2:29 | 2025-07-18 | 2025-08-30 |
 | [Verzamelen](https://open.spotify.com/track/5uc1LVQKtOA84290Ltyyu4) | [Nordin](https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK) | [Verzamelen](https://open.spotify.com/album/3eY8dRAnkhhr3sVf0Rfr9t) | 2:00 | 2026-06-08 |  |
 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 | 2025-07-18 | 2026-02-11 |

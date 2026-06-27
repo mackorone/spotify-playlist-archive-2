@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "after 5",
+        "url": "https://open.spotify.com/album/36Qv1FkExqzZSIhoJkuBFC"
+      },
+      "artists": [
+        {
+          "name": "fourth cloud",
+          "url": "https://open.spotify.com/artist/06b1HoxjfHzwgkn9tiYpjy"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122647,
+      "name": "after 5",
+      "url": "https://open.spotify.com/track/4YoWy5MGb7wQTBAMbJUwtl"
+    },
+    {
+      "album": {
         "name": "Ajaccio",
         "url": "https://open.spotify.com/album/257lmxFBTrJeGiLuroEuEE"
       },
@@ -1169,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/4tKR2Kgw6jVs98bjyMF987"
+      },
+      "artists": [
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110454,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/5ti1iY6HUAiuiOB6FBkk4V"
+    },
+    {
+      "album": {
         "name": "Mi Casa, Su Casa",
         "url": "https://open.spotify.com/album/7byjLQfcdtLssyMjEWLXXa"
       },
@@ -1765,6 +1801,32 @@
     },
     {
       "album": {
+        "name": "Secret Sea Shells",
+        "url": "https://open.spotify.com/album/0oJUMybTLlwYsAPIOscV1a"
+      },
+      "artists": [
+        {
+          "name": "Eugene",
+          "url": "https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR"
+        },
+        {
+          "name": "moone\u00f8",
+          "url": "https://open.spotify.com/artist/4dTNv4gCIS09MPIU7am4jt"
+        },
+        {
+          "name": "Odd Panda",
+          "url": "https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112129,
+      "name": "Secret Sea Shells",
+      "url": "https://open.spotify.com/track/7yo5qlT77yRsnJb6Q2JdWO"
+    },
+    {
+      "album": {
         "name": "Serenade",
         "url": "https://open.spotify.com/album/5crdRSF53XnioB0IJME6J5"
       },
@@ -2108,6 +2170,24 @@
       "duration_ms": 138700,
       "name": "Sunshine Meadows",
       "url": "https://open.spotify.com/track/6FgIPhlImS3eID7PrXS65L"
+    },
+    {
+      "album": {
+        "name": "Surfrider",
+        "url": "https://open.spotify.com/album/5Z9k2VhtHsZgHlEnuCIkaj"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "Surfrider",
+      "url": "https://open.spotify.com/track/4hj1WyB1ise5Z4nOPN7Q38"
     },
     {
       "album": {

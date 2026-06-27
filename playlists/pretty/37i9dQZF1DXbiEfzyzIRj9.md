@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Stones Taro
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,323 likes - 98 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,331 likes - 98 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 50 | [GOOD PUPPY](https://open.spotify.com/track/4rB3BzQoIIM1nJ71IVIUpa) | [Fellsius](https://open.spotify.com/artist/1uYT5SJBJW3fqKniEPjleE) | [Fellsius Rhythm Lab Vol.3](https://open.spotify.com/album/3Sdh5T3tS3Y6aixjRQYINN) | 3:26 |
 | 51 | [BARTRACK](https://open.spotify.com/track/6po2cdbkS2KF5EfgOa9uNi) | [DJ DISK](https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr) | [RIOT IN SILENCE](https://open.spotify.com/album/45LpEs9L4qtRyLcbdOHKEa) | 3:32 |
 | 52 | [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 |
-| 53 | [Check Check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Check Check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
+| 53 | [check check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [check check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
 | 54 | [Keep Up](https://open.spotify.com/track/7LWGTXRs0lnEPMVwoiWjFR) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Keep Up](https://open.spotify.com/album/6LaS61MuI34XOk85kHiPSS) | 3:29 |
 | 55 | [POCKETCORE](https://open.spotify.com/track/6CkM4sm2m29cq5rBel27F2) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [POCKETCORE](https://open.spotify.com/album/5B6TBGhUvHP1ablDv1cYLf) | 3:09 |
 | 56 | [Even Angels Ghost](https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Even Angels Ghost](https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS) | 4:22 |

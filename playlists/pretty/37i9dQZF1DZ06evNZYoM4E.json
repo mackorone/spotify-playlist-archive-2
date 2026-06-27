@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108610,
+  "num_followers": 108611,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABtTCJ1tFGAD44iJE1PUTFj",
+  "snapshot_id": "ajxvgAAAAACoh8UAmG929gYjoYo+yTVb",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "Ik Heb 'T Altijd Al Geweten",
-      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "Ik Heb 'T Altijd Al Geweten",
+      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zonder Zorgen",
+        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "De Wereld Is Van Ons Allemaal",
+      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kleine Jongen",
         "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 194640,
       "name": "Hoogste Tijd",
       "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Op De Schoorsteen Staat Een Foto",
-        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Op De Schoorsteen Staat Een Foto",
-      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zonder Zorgen",
-        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
+        "name": "Op De Schoorsteen Staat Een Foto",
+        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194426,
-      "name": "De Wereld Is Van Ons Allemaal",
-      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+      "duration_ms": 190853,
+      "name": "Op De Schoorsteen Staat Een Foto",
+      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
     },
     {
       "added_at": null,

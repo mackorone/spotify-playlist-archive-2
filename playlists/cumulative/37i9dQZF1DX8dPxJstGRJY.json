@@ -1815,6 +1815,28 @@
     },
     {
       "album": {
+        "name": "The Fool on the Hill (Arr. Puerling for Vocal Ensemble)",
+        "url": "https://open.spotify.com/album/7in2hNgOSA5bLaeVjrVyZJ"
+      },
+      "artists": [
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Ringmasters",
+          "url": "https://open.spotify.com/artist/5PA3lsNXbVYa6Zwvf9nXUe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289853,
+      "name": "The Fool on the Hill (Arr. Puerling for Vocal Ensemble)",
+      "url": "https://open.spotify.com/track/5JYKH5KqUXPZfDHcxoOQWc"
+    },
+    {
+      "album": {
         "name": "The Greatest Gift",
         "url": "https://open.spotify.com/album/0TvtvNcqu7717IQrq2cmfX"
       },

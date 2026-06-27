@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Mutoriah
 
-330 songs - 18 hr 34 min
+331 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Further From Me](https://open.spotify.com/track/53SWYv39WMzmGub1PAd7O2) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Faygos Paradise](https://open.spotify.com/artist/0gHLI704d9CPdory3r1URi) | [Further From Me](https://open.spotify.com/album/0fbR7cmYJ8f0AwqglWbpb9) | 2:17 | 2024-06-13 | 2025-06-06 |
 | [Go](https://open.spotify.com/track/1bHbElmOOzqRNui7Ocq4Vp) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Go](https://open.spotify.com/album/0YT2PJ2AbXqRbz4Oj3ew0Z) | 2:59 | 2023-01-26 | 2024-09-27 |
 | [Goodbye](https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU) | [Shanki Austine](https://open.spotify.com/artist/6itwRcitEN1S39bvzrWsNM), [Bee Muziki](https://open.spotify.com/artist/5bUi75yAVr0SuEFhtmm69j) | [Beginning EP](https://open.spotify.com/album/1dxogKeICt9bHr4z4EivFa) | 3:22 | 2024-11-07 | 2025-01-17 |
-| [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-29 |  |
+| [Guidance](https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Guidance](https://open.spotify.com/album/5rJTqmaSUmsoWCqM0nfLF0) | 2:55 | 2025-05-29 | 2026-06-27 |
 | [Haba Na Haba](https://open.spotify.com/track/7iB7aG563XdqyqGLpb1BYj) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Effji](https://open.spotify.com/artist/7Ct2oQCP2BEMpMBqk2lRJK) | [Colours](https://open.spotify.com/album/3clJXsKbeadJqCZoURhp5R) | 2:59 | 2022-07-22 | 2024-05-04 |
 | [Hale](https://open.spotify.com/track/3eGBctTtCpO4qr7SxCJPdW) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [Hale](https://open.spotify.com/album/60dvHw4f6N9YnMocVWY1Cx) | 3:35 | 2025-08-01 |  |
 | [Hamu](https://open.spotify.com/track/5tE1NiKNG949IRPuDUe0No) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Musings](https://open.spotify.com/album/4tP74evyRsApusUxzoOlij) | 3:57 | 2025-05-15 | 2026-05-29 |
@@ -279,6 +279,7 @@
 | [Sorry](https://open.spotify.com/track/5CSH0TMDXX7eTtiwhaq3OY) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/3fkE3ayLgO9KcqxBWWUh5N) | 3:52 | 2024-03-07 | 2024-04-19 |
 | [sorry it didn't work out](https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:29 | 2022-03-31 | 2023-03-31 |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
+| [Steady](https://open.spotify.com/track/0Nk3N24fYgIN2zIpIlAacs) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD) | [Steady](https://open.spotify.com/album/3fIkHOp4fsL4I8ReXAGia3) | 3:15 | 2026-06-26 |  |
 | [Stories Untold](https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Shudu Musida](https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK) | [Stories Untold](https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j) | 3:59 | 2025-12-04 |  |
 | [Subira](https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Cedz Imagination](https://open.spotify.com/artist/2bsB3f3Lx5jYFHQe9MzrBR) | [Subira](https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB) | 3:01 | 2025-09-19 |  |
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |

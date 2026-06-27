@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Maisak, Feid y Maluma.
 
-1,224 songs - 2 day 18 hr 51 min
+1,226 songs - 2 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [MVLAN](https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MVLAN](https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN) | 3:41 | 2026-02-18 |  |
 | [MY BLOOD](https://open.spotify.com/track/4KAZuTL234Q5CIRW5nhVbi) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [My Blood](https://open.spotify.com/album/4iGqw6rofNIq2DpWeQl4gM) | 3:00 | 2023-03-03 | 2023-04-14 |
 | [My Love](https://open.spotify.com/track/2f5jtBFBWGmthgLpte2u3q) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [My Love](https://open.spotify.com/album/3XgtnIOpgE18deinVIUmBn) | 3:34 | 2023-06-30 | 2023-09-09 |
+| [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z) | 3:09 | 2026-06-26 |  |
 | [MÁS DE AHÍ](https://open.spotify.com/track/4ATzrqMF84B9iSCGUUqfTT) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Kzadores](https://open.spotify.com/artist/4y6AiRdD8ZaV9DbpmsQdei) | [BULLSHIT DE LA CALLE](https://open.spotify.com/album/2H2ojJuG84gHY0ZmjlczIz) | 2:44 | 2026-01-09 |  |
 | [MÁS QUE ALGO](https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 4:02 | 2025-05-21 | 2025-10-25 |
 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 | 2025-02-18 | 2025-05-08 |
@@ -946,6 +947,7 @@
 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-10-06 | 2023-10-13 |
 | [Rockstar](https://open.spotify.com/track/5yUNJjYSI4nbsoFCm0NL1I) | [Andre TG](https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Rockstar](https://open.spotify.com/album/67YG6gMqvT5qURJbWEvMWZ) | 3:52 | 2022-06-13 | 2022-08-27 |
 | [Romance y Bellakera](https://open.spotify.com/track/1K5liUyu6GsrP07E3ukGHO) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Romance y Bellakera](https://open.spotify.com/album/2HuZtjQmKRHNQy0hd5u8p2) | 4:17 | 2023-04-28 | 2023-07-15 |
+| [ROMO](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 2:51 | 2026-06-26 |  |
 | [RON COLA](https://open.spotify.com/track/0BJMkf1sQmY3TwcHapARZI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:06 | 2022-11-30 | 2023-02-05 |
 | [RON COLA](https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:06 | 2023-02-03 | 2023-06-24 |
 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 | 2022-03-04 | 2022-04-05 |

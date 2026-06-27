@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Justen de Wildt
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,972 likes - 95 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,000 likes - 95 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 94 | [Nu Wij Niet Meer Praten](https://open.spotify.com/track/7d89CDPikSfHfQjw0WYnxB) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Als Je Voor Me Staat](https://open.spotify.com/album/5UZsSAKI7ObtNEj2voabWw) | 3:12 |
 | 95 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
 
-Snapshot ID: `AAAAAFFOt7dfGjhysIZDSd3sB4HzcGz9`
+Snapshot ID: `AAAAANq3R8IsjhrU0HlafGeTqhb8Wznf`

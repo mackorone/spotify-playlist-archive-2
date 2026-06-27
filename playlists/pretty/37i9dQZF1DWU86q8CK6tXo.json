@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Slayyyter",
-  "num_followers": 65367,
+  "num_followers": 65370,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 173416,
+      "name": "Femme Hysteria",
+      "url": "https://open.spotify.com/track/2g8y30PtQ3jO7fR4wKQaOU"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
-        "name": "Big Disgrace",
-        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 173416,
-      "name": "Femme Hysteria",
-      "url": "https://open.spotify.com/track/2g8y30PtQ3jO7fR4wKQaOU"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
-        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
-        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
         "name": "WYD",
         "url": "https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 156266,
       "name": "WYD",
       "url": "https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
+        "name": "M\u00fasica Para Abrir El Cielo: Act 2",
+        "url": "https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 147423,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB"
     },
     {
       "added_at": "2026-06-02 19:01:30",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-06-02 19:01:30",
       "album": {
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+    },
+    {
+      "added_at": "2026-06-02 19:01:30",
+      "album": {
         "name": "SYNY 3 ACT III",
         "url": "https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 160000,
       "name": "Clink",
       "url": "https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP"
-    },
-    {
-      "added_at": "2026-06-02 19:01:30",
-      "album": {
-        "name": "O\u00eddos Sordos",
-        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
     },
     {
       "added_at": "2026-06-02 19:01:30",

@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 251473,
       "name": "Bless Your Name",
       "url": "https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64"
@@ -2726,6 +2726,24 @@
       "duration_ms": 240882,
       "name": "Breathe On It",
       "url": "https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV"
+    },
+    {
+      "album": {
+        "name": "Breathe On It (From Austin)",
+        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290981,
+      "name": "Breathe On It - From Austin",
+      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "album": {
@@ -5058,7 +5076,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 422560,
       "name": "Fire In My Bones",
       "url": "https://open.spotify.com/track/61vNrustykicatMErzO7DF"
@@ -6746,7 +6764,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 256130,
       "name": "HE STILL MOVES",
       "url": "https://open.spotify.com/track/5EIPsTPNAASNIZtkCBXe3S"
@@ -7283,6 +7301,32 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380453,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
+    },
+    {
+      "album": {
         "name": "Holy (Live)",
         "url": "https://open.spotify.com/album/50ZKp6KCrsdai2GqeDGFVq"
       },
@@ -7415,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "Holy God",
+        "url": "https://open.spotify.com/album/7rrqCgWo4P9QGBlAtbPLzT"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271520,
+      "name": "Holy God",
+      "url": "https://open.spotify.com/track/6Z7sDhExaQlgV3GKRWccf2"
+    },
+    {
+      "album": {
         "name": "Holy Hallelujah (Live)",
         "url": "https://open.spotify.com/album/7rfV4Idh5eq0yEam2mviM2"
       },
@@ -7482,6 +7544,32 @@
       "duration_ms": 303187,
       "name": "Holy In My Heart",
       "url": "https://open.spotify.com/track/0Ekk7wvWBiklPnsZWCMUnL"
+    },
+    {
+      "album": {
+        "name": "Holy Is He",
+        "url": "https://open.spotify.com/album/5NKhmZWg5cDaI2JxxcFGo5"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Kate Tamsen",
+          "url": "https://open.spotify.com/artist/5268DeVAJPgvGRryvIj1EE"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376453,
+      "name": "Holy Is He",
+      "url": "https://open.spotify.com/track/15UfzWcb7zBgDqnBMf1Ptc"
     },
     {
       "album": {
@@ -8780,7 +8868,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 346056,
       "name": "I Was Made To Glorify Your Name",
       "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
@@ -8860,6 +8948,24 @@
       "duration_ms": 287078,
       "name": "I Will Follow Jesus - Acoustic",
       "url": "https://open.spotify.com/track/4oJ1qWx93WsQgtHM9TYHDS"
+    },
+    {
+      "album": {
+        "name": "I Will Go (Live)",
+        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249003,
+      "name": "I Will Go - Live",
+      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
     },
     {
       "album": {
@@ -9636,7 +9742,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 254000,
       "name": "It Really Is Amazing Grace",
       "url": "https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ"
@@ -11832,7 +11938,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 363489,
       "name": "Mighty God - Live",
       "url": "https://open.spotify.com/track/6sNHGIXmrBydSl6zstkzq9"
@@ -12944,6 +13050,28 @@
       "duration_ms": 304615,
       "name": "No One But Jesus",
       "url": "https://open.spotify.com/track/6AtPVvOCYexCYYOU9FVRJo"
+    },
+    {
+      "album": {
+        "name": "House Church Vol. 001",
+        "url": "https://open.spotify.com/album/2wsjghItFIaMTy5mR0LfvJ"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Lily Hooten",
+          "url": "https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330200,
+      "name": "No One Like The Lord",
+      "url": "https://open.spotify.com/track/63PS63EkeqYJMTN7AFh65j"
     },
     {
       "album": {
@@ -14080,7 +14208,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 253000,
       "name": "Outsing The Angels",
       "url": "https://open.spotify.com/track/1K8njHilp1CCvwDNDTscGm"
@@ -14568,6 +14696,28 @@
       "duration_ms": 264107,
       "name": "Praise The Lord Forever",
       "url": "https://open.spotify.com/track/6gwp0ubEzuUyZmbMdX9JFG"
+    },
+    {
+      "album": {
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/016Xwvjbf4WUCDpPmqorJV"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325791,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/7uCnLOu70IDBrrHUyspQzX"
     },
     {
       "album": {
@@ -15940,7 +16090,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 360840,
       "name": "Sending Up A Praise",
       "url": "https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6"
@@ -18410,6 +18560,24 @@
       "duration_ms": 308132,
       "name": "The Last Amen",
       "url": "https://open.spotify.com/track/4Qy1O2uY2XxfW0RKuJs8I2"
+    },
+    {
+      "album": {
+        "name": "When You're In The Room",
+        "url": "https://open.spotify.com/album/5QrP58DRf8eY6EbwlAfD53"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296660,
+      "name": "The Lord Is Here",
+      "url": "https://open.spotify.com/track/43pTyhLJ4zWIsdAO9tHtbz"
     },
     {
       "album": {

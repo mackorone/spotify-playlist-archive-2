@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-764 songs - 1 day 17 hr 39 min
+765 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1900's](https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II : Deluxe](https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn) | 2:29 | 2024-10-08 | 2024-10-19 |
 | [2000s Pop Punk Rnb](https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [Still Loiteringgg / 2000s Pop Punk Rnb](https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF) | 2:56 | 2026-05-01 | 2026-05-16 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-08 | 2024-12-14 |
-| [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-13 | 2026-06-06 |
+| [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-13 |  |
 | [3 outfits](https://open.spotify.com/track/78zWCikDMYzFpXAdqANPrD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [3 outfits](https://open.spotify.com/album/0SFK4Bn2QtKOi1bJieGPZ1) | 3:30 | 2022-03-28 | 2022-07-29 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-03-25 | 2022-10-13 |
 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 | 2024-04-10 |
@@ -110,8 +110,9 @@
 | [C'est la vie](https://open.spotify.com/track/0EYAj4bb4v3r4S3lXBJ37r) | [Ethan Surman](https://open.spotify.com/artist/12o3BOYKBwjbsjrW0Fm7iu) | [C'est la vie](https://open.spotify.com/album/5h4deWk0g9b3wC5YCSqx8I) | 2:51 | 2022-06-06 | 2022-11-05 |
 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 | 2022-09-23 | 2024-05-25 |
 | [C.U.D.I \(Can U Dig It\)](https://open.spotify.com/track/1YNejxrTddSkGseyZRDZRG) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:43 | 2022-03-25 | 2022-04-21 |
+| [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 | 2026-06-26 |  |
 | [Cali4nia](https://open.spotify.com/track/6eCSJmiVIkFghWbDq6o0AN) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Toyota Reckless](https://open.spotify.com/album/7pepybm5eWGHiQStayzHYy) | 2:56 | 2022-11-11 | 2022-11-22 |
-| [Call It What You Want](https://open.spotify.com/track/5U9uVRRZ7PkvAvyLKhg3jx) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Call It What You Want](https://open.spotify.com/album/1duNvkWcNlJfPIOugCfAfP) | 2:55 | 2026-05-26 |  |
+| [Call It What You Want](https://open.spotify.com/track/5U9uVRRZ7PkvAvyLKhg3jx) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Call It What You Want](https://open.spotify.com/album/1duNvkWcNlJfPIOugCfAfP) | 2:55 | 2026-05-26 | 2026-06-27 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-05-30 | 2024-06-29 |
 | [Campus](https://open.spotify.com/track/5dUFfk2cwD8GiJPS03mYN0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:56 | 2021-12-29 | 2022-04-19 |
 | [Can I Call You Tonight?](https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:38 | 2022-11-04 | 2023-06-01 |
@@ -195,7 +196,7 @@
 | [Do You Still Love Me?](https://open.spotify.com/track/5PRCnfIDg78qwrKurswTYg) | [Obed Padilla](https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl) | [Do You Still Love Me?](https://open.spotify.com/album/7wAcNzhHHd0geiHr0vLYej) | 2:39 | 2025-08-08 | 2025-08-30 |
 | [Doing It Too](https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:26 | 2025-10-24 | 2026-02-28 |
 | [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 | 2021-12-29 | 2022-04-15 |
-| [DON'T LET ME GO \(again\)](https://open.spotify.com/track/1Im47iJp9aRbeM0A9YMI5f) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [DON'T LET ME GO \(again\)](https://open.spotify.com/album/0wZlPvzzSxaCznKcymoHde) | 2:54 | 2026-06-05 |  |
+| [DON'T LET ME GO \(again\)](https://open.spotify.com/track/1Im47iJp9aRbeM0A9YMI5f) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [DON'T LET ME GO \(again\)](https://open.spotify.com/album/0wZlPvzzSxaCznKcymoHde) | 2:54 | 2026-06-05 | 2026-06-27 |
 | [Don't Lose Sight](https://open.spotify.com/track/5PEIORAOmwjDV7OYzxHsvd) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 3:28 | 2022-04-29 | 2022-05-08 |
 | [Don't Mind](https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y) | 3:22 | 2023-09-29 | 2023-10-06 |
 | [Don't Mind](https://open.spotify.com/track/5UhHAH9bAL900e3CnZpzPG) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/7ywnQEhl9Jw8zq2Tc8ISee) | 3:22 | 2023-09-29 | 2023-10-28 |

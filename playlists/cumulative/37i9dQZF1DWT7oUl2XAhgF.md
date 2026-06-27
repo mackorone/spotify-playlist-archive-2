@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-607 songs - 1 day 12 hr 24 min
+609 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Float](https://open.spotify.com/track/7MOy3ezBGiYpvc2jBwXZ3m) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Float](https://open.spotify.com/album/1dtZKbO951kCjsBPSEvw95) | 4:00 | 2023-02-03 | 2024-06-01 |
 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 | 2025-04-25 | 2025-05-31 |
 | [Flowers In The Garden](https://open.spotify.com/track/4glpi4JsC3FekGa9TRHWQ4) | [Wanda Felicia](https://open.spotify.com/artist/1d4bky74FjfJpMmFyl0NQm), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Flowers In The Garden](https://open.spotify.com/album/4QrIeBxfRo93FeLaDy6N7C) | 5:27 | 2025-08-22 | 2025-09-27 |
-| [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 | 2024-07-19 |  |
+| [Fools Expectation](https://open.spotify.com/track/2jhZ46Ayis8nKIAJyddI77) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Fools Expectation](https://open.spotify.com/album/2n0yxlQaPpZ5Qr9DIjCbXp) | 3:17 | 2024-07-19 | 2026-06-27 |
 | [Forever](https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Forever](https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3) | 3:15 | 2022-09-16 | 2023-02-18 |
 | [Forever](https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO) | [ROME](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa) | [Forever](https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA) | 3:16 | 2024-03-08 | 2025-11-29 |
 | [Forever Young](https://open.spotify.com/track/0Ya0RaQ2OOpwNR3oTxAuBt) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Dylan McDonald](https://open.spotify.com/artist/6N45Hme7I09LsLQSf62Fzf), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [Forever Young](https://open.spotify.com/album/0n7OYKGvADJxCOHeos5MlR) | 4:52 | 2024-05-31 | 2025-08-31 |
@@ -279,6 +279,7 @@
 | [Kinda Cowgirl](https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Kinda Cowgirl](https://open.spotify.com/album/6BoTRlw3qryfJxVaObaFjp) | 4:17 | 2023-10-06 | 2024-01-13 |
 | [Lady Love](https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lady Love](https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc) | 3:02 | 2022-08-19 | 2022-09-19 |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2021-12-03 | 2023-01-28 |
+| [Leave it all Behind](https://open.spotify.com/track/6Zcpb2xesQgsSb0alHHIBm) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Halcyon](https://open.spotify.com/album/78taGztt2CApRup8BKnpMe) | 4:59 | 2026-06-26 |  |
 | [Leave You Alone](https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Leave You Alone](https://open.spotify.com/album/2LwQhwvAWd15eFJfzNDiAU) | 3:10 | 2023-07-14 | 2024-10-19 |
 | [Less Is More](https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Less Is More](https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ) | 4:16 | 2021-07-09 | 2022-05-23 |
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-14 | 2024-08-03 |
@@ -452,7 +453,7 @@
 | [Sharpen Your Shovel](https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 2:58 | 2024-07-12 | 2026-01-15 |
 | [Shine Delight](https://open.spotify.com/track/50WXXxu0bmhZiZFnLjMVy6) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Shine Delight](https://open.spotify.com/album/7wkzxGmvYjTwe1IVNSwU4X) | 3:38 | 2025-06-13 | 2025-08-09 |
 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 | 2023-06-02 | 2024-09-07 |
-| [Show Me](https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Show Me](https://open.spotify.com/album/1ttykBBV3NnY9PK10pNHz4) | 3:33 | 2024-08-16 |  |
+| [Show Me](https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Show Me](https://open.spotify.com/album/1ttykBBV3NnY9PK10pNHz4) | 3:33 | 2024-08-16 | 2026-06-27 |
 | [Shy](https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2021-07-09 | 2023-02-18 |
 | [Side by Side](https://open.spotify.com/track/5RABWGh9kQl6I3WFaGOKje) | [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Side by Side](https://open.spotify.com/album/3b9cLrv8J3sDdh6sckaZOF) | 5:34 | 2021-07-09 | 2022-07-26 |
 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 | 2022-06-17 | 2023-02-18 |
@@ -468,6 +469,7 @@
 | [So Caught Up](https://open.spotify.com/track/0g84356Up4bxwOKVvzq0Kh) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 3:48 | 2021-12-03 | 2022-09-15 |
 | [So Caught Up](https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT) | 3:48 | 2021-12-03 | 2023-04-22 |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 | 2023-09-09 |
+| [So Good To Me](https://open.spotify.com/track/71FDTSyAyO8CdCJh6DhrLU) | [James Emmanuel](https://open.spotify.com/artist/1V4RGSGobXXjpikiHlO2ex) | [Good Man](https://open.spotify.com/album/0BQqf4EP4l8zVZTC5U2zTX) | 4:12 | 2026-06-26 |  |
 | [So Into You](https://open.spotify.com/track/6oniXQflpASPhX2YsxdqCJ) | [Cliff Beach](https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z) | [Son Of A Beach](https://open.spotify.com/album/2CjQdKNaJxSVEV3vlbQ0fp) | 4:01 | 2022-06-24 | 2023-03-18 |
 | [So Tired](https://open.spotify.com/track/3X9D9fDfMFePPAhDnhXcBD) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [So Tired](https://open.spotify.com/album/1nQr0MQwmFR8yjL7uyLx90) | 3:21 | 2023-11-10 | 2024-02-15 |
 | [Solution](https://open.spotify.com/track/6TMNizvP8FeJ4SaWxZ45f3) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [Solution](https://open.spotify.com/album/3zYDc5MslFWL04Qup4OOQb) | 3:40 | 2022-09-23 | 2022-10-08 |

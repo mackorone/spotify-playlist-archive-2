@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Navaan Sandhu
 
-596 songs - 1 day 6 hr 22 min
+597 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2023-04-13 | 2025-02-22 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-05-29 | 2024-05-15 |
 | [Garroor](https://open.spotify.com/track/0rR7f4QGCEURzJpm8NwJuT) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC) | [Garroor](https://open.spotify.com/album/5rNhK6BDL6I07hLszzijSa) | 2:47 | 2025-06-06 |  |
-| [Get at Me](https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Flex Singh](https://open.spotify.com/artist/2iEbXi1JTSaJh7bxi1qTI2) | [Get at Me](https://open.spotify.com/album/6eK0qFis78BGBFrqQnzowI) | 4:08 | 2026-01-30 |  |
+| [Get at Me](https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Flex Singh](https://open.spotify.com/artist/2iEbXi1JTSaJh7bxi1qTI2) | [Get at Me](https://open.spotify.com/album/6eK0qFis78BGBFrqQnzowI) | 4:08 | 2026-01-30 | 2026-06-27 |
 | [Glorious](https://open.spotify.com/track/5Gj7bBHkXOEWCPOZv7eAHb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 | 2024-03-28 | 2024-05-01 |
 | [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2024-03-19 | 2025-10-18 |
 | [God Did](https://open.spotify.com/track/6uXLkl9s5ER4ztOT77d1pa) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [God Did](https://open.spotify.com/album/5WVHUqcMoOmqdBlhwkEbCN) | 2:38 | 2026-01-09 |  |
@@ -332,6 +332,7 @@
 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 | 2025-02-28 | 2025-12-27 |
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-09-25 | 2023-10-26 |
 | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Ragini Vishwakarma](https://open.spotify.com/artist/3UCFb7SJuft3iuboHfslzj), [Arjun Ajnabee](https://open.spotify.com/artist/2cu64IeD1D7wFS1ZD9wqBO) | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-28 | 2025-09-06 |
+| [Map](https://open.spotify.com/track/1qMLmdxbkHE2zeCYu63Gn9) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:46 | 2026-06-26 |  |
 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 | 2024-03-31 |  |
 | [Mehrma](https://open.spotify.com/track/56L6jhPtECVZTn0GmPolKm) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Mehrma](https://open.spotify.com/album/5AfAcHsIHhHJOYZPvvyFHS) | 3:36 | 2022-12-10 | 2023-03-19 |
 | [Mera Mann](https://open.spotify.com/track/7DKWcqsUjsjBD56kbYvx50) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Mera Mann](https://open.spotify.com/album/2zBFZJ0VhUSflzQ7rcuu0J) | 2:43 | 2024-12-13 |  |

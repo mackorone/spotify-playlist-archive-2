@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 9 hr 48 min
+190 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [We Can’t Be Friends](https://open.spotify.com/track/07N4DMXTlLjoGnaNdr75z9) | [Drty Shdw](https://open.spotify.com/artist/1V5Vqlxw4xGhfGQt4N64DL) | [We Can’t Be Friends](https://open.spotify.com/album/49Vai1B7rDNOgmKoWvqirN) | 3:34 | 2022-05-29 | 2023-09-26 |
 | [What If We Did \(feat\. Carly Pearce\)](https://open.spotify.com/track/6KXEK2OoDMAwcLQaBjwJ77) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 3:11 | 2022-05-29 |  |
 | [Where Do We Go \- The Voice Performance](https://open.spotify.com/track/5a7QUeuh2OXw0SI4go5shg) | [John Holiday](https://open.spotify.com/artist/1t7W0bPXdarbjiCuEeFv2y) | [The Season 19 Collection \(The Voice Performance\)](https://open.spotify.com/album/2V28iwMeICBbv2Qqsi9gd1) | 2:27 | 2022-05-29 |  |
+| [Where the Cowboys Ride](https://open.spotify.com/track/7sGNBMpZJm77YoaBs5e2cg) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Bridges](https://open.spotify.com/album/2UMHfMc5EN5y6DyMDS4kQr) | 3:07 | 2026-06-26 |  |
 | [Who Do You Think You Are?](https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Who Do You Think You Are?](https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W) | 3:15 | 2022-08-06 |  |
 | [Wild Thoughts](https://open.spotify.com/track/3zKHLE9q6vcmg0ZFnvkCcM) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Way Back When](https://open.spotify.com/album/3VPqcQjuGUSlHz8ThfntyN) | 3:15 | 2022-06-26 | 2023-04-28 |
 | [Wild Thoughts](https://open.spotify.com/track/70ctzwkMLshvTvIJNZDfCW) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Electric West](https://open.spotify.com/album/2C2EYk2ylxnziZozbXgMLh) | 3:16 | 2023-07-16 |  |

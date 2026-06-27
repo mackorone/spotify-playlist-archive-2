@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/44YHx57uLYJdhnGvBTqyiA"
+      },
+      "artists": [
+        {
+          "name": "sosocamo",
+          "url": "https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113946,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3AKA2Y34rPs19nr32Vo6sC"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 280790,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM"
@@ -8698,7 +8716,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 193972,
       "name": "Telex Free Trap",
       "url": "https://open.spotify.com/track/1wRPeKIyYxXqCRuSQCtsKp"
@@ -8750,6 +8768,24 @@
       "duration_ms": 193488,
       "name": "Terry Davis",
       "url": "https://open.spotify.com/track/5CxvjoDRlsRZeYxJgvvzU1"
+    },
+    {
+      "album": {
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
     },
     {
       "album": {
@@ -8892,7 +8928,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 439125,
       "name": "The Manifesto (feat. Trueno and Proof)",
       "url": "https://open.spotify.com/track/1pgl5ntthebzHaqJVI1n6B"
@@ -10000,6 +10036,24 @@
       "duration_ms": 154480,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"
+    },
+    {
+      "album": {
+        "name": "White Lines",
+        "url": "https://open.spotify.com/album/6qiBJ8kzT4vzOhRh9HDnKU"
+      },
+      "artists": [
+        {
+          "name": "Schur",
+          "url": "https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197660,
+      "name": "White Lines",
+      "url": "https://open.spotify.com/track/1VpmYo3Z43hAXh6gD24pL7"
     },
     {
       "album": {

@@ -1,13 +1,41 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 58030,
+  "num_followers": 58033,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAC69Ir+fDEVUOqJ9WslNxIk",
+  "snapshot_id": "ajxvgAAAAADi886O/VE7/bzNrQO3XdWq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Juanos",
+        "url": "https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "La Bruja en el Beat",
+          "url": "https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Los Juanos",
+      "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
+    },
     {
       "added_at": null,
       "album": {
@@ -751,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guadalajara",
+        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alzypher Vol. 1",
         "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
       },
@@ -787,30 +839,6 @@
       "duration_ms": 288000,
       "name": "Alzypher Vol. 1",
       "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guadalajara",
-        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
     },
     {
       "added_at": null,
@@ -1371,38 +1399,6 @@
       "duration_ms": 189078,
       "name": "Tequila y Lim\u00f3n",
       "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Sentirme Vivo",
-        "url": "https://open.spotify.com/album/5UnLLT5wvexb2OJO0NC4K9"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 271843,
-      "name": "Para Sentirme Vivo",
-      "url": "https://open.spotify.com/track/5QvHL6z4yZ0SmkLTsSKsJ4"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

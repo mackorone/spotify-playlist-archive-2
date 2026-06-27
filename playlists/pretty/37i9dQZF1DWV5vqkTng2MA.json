@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Haylie Davis",
-  "num_followers": 425957,
+  "num_followers": 425986,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "It's Been Too Long (Since I've Loved Someone)",
         "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 178081,
       "name": "It's Been Too Long (Since I've Loved Someone)",
       "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Life of Sin",
-      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Life of Sin",
+      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "It's A Joy To Be Alive",
-        "url": "https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw"
-      },
-      "artists": [
-        {
-          "name": "Ferris & Sylvester",
-          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "It's A Joy To Be Alive",
-      "url": "https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Blind Ambition",
         "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
       },
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
+        "name": "It's A Joy To Be Alive",
+        "url": "https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "It's A Joy To Be Alive",
+      "url": "https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
         "name": "How Do You Get By",
         "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 250614,
       "name": "How Do You Get By",
       "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
-        "name": "Seventeen Acres",
-        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
-      },
-      "artists": [
-        {
-          "name": "Joseph LeMay",
-          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
-        }
-      ],
-      "duration_ms": 122750,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1479,18 +1463,34 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "The Dark Of The Morning EP",
-        "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
+        "name": "Seventeen Acres",
+        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Joseph LeMay",
+          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
         }
       ],
-      "duration_ms": 239706,
-      "name": "When We Were On Fire",
-      "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
+      "duration_ms": 122750,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+      },
+      "artists": [
+        {
+          "name": "Balto",
+          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Lost on the Young",
+      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
     }
   ],
   "unique_name": "the new retro",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 26723,
+  "num_followers": 26728,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADjyoXGXpedjZs1f7IVdxvr",
+  "snapshot_id": "ajxvgAAAAAAZiXwIOwboa5ut4Ay3aMGl",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Soul Vol. 1",
         "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 268613,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 189749,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0bnUWmQVWODe7I17aidv3j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
         "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 234057,
       "name": "S\u00f6",
       "url": "https://open.spotify.com/track/71aLNi77h5ACkPX3AjfJhu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
     },
     {
       "added_at": null,

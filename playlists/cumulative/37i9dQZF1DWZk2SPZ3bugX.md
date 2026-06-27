@@ -4,7 +4,7 @@
 
 > 🍾
 
-294 songs - 16 hr 47 min
+295 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Favelas \- Version orchestrale](https://open.spotify.com/track/43bOno6JMAfkdvGN2jVWIF) | [Degiheugi](https://open.spotify.com/artist/3V2paBXEoZIAhfZRJmo2jL) | [Favelas \(Version orchestrale\)](https://open.spotify.com/album/6aDEiPSm4CAPer1gpyqZiB) | 5:15 | 2024-05-03 |  |
 | [Feel Good](https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm) | 3:58 | 2023-01-04 | 2024-07-27 |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-04-03 | 2025-05-03 |
-| [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 | 2023-06-09 |  |
+| [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 | 2023-06-09 | 2026-06-27 |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2022-12-08 | 2023-03-25 |
 | [Fever](https://open.spotify.com/track/7fxiVqfRHxo6L3Ijmm4FfH) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Roosevelt](https://open.spotify.com/album/21h3nv4SJgMi9SQaFiFUFX) | 4:24 | 2022-12-08 | 2023-07-29 |
 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 | 2024-02-09 |  |
@@ -158,6 +158,7 @@
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-12-06 | 2025-09-12 |
 | [Lemon Lime](https://open.spotify.com/track/5Wqs17yMH84mkbZPpdBQ6i) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [WANDER](https://open.spotify.com/album/6x8LZr9QKEG7IP4eAcxEQf) | 2:20 | 2025-05-02 | 2025-08-15 |
 | [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 | 2025-11-14 | 2026-02-28 |
+| [Les Oiseaux](https://open.spotify.com/track/41aCuTJDjLaNKD4uazONsr) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz), [sasu](https://open.spotify.com/artist/7vBnksH16ohbDKutDVUdEN) | [Les Oiseaux](https://open.spotify.com/album/1ugE4GUX1UjfYkAjQI9Snj) | 2:41 | 2026-06-26 |  |
 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 | 2023-01-04 | 2024-06-22 |
 | [Like It](https://open.spotify.com/track/0nm3gH1gu9bN2GzCdWwyUQ) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Like It](https://open.spotify.com/album/4Nt5y1U7xts2pRHobWBOis) | 4:26 | 2026-05-14 |  |
 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 | 2022-12-08 | 2023-06-10 |

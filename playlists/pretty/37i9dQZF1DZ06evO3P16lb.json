@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2136,
+  "num_followers": 2143,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABidjSc7HqTnrAeWzMwJar9",
+  "snapshot_id": "ajxvgAAAAAAoj04qM5k897Muui/UfbmA",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amorcito Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70"
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
       "artists": [
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
         }
       ],
-      "duration_ms": 149619,
-      "name": "Amorcito Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS"
+      "duration_ms": 147745,
+      "name": "Tengo Mal Gusto",
+      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+        "name": "Amorcito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70"
       },
       "artists": [
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
         }
       ],
-      "duration_ms": 147745,
-      "name": "Tengo Mal Gusto",
-      "url": "https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp"
+      "duration_ms": 149619,
+      "name": "Amorcito Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 160589,
-      "name": "Yo He Nacido Mexicana",
-      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cucurrucuc\u00fa Paloma",
         "url": "https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci"
       },
@@ -639,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Me Va la Voz",
-        "url": "https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k"
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
       "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez Jr.",
-          "url": "https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH"
-        },
         {
           "name": "Lupita Infante",
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 194182,
-      "name": "Se Me Va la Voz",
-      "url": "https://open.spotify.com/track/2Ms5UbZ2jkT9m2hDWDJdgt"
+      "duration_ms": 160589,
+      "name": "Yo He Nacido Mexicana",
+      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 196939,
       "name": "Flor Sin Reto\u00f1o",
       "url": "https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Me Va la Voz",
+        "url": "https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 194182,
+      "name": "Se Me Va la Voz",
+      "url": "https://open.spotify.com/track/2Ms5UbZ2jkT9m2hDWDJdgt"
     },
     {
       "added_at": null,

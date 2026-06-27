@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,617 likes - 99 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,610 likes - 99 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JAG HATAR DIG](https://open.spotify.com/track/62XzH7SfzK5YjxMG9qM6EP) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [JAG HATAR DIG](https://open.spotify.com/album/2U7cuWijumKUNP5BPuGji4) | 1:58 |
 | 2 | [Andiamo](https://open.spotify.com/track/32BRSCKjfaH74GeSKL6iHi) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Andiamo](https://open.spotify.com/album/6f7CvwG32wORNujJ5wqcdK) | 1:50 |
 | 3 | [better know](https://open.spotify.com/track/5fAUfZgvbKGyn5s2GWzxmi) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [Roy](https://open.spotify.com/artist/1WghHVAzHXQM8zKUAawhWq) | [better know](https://open.spotify.com/album/3wyi3DAxoWo3YAF4qIHgpH) | 2:25 |
-| 4 | [JB x SOUNDZ – GOLDEN AGE](https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [JB x SOUNDZ – GOLDEN AGE](https://open.spotify.com/album/15NHzrRtbABPAJnGrsXvp3) | 2:51 |
+| 4 | [JB x SOUNDZ – GOLDEN AGE](https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [GOLDEN AGE](https://open.spotify.com/album/15NHzrRtbABPAJnGrsXvp3) | 2:51 |
 | 5 | [Loro Piana](https://open.spotify.com/track/5QrDMKqIwM6OpXXdLCELZo) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Loro Piana](https://open.spotify.com/album/3yY3FrR5hlbeUxRBl5EUYn) | 2:08 |
 | 6 | [MONA LISA](https://open.spotify.com/track/3PxWQjRj7onGfYZ6RpT6Sr) | [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [BLESSED](https://open.spotify.com/album/0d4iegp0K4bcI9Lcidgnki) | 2:36 |
 | 7 | [CallePeroElegante](https://open.spotify.com/track/1SIklmaw0idxZJGTm7KsjG) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [CallePeroElegante](https://open.spotify.com/album/2meaQ7AYiIsfvPK9tuUFB0) | 2:41 |

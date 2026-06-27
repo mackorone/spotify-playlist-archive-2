@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Julio Caesar en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eslabon Armado en portada.
 
-639 songs - 1 day 11 hr 11 min
+641 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Corazón](https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd) | [Los Luna](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [Corazón](https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe) | 3:03 | 2023-08-04 | 2023-10-21 |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-03-22 | 2024-09-14 |
 | [Corazón Frío](https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corazón Frío](https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1) | 4:23 | 2023-10-13 |  |
+| [CORTA VENAS](https://open.spotify.com/track/46aQyr7ndPi9DMcsjztOzA) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOCTURNO](https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk) | 4:35 | 2026-06-26 |  |
 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 | 2023-09-29 | 2023-11-18 |
 | [Cruda Moral](https://open.spotify.com/track/7wQbIuItdaE8kUfMIbb7zL) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Cruda Moral](https://open.spotify.com/album/1HIvvTrMhtebUi8TpqKq6J) | 3:07 | 2025-03-21 | 2025-05-03 |
 | [CUANDO LLUEVE](https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [CUANDO LLUEVE](https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq) | 4:18 | 2023-08-04 | 2023-11-11 |
@@ -270,7 +271,7 @@
 | [Lo Que Construimos](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 | 2023-01-14 |
 | [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 | 2026-04-10 |  |
 | [Loco y Enamorado](https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Loco y Enamorado](https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5) | 2:06 | 2022-05-27 | 2022-11-26 |
-| [LOKA](https://open.spotify.com/track/0XeQzVGz8rJGti2yM28hTC) | [Colocho y Su Eminencia](https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz) | [LOKA](https://open.spotify.com/album/1fiLXEc06bzp9gWtOBDUP6) | 2:42 | 2026-03-27 |  |
+| [LOKA](https://open.spotify.com/track/0XeQzVGz8rJGti2yM28hTC) | [Colocho y Su Eminencia](https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz) | [LOKA](https://open.spotify.com/album/1fiLXEc06bzp9gWtOBDUP6) | 2:42 | 2026-03-27 | 2026-06-27 |
 | [Los Malaventurados No Lloran](https://open.spotify.com/track/0U2fiSXSHNBPK9cQdtMZZU) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Los Malaventurados No Lloran](https://open.spotify.com/album/0RuTLLcpZ4d25gDuQsR3xa) | 2:55 | 2025-03-21 | 2025-05-24 |
 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 | 2023-06-23 | 2026-03-14 |
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 | 2023-07-02 |
@@ -329,6 +330,7 @@
 | [MODO DEPRE :\(](https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:19 | 2022-05-06 | 2022-06-11 |
 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 | 2025-06-20 | 2025-08-17 |
 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 | 2025-02-14 | 2025-05-17 |
+| [MORIR TRES VECES](https://open.spotify.com/track/0KBNNZNzYao3kVE1qkqKNt) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [MORIR TRES VECES](https://open.spotify.com/album/7rnUTrdzHlfTmINEXGGPqv) | 3:28 | 2026-06-26 |  |
 | [Mr\. Lonely](https://open.spotify.com/track/3YT3IRkNg5MASgmQTo2l8R) | [L Prince](https://open.spotify.com/artist/2ErRPnVLCqRTx7hJE4a7gg), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Mr\. Lonely](https://open.spotify.com/album/4ph0fKRffMlUs9iPUR1haB) | 2:51 | 2026-04-17 |  |
 | [Mujer De Piedra](https://open.spotify.com/track/0PoS4YxvlnJ5cjiDY23xbq) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Mujer De Piedra](https://open.spotify.com/album/1ZmARcKTx2aAdFHL8I8nDj) | 2:13 | 2025-07-18 | 2025-10-04 |
 | [Mujer en Llamas](https://open.spotify.com/track/3gp4xc1YIFGZQbIDDFJxE1) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Mujer en Llamas](https://open.spotify.com/album/0IOG7wAPgE4LXUzefgY7Nf) | 3:08 | 2024-10-25 | 2024-11-30 |
@@ -436,7 +438,7 @@
 | [PRINCESA](https://open.spotify.com/track/5MvPOrI2YGBG0wnvwARTD0) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 2:28 | 2025-02-14 | 2025-03-22 |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-16 | 2023-07-01 |
 | [Psicodelica](https://open.spotify.com/track/6HzREffgQ16b7Rlrr6BY0m) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 4:13 | 2021-11-22 |  |
-| [punchbowl](https://open.spotify.com/track/0XdYL8Z6LTSUXM5JtRtdTK) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [punchbowl](https://open.spotify.com/album/2fsUjpzzA7swEZbpFjujyc) | 2:34 | 2026-03-20 |  |
+| [punchbowl](https://open.spotify.com/track/0XdYL8Z6LTSUXM5JtRtdTK) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [punchbowl](https://open.spotify.com/album/2fsUjpzzA7swEZbpFjujyc) | 2:34 | 2026-03-20 | 2026-06-27 |
 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 | 2025-10-03 | 2026-03-28 |
 | [Pásenla Bien](https://open.spotify.com/track/5RkfM28bk7ATeaBTwOBsDZ) | [MauXo](https://open.spotify.com/artist/0NH0VtfGCgs3ArcnjvsVMs) | [Pásenla Bien](https://open.spotify.com/album/7m2zbmSF94VzQ6sU1OmHOD) | 3:24 | 2026-03-27 |  |
 | [QPTP](https://open.spotify.com/track/4QwuMUb4t18E83ZbDAEdQV) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [QPTP](https://open.spotify.com/album/18dwo21fkS7TglV0L9lF6r) | 2:29 | 2024-05-31 | 2024-07-13 |

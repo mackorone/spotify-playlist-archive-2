@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Alba Morena.
 
-867 songs - 1 day 20 hr 39 min
+867 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Así me va](https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Así me va](https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj) | 2:35 | 2025-07-03 | 2025-08-15 |
 | [Así Soy Ahora](https://open.spotify.com/track/1mUpdPfMwuUx27tvIFF9wJ) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Así Soy Ahora](https://open.spotify.com/album/2PiIed89pbsKkMxuI4KGPz) | 2:23 | 2025-09-25 | 2025-10-31 |
 | [Au soleil](https://open.spotify.com/track/5NKxOzYAWk6tM0JE25h25G) | [Anouck The Band](https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag), [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Au soleil](https://open.spotify.com/album/19cwq0753UsktXw7VHfx9W) | 4:20 | 2026-05-28 |  |
+| [AUNQUE SOLO SEAN UNAS HORAS](https://open.spotify.com/track/32WTUR6LfPmJIIDvve93CG) | [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns), [Siempre Best](https://open.spotify.com/artist/5yU6lm8sR6jowNAY1PORyA) | [SI CANTARA EN ESPAÑOL SERIA ASI](https://open.spotify.com/album/7GIdsjbTKl1O4ZfMtzyT3f) | 2:34 | 2026-06-25 |  |
 | [Automóviles](https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Automóviles](https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf) | 3:48 | 2024-06-27 | 2024-10-11 |
 | [Autóctono](https://open.spotify.com/track/1jHroiQTsNAUTbAaSGrIuN) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Autóctono](https://open.spotify.com/album/1E13GMn18U09eYcW34tjAk) | 3:00 | 2024-12-05 | 2025-09-26 |
 | [Ave del Paraíso](https://open.spotify.com/track/4zTpcsscMxEGxYlH9LAN1w) | [Cabiria](https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC), [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Ave del Paraíso](https://open.spotify.com/album/0Jxat6FSAtGsp3jSyFfzqp) | 3:48 | 2024-08-29 | 2024-09-06 |
@@ -788,7 +789,6 @@
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [Tormenta de Verano](https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Tormenta de Verano](https://open.spotify.com/album/7xOmZtxBm956kqWkq5IkR9) | 2:14 | 2026-05-21 |  |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 6](https://open.spotify.com/track/32WTUR6LfPmJIIDvve93CG) | [Thals](https://open.spotify.com/artist/1LDF2JIDwCRoESyjnp7xns) | [SI CANTARA EN ESPAÑOL SERIA ASI](https://open.spotify.com/album/7GIdsjbTKl1O4ZfMtzyT3f) | 0:00 | 2026-06-25 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 506649,
+  "num_followers": 506656,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,34 @@
     {
       "added_at": "2026-06-19 03:03:08",
       "album": {
+        "name": "Baiana (With L-Gante)",
+        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Baiana - With L-Gante",
+      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
+    },
+    {
+      "added_at": "2026-06-19 03:03:08",
+      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -731,34 +759,6 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
-    },
-    {
-      "added_at": "2026-06-19 03:03:08",
-      "album": {
-        "name": "Baiana (With L-Gante)",
-        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Baiana - With L-Gante",
-      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
     },
     {
       "added_at": "2026-06-19 03:03:08",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-06-19 03:03:08",
       "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
-    },
-    {
-      "added_at": "2026-06-19 03:03:08",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 216126,
       "name": "Light",
       "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
+    },
+    {
+      "added_at": "2026-06-19 03:03:08",
+      "album": {
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
     },
     {
       "added_at": "2026-06-19 03:03:08",

@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-103 songs - 7 hr 51 min
+104 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [This Is My Song \- Live at Rock & Pop, 09.11.1973](https://open.spotify.com/track/55LOT6amMEuCgZCbBB0t9m) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [This Is My Song \(Live at Rock & Pop, 09.11.1973\)](https://open.spotify.com/album/3iboF1U2i7ly1vDffiTQwV) | 4:08 | 2025-06-28 | 2025-07-25 |
 | [To Be With You In Heaven](https://open.spotify.com/track/6gJmEEJOvfiVUmMOGxkGtu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:49 | 2024-01-03 | 2024-01-05 |
 | [Under The Same Sun](https://open.spotify.com/track/0NHBt8bp6tloebOWV3U3fN) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 4:53 | 2022-09-17 |  |
+| [Viento De Cambio](https://open.spotify.com/track/54bvGj5P8X4yK6E2zvMhCW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Las Rolas Acústicas Favoritas de Papá](https://open.spotify.com/album/4dC6fwtkeS2sxWMr7Bloid) | 5:08 | 2026-06-27 |  |
 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 | 2022-09-17 |  |
 | [We'll Burn the Sky \- 2015 \- Remaster](https://open.spotify.com/track/05aYS67B9WxWDA5ZWVkvCf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Taken by Force](https://open.spotify.com/album/4x60lguRLWOMppq1d5rwGK) | 6:31 | 2022-09-17 | 2023-11-11 |
 | [When I Lay My Bones To Rest](https://open.spotify.com/track/58hNqg1Odj9xm76jt4cjT4) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:07 | 2022-09-21 | 2022-10-12 |
@@ -110,6 +111,6 @@
 | [Wind Of Change \- On Stage](https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Wind Of Change \(On Stage\)](https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP) | 5:05 | 2025-10-05 | 2025-11-02 |
 | [You & I](https://open.spotify.com/track/659lSEpj2x1hRdpLCSO5Wk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [You & I](https://open.spotify.com/album/3C7MMV9RWemgXyu2XAil6u) | 6:15 | 2025-09-28 |  |
 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 | 2022-09-17 | 2026-05-09 |
-| [You Give Me All I Need](https://open.spotify.com/track/4t2dUobtoXRlqxz2pIxp71) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:38 | 2025-10-20 |  |
+| [You Give Me All I Need](https://open.spotify.com/track/4t2dUobtoXRlqxz2pIxp71) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:38 | 2025-10-20 | 2026-06-27 |
 
 \*This playlist was first scraped on 2022-09-18. Prior content cannot be recovered.

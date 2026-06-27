@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 37 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 37 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 8 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 |
 | 9 | [Monster](https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Monster](https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS) | 2:46 |
 | 10 | [hi fem](https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:31 |
-| 11 | [BOTH](https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Sophie Gray](https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS) | [BOTH](https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC) | 2:34 |
-| 12 | [not safe](https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [not safe](https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L) | 2:16 |
+| 11 | [not safe](https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [not safe](https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L) | 2:16 |
+| 12 | [BOTH](https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Sophie Gray](https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS) | [BOTH](https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC) | 2:34 |
 | 13 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
 | 14 | [SUGARCOAT](https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:01 |
 | 15 | [boys lie](https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO) | 2:25 |
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 18 | [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 |
 | 19 | [Find A Way](https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:51 |
 | 20 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 |
-| 21 | [say it back](https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:17 |
+| 21 | [demon time \(with BAYLI\)](https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:10 |
 | 22 | [Gospel](https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:14 |
-| 23 | [demon time \(with BAYLI\)](https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:10 |
+| 23 | [say it back](https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:17 |
 | 24 | [Ethical Plum](https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Ethical Plum](https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz) | 2:46 |
 | 25 | [into me](https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:22 |
 | 26 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 36 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 | 37 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 
-Snapshot ID: `ajseAAAAAACf5QKbYkI/c13WHB8WKluL`
+Snapshot ID: `ajxvgAAAAADNZLKqswdJWPYUc/Od/6Ag`

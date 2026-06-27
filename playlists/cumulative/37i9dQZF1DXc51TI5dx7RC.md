@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: T!NE
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: BLVCKHEART
 
-272 songs - 16 hr 19 min
+274 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 | 2025-05-08 | 2026-03-21 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-15 | 2026-02-07 |
 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 | 2024-09-19 | 2026-03-21 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I love you a latte](https://open.spotify.com/track/59wHlNG8GyEBWlXKGCOnuV) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [I love you a latte](https://open.spotify.com/album/5sNeJA74iuvnlSXaCBM1EI) | 3:53 | 2025-05-08 | 2025-08-16 |
 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 | 2024-07-28 | 2024-10-19 |
 | [intro \(end of the world\)](https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 1:32 | 2024-06-20 | 2024-11-23 |
@@ -138,7 +138,7 @@
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 | 2025-01-19 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 | 2025-10-04 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-28 | 2025-09-06 |
-| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-22 |  |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-22 | 2026-06-27 |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-03 | 2026-03-06 |
 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 | 2024-11-08 | 2025-05-24 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-20 | 2024-11-23 |
@@ -203,7 +203,7 @@
 | [ที่เดิม](https://open.spotify.com/track/4KZRjuldIGTS7AQUPbUvbs) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 3:56 | 2024-10-11 |  |
 | [ทุกการเติบโตของเธอจะมีฉันคอยซัพพอร์ตเสมอ](https://open.spotify.com/track/4U38O9pdKGcqKwnoo500pg) | [FULL](https://open.spotify.com/artist/33qb8ygOiyswUe29Dv5FRE) | [ทุกการเติบโตของเธอจะมีฉันคอยซัพพอร์ตเสมอ](https://open.spotify.com/album/4w8jrwZXcPv7fol2mFi91A) | 4:25 | 2025-08-15 | 2025-09-06 |
 | [ท้ายปี](https://open.spotify.com/track/6NnDhBn93o2CxGkwrtKVMG) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ท้ายปี \- Single](https://open.spotify.com/album/6GRgfeM13bUQOSCTssD4fG) | 4:45 | 2024-12-05 | 2025-08-16 |
-| [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 | 2025-02-24 |  |
+| [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 | 2025-02-24 | 2026-06-27 |
 | [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 | 2025-10-22 | 2025-12-19 |
 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 | 2024-11-08 | 2025-06-21 |
 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2025-03-23 |  |
@@ -259,6 +259,7 @@
 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 | 2026-05-22 |  |
 | [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 | 2025-08-22 | 2026-02-17 |
 | [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ezfWejKhD3CJS0qLNJKkQ) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/37Ii4y5gfz2JRD5oil2TiS) | 4:30 | 2026-02-16 |  |
+| [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/track/7L3sb4eqF8zfQU8nAekHPm) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [เมื่อไหร่จะมี \(มีใจให้กัน\)](https://open.spotify.com/album/1LEPOmRF1QztU3ZG8cflDv) | 3:34 | 2026-06-26 |  |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-11 | 2024-09-14 |
 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 | 2026-01-15 |  |
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-23 | 2024-09-14 |
@@ -275,6 +276,7 @@
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 | 2024-12-05 | 2025-03-24 |
 | [ได้แค่เดินมาส่ง \(The Last Walk\)](https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ROOM101](https://open.spotify.com/album/5KyBfveZb2nGL3Hl4qlwz3) | 3:47 | 2026-04-23 |  |
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-16 | 2025-02-07 |
+| [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 | 2026-06-26 |  |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-06-20 | 2025-02-22 |
 | [ไม่ใช่ไม่รัก](https://open.spotify.com/track/2UYCVz38O2zoQICICt9ZzU) | [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP) | [ไม่ใช่ไม่รัก](https://open.spotify.com/album/3DqJ2YjutAdb7xv55GTFTd) | 4:31 | 2026-01-15 | 2026-02-21 |
 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 | 2024-06-20 | 2025-08-16 |

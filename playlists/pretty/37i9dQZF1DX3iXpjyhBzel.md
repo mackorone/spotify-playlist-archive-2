@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Get Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,910 likes - 100 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,957 likes - 100 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 26 | [A Maior Honra \- Ao Vivo](https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Guilherme Andrade](https://open.spotify.com/artist/6LFnFW6ECYKbvQ4QV4NwnH) | [A Maior Honra \(Ao Vivo\)](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 11:22 |
 | 27 | [O Medo Não Vai Me Parar \- Ao Vivo](https://open.spotify.com/track/4lILbjkdIihRgg3Z1QP5Qh) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [O Medo Não Vai Me Parar \(Ao Vivo\)](https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY) | 5:03 |
 | 28 | [Fiel é Deus](https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Fiel é Deus](https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb) | 8:23 |
-| 29 | [Ele Não Desiste de Você \- Ao Vivo em Salvador](https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Cura \| EP 01](https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH) | 4:30 |
-| 30 | [Não Me Deixe Esquecer \- Ao Vivo](https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Não Me Deixe Esquecer \(Ao Vivo\)](https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r) | 6:20 |
+| 29 | [Não Me Deixe Esquecer \- Ao Vivo](https://open.spotify.com/track/5l8vkQjZJz8EXmo28YoaPr) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Não Me Deixe Esquecer \(Ao Vivo\)](https://open.spotify.com/album/1bpa2Hycu9w4xWU6QRKi1r) | 6:20 |
+| 30 | [Ele Não Desiste de Você \- Ao Vivo em Salvador](https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Cura \| EP 01](https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH) | 4:30 |
 | 31 | [Avenida do Arrependimento](https://open.spotify.com/track/6gFSzsRAZOG9tRPcnWwkdT) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Avenida do Arrependimento](https://open.spotify.com/album/2ttxcuefm67xcXkS8JZLzs) | 6:30 |
 | 32 | [Se eu Somente Te Tocar \- Ao Vivo](https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1) | [Nilson Junior](https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny) | [Se eu Somente Te Tocar \(Ao Vivo\)](https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9) | 4:55 |
 | 33 | [NÃO CHORE JOÃO](https://open.spotify.com/track/6dvUdd19BulcH9rIkZd18F) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [{Ao Senhor•Aos Santos•Ao Mundo}](https://open.spotify.com/album/1p8TnsMRhfPCTLd0u3NeOF) | 5:03 |

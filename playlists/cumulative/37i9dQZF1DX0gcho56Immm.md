@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: mikey
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-301 songs - 17 hr 26 min
+307 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Hey Girl](https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Corpus](https://open.spotify.com/album/3eX3zbQQylwOS1mX7Wp2ZO) | 4:01 | 2025-03-13 | 2026-01-17 |
 | [Hibiscus](https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R) | [Carré](https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Hibiscus](https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn) | 2:59 | 2026-01-30 |  |
 | [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 | 2026-02-12 |  |
+| [Higher Midnight](https://open.spotify.com/track/34Yc7nYqmSXIqM6wIoS6Ca) | [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Higher Midnight](https://open.spotify.com/album/5qgWe7MCLEQKH3mBmQIlaa) | 2:12 | 2026-06-26 |  |
 | [Hit & Run](https://open.spotify.com/track/1j75PTRIXXaObizbId3eoZ) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Better Angels](https://open.spotify.com/album/33mfAax2G5I4xIimwIxjnt) | 1:52 | 2026-05-08 |  |
 | [Honey Scented Soul](https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Strange Serenity](https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy) | 2:58 | 2025-05-01 |  |
 | [Honeysuckle](https://open.spotify.com/track/00L6NLpcJvIIx6gXcLgf1c) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna), [Mary Jane Dunphe](https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous) | [Honeysuckle](https://open.spotify.com/album/0hjxxXTbZ1L3UmdYhKsiGP) | 3:12 | 2025-03-13 | 2025-08-09 |
@@ -179,6 +180,7 @@
 | [Maybe..](https://open.spotify.com/track/4q6Dn8XcJUoSdp9dRUHS62) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [born to sing](https://open.spotify.com/album/7JGeqFHADaNviwVE5xqfAW) | 2:52 | 2025-03-13 | 2025-08-09 |
 | [Mindflower](https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Mindflower](https://open.spotify.com/album/1ksHR5EpvXQiCAyasSLpEK) | 4:14 | 2025-08-08 |  |
 | [Miracle](https://open.spotify.com/track/3ndJHdQHWFer3JbMZuUXQI) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:55 | 2026-03-05 |  |
+| [Miscommunication](https://open.spotify.com/track/1Iufyww7vBObAq95TsleLn) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [Miscommunication](https://open.spotify.com/album/0XUJr36WbA7gYBm2HcYpsY) | 4:40 | 2026-06-26 |  |
 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 | 2025-11-21 |  |
 | [Morphe Sun](https://open.spotify.com/track/7hNRxxcR2aRMadgWKL0YHM) | [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Karaoke Of The Bends](https://open.spotify.com/album/0rfTTnuksM3DdHXIi8BrVB) | 2:19 | 2025-03-13 | 2026-01-24 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-19 |  |
@@ -225,6 +227,7 @@
 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 | 2026-04-16 |  |
 | [Seasons](https://open.spotify.com/track/1DdXVmPCIKccJFThb97GPs) | [Astrid Samuelsen](https://open.spotify.com/artist/5YTzwbSyMvUDPTVJE8HBjd) | [Seasons](https://open.spotify.com/album/44fnGesr3lUT4g11vICkqZ) | 4:24 | 2025-08-18 | 2026-03-07 |
 | [second place](https://open.spotify.com/track/1fbOvCYi48oNtnUvTU3Khr) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [second place](https://open.spotify.com/album/5gYgcCmZo9BaWmvyW4ZX2k) | 2:45 | 2025-07-18 | 2026-03-07 |
+| [See\-through](https://open.spotify.com/track/68Pmz9nDlz2MjpNJ3X94KQ) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [See\-through](https://open.spotify.com/album/3h4pgqLbUPj2ojUeKy0Y0G) | 4:19 | 2026-06-26 |  |
 | [Seeing Is Forgetting](https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 3:36 | 2026-03-06 |  |
 | [Send Me Out](https://open.spotify.com/track/4eRdQSJXcfsgkQxG5sEanc) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:30 | 2025-07-18 |  |
 | [Sexy](https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869) | [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE), [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Rockie](https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku) | 2:10 | 2026-03-19 |  |
@@ -252,6 +255,7 @@
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 | 2026-03-07 |
 | [Stardust](https://open.spotify.com/track/6IxRRIh4IcRL5bspf2uP8g) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Facing Atlas](https://open.spotify.com/album/3gfEp3bCySjOJ1vCIFINCi) | 6:46 | 2025-09-23 | 2026-05-01 |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 | 2025-08-09 |
+| [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 | 2026-06-26 |  |
 | [Still Above](https://open.spotify.com/track/01jtoPWy6B49NfXtI51JIq) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 2:28 | 2025-08-08 |  |
 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 | 2025-10-31 |  |
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 | 2026-02-07 |
@@ -278,6 +282,7 @@
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 |  |
 | [TWINK](https://open.spotify.com/track/6TecO454rbbvjs7ntr0S5N) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [TWINK](https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB) | 2:42 | 2025-06-26 | 2026-03-07 |
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-08 | 2026-03-07 |
+| [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 | 2026-06-26 |  |
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 | 2026-01-24 |
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-03-13 | 2025-08-09 |
 | [Under my bed](https://open.spotify.com/track/1w1a1ao2QB7I8w1vhjQkMV) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Under my bed](https://open.spotify.com/album/6PW5lLNR9cAhIEJJVlrdso) | 2:52 | 2026-02-26 |  |
@@ -288,6 +293,7 @@
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-08-18 |  |
 | [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Fetish / Valley Serpent](https://open.spotify.com/album/3B4hYM7ShimSOicikAu1Gq) | 2:27 | 2025-06-26 | 2026-03-20 |
 | [Walk Away](https://open.spotify.com/track/5qVqO95bAKrSAXr7syJDA5) | [The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore](https://open.spotify.com/artist/583rGXTlkvSQmtB2kKpfRW), [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv), [Róisín Berkeley](https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG), [Cal Fish](https://open.spotify.com/artist/1BeMy964YqmvTvsHtPdDwl), [K\. Francis Messer](https://open.spotify.com/artist/7oUoOBTfEgkgoHGsid1vN5) | [The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore](https://open.spotify.com/album/2GlAK5ZGWlzIzvLv1XSIoZ) | 2:40 | 2026-04-30 |  |
+| [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 | 2026-06-26 |  |
 | [wash away](https://open.spotify.com/track/3wRM4IwCDAXbYz3L97OaIY) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [wash away](https://open.spotify.com/album/2tslN1LJt5kcegF8hmlAbB) | 3:17 | 2026-02-19 |  |
 | [Waste Me](https://open.spotify.com/track/65pXLi3OL3aoRKM4SkFgjq) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Under My Umbrella](https://open.spotify.com/album/6I3jAD916rESCOEmqmtzTx) | 3:12 | 2026-04-23 |  |
 | [Watching You](https://open.spotify.com/track/0SsKmpQnyk4AAOY11yXS40) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:20 | 2025-07-25 | 2026-04-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,724 likes - 116 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,723 likes - 116 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 86 | [你的暗號](https://open.spotify.com/track/2GQqUXVGEJvHlZxcFXFZA1) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [你的暗號](https://open.spotify.com/album/6E21XXTV6Xy6P4M70V6l7f) | 4:15 |
 | 87 | [模糊的記憶 \(SG:SW 2025 優異作詞獎\)](https://open.spotify.com/track/2hGM5TadrbxzgZ8lozUS3F) | [张盈盈](https://open.spotify.com/artist/2upwR4uN1EjnZkwtKGf14Q) | [模糊的記憶 \(SG:SW 2025 優異作詞獎\)](https://open.spotify.com/album/5QZ2ejTm9PBn2INTgdWX9h) | 3:40 |
 | 88 | [I Misssssss You](https://open.spotify.com/track/5V5ttMhz0gkVPaEBu8YZsc) | [QQ陈梓淇](https://open.spotify.com/artist/0fQhZIYl4ceU2LVZyzFKfG) | [I Misssssss You](https://open.spotify.com/album/49dq4y3gQfA2OVkPt2bKQJ) | 3:28 |
-| 89 | [皺褶](https://open.spotify.com/track/5IFAJEdCTNViPIwmoBJDUm) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [皺褶](https://open.spotify.com/album/6UiVCKuap8sKJ0N4durgQe) | 3:30 |
+| 89 | [皺褶](https://open.spotify.com/track/5IFAJEdCTNViPIwmoBJDUm) | [張仁與](https://open.spotify.com/artist/5c1MnkZTc5PWasAfciinK4) | [皺褶](https://open.spotify.com/album/6UiVCKuap8sKJ0N4durgQe) | 3:27 |
 | 90 | [不联络的朋友](https://open.spotify.com/track/2ses1RSPw7IWqWIwFsuPTv) | [Azora Chin](https://open.spotify.com/artist/40e9OFBP4xVmpLccI1FYiI) | [不联络的朋友](https://open.spotify.com/album/6X1OfsBRbYYZYOHCBTEVrv) | 3:30 |
 | 91 | [燈影微暖](https://open.spotify.com/track/3Z5kiLfbK1UMRDw8tUOUA9) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [燈影微暖](https://open.spotify.com/album/7E050WkHEy5Ji3dRHtAPXI) | 4:06 |
 | 92 | [迷失边缘](https://open.spotify.com/track/3LbDcrbqfLFSXkfkaLWEdL) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [迷失边缘](https://open.spotify.com/album/6qkGI8YuzRHSS9Y1HWWuhJ) | 2:29 |

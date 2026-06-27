@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-302 songs - 14 hr 57 min
+302 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [MAD](https://open.spotify.com/track/3JnvLFQi2mHwBsRtYoyzi4) | [Gee Baller](https://open.spotify.com/artist/670MGZkS4Rzkpl2IR9EQSx), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [MAD](https://open.spotify.com/album/6thOJKtrSEnzZikUd7GSDW) | 2:49 | 2022-09-29 | 2023-01-28 |
 | [Masha Allah](https://open.spotify.com/track/3SVsLxJOFjScmApPu7yvk2) | [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [Masha Allah](https://open.spotify.com/album/3dPBRWvUgsd4I09kZMaTAs) | 2:01 | 2024-01-19 | 2024-03-01 |
 | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5) | 3:08 | 2022-06-09 |  |
+| [Me](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 2:14 | 2026-06-25 |  |
 | [Me & You](https://open.spotify.com/track/5j9UwAnVUvntvKzLjbvVsT) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN) | [Me & You](https://open.spotify.com/album/7KhQhMmRKgHNSx37JkF37Q) | 4:00 | 2023-04-20 | 2023-06-10 |
 | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 | 2024-09-20 | 2025-08-24 |
 | [Mensu](https://open.spotify.com/track/1D2f0L04VMVvJ4ZgI9RFfr) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Mensu](https://open.spotify.com/album/6bpAi8Gvgp280QEnwihREZ) | 2:39 | 2025-11-28 | 2026-01-15 |
@@ -276,7 +277,6 @@
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Track 1](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 0:00 | 2026-06-25 |  |
 | [Trapper Man](https://open.spotify.com/track/1J8NL4Us5EZSJw1GwkvRiS) | [Hiphop Africa](https://open.spotify.com/artist/2s1z2VzXmksRd1VNoKhkhY), [Sobolo Geng](https://open.spotify.com/artist/5gKj7cTFiW0Edum0HkGifx) | [Trapper Man](https://open.spotify.com/album/6tTm9ln6qZuquAWFnO4Di3) | 3:07 | 2025-09-26 | 2025-11-05 |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 | 2026-01-14 |  |

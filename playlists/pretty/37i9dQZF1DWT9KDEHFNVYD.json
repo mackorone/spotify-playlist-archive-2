@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17451,
+  "num_followers": 17454,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Can't Get There EP",
-        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
-      },
-      "artists": [
-        {
-          "name": "Minami Deutsch",
-          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
-        }
-      ],
-      "duration_ms": 437250,
-      "name": "Can't Get There",
-      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Can't Get There EP",
+        "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
+      },
+      "artists": [
+        {
+          "name": "Minami Deutsch",
+          "url": "https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ"
+        }
+      ],
+      "duration_ms": 437250,
+      "name": "Can't Get There",
+      "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 787133,
-      "name": "Die lange Gerade",
-      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Radar, Vol. 1",
         "url": "https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 300003,
       "name": "Otto",
       "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 787133,
+      "name": "Die lange Gerade",
+      "url": "https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU"
     },
     {
       "added_at": "2021-07-30 14:56:06",

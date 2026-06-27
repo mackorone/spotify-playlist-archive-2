@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,486 likes - 180 songs - 10 hr 6 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,485 likes - 180 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 129 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 |
 | 130 | [Eenhoorn](https://open.spotify.com/track/43fJK8ocKAoGZQ3GyP3vLl) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Ruimtevaart EP](https://open.spotify.com/album/0oIXREWVdHV7k60VhRbYwp) | 5:16 |
 | 131 | [Jack of Hearts](https://open.spotify.com/track/4TGYsqn0ca4DedYQPxrQ5t) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:23 |
-| 132 | [Give a Little](https://open.spotify.com/track/0Umdck3EQINZfO78t4fPXN) | [LeGrand](https://open.spotify.com/artist/7bKiOmvglpzTL0xrJfOcVF), [CG5](https://open.spotify.com/artist/7thrOouBUyXkpMJCVxY35O) | [give a little](https://open.spotify.com/album/1zDpN5yfHwpqzJNXP2t7MN) | 2:49 |
+| 132 | [Give a Little](https://open.spotify.com/track/0Umdck3EQINZfO78t4fPXN) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL), [CG5](https://open.spotify.com/artist/7thrOouBUyXkpMJCVxY35O) | [give a little](https://open.spotify.com/album/1zDpN5yfHwpqzJNXP2t7MN) | 2:49 |
 | 133 | [No Cock Like Horse Cock](https://open.spotify.com/track/59ndu9VkohItqZDNFYlEYJ) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:15 |
 | 134 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 |
 | 135 | [Heist](https://open.spotify.com/track/5cONIcZ21ba5694T4ayY5v) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Heist](https://open.spotify.com/album/458iD19nj4x8eBlO60rXU8) | 3:02 |

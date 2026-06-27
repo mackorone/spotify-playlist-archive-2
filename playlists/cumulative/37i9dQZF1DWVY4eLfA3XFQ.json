@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc08 Tech house operators, featuring Kevin Knapp",
+  "description": "50% techno, 50% house \ud83d\udc08 Tech house operators, featuring DJ Tennis",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -2250,7 +2250,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 156969,
       "name": "All The Ladies",
       "url": "https://open.spotify.com/track/2gKKPuIyQpNmcjwzXPgfDf"
@@ -2290,6 +2290,24 @@
       "duration_ms": 227492,
       "name": "All The People",
       "url": "https://open.spotify.com/track/3DIbhNca59R5jLzq7AHnlr"
+    },
+    {
+      "album": {
+        "name": "All The Single Ladies",
+        "url": "https://open.spotify.com/album/69wRJoT9mNIGsphLYykWOp"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "All The Single Ladies",
+      "url": "https://open.spotify.com/track/6nHd05S2F8DITMquVWKj3U"
     },
     {
       "album": {
@@ -2552,6 +2570,24 @@
       "duration_ms": 155714,
       "name": "Amor",
       "url": "https://open.spotify.com/track/160zbysYKia7DpELpVS0DW"
+    },
+    {
+      "album": {
+        "name": "Anaconda",
+        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216861,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
     },
     {
       "album": {
@@ -8283,6 +8319,32 @@
     },
     {
       "album": {
+        "name": "Can't Say Nah (feat. Benni Ola)",
+        "url": "https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Can't Say Nah (feat. Benni Ola)",
+      "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
+    },
+    {
+      "album": {
         "name": "Can't Stand",
         "url": "https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml"
       },
@@ -8596,7 +8658,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 120000,
       "name": "Caramelle",
       "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
@@ -9475,6 +9537,28 @@
     },
     {
       "album": {
+        "name": "CircoLoco",
+        "url": "https://open.spotify.com/album/1tJaK909K2B286fMfOwQ6G"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/0SpjJZehdlLB7qMJL86E35"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239485,
+      "name": "CircoLoco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LAVS3IzKkS5Mi7IU8oycu"
+    },
+    {
+      "album": {
         "name": "Circus EP",
         "url": "https://open.spotify.com/album/4ZlcX8nEMYUursOBLVzwXF"
       },
@@ -9764,7 +9848,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187669,
       "name": "Clubwalker",
       "url": "https://open.spotify.com/track/6NjcmK0kTqYqPuGHywAR5T"
@@ -10202,7 +10286,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 180895,
       "name": "Coming Up (It\u2019s Dare)",
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
@@ -16533,6 +16617,24 @@
     },
     {
       "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/0mTcPB1KwscwkNMjntqRmu"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/1i1Uc8RJU8JhTWfmavnDrP"
+    },
+    {
+      "album": {
         "name": "EZ (feat. Puku)",
         "url": "https://open.spotify.com/album/1VRoccWTmZMUlRGRM0KBxo"
       },
@@ -16794,7 +16896,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
@@ -19308,7 +19410,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 174759,
       "name": "Function",
       "url": "https://open.spotify.com/track/1bhRw5feZyeh5Ti0o40wC9"
@@ -27009,6 +27111,28 @@
     },
     {
       "album": {
+        "name": "Kickdrum",
+        "url": "https://open.spotify.com/album/6YoSyRCaIx28uq9xLel15F"
+      },
+      "artists": [
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        },
+        {
+          "name": "CVMPANILE",
+          "url": "https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351803,
+      "name": "Kickdrum",
+      "url": "https://open.spotify.com/track/5kvEJDw6dxw53p8HBEcDAN"
+    },
+    {
+      "album": {
         "name": "Kid You Not",
         "url": "https://open.spotify.com/album/1Cw5KYlQDjL45X9DfrTvus"
       },
@@ -32838,6 +32962,28 @@
     {
       "album": {
         "name": "Misbehave",
+        "url": "https://open.spotify.com/album/1wXcega37XIaXTUHK85zDU"
+      },
+      "artists": [
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Campbell King",
+          "url": "https://open.spotify.com/artist/18XKTgi2KHE5JpxFlrl7YM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196511,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/1ALvTgxMMuWG1ZtxDWM0Lb"
+    },
+    {
+      "album": {
+        "name": "Misbehave",
         "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
       "artists": [
@@ -33118,7 +33264,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 165990,
       "name": "Money",
       "url": "https://open.spotify.com/track/4t2q5k9uoZGzKe2px6j65Q"
@@ -36535,6 +36681,28 @@
     },
     {
       "album": {
+        "name": "Odoriko",
+        "url": "https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG"
+      },
+      "artists": [
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289880,
+      "name": "Odoriko",
+      "url": "https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl"
+    },
+    {
+      "album": {
         "name": "Oeng Baka",
         "url": "https://open.spotify.com/album/7iMWGtaCAC5LeSnoihKvMO"
       },
@@ -38553,6 +38721,28 @@
     },
     {
       "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/3PJYLIo87uSrtkwDZ2a7ZD"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        },
+        {
+          "name": "Domenico Rondinelli",
+          "url": "https://open.spotify.com/artist/4pYmOPlUOA4p7cSrmnSd5w"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/2jiDDOAnHUcF9OeXzUbpPv"
+    },
+    {
+      "album": {
         "name": "Papi",
         "url": "https://open.spotify.com/album/58meZNwNVZX6TPWlUpWwOt"
       },
@@ -39034,6 +39224,24 @@
       "duration_ms": 218181,
       "name": "Paula Abdul",
       "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
+    },
+    {
+      "album": {
+        "name": "Sex Machine EP",
+        "url": "https://open.spotify.com/album/1e3vwSdN7h1l2CK327jwaw"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225134,
+      "name": "Pay To Play",
+      "url": "https://open.spotify.com/track/2K5sawFkHlDwpm3Pu1JUq3"
     },
     {
       "album": {
@@ -40758,6 +40966,28 @@
       "duration_ms": 171692,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/5ul7KH94gNbcsZZABPCuAz"
+    },
+    {
+      "album": {
+        "name": "Pump That Body",
+        "url": "https://open.spotify.com/album/4b2UuiqcaPEfPHcwzk095J"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256846,
+      "name": "Pump That Body",
+      "url": "https://open.spotify.com/track/0wKWnU5HMCr06lxFzJ5nwF"
     },
     {
       "album": {
@@ -54667,6 +54897,24 @@
     },
     {
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/6EgDrXuglsmEqZrfZCqXur"
+      },
+      "artists": [
+        {
+          "name": "ENNE (BR)",
+          "url": "https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/6FNx5xzfrrRwur3c7V5TZq"
+    },
+    {
+      "album": {
         "name": "Vai",
         "url": "https://open.spotify.com/album/55GL804NtPvwUfv2FRd0R0"
       },
@@ -54912,7 +55160,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 166477,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6uaReMYzSpw9NFReHxAs1J"
@@ -57760,6 +58008,32 @@
       "duration_ms": 273230,
       "name": "WTF",
       "url": "https://open.spotify.com/track/6wJdOp5YA0e8JV0bIZEUrW"
+    },
+    {
+      "album": {
+        "name": "wtf",
+        "url": "https://open.spotify.com/album/5PFTvSMbVO3FPNwYeRDtQK"
+      },
+      "artists": [
+        {
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+        },
+        {
+          "name": "DvirNuns",
+          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197683,
+      "name": "wtf",
+      "url": "https://open.spotify.com/track/0gsCoEAU0OOr4lXNEgXhgW"
     },
     {
       "album": {

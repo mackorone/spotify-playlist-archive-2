@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168346,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6L4RDIubtii4oSLJ1bfOkT"
@@ -5277,6 +5277,24 @@
     },
     {
       "album": {
+        "name": "Dali",
+        "url": "https://open.spotify.com/album/6AIHK9HsYStY02FXsIeoqg"
+      },
+      "artists": [
+        {
+          "name": "Da Man",
+          "url": "https://open.spotify.com/artist/3qzPlqHEQHGjNcGNoaaqnV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329221,
+      "name": "Dali",
+      "url": "https://open.spotify.com/track/7yn03ZhqrnArg5ccLdBG9y"
+    },
+    {
+      "album": {
         "name": "Dalie (feat. Baby S.O.N)",
         "url": "https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID"
       },
@@ -6566,6 +6584,28 @@
       "duration_ms": 206653,
       "name": "Elle m'a aim\u00e9",
       "url": "https://open.spotify.com/track/7nge1KGzvd36KljBjRb063"
+    },
+    {
+      "album": {
+        "name": "Trapop",
+        "url": "https://open.spotify.com/album/78oQ03M4EGrGOl5CpjH1Hv"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        },
+        {
+          "name": "Haristone",
+          "url": "https://open.spotify.com/artist/4A1BIRTQQ1yNPwcg57Ubq7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207453,
+      "name": "Elle m'a dit (feat. Haristone)",
+      "url": "https://open.spotify.com/track/3Jmcl5PTs5IdI3zsZoGKk2"
     },
     {
       "album": {
@@ -11842,7 +11882,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 236386,
       "name": "Lune de miel (feat. Zaho)",
       "url": "https://open.spotify.com/track/6Ww5r82aRfiOHsCz7NMIAP"
@@ -14254,7 +14294,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207600,
       "name": "Na Za D\u00e9sol\u00e9",
       "url": "https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18"
@@ -14330,6 +14370,24 @@
       "duration_ms": 173375,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3OKAYvfvOvxqZQk3KBCIZr"
+    },
+    {
+      "album": {
+        "name": "Bipolaire",
+        "url": "https://open.spotify.com/album/236zBwcQTATKjbvPtXmrHW"
+      },
+      "artists": [
+        {
+          "name": "Q.E Favelas",
+          "url": "https://open.spotify.com/artist/16vfg5F2MKku9FMIrFIqry"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Negro difficile",
+      "url": "https://open.spotify.com/track/4OLRGK5ae9tRj5jUWweIoS"
     },
     {
       "album": {
@@ -22033,6 +22091,32 @@
     },
     {
       "album": {
+        "name": "YAPAQUE",
+        "url": "https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "YAPAQUE",
+      "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
+    },
+    {
+      "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
@@ -22092,7 +22176,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 141000,
       "name": "YOU AND ME",
       "url": "https://open.spotify.com/track/6GXM1K6UfE4UNJHfpDxn73"

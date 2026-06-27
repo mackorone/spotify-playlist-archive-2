@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: Chella
 
-662 songs - 1 day 7 hr 9 min
+662 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 | 2024-05-10 | 2024-05-17 |
 | [Gbadun](https://open.spotify.com/track/3MslJj39APOMPzF0ShKa9F) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Gbadun](https://open.spotify.com/album/0jJ459dzmPpefkVtBf4NNO) | 2:40 | 2023-12-01 | 2024-01-18 |
 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 | 2023-10-13 |
+| [GBESUNMO](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 3:08 | 2026-06-26 |  |
 | [Gelato](https://open.spotify.com/track/0CYRz5xyGFopF14SnrrINF) | [Greatness Republik](https://open.spotify.com/artist/4PAIL8FoTRybuwXYBFqb0G), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR) | [Gelato](https://open.spotify.com/album/6D1tIUdXKiK1IcQgK8HhBJ) | 2:44 | 2024-01-26 | 2024-02-09 |
 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-03-21 |  |
 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 | 2025-09-26 |  |
@@ -487,6 +488,7 @@
 | [Orobo](https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Orobo](https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa) | 2:13 | 2024-10-18 | 2025-02-07 |
 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 | 2024-02-16 | 2024-09-28 |
 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 | 2024-06-14 | 2024-06-28 |
+| [Oshe](https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 2:38 | 2026-06-26 |  |
 | [Osusu](https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Uzama The 3rd](https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw) | 2:34 | 2025-07-04 |  |
 | [Otilo \(Izz Gone\)](https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Otilo \(Izz Gone\)](https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5) | 2:42 | 2022-09-30 | 2023-04-26 |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2022-06-09 | 2022-12-08 |
@@ -611,8 +613,6 @@
 | [Too Busy To Be Bae](https://open.spotify.com/track/2oXElJdmnDXKkeWNEYiK7A) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Too Busy To Be Bae](https://open.spotify.com/album/6tmgVhYZuO8KOaj202zAsy) | 2:57 | 2023-12-15 | 2024-09-20 |
 | [Tossmitoss](https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:30 | 2023-06-02 | 2023-06-17 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 | 2024-06-01 |
-| [Track 15](https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 0:00 | 2026-06-26 |  |
-| [Track 6](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 0:00 | 2026-06-26 |  |
 | [TRU$T FUND](https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Yosa](https://open.spotify.com/artist/4uOFhVdn1lnzqIe0H6MlVE), [Big Fish](https://open.spotify.com/artist/0KFRHkm4VoT1gpAjSUdzQa) | [TRU$T FUND](https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ) | 3:07 | 2026-02-13 | 2026-03-06 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 | 2023-11-25 |
 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-06-09 | 2022-12-08 |

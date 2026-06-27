@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift
 
-468 songs - 1 day 1 hr 35 min
+469 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [I Don't See Why Not](https://open.spotify.com/track/3v1M3elHKiyYFKJ9gF7c2m) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [I Don't See Why Not](https://open.spotify.com/album/3g9SoGCrOgz5mmOEHEp12I) | 3:19 | 2025-04-11 | 2026-01-15 |
 | [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 | 2025-09-05 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-10 | 2024-09-21 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2025-04-25 | 2025-11-22 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-11-03 | 2024-07-20 |
 | [I Run On Country](https://open.spotify.com/track/6vbAnq2xGOaG4p9a6wPiLE) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [I Run On Country](https://open.spotify.com/album/6eWp5UBy7SjPcZNxQK0Ms5) | 3:08 | 2023-11-03 | 2024-01-13 |
@@ -239,6 +239,7 @@
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 | 2024-04-20 |
 | [Like God Intended](https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Like God Intended](https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1) | 2:56 | 2026-02-27 |  |
 | [Like I Do](https://open.spotify.com/track/0ZdgcsHdbdf0v7uN8WtFvF) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Like I Do](https://open.spotify.com/album/4ei995hyozcTYXDvY2VrE9) | 4:17 | 2025-03-14 | 2025-05-10 |
+| [Little Miss Twain \(feat\. Tanya Tucker\)](https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Little Miss Twain](https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc) | 4:15 | 2026-06-26 |  |
 | [Little Town](https://open.spotify.com/track/0zRNqoIds1nAIwPSfPtxEJ) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Little Town](https://open.spotify.com/album/4IKUrL7x7eWgxgAKhjnv2N) | 3:38 | 2024-10-11 | 2025-01-11 |
 | [Livin' In A Country Song](https://open.spotify.com/track/7hmHPH6BAIsTAm71DBE48T) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/2faBQuz5qcPsTfvqEex34o) | 3:07 | 2023-11-03 | 2024-01-13 |
 | [Locked Up](https://open.spotify.com/track/3lT10s1U9K0vrEGpsu8kBP) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/6bFqE8ItSLyMxhxlRVJYIZ) | 3:28 | 2024-03-22 | 2024-05-04 |

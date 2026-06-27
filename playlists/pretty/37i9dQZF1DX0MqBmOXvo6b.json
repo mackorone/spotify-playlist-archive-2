@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 436279,
+  "num_followers": 436294,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Lonely Lights",
+        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Lonely Lights",
+      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/49YyZgXdyepJ30xVYIqOiV"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 142102,
       "name": "Still Learning",
       "url": "https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Lonely Lights",
-        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
-      },
-      "artists": [
-        {
-          "name": "Into the Harmonies",
-          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Lonely Lights",
-      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Prati",
-        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 145566,
-      "name": "Prati",
-      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Ing\u00e9nue",
         "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 147639,
       "name": "Ing\u00e9nue",
       "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Prati",
+        "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 145566,
+      "name": "Prati",
+      "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Br\u00fblante",
-        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
-      },
-      "artists": [
-        {
-          "name": "Lucien Valli\u00e8re",
-          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
-        }
-      ],
-      "duration_ms": 144434,
-      "name": "Br\u00fblante",
-      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Br\u00fblante",
+        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
+      },
+      "artists": [
+        {
+          "name": "Lucien Valli\u00e8re",
+          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
+        }
+      ],
+      "duration_ms": 144434,
+      "name": "Br\u00fblante",
+      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Warm Embrace",
-        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
-      },
-      "artists": [
-        {
-          "name": "Ann Hildering",
-          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
-        }
-      ],
-      "duration_ms": 163072,
-      "name": "Warm Embrace",
-      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "From a Distance",
         "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Noct\u00e9",
-        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
+        "name": "Warm Embrace",
+        "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
       },
       "artists": [
         {
-          "name": "Van Kahloo",
-          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
+          "name": "Ann Hildering",
+          "url": "https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Noct\u00e9",
-      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
+      "duration_ms": 163072,
+      "name": "Warm Embrace",
+      "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -935,6 +919,22 @@
       "duration_ms": 162116,
       "name": "Time Is a River",
       "url": "https://open.spotify.com/track/6V2bLU0kshksarML59YS4U"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Noct\u00e9",
+        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
+      },
+      "artists": [
+        {
+          "name": "Van Kahloo",
+          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Noct\u00e9",
+      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Secret Meadow",
-        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
-      },
-      "artists": [
-        {
-          "name": "Cole Neumann",
-          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
-        }
-      ],
-      "duration_ms": 147524,
-      "name": "Secret Meadow",
-      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Reiu",
         "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 124000,
       "name": "Reiu",
       "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Secret Meadow",
+        "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "duration_ms": 147524,
+      "name": "Secret Meadow",
+      "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Little Boy",
-        "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
-      },
-      "artists": [
-        {
-          "name": "Haru Kitamura",
-          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "The Opening",
         "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 140558,
       "name": "The Opening",
       "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Little Boy",
+        "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
+      },
+      "artists": [
+        {
+          "name": "Haru Kitamura",
+          "url": "https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 140541,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Evanesce",
         "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 136991,
       "name": "Evanesce",
       "url": "https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 140541,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Rowan",
-        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
-      },
-      "artists": [
-        {
-          "name": "Ben Moldau",
-          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Rowan",
-      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "In Case",
         "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 166817,
       "name": "In Case",
       "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Rowan",
+        "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
+      },
+      "artists": [
+        {
+          "name": "Ben Moldau",
+          "url": "https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Rowan",
+      "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        }
-      ],
-      "duration_ms": 139885,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 157347,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "duration_ms": 139885,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Quietude",
-        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
-      },
-      "artists": [
-        {
-          "name": "Naskal",
-          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
-        }
-      ],
-      "duration_ms": 156405,
-      "name": "Quietude",
-      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Felt Improvisations",
         "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 163812,
       "name": "Felt Improv No. 10",
       "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "duration_ms": 156405,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Stigen",
-        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
-      },
-      "artists": [
-        {
-          "name": "Carl Sture",
-          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Stigen",
-      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Only Illusions",
         "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Stigen",
+        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
+      },
+      "artists": [
+        {
+          "name": "Carl Sture",
+          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Stigen",
+      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Shadows On The Lawn",
-        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
-      },
-      "artists": [
-        {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
-        }
-      ],
-      "duration_ms": 133058,
-      "name": "Shadows On The Lawn",
-      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 142105,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Shadows On The Lawn",
+        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
+      },
+      "artists": [
+        {
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+        }
+      ],
+      "duration_ms": 133058,
+      "name": "Shadows On The Lawn",
+      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "It Rained Last Night",
-        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "It Rained Last Night",
-      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Motian",
         "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 164588,
       "name": "Motian",
       "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "It Rained Last Night",
+        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "It Rained Last Night",
+      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Interim",
-        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 139124,
-      "name": "Interim",
-      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Sailing Away",
         "url": "https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "My Solace My Home",
-        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
+        "name": "Interim",
+        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
       },
       "artists": [
         {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
         }
       ],
-      "duration_ms": 146125,
-      "name": "My Solace My Home",
-      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
+      "duration_ms": 139124,
+      "name": "Interim",
+      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "My Solace My Home",
+        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "My Solace My Home",
+      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
       },
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
-      },
-      "artists": [
-        {
-          "name": "Alexis Pavot",
-          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
-        }
-      ],
-      "duration_ms": 147250,
-      "name": "Apr\u00e8s tout",
-      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Ruby Clouds",
         "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 140808,
       "name": "Ruby Clouds",
       "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
+      },
+      "artists": [
+        {
+          "name": "Alexis Pavot",
+          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "Apr\u00e8s tout",
+      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "The Shortest Distance",
-        "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
-      },
-      "artists": [
-        {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "The Shortest Distance",
-      "url": "https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Emanate",
         "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 179281,
       "name": "Emanate",
       "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "The Shortest Distance",
+        "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "The Shortest Distance",
+      "url": "https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD"
     },
     {
       "added_at": "2026-05-29 04:00:30",

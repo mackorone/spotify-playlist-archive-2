@@ -4,7 +4,7 @@
 
 > 2026 yazının şarkıları\. Kapak: Sefo
 
-193 songs - 9 hr 15 min
+194 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 | 2025-05-22 | 2026-06-09 |
 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 | 2025-07-08 | 2026-06-09 |
 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 | 2023-09-04 | 2024-08-29 |
+| [Aşk Perisi](https://open.spotify.com/track/3f9OfKpnkCFQNRZYSTHaP7) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY), [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Aşk Perisi](https://open.spotify.com/album/7sBb37vssoTiQNbAl0UlDO) | 2:44 | 2026-06-26 |  |
 | [Aşk Yok Olmaktır](https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Aşkperest](https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp) | 4:40 | 2025-06-24 | 2026-06-09 |
 | [AŞKIM ALLAH KURTARSIN](https://open.spotify.com/track/7pOzz5RxPcBCrXSdlIIFwJ) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [AŞKIM ALLAH KURTARSIN](https://open.spotify.com/album/6RDAJhqOK6TXBj6uVGxfxW) | 2:05 | 2025-07-10 | 2025-08-06 |
 | [Aşkın Ertesi](https://open.spotify.com/track/4AjczPNcEFPIcib5c9H4TA) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Münezzeh](https://open.spotify.com/album/4WWXv2TPxWU93AIuRIGWC1) | 2:59 | 2026-06-08 |  |
@@ -166,7 +167,6 @@
 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 | 2025-05-22 | 2025-08-15 |
 | [Tanrım Reva Mı](https://open.spotify.com/track/4XUjq1m4FEoFCQsjmJ9UKj) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tanrım Reva Mı](https://open.spotify.com/album/3rHiZEWD6gyn1h0BChHrsr) | 2:27 | 2023-09-04 | 2024-06-06 |
 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 | 2024-06-05 | 2025-05-23 |
-| [Track 1](https://open.spotify.com/track/09RgdOpifTSA0BZ2fdax2o) | [Işın Karaca](https://open.spotify.com/artist/0iKWCp8QXDXAD3wzFrExYr) | [25.Yıl Özel Hit VS Hit The Remix's Vol II](https://open.spotify.com/album/4NWzAIjwQkXLlcHYsqqcxD) | 0:00 | 2026-06-25 |  |
 | [Tutun Sen Bana](https://open.spotify.com/track/2AcCBpYHVbeV2IUU4iHP2Y) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [KADER SK.](https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P) | 2:43 | 2023-09-04 | 2024-07-04 |
 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 | 2026-06-25 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2023-09-04 | 2024-06-06 |
@@ -183,6 +183,7 @@
 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 | 2025-06-24 | 2026-06-26 |
 | [Yatakta Kardiyo](https://open.spotify.com/track/676VUuntnKLSYPeQCadLAU) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Yatakta Kardiyo](https://open.spotify.com/album/6cvnpW0P8x9KKjYA0dSdsF) | 3:27 | 2025-07-24 | 2025-09-06 |
 | [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 | 2025-07-02 |  |
+| [Yaz \- Club](https://open.spotify.com/track/09RgdOpifTSA0BZ2fdax2o) | [Işın Karaca](https://open.spotify.com/artist/0iKWCp8QXDXAD3wzFrExYr), [Can Yapıcıoğlu](https://open.spotify.com/artist/0lGC7oDzClBGoXITLiDvYr) | [25.Yıl Özel Hit VS Hit The Remix's Vol II](https://open.spotify.com/album/4NWzAIjwQkXLlcHYsqqcxD) | 1:52 | 2026-06-25 |  |
 | [Yaz Gülü](https://open.spotify.com/track/2MvC6PUwqLJbM3qluKK5EF) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Yaz Gülü](https://open.spotify.com/album/24sxbVuDc5u8oMfGHIlmkH) | 3:07 | 2023-09-04 | 2024-07-04 |
 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 | 2025-06-16 |  |
 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 | 2025-06-26 | 2026-06-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,404 likes - 43 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,426 likes - 43 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 14 | [Rimas Pa' Seducir](https://open.spotify.com/track/1lCi1FeDd3STjGmEpLkYLB) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 3:07 |
 | 15 | [dame la verde](https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 4:16 |
 | 16 | [Ritmo Que Pesa](https://open.spotify.com/track/2FSpiaFpqmCNnC7IPr1TAy) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 5:49 |
-| 17 | [Hacer volar la casa](https://open.spotify.com/track/2kjQNYDcxL5fA3S2tEzygu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:05 |
+| 17 | [Malherido](https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:36 |
 | 18 | [Para Estar](https://open.spotify.com/track/5rYS63g3KKshTaKPhyeHj6) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 4:56 |
 | 19 | [Sólo Por Ti](https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [El Momento](https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU) | 3:55 |
 | 20 | [Llévame](https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Llévame \(Cultura Remix\)](https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy) | 4:24 |
-| 21 | [Malherido](https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:36 |
+| 21 | [Hacer volar la casa](https://open.spotify.com/track/2kjQNYDcxL5fA3S2tEzygu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:05 |
 | 22 | [Me Faltabas Tú](https://open.spotify.com/track/7kuICQNYqWwhN9elL39HVu) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Dulzura](https://open.spotify.com/album/6R4h5bssC4MAg5B6v4MhSZ) | 2:51 |
 | 23 | [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 |
 | 24 | [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 42 | [Despertador Solar](https://open.spotify.com/track/0wciFVroPzYjoCcJjKzp3Z) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:19 |
 | 43 | [Sobrevolando](https://open.spotify.com/track/6CM3CKkVFpNd7blvc6kpvN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:27 |
 
-Snapshot ID: `ajseAAAAAABkxEUsBKy5TvwOhni6YsIK`
+Snapshot ID: `ajxvgAAAAAD8u+EMiFXdpr5hDKlIlcWk`

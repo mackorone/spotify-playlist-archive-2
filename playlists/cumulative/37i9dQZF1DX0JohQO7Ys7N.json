@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 175135,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/45pMPoDTfSRolpU5qRw54v"
@@ -5376,6 +5376,24 @@
       "duration_ms": 149690,
       "name": "sorry it didn't work out",
       "url": "https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/3fIkHOp4fsL4I8ReXAGia3"
+      },
+      "artists": [
+        {
+          "name": "Itha",
+          "url": "https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195381,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Nk3N24fYgIN2zIpIlAacs"
     },
     {
       "album": {

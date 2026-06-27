@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,976 likes - 200 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,034 likes - 200 songs - 15 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chain Reaction](https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Chain Reaction](https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE) | 8:07 |
+| 1 | [Hypnotic](https://open.spotify.com/track/4j95thWu0vNFOB1qWKkxV9) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Hypnotic](https://open.spotify.com/album/2J7s7Zo6TNPeKSYnAVz2KF) | 6:39 |
 | 2 | [Respond to Sound](https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Respond to Sound](https://open.spotify.com/album/5cce7khO3pymis7LZ4kuoR) | 3:11 |
-| 3 | [MF AF](https://open.spotify.com/track/0lbv0rx3b5SOFlEYkqpHRa) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Trio Asesino](https://open.spotify.com/album/3LuLM488LxdVh6nVAcRcxz) | 3:27 |
-| 4 | [Func and Sync](https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Biblion](https://open.spotify.com/album/3WyrqB5eaj7SntTwHwz5Yj) | 5:38 |
-| 5 | [Flame Keeper](https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Flame Keeper](https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV) | 6:25 |
-| 6 | [Morning Cry](https://open.spotify.com/track/6hs6fldhuYp37VBNUzHXS5) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 3:31 |
-| 7 | [Saturday Spin](https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Saturday Spin](https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR) | 4:05 |
-| 8 | [Felonious Funk](https://open.spotify.com/track/4U8YLPp4f8IEq5fp14nRtZ) | [Oli Parker](https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g) | [Felonious Funk](https://open.spotify.com/album/48ArWKWs0wy1OLEdXRyDVD) | 3:43 |
-| 9 | [Rules Of The Game](https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Deface The Currency](https://open.spotify.com/album/5cCnXyes7pykE9rjhzPWnE) | 4:09 |
-| 10 | [Red Lights](https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab) | [Kindred](https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y) | 3:39 |
+| 3 | [Func and Sync](https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6) | [DEZOLVE](https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS) | [Biblion](https://open.spotify.com/album/3WyrqB5eaj7SntTwHwz5Yj) | 5:38 |
+| 4 | [Flame Keeper](https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Flame Keeper](https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV) | 6:25 |
+| 5 | [Morning Cry](https://open.spotify.com/track/6hs6fldhuYp37VBNUzHXS5) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 3:31 |
+| 6 | [Chain Reaction](https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Chain Reaction](https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE) | 8:07 |
+| 7 | [MF AF](https://open.spotify.com/track/0lbv0rx3b5SOFlEYkqpHRa) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Trio Asesino](https://open.spotify.com/album/3LuLM488LxdVh6nVAcRcxz) | 3:27 |
+| 8 | [Saturday Spin](https://open.spotify.com/track/25IsRCpUTWaCkjrmIY8sBF) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Saturday Spin](https://open.spotify.com/album/6QRxprqYsThnDDV4ClgMTR) | 4:05 |
+| 9 | [Felonious Funk](https://open.spotify.com/track/4U8YLPp4f8IEq5fp14nRtZ) | [Oli Parker](https://open.spotify.com/artist/4o7rOtAAYgrNOZrnxG8t9g) | [Felonious Funk](https://open.spotify.com/album/48ArWKWs0wy1OLEdXRyDVD) | 3:43 |
+| 10 | [Rules Of The Game](https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ) | [The Messthetics](https://open.spotify.com/artist/61wWE8w2nqaoNmKCOjJ4Hm), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK) | [Deface The Currency](https://open.spotify.com/album/5cCnXyes7pykE9rjhzPWnE) | 4:09 |
 | 11 | [Keep On](https://open.spotify.com/track/51Qg3XRB5zTGpi3S49f2Ph) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Keep On](https://open.spotify.com/album/1aVzMhEYvdVDwvzLVtfKBe) | 4:00 |
 | 12 | [Serge & Jane](https://open.spotify.com/track/4nTY0HQqETGI8OUuj1VeYy) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Larry Goldings](https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6) | [Serge & Jane](https://open.spotify.com/album/5NjiU7WDE8G3XkWj2Yi9GN) | 3:43 |
 | 13 | [Twang](https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [DJ\-Kicks: Quantic](https://open.spotify.com/album/2GgclfMMPdemb5gQHvtHiL) | 3:49 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 |
 | 200 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
 
-Snapshot ID: `AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF`
+Snapshot ID: `AAAAAJkZhiDLIMEEgrYw5aU4wQ6pG/pk`

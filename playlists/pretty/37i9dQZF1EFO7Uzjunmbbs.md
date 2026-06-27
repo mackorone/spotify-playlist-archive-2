@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,059 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,060 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 123 | [Let Me In \- Remix](https://open.spotify.com/track/0pWkxyEMK3I9r8Jc8dqebk) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Let Me In \(Remix\)](https://open.spotify.com/album/3klg5Tg0xDUywQ65oYEtTK) | 2:55 |
 | 124 | [Homewrecker](https://open.spotify.com/track/6k4h7BosIRky5rMH5bv0nA) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 2:55 |
 | 125 | [Strangers](https://open.spotify.com/track/0R6ns8kYNuiQPCTWs0mmva) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:29 |
-| 126 | [Broken Boy](https://open.spotify.com/track/0dx9ShyVbKmWuLUJk0bktG) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 3:11 |
-| 127 | [tastes like](https://open.spotify.com/track/43djL0DI9EEJOMYEbtekgS) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:05 |
+| 126 | [tastes like](https://open.spotify.com/track/43djL0DI9EEJOMYEbtekgS) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:05 |
+| 127 | [Broken Boy](https://open.spotify.com/track/0dx9ShyVbKmWuLUJk0bktG) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 3:11 |
 | 128 | [All In](https://open.spotify.com/track/0puB7X6IECpzGZeTGM8VAq) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:14 |
 | 129 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 |
 | 130 | [Georgia Is Yours](https://open.spotify.com/track/4l58t5yNDXcnldCE31ez1P) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [There Goes The Neighborhood](https://open.spotify.com/album/6ORGhksRXVC73wovtSdx4O) | 3:55 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcVMpgAAAACIvXsJFYDjse2YjYlEl+2B`
+Snapshot ID: `AcVSRgAAAAC8o/oHc6vtB5FKjkytd80c`

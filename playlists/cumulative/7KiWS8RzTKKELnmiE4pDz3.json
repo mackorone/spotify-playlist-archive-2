@@ -5151,6 +5151,28 @@
     },
     {
       "album": {
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246146,
+      "name": "Children of the Baked Potato",
+      "url": "https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b"
+    },
+    {
+      "album": {
         "name": "Layin' Da Smack Down (Explicit Version)",
         "url": "https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC"
       },
@@ -9204,6 +9226,24 @@
       "duration_ms": 166753,
       "name": "FroZone",
       "url": "https://open.spotify.com/track/0LA62GKyphyLZVGkvrWi6g"
+    },
+    {
+      "album": {
+        "name": "The Blueprint 2: The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Fuck All Nite",
+      "url": "https://open.spotify.com/track/3BhB7Ps9xk8vPgzs1Kldce"
     },
     {
       "album": {

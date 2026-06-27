@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 394506,
       "name": "Escape Artist",
       "url": "https://open.spotify.com/track/7sXYoFoFoJ28bnjsnoBfvY"
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189236,
       "name": "M\u00e9lodie in Ab Major - arr. for orchestra",
       "url": "https://open.spotify.com/track/2U5cFcJQ3T5MWq7XGxoOzu"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 153720,
       "name": "Piano Trio in G Major, Hob. XV:25 \"Gypsy Rondo\": III. Rondo all'ongarese. Presto (Arr. Farrington for Recorder, Violin, Cello & Harpsichord)",
       "url": "https://open.spotify.com/track/0qi2YC08Vug0JiQct78mCl"
@@ -4214,6 +4214,28 @@
       "duration_ms": 286266,
       "name": "String poetic: II. Nocturne",
       "url": "https://open.spotify.com/track/1D5AWyG2oOk42eQFdLN1bK"
+    },
+    {
+      "album": {
+        "name": "E. Mayer: String Quartet in A Major: I. Un poco adagio \u2013 Allegro moderato (Musical Moments)",
+        "url": "https://open.spotify.com/album/7tBlpdJZmu9Wh5MwHDGW4t"
+      },
+      "artists": [
+        {
+          "name": "Emilie Mayer",
+          "url": "https://open.spotify.com/artist/4zkusum5eZdIObW4RHOkIh"
+        },
+        {
+          "name": "Aris Quartett",
+          "url": "https://open.spotify.com/artist/2jXDyFnh8GckAh2ODk1vqh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625866,
+      "name": "String Quartet in A Major: I. Un poco adagio \u2013 Allegro moderato - Musical Moments",
+      "url": "https://open.spotify.com/track/4ciEm33nAJovfoxqI19TTR"
     },
     {
       "album": {

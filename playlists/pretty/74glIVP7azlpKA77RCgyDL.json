@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9145,
+  "num_followers": 9146,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAQXP9782Ely6/CKeMtpJIvta8HEi9G",
+  "snapshot_id": "AAAQa0HyE/YVh4P0qYgDFP8BmDdEjwD/",
   "tracks": [
+    {
+      "added_at": "2026-06-26 19:07:29",
+      "album": {
+        "name": "Dehumanized",
+        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 268181,
+      "name": "Dehumanized",
+      "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
+    },
+    {
+      "added_at": "2026-06-26 19:07:52",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        },
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD"
+    },
+    {
+      "added_at": "2026-06-26 19:08:15",
+      "album": {
+        "name": "Death Is Not The End",
+        "url": "https://open.spotify.com/album/0u7RKLTC1RbuX7BomdTaEq"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 266016,
+      "name": "Death Is Not The End",
+      "url": "https://open.spotify.com/track/7w9GDmXGNxA71MvkL2SV6W"
+    },
+    {
+      "added_at": "2026-06-26 19:08:03",
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+    },
+    {
+      "added_at": "2026-06-26 19:07:39",
+      "album": {
+        "name": "Roach",
+        "url": "https://open.spotify.com/album/5NXnBoo1eu8bmjObrPbtKT"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 161934,
+      "name": "Roach",
+      "url": "https://open.spotify.com/track/47BA4z1J17AyfqrZAyXTk5"
+    },
+    {
+      "added_at": "2026-06-26 19:07:17",
+      "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe"
+      },
+      "artists": [
+        {
+          "name": "ASAVA",
+          "url": "https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Valhalla",
+      "url": "https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh"
+    },
     {
       "added_at": "2026-06-19 17:25:05",
       "album": {

@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Preto no Branco
 
-3,496 songs - 12 day 8 hr 5 min
+3,496 songs - 12 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Como Quem Sonha](https://open.spotify.com/track/5zqfSkS19yHJpr3pXRGzJg) | [Renascer Praise](https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR) | [Como Quem Sonha](https://open.spotify.com/album/5p82oqIzgnjMdU29kpMH9i) | 7:04 | 2023-08-18 | 2023-09-09 |
 | [Como se Cura a Ferida \(Como Se Cura Una Herida\) / Canal do Perdão / Tu Me Amas / Saindo do Casulo \- Ao Vivo](https://open.spotify.com/track/4OkkEaOPsPcmlRKsydoEm5) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [30 Anos no Brasil \(Ao Vivo\)](https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh) | 4:36 | 2025-11-28 | 2025-12-12 |
 | [Como Será o Amanhã \- Versão Pagodão Baiano](https://open.spotify.com/track/1B7FkIyXecqwLpQIjJdyUP) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será o Amanhã \(Versão Pagodão Baiano\)](https://open.spotify.com/album/4pLLHtYWqOPhfjoSUyD1jv) | 2:17 | 2025-02-28 | 2025-03-15 |
+| [Como Tu Não Há](https://open.spotify.com/track/3aPDCemiu98FNek0Kw9QbF) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Gba Stage, Vol\. 38](https://open.spotify.com/album/4k1JAMMXMoz4BlJGNCQjF6) | 4:18 | 2026-06-26 |  |
 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 | 2024-08-16 | 2024-08-24 |
 | [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 | 2024-08-23 | 2024-08-31 |
 | [Comum e Imperfeito \- Ao Vivo](https://open.spotify.com/track/1xV97W6xy6u3Pc2qeJv2KT) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu), [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Comum e Imperfeito \(Ao Vivo\)](https://open.spotify.com/album/4fubvlUdjcNESIK1HK2g1f) | 5:02 | 2025-08-22 | 2025-09-06 |
@@ -3097,7 +3098,6 @@
 | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ) | 4:31 | 2025-12-05 | 2025-12-19 |
 | [Toque](https://open.spotify.com/track/1afnYuwXwdmO4akkdvPdFq) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Toque](https://open.spotify.com/album/4kQFY6U8Z976Zh8rS7toHV) | 2:53 | 2026-05-22 | 2026-06-19 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 9](https://open.spotify.com/track/3aPDCemiu98FNek0Kw9QbF) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Gba Stage, Vol\. 38](https://open.spotify.com/album/4k1JAMMXMoz4BlJGNCQjF6) | 0:00 | 2026-06-26 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 | 2025-09-26 |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |

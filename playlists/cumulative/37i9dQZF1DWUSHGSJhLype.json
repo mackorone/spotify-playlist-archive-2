@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Natanzinho Lima, Belo",
+  "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez",
   "name": "Puro Suco do Brasil",
   "tracks": [
     {
@@ -1135,6 +1135,28 @@
     },
     {
       "album": {
+        "name": "Arame Farpado",
+        "url": "https://open.spotify.com/album/0xrivo48vVCYtbyvoor7WT"
+      },
+      "artists": [
+        {
+          "name": "Som de Faculdade",
+          "url": "https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156034,
+      "name": "Arame Farpado",
+      "url": "https://open.spotify.com/track/1nPAnnIsvOWmPEBY5OECXd"
+    },
+    {
+      "album": {
         "name": "Sentimento",
         "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
       },
@@ -1224,6 +1246,24 @@
       "duration_ms": 156444,
       "name": "Assanhadinha",
       "url": "https://open.spotify.com/track/3akR6DnboLGowHS3Zzk5IR"
+    },
+    {
+      "album": {
+        "name": "Na Liga em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188409,
+      "name": "At\u00e9 Quando - Ao Vivo",
+      "url": "https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh"
     },
     {
       "album": {
@@ -1336,7 +1376,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 148905,
       "name": "Baile do VJ",
       "url": "https://open.spotify.com/track/6EmbpFK7SJaZCgluPeQ50X"
@@ -2030,7 +2070,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178000,
       "name": "Cama Embrasa",
       "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
@@ -2564,7 +2604,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 243129,
       "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
@@ -3844,7 +3884,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 131822,
       "name": "Encosta na Parede",
       "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
@@ -4218,7 +4258,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 135250,
       "name": "Eu T\u00f4 Querendo De Novo - Ao Vivo",
       "url": "https://open.spotify.com/track/0pkUneJOTi0uHF4Eqf3T6r"
@@ -7752,7 +7792,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
@@ -8619,6 +8659,24 @@
     },
     {
       "album": {
+        "name": "Olha Eu Sorrindo",
+        "url": "https://open.spotify.com/album/0E5XITaUAXAh7h0HXTqZue"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clareou",
+          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193805,
+      "name": "Olha Eu Sorrindo",
+      "url": "https://open.spotify.com/track/1GIr3VE6AWRxOyrj3VXUzr"
+    },
+    {
+      "album": {
         "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
         "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
       },
@@ -9106,7 +9164,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167232,
       "name": "Pega Em Segredo - Ao Vivo",
       "url": "https://open.spotify.com/track/1NwgS1phkzeAXzEyK1mjlo"
@@ -9245,6 +9303,32 @@
     },
     {
       "album": {
+        "name": "Eu e Kevin, DENNIS e Eu Vol. 3",
+        "url": "https://open.spotify.com/album/4tdsnbt4qS3NTBNLTXXClg"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140978,
+      "name": "Pente e Rala",
+      "url": "https://open.spotify.com/track/1VCEamUWQEDKnIHK33NbdP"
+    },
+    {
+      "album": {
         "name": "Perdoou Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ"
       },
@@ -9356,7 +9440,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 105728,
       "name": "Pilantra",
       "url": "https://open.spotify.com/track/1Y8vVLtnCLwWezjYmUaXlR"
@@ -9534,7 +9618,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 176571,
       "name": "Pivete Quente",
       "url": "https://open.spotify.com/track/6MbzhhvEIssheNUeMrV594"
@@ -10236,7 +10320,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195680,
       "name": "Queria Ser Tu / Interfone - Ao Vivo",
       "url": "https://open.spotify.com/track/1XX75jl3CKMTnKhq1nyngg"
@@ -10652,6 +10736,40 @@
       "duration_ms": 158171,
       "name": "Ro\u00e7a Em Mim",
       "url": "https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq"
+    },
+    {
+      "album": {
+        "name": "Rumo ao Hexa",
+        "url": "https://open.spotify.com/album/7pHCV59kvSGpjcTl9926rd"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        },
+        {
+          "name": "Jackson Ganga",
+          "url": "https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112615,
+      "name": "Rumo ao Hexa",
+      "url": "https://open.spotify.com/track/2H8XkgvzyclrurIImuXsBY"
     },
     {
       "album": {
@@ -13228,7 +13346,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 145488,
       "name": "Virando o Olhinho 2.0",
       "url": "https://open.spotify.com/track/126KAfNQn1CurOYVZYbdk8"
@@ -13364,6 +13482,24 @@
       "duration_ms": 177030,
       "name": "Voltar Pra Tu - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5kddwic80peJZYrWGMliGX"
+    },
+    {
+      "album": {
+        "name": "Esquenta Pro S\u00e3o Jo\u00e3o",
+        "url": "https://open.spotify.com/album/6KkT7aOslNVFT5SUti5bbM"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162858,
+      "name": "Volt\u00e1vel",
+      "url": "https://open.spotify.com/track/6Yf90AbdxoSL16346QKLzT"
     },
     {
       "album": {

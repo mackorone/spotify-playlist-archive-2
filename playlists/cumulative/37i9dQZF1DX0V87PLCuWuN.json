@@ -1621,6 +1621,32 @@
     },
     {
       "album": {
+        "name": "Shostakovich: Symphony No. 8 in C Minor, Op. 65: III. Allegro non troppo",
+        "url": "https://open.spotify.com/album/3uHWn7cUFMMUdiwHIJ0CEQ"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Stavanger Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6028AM0lpCOWtl8rCfm88l"
+        },
+        {
+          "name": "Andris Poga",
+          "url": "https://open.spotify.com/artist/5Cdk9RKGIbBBbcK3S1GGCH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Symphony No. 8 in C Minor, Op. 65: III. Allegro non troppo",
+      "url": "https://open.spotify.com/track/2ZHdRW4FI8FCCSssQel8bT"
+    },
+    {
+      "album": {
         "name": "LPO plays the Classical Period Favourites",
         "url": "https://open.spotify.com/album/30Yze61TvAWWvozsu75JUV"
       },
@@ -1784,6 +1810,36 @@
       "duration_ms": 216105,
       "name": "Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro",
       "url": "https://open.spotify.com/track/5ajdg7zFsfYhGwphf7773r"
+    },
+    {
+      "album": {
+        "name": "Wieniawski: Violin Concerto No. 1 in F-Sharp Minor, Op. 14: III. Rondo. Allegro giocoso (Live at Philharmonie Berlin, 2025)",
+        "url": "https://open.spotify.com/album/0UUb4iv6bL9I7sTIXXvrmk"
+      },
+      "artists": [
+        {
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "name": "HIMARI",
+          "url": "https://open.spotify.com/artist/2Y1xtY1448YNAQ3qMRPLan"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sebastian Weigle",
+          "url": "https://open.spotify.com/artist/7wbkQAs2wAwpm3XCq6L6pe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457226,
+      "name": "Violin Concerto No. 1 in F-Sharp Minor, Op. 14: III. Rondo. Allegro giocoso - Live at Philharmonie Berlin, 2025",
+      "url": "https://open.spotify.com/track/4jwWrOi54nC8049o53Y4gg"
     },
     {
       "album": {

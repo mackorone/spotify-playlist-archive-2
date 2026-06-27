@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 108260,
+  "num_followers": 108309,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAfPe39ADVaUDFk2CnAHrsV",
+  "snapshot_id": "ajxvgAAAAAAb5BfLW1sZW/GSjWWA67m8",
   "tracks": [
     {
       "added_at": null,
@@ -87,30 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        },
-        {
-          "name": "Arit",
-          "url": "https://open.spotify.com/artist/0CTLe0a6qZ7BZax8Du9B2k"
-        }
-      ],
-      "duration_ms": 219334,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/00j16DuIL1HPHjjLMNcYX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRODUTO DO AMBIENTE",
         "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
@@ -135,6 +111,30 @@
       "duration_ms": 274800,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/18KyJgSmfIPEsimWshBojB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        },
+        {
+          "name": "Arit",
+          "url": "https://open.spotify.com/artist/0CTLe0a6qZ7BZax8Du9B2k"
+        }
+      ],
+      "duration_ms": 219334,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/00j16DuIL1HPHjjLMNcYX0"
     },
     {
       "added_at": null,

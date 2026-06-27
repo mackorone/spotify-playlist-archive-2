@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,017 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,230 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 22 | [NO L's](https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:27 |
 | 23 | [GOD IS GOOD](https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:27 |
 | 24 | [GOD'S GOT MY BACK](https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:38 |
-| 25 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 |
+| 25 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
 | 26 | [B.I.G.](https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:47 |
-| 27 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
+| 27 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 |
 | 28 | [slow down](https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [slow down](https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG) | 2:50 |
 | 29 | [Amazing Grace](https://open.spotify.com/track/6sfMU3Zx38YzBmv0QTQsH4) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:37 |
 | 30 | [HEAVEN ON THIS EARTH](https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:05 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 32 | [SOULSHINE](https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:05 |
 | 33 | [LEMONADE \(FOLK\)](https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a) | [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LEMONADE \(FOLK\)](https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ) | 3:03 |
 | 34 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 |
-| 35 | [Jesus Paid It All \(Worthy of The Price\)](https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Jesus Paid It All](https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7) | 3:56 |
+| 35 | [THE JESUS GENERATION](https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE JESUS GENERATION](https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg) | 4:15 |
 | 36 | [BREAK OF DAWN](https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:34 |
-| 37 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
-| 38 | [THE JESUS GENERATION](https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THE JESUS GENERATION](https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg) | 4:15 |
+| 37 | [Jesus Paid It All \(Worthy of The Price\)](https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Jesus Paid It All](https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7) | 3:56 |
+| 38 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 39 | [Go Tell It](https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:43 |
 | 40 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 |
 | 41 | [THE ROCK](https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [THE ROCK](https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 49 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 |
 | 50 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 |
 
-Snapshot ID: `ajseAAAAAABFeXj2Vs01fazRpJP/hjxt`
+Snapshot ID: `ajxvgAAAAAA46IsrMulxuJNLgrHXDKni`

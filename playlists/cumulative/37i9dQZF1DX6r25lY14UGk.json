@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: Backstreet Boys",
+  "description": "New releases for the kids. Cover: Laurie Berkner",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Duck, Duck, Groove: Sing Along Songs \u2013 Cuddle & Crawl Duck",
+        "url": "https://open.spotify.com/album/2KMWWSU3iKvbepFXk542jW"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145034,
+      "name": "Baby Ducks Say Quack",
+      "url": "https://open.spotify.com/track/7I1ZbbyitSqYmHsnTywLiI"
+    },
+    {
+      "album": {
         "name": "Baby Elephant (Acoustic Version)",
         "url": "https://open.spotify.com/album/5QPOXVhbTgevFvQu5bWg1B"
       },
@@ -2156,6 +2178,28 @@
       "duration_ms": 122438,
       "name": "Born to Be Me",
       "url": "https://open.spotify.com/track/1F2aGwCgkBL8iVTBXLiAwO"
+    },
+    {
+      "album": {
+        "name": "Born to Lead (from Hot Wheels Let's Race: Racing Anthems)",
+        "url": "https://open.spotify.com/album/7wyB0AOEgQlDTPm2clJ44J"
+      },
+      "artists": [
+        {
+          "name": "Hot Wheels",
+          "url": "https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116657,
+      "name": "Born to Lead (from Hot Wheels Let's Race: Racing Anthems)",
+      "url": "https://open.spotify.com/track/7fpFX4RUvBCnfjvlh8npl1"
     },
     {
       "album": {
@@ -12919,6 +12963,28 @@
     },
     {
       "album": {
+        "name": "Mr. Golden Sun",
+        "url": "https://open.spotify.com/album/7wt6nsNHIU4T2igs3ptfan"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142965,
+      "name": "Mr. Golden Sun",
+      "url": "https://open.spotify.com/track/4bpOGqcJ1nqwCbtVUTpKPe"
+    },
+    {
+      "album": {
         "name": "Peppa's Party! The Deluxe Album",
         "url": "https://open.spotify.com/album/5E5mXcVjNZ3QmMlPFXPwXC"
       },
@@ -15028,6 +15094,24 @@
       "duration_ms": 150571,
       "name": "Put a Smile On",
       "url": "https://open.spotify.com/track/1MpjxtR6pZ0AYkOy3ChIMw"
+    },
+    {
+      "album": {
+        "name": "Walking With The Penguins",
+        "url": "https://open.spotify.com/album/4qAWz3gB9U30JVd0HDN3fL"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129520,
+      "name": "Put It In The Bag",
+      "url": "https://open.spotify.com/track/1bnJ3pCMIGvrhTQzj32iG2"
     },
     {
       "album": {
@@ -17767,6 +17851,24 @@
     },
     {
       "album": {
+        "name": "There's A Rave In There",
+        "url": "https://open.spotify.com/album/0t1rvgtl7W3pSjFREmwP3H"
+      },
+      "artists": [
+        {
+          "name": "Play School",
+          "url": "https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127521,
+      "name": "Teddy Bear Twist - Little Ted Turbo Mix",
+      "url": "https://open.spotify.com/track/7sUyKOfdXLjkJWzS5IelAY"
+    },
+    {
+      "album": {
         "name": "Buzz Buzz (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/70YCmSRzFgjlFelv5OSA8O"
       },
@@ -19043,6 +19145,36 @@
     },
     {
       "album": {
+        "name": "The Smile Song (DJ Pon-3's Version)",
+        "url": "https://open.spotify.com/album/5uCLaf34OHpCgGB2YnFxS4"
+      },
+      "artists": [
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        },
+        {
+          "name": "DJ Pon-3",
+          "url": "https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen"
+        },
+        {
+          "name": "Mona Rue",
+          "url": "https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191420,
+      "name": "The Smile Song - DJ Pon-3's Version",
+      "url": "https://open.spotify.com/track/2jGCgzzEYJYvEYyvz8loog"
+    },
+    {
+      "album": {
         "name": "The Train Song",
         "url": "https://open.spotify.com/album/3qf4Ji7FSqNYrocrrqCD0K"
       },
@@ -19616,6 +19748,28 @@
       "duration_ms": 145413,
       "name": "This World Is Your World",
       "url": "https://open.spotify.com/track/6VuvPmM9EXMDyOccV9OKlb"
+    },
+    {
+      "album": {
+        "name": "Thomas & Percy Learn About Cleaning",
+        "url": "https://open.spotify.com/album/2PUI92kl6qA29AKip8fNCs"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126960,
+      "name": "Thomas & Percy Learn About Cleaning",
+      "url": "https://open.spotify.com/track/5XiFtvfsRei0wx7imHH6Yo"
     },
     {
       "album": {

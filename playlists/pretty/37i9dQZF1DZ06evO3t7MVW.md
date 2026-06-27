@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,103 likes - 43 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,127 likes - 42 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 20 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions](https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB) | 3:47 |
 | 21 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
 | 22 | [Fire on the Horizon](https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:27 |
-| 23 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
-| 24 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
+| 23 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
+| 24 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
 | 25 | [Middle of the Ocean](https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Easy to Love You](https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91) | 4:29 |
 | 26 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 |
 | 27 | [Siren \(with Stick Figure\)](https://open.spotify.com/track/3jSlARN861elnfSuveZx8X) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 3:57 |
@@ -48,8 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 38 | [Fall into the Sun](https://open.spotify.com/track/0dpdFqEAwSh3KPcIiLxSMP) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:16 |
 | 39 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
 | 40 | [Just Another Dream](https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:39 |
-| 41 | [Hawaii Song](https://open.spotify.com/track/3rqNbu3pkx6wthuAXAtaGd) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:04 |
+| 41 | [Natural Mystic \(with Stephen Marley\) \- West Palm Beach 2025](https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Natural Mystic \(with Stephen Marley\) \[West Palm Beach 2025\]](https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF) | 3:45 |
 | 42 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
-| 43 | [Natural Mystic \(with Stephen Marley\) \- West Palm Beach 2025](https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Natural Mystic \(with Stephen Marley\) \[West Palm Beach 2025\]](https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF) | 3:45 |
 
-Snapshot ID: `ajseAAAAAADf98Prv1RwT2ZpTJM+t2sv`
+Snapshot ID: `ajxvgAAAAAC8rlDI4XDAKbAAB/KY5FM/`

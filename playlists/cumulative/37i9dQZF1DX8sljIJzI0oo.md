@@ -2,9 +2,9 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Yan Block is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
+> Hamilton is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
 
-2,924 songs - 6 day 12 hr 58 min
+2,925 songs - 6 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-03-14 | 2024-03-22 |
 | [BADDIE](https://open.spotify.com/track/0ZYNhBbIJP1N9Jak1evA9s) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BADDIE](https://open.spotify.com/album/7hp1Q0RrnHgSU9G5sMFxGp) | 4:54 | 2025-02-27 | 2025-03-07 |
 | [BADGYAL](https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:13 | 2024-06-13 | 2024-10-26 |
-| [Bahamas](https://open.spotify.com/track/1MMSPU104BcRlh6Yc7AGW4) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Bahamas](https://open.spotify.com/album/71yJsqI8xwHFTKUTT7d2oN) | 2:30 | 2026-06-04 |  |
+| [Bahamas](https://open.spotify.com/track/1MMSPU104BcRlh6Yc7AGW4) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Bahamas](https://open.spotify.com/album/71yJsqI8xwHFTKUTT7d2oN) | 2:30 | 2026-06-04 | 2026-06-27 |
 | [Baila Baila Baila](https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:38 | 2023-10-19 | 2023-10-25 |
 | [Baila Baila Baila \- Remix](https://open.spotify.com/track/7mWFF4gPADjTQjC97CgFVt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Baila Baila Baila \(Remix\) \[feat\. Farruko, Anuel Aa\]](https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU) | 3:55 | 2022-01-12 | 2022-05-26 |
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-07-01 | 2022-07-09 |
@@ -346,6 +346,7 @@
 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 | 2024-04-26 | 2024-05-03 |
 | [Besitos BB 2.0](https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ) | [El Perla](https://open.spotify.com/artist/18kNcg1LyApWH3qkXk1CCd), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Besitos BB 2.0](https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7) | 3:53 | 2024-10-10 | 2024-10-18 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-30 | 2024-12-03 |
+| [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 | 2026-06-26 |  |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2022-12-15 | 2023-02-18 |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-10-07 | 2022-12-20 |
 | [Besties](https://open.spotify.com/track/4st9O9fifFu5MH47r0M0el) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 3:01 | 2022-06-10 | 2022-06-18 |

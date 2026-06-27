@@ -26055,6 +26055,32 @@
     },
     {
       "album": {
+        "name": "wof\u00fcr es sich zu leben lohnt",
+        "url": "https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136578,
+      "name": "hausverbot",
+      "url": "https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b"
+    },
+    {
+      "album": {
         "name": "Haut an Haut",
         "url": "https://open.spotify.com/album/3ecnrrefnLM9tbyamwfcgm"
       },
@@ -34078,6 +34104,18 @@
         {
           "name": "6euroneunzig",
           "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
+        },
+        {
+          "name": "HugoBass303",
+          "url": "https://open.spotify.com/artist/6XNqxmXgwyt8DMm3V5qJEe"
+        },
+        {
+          "name": "AVO",
+          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
+        },
+        {
+          "name": "boundxry",
+          "url": "https://open.spotify.com/artist/1ptaodI1Jp1koSslcbGHEf"
         }
       ],
       "date_added": "2026-06-25",
@@ -61522,24 +61560,6 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "album": {
-        "name": "wof\u00fcr es sich zu leben lohnt",
-        "url": "https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E"
-      },
-      "artists": [
-        {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b"
     },
     {
       "album": {

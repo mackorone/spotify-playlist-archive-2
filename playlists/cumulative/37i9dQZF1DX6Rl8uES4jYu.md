@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-494 songs - 1 day 3 hr 30 min
+495 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-01-21 | 2024-09-28 |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb) | 2:45 | 2022-01-21 | 2024-04-19 |
 | [Ciao](https://open.spotify.com/track/0j0UjKoSgmyacWQgo08iYL) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/7oFHqkWQ8oD9WE0OttidjJ) | 2:58 | 2023-05-26 | 2024-04-19 |
-| [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 | 2023-05-26 |  |
+| [Ciao](https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Ciao](https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF) | 2:58 | 2023-05-26 | 2026-06-27 |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
 | [Citrus](https://open.spotify.com/track/1q6vmLQcqhMfvzWmQYxl1K) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Citrus](https://open.spotify.com/album/04GX57XcprIl7mxLyoLXDm) | 3:38 | 2021-04-30 | 2022-05-23 |
 | [closure](https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [closure](https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb) | 3:02 | 2022-05-06 | 2023-04-29 |
@@ -229,6 +229,7 @@
 | [It's Not All About You](https://open.spotify.com/track/1Pzyen9KGLK2lKzA2rnOMm) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [It's Not All About You](https://open.spotify.com/album/5bHX5DB1yKo05tOC8n4CVR) | 2:31 | 2020-11-13 | 2022-03-26 |
 | [ITS ALL GOOD](https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [ITS ALL GOOD](https://open.spotify.com/album/3eCn1ahWXhBqkX89q627Tn) | 3:07 | 2022-07-12 | 2023-09-09 |
 | [Jenny](https://open.spotify.com/track/0VpjgAzEZ0Vi8qLFv4E1wx) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5), [BXRBER](https://open.spotify.com/artist/5aqZZKgeZ8UxRseZWBhc7D) | [2 Songs About 3 People](https://open.spotify.com/album/6urLmk2NLl0tOOeYEnTmi2) | 2:31 | 2020-11-13 | 2022-03-26 |
+| [JOY](https://open.spotify.com/track/7dczzQ6uU0Wj1CCkuPPuRa) | [Jon Lampley](https://open.spotify.com/artist/72owFpLlO637hnA5zZnuqP), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Notes To Self](https://open.spotify.com/album/6Jv1MBFoTi851GHNIVbbA1) | 3:05 | 2026-06-26 |  |
 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 | 2022-05-27 | 2024-03-30 |
 | [Just Believe In You](https://open.spotify.com/track/1dCYLpav3IPS48U4tShtRM) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [TBNH](https://open.spotify.com/album/1D7sdhWa3jL1pgv3VS0aDD) | 5:05 | 2020-11-13 | 2022-02-22 |
 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 | 2022-02-04 | 2022-07-29 |

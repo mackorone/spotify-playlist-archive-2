@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215709,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
+    },
+    {
+      "album": {
         "name": "To Love Someone",
         "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
       },

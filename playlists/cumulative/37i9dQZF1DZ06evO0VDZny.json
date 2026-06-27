@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 129866,
       "name": "A Lot Like Vegas",
       "url": "https://open.spotify.com/track/0n1HOrTBNb87Ozqqs5ZiZD"
@@ -541,6 +541,24 @@
     },
     {
       "album": {
+        "name": "Dehumanized",
+        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268181,
+      "name": "Dehumanized",
+      "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
+    },
+    {
+      "album": {
         "name": "Suicide Season",
         "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 201468,
       "name": "DiE4u.sysrsk",
       "url": "https://open.spotify.com/track/65EFbxCYYNRGKibTQj90Wt"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 209611,
       "name": "followU.bnd",
       "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 309218,
       "name": "med!cine.fbk",
       "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
@@ -1490,7 +1508,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 265328,
       "name": "sL33pwalking.idl",
       "url": "https://open.spotify.com/track/3UfassQ27R4HgpBRwJIQkr"

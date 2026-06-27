@@ -1,6 +1,6 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 587144,
+  "num_followers": 587262,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-06-26 00:01:53",
       "album": {
-        "name": "BODY (danz)",
-        "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 147696,
-      "name": "BODY (danz)",
-      "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
         "name": "Who\u2019s Dat Girl",
         "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 172912,
       "name": "Who\u2019s Dat Girl",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "BODY (danz)",
+        "url": "https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 147696,
+      "name": "BODY (danz)",
+      "url": "https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh"
     },
     {
       "added_at": "2026-06-26 00:01:53",
@@ -723,38 +723,6 @@
     {
       "added_at": "2026-06-26 00:01:53",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -775,6 +743,54 @@
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
     },
     {
       "added_at": "2026-06-26 00:01:53",
@@ -807,22 +823,6 @@
       "duration_ms": 165625,
       "name": "Waist",
       "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
     },
     {
       "added_at": "2026-06-26 00:01:53",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-06-26 00:01:53",
       "album": {
+        "name": "Allergies",
+        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 173118,
+      "name": "Allergies",
+      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
-        "name": "Allergies",
-        "url": "https://open.spotify.com/album/3Vs7yW78OM1lQctmLNYdVp"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 173118,
-      "name": "Allergies",
-      "url": "https://open.spotify.com/track/18aqBVdhqN5SMYqg3FCSoE"
     },
     {
       "added_at": "2026-06-26 00:01:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Rvssian, Rauw Alejandro & Wizkid",
+  "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149340,
       "name": "a ti te matan las ganas",
       "url": "https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO"
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
+    },
+    {
+      "album": {
         "name": "Dpos D' Quarentena (Deluxe Edition)",
         "url": "https://open.spotify.com/album/719kvyNytkuSvH6MzgKY3T"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 97507,
       "name": "coletera",
       "url": "https://open.spotify.com/track/0mFrx0vyS62wwxp8BtFpbk"
@@ -1454,6 +1472,24 @@
       "duration_ms": 136421,
       "name": "Cule Bollito",
       "url": "https://open.spotify.com/track/4vOdXqbSnvXTAQKxLGzDpT"
+    },
+    {
+      "album": {
+        "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+        "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140461,
+      "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
+      "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
     },
     {
       "album": {
@@ -2294,7 +2330,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-02",
+      "date_removed": null,
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB"
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159135,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5"
@@ -3089,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+    },
+    {
+      "album": {
         "name": "love love FLAKK",
         "url": "https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be"
       },
@@ -3144,7 +3198,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 217142,
       "name": "LLUVIA",
       "url": "https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO"
@@ -3703,6 +3757,28 @@
     },
     {
       "album": {
+        "name": "OMERTA",
+        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "Medetown",
+      "url": "https://open.spotify.com/track/6vLPeh2r5vu7VrnfBhDu1F"
+    },
+    {
+      "album": {
         "name": "MEN\u00da (Radio Edit)",
         "url": "https://open.spotify.com/album/49Jwg3DkeFDsXFNLltho36"
       },
@@ -4220,6 +4296,24 @@
       "duration_ms": 186181,
       "name": "NO HAY BREAK (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/3SidxlqZdO4wtPvrTaDBin"
+    },
+    {
+      "album": {
+        "name": "No Llegamos Ni A Febrero",
+        "url": "https://open.spotify.com/album/6aNgiuAeoVLHICmNiZryZo"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178848,
+      "name": "No Llegamos Ni A Febrero",
+      "url": "https://open.spotify.com/track/5yb9zjiSDK9cMBhQxI0TMs"
     },
     {
       "album": {
@@ -5998,7 +6092,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 131827,
       "name": "sobelove",
       "url": "https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl"
@@ -6024,6 +6118,28 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
+    },
+    {
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
     },
     {
       "album": {
@@ -6454,7 +6570,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167647,
       "name": "Tiempo Al Tiempo (feat. Goyo)",
       "url": "https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU"
@@ -7170,7 +7286,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178181,
       "name": "Volvamos",
       "url": "https://open.spotify.com/track/3ew2B1G5nw54y8kpGaMNbm"

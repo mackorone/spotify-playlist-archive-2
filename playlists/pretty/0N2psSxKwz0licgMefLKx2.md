@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,278 likes - 95 songs - 5 hr 11 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 11,279 likes - 96 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 1 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 2 | [I Got Better](https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:24 |
 | 3 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 |
 | 4 | [Wanted Me To Be](https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Wanted Me To Be](https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK) | 3:05 |
@@ -103,5 +103,6 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 93 | [high school sweetheart](https://open.spotify.com/track/3kxcRsR6yaghkuTwXDZO5Z) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [high school sweetheart](https://open.spotify.com/album/7KdJRMPSpI6zxnWV3mWYXL) | 3:11 |
 | 94 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
 | 95 | [Hell On Me](https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:08 |
+| 96 | [Little Miss Twain \(feat\. Tanya Tucker\)](https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Little Miss Twain](https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc) | 4:15 |
 
-Snapshot ID: `AAAnJ25fptmRpL3UoyfVyCWE2sm1pXFS`
+Snapshot ID: `AAAnKNv3kXPM0hLUitbMltJkdr5RJmGL`

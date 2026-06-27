@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Magixx",
-  "num_followers": 645262,
+  "num_followers": 645343,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,18 @@
     {
       "added_at": "2026-06-26 00:01:52",
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 173253,
-      "name": "forever be mine (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "added_at": "2026-06-26 00:01:52",
@@ -191,18 +187,22 @@
     {
       "added_at": "2026-06-26 00:01:52",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2026-06-26 00:01:52",
@@ -402,10 +402,18 @@
         {
           "name": "Wande Coal",
           "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 188803,
+      "name": "GBESUNMO",
       "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
     },
     {
@@ -919,6 +927,26 @@
     {
       "added_at": "2026-06-26 00:01:52",
       "album": {
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 137100,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
+    },
+    {
+      "added_at": "2026-06-26 00:01:52",
+      "album": {
         "name": "Come Slide",
         "url": "https://open.spotify.com/album/1w5cLDjyPVMfV1tYbziBk4"
       },
@@ -943,26 +971,6 @@
       "duration_ms": 183947,
       "name": "Come Slide",
       "url": "https://open.spotify.com/track/75uppmIvjtxiutMdmA8C9c"
-    },
-    {
-      "added_at": "2026-06-26 00:01:52",
-      "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 137100,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
     },
     {
       "added_at": "2026-06-26 00:01:52",
@@ -1279,30 +1287,6 @@
     {
       "added_at": "2026-06-26 00:01:52",
       "album": {
-        "name": "I'M OK",
-        "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Rii",
-          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "I'M OK",
-      "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
-    },
-    {
-      "added_at": "2026-06-26 00:01:52",
-      "album": {
         "name": "Luv Again",
         "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
@@ -1315,6 +1299,30 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2026-06-26 00:01:52",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 119347,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
     }
   ],
   "unique_name": "Afropop",

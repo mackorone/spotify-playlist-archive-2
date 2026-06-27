@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,813 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,831 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 9 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 10 | [Andar Leve](https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P) | 2:45 |
 | 11 | [Bateu](https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Bateu](https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz) | 3:26 |
-| 12 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
-| 13 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
+| 12 | [Contigo](https://open.spotify.com/track/4PASxl6ylsKfWqqJQpKQ09) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Contigo](https://open.spotify.com/album/21dK9qfimpmicXaQG7wrOH) | 3:08 |
+| 13 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 |
 | 14 | [Baiana](https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:53 |
 | 15 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 16 | [Céu Rosé](https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Céu Rosé](https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR) | 2:44 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 57 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |
 | 58 | [Vou Me Banhar](https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jônatas Belgrande](https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz) | [Vou Me Banhar](https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M) | 3:42 |
 | 59 | [SOY DEL MUNDO](https://open.spotify.com/track/2ZZ3O1ah5j6q4UdairuHcc) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [SOY DEL MUNDO](https://open.spotify.com/album/1VTAl9vBwufjE3TUxrsusc) | 3:18 |
-| 60 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
-| 61 | [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 |
+| 60 | [Deixa o Verão Acontecer](https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Deixa o Verão Acontecer](https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf) | 2:41 |
+| 61 | [Praia do Flamengo](https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc) | [Praia do Flamengo](https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9) | 4:31 |
 | 62 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
 | 63 | [Minha Preta](https://open.spotify.com/track/39YYJZ3UwAEpO9Rfq9njw2) | [Bistro](https://open.spotify.com/artist/4COVJI0Wq3XJNci3ySWQGx) | [Minha Preta](https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu) | 2:55 |
 | 64 | [Deixa a Chuva Cair \- Acoustic Version](https://open.spotify.com/track/466NYRgtd3gPNH43VQ5A33) | [Rick Bonadio](https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6), [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Deixa a Chuva Cair \(Acoustic Version\)](https://open.spotify.com/album/0L7Ch86WVPvPjf1LoIDcPl) | 2:44 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Love Love](https://open.spotify.com/track/0mlV6Ox95JtjLjFI5wz4Si) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 3:25 |
 | 85 | [Sozinho \- Ao Vivo](https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h) | 3:55 |
 
-Snapshot ID: `AAAAAJ062pHKKkwpbATlTuzgyqNqYvC2`
+Snapshot ID: `AAAAAG117IQ0nUqtuYabtxktejdb+aFv`

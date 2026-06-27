@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 105431,
+  "num_followers": 105454,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACfHeY/ciOJJV++4IdErMJL",
+  "snapshot_id": "ajxvgAAAAABnBa5qlgLv9d6ddAm1jgtB",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+        "name": "100% Corridos Verdes",
+        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 126249,
-      "name": "Bien Tumbado",
-      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
+      "duration_ms": 190043,
+      "name": "El Sapo",
+      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
     },
     {
       "added_at": null,
@@ -915,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Corridos Verdes",
-        "url": "https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4"
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 190043,
-      "name": "El Sapo",
-      "url": "https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT"
+      "duration_ms": 126249,
+      "name": "Bien Tumbado",
+      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 170225,
+  "num_followers": 170241,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
+        "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Ni Parientes Somos",
+      "url": "https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
         "name": "Botella Tras Botella",
         "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
-        "name": "Las Grandes Norte\u00f1as De Los Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/7MLCcIOXHAC9HsgOWWEmvL"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Ni Parientes Somos",
-      "url": "https://open.spotify.com/track/1aGGmppBvTHztso2ENKqwh"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1603,22 +1603,58 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+        "name": "Guaro (Remix)",
+        "url": "https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
         },
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        },
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        },
+        {
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+        },
+        {
+          "name": "El Charrito Negro",
+          "url": "https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6"
+        },
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        },
+        {
+          "name": "Jhon Alex Casta\u00f1o",
+          "url": "https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv"
+        },
+        {
+          "name": "Juan Pablo Navarrete",
+          "url": "https://open.spotify.com/artist/66NK6pGuyDgVYsrx1ZRGEi"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+      "duration_ms": 222285,
+      "name": "Guaro - Remix",
+      "url": "https://open.spotify.com/track/5fNJ6mhN9NBOELN7Nw8dzJ"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1643,22 +1679,22 @@
     {
       "added_at": "2026-06-09 16:17:12",
       "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G"
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
       "artists": [
         {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
         },
         {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 224810,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1"
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1675,6 +1711,26 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "added_at": "2026-06-09 16:17:12",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 224810,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1"
     },
     {
       "added_at": "2026-06-09 16:17:12",
@@ -1743,22 +1799,6 @@
       "duration_ms": 225680,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/1661eebjAHPCx0oBrGyuUp"
-    },
-    {
-      "added_at": "2026-06-09 16:17:12",
-      "album": {
-        "name": "Rep\u00edtelas",
-        "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 141336,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

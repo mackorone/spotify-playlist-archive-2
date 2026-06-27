@@ -5673,6 +5673,32 @@
     },
     {
       "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
+      },
+      "artists": [
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "Chosen Ones",
+      "url": "https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8"
+    },
+    {
+      "album": {
         "name": "Chote Pind",
         "url": "https://open.spotify.com/album/59LcDLSdtfcOjaLPOKtfhW"
       },
@@ -11224,6 +11250,32 @@
       "duration_ms": 194683,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2NMhGp758inYRK2E0DnbyP"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
+      },
+      "artists": [
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Jazzy B",
+          "url": "https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/4PXvVQOLho0zqNaLHWqE1i"
     },
     {
       "album": {
@@ -25496,42 +25548,6 @@
       "duration_ms": 136250,
       "name": "Trace",
       "url": "https://open.spotify.com/track/1MmkHWPbroNWhy4p2qIYAL"
-    },
-    {
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
-      },
-      "artists": [
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/4PXvVQOLho0zqNaLHWqE1i"
-    },
-    {
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
-      },
-      "artists": [
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8"
     },
     {
       "album": {

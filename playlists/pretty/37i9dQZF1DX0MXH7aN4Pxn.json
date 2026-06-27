@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 728681,
+  "num_followers": 728626,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,30 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Can't Decide",
+        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -511,30 +535,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Can't Decide",
-        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Can't Decide",
-      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "So Much In Love",
         "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 178453,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "duration_ms": 134095,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "I Loved You (feat. Melissa Steel)",
         "url": "https://open.spotify.com/album/0Fuq38dhyTw57Kyq2ctmxN"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 184704,
       "name": "I Loved You (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/3yh9WHZs15IKNBXYaFAZH5"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Look Good",
-        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 134095,
-      "name": "Look Good",
-      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 163641,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 163641,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
     },
     {
       "added_at": "2026-01-23 00:00:40",

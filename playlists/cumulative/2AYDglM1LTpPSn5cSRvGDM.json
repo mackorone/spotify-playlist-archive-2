@@ -3547,6 +3547,28 @@
     },
     {
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0upGQAfzF6qEj0Kn4c8yRP"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8rean",
+          "url": "https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4"
+        },
+        {
+          "name": "Tores_flat",
+          "url": "https://open.spotify.com/artist/6bhEMAX8dThfLq5PR77Mm4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243693,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4mGWg0swxzA9C7HrjoiXYy"
+    },
+    {
+      "album": {
         "name": "Over & Over",
         "url": "https://open.spotify.com/album/0COzM2g4u6alqzJNinSpxF"
       },

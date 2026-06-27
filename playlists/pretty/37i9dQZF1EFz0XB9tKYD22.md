@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610 likes - 353 songs - 20 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 352 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 157 | [Too Soon For Goodbye](https://open.spotify.com/track/6qRsqsnh3HrkUq0SLWvdie) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Too Soon For Goodbye](https://open.spotify.com/album/2ulEJ1F3LiQZlQ6mQFmdwv) | 3:35 |
 | 158 | [Free](https://open.spotify.com/track/7E56b3ywRXa1AjfhZNDtrw) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:28 |
 | 159 | [Faster](https://open.spotify.com/track/6l1hUDw8WhmAtdDyrzUTtm) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:17 |
-| 160 | [Tumble And Fall](https://open.spotify.com/track/5yIhd010M1qEjc8AmkFcak) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 4:41 |
-| 161 | [Work Like That](https://open.spotify.com/track/4RtFL3XU21zaFg4o1O3Wr8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:56 |
+| 160 | [Work Like That](https://open.spotify.com/track/4RtFL3XU21zaFg4o1O3Wr8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:56 |
+| 161 | [Tumble And Fall](https://open.spotify.com/track/5yIhd010M1qEjc8AmkFcak) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 4:41 |
 | 162 | [How Far Can It Go? \(feat\. Trisha Yearwood\)](https://open.spotify.com/track/0XceOz98G0knax82kA2BTw) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 2:55 |
 | 163 | [Bless My Heart](https://open.spotify.com/track/7u82QfsfMKS79Sr9k57A4w) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 4:01 |
 | 164 | [Real Talk](https://open.spotify.com/track/6XfnCGAaNjvmUHClivmzGj) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Real Talk](https://open.spotify.com/album/0HrllaJBNh6palq7JyRGRp) | 3:06 |
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 211 | [Good Life](https://open.spotify.com/track/1N23c0ajye7u6jf8ABNLbY) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:35 |
 | 212 | [How To Break A Heart \(feat\. Lori McKenna & Hillary Lindsey\)](https://open.spotify.com/track/5x8C7QQpU81bS62LtFOeGv) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Lori McKenna](https://open.spotify.com/artist/1hjMVz40rkkOoGSnl3yweD), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:24 |
 | 213 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
-| 214 | [Back in the Game](https://open.spotify.com/track/0uoPXey96C6nj5e9wdY5wr) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:05 |
-| 215 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
+| 214 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
+| 215 | [Back in the Game](https://open.spotify.com/track/0uoPXey96C6nj5e9wdY5wr) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:05 |
 | 216 | [It Ain't Easy](https://open.spotify.com/track/0zpVeUdz3eO7iJiOEdl2Up) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:05 |
 | 217 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
 | 218 | [Sweet Louisiana](https://open.spotify.com/track/5pMNVwBmwQ7GfaVKfzuPzo) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 3:02 |
@@ -355,11 +355,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 345 | [No Worries](https://open.spotify.com/track/1Hz5RFB6MvqlU7O9lN6CZG) | [Fevah Dream](https://open.spotify.com/artist/21XsJP9KGd249Y8ElQjMnP) | [Roasted Coast](https://open.spotify.com/album/2FW9ezV35rUaToMsixDVme) | 3:31 |
 | 346 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
 | 347 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
-| 348 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 349 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
-| 350 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
-| 351 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
-| 352 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
-| 353 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
+| 348 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 349 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
+| 350 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
+| 351 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
+| 352 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcVMpgAAAAAcim5sNz9nQJePiSzES8Q4`
+Snapshot ID: `AcVSRgAAAADRKoB1Dmxzjv9LmE37HSb4`

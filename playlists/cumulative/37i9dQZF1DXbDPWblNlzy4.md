@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Greeicy.
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Jarah.
 
-583 songs - 1 day 6 hr 22 min
+584 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Quiero](https://open.spotify.com/track/26tLmURZXoOmbFA7pjtvJ4) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Quiero](https://open.spotify.com/album/3rWNMVZ6RZvJm4RuF6G2Ts) | 2:55 | 2023-03-17 | 2023-03-25 |
 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 | 2025-08-22 | 2026-01-31 |
 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 | 2025-02-21 | 2025-03-29 |
+| [QUIZÁS](https://open.spotify.com/track/7gIA58X5inZX0gmsrEJshr) | [Jarah](https://open.spotify.com/artist/7M9LU8frdsqdvohdmDHu76) | [QUIZÁS](https://open.spotify.com/album/6JgnkUyrIK2I0GTgbUIYD6) | 2:39 | 2026-06-26 |  |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 | 2024-02-17 |
 | [Rayo \- Spotify Singles](https://open.spotify.com/track/1tz2VG0dWIDy6kTvgwewZA) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD), [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Rayo \(Spotify Singles\)](https://open.spotify.com/album/3ZeqVTCrZOs1N7qSKIEorT) | 2:55 | 2025-03-07 |  |
 | [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2023-06-23 | 2023-09-16 |

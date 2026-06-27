@@ -4,7 +4,7 @@
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Kris R.
 
-535 songs - 1 day 5 hr 30 min
+536 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-30 | 2023-05-19 |
 | [ARGENTINA \(feat\. Alan Gomez, Midel, Elixir\)](https://open.spotify.com/track/6vdDwwHVYFj9VzQPr5bvUw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Elixir](https://open.spotify.com/artist/7ENXmnggvN0RX86PIdIfji) | [ARGENTINA \(feat\. Alan Gomez, Midel, Elixir\)](https://open.spotify.com/album/1K9oeJTfpmJpKfdj9BMyHo) | 3:37 | 2025-01-31 | 2025-02-08 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2023-02-16 | 2023-04-21 |
+| [Así de Rico \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [ASÍ DE RICO \(Va uno a ver y ve Remizzz\)](https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys) | 2:20 | 2026-06-26 |  |
 | [Aventurero](https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Aventurero](https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG) | 3:10 | 2026-01-13 | 2026-03-07 |
 | [Ba Ba Bad Remix](https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad Remix](https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt) | 2:26 | 2025-07-11 | 2026-05-16 |
 | [BABY FACHA](https://open.spotify.com/track/3JQxqYDoKdIYuFxe9Yz3Of) | [Indi C](https://open.spotify.com/artist/4LO0fCfCae25L85ZgRpy9n), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [BABY FACHA](https://open.spotify.com/album/6AII6mFZUjbyb1QC7S7voo) | 2:40 | 2024-09-05 | 2024-09-13 |

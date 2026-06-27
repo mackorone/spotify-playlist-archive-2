@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-509 songs - 1 day 5 hr 42 min
+510 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-01-29 |
 | [more than a Luva](https://open.spotify.com/track/3aJXEytbdB7YPYKnGD2io5) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [more than a Luva](https://open.spotify.com/album/3qbXSocni3gE2JTOUGRcQ2) | 3:00 | 2025-06-13 |  |
 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 | 2024-01-12 |  |
-| [Move Your Body](https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji) | [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Move Your Body](https://open.spotify.com/album/2bI85Cz6myN5xQxM31bfvg) | 1:38 | 2024-08-16 |  |
+| [Move Your Body](https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji) | [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Move Your Body](https://open.spotify.com/album/2bI85Cz6myN5xQxM31bfvg) | 1:38 | 2024-08-16 | 2026-06-27 |
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2023-03-04 |
 | [My Big Day Off](https://open.spotify.com/track/6natNsxOUP1d2LRzT7psRh) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr) | [My Big Day Off](https://open.spotify.com/album/3wfcoCMznCp2ucwpVhHD51) | 3:08 | 2025-08-29 |  |
 | [My Brother \- Frank Booker & Nathan Haines Remix](https://open.spotify.com/track/5BzqDmHDbC8OFOiSiSf3mr) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Michal Martyniuk](https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC), [Frank Booker](https://open.spotify.com/artist/4YRVEzWxX3wUH29czw0IiU), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [My Brother](https://open.spotify.com/album/1muD8cnFzYX594Irtz0aBh) | 6:54 | 2021-06-11 | 2022-07-02 |
@@ -359,6 +359,7 @@
 | [Perfect](https://open.spotify.com/track/3YTYELOB3uKmJAJZRHmg7o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Perfect](https://open.spotify.com/album/2Ys5YqubjcDVuLK3NvmKVS) | 3:28 | 2023-02-17 | 2023-05-24 |
 | [Pick Up](https://open.spotify.com/track/40zIrmsbbjNBLm8s2bCUx3) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Pick Up](https://open.spotify.com/album/0fOPYWlHgWRi8caKaiy30y) | 3:30 | 2022-07-15 | 2022-09-17 |
 | [Picky](https://open.spotify.com/track/2AnRsU93Frlz2tSipATdCf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Picky](https://open.spotify.com/album/0Fg4s2vE0u9TOwVLWb3OVV) | 3:18 | 2020-11-20 | 2022-04-09 |
+| [PILLAR OF SALT](https://open.spotify.com/track/7etk8IZgsTqysBOHvMK7uY) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [PILLAR OF SALT](https://open.spotify.com/album/6kwTGr3AN3hlGcNWyyHUsb) | 2:26 | 2026-06-26 |  |
 | [Pipe Dream](https://open.spotify.com/track/2VvA02bUmNmZvxsexippXM) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7), [DOMENICO](https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt), [Prince Street Bodega](https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS) | [Pipe Dream](https://open.spotify.com/album/2wbdNXoe1bTA66vkblLPiS) | 3:06 | 2023-06-30 | 2023-08-26 |
 | [Planet Nine](https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/7uid7xXNdaEHU9AMOQpcwj) | 4:50 | 2024-04-05 |  |
 | [Play My Guitar](https://open.spotify.com/track/6bfDFOlMraYL4XoYAExz3n) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1) | [Play My Guitar](https://open.spotify.com/album/2hjsDetomg1855StKuMZWs) | 3:21 | 2024-08-30 | 2026-06-20 |

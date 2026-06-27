@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-864 songs - 1 day 18 hr 53 min
+865 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Victim](https://open.spotify.com/track/6gOmVillgjmFq9sHTcv3oi) | [MRJay](https://open.spotify.com/artist/24PhFqIM2MOH9oAVnPzfRe), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Victim](https://open.spotify.com/album/4DR8zDPJ0G5Ce6ibjMNGPk) | 4:02 | 2025-07-11 |  |
 | [Vida Nova](https://open.spotify.com/track/23E61Q0ABWtFFvLnjLmdqO) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [Vida Nova](https://open.spotify.com/album/1HwnKFaOeS5dEpkmzrMc1Y) | 1:56 | 2024-04-25 | 2024-11-20 |
 | [Vienna](https://open.spotify.com/track/6Mb6rfn9rQkAKUIIo8ZtKU) | [James Mercy](https://open.spotify.com/artist/6RJbFqgnnHvQcq8TGdCIn2), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ) | [Vienna](https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N) | 3:33 | 2023-12-29 | 2024-07-19 |
+| [Virtual Love 2001](https://open.spotify.com/track/6FJjFMrfGsiErxfi51uRqy) | [LÖVI](https://open.spotify.com/artist/5Lr3MQJETTq3UnAjbx3n1R) | [Virtual Love 2001](https://open.spotify.com/album/5BwxhyttmRLxlhhNH9uMKH) | 3:24 | 2026-06-26 |  |
 | [Vision](https://open.spotify.com/track/1G3sEIZJQpPtsPNTLlWSzs) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [Vision](https://open.spotify.com/album/1KIMzdcNaxOXmlCH63HR96) | 2:25 | 2023-01-13 | 2023-04-28 |
 | [Vision pt\. II](https://open.spotify.com/track/5f9W174NPbE0OiQeo0D5Wx) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Vision pt\. II](https://open.spotify.com/album/42OoezDnLxr1TWxJ36NatW) | 3:28 | 2023-08-08 | 2023-12-14 |
 | [Visions](https://open.spotify.com/track/6rf6y8M3qZDyFLBezkXZ2G) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn) | [Visions](https://open.spotify.com/album/63bnF1vs8NxwKZ7WjxLAcK) | 3:43 | 2023-03-24 | 2023-12-14 |

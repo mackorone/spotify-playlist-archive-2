@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,345 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,389 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 45 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 |
 | 46 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 |
 | 47 | [Estou Com Você \- Acústico](https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Estou Com Você \(Acústico\)](https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu) | 4:45 |
-| 48 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 |
-| 49 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
+| 48 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 |
+| 49 | [Espírito Santo \(feat\. Weslei Santos & Marcus Salles\) \- Ao Vivo no Sintonize](https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Fernanda Brum Reunion no Sintonize \- EP 2 \(Ao Vivo\)](https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN) | 4:59 |
 | 50 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 |
 | 51 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
 | 52 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > My enemy na sapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,705 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,787 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 7 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 |
 | 8 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 9 | [LEGOLAS](https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:49 |
-| 10 | [Track 3](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 0:00 |
+| 10 | [Motide](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 2:30 |
 | 11 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
 | 12 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 |
 | 13 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 15 | [Last Week](https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Bad Boy Etiquette 102: Continuous Assessment](https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC) | 3:55 |
 | 16 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
 | 17 | [Introduction](https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Introduction](https://open.spotify.com/album/3rhPZe2525Jd9SO1A4FIFR) | 2:25 |
-| 18 | [Track 11](https://open.spotify.com/track/4t4Idhn46m8YDMeGtNwRvj) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 0:00 |
+| 18 | [Sure For Me](https://open.spotify.com/track/4t4Idhn46m8YDMeGtNwRvj) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 2:55 |
 | 19 | [By Now](https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 3:31 |
 | 20 | [Holiday](https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Holiday](https://open.spotify.com/album/76VDoUkaQPQ0UrgBKnKajv) | 1:59 |
 | 21 | [1942](https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [1942](https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw) | 2:30 |

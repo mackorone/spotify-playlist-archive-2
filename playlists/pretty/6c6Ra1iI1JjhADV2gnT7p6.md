@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,286 likes - 1,400 songs - 3 day 5 hr 47 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,290 likes - 1,400 songs - 3 day 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -488,7 +488,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 478 | [Aphrodisiac](https://open.spotify.com/track/25fbLtaGVYhDKSInFGOkMd) | [D'Leesa](https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a) | [Aphrodisiac](https://open.spotify.com/album/2TJ19ZDqgdsql9cX1CGUVF) | 3:16 |
 | 479 | [garden](https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [garden](https://open.spotify.com/album/2uZQ9xiJnKy1TCTaOdBfGK) | 3:54 |
 | 480 | [Head](https://open.spotify.com/track/0zjL6kSROyu9VvAOsea8c3) | [Eloise Pezzner](https://open.spotify.com/artist/2csNjGxuDlxSW1kvWMcHyS) | [Apocoloco](https://open.spotify.com/album/6HmHhvvHBdxM1XHJUXYUqB) | 1:42 |
-| 481 | [a little treat](https://open.spotify.com/track/5lnwnIi0bninHyJTze3Vrc) | [Amy Rose Mills](https://open.spotify.com/artist/3AbVMHLK6vZIRG0FLR2AVi) | [a little treat](https://open.spotify.com/album/20B4ry1duRpH0dyCxpc5qe) | 4:15 |
+| 481 | [a little treat](https://open.spotify.com/track/5lnwnIi0bninHyJTze3Vrc) | [Amy Rose Mills](https://open.spotify.com/artist/3AbVMHLK6vZIRG0FLR2AVi), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [a little treat](https://open.spotify.com/album/20B4ry1duRpH0dyCxpc5qe) | 4:15 |
 | 482 | [Shelter](https://open.spotify.com/track/18Krwf3HkCPDkKBbtM5aP7) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h), [blissfully](https://open.spotify.com/artist/1xj1FLo5l4WTh4i2D0KXta) | [Shelter](https://open.spotify.com/album/0pW3jx0g2aZfNGTDRzOrD8) | 4:25 |
 | 483 | [Walkie Talkie](https://open.spotify.com/track/5xtCCRzKq1Xh4xA5pXxkf3) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [Walkie Talkie](https://open.spotify.com/album/7I7zz6uJR7XzSc7X5HgE1T) | 3:14 |
 | 484 | [Sunday Morning](https://open.spotify.com/track/5T1wiMYN3VWvEjnGPXKHG4) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [I Don't Feel Like Speaking Now](https://open.spotify.com/album/11JB5PT2FR3GIxF8ia8JOO) | 2:31 |

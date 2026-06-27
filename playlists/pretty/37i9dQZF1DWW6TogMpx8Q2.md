@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Jason Chan 陳柏宇
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,297 likes - 107 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,298 likes - 107 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 106 | [Rumours](https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld) | [MIRROR](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Rumours](https://open.spotify.com/album/7vawAmxGohhTYN53lzenQW) | 3:19 |
 | 107 | [三生有幸](https://open.spotify.com/track/5GnB3Nz0WfhOZK50PtAcma) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [三生有幸](https://open.spotify.com/album/0GNN3DUnDHMoKiPEwykUfc) | 3:37 |
 
-Snapshot ID: `AAAAAD9YuGU5yIeVexPI/s8my0tzMmu2`
+Snapshot ID: `AAAAAOsHl7+kMMAblW2a8581mlOIALYz`

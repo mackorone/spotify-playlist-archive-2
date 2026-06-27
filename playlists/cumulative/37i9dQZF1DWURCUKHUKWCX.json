@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Andito",
+        "url": "https://open.spotify.com/album/5qJ0Kscv5uPmNTX771eTIk"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143826,
+      "name": "Andito",
+      "url": "https://open.spotify.com/track/4sdtpnmqPJtAF5og3zPz5X"
+    },
+    {
+      "album": {
         "name": "Apartment Song #5",
         "url": "https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 325479,
       "name": "Canton",
       "url": "https://open.spotify.com/track/4MLZUtTBE5eTu7Gv54pPZn"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3tuvuIpvHY0DBfQ801pH6x"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183026,
+      "name": "Carved by Time",
+      "url": "https://open.spotify.com/track/3UOjFyp7X5CACDGFUYEXCD"
     },
     {
       "album": {
@@ -2144,6 +2180,28 @@
       "duration_ms": 154394,
       "name": "Globes",
       "url": "https://open.spotify.com/track/0oT5AOdk4IUqVDOaIN86ng"
+    },
+    {
+      "album": {
+        "name": "Go Not Against The Wind",
+        "url": "https://open.spotify.com/album/0hRQJ5282f9a4ksoN78Xc5"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Keith Kenniff",
+          "url": "https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151709,
+      "name": "Go Not Against The Wind",
+      "url": "https://open.spotify.com/track/2ST26aMjxnHXBJRb9Iskae"
     },
     {
       "album": {
@@ -5254,6 +5312,24 @@
       "duration_ms": 250647,
       "name": "Stella de Oro",
       "url": "https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx"
+    },
+    {
+      "album": {
+        "name": "Still, Vol. I",
+        "url": "https://open.spotify.com/album/3Eg8zeMrD50RjQYjFLM90G"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Albuquerq\u00fce",
+          "url": "https://open.spotify.com/artist/2oA6iL2R3RUkHcmnC091P0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111189,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0H2Xy3FnL6Tv5wWWD8LoRR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1235037,
+  "num_followers": 1235102,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAmsv8tkJzd75Gc+ls7l2YI",
+  "snapshot_id": "ajxvgAAAAAACl5PicyGsZ2ad2ruapQn2",
   "tracks": [
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Unchained (The Payback / Untouchable)",
-      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 274626,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Unchained (The Payback / Untouchable)",
+      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
     },
     {
       "added_at": null,

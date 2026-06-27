@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Propping up the Floor",
+        "url": "https://open.spotify.com/album/0pZu510c9RtngtrvL6VNYv"
+      },
+      "artists": [
+        {
+          "name": "Smokey Bastard",
+          "url": "https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304613,
+      "name": "Old Jack",
+      "url": "https://open.spotify.com/track/4zdtk5187wpYozVpV3JRpt"
+    },
+    {
+      "album": {
         "name": "The Murders Three",
         "url": "https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146000,
       "name": "Old Maui",
       "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"

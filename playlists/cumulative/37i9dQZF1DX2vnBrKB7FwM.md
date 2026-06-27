@@ -4,7 +4,7 @@
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-158 songs - 8 hr 45 min
+159 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Arde Roma](https://open.spotify.com/track/1iDcAvaddk5uOJbp2Al0Iz) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [El Armador del Sol](https://open.spotify.com/album/224wnpTxgYLu50oxEZFoh6) | 3:27 | 2022-02-25 |  |
 | [Avanza](https://open.spotify.com/track/6h1KX0vGIV2QtT0HXZR4Q0) | [Pedro Mo](https://open.spotify.com/artist/3SddrVrcgL6qbXhj8AkwTZ), [R3tal](https://open.spotify.com/artist/2DZTup4h17LBD7eWSawQwF) | [Ingobernable \(Es el Camino\)](https://open.spotify.com/album/29ykb2kjCWfD0EJCq2CaUP) | 2:13 | 2022-02-25 | 2023-08-26 |
 | [Back to Back](https://open.spotify.com/track/7677F33TDOahKknQbw4446) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Back to Back](https://open.spotify.com/album/45ivsx0nTnWp8S3HjfKPKM) | 3:13 | 2022-02-25 | 2022-12-24 |
+| [Bluzz](https://open.spotify.com/track/7dhkR65sPVPYCEgtyPPbk8) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH) | [Bluzz](https://open.spotify.com/album/1rWBQLisHHWNCd9AMWsqEV) | 2:49 | 2026-06-26 |  |
 | [Bogotá](https://open.spotify.com/track/0qOfKcnU3dAgHAGQOS3tBP) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Antesala](https://open.spotify.com/album/3qGctkbUxZLVKsKaF1Co3P) | 3:21 | 2024-08-22 |  |
 | [Boomerang](https://open.spotify.com/track/72bVyKjQd1dGCUrj7xLFj0) | [Cejaz Negraz](https://open.spotify.com/artist/4otKDQdMIMEKTdZhh4ihql), [Michelangelo305](https://open.spotify.com/artist/4XFeBjg5q6eBmD1Uo8cjKG) | [Psicomagia](https://open.spotify.com/album/6wMXMSa4EmR2bMHEhR0wWM) | 3:29 | 2022-02-25 | 2022-07-29 |
 | [Boomerang](https://open.spotify.com/track/0puJO7cB2H8uPn1n4kXzdA) | [Cejaz Negraz](https://open.spotify.com/artist/4otKDQdMIMEKTdZhh4ihql), [Michelangelo305](https://open.spotify.com/artist/4XFeBjg5q6eBmD1Uo8cjKG) | [Psicomagia](https://open.spotify.com/album/4cXg5Mi24pMei1PJfP6nF7) | 3:29 | 2022-07-15 | 2022-12-24 |

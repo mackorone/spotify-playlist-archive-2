@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 35 | [Feel Alright](https://open.spotify.com/track/3GjEM7WIYqIFrnjGpPlWl6) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 2:55 |
 | 36 | [Sugar Daddy](https://open.spotify.com/track/66w94M418mHrEEdDfKn5ob) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 3:38 |
 | 37 | [You \(feat\. Teyana Taylor\)](https://open.spotify.com/track/1oTztL8s8W0RsJhzKpfhuI) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [DIME TRAP](https://open.spotify.com/album/6BLPwtPvpmqKHp2pFfpSIT) | 3:50 |
-| 38 | [Submarine](https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:57 |
-| 39 | [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 |
+| 38 | [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 |
+| 39 | [Submarine](https://open.spotify.com/track/6Nw4uTLUORRN3dKssrLYu5) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:57 |
 | 40 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 41 | [Past Life](https://open.spotify.com/track/6X5XfDaweonx5mIQHZiHNB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:29 |
 | 42 | [Good Times \(feat\. Buddy Guy\)](https://open.spotify.com/track/5V2s4Y1IUdJSzvTUbR3K49) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Dancing Shadows](https://open.spotify.com/album/2DEpDHpIuQbCsLy0rKyhaI) | 3:11 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 62 | [Shinanigins](https://open.spotify.com/track/2wMuSMdSq6zFPEDhaIvjgQ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:42 |
 | 63 | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/track/56NHfqWbnWX60iQYybskqO) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06), [Mutungi](https://open.spotify.com/artist/1yOaXpYr3A6jMRhHrj3MZS) | [Until The End Of Summer \(feat\. Blush & Mutungi\)](https://open.spotify.com/album/48AsdNKzSJqOGNSRICdUWP) | 2:39 |
 | 64 | [Love Me or Not](https://open.spotify.com/track/6035rfVUNlzOG5uwQaWJMc) | [Heather Small](https://open.spotify.com/artist/3tnTlR2MCaYNQqV3v1908x) | [Love Me or Not](https://open.spotify.com/album/4Xh4TboT7xRuUMIZHNNwVi) | 3:38 |
-| 65 | [Grace](https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:16 |
-| 66 | [Time](https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:47 |
+| 65 | [Time](https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:47 |
+| 66 | [Grace](https://open.spotify.com/track/6QSvMIVpfJirRBtuJU67tn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:16 |
 | 67 | [Come Home](https://open.spotify.com/track/6Ws2A2HLpEkomfZbgC1Jjt) | [Michael J Woodard](https://open.spotify.com/artist/0Wmmj33M55gFExQ6pJB53e) | [Come Home](https://open.spotify.com/album/3Udj8LoVBgmOzDWAhgFDIx) | 3:40 |
 | 68 | [Take Off](https://open.spotify.com/track/31L7a0j3Dj1eNdd5VezAWr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Sketchbook](https://open.spotify.com/album/0cUvvSehTB7xyEamWPsIN8) | 3:40 |
 | 69 | [Break My Own Heart](https://open.spotify.com/track/4Nf8LoYyxI2R2HLqF2NhFq) | [Nia Monét](https://open.spotify.com/artist/08zBxR59xrYDnrohzxD7mx) | [Break My Own Heart](https://open.spotify.com/album/2PMs1WhPl2m8L1KPbq5sMI) | 2:21 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 73 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
 | 74 | [On My Mind](https://open.spotify.com/track/2hm4rlbQtbPcSgbcHvD2EQ) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [On My Mind](https://open.spotify.com/album/0i8FpUqtvarBHDV8iJ52Sl) | 2:41 |
 | 75 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
-| 76 | [Don't Stop](https://open.spotify.com/track/5draS2gXFNSnUazm4YHeiW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Start Again](https://open.spotify.com/album/6UwelQHVWYMc580BAnq1av) | 3:09 |
-| 77 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
+| 76 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
+| 77 | [Don't Stop](https://open.spotify.com/track/5draS2gXFNSnUazm4YHeiW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Start Again](https://open.spotify.com/album/6UwelQHVWYMc580BAnq1av) | 3:09 |
 | 78 | [Just Like Magic](https://open.spotify.com/track/4qiyNCTRPTMQsWcANwYSMt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq) | [THE COLLECTIVE \(VOLUME 01\)](https://open.spotify.com/album/3h5rFOauIzjwqCUMWFNDLi) | 2:24 |
 | 79 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
 | 80 | [Kettle](https://open.spotify.com/track/5LwGInwOgFjIIVer2kPxxW) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Fuck the Numbers](https://open.spotify.com/album/1kWoB4QqqP1Y30PAzEIGo7) | 2:40 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 93 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 94 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcVMxAAAAACWrJvNidRYp1GzsDmyBx3S`
+Snapshot ID: `AcVSKAAAAAA8wz3j3KBZ2qu86698Xeic`

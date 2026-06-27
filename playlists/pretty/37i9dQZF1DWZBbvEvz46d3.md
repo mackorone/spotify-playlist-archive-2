@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,770 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,778 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 69 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
 | 70 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 | 71 | [Świat się pomylił](https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH) | [Patrycja Markowska](https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf) | [Świat się pomylił](https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf) | 3:30 |
-| 72 | [Dobrze, że Cię mam](https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 3:32 |
+| 72 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |
 | 73 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
-| 74 | [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 |
-| 75 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 |
+| 74 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 |
+| 75 | [Prawda o nas](https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Prawda o nas](https://open.spotify.com/album/1x8GzWSyYrqK2HPwSFAYXc) | 3:15 |
 
 Snapshot ID: `AAAAAL3aSXBemzbaRJnvid2h3JTNytFT`

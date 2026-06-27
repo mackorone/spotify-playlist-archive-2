@@ -1,6 +1,6 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 120847,
+  "num_followers": 120861,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
@@ -287,38 +287,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Catch Catch",
-      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 174653,
       "name": "FaSHioN",
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "Beat It Up",
-        "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Beat It Up",
-      "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "GREENGREEN",
         "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 122986,
       "name": "TNT",
       "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "Beat It Up",
+        "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Beat It Up",
+      "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "SUGAR HONEY ICE TEA",
-        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 178032,
-      "name": "SUGAR HONEY ICE TEA",
-      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "GREENGREEN",
         "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173947,
       "name": "ACAI",
       "url": "https://open.spotify.com/track/7Ldcvhcl4Xj4eOTSWpZus5"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "SUGAR HONEY ICE TEA",
+        "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "SUGAR HONEY ICE TEA",
+      "url": "https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "Killin' It Girl (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "DO IT",
-        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
-        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
       },
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "Perfect Night",
         "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+      "duration_ms": 198761,
+      "name": "VIRAL",
+      "url": "https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 198761,
-      "name": "VIRAL",
-      "url": "https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O"
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1139,22 +1139,6 @@
       "duration_ms": 195935,
       "name": "DDI RO RI",
       "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 168645,
-      "name": "Strategy",
-      "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 168645,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "ROMANCE : UNTOLD -daydream-",
         "url": "https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf"
       },
@@ -1223,26 +1223,6 @@
       "duration_ms": 180180,
       "name": "THAT\u2019S A NO NO",
       "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1359,22 +1343,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "SPOT!",
-        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 167706,
-      "name": "SPOT!",
-      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1391,6 +1371,26 @@
       "duration_ms": 210560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "SPOT!",
+        "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 167706,
+      "name": "SPOT!",
+      "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1491,6 +1475,22 @@
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
-      },
-      "artists": [
-        {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
-        }
-      ],
-      "duration_ms": 170694,
-      "name": "Vanilla Days",
-      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 199026,
       "name": "Maria",
       "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 170694,
+      "name": "Vanilla Days",
+      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 193000,
       "name": "Atmos",
       "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "SCENEDROME",
-        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "LOVE ATTACK",
-      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "SET THE TEMPO",
         "url": "https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 179657,
       "name": "METRONOME",
       "url": "https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2291,18 +2291,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "QUINTESSENCE",
-        "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
+        "name": "HOW?",
+        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 180112,
-      "name": "LIVE FAST DIE SLOW",
-      "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
+      "duration_ms": 179040,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2323,18 +2323,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "HOW?",
-        "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
+        "name": "QUINTESSENCE",
+        "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 179040,
-      "name": "Earth, Wind & Fire",
-      "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+      "duration_ms": 180112,
+      "name": "LIVE FAST DIE SLOW",
+      "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
         "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
       },
@@ -2411,18 +2395,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "What's a girl to do",
-        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
       "artists": [
         {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 130000,
-      "name": "What's a girl to do",
-      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2439,6 +2423,22 @@
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "What's a girl to do",
+        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "What's a girl to do",
+      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2675,6 +2675,22 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
@@ -2707,18 +2723,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+        "name": "FIRST 'LOVE&LETTER'",
+        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+      "duration_ms": 207299,
+      "name": "Pretty U",
+      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2735,22 +2751,6 @@
       "duration_ms": 189355,
       "name": "Energetic",
       "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "FIRST 'LOVE&LETTER'",
-        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 207299,
-      "name": "Pretty U",
-      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -2835,22 +2835,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Good day",
-      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
       },
@@ -2863,6 +2847,22 @@
       "duration_ms": 123739,
       "name": "BODY",
       "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Good day",
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -3055,18 +3055,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+        "name": "Imperfect-I'mperfect",
+        "url": "https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p"
       },
       "artists": [
         {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
         }
       ],
-      "duration_ms": 157191,
-      "name": "WICKED",
-      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+      "duration_ms": 188845,
+      "name": "Like a Bubble",
+      "url": "https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -3087,18 +3087,18 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "Imperfect-I'mperfect",
-        "url": "https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p"
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
         }
       ],
-      "duration_ms": 188845,
-      "name": "Like a Bubble",
-      "url": "https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn"
+      "duration_ms": 157191,
+      "name": "WICKED",
+      "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
-        "name": "So Cute",
-        "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "So Cute",
-      "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
         "name": "DANCING ALONE",
         "url": "https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5"
       },
@@ -3219,6 +3203,22 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
+        "name": "So Cute",
+        "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "So Cute",
+      "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
     },
     {
       "added_at": "2026-06-12 17:58:45",
@@ -3323,6 +3323,22 @@
     {
       "added_at": "2026-06-12 17:58:45",
       "album": {
+        "name": "Dearest",
+        "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
+    },
+    {
+      "added_at": "2026-06-12 17:58:45",
+      "album": {
         "name": "3D (Justin Timberlake Remix)",
         "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
       },
@@ -3339,22 +3355,6 @@
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
-    },
-    {
-      "added_at": "2026-06-12 17:58:45",
-      "album": {
-        "name": "Dearest",
-        "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
     },
     {
       "added_at": "2026-06-12 17:58:45",

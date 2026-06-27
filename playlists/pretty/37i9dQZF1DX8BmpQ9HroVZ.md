@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,476 likes - 90 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,511 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 68 | [Bewajah](https://open.spotify.com/track/3N3KsOsPrLxxWNQHTl0Kkz) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Bewajah](https://open.spotify.com/album/1nMYA7uloQvFhTDY565dtn) | 3:25 |
 | 69 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 70 | [Sajde](https://open.spotify.com/track/4BGfzLrK6lgvKDjKSU7wrN) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 7:40 |
-| 71 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
+| 71 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 72 | [Jogi](https://open.spotify.com/track/1XfBEzVsFJC0X8222Y6unk) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [Jogi](https://open.spotify.com/album/5ID3wDWAzVrkaCXwZa9Pkx) | 2:54 |
 | 73 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 |
 | 74 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 89 | [Ye Tune Kya Kiya](https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Rajat Arora](https://open.spotify.com/artist/6Ahs12ksf1lju6bHwuX4X2) | [Once Upon Ay Time In Mumbai Dobaara !](https://open.spotify.com/album/381lOukp7nV59bJS13TkPe) | 5:14 |
 | 90 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 |
 
-Snapshot ID: `AAAAAG6u1vz6ILVRldkqd9TUKou8x14c`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

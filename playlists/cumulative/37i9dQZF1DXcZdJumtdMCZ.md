@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-346 songs - 18 hr 9 min
+347 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [PEACE \- RPM STAGE 1](https://open.spotify.com/track/15if41Yf8dHHejhrnNaG4L) | [Naatu Vediii](https://open.spotify.com/artist/5M1bDLfmuzhHi5kG4K75hG), [Da Papes](https://open.spotify.com/artist/7GhVU0cLmPZ0H0MQm8ESXp), [Annewsh](https://open.spotify.com/artist/3o77igPkhbd6ro8K9mbJTR), [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [Supernova](https://open.spotify.com/artist/2CCnEb5ZZQYacjyFSYMWUm) | [PEACE \- RPM STAGE 1](https://open.spotify.com/album/3pBnkA3UuMySn3vzLduhOA) | 2:47 | 2026-06-24 |  |
 | [Pear Kettu Paru](https://open.spotify.com/track/45DB56vkOlgovmzfiYTTaG) | [Rejoy](https://open.spotify.com/artist/3tEQf4OyKhrVJLBDa0X1uA), [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C) | [Pear Kettu Paru](https://open.spotify.com/album/2DQuHfg2toXYcngswflcFn) | 2:46 | 2025-06-06 | 2025-10-24 |
 | [Phone Na Hello](https://open.spotify.com/track/7kqNJswXZELtnqz0cszKnn) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu), [Sabesh Solomon](https://open.spotify.com/artist/3gc2jTAiiHwOkb8SuGuvxB), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX), [KK Nagar Gana Jeeva](https://open.spotify.com/artist/1cUDO71ZRpdJdV6zwSGwyO) | [Phone Na Hello](https://open.spotify.com/album/03gaec2o73uwaZA7iTSJS0) | 3:23 | 2025-11-07 |  |
+| [PILLAIYAR SUZHI \(MARUPIRAVI\)](https://open.spotify.com/track/2bVzy4E4wjiVB4KDBbRNsJ) | [SHIVANZ](https://open.spotify.com/artist/4MBHszd8aiPzSPFbhVdgWd), [Khees](https://open.spotify.com/artist/1BHw3WBP5PMEK46dxleEU6) | [PILLAIYAR SUZHI \(MARUPIRAVI\)](https://open.spotify.com/album/0i5LMf728yagwMyPFb3eY9) | 3:28 | 2026-06-25 |  |
 | [Poda Mayireh](https://open.spotify.com/track/6Yvn7foCy9dVonVaBVFZUF) | [Aditya Varnan](https://open.spotify.com/artist/2MGGx9UcLUWKotM5btqsBZ) | [Poda Mayireh](https://open.spotify.com/album/2eKfM0g3gkljD8ueEN6OMG) | 2:51 | 2026-01-21 | 2026-03-11 |
 | [Podu Mike](https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Podu Mike](https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh) | 2:00 | 2024-12-29 | 2026-01-15 |
 | [Ponmagal Vandaal](https://open.spotify.com/track/1P4OiSP7ylgP3BmQyE0xx9) | [Aslam](https://open.spotify.com/artist/3Q1wXkTZmSBtS4ELOe6cyt), [Ember rap](https://open.spotify.com/artist/4BgYQaiNNwn3EbRpbBFYQs) | [Azagiya Tamilmagan \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/2TbIygsV5OBPugEA04aTcy) | 3:05 | 2022-02-08 | 2025-01-10 |

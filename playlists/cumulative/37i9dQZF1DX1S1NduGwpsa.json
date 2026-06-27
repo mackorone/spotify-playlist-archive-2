@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Miles Davis",
+  "description": "The best jazz new releases. Cover: Liana Flores",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -660,6 +660,24 @@
       "duration_ms": 261733,
       "name": "Ajala - Single Edit",
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
+    },
+    {
+      "album": {
+        "name": "Akshay",
+        "url": "https://open.spotify.com/album/2i0xtn2bf4W4xLbQCyKUV1"
+      },
+      "artists": [
+        {
+          "name": "Ancient Infinity Orchestra",
+          "url": "https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422533,
+      "name": "Akshay",
+      "url": "https://open.spotify.com/track/5QdQkKe4i62RftaExcQWvW"
     },
     {
       "album": {
@@ -2221,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "Blue In Green",
+        "url": "https://open.spotify.com/album/5HknbILWT5jAGFaKTgf6SV"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374466,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/2xJFd2dextQWWPSFILZ18Z"
+    },
+    {
+      "album": {
         "name": "Blue Minor",
         "url": "https://open.spotify.com/album/4v9oX1D9zVNwbf5xHXCmXZ"
       },
@@ -2514,6 +2554,24 @@
       "duration_ms": 187888,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/5o9cHU7M3JidcDCosNDqWt"
+    },
+    {
+      "album": {
+        "name": "Bring Our Light To Every Corner",
+        "url": "https://open.spotify.com/album/04OVUrTlTX83joo0CyWt5X"
+      },
+      "artists": [
+        {
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257500,
+      "name": "Bring Our Light To Every Corner",
+      "url": "https://open.spotify.com/track/6ZgRrhuT38YBccQJZx10Gj"
     },
     {
       "album": {
@@ -6618,7 +6676,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 204179,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/13aT9WTZ033VUF8HqObaRL"
@@ -10512,7 +10570,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 262385,
       "name": "Liza (All The Clouds'll Roll Away) - Live",
       "url": "https://open.spotify.com/track/29p85dCbk8cNSVlCxmY30o"
@@ -11976,7 +12034,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
@@ -12176,7 +12234,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 233800,
       "name": "More Understanding Than A Man",
       "url": "https://open.spotify.com/track/6qDxPyJ23qb7t7PFPTntfD"
@@ -12250,7 +12308,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167960,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/6U0LFxNdqo8F2oXgGDgR2E"
@@ -13558,7 +13616,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 300385,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/3PAyjoQXMo16T2tWR1HGJB"
@@ -14845,6 +14903,24 @@
     },
     {
       "album": {
+        "name": "RISING",
+        "url": "https://open.spotify.com/album/3ErM6JhUjXKVRztIog5UcY"
+      },
+      "artists": [
+        {
+          "name": "Edouard Ferlet",
+          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157403,
+      "name": "RISING",
+      "url": "https://open.spotify.com/track/6Icj2gip1zdGLG9KEkLGok"
+    },
+    {
+      "album": {
         "name": "Rituel du soleil",
         "url": "https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U"
       },
@@ -14882,6 +14958,28 @@
       "duration_ms": 290466,
       "name": "Rock With You",
       "url": "https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj"
+    },
+    {
+      "album": {
+        "name": "Roll By (feat. M\u00e9lissa Mary Ahern)",
+        "url": "https://open.spotify.com/album/1QffiYJtHnGwae8VmfDz0r"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Melissa Mary Ahern",
+          "url": "https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247306,
+      "name": "Roll By (feat. M\u00e9lissa Mary Ahern)",
+      "url": "https://open.spotify.com/track/0GUQivk5lu2bTpZz1zF9Is"
     },
     {
       "album": {
@@ -15904,6 +16002,24 @@
       "duration_ms": 390733,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4gnLPUf5GDEH1jl8XGqM2O"
+    },
+    {
+      "album": {
+        "name": "So it goes",
+        "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156340,
+      "name": "So it goes",
+      "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
     },
     {
       "album": {
@@ -18516,7 +18632,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 246786,
       "name": "Threads",
       "url": "https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW"
@@ -21050,6 +21166,28 @@
       "duration_ms": 252378,
       "name": "Zulu Coconuts",
       "url": "https://open.spotify.com/track/0HmkfDik3HhtV3LU2LxUe9"
+    },
+    {
+      "album": {
+        "name": "The Myth We Choose",
+        "url": "https://open.spotify.com/album/0MLGCKPzliFC2fEkqhihYw"
+      },
+      "artists": [
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382208,
+      "name": "\u1e3ci\u1e45walo \u1e3da Mubebi",
+      "url": "https://open.spotify.com/track/3svg2F1ZsOxF2CIL4AAngt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa"

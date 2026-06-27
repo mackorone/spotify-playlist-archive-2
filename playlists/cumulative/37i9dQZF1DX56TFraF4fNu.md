@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Danny Ocean
 
-285 songs - 14 hr 51 min
+286 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Voy tranquilo](https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Voy tranquilo](https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b) | 2:22 | 2024-06-07 | 2024-07-20 |
 | [Vuelve \- Remix](https://open.spotify.com/track/7qaJJf2HxZcjUUnQ4dc2XY) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX), [Javier Neira](https://open.spotify.com/artist/2mX81ljXkZBfgRH00291eP) | [Vuelve \- Remix](https://open.spotify.com/album/5sRin0V9a3ZzNsbs99Pvwi) | 3:32 | 2024-08-05 | 2024-08-31 |
 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 | 2025-05-30 |  |
+| [Webcam](https://open.spotify.com/track/1YWX4WOqF5hIKrs0ld6PsT) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Webcam](https://open.spotify.com/album/6XeM4SLWAyQHtJoxmD3tkd) | 2:32 | 2026-06-26 |  |
 | [WYA REMIX RED](https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [WYA REMIX RED](https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN) | 5:21 | 2024-07-26 |  |
 | [X Siempre](https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [X Siempre](https://open.spotify.com/album/4503riheEdxWQTNSVZItgF) | 2:19 | 2025-11-21 | 2026-03-19 |
 | [X1 BESITO](https://open.spotify.com/track/0gcdTUq3Al8gDBRkISUI9o) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [X1 BESITO](https://open.spotify.com/album/0W46icC4MFMbpQnp42lHxD) | 2:50 | 2024-08-16 | 2024-11-23 |

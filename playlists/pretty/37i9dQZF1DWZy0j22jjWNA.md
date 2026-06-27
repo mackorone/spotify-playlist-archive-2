@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,636 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,652 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 26 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 |
 | 27 | [Sun Rises](https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Sun Rises](https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha) | 2:54 |
 | 28 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
-| 29 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
-| 30 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
+| 29 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
+| 30 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
 | 31 | [Brand New \(feat\. Terrian\)](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New \(feat\. Terrian\)](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 |
 | 32 | [Joy In The Morning \- Remix](https://open.spotify.com/track/38xvrudag6EpgxK369Cn9B) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:53 |
 | 33 | [Thank God I'm Free](https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Thank God I'm Free](https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4) | 2:51 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 39 | [Monday Morning Faith \- Acoustic](https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Monday Morning Faith \(Acoustic\)](https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi) | 5:38 |
 | 40 | [Days Like This](https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Not The Same](https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p) | 2:21 |
 | 41 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
-| 42 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
-| 43 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
+| 42 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
+| 43 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 44 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 |
 | 45 | [Water](https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Water](https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M) | 2:06 |
 | 46 | [Shine On Me](https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Shine On Me](https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak) | 3:00 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 70 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
 | 71 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
 | 72 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 |
-| 73 | [Happy Again](https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Happy Again](https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS) | 3:52 |
-| 74 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |
+| 73 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |
+| 74 | [Happy Again](https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Happy Again](https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS) | 3:52 |
 | 75 | [Seeking](https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Seeking](https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf) | 3:34 |
 
 Snapshot ID: `AAAAACA8+Bn6McUgZ9cEeRBcxvNG9Cq7`

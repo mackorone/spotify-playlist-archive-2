@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > tuuudo conspirando a favor  🌓//  Amanda Sarmento
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,608 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,640 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 44 | [Como que não fica milionária?](https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Miranda On The Trk!](https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc), [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD) | [Como que não fica milionária?](https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD) | 2:23 |
 | 45 | [Milimetricamente](https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH) | [Luana Maia](https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6), [DJ Caio Santos](https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili) | [Milimetricamente](https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP) | 2:02 |
 | 46 | [FUTURO DO PAÍS](https://open.spotify.com/track/5bWGglIdnSSCScb4ddDGRM) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [FUTURO DO PAÍS](https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0) | 3:04 |
-| 47 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
-| 48 | [Império](https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06) | [yulii A](https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [GND.rec](https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0) | [Império](https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr) | 2:05 |
+| 47 | [Império](https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06) | [yulii A](https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [GND.rec](https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0) | [Império](https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr) | 2:05 |
+| 48 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
 | 49 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 | 50 | [MUNDO INVERTIDO](https://open.spotify.com/track/0PiKL2Db7LVyKkrGgMgNmt) | [outro lado](https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6), [MANDNAH](https://open.spotify.com/artist/6oZoZ2QIjUl8JnEOTre31a), [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [MUNDO INVERTIDO](https://open.spotify.com/album/1vSMWmXBpkMKtChnIwdSFz) | 3:00 |
 

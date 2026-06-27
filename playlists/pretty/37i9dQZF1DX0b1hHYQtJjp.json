@@ -1,13 +1,49 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Role Model",
-  "num_followers": 950187,
+  "description": "Recent hits and new songs from your fave artists. Cover: Katy Perry",
+  "num_followers": 950310,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE9RJcSQ4Ciu80Vl8FyKtQnGVymK",
+  "snapshot_id": "AAAAAD/PkiD52dHOBiU8xQY06bfuN/Ft",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+    },
+    {
+      "added_at": "2026-06-26 04:18:14",
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Read My Lips (FIFA World Cup 2026\u2122)",
+      "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
+    },
     {
       "added_at": "2026-06-05 04:01:09",
       "album": {
@@ -27,18 +63,66 @@
     {
       "added_at": "2026-06-05 04:01:09",
       "album": {
-        "name": "PASSENGER",
-        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 159771,
-      "name": "PASSENGER",
-      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+    },
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
+    },
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 215709,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
     },
     {
       "added_at": "2026-06-05 04:01:09",
@@ -73,6 +157,54 @@
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/31sB4ZKa6fJndsWVNGxgze"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 166722,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0KZVBfX52QYCbo8YixGm8X"
+    },
+    {
+      "added_at": "2026-06-05 04:01:09",
+      "album": {
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+    },
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+    },
+    {
       "added_at": "2026-06-12 04:28:14",
       "album": {
         "name": "The Great Divide: The Last Of The Bugs",
@@ -87,6 +219,22 @@
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/1lPcCdFXh4j7Yy4u0bzYVY"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 187871,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/2QVRjz1nWhN8FCAHgnrTE4"
     },
     {
       "added_at": "2026-06-19 04:01:11",
@@ -189,22 +337,6 @@
       "url": "https://open.spotify.com/track/78lR1li9wdwunwNoVYiBpE"
     },
     {
-      "added_at": "2026-06-05 04:01:09",
-      "album": {
-        "name": "I Knew It, I Knew You",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
-    },
-    {
       "added_at": "2026-05-22 05:03:16",
       "album": {
         "name": "Rein Me In (with Olivia Dean)",
@@ -255,6 +387,22 @@
       "duration_ms": 217240,
       "name": "Be Her",
       "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
+      "added_at": "2026-06-26 04:00:30",
+      "album": {
+        "name": "BAD COMPANY",
+        "url": "https://open.spotify.com/album/11NO5t5VTniRy4dJOxQ1EC"
+      },
+      "artists": [
+        {
+          "name": "Tiger La Flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "duration_ms": 173409,
+      "name": "BAD COMPANY",
+      "url": "https://open.spotify.com/track/6l8EVqC5hJbYzys0N3QXAN"
     },
     {
       "added_at": "2026-06-12 04:01:57",
@@ -541,20 +689,24 @@
       "url": "https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw"
     },
     {
-      "added_at": "2026-05-22 05:03:16",
+      "added_at": "2026-06-26 04:00:30",
       "album": {
-        "name": "Hold Me In The Dark",
-        "url": "https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg"
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/5noSWxJgGvDhYGODTsBowt"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Hold Me In The Dark",
-      "url": "https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R"
+      "duration_ms": 167241,
+      "name": "Ant Farm (feat. Wesley Schultz)",
+      "url": "https://open.spotify.com/track/6HIXjUGdtQG2859h9rpNPs"
     },
     {
       "added_at": "2026-06-05 04:01:09",
@@ -623,22 +775,6 @@
     {
       "added_at": "2026-05-22 05:03:16",
       "album": {
-        "name": "New York Confident",
-        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147394,
-      "name": "New York Confident",
-      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
         "name": "So What?",
         "url": "https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9"
       },
@@ -651,22 +787,6 @@
       "duration_ms": 168383,
       "name": "So What?",
       "url": "https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U"
-    },
-    {
-      "added_at": "2026-05-29 04:02:48",
-      "album": {
-        "name": "UR HEARTBEAT (WHO DO U THINK ABOUT AT 2AM?)",
-        "url": "https://open.spotify.com/album/58ELdOBLnCOlXM49zBO6AR"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "UR HEARTBEAT (WHO DO U THINK ABOUT AT 2AM?)",
-      "url": "https://open.spotify.com/track/0jj2mcsNyuWb0a3uSjrw67"
     },
     {
       "added_at": "2026-05-22 05:03:16",
@@ -839,22 +959,6 @@
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "Hard to Find",
-        "url": "https://open.spotify.com/album/3fQXXc6eVDocBXywDMDmsu"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 205436,
-      "name": "Hard to Find",
-      "url": "https://open.spotify.com/track/13cZ4NgkcjBeJ63YoWvNHI"
     },
     {
       "added_at": "2026-05-22 05:03:16",
@@ -1067,22 +1171,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-05-22 05:03:16",
-      "album": {
-        "name": "Need Your Love",
-        "url": "https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238427,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn"
     },
     {
       "added_at": "2026-05-22 05:03:16",

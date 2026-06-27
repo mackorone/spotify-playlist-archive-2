@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox",
-  "num_followers": 786418,
+  "num_followers": 786534,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Sleepless Empire",
-        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "I Wish You Were Dead",
-      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Flesh Stays Together",
         "url": "https://open.spotify.com/album/6cgf2mesmt2TVCBQqTxKtN"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 223546,
       "name": "I'll Know You're Not Around",
       "url": "https://open.spotify.com/track/2qcpeU7myeKa3dsz7Ext3R"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Sleepless Empire",
+        "url": "https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "I Wish You Were Dead",
+      "url": "https://open.spotify.com/track/0jGmBA9jESBGNHE9FK6mST"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Lunaris",
-        "url": "https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "The Rabbit Of The Moon",
-      "url": "https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Mortal",
         "url": "https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 176123,
       "name": "Mortal",
       "url": "https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Lunaris",
+        "url": "https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "The Rabbit Of The Moon",
+      "url": "https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Cross The Divide",
-        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 258209,
-      "name": "Cross the Divide",
-      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
-    },
-    {
-      "added_at": "2026-04-27 18:28:08",
-      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
+    },
+    {
+      "added_at": "2026-04-27 18:28:08",
+      "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
     },
     {
       "added_at": "2026-04-27 18:28:08",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-04-27 18:28:08",
       "album": {
-        "name": "Where Myth Becomes Memory",
-        "url": "https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO"
+        "name": "Thorn In My Side",
+        "url": "https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh"
       },
       "artists": [
         {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
         }
       ],
-      "duration_ms": 234955,
-      "name": "Cloaked",
-      "url": "https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU"
+      "duration_ms": 225901,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF"
     }
   ],
   "unique_name": "Women of Metal",

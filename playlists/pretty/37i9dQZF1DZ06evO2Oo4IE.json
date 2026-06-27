@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190296,
+  "num_followers": 190303,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAA9rWevT6/tenwMc7hqIzgw",
+  "snapshot_id": "ajxvgAAAAACWi4MchtMZCUBeFY3x0lan",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin Live At Winterland '68",
-        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
-      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Janis Joplin",
         "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 296640,
       "name": "Farewell Song - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/6Xz7vJYqEjINFozPaJNDHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis Joplin Live At Winterland '68",
+        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
+      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pearl Sessions",
         "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 99706,
       "name": "Overheard In The Studio...",
       "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,

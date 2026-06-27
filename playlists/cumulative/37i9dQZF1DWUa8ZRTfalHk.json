@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Who's now and next in pop. Cover: Tyla",
+  "description": "Who's now and next in pop. Cover: Gracie Abrams",
   "name": "Pop Rising",
   "tracks": [
     {
@@ -6004,7 +6004,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162379,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
@@ -6746,7 +6746,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206315,
       "name": "Blueberry Skies",
       "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
@@ -12428,7 +12428,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177946,
       "name": "depressed on the internet",
       "url": "https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ"
@@ -23448,7 +23448,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 166260,
       "name": "HOTLINE",
       "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
@@ -24849,7 +24849,7 @@
     },
     {
       "album": {
-        "name": "I Knew It, I Knew You",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
@@ -24862,7 +24862,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
@@ -31093,6 +31093,24 @@
     },
     {
       "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+    },
+    {
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -35343,6 +35361,24 @@
     },
     {
       "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "album": {
         "name": "my ex's best friend (with blackbear)",
         "url": "https://open.spotify.com/album/0wypXkbH1LkcVRhlB9gvn5"
       },
@@ -35402,6 +35438,24 @@
       "duration_ms": 198056,
       "name": "My G (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau"
+    },
+    {
+      "album": {
+        "name": "My Guy",
+        "url": "https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230604,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT"
     },
     {
       "album": {
@@ -38289,6 +38343,24 @@
     },
     {
       "album": {
+        "name": "On Wires",
+        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "On Wires",
+      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
+    },
+    {
+      "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
@@ -40816,7 +40888,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 242517,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
@@ -42320,7 +42392,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
@@ -42938,6 +43010,24 @@
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
     },
     {
       "album": {
@@ -43580,6 +43670,24 @@
       "duration_ms": 172232,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/3DVQRyBEhnRxz2bYqFNPEI"
+    },
+    {
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
     },
     {
       "album": {
@@ -44714,7 +44822,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167095,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/3UOnrnhbfDxh0ORHCQ3DxZ"
@@ -45160,7 +45268,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 235560,
       "name": "Sideways (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
@@ -51565,6 +51673,24 @@
     },
     {
       "album": {
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215709,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
+    },
+    {
+      "album": {
         "name": "The Visitor",
         "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
       },
@@ -55103,6 +55229,24 @@
     },
     {
       "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -57151,6 +57295,24 @@
     },
     {
       "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+    },
+    {
+      "album": {
         "name": "Winner",
         "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
       },
@@ -58698,7 +58860,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167800,
       "name": "Younger You - From the \"Hannah Montana 20th Anniversary Special\"",
       "url": "https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z"

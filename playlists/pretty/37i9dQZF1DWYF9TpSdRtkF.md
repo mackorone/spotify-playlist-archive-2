@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,714 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,715 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 70 | [合言葉はスタートアップ！](https://open.spotify.com/track/7mcEj3zGkVXa25JooTmKgH) | [我那覇 響 \(CV.沼倉愛美\)](https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU), [秋月律子 \(CV.若林直美\)](https://open.spotify.com/artist/5HZNAcx2uLDOP0ol6d1Eyy), [高槻やよい \(CV.仁後真耶子\)](https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb), [双海亜美 \(CV.下田麻美\)](https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9), [Iori Minase \(CV: Rie Kugimiya\)](https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd) | [THE IDOLM@STER LIVE THE@TER HARMONY 01](https://open.spotify.com/album/4GNrRIOwQsMXtYqtIuPeGS) | 5:07 |
 | 71 | [Brand New Theater!](https://open.spotify.com/track/4otzfY3aH0sR0u8lIXe1EI) | [765 MILLION ALLSTARS](https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU) | [THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!](https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW) | 5:09 |
 | 72 | [あたためますか？](https://open.spotify.com/track/6XnhvnxghOAQx36G7SUA0i) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01](https://open.spotify.com/album/0qkGod4E6EYVBEfsOVijcx) | 4:16 |
-| 73 | [ローリング さんかく](https://open.spotify.com/track/2dmvI4QJlcJXMcBywFpzDW) | [周防桃子 \(CV.渡部恵子\)](https://open.spotify.com/artist/5sRdcdaQlrP3woFfzv0ler) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 01](https://open.spotify.com/album/0bmOQ5RLmB1JdnZwrPGEVt) | 4:11 |
-| 74 | [RED ZONE](https://open.spotify.com/track/1I4S0n6yBbZuqUH0b8IT57) | [桜守歌織 \(CV.香里有佐\)](https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F) | [THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury](https://open.spotify.com/album/4hIm4rGzPU1YbQ88jmwirA) | 4:11 |
+| 73 | [RED ZONE](https://open.spotify.com/track/1I4S0n6yBbZuqUH0b8IT57) | [桜守歌織 \(CV.香里有佐\)](https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F) | [THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury](https://open.spotify.com/album/4hIm4rGzPU1YbQ88jmwirA) | 4:11 |
+| 74 | [ローリング さんかく](https://open.spotify.com/track/2dmvI4QJlcJXMcBywFpzDW) | [周防桃子 \(CV.渡部恵子\)](https://open.spotify.com/artist/5sRdcdaQlrP3woFfzv0ler) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 01](https://open.spotify.com/album/0bmOQ5RLmB1JdnZwrPGEVt) | 4:11 |
 | 75 | [きまぐれユモレスク](https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY) | [箱崎星梨花 \(CV.麻倉もも\)](https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09](https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx) | 4:05 |
 
 Snapshot ID: `AAAAAHttFoeg3+zr1A0q3Xp5mR4RTfB0`

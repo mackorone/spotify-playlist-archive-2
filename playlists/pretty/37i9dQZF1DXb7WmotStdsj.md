@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > أفضل أغاني الراي
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,022 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,104 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
 | 60 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 |
 
-Snapshot ID: `AAAAAPhgrDzCItQ5zsS+bbJXJTZXwXwk`
+Snapshot ID: `AAAAAB5pSlUq3B3q2GuUYuNEp/7K4ADy`

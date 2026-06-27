@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Tous vos titres Disney préférés incluant la musique de Toy Story 5, Zootopie 2, Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,053 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,065 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zoo \- De "Zootopie 2"](https://open.spotify.com/track/196bJODAhGxwCP9oWAXlK1) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(De "Zootopie 2"\)](https://open.spotify.com/album/6CZJZ0gOiPcqGni1BRjJWN) | 3:10 |
 | 2 | [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"](https://open.spotify.com/track/4SMyFD1nz2HFIlARsP8jyK) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hawaiian Roller Coaster Ride \(From "Lilo & Stitch"\)](https://open.spotify.com/album/39qk7h3gj7wtNHSzWIDd33) | 3:29 |
-| 3 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 3 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 4 | [Milele](https://open.spotify.com/track/3i6ek79x0u7HAmzpcuHLaE) | [Léovanie Raud](https://open.spotify.com/artist/0BPVr65cBQI86Rdjx8bPfs), [Grégory Lerigab](https://open.spotify.com/artist/68hq2KmmUs2xcw2bPIfnjI) | [Mufasa : Le Roi Lion \(Bande Originale Française du Film\)](https://open.spotify.com/album/62azXlFEzdEXbjjVXdEpO3) | 2:27 |
 | 5 | [Aller plus loin \(Version générique de fin\) \- De "Vaiana 2"/Bande Originale Française du Film](https://open.spotify.com/track/4JzB0Rq1p1DZh3MYdxh0GN) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Aller plus loin \(Version générique de fin\) \[De "Vaiana 2"/Bande Originale Française du Film\]](https://open.spotify.com/album/3ohGXdHQcYwhQoIF9yqntT) | 3:16 |
 | 6 | [Libérée, Délivrée \- De "La Reine des Neiges"/Bande Originale Française](https://open.spotify.com/track/6TLtIElohuqTQfcwfVz4HR) | [Anaïs Delva](https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN) | [La Reine des Neiges \(Bande Originale Française du Film / Edition Deluxe\)](https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA) | 3:44 |

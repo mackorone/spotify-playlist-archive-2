@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Ain't You Naughty",
+        "url": "https://open.spotify.com/album/04WTBsKBt54ZmFiV9yVjQ1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Ain't You Naughty",
+      "url": "https://open.spotify.com/track/04MW6huXsCEYZs2KdOVq9N"
+    },
+    {
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -1886,6 +1904,42 @@
       "duration_ms": 251612,
       "name": "Change Your Mind [District 8] - Full Vocal Edit",
       "url": "https://open.spotify.com/track/1SXr5oK5NAgCftLinqYgkK"
+    },
+    {
+      "album": {
+        "name": "Chasing Fire",
+        "url": "https://open.spotify.com/album/48LepQUonZN4xijEEZcsjT"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227611,
+      "name": "Chasing Fire",
+      "url": "https://open.spotify.com/track/67iuYoqmDfJ5BqNiL4WWyi"
+    },
+    {
+      "album": {
+        "name": "check check",
+        "url": "https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182326,
+      "name": "check check",
+      "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
     },
     {
       "album": {
@@ -3968,7 +4022,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 255983,
       "name": "gbesoke",
       "url": "https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV"
@@ -5430,7 +5484,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185714,
       "name": "Keep Running From Love",
       "url": "https://open.spotify.com/track/7HHVDMk9cZSpftr5Qm2Vsu"
@@ -12338,7 +12392,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 201028,
       "name": "With You",
       "url": "https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm"

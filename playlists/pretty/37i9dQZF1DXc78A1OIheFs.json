@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19364,
+  "num_followers": 19361,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Make Way For The Sun",
         "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 229683,
       "name": "drag",
       "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Off The Rails",
         "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 107266,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
+      },
+      "artists": [
+        {
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Under One Roof",
-        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
-        }
-      ],
-      "duration_ms": 254281,
-      "name": "Under One Roof",
-      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Under One Roof",
+        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 254281,
+      "name": "Under One Roof",
+      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
-      },
-      "artists": [
-        {
-          "name": "lilbubblegum",
-          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe"
+      },
+      "artists": [
+        {
+          "name": "lilbubblegum",
+          "url": "https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Reins",
-        "url": "https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV"
-      },
-      "artists": [
-        {
-          "name": "Office Dog",
-          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Reins",
-      "url": "https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ"
-    },
-    {
-      "added_at": "2026-06-22 02:32:56",
-      "album": {
         "name": "When He Was Mine (Pele Fo'i Mai)",
         "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 156516,
       "name": "When He Was Mine (Pele Fo'i Mai)",
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2026-06-22 02:32:56",
+      "album": {
+        "name": "Reins",
+        "url": "https://open.spotify.com/album/3CulHXRXKuVAZFQMpuKIkV"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Reins",
+      "url": "https://open.spotify.com/track/6KW9DXNen7rez44hKngtKJ"
     },
     {
       "added_at": "2026-06-22 02:32:56",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2026-06-22 02:32:56",
       "album": {
-        "name": "Bends Not Breaks",
-        "url": "https://open.spotify.com/album/4HPIDNQCkOV04zaCCGUtkL"
+        "name": "Vol. 3",
+        "url": "https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje"
       },
       "artists": [
         {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        },
-        {
-          "name": "KAJJA",
-          "url": "https://open.spotify.com/artist/2inwHF08OVfT5DPl6vOWIa"
+          "name": "Blindspott",
+          "url": "https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu"
         }
       ],
-      "duration_ms": 229125,
-      "name": "Bends Not Breaks",
-      "url": "https://open.spotify.com/track/23yVx34R1UTJYtYFDCdBI7"
+      "duration_ms": 246442,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj"
     }
   ],
   "unique_name": "The Local List Aotearoa",

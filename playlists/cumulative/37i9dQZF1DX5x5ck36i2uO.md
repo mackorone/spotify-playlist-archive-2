@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-200 songs - 11 hr 20 min
+201 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [NOT SORRY \(Feat\. pH\-1\) \(Prod\. by Slom\)](https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:56 | 2022-12-21 |  |
 | [NUGS \(with THAMA\)](https://open.spotify.com/track/4HCbPGMKg61aZZ93SMEPpL) | [Soul delivery](https://open.spotify.com/artist/4OTMKWZ890jj8quiWRwfxA), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB), [HAEUN](https://open.spotify.com/artist/0WKfT4co6LsEBQr7Gmype2), [Yonghoon Jeong](https://open.spotify.com/artist/1EnRFp3BubugSBC8QqV9eL), [Joon's Second Life](https://open.spotify.com/artist/5etf1dUZgMqYB1tQBEdgvb), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [FOODCOURT](https://open.spotify.com/album/5rSNi6XreLAaSRFz4OC1db) | 4:25 | 2022-05-11 | 2024-10-11 |
 | [numbers in green blue](https://open.spotify.com/track/0aIjIHWa3GMalh14RRKCLa) | [JJK](https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O) | [The Angel Wakes Hell's Morning](https://open.spotify.com/album/6jBp4T0NBQwJ9cnp1yXrgb) | 3:16 | 2022-06-18 | 2022-07-14 |
+| [Ocean \(Feat\. YULEUM\)](https://open.spotify.com/track/2UukuTzoq5g3nUqo3l687n) | [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB) | [Ocean \(Feat\. YULEUM\)](https://open.spotify.com/album/1qUFB6GL9exhV5TIiEHktw) | 3:48 | 2026-06-26 |  |
 | [On My Wave](https://open.spotify.com/track/01ZOslmYuRTjSymRHjbPVE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 4:03 | 2022-05-11 | 2022-07-29 |
 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 | 2022-05-11 |  |
 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 | 2022-05-11 | 2026-06-26 |
@@ -174,7 +175,7 @@
 | [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 | 2022-05-11 |  |
 | [Too Far](https://open.spotify.com/track/4mO0TyLjh8skRzvTZdZI08) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers Pt.2](https://open.spotify.com/album/1icDrJd1dd2WGo7LUCMqCl) | 4:07 | 2022-05-11 | 2022-07-29 |
 | [Too Far \(Feat\. Beenzino\)](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary And The Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 | 2022-07-22 | 2024-04-19 |
-| [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 |  |
+| [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 | 2026-06-27 |
 | [u kno](https://open.spotify.com/track/2s9TnaBJLDU9Q9MKvsvNaY) | [JJK](https://open.spotify.com/artist/1tN10ObeLZVfnzfpSaT73O), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2) | [The Angel Wakes Hell's Morning](https://open.spotify.com/album/6jBp4T0NBQwJ9cnp1yXrgb) | 4:05 | 2022-05-11 | 2022-07-23 |
 | [under the ground](https://open.spotify.com/track/3916BVDlNYrxllaSbWcC4h) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [under the ground](https://open.spotify.com/album/40HFDiXdKGexV81Fwdwke9) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [under the ground \(feat\. Dean\)](https://open.spotify.com/track/6EU4Ox9nBAE4BMatsggp8i) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [u n u, Pt\. 2](https://open.spotify.com/album/4R3JUAwCwCLp4vUDK5TLrZ) | 3:42 | 2022-07-22 | 2024-04-19 |

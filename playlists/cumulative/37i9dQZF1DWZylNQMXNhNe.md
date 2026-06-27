@@ -4,7 +4,7 @@
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-263 songs - 13 hr 27 min
+264 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 | 2024-06-26 | 2025-08-16 |
 | [10 Minutos \- Remix](https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 2:31 | 2025-08-15 | 2026-05-23 |
 | [18 dias / 13 cm](https://open.spotify.com/track/1TZGE8ByEKYJUge6agf7T2) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [18 dias / 13 cm](https://open.spotify.com/album/3oEBnUW2q7VFXb9X7kr3ps) | 2:23 | 2024-06-26 | 2026-05-23 |
+| [2 PUNKS NEON](https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [2 PUNKS NEON](https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g) | 3:55 | 2026-06-26 |  |
 | [200 Anos \- Ao Vivo](https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Intuição Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz) | 3:12 | 2026-05-22 |  |
 | [20K](https://open.spotify.com/track/2Fh08SKc6XQIFSX0JC7DLr) | [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54) | [VITA'S HOUSE](https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr) | 2:33 | 2026-05-22 |  |
 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 | 2024-06-26 |  |
@@ -190,7 +191,7 @@
 | [Periferia](https://open.spotify.com/track/3tEdTu6qhlIqgqu261plPu) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Periferia](https://open.spotify.com/album/3RELpLOZYzEOalB4O1MZGd) | 2:43 | 2022-06-03 | 2022-07-23 |
 | [Perigosa](https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS) | [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd) | [Perigosa](https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe) | 3:06 | 2025-07-04 | 2026-05-23 |
 | [Pesadona](https://open.spotify.com/track/54z8ZGkUgcpzHkm5Q0DsLL) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Castilhol](https://open.spotify.com/artist/5cM1DddgtQvDn421Wer6dI) | [Pesadona](https://open.spotify.com/album/0ioWJwPJLYgIOsvQ5HUclP) | 2:16 | 2023-06-16 | 2023-09-02 |
-| [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 | 2023-03-31 |  |
+| [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 | 2023-03-31 | 2026-06-27 |
 | [POC](https://open.spotify.com/track/22PMhCJsxuF1nJTESwunxg) | [Felipe Mar](https://open.spotify.com/artist/7tMtZSKTF28bqfqZWmbZSA), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [POC](https://open.spotify.com/album/3Rf6Coo8PdnTeLm68H9RMp) | 2:25 | 2023-09-02 | 2023-10-07 |
 | [POCPOC](https://open.spotify.com/track/0oQCRjrWGvkqkdf82UlXI3) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [POCPOC](https://open.spotify.com/album/3nwyZyralFOdRGEyNMjSJX) | 2:07 | 2024-06-26 |  |
 | [PODE DALE](https://open.spotify.com/track/0M7NT1s4Ne6wRjPzSfPxsC) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Batooke Native](https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt) | [PODE DALE](https://open.spotify.com/album/1hvyiV92xrJUiJHiJmmqTf) | 2:47 | 2022-04-29 | 2023-07-15 |

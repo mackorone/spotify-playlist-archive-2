@@ -12951,6 +12951,28 @@
     },
     {
       "album": {
+        "name": "Looking For Change",
+        "url": "https://open.spotify.com/album/0XMs3LmBLPsOwuQAod46C5"
+      },
+      "artists": [
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "ZIDDO",
+          "url": "https://open.spotify.com/artist/4XE8kpT8vOyemOlkfzPJnc"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180005,
+      "name": "Looking For Change",
+      "url": "https://open.spotify.com/track/0WViv2bn3fZndMTXhpfOWS"
+    },
+    {
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA"
       },
@@ -17586,7 +17608,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 230338,
       "name": "Pamoja - Bun Xapa Remix",
       "url": "https://open.spotify.com/track/3damRx4wi0r3MbDoYa5FE4"
@@ -18322,6 +18344,32 @@
       "duration_ms": 345689,
       "name": "Pra Nao Dizer Que N\u00e3o Falei Das Flores - Extended Mix",
       "url": "https://open.spotify.com/track/04p8JRUtxq7oJDpeDh4YKx"
+    },
+    {
+      "album": {
+        "name": "Moya Wa Taola",
+        "url": "https://open.spotify.com/album/4OAWp8cNsUVwN6qQ7TJOl1"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Tabia",
+          "url": "https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457813,
+      "name": "Prayer for Rain",
+      "url": "https://open.spotify.com/track/3fQaQ80aDL1pgtU99jZCS4"
     },
     {
       "album": {
@@ -21062,7 +21110,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 393846,
       "name": "Son of Kanku",
       "url": "https://open.spotify.com/track/7yCxWf9OaAWgypJRNEk0ET"
@@ -21168,7 +21216,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189616,
       "name": "Soul of Africa - Radio Mix",
       "url": "https://open.spotify.com/track/1Xj1GJ6D9QBEmuB3opIAGm"
@@ -21545,6 +21593,24 @@
     },
     {
       "album": {
+        "name": "St\u0101y",
+        "url": "https://open.spotify.com/album/6cxJhSlhcjHnAanGb5DaiA"
+      },
+      "artists": [
+        {
+          "name": "Nawo Tunes",
+          "url": "https://open.spotify.com/artist/6Og0spA7upMazwAbntsCCd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385819,
+      "name": "St\u0101y",
+      "url": "https://open.spotify.com/track/4cZOb7WSh55yKFiu2C70oC"
+    },
+    {
+      "album": {
         "name": "Sudam\u00e9rica",
         "url": "https://open.spotify.com/album/1gJpC0gvehvC5kkxQNhgiF"
       },
@@ -21718,6 +21784,28 @@
       "duration_ms": 452026,
       "name": "Sunset Beach",
       "url": "https://open.spotify.com/track/043sDCbUstmYjpo8I3Ey5y"
+    },
+    {
+      "album": {
+        "name": "Sunset In Pretoria",
+        "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238032,
+      "name": "Sunset In Pretoria",
+      "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
     },
     {
       "album": {
@@ -23086,7 +23174,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 344000,
       "name": "This is a Revolution - Main Mix",
       "url": "https://open.spotify.com/track/4jZbfEFeU7hhFpHQBZJ73t"
@@ -23796,7 +23884,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 218709,
       "name": "Trilemma",
       "url": "https://open.spotify.com/track/7jOPnyBZk370lHFAiTHNwO"
@@ -25210,6 +25298,28 @@
       "duration_ms": 281193,
       "name": "We Dance Again",
       "url": "https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/52vGsPczTADGUWxavc9S9q"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446438,
+      "name": "We Dance Again",
+      "url": "https://open.spotify.com/track/2q1qOoQjYbqcr2WG8X9qQe"
     },
     {
       "album": {

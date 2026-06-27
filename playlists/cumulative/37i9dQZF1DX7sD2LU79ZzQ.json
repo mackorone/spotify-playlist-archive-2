@@ -18073,6 +18073,24 @@
     },
     {
       "album": {
+        "name": "Sehidup Semusik",
+        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Naksir",
+      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
+    },
+    {
+      "album": {
         "name": "nanti bila engkau pergi",
         "url": "https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU"
       },
@@ -29110,24 +29128,6 @@
       "duration_ms": 256521,
       "name": "Torang Indonesia",
       "url": "https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv"
-    },
-    {
-      "album": {
-        "name": "Sehidup Semusik",
-        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
-      },
-      "artists": [
-        {
-          "name": "Andien",
-          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
     },
     {
       "album": {

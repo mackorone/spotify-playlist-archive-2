@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Net\u00f3n Vega en portada.",
+  "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Omar Camacho en portada.",
   "name": "Mega \u00c9xitos 2026",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168086,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
@@ -850,6 +850,24 @@
       "duration_ms": 164042,
       "name": "Ay Mamita",
       "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+    },
+    {
+      "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161348,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f"
     },
     {
       "album": {
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww"
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
@@ -4573,6 +4591,24 @@
     },
     {
       "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "King of Watches",
+      "url": "https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc"
+    },
+    {
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -5951,6 +5987,28 @@
     },
     {
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4wTV6sA0zY7smkgF1NrjBf"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/6vksmHF8RtdZgH0ZWYIxmY"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -6170,6 +6228,24 @@
       "duration_ms": 515386,
       "name": "Master of Puppets (Remastered)",
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
+    },
+    {
+      "album": {
+        "name": "MATCHA",
+        "url": "https://open.spotify.com/album/1N83uOaeveV2ZNHVvEF0YA"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156517,
+      "name": "MATCHA",
+      "url": "https://open.spotify.com/track/5h6HapZQK3Jq0H9n7epDwL"
     },
     {
       "album": {
@@ -8384,7 +8460,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
@@ -8402,7 +8478,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/1qiWVzOApnT0lLLQofPr1S"
@@ -10108,7 +10184,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 150365,
       "name": "Tal Vez Fui Yo",
       "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"

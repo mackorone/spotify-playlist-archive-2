@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 476328,
+  "num_followers": 476315,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACqRtR3WDDvKHqpIX07rmAa",
+  "snapshot_id": "ajxvgAAAAABaqGXV3IERlIIG1xAk+Qrg",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 129170,
-      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
+      "duration_ms": 198644,
+      "name": "Goodmorning!",
+      "url": "https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 198644,
-      "name": "Goodmorning!",
-      "url": "https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi"
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 167193,
+      "name": "She Stole My Man",
+      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love in Real Life",
-        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
         {
@@ -456,25 +472,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 154297,
-      "name": "Love in Real Life",
-      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 167193,
-      "name": "She Stole My Man",
-      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
+      "duration_ms": 185594,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
       "artists": [
         {
@@ -504,9 +504,25 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185594,
-      "name": "Water Me",
-      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
+      "duration_ms": 112281,
+      "name": "Too Nice",
+      "url": "https://open.spotify.com/track/2vvqy5quCrUQTEUfZKhOsD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 112281,
-      "name": "Too Nice",
-      "url": "https://open.spotify.com/track/2vvqy5quCrUQTEUfZKhOsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 184857,
       "name": "Like a Girl",
       "url": "https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195889,
+      "name": "Whose Hair Is This",
+      "url": "https://open.spotify.com/track/7so3Q9dPT7ESJYPtxJs7dh"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195889,
-      "name": "Whose Hair Is This",
-      "url": "https://open.spotify.com/track/7so3Q9dPT7ESJYPtxJs7dh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 175234,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 190083,
+      "name": "That GRRRL",
+      "url": "https://open.spotify.com/track/0oHri1omd5Y4p394zQQiOs"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 202903,
-      "name": "Little Black Cat",
-      "url": "https://open.spotify.com/track/4xuiFs4ybA9EVHaNhUomsX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 148490,
-      "name": "I Love You Bitch",
-      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 175480,
       "name": "CRASHOUT",
       "url": "https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 148490,
+      "name": "I Love You Bitch",
+      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187544,
-      "name": "Birthday Girl",
-      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164213,
       "name": "IRL (FEAT. SZA)",
       "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187544,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juice (Breakbot Mix)",
-        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "Juice - Breakbot Mix",
-      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 162560,
       "name": "STILL CANT FUH (FEAT. DOJA CAT)",
       "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juice (Breakbot Mix)",
+        "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "Juice - Breakbot Mix",
+      "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
     }
   ],
   "unique_name": "This Is Lizzo",

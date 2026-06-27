@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring VIVI909\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,350 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,351 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

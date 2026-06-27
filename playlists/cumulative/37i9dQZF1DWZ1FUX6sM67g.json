@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 164790,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/4L9l8YzYwmGl70RqFhb23B"
@@ -2808,7 +2808,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 175238,
       "name": "HOY SE GUAYA",
       "url": "https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 158773,
       "name": "H\u00e1blame de Miami",
       "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
@@ -5273,6 +5273,28 @@
     },
     {
       "album": {
+        "name": "RULAY",
+        "url": "https://open.spotify.com/album/70x2Y06HOorSVh6OLtPupJ"
+      },
+      "artists": [
+        {
+          "name": "menteabierta",
+          "url": "https://open.spotify.com/artist/3Z5jrGaclyPGZxbGcVuCFy"
+        },
+        {
+          "name": "Cali Flow Latino",
+          "url": "https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163142,
+      "name": "RULAY",
+      "url": "https://open.spotify.com/track/440u0o6IMKbLgqNhmuYD8M"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/2aWqyVLeFFPrPe4Ra77b9f"
       },
@@ -5536,7 +5558,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185440,
       "name": "Sigueme Besando Asi",
       "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"

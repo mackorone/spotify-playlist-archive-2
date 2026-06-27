@@ -997,6 +997,32 @@
     },
     {
       "album": {
+        "name": "Big Drama",
+        "url": "https://open.spotify.com/album/16oR2MHMfrs1kS7E22rOTL"
+      },
+      "artists": [
+        {
+          "name": "Siroyi",
+          "url": "https://open.spotify.com/artist/306lommsDZyts5VuMuVzEC"
+        },
+        {
+          "name": "Wicked Sunny",
+          "url": "https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa"
+        },
+        {
+          "name": "Cyril Gabriel",
+          "url": "https://open.spotify.com/artist/2netGerqSenOlPiDpObZum"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131383,
+      "name": "Big Drama",
+      "url": "https://open.spotify.com/track/61myCTj4EotDnPabirLGtW"
+    },
+    {
+      "album": {
         "name": "Big Stepper",
         "url": "https://open.spotify.com/album/6VHlMbFSIQi1BlkkRKlg3Y"
       },
@@ -2498,6 +2524,24 @@
       "duration_ms": 156245,
       "name": "God Bless You",
       "url": "https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn"
+    },
+    {
+      "album": {
+        "name": "GOD STYLE",
+        "url": "https://open.spotify.com/album/5logHeMLdBwiVTiQuIkA5g"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "GOD STYLE",
+      "url": "https://open.spotify.com/track/1vC0cqMXGJGtkevc8VkwFh"
     },
     {
       "album": {
@@ -5188,7 +5232,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185142,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/6u0HXzj4NxCceC08nu7Ie6"
@@ -6866,7 +6910,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 161511,
       "name": "Velvet Flow",
       "url": "https://open.spotify.com/track/5aOpHbmH5MxzLr8uCvgFMG"

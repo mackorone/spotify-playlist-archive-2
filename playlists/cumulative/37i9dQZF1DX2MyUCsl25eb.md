@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-968 songs - 2 day 7 hr 55 min
+969 songs - 2 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Here We Go](https://open.spotify.com/track/0MkLSgg3dXXfgjf0zLNLkU) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [Secondhand Smoke](https://open.spotify.com/album/70G1nUwFugH5eW2WuKWwvW) | 3:26 | 2021-08-05 | 2022-04-17 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-23 | 2022-10-07 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-23 | 2023-02-04 |
-| [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-24 |  |
+| [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-05-24 | 2026-06-27 |
 | [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2021-08-04 | 2022-04-01 |
 | [Hideaway](https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS) | 2:43 | 2022-06-17 | 2023-05-06 |
 | [Hiding On The Moon](https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [Hiding On The Moon](https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0) | 3:53 | 2023-07-07 | 2023-12-02 |
@@ -590,6 +590,7 @@
 | [My Darling My Dear](https://open.spotify.com/track/74B59u2Q87CZ2IJFKirdpM) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [My Darling My Dear](https://open.spotify.com/album/2otFFJsMi2j3dG0pB1sUNI) | 3:58 | 2025-04-25 |  |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-25 | 2022-04-21 |
 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 | 2025-04-25 |  |
+| [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 | 2026-06-26 |  |
 | [My Only Friend \(feat\. Tom DeLonge\)](https://open.spotify.com/track/1f6BPj39g61GSSbbGnI2vU) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT), [Tom DeLonge](https://open.spotify.com/artist/5h7oZ7t5CU9lst1mIrjp3R) | [My Only Friend \(feat\. Tom DeLonge\)](https://open.spotify.com/album/7c6MuyJVeFFTXMHEOodX7J) | 3:03 | 2024-07-26 |  |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 | 2023-02-18 |
 | [Natural Disaster](https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Natural Disaster](https://open.spotify.com/album/1SqQrfSJRJZKRFi2gSoYDK) | 3:02 | 2026-01-30 |  |

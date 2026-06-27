@@ -3,10 +3,10 @@
   "num_followers": 3,
   "original_name": "\ud806\udcf2\ud835\udcf3",
   "owner": {
-    "name": "\ud835\udcc1\ud835\udcbe\ud835\udcb6\u2600\ufe0f",
+    "name": "\ud835\udcc1\ud835\udcbe\ud835\udcb6",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAKBXnIIUYr8sX3zuRedzAtAyv6ZUeD",
+  "snapshot_id": "AAAKGRpHFRSu0QOXt34r6b0Dsa1l4Lpn",
   "tracks": [
     {
       "added_at": "2026-05-01 09:44:50",
@@ -14587,22 +14587,6 @@
     {
       "added_at": "2026-05-01 09:44:53",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204815,
-      "name": "dandelion",
-      "url": "https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH"
-    },
-    {
-      "added_at": "2026-05-01 09:44:53",
-      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -22031,6 +22015,318 @@
       "duration_ms": 81053,
       "name": "Whale",
       "url": "https://open.spotify.com/track/3QXxq97HqaZfADhzsvQp11"
+    },
+    {
+      "added_at": "2026-06-26 22:26:04",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
+    },
+    {
+      "added_at": "2026-06-27 00:15:56",
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 319272,
+      "name": "We (feat. CeeLo Green)",
+      "url": "https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9"
+    },
+    {
+      "added_at": "2026-06-27 00:20:08",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 153881,
+      "name": "Rain (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
+    },
+    {
+      "added_at": "2026-06-27 00:28:09",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 223794,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21"
+    },
+    {
+      "added_at": "2026-06-27 00:33:06",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
+    },
+    {
+      "added_at": "2026-06-27 00:36:27",
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
+    },
+    {
+      "added_at": "2026-06-27 00:38:43",
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 165910,
+      "name": "Ayye",
+      "url": "https://open.spotify.com/track/7mv3jtfltFR9OXzCRquSNu"
+    },
+    {
+      "added_at": "2026-06-27 00:42:06",
+      "album": {
+        "name": "Harlem's Finest: Return Of The King",
+        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
+    },
+    {
+      "added_at": "2026-06-27 00:45:22",
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 188065,
+      "name": "The Mourning After",
+      "url": "https://open.spotify.com/track/7zQeDqDlb49AkPCoyXhZf0"
+    },
+    {
+      "added_at": "2026-06-27 00:48:49",
+      "album": {
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 197929,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/6AjXmTomWUWZ6Za0X6ypjl"
+    },
+    {
+      "added_at": "2026-06-27 00:52:07",
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Weekend (feat. Miguel)",
+      "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
+    },
+    {
+      "added_at": "2026-06-27 00:56:05",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "Woods",
+      "url": "https://open.spotify.com/track/3Qa944OTMZkg8DHjET8JQv"
+    },
+    {
+      "added_at": "2026-06-27 01:31:52",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
+    },
+    {
+      "added_at": "2026-06-27 01:38:40",
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "added_at": "2026-06-27 01:42:28",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Ladders",
+      "url": "https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "added_at": "2026-06-27 01:47:06",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2026-06-27 01:49:01",
+      "album": {
+        "name": "20 DEGREES",
+        "url": "https://open.spotify.com/album/7g1t9xUrusAle777napE0R"
+      },
+      "artists": [
+        {
+          "name": "kili",
+          "url": "https://open.spotify.com/artist/2VBXSPRE2S0cljz94I1EeP"
+        }
+      ],
+      "duration_ms": 251568,
+      "name": "20 DEGREES",
+      "url": "https://open.spotify.com/track/7xa3jMc7pqXzkNSsgTemiC"
+    },
+    {
+      "added_at": "2026-06-27 01:54:58",
+      "album": {
+        "name": "NOBLE (with The Kid LAROI)",
+        "url": "https://open.spotify.com/album/2a7B8ngsOQDg0G5ejax0z2"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "NOBLE (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/00meonIF1VYLe1eTcx3w9e"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

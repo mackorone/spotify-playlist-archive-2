@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-255 songs - 16 hr 27 min
+256 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Fourth Motion](https://open.spotify.com/track/7xwptjCf7gS9gM0jR2diYM) | [Tom Hodge](https://open.spotify.com/artist/3cHyQs5f4NsAP4LI61G4TO), [Ciaran Morahan](https://open.spotify.com/artist/5dME39wvlkpKMR5i7gGkCX), [Ollie Howell](https://open.spotify.com/artist/6NA5FJR3uBU3T5eVWUsww9), [Collisions](https://open.spotify.com/artist/07x3l0totVsCpV03su5v3M) | [Fourth Motion](https://open.spotify.com/album/7IPc0h9Yj02ITjBKSRNSWn) | 2:43 | 2022-07-27 |  |
 | [Fractals](https://open.spotify.com/track/5tfDvmkWMXgTVN49Kbw1ms) | [Blake Ewing](https://open.spotify.com/artist/11ReFzDfYn4ZuUVgJhnFA5) | [Fractals](https://open.spotify.com/album/2S4GD5n39eYGdXCe3e7YXr) | 3:24 | 2022-12-06 |  |
 | [From The Distance](https://open.spotify.com/track/2DZq354OEFN5ZEXsynGp0X) | [Alegria Cruz](https://open.spotify.com/artist/3shid3aiVuM5qQqaGOg3Vp) | [From The Distance](https://open.spotify.com/album/2wTqkYwIk8hBF12eZ1Q61D) | 2:36 | 2022-07-27 |  |
+| [Getting the Picture](https://open.spotify.com/track/1PVvD0V8BYl4QlKgP6V97c) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Without Wind, Without Air – Rarities](https://open.spotify.com/album/2indmRswjp9bK6CEWfAo6U) | 3:30 | 2026-06-26 |  |
 | [Gliding Meditation](https://open.spotify.com/track/0y147ExwMcpZot1UuvErfw) | [Riverest](https://open.spotify.com/artist/3gd24ilFMYc7YGWljgwhzg), [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Gliding Meditation](https://open.spotify.com/album/2I7bGNYcRLo1cLB87IOzLI) | 4:55 | 2023-03-17 |  |
 | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/track/1ftYKVghwWIOBTzZMMlZYM) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/1TcDdmdTiRzaYsEfvqj4r2) | 4:15 | 2023-04-27 | 2024-04-19 |
 | [Glow \- Foam and Sand Rework](https://open.spotify.com/track/6TuQKHMMawk2rswRisvV9J) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Glow \(Foam and Sand Rework\)](https://open.spotify.com/album/5CEIDLZZdmlacCspDjYNYJ) | 4:15 | 2022-04-26 |  |

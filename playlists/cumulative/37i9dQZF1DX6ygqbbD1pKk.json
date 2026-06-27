@@ -1311,7 +1311,7 @@
     },
     {
       "album": {
-        "name": "I Knew It, I Knew You",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
@@ -1324,7 +1324,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
@@ -1863,6 +1863,18 @@
         "url": "https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0"
       },
       "artists": [
+        {
+          "name": "Benjamin Rice",
+          "url": "https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
         {
           "name": "Mar\u00eda Le\u00f3n",
           "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"

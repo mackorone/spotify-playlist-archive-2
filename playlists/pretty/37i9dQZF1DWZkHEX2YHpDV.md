@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Tigers Jaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,436 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,403 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 62 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
 | 63 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 |
 | 64 | [Goodbye, Good Riddance](https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Goodbye, Good Riddance](https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG) | 2:39 |
-| 65 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
-| 66 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
+| 65 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
+| 66 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 67 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
-| 68 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
-| 69 | [saturate](https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [saturate](https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE) | 3:14 |
+| 68 | [saturate](https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [saturate](https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE) | 3:14 |
+| 69 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
 | 70 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 |
 | 71 | [Pity Party](https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Dark Magic](https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev) | 2:24 |
 | 72 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 80 | [Bedroom Posters](https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Bedroom Posters](https://open.spotify.com/album/1mju3IkbVw0xDVMyfJj90U) | 3:38 |
 | 81 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
 | 82 | [only overnight](https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [only overnight](https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R) | 3:02 |
-| 83 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |
-| 84 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
-| 85 | [Never Said](https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Bambi](https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH) | 3:15 |
+| 83 | [Never Said](https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Bambi](https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH) | 3:15 |
+| 84 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |
+| 85 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
 | 86 | [DOUBT](https://open.spotify.com/track/24KYmcYFdSIzKJbKYpyOPO) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [HELLMODE](https://open.spotify.com/album/7Gw4NIOgnylpbryrOJksn9) | 4:28 |
 | 87 | [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 |
 | 88 | [Head is Like a Sinking Stone](https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Head is Like a Sinking Stone](https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS) | 3:03 |

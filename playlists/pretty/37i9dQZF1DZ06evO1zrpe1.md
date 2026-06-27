@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 585 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 15 | [Asi Hablamos en Tijuana](https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Hablamos en Tijuana](https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z) | 2:47 |
 | 16 | [No Fuimos](https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Fuimos](https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE) | 2:46 |
 | 17 | [A Veces](https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [A Veces](https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC) | 2:38 |
-| 18 | [Pierde La Que Se Lo Queda](https://open.spotify.com/track/0COFIuK4hUxgVle2OKgq6L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pierde La Que Se Lo Queda](https://open.spotify.com/album/17ZMxnlVKKooOOgVmLJl07) | 3:21 |
-| 19 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
+| 18 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
+| 19 | [Pierde La Que Se Lo Queda](https://open.spotify.com/track/0COFIuK4hUxgVle2OKgq6L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pierde La Que Se Lo Queda](https://open.spotify.com/album/17ZMxnlVKKooOOgVmLJl07) | 3:21 |
 | 20 | [La Catedral](https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 2:51 |
 | 21 | [Mujeres de Alto Mando](https://open.spotify.com/track/6oJozP9toHyPCTbQZqIWJg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Mujeres de Alto Mando](https://open.spotify.com/album/70gu3eMDc8pJy22GwJl1Ul) | 2:48 |
 | 22 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 40 | [Fuiste Tú \- En Vivo](https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:07 |
 | 41 | [Dónde Están?](https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Dónde Están?](https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW) | 4:13 |
 | 42 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 |
-| 43 | [Sentimientos de Cartón](https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Sentimientos de Cartón](https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx) | 3:12 |
-| 44 | [La Mejor Versión de Mi](https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Mejor Versión de Mi](https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO) | 2:17 |
+| 43 | [La Mejor Versión de Mi](https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Mejor Versión de Mi](https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO) | 2:17 |
+| 44 | [Sentimientos de Cartón](https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Sentimientos de Cartón](https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx) | 3:12 |
 | 45 | [Chapulín \- En Vivo](https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:27 |
 | 46 | [Ahí Va la Loca](https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ahí Va la Loca](https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs) | 3:23 |
 | 47 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 |
 | 48 | [Vuelve](https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Vuelve](https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa) | 3:34 |
 | 49 | [Así No Te Amará Jamás \- En Vivo](https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:21 |
 
-Snapshot ID: `ajseAAAAAADtPlrcgTZVTPfpBVdJdHEw`
+Snapshot ID: `ajxvgAAAAAC99AV+jWN1Lio5kmmBmehL`

@@ -4,7 +4,7 @@
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: Маша Кондратенко & Володимир Дантес
 
-591 songs - 1 day 6 hr 9 min
+592 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-09-26 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-06-27 | 2025-03-21 |
 | [Wind of change](https://open.spotify.com/track/5fBVVccgv3f3CnzvgWcTVh) | [Влад Шериф](https://open.spotify.com/artist/1W6jh6Yfq91iaDoifYaiMq) | [Wind of change](https://open.spotify.com/album/5CVR1ehJj6dEMsMKKMIARy) | 2:55 | 2025-01-23 | 2025-01-31 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 |  |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-12-20 |
 | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 | 2024-12-12 | 2025-03-21 |
 | [Ya Tabtab](https://open.spotify.com/track/4VprDXa9zCBQ9n1xNSeIum) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Char Bell](https://open.spotify.com/artist/4Op8WlR7WeCf0mkzjZsd6k) | [Ya Tabtab](https://open.spotify.com/album/70VOfqtogVHD4qzT9n8Deo) | 2:53 | 2026-05-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 
 > Go back in time with these video throwbacks\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082 likes - 22 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 | 12 | [Propuesta Indecente](https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:55 |
 | 13 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 |
 | 14 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 |
-| 15 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
-| 16 | [Ocean](https://open.spotify.com/track/3tPHrrgwI3DBTfdaUunDc2) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ocean](https://open.spotify.com/album/3HblIEzHY5Td5Yagx8aItM) | 2:34 |
-| 17 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 |
-| 18 | [Yo Quisiera](https://open.spotify.com/track/3zaYySYaTegOcZ8pfEPXoG) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Yo Quisiera](https://open.spotify.com/album/5wchpiHn475ARS0GmswO0P) | 3:35 |
-| 19 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4cmcEv0JgFugg83rlkL7x2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/album/4l4PJEkHF3ch8E7zWBbmf2) | 3:17 |
-| 20 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
+| 15 | [Con los Años Que Me Quedan](https://open.spotify.com/track/2lyRJpAxxL7ViWSc8KSiuP) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Con Los Anos Que Me Quedan](https://open.spotify.com/album/7lIkoVG5usLfSOfEUvwygG) | 4:35 |
+| 16 | [Eres](https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Cuatro Caminos](https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh) | 4:27 |
+| 17 | [Me Hace Tanto Bien](https://open.spotify.com/track/4xS1LeP6dNOVd5h5QApUIy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Hace Tanto Bien](https://open.spotify.com/album/0LgR2DUfnnbfldZ14ZHsF7) | 3:15 |
+| 18 | [Ocean](https://open.spotify.com/track/3tPHrrgwI3DBTfdaUunDc2) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ocean](https://open.spotify.com/album/3HblIEzHY5Td5Yagx8aItM) | 2:34 |
+| 19 | [Mientes Tan Bien](https://open.spotify.com/track/7hbgCKddEQhCVXHsMdHebN) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 3:49 |
+| 20 | [Yo Quisiera](https://open.spotify.com/track/3zaYySYaTegOcZ8pfEPXoG) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Yo Quisiera](https://open.spotify.com/album/5wchpiHn475ARS0GmswO0P) | 3:35 |
+| 21 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4cmcEv0JgFugg83rlkL7x2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/album/4l4PJEkHF3ch8E7zWBbmf2) | 3:17 |
+| 22 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
 
-Snapshot ID: `AAAAAPaV/c9jrWVtra6yaU9xDLY+u+ZW`
+Snapshot ID: `AAAAADhRXntV9HI3II6a/4XqVBBcEhR3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Nikos Makropoulos
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,215 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,233 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 11 | [Ti Sou Hrostao](https://open.spotify.com/track/0oFoDNiUUSxcx0wzZsT8y2) | [Elli Kokkinou](https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Hrostao](https://open.spotify.com/album/4aQB3sUB56Gn52u3BJ1lel) | 3:23 |
 | 12 | [To Proto Sou Fili](https://open.spotify.com/track/5KKrxq8JQ90ETCeRgeKGcT) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz), [Stella Konitopoulou](https://open.spotify.com/artist/5yvbulfXEj6VIoVUvADLAd) | [To Proto Sou Fili](https://open.spotify.com/album/2hB4UWuI7bYEd1L4QUOZWR) | 3:21 |
 | 13 | [Spaste Ta](https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Spaste Ta](https://open.spotify.com/album/3jfetX93UbxUrzpaEd1dRq) | 3:08 |
-| 14 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 |
+| 14 | [KABANES](https://open.spotify.com/track/369kX7fbtHY20flzXt0m37) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [KABANES](https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf) | 2:45 |
 | 15 | [Plati](https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT), [Sfera 102.2](https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Apo To Xthes Sto Simera \(Part 2\)](https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3) | 3:35 |
 | 16 | [Me Xodepses](https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Me Xodepses](https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy) | 2:59 |
 | 17 | [Mavra Feggaria](https://open.spotify.com/track/6R1Ovs4Aq1KSFqfo5S8Dwm) | [Lena Zevgara](https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB) | [Mavra Feggaria](https://open.spotify.com/album/4itX5qMwCqZv3yaOFfYAdJ) | 3:02 |
 | 18 | [Gia To Kalo Mou](https://open.spotify.com/track/4Ga61DQK2yrGSkh0xn9iur) | [Greg](https://open.spotify.com/artist/3uBNVjDel3HFDLBmNt4ork), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM), [Johnny King](https://open.spotify.com/artist/49OXQoObhn6uR1vgOeNlku) | [Gia To Kalo Mou](https://open.spotify.com/album/2BS6POovpDW5cFp7sBgxjZ) | 2:36 |
-| 19 | [KABANES](https://open.spotify.com/track/369kX7fbtHY20flzXt0m37) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [KABANES](https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf) | 2:45 |
+| 19 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 |
 | 20 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
 | 21 | [Exigiste Mou](https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Exigiste Mou](https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S) | 2:53 |
 | 22 | [Eipes](https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Eipes](https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB) | 4:03 |

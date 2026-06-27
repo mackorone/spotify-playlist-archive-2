@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 91885,
+  "num_followers": 91896,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-05-18 13:36:42",
       "album": {
-        "name": "Zamba para Olvidarte",
-        "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Toro",
-          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Zamba para Olvidarte",
-      "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
-    },
-    {
-      "added_at": "2026-05-18 13:36:42",
-      "album": {
         "name": "No me sale",
         "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 208506,
       "name": "No me sale",
       "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
+    },
+    {
+      "added_at": "2026-05-18 13:36:42",
+      "album": {
+        "name": "Zamba para Olvidarte",
+        "url": "https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Zamba para Olvidarte",
+      "url": "https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx"
     },
     {
       "added_at": "2026-05-18 13:36:42",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-18 13:36:42",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
-    },
-    {
-      "added_at": "2026-05-18 13:36:42",
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224759,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
+    },
+    {
+      "added_at": "2026-05-18 13:36:42",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2026-05-18 13:36:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-18 13:36:42",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 213859,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
-    },
-    {
-      "added_at": "2026-05-18 13:36:42",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 249985,
       "name": "La del Olvido",
       "url": "https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh"
+    },
+    {
+      "added_at": "2026-05-18 13:36:42",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 213859,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
     },
     {
       "added_at": "2026-05-18 13:36:42",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2026-05-18 13:36:42",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+        "name": "Tonada De Tus Labios",
+        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
       },
       "artists": [
         {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        },
+        {
+          "name": "Goy Karamelo",
+          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
         }
       ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+      "duration_ms": 177937,
+      "name": "Tonada De Tus Labios",
+      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
     },
     {
       "added_at": "2026-05-18 13:36:42",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2026-05-18 13:36:42",
       "album": {
-        "name": "Tonada De Tus Labios",
-        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
       },
       "artists": [
         {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        },
-        {
-          "name": "Goy Karamelo",
-          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
         }
       ],
-      "duration_ms": 177937,
-      "name": "Tonada De Tus Labios",
-      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2026-05-18 13:36:42",

@@ -4,7 +4,7 @@
 
 > Workout to K\-Pop? Count me in! \(Cover: Hearts2Hearts\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-676 songs - 1 day 11 hr 43 min
+677 songs - 1 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Me & You](https://open.spotify.com/track/0dSE54vYYvRNWzVTxE2xTL) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [WE](https://open.spotify.com/album/6Epnn9sgvvUrHdEf7JKjQb) | 3:23 | 2022-03-22 | 2022-04-14 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 | 2025-04-12 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-23 | 2026-03-17 |
+| [METRONOME](https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB) | 2:59 | 2026-06-25 |  |
 | [MIC Drop \(feat\. Desiigner\) \[Steve Aoki Remix\]](https://open.spotify.com/track/7Ed6BkggCS2KaKY5YlINaF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [MIC Drop \(feat\. Desiigner\) \[Steve Aoki Remix\]](https://open.spotify.com/album/2TpvJhw6RYTTn4eDrAb3eJ) | 3:58 | 2022-03-22 | 2022-04-16 |
 | [MIRROR](https://open.spotify.com/track/7sMXQv5zDYBttme1UUItdR) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE](https://open.spotify.com/album/0rPtXoQoXvnGKk14lm9ghO) | 3:25 | 2022-03-22 | 2022-04-11 |
 | [Mixtape : OH](https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:32 | 2022-07-19 | 2022-08-19 |
@@ -540,7 +541,7 @@
 | [Stay](https://open.spotify.com/track/2R718kNELkYEXFzv8yDOTM) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Stay](https://open.spotify.com/album/1nvrTwKQLJjOplmk2F7xXt) | 3:01 | 2022-02-03 | 2022-06-23 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-06-29 | 2022-12-22 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-03 | 2025-03-12 |
-| [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-25 |  |
+| [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-25 | 2026-06-27 |
 | [Stolen](https://open.spotify.com/track/1YudzC0dQ6SJo0WgHA8kal) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [Stolen](https://open.spotify.com/album/5GRlBvHo9Rz00EWzS1o1Vu) | 2:44 | 2026-05-11 | 2026-06-03 |
 | [Strangers](https://open.spotify.com/track/3CWuU5kIw8zsWJTcgreUwl) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:53 | 2025-08-08 | 2025-08-20 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-10 |  |

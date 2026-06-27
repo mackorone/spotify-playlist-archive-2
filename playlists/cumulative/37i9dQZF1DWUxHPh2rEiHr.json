@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 171216,
       "name": "Boucan (feat. Franglish)",
       "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 150370,
       "name": "DALLAX",
       "url": "https://open.spotify.com/track/49d59eVjo5QZtjcbW34UBs"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
@@ -6274,7 +6274,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
@@ -6310,7 +6310,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
@@ -7740,7 +7740,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
@@ -8026,7 +8026,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
@@ -8950,7 +8950,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162285,
       "name": "No Wahala",
       "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
@@ -9477,6 +9477,28 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
+    },
+    {
+      "album": {
         "name": "Palpita",
         "url": "https://open.spotify.com/album/603fRSffKcKusaqnmhXos5"
       },
@@ -9536,6 +9558,32 @@
       "duration_ms": 167180,
       "name": "Papasito",
       "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
+    },
+    {
+      "album": {
+        "name": "pAPi wiTH tOKisCha",
+        "url": "https://open.spotify.com/album/0zQSdKV9voIN7ZG8exJ9Ct"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "pAPi wiTH tOKisCha",
+      "url": "https://open.spotify.com/track/5UA4VZsSc5Ky988bOI5Fnu"
     },
     {
       "album": {
@@ -10871,6 +10919,28 @@
     },
     {
       "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Read My Lips (FIFA World Cup 2026\u2122)",
+      "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
+    },
+    {
+      "album": {
         "name": "Real G",
         "url": "https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC"
       },
@@ -11170,7 +11240,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 135176,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/3l86qllTNoeEpELSuL6IWv"
@@ -11228,7 +11298,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
@@ -12184,7 +12254,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
@@ -12821,6 +12891,32 @@
     },
     {
       "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -13170,6 +13266,36 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+    },
+    {
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210014,
+      "name": "Three Nations",
+      "url": "https://open.spotify.com/track/7CQjf3iDJcNCvzSR9YMQx1"
     },
     {
       "album": {
@@ -13922,7 +14048,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
@@ -14060,7 +14186,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 210029,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos"
@@ -15022,6 +15148,28 @@
       "duration_ms": 214933,
       "name": "\u00cdndigo",
       "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "\u2060\u2060no debo :(",
+      "url": "https://open.spotify.com/track/5XycIQWzD3ofaE3BVklJh4"
     },
     {
       "album": {

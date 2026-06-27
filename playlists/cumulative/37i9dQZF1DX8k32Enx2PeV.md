@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-182 songs - 10 hr 14 min
+183 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 | 2023-04-28 | 2026-02-21 |
 | [Calor](https://open.spotify.com/track/2bmAfAeeEEDT3p8UqFu9iA) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [Ghetto](https://open.spotify.com/artist/4yxglAiH5h8Db7TmN0MUr5) | [Calor](https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m) | 3:32 | 2024-06-28 | 2026-06-20 |
 | [Calor](https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn) | 3:20 | 2024-06-28 |  |
-| [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 | 2023-04-28 |  |
+| [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 | 2023-04-28 | 2026-06-27 |
+| [Can't Stand It](https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Can't Stand It](https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY) | 2:10 | 2026-06-26 |  |
 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 | 2024-04-19 | 2024-06-29 |
 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 | 2023-04-28 |  |
 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 | 2026-06-19 |  |

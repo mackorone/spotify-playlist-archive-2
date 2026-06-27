@@ -1061,6 +1061,28 @@
     },
     {
       "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/4VSiqzvtOtatsHXPKN6IHw"
+    },
+    {
+      "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },

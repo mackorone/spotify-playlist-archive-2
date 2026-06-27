@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Ruel",
-  "num_followers": 229874,
+  "num_followers": 229861,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJSsEZRNEp+Gm9eKrLQC7CB4y8u",
+  "snapshot_id": "AAAAAMV+tjWQmXPU+FZ+HDnaXqebPXaz",
   "tracks": [
     {
       "added_at": "2026-06-12 04:16:42",
@@ -23,6 +23,102 @@
       "duration_ms": 184417,
       "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
+    },
+    {
+      "added_at": "2026-06-26 04:02:22",
+      "album": {
+        "name": "delicate",
+        "url": "https://open.spotify.com/album/1QMIHpWtsRn6ajIqBoChA0"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "delicate",
+      "url": "https://open.spotify.com/track/6YBLmU3kjppbQx3GjP2Q5y"
+    },
+    {
+      "added_at": "2026-06-26 04:02:22",
+      "album": {
+        "name": "EAVESDROPPING",
+        "url": "https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "RODEO",
+      "url": "https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG"
+    },
+    {
+      "added_at": "2026-06-26 04:02:22",
+      "album": {
+        "name": "Suzy",
+        "url": "https://open.spotify.com/album/2s8GMXJrYAbVG8E38rBuKi"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Suzy",
+      "url": "https://open.spotify.com/track/0yhCViFEIlPZ2Jhvtu0WYY"
+    },
+    {
+      "added_at": "2026-06-26 04:02:22",
+      "album": {
+        "name": "Cursive",
+        "url": "https://open.spotify.com/album/2RAKDVCGDTuPnPcUle2Ljq"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 181743,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/7GTJo0jGZm3MifQFNwpHEn"
+    },
+    {
+      "added_at": "2026-06-26 04:02:22",
+      "album": {
+        "name": "Sooner or Later",
+        "url": "https://open.spotify.com/album/4ybDedFZDn9Y5G2wuc4KDA"
+      },
+      "artists": [
+        {
+          "name": "CHXRL",
+          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/78iQfzUp6HcPN4AnONdqCf"
+    },
+    {
+      "added_at": "2026-06-26 04:02:22",
+      "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/0Tk6VmFzD7jRn4C0cvR1c1"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "duration_ms": 241139,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/5YggJREAjt93xaRmFwcKvu"
     },
     {
       "added_at": "2026-06-19 04:01:06",
@@ -699,138 +795,6 @@
       "duration_ms": 149786,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl"
-    },
-    {
-      "added_at": "2026-04-17 06:03:18",
-      "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242517,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
-    },
-    {
-      "added_at": "2026-04-10 04:46:07",
-      "album": {
-        "name": "Bone Structure",
-        "url": "https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV"
-      },
-      "artists": [
-        {
-          "name": "Dolder",
-          "url": "https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "Bone Structure",
-      "url": "https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o"
-    },
-    {
-      "added_at": "2026-04-17 06:03:18",
-      "album": {
-        "name": "She's Missing",
-        "url": "https://open.spotify.com/album/7n7ktFWH8qWh5GJsOnWo4r"
-      },
-      "artists": [
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "duration_ms": 184655,
-      "name": "She's Missing",
-      "url": "https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo"
-    },
-    {
-      "added_at": "2026-04-03 04:03:26",
-      "album": {
-        "name": "Daredevil",
-        "url": "https://open.spotify.com/album/1GgeRqhrpX8WUXMOZx16Gr"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Daredevil",
-      "url": "https://open.spotify.com/track/2cvuYoAarEwjOoNcTVOFxJ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Baby Blue / When It Comes To Loving You",
-        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 171630,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
-    },
-    {
-      "added_at": "2026-04-03 04:03:26",
-      "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/5MO6DsF9EtUMjOZuD9uVs5"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 207338,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7BItTSeYIe9XNP9Z7b92m9"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-03-27 04:00:20",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
     },
     {
       "added_at": "2026-03-16 20:04:39",

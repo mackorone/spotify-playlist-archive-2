@@ -4,7 +4,7 @@
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 2 min
+69 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 3:55 | 2025-08-02 |  |
 | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5) | 2:35 | 2025-08-02 | 2026-06-20 |
 | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra \(feat\. Craig David\)](https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l) | 2:35 | 2026-06-20 |  |
+| [Abracadabra, Pt\. 2](https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX) | 2:47 | 2026-06-27 |  |
 | [Abracadabra, Pt\. 2](https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ) | 2:47 | 2025-08-02 | 2026-06-20 |
 | [Addicted \- Radio Edit](https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Greg Parys](https://open.spotify.com/artist/3oxDUMO16ReenrnGfoXsGV) | [Addicted \(Radio Edit\)](https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs) | 3:34 | 2025-08-02 |  |
 | [Ain't Giving Up](https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 2:37 | 2025-08-02 |  |
@@ -61,7 +62,7 @@
 | [Separate Ways](https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:00 | 2026-05-25 |  |
 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-08-02 |  |
 | [Spanish](https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 5:03 | 2025-08-02 |  |
-| [Summertime \(feat\. Craig David\)](https://open.spotify.com/track/505SwWKGVGRh9RzhKVq3qY) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Greatest Hits \(Part 1\)](https://open.spotify.com/album/1PiLOU2NfOcWh0xfjXbzqP) | 3:25 | 2026-06-24 |  |
+| [Summertime \(feat\. Craig David\)](https://open.spotify.com/track/505SwWKGVGRh9RzhKVq3qY) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Greatest Hits \(Part 1\)](https://open.spotify.com/album/1PiLOU2NfOcWh0xfjXbzqP) | 3:25 | 2026-06-24 | 2026-06-27 |
 | [This Is the Girl \(with Kano\)](https://open.spotify.com/track/1vKTU8e7tC851a8tMzc8NY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 4:10 | 2025-08-02 |  |
 | [Time to Party](https://open.spotify.com/track/6NSmOtlkUnpavCWIuLbZo8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 4:04 | 2025-08-02 |  |
 | [Unbelievable \- Radio Edit](https://open.spotify.com/track/0LEbfPqZhqWk2Pv7WJn4Nv) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:22 | 2025-08-02 |  |

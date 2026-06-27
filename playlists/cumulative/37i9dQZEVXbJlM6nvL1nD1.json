@@ -645,6 +645,32 @@
     },
     {
       "album": {
+        "name": "A Lo Pelotero",
+        "url": "https://open.spotify.com/album/4dRbva2aFAItbKCVOwWJQc"
+      },
+      "artists": [
+        {
+          "name": "Dj Faricho",
+          "url": "https://open.spotify.com/artist/1BWSJoTKmqWTD7wWOjGsVx"
+        },
+        {
+          "name": "jerry",
+          "url": "https://open.spotify.com/artist/567n4vKsxkQcRVUDQeQ7dI"
+        },
+        {
+          "name": "Erivan El Capit\u00e1n",
+          "url": "https://open.spotify.com/artist/5gajkRUcKCKurZbifXEPtx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186181,
+      "name": "A Lo Pelotero",
+      "url": "https://open.spotify.com/track/4jlqh6oibHdBwBlCVKCB0q"
+    },
+    {
+      "album": {
         "name": "A Mi Modo",
         "url": "https://open.spotify.com/album/3VNHpjIz0LBijTPf4yhS8A"
       },
@@ -5367,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Salsa Choque",
+        "url": "https://open.spotify.com/album/4K3MwwSbPHK6ZtyY6oqLPi"
+      },
+      "artists": [
+        {
+          "name": "La Gente Pesada",
+          "url": "https://open.spotify.com/artist/66tmL770pS3FfGOGmdTbXC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220346,
+      "name": "Cucha Cucha",
+      "url": "https://open.spotify.com/track/0tfnr6uxQYwenPZE4vyfbC"
+    },
+    {
+      "album": {
         "name": "Cumbia",
         "url": "https://open.spotify.com/album/2JKIif1ahgh5O8WmmqZm26"
       },
@@ -6562,7 +6606,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -6916,7 +6960,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7094,6 +7138,24 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "album": {
+        "name": "Siempre se Podr\u00e1!",
+        "url": "https://open.spotify.com/album/2Pzc81kpDEnWIFbDE22okZ"
+      },
+      "artists": [
+        {
+          "name": "Damiano",
+          "url": "https://open.spotify.com/artist/1jJJu2hd78ai3TisrzVXU2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209529,
+      "name": "Ecuador, Si Se Puede",
+      "url": "https://open.spotify.com/track/7c0tCFpbpD3QLs1Gr9mabP"
     },
     {
       "album": {
@@ -9324,7 +9386,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 219574,
       "name": "Flow Cali",
       "url": "https://open.spotify.com/track/3F8vudBbfHSi4FhVxgi0Ns"
@@ -11012,7 +11074,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
@@ -11030,7 +11092,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -12588,7 +12650,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
@@ -12788,7 +12850,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 197608,
       "name": "La Tri",
       "url": "https://open.spotify.com/track/2EZpJ8HDGbLn7v7eNcabCK"
@@ -13660,6 +13722,24 @@
       "duration_ms": 166333,
       "name": "Llamada Perdida",
       "url": "https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4"
+    },
+    {
+      "album": {
+        "name": "Llamemos Las Pre",
+        "url": "https://open.spotify.com/album/7fZCr2ZvO5pgvt8oBL7Nn9"
+      },
+      "artists": [
+        {
+          "name": "Elmer Hurva",
+          "url": "https://open.spotify.com/artist/2MAxdsecRQG1Lt3LvzJvUG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Llamemos Las Pre",
+      "url": "https://open.spotify.com/track/316SwvGLXugBuebPkwE2Kq"
     },
     {
       "album": {
@@ -14958,7 +15038,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184173,
       "name": "Marlboro Rojo",
       "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
@@ -15928,7 +16008,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 164911,
       "name": "Mimos",
       "url": "https://open.spotify.com/track/3yPN2nS3RXnIQimOoKjWYE"
@@ -16038,7 +16118,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
       "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
@@ -16882,7 +16962,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -20949,6 +21029,24 @@
     },
     {
       "album": {
+        "name": "Full HD",
+        "url": "https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj"
+      },
+      "artists": [
+        {
+          "name": "Cali Flow Latino",
+          "url": "https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259265,
+      "name": "Ras Tas Tas Full Hd",
+      "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
+    },
+    {
+      "album": {
         "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
         "url": "https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf"
       },
@@ -22518,7 +22616,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -24760,7 +24858,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 258099,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/0z9ORR4GFMXWVuG0GoW3Lr"
@@ -25096,7 +25194,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
@@ -26860,7 +26958,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 208743,
       "name": "VITAMINA",
       "url": "https://open.spotify.com/track/0oGgA6xKoEEZNHY4BzECTH"

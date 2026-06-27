@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170 likes - 157 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 157 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 135 | [The Rakish Young Man with the Whiskahs](https://open.spotify.com/track/1zySHyAUFSbiADrZ8D7EVM) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 3:15 |
 | 136 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
 | 137 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
-| 138 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
-| 139 | [I Got a Song](https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2) | [Hubert Dilworth](https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi), [Richard Huey](https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 5:13 |
+| 138 | [I Got a Song](https://open.spotify.com/track/5JS8gweKWdJvNhFeHG1QB2) | [Hubert Dilworth](https://open.spotify.com/artist/5OZa0iy6rCDE0DcjN92TBi), [Richard Huey](https://open.spotify.com/artist/3T4pCSIeL104D6ELmWvqeP), [Dooley Wilson](https://open.spotify.com/artist/16X8T4VdzB9sHrYSSpIEVB) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 5:13 |
+| 139 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
 | 140 | [Dusty Shoes](https://open.spotify.com/track/5VAifRTKS28serMlKNTEjk) | [Leslie Hutchinson](https://open.spotify.com/artist/453I7yV0T8T3WfOgnupSru) | [Two of a Kind: Leslie Hutchinson & Helen Forrest](https://open.spotify.com/album/4RVL3CzR3kA1rbUdu7gf5V) | 3:09 |
 | 141 | [Liza Crossing the Ice](https://open.spotify.com/track/3zZ3tmzNHoFleGGavyVRJ8) | [Toni Hart](https://open.spotify.com/artist/2KVOqll0LjBIBf4CQoAfjG) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
 | 142 | [The Silent Spring](https://open.spotify.com/track/4h3phM00ye2mPNlApzsLb8) | [Harold Arlen & E.Y\. Harburg](https://open.spotify.com/artist/5EnuL6cT11qbEZDeGkIQ6p), [Karie L Kerner](https://open.spotify.com/artist/0RZbptzEPJGRadumBiTXEK) | [Arlen, Berlin, Gershwin, Rodgers And Hart](https://open.spotify.com/album/5MkZ8tH9GAQPrfCI95GPiR) | 1:54 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 156 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 157 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcVMpgAAAABipKi8sigHOE9bHroL8duC`
+Snapshot ID: `AcVSRgAAAAAuRs93vhamta34IfdY2Ay+`

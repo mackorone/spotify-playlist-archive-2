@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,695 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,685 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,14 +88,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 78 | [Hills of Mexico](https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Hills of Mexico](https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN) | 5:51 |
 | 79 | [Over That Road I'm Bound To Go](https://open.spotify.com/track/3QUZMLP8YbBZ4N4e7Gib3s) | [Joachim Cooder](https://open.spotify.com/artist/0bN5TvJmFG5wz4CXBP4JpF) | [Over That Road I'm Bound](https://open.spotify.com/album/2xBvL6zCRnUcKIQiP1B1Zb) | 3:44 |
 | 80 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 |
-| 81 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 |
-| 82 | [Spinning Plates](https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [Spinning Plates](https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0) | 2:46 |
+| 81 | [Spinning Plates](https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [Spinning Plates](https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0) | 2:46 |
+| 82 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 |
 | 83 | [Lawrence of Arcadia](https://open.spotify.com/track/6CtJBinEpmmJtRw4NLUYS7) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 4:45 |
 | 84 | [High and Low \(Acoustic\)](https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Fall \(Deluxe\)](https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu) | 2:47 |
 | 85 | [Lorraine](https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Lorraine](https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA) | 4:33 |
-| 86 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
-| 87 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
-| 88 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
+| 86 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
+| 87 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
+| 88 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
 | 89 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 90 | [Avalon \(with Francesco Turrisi\)](https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:54 |
 | 91 | [The Fray \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:09 |

@@ -807,6 +807,22 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
         "name": "Leva-Me Al\u00e9m (One ao Vivo)",
         "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+        "name": "Grito de Katsbarnea",
+        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
       },
       "artists": [
         {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Katsbarnea",
+          "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
         }
       ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+      "duration_ms": 208695,
+      "name": "Grito de Katsbarnea",
+      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Grito de Katsbarnea",
-        "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
-      },
-      "artists": [
-        {
-          "name": "Katsbarnea",
-          "url": "https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Grito de Katsbarnea",
-      "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Pr\u00f3digo",
         "url": "https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Boom!",
         "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 182976,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
-      },
-      "artists": [
-        {
-          "name": "Ana Diniz",
-          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
-        }
-      ],
-      "duration_ms": 240805,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "S\u00f3 na Sua Gra\u00e7a",
         "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 258282,
       "name": "S\u00f3 na Sua Gra\u00e7a",
       "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
+      },
+      "artists": [
+        {
+          "name": "Ana Diniz",
+          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
+        }
+      ],
+      "duration_ms": 240805,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
     },
     {
       "added_at": "2026-04-24 19:01:02",

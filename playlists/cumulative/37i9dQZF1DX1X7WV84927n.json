@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers. Cover: Motionless In White\n",
+  "description": "For full-volume lovers. Cover: Return to Dust",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 212720,
       "name": "(I'm a) Rock \"N\" Roller",
       "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
@@ -726,6 +726,24 @@
       "duration_ms": 204296,
       "name": "A.L.O.N.E.",
       "url": "https://open.spotify.com/track/27hYsmEv0oxDiCRtaePHHq"
+    },
+    {
+      "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276096,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
     },
     {
       "album": {
@@ -3908,7 +3926,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 175964,
       "name": "Brown Paper Bag (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/6AQocHBa5FVwjHoqFgzjze"
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 199885,
       "name": "click. (feat. RinRin)",
       "url": "https://open.spotify.com/track/31SDr9rigBS5PC5SDNC0da"
@@ -6105,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+    },
+    {
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -6920,7 +6956,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 176458,
       "name": "Die In Your Arms",
       "url": "https://open.spotify.com/track/7lgbZBmlIyDcB0IIJlePly"
@@ -9171,6 +9207,24 @@
     },
     {
       "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249293,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
+    },
+    {
+      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/1BAZfqnxagI9RNfIVr8FwQ"
       },
@@ -9182,7 +9236,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 537893,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/1l4wuA9vt7ZoICrFDtAjiM"
@@ -11020,6 +11074,32 @@
       "duration_ms": 193548,
       "name": "GONE, GONE, GONE",
       "url": "https://open.spotify.com/track/4J0X4ibFtO99iXUmu8GS4I"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3Rztyte6q2QPHnKSRxuSJ5"
+      },
+      "artists": [
+        {
+          "name": "Joshua Roberts",
+          "url": "https://open.spotify.com/artist/5KrUtVY5gE9p9U52TT42rR"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168303,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2TcN0bwzNKXDZDV6yhFnBM"
     },
     {
       "album": {
@@ -20102,6 +20182,28 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        },
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ"
       },
       "artists": [
@@ -20733,6 +20835,24 @@
     },
     {
       "album": {
+        "name": "Play Dead",
+        "url": "https://open.spotify.com/album/4qTdW5pNnPSzWMRXxVGCPz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/48fiPDRk7FPmNAgefKIILW"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
       },
@@ -20816,7 +20936,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177818,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/4phe0AvLkThMWdjXi2W3GP"
@@ -21366,7 +21486,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 218988,
       "name": "Put Me In A Padded Room",
       "url": "https://open.spotify.com/track/3gWyXmPr8MO1JclKZYSJIC"
@@ -25635,6 +25755,24 @@
     },
     {
       "album": {
+        "name": "Sweet Escape",
+        "url": "https://open.spotify.com/album/3eHChYoYd4IKPDnflk5fWo"
+      },
+      "artists": [
+        {
+          "name": "Return to Dust",
+          "url": "https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191857,
+      "name": "Sweet Escape",
+      "url": "https://open.spotify.com/track/3TIcdBMwO0edjegqERapnm"
+    },
+    {
+      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB"
       },
@@ -26946,7 +27084,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 221643,
       "name": "The Men",
       "url": "https://open.spotify.com/track/6afshpOjSY8Ya91rF8Vsyo"
@@ -30844,6 +30982,24 @@
       "duration_ms": 264248,
       "name": "Whisper of a Dream",
       "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
+    },
+    {
+      "album": {
+        "name": "White Butterflies",
+        "url": "https://open.spotify.com/album/3fguZR5Upd9GbKR5zKqsOg"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182782,
+      "name": "White Butterflies",
+      "url": "https://open.spotify.com/track/2fU5LkTqwTHGbbLkIkLCm9"
     },
     {
       "album": {

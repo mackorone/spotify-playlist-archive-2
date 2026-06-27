@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-458 songs - 1 day 10 hr 46 min
+459 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 | 2023-05-19 |  |
 | [HOT SPOT](https://open.spotify.com/track/7ySxS4T7m30PmljNgTl1M9) | [Sam Hankins](https://open.spotify.com/artist/247stQu5JNHdlL5QguVthj) | [HOT SPOT](https://open.spotify.com/album/5CDTFPJ9aOAGjbKVhJ0WrR) | 4:33 | 2021-08-02 |  |
 | [Humpty Dumpty \- 2006 Remastered Version](https://open.spotify.com/track/3rzenzs3lpi1XljKsZQ2Bl) | [Marc Moulin](https://open.spotify.com/artist/6n6ot5JVa8YO9z82eNbvd8) | [Placebo Years 1971 \- 1974](https://open.spotify.com/album/32RhsGaO9HlMiA8h4Vcnxd) | 2:32 | 2020-10-09 |  |
+| [Hypnotic](https://open.spotify.com/track/4j95thWu0vNFOB1qWKkxV9) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Hypnotic](https://open.spotify.com/album/2J7s7Zo6TNPeKSYnAVz2KF) | 6:39 | 2026-06-26 |  |
 | [I Can't Get Enough](https://open.spotify.com/track/0KfQn6DHPUM0uwXPdofn30) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [I Can't Get Enough](https://open.spotify.com/album/7crmaW8Z1HEy4wKmbUtj2x) | 2:45 | 2023-07-21 | 2023-08-20 |
 | [I Can't Get Enough \- Live](https://open.spotify.com/track/0OKkwSP8g0yt5grOVxfZlJ) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [LIVE](https://open.spotify.com/album/359rFc1v3kX1prkjLXU7dY) | 2:45 | 2023-07-21 | 2023-09-16 |
 | [I Feel the Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel the Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 | 2024-04-05 |  |
@@ -297,7 +298,7 @@
 | [Rat Trap](https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap](https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr) | 3:58 | 2023-04-07 | 2023-05-23 |
 | [Rat Trap](https://open.spotify.com/track/5cNAj31GnRDzfDSDzxGrJV) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap / Chop Bop](https://open.spotify.com/album/1wsuzhNttnB9TD455c7Eie) | 3:58 | 2023-04-07 | 2023-07-15 |
 | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 6:36 | 2020-10-09 |  |
-| [Red Lights](https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab) | [Kindred](https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y) | 3:39 | 2025-11-07 |  |
+| [Red Lights](https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Alex Parchment](https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab) | [Kindred](https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y) | 3:39 | 2025-11-07 | 2026-06-27 |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-11-26 | 2023-03-11 |
 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/5qbgtET7uO7gxnFW0qdO5b) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 | 2023-05-05 | 2024-07-27 |
 | [Respond to Sound](https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Respond to Sound](https://open.spotify.com/album/5cce7khO3pymis7LZ4kuoR) | 3:11 | 2026-03-27 |  |

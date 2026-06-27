@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Afsana Khan",
+  "description": "Catch the queens of Punjabi Pop. Cover: Simiran Kaur Dhadli",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 201900,
       "name": "BAAZIGARA",
       "url": "https://open.spotify.com/track/0oZj0yIo556j8UfXqRwGid"
@@ -1902,6 +1902,28 @@
       "duration_ms": 136114,
       "name": "Gustakhi",
       "url": "https://open.spotify.com/track/2khgycGenz8WXa8DgH0fGH"
+    },
+    {
+      "album": {
+        "name": "Haal Mittra",
+        "url": "https://open.spotify.com/album/6JMD95X5h8Wz3QJUDjyZ4d"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157615,
+      "name": "Haal Mittra",
+      "url": "https://open.spotify.com/track/1UgfPvdUJLi6J4jNQ86M8V"
     },
     {
       "album": {

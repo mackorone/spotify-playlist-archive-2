@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Ella Langley, Morgan Wallen and the biggest hits in country music.",
+  "description": "Shaboozey, and the biggest hits in country music.",
   "name": "All About Country",
   "tracks": [
     {
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 193194,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N"
@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/65gNyEH6q3vRL2zbq49o58"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/6T5iPB8vNjnnn6NDnCynFl"
+    },
+    {
+      "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
       },
@@ -3578,6 +3596,24 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176065,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
       "album": {
@@ -4430,6 +4466,24 @@
       "duration_ms": 218806,
       "name": "Don't It Sound Alright",
       "url": "https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK"
+    },
+    {
+      "album": {
+        "name": "Don't Ruin Flowers",
+        "url": "https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Don't Ruin Flowers",
+      "url": "https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX"
     },
     {
       "album": {
@@ -6030,7 +6084,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
@@ -7792,6 +7846,24 @@
       "duration_ms": 216818,
       "name": "i hope i never fall in love",
       "url": "https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6"
+    },
+    {
+      "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
       "album": {
@@ -12127,6 +12199,28 @@
     },
     {
       "album": {
+        "name": "Phone, Keys, Wallet",
+        "url": "https://open.spotify.com/album/4XB9IlDBDCdp4AcSGYMkFY"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "Phone, Keys, Wallet",
+      "url": "https://open.spotify.com/track/4JiYE3QxSX59KSx9Q4pHWa"
+    },
+    {
+      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
       },
@@ -12921,6 +13015,24 @@
     },
     {
       "album": {
+        "name": "Rich Man",
+        "url": "https://open.spotify.com/album/78IR1hz496NTybRtyjdmjq"
+      },
+      "artists": [
+        {
+          "name": "Brock Phillips",
+          "url": "https://open.spotify.com/artist/3AdkQoDWIwHRHuWTqn96AI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172936,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/4B4xOsvMxt387heY34ATr7"
+    },
+    {
+      "album": {
         "name": "Ride It Out",
         "url": "https://open.spotify.com/album/0spG2WeYDG5WVPHhs8DF0K"
       },
@@ -13188,7 +13300,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 232718,
       "name": "Safe Place To Break",
       "url": "https://open.spotify.com/track/2JiAYxUToEPSOLMe1qm5BA"
@@ -13816,7 +13928,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189537,
       "name": "Sippin' On Top Of The World",
       "url": "https://open.spotify.com/track/4OlnuFIobmWsB9P78Jn8qw"
@@ -14340,7 +14452,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 165460,
       "name": "Something Else",
       "url": "https://open.spotify.com/track/2yXDFQweqY6qi4wVVkXzMT"
@@ -14492,7 +14604,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 226000,
       "name": "Somewhere Over Laredo",
       "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
@@ -15190,6 +15302,24 @@
       "duration_ms": 178207,
       "name": "Summer State Of Mind",
       "url": "https://open.spotify.com/track/6bFTHHpjZJWrJHzFvRheLg"
+    },
+    {
+      "album": {
+        "name": "Sunshine's Free",
+        "url": "https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Sunshine's Free",
+      "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
     },
     {
       "album": {
@@ -17438,7 +17568,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"

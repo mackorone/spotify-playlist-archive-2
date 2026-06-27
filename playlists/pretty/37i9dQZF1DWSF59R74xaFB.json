@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente...  \ud83d\udc96 Kendall Pe\u00f1a en portada.",
-  "num_followers": 558700,
+  "num_followers": 558703,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/2MJO9Nz9hPXJrpGaP6RQm7"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 161249,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 217322,
-      "name": "Aunque Sea Un Momento",
-      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 206253,
       "name": "Caminar de Tu Mano (feat. Fonseca)",
       "url": "https://open.spotify.com/track/0IWBTieCc6wQZ0C4kCHP9q"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 217322,
+      "name": "Aunque Sea Un Momento",
+      "url": "https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Regr\u00e9same Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1NTypzYioS7MHVnIR4d7Uy"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
         "name": "Me Enamor\u00e9 De Ti",
         "url": "https://open.spotify.com/album/01akT8TopYGRiYtyeN0qTU"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
-        "name": "p0rn0graf\u00eda",
-        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 181253,
-      "name": "p0rn0graf\u00eda",
-      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
+      "duration_ms": 214973,
+      "name": "Regr\u00e9same Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1NTypzYioS7MHVnIR4d7Uy"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1383,6 +1367,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
+        "name": "p0rn0graf\u00eda",
+        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "p0rn0graf\u00eda",
+      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
     },
     {
       "added_at": "2026-05-15 16:16:36",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-05-15 16:16:36",
       "album": {
+        "name": "Yahir",
+        "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
+      },
+      "artists": [
+        {
+          "name": "Yahir",
+          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
+        }
+      ],
+      "duration_ms": 304426,
+      "name": "Alucinado",
+      "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
+    },
+    {
+      "added_at": "2026-05-15 16:16:36",
+      "album": {
         "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 175748,
       "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
-    },
-    {
-      "added_at": "2026-05-15 16:16:36",
-      "album": {
-        "name": "Yahir",
-        "url": "https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6"
-      },
-      "artists": [
-        {
-          "name": "Yahir",
-          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
-        }
-      ],
-      "duration_ms": 304426,
-      "name": "Alucinado",
-      "url": "https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX"
     },
     {
       "added_at": "2026-05-15 16:16:36",

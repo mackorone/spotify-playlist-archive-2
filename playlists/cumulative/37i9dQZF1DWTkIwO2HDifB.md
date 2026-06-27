@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: Oldilla, MC Iguinho Ct, MC Willian, Aaron Modesto, MC Negão Original, DU'L, Dj Aladin GDB
+> Os funks mais 🔑 do Brasil / Foto: Dj Brenno Paixão, Mac Julia, MC Rica
 
 444 songs - 1 day 2 hr 27 min
 

@@ -2,9 +2,9 @@
 
 ### [La Tierra del Corrido](https://open.spotify.com/playlist/37i9dQZF1DWXjOlK5exuVE)
 
-> Historias que hacen historia\.  en portada\. El Fantasma y Los Huracanes del Norte en portada.
+> Historias que hacen historia\. Beto Quintanilla en portada.
 
-334 songs - 17 hr 29 min
+335 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [EL CONDOR](https://open.spotify.com/track/0tl5Z2vFPz2WYqBzomoDnG) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [HNOS ESPINOZA, VOL\. 5](https://open.spotify.com/album/30SeBiikKTNNzmWzPWLPRo) | 2:56 | 2025-08-14 |  |
 | [El Condor \- En Vivo](https://open.spotify.com/track/2o4p414bvj7TDMPz9P5V1r) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Andamos Borrachos Todos \(En Vivo\)](https://open.spotify.com/album/3MOubKmfYOGZekl7bBwaXP) | 3:16 | 2025-03-28 | 2025-08-15 |
 | [El Consentido](https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Consentido](https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm) | 3:21 | 2024-05-24 | 2024-12-14 |
+| [El Corrido De Damasio Fuentes](https://open.spotify.com/track/2c5rJcHVcMlVBkrfbBrDQu) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [El Corrido De Damásio Fuentes](https://open.spotify.com/album/2mhQsA1iwQY5Y4JV4SINZx) | 3:05 | 2026-06-26 |  |
 | [El Corrido de la Caravana](https://open.spotify.com/track/3IjorbRhzPk6FnBcjpXpmh) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [El Corrido de la Caravana](https://open.spotify.com/album/401IAnREcclLXMWRLWMDKl) | 5:44 | 2023-02-03 | 2023-08-23 |
 | [El Corrido de Milo Vela](https://open.spotify.com/track/1FvNYJei932TIqXsyHkAhG) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/4wSDu2770UGHS1FH3yjF43) | 3:30 | 2023-02-03 | 2023-09-01 |
 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 | 2023-08-22 | 2024-02-15 |

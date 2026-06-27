@@ -10988,7 +10988,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 279341,
       "name": "Ghayeb",
       "url": "https://open.spotify.com/track/73JlqL415zZh8mef83ZqtJ"
@@ -13947,6 +13947,24 @@
     },
     {
       "album": {
+        "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/6DHSNgqNTbHhm70FURboEj"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294267,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/1INNUCqzlfdGAVKutAdbHJ"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -15978,7 +15996,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -18054,7 +18072,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 235368,
       "name": "Maool",
       "url": "https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ"
@@ -27530,7 +27548,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -27548,7 +27566,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -30750,7 +30768,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 247719,
       "name": "Wanet Mn Frkakom",
       "url": "https://open.spotify.com/track/6xG5Akfn6HIBexqV5RF22q"
@@ -37532,7 +37550,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 301055,
       "name": "\u064a\u0627 \u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/0w5rkuD14HJGWmoXu60WgN"

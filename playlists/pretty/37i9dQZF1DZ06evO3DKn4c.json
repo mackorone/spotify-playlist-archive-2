@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 41886,
+  "num_followers": 41890,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAB6+demlA6CRUr9Mf/19srr",
+  "snapshot_id": "ajxvgAAAAADY8yblx2jJRQHLvdnq4CDF",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hip Hop Rare",
         "url": "https://open.spotify.com/album/6TejnanlyEl203l8tnsS5C"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 217444,
       "name": "Motivos",
       "url": "https://open.spotify.com/track/4unkavPztEQg9VGdVJI9hK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Eu Te Quero (Remix)",
         "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
       },
@@ -507,6 +491,46 @@
       "duration_ms": 190476,
       "name": "Como Eu Te Quero - Remix",
       "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gord\u00e3o Chefe",
+        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
+      },
+      "artists": [
+        {
+          "name": "DBS Gord\u00e3o Chefe",
+          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        }
+      ],
+      "duration_ms": 331775,
+      "name": "Sinto Muito Baby",
+      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
     },
     {
       "added_at": null,
@@ -543,50 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gord\u00e3o Chefe",
-        "url": "https://open.spotify.com/album/3zlu8V6JkmUBvPn1fZ1b7Y"
-      },
-      "artists": [
-        {
-          "name": "DBS Gord\u00e3o Chefe",
-          "url": "https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        }
-      ],
-      "duration_ms": 331775,
-      "name": "Sinto Muito Baby",
-      "url": "https://open.spotify.com/track/7IZvPErl548WXwqHABeNuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Somos o Mundo",
-      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Free",
-        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
       "artists": [
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 210959,
-      "name": "Sangue de Free",
-      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
+      "duration_ms": 254769,
+      "name": "Somos o Mundo",
+      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+        "name": "Sangue de Free",
+        "url": "https://open.spotify.com/album/1cseH3sATZXHYOAJlZuSd1"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+      "duration_ms": 210959,
+      "name": "Sangue de Free",
+      "url": "https://open.spotify.com/track/1yplC5zrM528Ie26S85zGM"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Homem de Fam\u00edlia",
-      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JARDINEIROS",
         "url": "https://open.spotify.com/album/5RhgokruA7dS8c7rG63ejD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 154413,
       "name": "O RITMO E A RAIVA",
       "url": "https://open.spotify.com/track/4jYaCHJA2Kuu7ETTdBN3Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Homem de Fam\u00edlia",
+      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 234703,
-      "name": "Quem \u00c9 Voce?",
-      "url": "https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insolente",
         "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 214187,
       "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
       "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 234703,
+      "name": "Quem \u00c9 Voce?",
+      "url": "https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG"
     },
     {
       "added_at": null,

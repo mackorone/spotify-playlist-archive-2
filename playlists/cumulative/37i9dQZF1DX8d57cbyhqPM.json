@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 365026,
       "name": "Altress (feat. Michka Ngandu)",
       "url": "https://open.spotify.com/track/4AGwo7ic94ivqnWjJqK8Es"
@@ -1390,6 +1390,24 @@
       "duration_ms": 206000,
       "name": "Baza Ba Skivere",
       "url": "https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7"
+    },
+    {
+      "album": {
+        "name": "Be my Valentine ? / MR. DJ",
+        "url": "https://open.spotify.com/album/6QjQrPLjMDI2TMFc5ykWnT"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "Be my Valentine ?",
+      "url": "https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF"
     },
     {
       "album": {

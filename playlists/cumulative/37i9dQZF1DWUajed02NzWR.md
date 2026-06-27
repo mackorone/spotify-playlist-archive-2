@@ -4,7 +4,7 @@
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-117 songs - 9 hr 7 min
+118 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Schumann: Widmung, Op\. 25 No\. 1 \(Arr\. Liszt, S\. 566a\)](https://open.spotify.com/track/5U7T2widXE5MqoQ6dmi3O9) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Martin James Bartlett](https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O) | [Love and Death \- Widmung \(Liebeslied\)](https://open.spotify.com/album/2BoNvLXV5QNSKpRc8hps7Z) | 3:59 | 2020-09-04 |  |
 | [Schwanenlied](https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Eva Oertle](https://open.spotify.com/artist/11wpb7qpcwo3yLUuQfBsh6), [Consuelo Giulianelli](https://open.spotify.com/artist/4nLTgq8xHMMq7LkcPYCzn6) | [Lake Reflections \- Music for Flute & Harp](https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV) | 2:30 | 2020-09-04 |  |
 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 | 2020-09-04 |  |
+| [Serenade Espagnole, Op\. 20: No\. 2 \- Arr\. String Orchestra by P\. Lyubomudrov](https://open.spotify.com/track/4cyEdlSKrXA79Ju222WGj3) | [Alexander Glazunov](https://open.spotify.com/artist/78t7WfwhjZLkDHN5QKwS5u), [Metamorphose String Orchestra](https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe), [Pavel Lyubomudrov](https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE), [Mikael Samsonov](https://open.spotify.com/artist/5KXxg0B1k9cA7LPqFXA3Me) | [Glazunov: Serenade Espagnole, Op\. 20: No\. 2 \(Arr\. String Orchestra by P\. Lyubomudrov\)](https://open.spotify.com/album/6dZPpKO4BfhZANStnmLboC) | 2:40 | 2026-06-26 |  |
 | [Serenade in B\-Flat Major, K\. 361 "Gran Partita": III\. Adagio](https://open.spotify.com/track/0XkcuWNLacWDwEDmvq4CCy) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Mozart, W.A.: The Wind Concertos / Serenades / Divertimenti](https://open.spotify.com/album/4fYVRN0xLtr6dJBk61ls5T) | 5:30 | 2020-09-04 | 2024-04-19 |
 | [Serenade in B\-Flat Major, K\. 361 "Gran Partita": III\. Adagio](https://open.spotify.com/track/5Zf5prtvv7KRQ1J6kNn4C6) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [Mozart: Serenade in B Flat \- "Gran Partita"; Serenade in E Flat](https://open.spotify.com/album/57oAKQUoE6eyKfEuDpf5Ji) | 5:30 | 2020-09-04 |  |
 | [Serenade in B\-Flat Major, K\. 361 "Gran Partita": III\. Adagio](https://open.spotify.com/track/3GVSExgqfWxc7S1bld966u) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Orpheus Chamber Orchestra](https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX) | [50 Masterworks Mozart](https://open.spotify.com/album/4eQYuB3Z0NXFNSlpn1qRZn) | 5:31 | 2020-09-04 | 2022-11-13 |

@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "STREETZ MIXTAPE",
+        "url": "https://open.spotify.com/album/57uX4wTw8fpDFxjwvhtYHJ"
+      },
+      "artists": [
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/0sOkijXePf8GltBTHySvDt"
+    },
+    {
+      "album": {
         "name": "Bonethugs",
         "url": "https://open.spotify.com/album/5eg5LO51rOWBkQ0EOK6EvN"
       },
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186227,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/0jl8jSK0cF34tny2xGbyic"
@@ -5399,6 +5417,28 @@
     },
     {
       "album": {
+        "name": "Meron Siyang Class",
+        "url": "https://open.spotify.com/album/099tImoG47eIXfm5mD6lh1"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        },
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263137,
+      "name": "Meron Siyang Class",
+      "url": "https://open.spotify.com/track/7vBfUPu4C7tvm9Vu6njwzp"
+    },
+    {
+      "album": {
         "name": "MINAHALAGAD",
         "url": "https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD"
       },
@@ -5948,7 +5988,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 171063,
       "name": "One Take Freestyle",
       "url": "https://open.spotify.com/track/4NWS9UWEiVkbh0lzhO0grt"
@@ -6918,7 +6958,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 224014,
       "name": "RIOT",
       "url": "https://open.spotify.com/track/0bYDan8As94CRmkPrcQxDo"
@@ -6992,6 +7032,48 @@
       "duration_ms": 116541,
       "name": "RUN IT BACK!",
       "url": "https://open.spotify.com/track/4sHXS0s9Oq8I29mKEhaeEZ"
+    },
+    {
+      "album": {
+        "name": "LiFT OFF MiXTAPE",
+        "url": "https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        },
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        },
+        {
+          "name": "Baby Blood",
+          "url": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+        },
+        {
+          "name": "DEMI",
+          "url": "https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304375,
+      "name": "SA GABE",
+      "url": "https://open.spotify.com/track/3XyIsxrNNGzVUHmbQkANBt"
     },
     {
       "album": {
@@ -8424,7 +8506,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178160,
       "name": "TOTE BAG",
       "url": "https://open.spotify.com/track/1MqcQnd9KLBmQlq7ZgwKJA"
@@ -8460,7 +8542,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149340,
       "name": "TREND",
       "url": "https://open.spotify.com/track/4saBJgL9i3HXrqAosg3dXY"
@@ -8595,6 +8677,32 @@
     },
     {
       "album": {
+        "name": "TWNTY4",
+        "url": "https://open.spotify.com/album/5pIqNh2QwDBWH8CohdAltK"
+      },
+      "artists": [
+        {
+          "name": "c0kebaby torii",
+          "url": "https://open.spotify.com/artist/1AFLKdrbGPlFroEDrR17yH"
+        },
+        {
+          "name": "DSMOKE",
+          "url": "https://open.spotify.com/artist/3wTAExuDlLJW8g87amNQfH"
+        },
+        {
+          "name": "Q3",
+          "url": "https://open.spotify.com/artist/73NSGL3PMW17x2cYmgUWJH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "TWNTY4",
+      "url": "https://open.spotify.com/track/5KLkIQWPwsnCCKWY98a1Ql"
+    },
+    {
+      "album": {
         "name": "TYPE G",
         "url": "https://open.spotify.com/album/7D6cNKjZIdfYDvIR8qfO4z"
       },
@@ -8610,6 +8718,24 @@
       "duration_ms": 149600,
       "name": "TYPE G",
       "url": "https://open.spotify.com/track/0djcOLEtzLk2zgpLZW2QqB"
+    },
+    {
+      "album": {
+        "name": "TYPE KO",
+        "url": "https://open.spotify.com/album/1wtUhFLubthz4HDO40pNhk"
+      },
+      "artists": [
+        {
+          "name": "Louie Grammz",
+          "url": "https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200816,
+      "name": "TYPE KO",
+      "url": "https://open.spotify.com/track/4NyMaEIaJGOxVeKkxghSqN"
     },
     {
       "album": {

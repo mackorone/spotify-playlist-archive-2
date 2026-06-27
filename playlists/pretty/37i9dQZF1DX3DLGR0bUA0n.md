@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,842 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,880 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 67 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
 | 68 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
 | 69 | [30 Cartas](https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Para Que Vuelves](https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY) | 2:12 |
-| 70 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
-| 71 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
+| 70 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
+| 71 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
 | 72 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 |
 | 73 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
 | 74 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 90 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |
 | 91 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
 | 92 | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj) | [Los Hermanos Salgado](https://open.spotify.com/artist/6j5ye5mufTZx40UKVScMvP), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC) | 3:23 |
-| 93 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
-| 94 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |
+| 93 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |
+| 94 | [2 Cruces](https://open.spotify.com/track/5BLvkvcMVRMxEXbuRocGeb) | [Joaquin el Guache](https://open.spotify.com/artist/4ykAZA5ykehQ5GpFmcr677) | [2 Cruces](https://open.spotify.com/album/6UKgOa6D1RQMs1mDec2ZqL) | 3:07 |
 | 95 | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/track/6ggjc8JFAxy0jiKgQmhU3i) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Lupe Reyes \(En Vivo\)](https://open.spotify.com/album/6PVMtefRXmt5aTjS8Iopnc) | 3:00 |
 | 96 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 |
 | 97 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |

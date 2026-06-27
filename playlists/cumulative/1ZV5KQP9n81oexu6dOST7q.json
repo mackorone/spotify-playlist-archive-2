@@ -1995,6 +1995,32 @@
     },
     {
       "album": {
+        "name": "Midnight Echoes",
+        "url": "https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        },
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        },
+        {
+          "name": "Albert RCB",
+          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Midnight Echoes",
+      "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow.  iZaak y Chencho Corleone en portada",
+  "description": "Shawty lo que necesitas es darle flow.  Xavi y De La Rose en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -3168,7 +3168,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
@@ -4170,6 +4170,28 @@
       "duration_ms": 195333,
       "name": "Cuerpecito",
       "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
+    },
+    {
+      "album": {
+        "name": "Cuica",
+        "url": "https://open.spotify.com/album/5tNbZe4vmxZDD2n3lvS9uz"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199914,
+      "name": "Cuica",
+      "url": "https://open.spotify.com/track/0azybKTeKVV2UNeof409O8"
     },
     {
       "album": {
@@ -6755,6 +6777,28 @@
     },
     {
       "album": {
+        "name": "Perreando a Escondidas",
+        "url": "https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7"
+      },
+      "artists": [
+        {
+          "name": "Juicy BAE",
+          "url": "https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130046,
+      "name": "Fantasmita",
+      "url": "https://open.spotify.com/track/1my8PFCBBKVKMwKmS6SfgR"
+    },
+    {
+      "album": {
         "name": "Fantas\u00eda",
         "url": "https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ"
       },
@@ -9062,7 +9106,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185142,
       "name": "La Actual",
       "url": "https://open.spotify.com/track/499nhgaBGU6JfXteFofl4e"
@@ -13809,6 +13853,28 @@
     },
     {
       "album": {
+        "name": "NOTA",
+        "url": "https://open.spotify.com/album/7AQ1vE4tY1dMceu9sTTyfO"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167106,
+      "name": "NOTA",
+      "url": "https://open.spotify.com/track/7zCBT5SUMOHkuUnTZHyNQC"
+    },
+    {
+      "album": {
         "name": "Noventa (with J Balvin)",
         "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
       },
@@ -15061,6 +15127,28 @@
     },
     {
       "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
+    },
+    {
+      "album": {
         "name": "PERDIDA",
         "url": "https://open.spotify.com/album/2rzC5prMJJf2kfIEPdnXWc"
       },
@@ -15094,7 +15182,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 243319,
       "name": "PERDISTE EL EMMY.",
       "url": "https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6"
@@ -17250,6 +17338,32 @@
       "duration_ms": 180170,
       "name": "ROMANCE",
       "url": "https://open.spotify.com/track/2tkQXP7XlPbtNKj99NepLa"
+    },
+    {
+      "album": {
+        "name": "ROMANCE MARGINAL",
+        "url": "https://open.spotify.com/album/2u8OvKylkt2cMw0PvUQi4a"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "ROMANCE MARGINAL",
+      "url": "https://open.spotify.com/track/3jBMYfGQyqSCUxiYwVNKeb"
     },
     {
       "album": {
@@ -20402,7 +20516,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162289,
       "name": "TRANKAITO",
       "url": "https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN"
@@ -21000,7 +21114,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167960,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra"
@@ -21174,7 +21288,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
@@ -21510,6 +21624,32 @@
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/5SyoYI1kqC57pTJOvtaBxk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/1Iwb0Vf6uYL2Zys1SiTO6j"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,715 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,722 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 45 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 | 46 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Re:ZERO Music](https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
 | 47 | [Petals](https://open.spotify.com/track/1OslJG115ssBaUScyGVopF) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [Petals \(feat\. 夏背\)](https://open.spotify.com/album/4MPJBkBa0Ewh17yWjOLC9D) | 2:52 |
-| 48 | [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 |
-| 49 | [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 |
-| 50 | [月に向かって撃て](https://open.spotify.com/track/2aQpmTVc26tkNVChUYzZcS) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [月に向かって撃て](https://open.spotify.com/album/5aZz8n89Y0VpdCEioB05NS) | 3:13 |
+| 48 | [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 |
+| 49 | [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 |
+| 50 | [BABY](https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [BABY](https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG) | 3:50 |
 
 Snapshot ID: `AAAAAPkxJUF5tes3WId7ZNMswZhioN/t`

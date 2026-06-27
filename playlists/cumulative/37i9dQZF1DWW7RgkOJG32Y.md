@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Cody Johnson
+> Trending for a reason \- the home of country's future monster hits\. Cover: Jelly Roll
 
-666 songs - 1 day 11 hr 59 min
+669 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 | 2025-04-04 | 2025-09-07 |
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-12-31 | 2022-05-20 |
 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 | 2025-10-24 | 2026-05-02 |
+| [Cigarette Burns](https://open.spotify.com/track/5lg7kVzuf0zpnbcgPNfmt3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Cigarette Burns](https://open.spotify.com/album/69YV3IXNEn03rJAJiht2zC) | 2:41 | 2026-06-26 |  |
 | [Close to You](https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Close to You](https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ) | 3:45 | 2022-01-28 | 2022-10-08 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-10-02 | 2024-04-19 |
 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 | 2023-08-04 | 2024-07-06 |
@@ -174,7 +175,7 @@
 | [Drunk Love](https://open.spotify.com/track/18ZbxBOI520oLWi4SlIblW) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:00 | 2025-03-28 | 2025-07-19 |
 | [Dyin' Flame](https://open.spotify.com/track/1DNG22ZpedEFqCkJoj4Ibs) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Dyin' Flame](https://open.spotify.com/album/5LHo3GORejajFOvWzMKlVa) | 2:54 | 2025-04-25 | 2025-10-25 |
 | [Emerald City](https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC) | 2:16 | 2025-12-05 | 2026-06-13 |
-| [Empty Words](https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Empty Words](https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow) | 2:32 | 2026-02-27 |  |
+| [Empty Words](https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Empty Words](https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow) | 2:32 | 2026-02-27 | 2026-06-27 |
 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 | 2025-03-29 |
 | [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 | 2023-12-15 | 2024-03-30 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-07-07 | 2023-06-02 |
@@ -236,6 +237,7 @@
 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 | 2024-02-09 | 2024-06-08 |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-09-02 | 2023-04-15 |
 | [Hands Of Time](https://open.spotify.com/track/2XZobkFLKJKBaH9yKpAB2B) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hands Of Time](https://open.spotify.com/album/6YPblznaikFmGivA9dOUac) | 3:32 | 2025-05-02 | 2025-06-21 |
+| [Hands Up](https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au) | 3:14 | 2026-06-26 |  |
 | [Happen To Me](https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Happen To Me](https://open.spotify.com/album/5FzT4YTYR95DHUhUkKWjvb) | 3:03 | 2025-02-28 | 2025-12-06 |
 | [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-09-27 | 2025-02-22 |
 | [Happy in This Bar](https://open.spotify.com/track/1Gp7GfpmFy7DTYAWZ5wERJ) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Happy in This Bar](https://open.spotify.com/album/6Ibrf4RYLLKOYFQGNO7xFl) | 2:37 | 2021-12-17 | 2022-09-24 |
@@ -622,6 +624,7 @@
 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 | 2024-09-20 | 2025-01-11 |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-10 | 2022-10-01 |
 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 | 2022-04-01 | 2022-06-25 |
+| [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 | 2026-06-26 |  |
 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 | 2022-01-14 | 2022-07-30 |
 | [Where It Ends](https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Where It Ends](https://open.spotify.com/album/7bLUJsXoEiVopKhg1syj2l) | 2:59 | 2022-09-09 | 2023-05-06 |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-09-20 | 2025-04-12 |

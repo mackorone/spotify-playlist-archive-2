@@ -4,7 +4,7 @@
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 47 min
+114 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 | 2023-10-10 | 2026-06-07 |
 | [Like a Girl](https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:04 | 2023-10-10 |  |
 | [Lingerie](https://open.spotify.com/track/3MtLXxxfzxke0Zfe7qwYW3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:21 | 2024-05-29 | 2024-07-20 |
-| [Little Black Cat](https://open.spotify.com/track/4xuiFs4ybA9EVHaNhUomsX) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:22 | 2026-06-07 |  |
+| [Little Black Cat](https://open.spotify.com/track/4xuiFs4ybA9EVHaNhUomsX) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:22 | 2026-06-07 | 2026-06-27 |
 | [Lizzie Borden](https://open.spotify.com/track/0TUxk2H9jyST2rpaF0OoHr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 2:37 | 2023-10-10 | 2024-11-09 |
 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-03-02 |  |
 | [Luv It](https://open.spotify.com/track/3LTyuPKZiIGdhRtP2SHjqh) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:03 | 2024-05-19 | 2024-07-24 |
@@ -107,6 +107,7 @@
 | [T\-Baby](https://open.spotify.com/track/2HHaYdkENryMPvJuwvZ1ss) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v) | 3:15 | 2024-05-10 | 2024-07-24 |
 | [T\-Baby](https://open.spotify.com/track/5huAmqGGPjKQDztp1gd22J) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Lizzobangers](https://open.spotify.com/album/32UJ8XJogn6T8JSENLETMS) | 3:15 | 2025-02-28 | 2025-03-03 |
 | [Tempo \(feat\. Missy Elliott\)](https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 | 2023-10-10 |  |
+| [That GRRRL](https://open.spotify.com/track/0oHri1omd5Y4p394zQQiOs) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:10 | 2026-06-27 |  |
 | [The Fade](https://open.spotify.com/track/2InsYVVlqME5FHbOAEddOJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 2:59 | 2024-05-13 | 2024-06-27 |
 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 | 2023-10-10 |  |
 | [Too Nice](https://open.spotify.com/track/2vvqy5quCrUQTEUfZKhOsD) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 1:52 | 2026-06-07 |  |

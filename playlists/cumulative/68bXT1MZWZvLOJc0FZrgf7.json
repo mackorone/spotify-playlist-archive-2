@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 197801,
       "name": "Can I Take You Home",
       "url": "https://open.spotify.com/track/24B0ePrVEASYgMp3MyxSWs"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167926,
       "name": "Club Bizarre",
       "url": "https://open.spotify.com/track/2hhDb4rGCJTigdadpRL30x"
@@ -3008,7 +3008,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207149,
       "name": "Come Find Me (with Clementine Douglas)",
       "url": "https://open.spotify.com/track/71Zw15qOwDpmQTPbFVPp13"
@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -5066,6 +5066,28 @@
       "duration_ms": 152346,
       "name": "Everything + Nothing (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/6WPTuvAWWhCG7WhvSy4qTp"
+    },
+    {
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "Everything's Fine (PM)",
+      "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
     },
     {
       "album": {
@@ -9363,6 +9385,28 @@
     },
     {
       "album": {
+        "name": "LIEBE",
+        "url": "https://open.spotify.com/album/2lLTCsHzjPWvfVbe1bmV91"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210996,
+      "name": "LIEBE",
+      "url": "https://open.spotify.com/track/5VSBmKQItts45sCFdW7Z7F"
+    },
+    {
+      "album": {
         "name": "LIES",
         "url": "https://open.spotify.com/album/6ESKVbNi4Zgx7OcMkge7dH"
       },
@@ -12116,7 +12160,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 219087,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
@@ -13027,6 +13071,28 @@
     },
     {
       "album": {
+        "name": "Perfect World (Colyn Remix)",
+        "url": "https://open.spotify.com/album/5NhW5o6jmjmp8q0SV6xcZs"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338360,
+      "name": "Perfect World - Colyn Remix",
+      "url": "https://open.spotify.com/track/32kfvYlSJ5P1NM0wWxiZ0v"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC"
       },
@@ -13188,6 +13254,32 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
+    },
+    {
+      "album": {
+        "name": "PLZ HOLD (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/1R2M8bDvkMwoJ7hazDb8tD"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145592,
+      "name": "PLZ HOLD (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp"
     },
     {
       "album": {
@@ -18992,6 +19084,24 @@
       "duration_ms": 237120,
       "name": "YAPAQUE",
       "url": "https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y"
+    },
+    {
+      "album": {
+        "name": "Yellow Top",
+        "url": "https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161522,
+      "name": "Yellow Top",
+      "url": "https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5"
     },
     {
       "album": {

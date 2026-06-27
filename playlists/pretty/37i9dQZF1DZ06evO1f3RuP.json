@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 302,
+  "num_followers": 303,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACf5QKbYkI/c13WHB8WKluL",
+  "snapshot_id": "ajxvgAAAAADNZLKqswdJWPYUc/Od/6Ag",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 154213,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
     },
     {
       "added_at": null,
@@ -371,18 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
       "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 137104,
-      "name": "say it back",
-      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
     },
     {
       "added_at": null,
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
       "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
     },
     {
       "added_at": null,

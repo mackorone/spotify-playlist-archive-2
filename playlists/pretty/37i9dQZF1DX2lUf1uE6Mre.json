@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: RAF Camora",
-  "num_followers": 911648,
+  "num_followers": 911628,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Nur Mailbox",
-        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Nur Mailbox",
-      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "art attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 166896,
       "name": "art attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Nur Mailbox",
+        "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Nur Mailbox",
+      "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        },
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "V.T.Z.R.",
         "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
       },
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "Kodex",
+        "url": "https://open.spotify.com/album/7o0nZVcmciQEMApCgzwRkE"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "KODEX",
+      "url": "https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "4LAP",
         "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Kodex",
-        "url": "https://open.spotify.com/album/7o0nZVcmciQEMApCgzwRkE"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "KODEX",
-      "url": "https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 128000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "so einfach",
-        "url": "https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M"
-      },
-      "artists": [
-        {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        }
-      ],
-      "duration_ms": 127776,
-      "name": "so einfach",
-      "url": "https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1207,6 +1191,22 @@
       "duration_ms": 145652,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "so einfach",
+        "url": "https://open.spotify.com/album/79YJNmJTtvOclU8oCkTg7M"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "duration_ms": 127776,
+      "name": "so einfach",
+      "url": "https://open.spotify.com/track/251CNLucRbRn7EjAYuXCgd"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Fashion Killa",
         "url": "https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 132112,
       "name": "Fashion Killa",
       "url": "https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "wya?",
-        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 118360,
-      "name": "wya?",
-      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "REDE",
         "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 118986,
       "name": "REDE",
       "url": "https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Pretty Privilege",
-        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "Pretty Privilege",
-      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "I wanna love you",
         "url": "https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ"
       },
@@ -1667,26 +1651,6 @@
       "duration_ms": 160298,
       "name": "I wanna love you",
       "url": "https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "Viele Jahre",
-        "url": "https://open.spotify.com/album/1FcZdkkqn7vHjL677FBdNF"
-      },
-      "artists": [
-        {
-          "name": "SIL3A",
-          "url": "https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U"
-        },
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Viele Jahre",
-      "url": "https://open.spotify.com/track/48Cj8m9K8c4qOmbsSqklf5"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1711,6 +1675,42 @@
       "duration_ms": 149232,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Pretty Privilege",
+        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "Pretty Privilege",
+      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Viele Jahre",
+        "url": "https://open.spotify.com/album/1FcZdkkqn7vHjL677FBdNF"
+      },
+      "artists": [
+        {
+          "name": "SIL3A",
+          "url": "https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Viele Jahre",
+      "url": "https://open.spotify.com/track/48Cj8m9K8c4qOmbsSqklf5"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "DVD",
-        "url": "https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa"
-      },
-      "artists": [
-        {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
-        }
-      ],
-      "duration_ms": 138582,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/22RP1h38s3HzXr9T8c7nJ8"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 180000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "DVD",
+        "url": "https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "duration_ms": 138582,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
     },
     {
       "added_at": "2026-06-11 22:00:49",

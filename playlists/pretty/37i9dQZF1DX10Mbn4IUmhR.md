@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: MOONGA K.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,523 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,522 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 14 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 15 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 | 16 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 17 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
-| 18 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
+| 17 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
+| 18 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 19 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 20 | [Daylight](https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [The Dichotomy](https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2) | 3:32 |
 | 21 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 54 | [You're My](https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 3:41 |
 | 55 | [Back To You](https://open.spotify.com/track/0fe3svhDknO3X0F2Cy3KXP) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Back To You](https://open.spotify.com/album/6OVeXNQHYeRWkRtnEcm9EC) | 3:14 |
 | 56 | [Lost & Found](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 2:35 |
-| 57 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
-| 58 | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/track/5bugu0yAVStPJF7InoYUEG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/album/55Va9EHIUIhu1dGeFuvUvt) | 3:36 |
+| 57 | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/track/5bugu0yAVStPJF7InoYUEG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Allegedly \(with Teddy Swims\)](https://open.spotify.com/album/55Va9EHIUIhu1dGeFuvUvt) | 3:36 |
+| 58 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
 | 59 | [Watermarks](https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Watermarks](https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc) | 3:11 |
 | 60 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
-| 61 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
-| 62 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
+| 61 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 |
+| 62 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
 | 63 | [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 |
 | 64 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
 | 65 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 76 | [Hello Goodbye](https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Hello Goodbye](https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz) | 3:05 |
 | 77 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
 | 78 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
-| 79 | [Figments Of My Imagination](https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Figments Of My Imagination](https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv) | 3:15 |
-| 80 | [Written](https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [Written](https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp) | 3:13 |
+| 79 | [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 |
+| 80 | [Figments Of My Imagination](https://open.spotify.com/track/5KH9u7Z9D1J51uZLNtsscD) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Figments Of My Imagination](https://open.spotify.com/album/3jFjcAeoCIFcbJ2re4WIrv) | 3:15 |
 
 Snapshot ID: `AAAAALwzX6cO+MeXjCAu23AfeXkIdbri`

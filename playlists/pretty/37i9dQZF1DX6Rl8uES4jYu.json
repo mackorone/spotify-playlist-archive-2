@@ -1,13 +1,33 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 230712,
+  "num_followers": 230691,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzyv2k4wTH8rqdhTf4dsZ4GLqs9",
+  "snapshot_id": "AAAAAGA/I8wUoxC9822bPBCeKI90Mrvy",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:15",
+      "album": {
+        "name": "Notes To Self",
+        "url": "https://open.spotify.com/album/6Jv1MBFoTi851GHNIVbbA1"
+      },
+      "artists": [
+        {
+          "name": "Jon Lampley",
+          "url": "https://open.spotify.com/artist/72owFpLlO637hnA5zZnuqP"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/7dczzQ6uU0Wj1CCkuPPuRa"
+    },
     {
       "added_at": "2026-06-12 17:24:25",
       "album": {
@@ -1795,26 +1815,6 @@
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/54N3zI6n5WzpAe7PXUyGuF"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        },
-        {
-          "name": "Spencer Ludwig",
-          "url": "https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ"
-        }
-      ],
-      "duration_ms": 178105,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/5m7iT2XPqtkRDPoDNF5TRG"
     },
     {
       "added_at": "2022-09-02 04:02:00",

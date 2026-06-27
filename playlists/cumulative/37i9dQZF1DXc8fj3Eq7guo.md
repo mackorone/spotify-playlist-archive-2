@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-106 songs - 6 hr 40 min
+107 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Bobo](https://open.spotify.com/track/3pfz2lC3SxolfEeUVo1sPE) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 3:02 | 2026-06-19 |  |
 | [Botswana](https://open.spotify.com/track/1CzcV8k8LoILPQMCGb7Zis) | [Carto](https://open.spotify.com/artist/5PJi5oUz6E3iA2t9IHtXVE), [Midday](https://open.spotify.com/artist/7eKm0PKhNlA36ybLq3fGs0) | [Cartostrophe](https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw) | 2:58 | 2023-09-08 |  |
 | [Cairo](https://open.spotify.com/track/7dPGqNBb89NlmYyc1zkQ8a) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [Cairo](https://open.spotify.com/album/0eZghBruhOmhbF5Uy9nqJR) | 3:16 | 2023-09-08 | 2025-04-12 |
+| [Cairo FM](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Zero](https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y) | 3:01 | 2026-06-26 |  |
 | [CANADA BREEZE](https://open.spotify.com/track/5bZoHEhzsgj49TZR6R7Uc3) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [CLARITY OF MIND](https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc) | 2:42 | 2026-04-17 |  |
 | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/track/6ovxhOjCU6SzPLtfNnzVQk) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca \(feat\. Ayo Maff\)](https://open.spotify.com/album/23neUYDSWEpEPAmQwVxoKk) | 2:43 | 2025-04-17 |  |
 | [Colorado](https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Colorado](https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ) | 3:44 | 2026-05-07 |  |

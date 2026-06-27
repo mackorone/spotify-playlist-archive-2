@@ -3624,7 +3624,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
@@ -5176,6 +5176,24 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "album": {
@@ -7676,7 +7694,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185969,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
@@ -8040,6 +8058,24 @@
       "duration_ms": 196586,
       "name": "Lo Caro y Lo Bueno",
       "url": "https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW"
+    },
+    {
+      "album": {
+        "name": "Lo Pasado Pisado",
+        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Lo Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
     },
     {
       "album": {
@@ -9799,6 +9835,28 @@
     },
     {
       "album": {
+        "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
+        "url": "https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189719,
+      "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
+      "url": "https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina del tiempo",
         "url": "https://open.spotify.com/album/5tVx4LaB6lu9sMCpcwNBda"
       },
@@ -10892,7 +10950,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 132923,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
@@ -12613,6 +12671,28 @@
     },
     {
       "album": {
+        "name": "ROMO",
+        "url": "https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171028,
+      "name": "ROMO",
+      "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"
+    },
+    {
+      "album": {
         "name": "Rompe el Bajo",
         "url": "https://open.spotify.com/album/6h4uKwNFtNHQ6Xl9XmHC4f"
       },
@@ -12704,7 +12784,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 282216,
       "name": "Rubio",
       "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
@@ -15100,7 +15180,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 253260,
       "name": "Un Consejo",
       "url": "https://open.spotify.com/track/2W4axaQ0cAiEYn9FFvrnXk"

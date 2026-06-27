@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Rutger van Barneveld
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,195 likes - 42 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,286 likes - 42 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

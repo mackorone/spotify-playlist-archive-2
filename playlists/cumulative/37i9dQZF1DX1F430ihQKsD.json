@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "100 % chill, 100 % Montr\u00e9al avec Beaux L\u00e9on",
+  "description": "100 % chill, 100 % Montr\u00e9al avec Born At Midnite",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -832,6 +832,24 @@
       "duration_ms": 146268,
       "name": "An Introduction",
       "url": "https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp"
+    },
+    {
+      "album": {
+        "name": "Angeline",
+        "url": "https://open.spotify.com/album/3W05GO32qqZ45VxzG5PI6Y"
+      },
+      "artists": [
+        {
+          "name": "Plus!",
+          "url": "https://open.spotify.com/artist/4T3kfNwk72BFFtDhfCONnW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159296,
+      "name": "Angeline",
+      "url": "https://open.spotify.com/track/6CYSIYse8zoxrO8Wa0H2ya"
     },
     {
       "album": {
@@ -3716,7 +3734,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 171523,
       "name": "Demain",
       "url": "https://open.spotify.com/track/40dDHnGYFkSOsfrnUTPgTZ"
@@ -4310,6 +4328,24 @@
       "duration_ms": 178386,
       "name": "Douchebag",
       "url": "https://open.spotify.com/track/3Z9tTtoCgQDUPzQerBg1jv"
+    },
+    {
+      "album": {
+        "name": "Down To The Wire",
+        "url": "https://open.spotify.com/album/1NN37cdEy0sKhZVn7pjRPQ"
+      },
+      "artists": [
+        {
+          "name": "Sara-Danielle",
+          "url": "https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169722,
+      "name": "Down To The Wire",
+      "url": "https://open.spotify.com/track/0DagKFYImY7OibkxGqaG5E"
     },
     {
       "album": {
@@ -6689,6 +6725,24 @@
     },
     {
       "album": {
+        "name": "Eternal BAM Nation",
+        "url": "https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144680,
+      "name": "I Haven\u2019t Forgotten You",
+      "url": "https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY"
+    },
+    {
+      "album": {
         "name": "Better Luck In The Next Life",
         "url": "https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH"
       },
@@ -6780,7 +6834,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 176138,
       "name": "i see red",
       "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
@@ -8052,7 +8106,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 154200,
       "name": "La confr\u00e9rie du N\u00e9ant",
       "url": "https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb"
@@ -9667,6 +9721,24 @@
     },
     {
       "album": {
+        "name": "memory hoarder",
+        "url": "https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS"
+      },
+      "artists": [
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227352,
+      "name": "memory hoarder",
+      "url": "https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU"
+    },
+    {
+      "album": {
         "name": "Memory Leaves",
         "url": "https://open.spotify.com/album/2vO8dYq8oUgDyeJbgDXCBA"
       },
@@ -9940,7 +10012,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 133733,
       "name": "MINUIT ET MOI",
       "url": "https://open.spotify.com/track/4tcZUxRI0li7nhVaEdmpCX"
@@ -11976,7 +12048,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 242070,
       "name": "Plaster",
       "url": "https://open.spotify.com/track/2Uxcxzwhd02rbNJ1bwqfgL"
@@ -13038,7 +13110,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 235768,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF"
@@ -14375,6 +14447,24 @@
     },
     {
       "album": {
+        "name": "Stranger, ik u",
+        "url": "https://open.spotify.com/album/3s4fGOzLojAJmNHBxw1ihU"
+      },
+      "artists": [
+        {
+          "name": "House Mouse",
+          "url": "https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127747,
+      "name": "Stranger, ik u",
+      "url": "https://open.spotify.com/track/4UiRAVdWqKoFsytUqw2wtq"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3btOASnrHiiMAsGX9MOFO6"
       },
@@ -15200,6 +15290,28 @@
       "duration_ms": 149430,
       "name": "Tigers",
       "url": "https://open.spotify.com/track/6kzUpCvFPRrJ3HRhV37Nfb"
+    },
+    {
+      "album": {
+        "name": "HI-FI",
+        "url": "https://open.spotify.com/album/3IH6c5ijayUgXcr6SGwhnI"
+      },
+      "artists": [
+        {
+          "name": "NoKlich\u00e9",
+          "url": "https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih"
+        },
+        {
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "TIME DO HEAL",
+      "url": "https://open.spotify.com/track/1y8exsJcVlVcVy3KszATsI"
     },
     {
       "album": {
@@ -16626,6 +16738,24 @@
       "duration_ms": 174117,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2XfmOPlZzdmSqw8IkkQ5e9"
+    },
+    {
+      "album": {
+        "name": "Worldwide Luv!",
+        "url": "https://open.spotify.com/album/4qaQkxsdWDxTw9TQ8pJtv5"
+      },
+      "artists": [
+        {
+          "name": "JORDANN",
+          "url": "https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Worldwide Luv!",
+      "url": "https://open.spotify.com/track/0xC9C5hsVMhxNJc8hBKTeM"
     },
     {
       "album": {

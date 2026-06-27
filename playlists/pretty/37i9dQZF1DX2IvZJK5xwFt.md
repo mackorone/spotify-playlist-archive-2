@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,065 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,139 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 14 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
 | 15 | [EMERGENCY](https://open.spotify.com/track/61DwccoBCOkJBk1nDveEUV) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [EMERGENCY](https://open.spotify.com/album/7lFL7yxJcLr16mpI1hdbBO) | 3:36 |
 | 16 | [Ritual](https://open.spotify.com/track/7bbMBpP6706PQTzmjFA1se) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ritual](https://open.spotify.com/album/5ALmIZchDuwnbsOAbmhADv) | 3:23 |
-| 17 | [Dollar Bill](https://open.spotify.com/track/2HBr5tc2E0h1SHZSc26EGo) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlatan](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 2:42 |
+| 17 | [Dollar Bill](https://open.spotify.com/track/2HBr5tc2E0h1SHZSc26EGo) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Frozen Charlotte](https://open.spotify.com/album/0VV4lddlDaShTgEzohQ7Jj) | 2:42 |
 | 18 | [Emotionally Unavailable](https://open.spotify.com/track/7o1F6ulLhikRXMNQCHPucR) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Emotionally Unavailable](https://open.spotify.com/album/0DdYnNu0u3iFfbLf0UxlHC) | 2:44 |
 | 19 | [Pennsylvania Turnpike](https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pennsylvania Turnpike](https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ) | 3:40 |
 | 20 | [Mirror](https://open.spotify.com/track/2eVt2Wmtqtdf1BN2HgkSLy) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Mirror](https://open.spotify.com/album/0V7gyAhkYCmmYTBRvSQEEm) | 3:19 |

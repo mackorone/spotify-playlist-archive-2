@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Panda
 
-407 songs - 19 hr 7 min
+408 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [30 Cadeados \- Ao Vivo](https://open.spotify.com/track/4UBTjBOglPqrcDKSLwYHQr) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Paraíso Particular Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA) | 2:47 | 2024-02-09 | 2024-02-22 |
 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 | 2022-08-05 | 2023-11-11 |
 | [50 por Cento](https://open.spotify.com/track/1d7Z2HUkWno2w4452Jaqt6) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [50 por Cento](https://open.spotify.com/album/0rSMQjWcNv9A4zD0XnTFR0) | 2:56 | 2022-03-18 | 2022-05-14 |
-| [90/10 \- Ao Vivo em São Paulo](https://open.spotify.com/track/4DqwiZjicetHqqxl9cUID5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Melhor Que Imaginei \| EP01 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3W1RDXIugXi6OKDTlaNAAw) | 3:06 | 2026-02-27 |  |
+| [90/10 \- Ao Vivo em São Paulo](https://open.spotify.com/track/4DqwiZjicetHqqxl9cUID5) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Melhor Que Imaginei \| EP01 \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/3W1RDXIugXi6OKDTlaNAAw) | 3:06 | 2026-02-27 | 2026-06-27 |
 | [A Cerveja Abre Sozinha \- Ao Vivo](https://open.spotify.com/track/1t7hoiam7urTLzzSTHuSDD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/30YOsTPCOEx3GRXyZhDAMD) | 2:27 | 2024-01-26 | 2024-06-29 |
 | [A Chance É Grande \- Ao Vivo](https://open.spotify.com/track/61sWQqNvF5dv6zijODsSQS) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [A Chance É Grande \(Ao Vivo\)](https://open.spotify.com/album/7MD68wPuwgUpuHjaw3BVKa) | 2:10 | 2025-02-26 | 2026-02-20 |
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2022-12-21 | 2024-02-03 |
@@ -360,6 +360,7 @@
 | [Sua Boca Mente \(You're Still The One\)](https://open.spotify.com/track/5x1ZLsLnKdT6sJ7oIJTEBV) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Sua Boca Mente \(You're Still The One\)](https://open.spotify.com/album/7sp6hQtRhxs3NvCP859GkC) | 3:14 | 2025-10-17 | 2025-12-19 |
 | [Sujeito Homem \- Ao Vivo](https://open.spotify.com/track/2cGRf9skACWnKRK1eLYBJn) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sujeito Homem \(Ao Vivo\)](https://open.spotify.com/album/4zwl5bcTHly4gwYqoiZCcC) | 2:58 | 2024-11-29 | 2025-02-26 |
 | [Sumiu Na Sexta \- Ao Vivo](https://open.spotify.com/track/3cWEn1jo6Ui1SysgZZ5Tw2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Sumiu Na Sexta \(Ao Vivo\)](https://open.spotify.com/album/0UqEKXDvDqP0goxMf4EQWF) | 2:53 | 2025-02-26 | 2025-06-07 |
+| [Só Com Ela \- Ao Vivo](https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Só Com Ela \(Ao Vivo\)](https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD) | 2:48 | 2026-06-26 |  |
 | [Só Não Divulga](https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Não Divulga](https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2) | 2:40 | 2021-12-31 | 2022-03-18 |
 | [TADINHA](https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw) | [Raffa Torres](https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [ALMA \- PARTE 1](https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983) | 3:51 | 2026-06-08 |  |
 | [Te Amar É Meu Talento \- Ao Vivo](https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Te Amar É Meu Talento \(Ao Vivo\)](https://open.spotify.com/album/6WspHQm4g3ZBk44vUr6jDd) | 2:43 | 2026-02-27 | 2026-06-12 |

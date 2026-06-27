@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 17332,
+  "num_followers": 17354,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADIVMU5y5FpqVcvwJRjCBGj",
+  "snapshot_id": "ajxvgAAAAAA3Euv/b7kMSuKQGVMCpWZP",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back In Office",
-        "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
       },
       "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Holy Father",
-      "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+      "duration_ms": 184591,
+      "name": "Ordinary Things",
+      "url": "https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO"
     },
     {
       "added_at": null,
@@ -467,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
       "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 184591,
-      "name": "Ordinary Things",
-      "url": "https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO"
+      "duration_ms": 184000,
+      "name": "Holy Father",
+      "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
     },
     {
       "added_at": null,

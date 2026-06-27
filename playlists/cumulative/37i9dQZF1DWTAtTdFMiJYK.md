@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover: JBABE
 
-440 songs - 1 day 0 hr 38 min
+441 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-05-08 |  |
 | [Maara Makka \- From "Think Indie"](https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t) | [Maara Makka \(From "Think Indie"\)](https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B) | 2:43 | 2026-02-10 |  |
 | [Main Heer Teri](https://open.spotify.com/track/3BAmJqcRP0Mf11YAungMFq) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX) | [Main Heer Teri](https://open.spotify.com/album/4vtES0Tr90HiRlgdXmeMY7) | 3:26 | 2025-04-10 | 2026-04-30 |
+| [Main Tera Deewana](https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht) | [Shyam Sidhawat](https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Rutvij Joshi](https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi) | [Main Tera Deewana](https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66) | 3:40 | 2026-06-26 |  |
 | [Makhmal \(feat\. BLUK\)](https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Priyanshu Soni](https://open.spotify.com/artist/6MB9eP64yx5KQ12VLrXo6p), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r) | [Makhmal \(feat\. BLUK\)](https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx) | 3:17 | 2022-08-08 | 2023-05-19 |
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-11-30 | 2023-01-11 |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2021-12-06 | 2022-03-16 |
@@ -444,7 +445,7 @@
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2021-12-06 | 2022-11-16 |
 | [Yun](https://open.spotify.com/track/6MXxjUljZHV2qsCJg9a9iL) | [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Yun](https://open.spotify.com/album/4XJjKeDY2C7dBez6rezqqS) | 2:32 | 2023-01-10 | 2023-02-25 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2021-12-06 | 2022-11-02 |
-| [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 | 2026-03-10 |  |
+| [Zarii](https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A) | [rohh](https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Zarii](https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS) | 2:51 | 2026-03-10 | 2026-06-27 |
 | [Zindabad Vs Murdabad](https://open.spotify.com/track/3WyDMmK8L85dJo1RiA4swl) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \- Pt\. 1 \| Haal](https://open.spotify.com/album/0UzUJComSbcAgY8e5KXYSP) | 4:00 | 2021-12-06 | 2022-02-01 |
 | [Zindagi Ki Goud Mein](https://open.spotify.com/track/0wA7aUIOOynbdIyF6AIejn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Zindagi Ki Goud Mein](https://open.spotify.com/album/6ZdIpnlVpCcv7ZOS5jC2Ci) | 3:36 | 2021-12-06 | 2022-04-15 |
 | [Zulfe](https://open.spotify.com/track/5Jr6BVsaP2w8YgkFxobTYf) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Zulfe](https://open.spotify.com/album/46guavxrNdZddtM3XouUli) | 2:39 | 2026-06-19 |  |

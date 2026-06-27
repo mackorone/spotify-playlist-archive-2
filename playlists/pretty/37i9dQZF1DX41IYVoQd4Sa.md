@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,022 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,034 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 46 | [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 |
 | 47 | [חסר אונים](https://open.spotify.com/track/4EitUmWkTVNl38N5PRsrwv) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [בשיחות עם עצמי](https://open.spotify.com/album/36v2a5HR2mTKBhgGIbiH75) | 3:26 |
 | 48 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
-| 49 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
-| 50 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
+| 49 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
+| 50 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
 
 Snapshot ID: `AAAAALY2ov3FOb2LPX/feqP+Cx38k9Tm`

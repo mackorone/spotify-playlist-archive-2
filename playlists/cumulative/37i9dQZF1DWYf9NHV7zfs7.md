@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Alejandro Sanz & Yami Safdie
 
-399 songs - 21 hr 23 min
+400 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 | 2023-10-23 | 2026-05-27 |
 | [Mañana](https://open.spotify.com/track/4PsxrLdMFaaYbZn8unq6t4) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [Mañana](https://open.spotify.com/album/1xWpnekynuyo6vEKcHMgSi) | 3:26 | 2024-12-06 | 2025-02-01 |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/5lLsCBBCMQszInFRwgX3QL) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Me Dediqué a Perderte](https://open.spotify.com/album/2Ymv1eZ4yvRQ1YYU8kYz4u) | 3:26 | 2024-09-20 | 2024-12-15 |
-| [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 | 2023-10-23 |  |
+| [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 | 2023-10-23 | 2026-06-27 |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-23 | 2024-10-09 |
 | [Me hablan de vos](https://open.spotify.com/track/6h5r2AfSvK20SR94dq8v6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Me hablan de vos](https://open.spotify.com/album/2bOVjfVekDmy5LUsCZg14o) | 3:20 | 2024-07-26 | 2024-08-17 |
 | [me hace bien](https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Ale Sergi](https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ) | [me hace bien](https://open.spotify.com/album/5d2U9nTionMO2EQgJDVnIF) | 2:49 | 2024-08-02 | 2024-08-17 |
@@ -361,6 +361,7 @@
 | [Te Vas](https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Te Vas](https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d) | 2:38 | 2023-11-17 | 2024-01-23 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2023-07-14 | 2023-10-24 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2023-07-14 | 2023-10-24 |
+| [Toda la vida](https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Toda la vida](https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1) | 4:34 | 2026-06-26 |  |
 | [Todo De Mí](https://open.spotify.com/track/18Sx1W4k6Bbie3twAt2azN) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todo De Mí](https://open.spotify.com/album/6p0QVx7FDgUzSDfoQYpV5L) | 2:54 | 2026-03-06 | 2026-05-07 |
 | [Todo el Día Así](https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Todo el Día Así](https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR) | 3:35 | 2023-10-23 |  |
 | [Tormento de Amor](https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Eclipse](https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS) | 3:45 | 2023-10-23 | 2024-05-11 |

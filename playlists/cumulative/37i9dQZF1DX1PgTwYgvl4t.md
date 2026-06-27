@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-405 songs - 2 day 2 hr 20 min
+405 songs - 2 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,6 @@
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2024-05-09 |  |
 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |
 | [Totally Available](https://open.spotify.com/track/7u5PJy1meljL8c5xXhZ0Ta) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 14 \- Ogayoloo](https://open.spotify.com/album/2il35SOSddOGws33OLG1UI) | 6:30 | 2025-05-30 | 2025-07-04 |
-| [Track 12](https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Intimacy \(Worship Night Ottawa\)](https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r) | 0:00 | 2026-06-26 |  |
 | [Unlimited God \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/0qJqsIsDqChAyXneeHsLdp) | [Olumide Iyun](https://open.spotify.com/artist/7s4JPpeVPMOGeS3eODEheL), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Unlimited God, Vol\. 1](https://open.spotify.com/album/6y4l8GyQ5admjdTNt32XNw) | 6:00 | 2026-04-01 | 2026-04-07 |
 | [Unto The Lord](https://open.spotify.com/track/2Gzy8qkrlxYl95ZBKd73ux) | [Adikamusic](https://open.spotify.com/artist/15GQmLUP6pqPjWqpR0s6dx) | [Unto The Lord](https://open.spotify.com/album/7kMctVUZKzrcsCBSJD4z6s) | 8:24 | 2026-04-10 | 2026-05-08 |
 | [Wait](https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Wait](https://open.spotify.com/album/2PfyWIrTlp8z4TbXffQfvU) | 9:20 | 2025-08-01 | 2025-09-19 |
@@ -364,6 +363,7 @@
 | [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 | 2025-11-28 | 2026-02-13 |
 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 | 2025-10-17 | 2025-12-12 |
 | [We Join Them \- Live](https://open.spotify.com/track/2xX6ZweQwcLFxsdTQxYI6L) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5), [Wa'ti](https://open.spotify.com/artist/3WyUPzwuGu4toJZTDC9quX) | [We Join Them \(Live\)](https://open.spotify.com/album/1lumjiuhBFjFBDWgVIlrtO) | 10:40 | 2026-04-24 | 2026-05-29 |
+| [We Want More \- Live](https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Intimacy \(Worship Night Ottawa\)](https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r) | 5:09 | 2026-06-26 |  |
 | [We Worship You](https://open.spotify.com/track/1NWYu6SPupjCa9Oc5KPNMX) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [We Worship You](https://open.spotify.com/album/5oRoOEcDMVFptq3Tw1PBzo) | 6:12 | 2026-02-27 |  |
 | [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/album/5ngawYJwVt7bRpJwU8m0jX) | 6:26 | 2025-08-01 | 2025-09-19 |
 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 | 2026-01-02 |

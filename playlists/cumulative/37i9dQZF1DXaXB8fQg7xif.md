@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,371 songs - 3 day 1 hr 16 min
+1,372 songs - 3 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-01-21 | 2022-07-29 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-04-01 | 2023-05-27 |
 | [Dancing in My Bed](https://open.spotify.com/track/1VyH25fMkEmPURby4KbX5F) | [Nuschi](https://open.spotify.com/artist/3qVJauDSPQs6rIfV71Tsno) | [Dancing in My Bed](https://open.spotify.com/album/4a1ZSGmloOtVY1gAueCVQS) | 3:12 | 2020-11-14 | 2021-11-09 |
+| [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 | 2026-06-26 |  |
 | [Dancing Shoes](https://open.spotify.com/track/6n9o7RoWEcX9LOrggAq2Sc) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Dancing Shoes](https://open.spotify.com/album/6srhHq4uoGMCSeUeUouTbR) | 3:34 | 2020-05-22\* | 2021-12-21 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-26 | 2023-07-06 |
 | [Dare Me](https://open.spotify.com/track/77BDJDKKWm11KXQh0Sv4Jf) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Tim Morrison](https://open.spotify.com/artist/7jorGtdk1HfscrUyanHXlf) | [Dare Me](https://open.spotify.com/album/4mO6PozqdENP4fB9g8lxZv) | 3:02 | 2020-08-04 | 2022-04-20 |
@@ -1112,7 +1113,7 @@
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-18 | 2024-05-18 |
 | [SOS \- Laidback Luke Tribute Remix / Radio Edit](https://open.spotify.com/track/3eLdNmnRWr9gIyBcqTSSti) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [SOS \(Laidback Luke Tribute Remix\)](https://open.spotify.com/album/7Al4TIo0c5twNLfdOh1y1u) | 2:44 | 2020-05-22\* | 2020-07-01 |
 | [Soul Sacrifice](https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Soul Sacrifice](https://open.spotify.com/album/2CcH3HYEAFwkbdNmhStK9V) | 3:52 | 2020-05-22\* | 2022-04-21 |
-| [Space Pump \(Space Jam\)](https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Space Pump \(Space Jam\)](https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA) | 2:45 | 2025-12-12 |  |
+| [Space Pump \(Space Jam\)](https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Space Pump \(Space Jam\)](https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA) | 2:45 | 2025-12-12 | 2026-06-27 |
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-07-14 | 2023-01-06 |
 | [Stan Smith](https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC) | 3:55 | 2022-04-01 | 2022-04-20 |
 | [Stand By You](https://open.spotify.com/track/6DrbW5cFbwb1JHcdAXO8tD) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s) | [Stand By You](https://open.spotify.com/album/7cLkh2spdpQHV59t3fkwOv) | 2:45 | 2020-11-14 | 2021-12-11 |

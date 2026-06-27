@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 267604,
+  "num_followers": 267642,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Earthshaker",
+      "url": "https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 246293,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Earthshaker",
-      "url": "https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ"
     },
     {
       "added_at": "2024-08-13 17:16:13",

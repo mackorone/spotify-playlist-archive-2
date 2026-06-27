@@ -1,13 +1,249 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Allison Russell",
-  "num_followers": 166766,
+  "description": "A laid-back trip in the folk scene. Cover: Field Guide",
+  "num_followers": 166765,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPE4vWc/totFet2QZjrapNAtbEo",
+  "snapshot_id": "AAAAAMurZHq1+GDkvUzsheYpQnt8jeel",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "You Are Spring!",
+        "url": "https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 276546,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "YOUNG REGAN",
+        "url": "https://open.spotify.com/album/7odkdCGZcEFevFilZZIjn9"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "each man has got a bullet",
+      "url": "https://open.spotify.com/track/7AKQaChEENrHqW2Fo1v9Bz"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "memory hoarder",
+        "url": "https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS"
+      },
+      "artists": [
+        {
+          "name": "l i l a",
+          "url": "https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi"
+        }
+      ],
+      "duration_ms": 227352,
+      "name": "memory hoarder",
+      "url": "https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Autosmile",
+        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Autosmile",
+      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "A Place",
+        "url": "https://open.spotify.com/album/6lM6wae0izfOjTIymSZRAA"
+      },
+      "artists": [
+        {
+          "name": "Sam Drysdale",
+          "url": "https://open.spotify.com/artist/6zWCrZExrSgGtBjCO1jkjY"
+        }
+      ],
+      "duration_ms": 238157,
+      "name": "A Place",
+      "url": "https://open.spotify.com/track/2p47fI0hRZndu8vuKHtYZ2"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Time Has Made a Change",
+        "url": "https://open.spotify.com/album/339zhoNkAfgpHGJQrY8Iqv"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        },
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "Time Has Made a Change",
+      "url": "https://open.spotify.com/track/1an21Jpn1D8roYL6qCJb0g"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Don't Have To Hate You",
+        "url": "https://open.spotify.com/album/2kkz1Lqw6VZpGXlYYNSRjz"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 364270,
+      "name": "Don't Have To Hate You",
+      "url": "https://open.spotify.com/track/2jzHGdHLERxdSAh1yWu7Pe"
+    },
+    {
+      "added_at": "2026-06-19 04:03:01",
+      "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 227727,
+      "name": "America's Greatest Burnout",
+      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/5noSWxJgGvDhYGODTsBowt"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        },
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 167241,
+      "name": "Ant Farm (feat. Wesley Schultz)",
+      "url": "https://open.spotify.com/track/6HIXjUGdtQG2859h9rpNPs"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Itching For Change",
+        "url": "https://open.spotify.com/album/2MjUC70xpzN1tHzel2nQPN"
+      },
+      "artists": [
+        {
+          "name": "Julia Gartha",
+          "url": "https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs"
+        }
+      ],
+      "duration_ms": 180769,
+      "name": "Itching For Change",
+      "url": "https://open.spotify.com/track/1iEqqbD3Od8soArT57LgG7"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Were The Watchtowers",
+        "url": "https://open.spotify.com/album/66Js6ULRXFFd0KBM6FgF9N"
+      },
+      "artists": [
+        {
+          "name": "Dallas Good",
+          "url": "https://open.spotify.com/artist/0dJtWy71D8lV9h8vGvPx4H"
+        },
+        {
+          "name": "Richard Reed Parry",
+          "url": "https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY"
+        }
+      ],
+      "duration_ms": 176489,
+      "name": "Not in This World",
+      "url": "https://open.spotify.com/track/1CLaYfj5aevW18H24cNLLY"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Stragglers I",
+        "url": "https://open.spotify.com/album/2epHxmm0GBPyeZ7KFiAdo4"
+      },
+      "artists": [
+        {
+          "name": "John Shambles",
+          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Making Sense",
+      "url": "https://open.spotify.com/track/6lDnwp05Nuth6Ps84DScVn"
+    },
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
@@ -27,22 +263,6 @@
       "duration_ms": 181373,
       "name": "Black Lavender (ft. Brittney Spencer)",
       "url": "https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "America's Greatest Burnout",
-        "url": "https://open.spotify.com/album/7d5VuuhAWliS8ovhyYp73Q"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 227727,
-      "name": "America's Greatest Burnout",
-      "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -1227,38 +1447,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Total Cinema",
-        "url": "https://open.spotify.com/album/3pVuoiAFlt5h6RTHhe8v8y"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/6wq2T8gARSOQKgiH8sKE5R"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Whistle Song (One in a Million)",
-        "url": "https://open.spotify.com/album/5gxMfNuJt3cWQWqVLio3sR"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Whistle Song (One in a Million)",
-      "url": "https://open.spotify.com/track/34Oqdm9592TyVe4KLJBCUI"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "Take Heart",
         "url": "https://open.spotify.com/album/3lrUZeRSqIbRw79Ps8RWH2"
       },
@@ -1275,22 +1463,6 @@
       "duration_ms": 247202,
       "name": "Take Heart",
       "url": "https://open.spotify.com/track/2nLYQRnMrVzoSRb59V04kl"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "the doubter",
-        "url": "https://open.spotify.com/album/1RZmv4t7Gnlm2uNqgTpvmK"
-      },
-      "artists": [
-        {
-          "name": "Moira & Claire",
-          "url": "https://open.spotify.com/artist/3jCEVKIIkR6ayqeBhPLVxN"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "the doubter",
-      "url": "https://open.spotify.com/track/5l6V5eTXFvCG1yAG6yeVth"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -1487,42 +1659,6 @@
       "duration_ms": 162618,
       "name": "Signs",
       "url": "https://open.spotify.com/track/6MEvF7kFX4xTqmTIbrDHhk"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Hard Pill To Swallow",
-        "url": "https://open.spotify.com/album/32vGmV0oD7y6RUO5vSx17d"
-      },
-      "artists": [
-        {
-          "name": "Somewhere In Between",
-          "url": "https://open.spotify.com/artist/6ilkFAfRoOmI4ESHfmdrCA"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "Hard Pill To Swallow",
-      "url": "https://open.spotify.com/track/3Q3ECs4PnM6OQNX8UU6fXV"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Making Good Time",
-        "url": "https://open.spotify.com/album/785XTW6UrmujrMYTpBG96f"
-      },
-      "artists": [
-        {
-          "name": "Adam Wendler",
-          "url": "https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94"
-        },
-        {
-          "name": "Brady Lee",
-          "url": "https://open.spotify.com/artist/648RtwceZvelnaBXkMc15T"
-        }
-      ],
-      "duration_ms": 176374,
-      "name": "Making Good Time",
-      "url": "https://open.spotify.com/track/1FUh5DRRafCahnEDdc3QzR"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -2051,70 +2187,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/197taNYjpikHAPjkOWctWk"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Woman of the Hour",
-      "url": "https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "SOMEHOW MADE IT OUT",
-        "url": "https://open.spotify.com/album/2WK7bpbUtyKCqIedCqNI3B"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 222513,
-      "name": "SOMEHOW MADE IT OUT",
-      "url": "https://open.spotify.com/track/3squeOqGJzGz3x2WyTJSD3"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Set The Record Straight",
-        "url": "https://open.spotify.com/album/039iDjSz795RXrHgp1SG60"
-      },
-      "artists": [
-        {
-          "name": "Alex Coley & Afterlove",
-          "url": "https://open.spotify.com/artist/33LX3IFolOGYJGiF7mgTmE"
-        }
-      ],
-      "duration_ms": 243629,
-      "name": "Set The Record Straight",
-      "url": "https://open.spotify.com/track/1CbNmVLSMFTBmkOfAZEpKN"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "right by my side",
-        "url": "https://open.spotify.com/album/3KOBVybYa8lG5Ko5PJtZT9"
-      },
-      "artists": [
-        {
-          "name": "Eric Kane",
-          "url": "https://open.spotify.com/artist/1c0It57ov3NYgwdU1trh2Y"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "right by my side",
-      "url": "https://open.spotify.com/track/4PPuGYLJA0PrQObLui6wex"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "Flourish",
         "url": "https://open.spotify.com/album/4hw9GjwwWL0aZs4q7CiQ5F"
       },
@@ -2195,74 +2267,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Long Way to Fall",
-        "url": "https://open.spotify.com/album/6ls4jkkmX2LbNcJeuVCrPj"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 301037,
-      "name": "Long Way to Fall",
-      "url": "https://open.spotify.com/track/6cFzM8VYjUNt6LKtp74Goc"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Adult Contemporary",
-        "url": "https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
-        }
-      ],
-      "duration_ms": 183378,
-      "name": "Somehow",
-      "url": "https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Wishing Moon",
-        "url": "https://open.spotify.com/album/2AdUlZJGxNEI6HJpsspGVl"
-      },
-      "artists": [
-        {
-          "name": "Wintersleep",
-          "url": "https://open.spotify.com/artist/1VrpL9mx2a6WRolLh7mHrE"
-        }
-      ],
-      "duration_ms": 269147,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/1HDl1oOVvhqf5VU6qwVGaI"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "House of Mirrors",
-        "url": "https://open.spotify.com/album/2TvD2HKK2vXZjAD67KDQkU"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "House of Mirrors",
-      "url": "https://open.spotify.com/track/1OztfHjlH6Li4OgmRSEnFq"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "The Landfill",
         "url": "https://open.spotify.com/album/4WbH9XB301NLVeclpbRFbu"
       },
@@ -2279,30 +2283,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Wheels",
-        "url": "https://open.spotify.com/album/41lmDLys2EtjbHkVJxBaxn"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        },
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        },
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 176946,
-      "name": "Wheels - with Babehoven & Billie Marten",
-      "url": "https://open.spotify.com/track/6Tad0GdthV8sEb5bFMB613"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "Back to the Country (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1mTUtx0s01dddppUegYdHO"
       },
@@ -2315,22 +2295,6 @@
       "duration_ms": 185000,
       "name": "Maitland",
       "url": "https://open.spotify.com/track/3S73zNocZTVnl45WkXlV11"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Dream For You",
-        "url": "https://open.spotify.com/album/2S3VmAHo9nbvayQfEMfbh0"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 337467,
-      "name": "Dream For You",
-      "url": "https://open.spotify.com/track/0U1RRuNfZSSKrY1zqjDaRO"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -2447,38 +2411,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "Not Your Fault",
-        "url": "https://open.spotify.com/album/5wsOK1AxkxgkA4fsf6RCTl"
-      },
-      "artists": [
-        {
-          "name": "Slow Leaves",
-          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
-        }
-      ],
-      "duration_ms": 207345,
-      "name": "Not Your Fault",
-      "url": "https://open.spotify.com/track/0PtaFE2n5Pm4iyghmmDBAN"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "genny please!",
-        "url": "https://open.spotify.com/album/5bYJtGZYAMHHWbDh1qVPVl"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "genny please!",
-      "url": "https://open.spotify.com/track/5eFSmlYXFABhaBPH0UO4RG"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
       },
@@ -2527,22 +2459,6 @@
       "duration_ms": 248437,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/3q99nHKtH9hs5n055NRhfd"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Hard to be Human",
-        "url": "https://open.spotify.com/album/3UfxE1ZxRaFoVhORIJY6nq"
-      },
-      "artists": [
-        {
-          "name": "Jon Bryant",
-          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
-        }
-      ],
-      "duration_ms": 209444,
-      "name": "Hard to be Human",
-      "url": "https://open.spotify.com/track/0d6wMI2L9O1h5mHySumYOF"
     },
     {
       "added_at": "2026-06-19 04:03:01",

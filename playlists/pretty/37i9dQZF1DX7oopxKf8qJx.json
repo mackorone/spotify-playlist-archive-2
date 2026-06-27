@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 139921,
+  "num_followers": 139955,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "With Compliments",
-        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 184520,
-      "name": "El Condor Pasa",
-      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 207640,
       "name": "The Summer Knows (From \"Summer of '42\")",
       "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "With Compliments",
+        "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 184520,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Two Pianos Today",
-        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Aldrich and his 2 pianos",
-          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
-        },
-        {
-          "name": "London Festival Orchestra",
-          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
-        }
-      ],
-      "duration_ms": 188880,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "The Third Man - Cinema Gala",
         "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 160000,
       "name": "Moon River - From \"Breakfast At Tiffanys\"",
       "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Two Pianos Today",
+        "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Aldrich and his 2 pianos",
+          "url": "https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT"
+        },
+        {
+          "name": "London Festival Orchestra",
+          "url": "https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -391,22 +391,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
-        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
       "artists": [
         {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 163893,
-      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
-      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -427,18 +423,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+        "name": "The Pops Goes Country (with Boston Pops Orchestra)",
+        "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+      "duration_ms": 163893,
+      "name": "Tennessee Waltz (with Boston Pops Orchestra)",
+      "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Autumn in New York",
+      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Strings Latino",
         "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 205173,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Autumn in New York",
-      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Music From Hollywood",
+        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 351559,
+      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
+      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The Many Moods Of Murry Wilson",
         "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 168666,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Music From Hollywood",
-        "url": "https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 351559,
-      "name": "The Song from 'moulin Rouge' (Where Is Your Heart)",
-      "url": "https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 196666,
       "name": "Melancholy Serenade",
       "url": "https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Latin Hits I Missed",
         "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 133813,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Joy Of Living",
-        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "The Joy Of Living",
-      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Big Band Bash!",
         "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 163400,
       "name": "My Last Affair",
       "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Joy Of Living",
+        "url": "https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "The Joy Of Living",
+      "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Pops Goes West",
         "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 127986,
       "name": "Buttons and Bows",
       "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Hey...Let Yourself Go!",
+        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "You And The Night And The Music",
+      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
     },
     {
       "added_at": "2024-07-17 14:53:29",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6216,
+  "num_followers": 6220,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACuSDaEJwd1PZynGpmlsTAs",
+  "snapshot_id": "ajxvgAAAAADKk+dTjJAQP6hf2gYmTm44",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Lujos De La Vida",
+      "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 209911,
       "name": "Yo, Billetes y Damas",
       "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "Lujos De La Vida",
-      "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 136642,
-      "name": "Que Soy Un Malandro",
-      "url": "https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
         "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
       },
@@ -463,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
       "artists": [
         {
@@ -472,93 +452,13 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 167408,
-      "name": "6 Colores",
-      "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "CHALINOFEST",
-      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Vivo En Los Angeles",
-      "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Carta A Mi Familia",
-      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 190197,
-      "name": "Quintana Roo",
-      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
+      "duration_ms": 136642,
+      "name": "Que Soy Un Malandro",
+      "url": "https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe"
     },
     {
       "added_at": null,
@@ -579,6 +479,90 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 167408,
+      "name": "6 Colores",
+      "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Vivo En Los Angeles",
+      "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "CHALINOFEST",
+      "url": "https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Carta A Mi Familia",
+      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "48th Piso",
         "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 122047,
       "name": "48th Piso",
       "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 190197,
+      "name": "Quintana Roo",
+      "url": "https://open.spotify.com/track/527qFT8pKSgaULC82IAuCs"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
+        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+      "duration_ms": 169386,
+      "name": "El Buenazo",
+      "url": "https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
-        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 169386,
-      "name": "El Buenazo",
-      "url": "https://open.spotify.com/track/1dmMTB71FFbS6HHHG6M28F"
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。<a href="spotify:presents:jaychou16">點此</a>進入「周杰倫16包廂」
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,237 likes - 114 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,277 likes - 114 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

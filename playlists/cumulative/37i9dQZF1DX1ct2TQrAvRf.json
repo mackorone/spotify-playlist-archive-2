@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Navaan Sandhu & Dhanda Nyoliwala",
+  "description": "India's Rap Scene. Cover - Yo Yo Honey Singh",
   "name": "RAP 91",
   "tracks": [
     {
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 140487,
       "name": "From Bihar",
       "url": "https://open.spotify.com/track/07ktr8d2HevKXeibUUQMuA"
@@ -3066,6 +3066,24 @@
       "duration_ms": 185000,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/1lP0yP0eN5Btj0zjFX72r6"
+    },
+    {
+      "album": {
+        "name": "GOD STYLE",
+        "url": "https://open.spotify.com/album/5logHeMLdBwiVTiQuIkA5g"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "GOD STYLE",
+      "url": "https://open.spotify.com/track/1vC0cqMXGJGtkevc8VkwFh"
     },
     {
       "album": {
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 194074,
       "name": "ICEBOY",
       "url": "https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh"
@@ -4894,6 +4912,36 @@
       "duration_ms": 175200,
       "name": "Lock",
       "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
+    },
+    {
+      "album": {
+        "name": "Long Way From Home",
+        "url": "https://open.spotify.com/album/5UjaipV0lFfybbchoHcKy0"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Radhika Bhide",
+          "url": "https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c"
+        },
+        {
+          "name": "Wicked Sunny",
+          "url": "https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa"
+        },
+        {
+          "name": "Cyril Gabriel",
+          "url": "https://open.spotify.com/artist/2netGerqSenOlPiDpObZum"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258711,
+      "name": "Long Way From Home",
+      "url": "https://open.spotify.com/track/5EZhrDgyj2bwyeFbzyLy43"
     },
     {
       "album": {

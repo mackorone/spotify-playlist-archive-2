@@ -1,13 +1,93 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 171145,
+  "num_followers": 171192,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAAHEyADB1fGYQv9Lr5ViixbE4PQq2",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:00:11",
+      "album": {
+        "name": "Love Takes Time",
+        "url": "https://open.spotify.com/album/1HtcgIj9tRSFc4P4erHYL0"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Love Takes Time",
+      "url": "https://open.spotify.com/track/4laUJxMzApsF6NaCYbNUYP"
+    },
+    {
+      "added_at": "2026-06-26 04:00:11",
+      "album": {
+        "name": "With Every Breath I Take",
+        "url": "https://open.spotify.com/album/7GHH4ao90ztbjfuaarfIs6"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 380604,
+      "name": "Being Alive",
+      "url": "https://open.spotify.com/track/5LMmLbumXcvBjtqvOZNDwC"
+    },
+    {
+      "added_at": "2026-06-26 04:00:11",
+      "album": {
+        "name": "They Can't Take That Away From Me",
+        "url": "https://open.spotify.com/album/7EGAMj4rfYgt16lBovxCj7"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/7rh37ZisEBSKLKhcsd82XS"
+    },
+    {
+      "added_at": "2026-06-26 04:00:11",
+      "album": {
+        "name": "Looking at You",
+        "url": "https://open.spotify.com/album/6I02VrCrfuen2S71glS1Rs"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 203053,
+      "name": "Looking at You",
+      "url": "https://open.spotify.com/track/3HXzORnZNKQhTVh7lzYSLF"
+    },
     {
       "added_at": "2026-06-12 04:00:19",
       "album": {
@@ -59,30 +139,6 @@
       "duration_ms": 307567,
       "name": "The Music That Makes Me Dance",
       "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
-    },
-    {
-      "added_at": "2026-06-05 04:00:26",
-      "album": {
-        "name": "Left Over",
-        "url": "https://open.spotify.com/album/1gRIs9MiNmy2g0v9HdiXnv"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 303961,
-      "name": "Left Over",
-      "url": "https://open.spotify.com/track/6OxcEYDt6HzO6gNHTnIAUK"
     },
     {
       "added_at": "2026-06-05 04:00:26",
@@ -427,22 +483,6 @@
       "duration_ms": 181280,
       "name": "Next Spring",
       "url": "https://open.spotify.com/track/0rChXlI7M5KqjzQ2rgs8S0"
-    },
-    {
-      "added_at": "2026-02-06 05:00:24",
-      "album": {
-        "name": "Loads of Love",
-        "url": "https://open.spotify.com/album/1l1LBlpvupv6VAq2PcMByb"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Loads of Love",
-      "url": "https://open.spotify.com/track/5Vk5QkZ5TdkiTENkIUq6Fr"
     },
     {
       "added_at": "2026-02-06 05:00:24",
@@ -1221,22 +1261,6 @@
       "url": "https://open.spotify.com/track/7bKnhhx9spNVHovrH6XZOv"
     },
     {
-      "added_at": "2025-02-21 05:00:17",
-      "album": {
-        "name": "A Dream Is a Wish Your Heart Makes",
-        "url": "https://open.spotify.com/album/2a0bgUmBrurbHyyPUe1sej"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 199712,
-      "name": "A Dream Is a Wish Your Heart Makes",
-      "url": "https://open.spotify.com/track/2DsJEmesdUlHMqaY4nPDrC"
-    },
-    {
       "added_at": "2025-02-28 05:00:30",
       "album": {
         "name": "Cold Cold Rain",
@@ -1819,30 +1843,6 @@
       "duration_ms": 254093,
       "name": "How I Wish",
       "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "I Cover the Waterfront",
-        "url": "https://open.spotify.com/album/0O35zsyZBnWVAJTQSqp1mu"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Alan Hampton",
-          "url": "https://open.spotify.com/artist/0D2V0AdCoK1eKTiJR15nzj"
-        },
-        {
-          "name": "Ted Poor",
-          "url": "https://open.spotify.com/artist/5Stfdr5cRd6Gg9OMYmLR9Y"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "I Cover the Waterfront",
-      "url": "https://open.spotify.com/track/6gzE7AzP73YongOc8OU56N"
     }
   ],
   "unique_name": "Vocal Jazz",

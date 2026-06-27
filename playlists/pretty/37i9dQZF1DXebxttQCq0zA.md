@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,697 likes - 150 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,854 likes - 150 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 149 | [The Slow Horizon](https://open.spotify.com/track/30gYInRpcHDr1iBMTpFy55) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [The Slow Horizon](https://open.spotify.com/album/6N8Ae9PL3bKFmR5cQShP8n) | 2:18 |
 | 150 | [Nebula Bloom](https://open.spotify.com/track/4QbNz0AEjvyXScj9HqUJ7u) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Nebula Bloom](https://open.spotify.com/album/6TafMhPULlgRyNR8twfMvK) | 2:48 |
 
-Snapshot ID: `AAAAADkkcWSLqYHaMoAMaXerO7R9+uUd`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

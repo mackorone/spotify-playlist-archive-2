@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78347,
+  "num_followers": 78357,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -499,30 +499,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
-      },
-      "artists": [
-        {
-          "name": "Across Boundaries",
-          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
-        },
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 384007,
-      "name": "Sakura",
-      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 169411,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
+      },
+      "artists": [
+        {
+          "name": "Across Boundaries",
+          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        },
+        {
+          "name": "Locklead",
+          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+        }
+      ],
+      "duration_ms": 384007,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "TRUE MAGIC, DELUXE",
         "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 255983,
       "name": "gbesoke",
       "url": "https://open.spotify.com/track/2ClKw253thLvImhOHDMk1y"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
     },
     {
       "added_at": "2025-12-03 12:15:55",

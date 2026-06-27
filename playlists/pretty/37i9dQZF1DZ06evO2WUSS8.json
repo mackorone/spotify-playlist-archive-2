@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 15223,
+  "num_followers": 15222,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADqNVCU945fsuLsdZN6dVuw",
+  "snapshot_id": "ajxvgAAAAADmuiBQ6iePBOdqyyB5TpoF",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Bando (feat. Pharrell Williams & Quavo)",
+      "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -363,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bando (feat. Pharrell Williams & Quavo)",
-      "url": "https://open.spotify.com/track/2QfnsYXUpkiCNG56W2aW7I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza"
       },
@@ -399,6 +399,26 @@
       "duration_ms": 289493,
       "name": "Agolo",
       "url": "https://open.spotify.com/track/0epThWIIEZZBBwDaHoMBBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Superwoman (feat. Dadju)",
+      "url": "https://open.spotify.com/track/1vMhKizV77zfuiWZt8zhBK"
     },
     {
       "added_at": null,
@@ -427,6 +447,30 @@
       "duration_ms": 228196,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Africallez",
+        "url": "https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 178032,
+      "name": "Africallez",
+      "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
     },
     {
       "added_at": null,
@@ -484,37 +528,13 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         },
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
         }
       ],
-      "duration_ms": 171146,
-      "name": "Superwoman (feat. Dadju)",
-      "url": "https://open.spotify.com/track/1vMhKizV77zfuiWZt8zhBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africallez",
-        "url": "https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Jaylann",
-          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 178032,
-      "name": "Africallez",
-      "url": "https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw"
+      "duration_ms": 158893,
+      "name": "I\u2019m On Fire (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
       "duration_ms": 236746,
       "name": "Sedjedo",
       "url": "https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "I\u2019m On Fire (feat. The Cavemen.)",
-      "url": "https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
       },
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King 2: Simba's Pride",
-        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 250760,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0Jq3THfdtCPER3wAdsDh6S"
+      "duration_ms": 255333,
+      "name": "Wombo Lombo",
+      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
     },
     {
       "added_at": null,
@@ -723,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifa",
-        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+        "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+        "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
       },
       "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        },
         {
           "name": "Angelique Kidjo",
           "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
-      "duration_ms": 255333,
-      "name": "Wombo Lombo",
-      "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+      "duration_ms": 176585,
+      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
+      "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 206480,
       "name": "Oyaya (feat. Nile Rodgers & IZA)",
       "url": "https://open.spotify.com/track/1zWohaIWPbUkDPDXfOrdBD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-        "url": "https://open.spotify.com/album/2FQ8newTy5nZ4hw29A9wx8"
-      },
-      "artists": [
-        {
-          "name": "Roseline Layo",
-          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "On sera l\u00e0 (feat. Ang\u00e9lique Kidjo)",
-      "url": "https://open.spotify.com/track/1mSJSUeWM9AqF53z9D8QoO"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
       "duration_ms": 257634,
       "name": "Keep On Moving (feat. Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/4WonhRvXvi06b5FYAQq6zO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOPE!!",
-        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Fall On Me (feat. PJ Morton)",
-      "url": "https://open.spotify.com/track/4gzev8rPHeOydUdpubBCEm"
     },
     {
       "added_at": null,
@@ -931,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOPE!!",
+        "url": "https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Fall On Me (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/4gzev8rPHeOydUdpubBCEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oremi",
-        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Logozo",
         "url": "https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 276840,
       "name": "Batonga",
       "url": "https://open.spotify.com/track/2U4kiDoSsCKBXHIWTZ8ugu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oremi",
+        "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 229293,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/58dd55dzYZDoXVZgBlHbIR"
     },
     {
       "added_at": null,

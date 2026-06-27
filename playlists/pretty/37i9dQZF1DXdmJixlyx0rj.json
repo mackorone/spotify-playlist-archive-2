@@ -1,75 +1,35 @@
 {
-  "description": "New & best K-Electronic music is here. (Cover: I\u00d6N)",
-  "num_followers": 37338,
+  "description": "New & best K-Electronic music is here. (Cover: Peggy Gou, Ayra Starr)",
+  "num_followers": 37343,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACrPluSFYLgY94V4cDwoTsBqiUth",
+  "snapshot_id": "AAAAAKrYpBQod6yUnob++4VAR76FBkKp",
   "tracks": [
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
-        "name": "AREA X",
-        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
       "artists": [
         {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         },
         {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 220555,
-      "name": "Baya",
-      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "Reminded of HAPPYEND",
-        "url": "https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7"
-      },
-      "artists": [
-        {
-          "name": "Lia Ouyang Rusli",
-          "url": "https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto"
-        },
-        {
-          "name": "Arexibo",
-          "url": "https://open.spotify.com/artist/0mMVB6TJ94c6hvihOcAV13"
-        }
-      ],
-      "duration_ms": 359305,
-      "name": "HAPPYEND (Closing) - \u201cArexibo\u201d Remix",
-      "url": "https://open.spotify.com/track/1Tc4G0ul4vhAe3pzIYe1wj"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/1rWXfjjQW0A7ZUPPGMvpNG"
-      },
-      "artists": [
-        {
-          "name": "250",
-          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        }
-      ],
-      "duration_ms": 216896,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2osyzRNIOMXUoW4gJLrRxl"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -85,43 +45,7 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "d\u2606ct (soccer banger)",
-        "url": "https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 184347,
-      "name": "d\u2606ct (soccer banger)",
-      "url": "https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
@@ -137,7 +61,7 @@
       "url": "https://open.spotify.com/track/3OKvpTlnhvj8u6fbV53kqC"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "7TH YEAR: A Moment of Stillness in the Thorns",
         "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
@@ -153,7 +77,7 @@
       "url": "https://open.spotify.com/track/0pbq2kwWuZ7bxRxCS0eBEU"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
@@ -169,7 +93,23 @@
       "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "NAIL",
         "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
@@ -189,23 +129,7 @@
       "url": "https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "(It Goes Like) Nanana",
-        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 367613,
-      "name": "(It Goes Like) Nanana",
-      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
@@ -221,7 +145,7 @@
       "url": "https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "NJWMX",
         "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
@@ -237,7 +161,7 @@
       "url": "https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Chaotic & Confused",
         "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
@@ -253,7 +177,23 @@
       "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 367613,
+      "name": "(It Goes Like) Nanana",
+      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
@@ -273,23 +213,7 @@
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Going Dumb",
         "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
@@ -313,7 +237,7 @@
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -333,7 +257,7 @@
       "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "PINKY UP: The Remixes",
         "url": "https://open.spotify.com/album/6SbW01YgpOGMmqTm8XoyBB"
@@ -353,7 +277,23 @@
       "url": "https://open.spotify.com/track/7o6hR43FSGru6pmc9KofQU"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "NAIL",
         "url": "https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4"
@@ -373,23 +313,7 @@
       "url": "https://open.spotify.com/track/5tL3rwferxGQRpe1Huquht"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "Find The Way",
-        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Find The Way",
-      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "untitled compilation vol.1",
         "url": "https://open.spotify.com/album/3wxhUybx2U88IaeqgHr11g"
@@ -405,7 +329,7 @@
       "url": "https://open.spotify.com/track/60Va05dDxcW7Fa7xXLwR6C"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Seven (Weekend Ver.)",
         "url": "https://open.spotify.com/album/6fJthISWarQBICiU2wncp6"
@@ -425,7 +349,7 @@
       "url": "https://open.spotify.com/track/79DU9AWxpMpKsGS5yps6sp"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Like Crazy (Remixes)",
         "url": "https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2"
@@ -441,7 +365,23 @@
       "url": "https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
@@ -457,7 +397,7 @@
       "url": "https://open.spotify.com/track/6vwd7vtUupbyZGQIn1AsWU"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "My Universe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
@@ -481,7 +421,7 @@
       "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "White cat",
         "url": "https://open.spotify.com/album/0wKyLvLwd7pKw97y5vqjrQ"
@@ -497,23 +437,7 @@
       "url": "https://open.spotify.com/track/7fVSxx6LFcAVhBgDbCvV15"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 298469,
-      "name": "Back To One",
-      "url": "https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Standing Next to You (The Remixes)",
         "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
@@ -529,7 +453,27 @@
       "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "d\u2606ct (soccer banger)",
+        "url": "https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 184347,
+      "name": "d\u2606ct (soccer banger)",
+      "url": "https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "SAINT",
         "url": "https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc"
@@ -545,7 +489,7 @@
       "url": "https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
         "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
@@ -569,23 +513,7 @@
       "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 112965,
-      "name": "maybe baby",
-      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Nocturne 07 (for aerse)",
         "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
@@ -605,7 +533,7 @@
       "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "MOVEURBODY",
         "url": "https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW"
@@ -621,7 +549,23 @@
       "url": "https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 112965,
+      "name": "maybe baby",
+      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "4444",
         "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
@@ -637,7 +581,7 @@
       "url": "https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "11111101",
         "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
@@ -653,7 +597,7 @@
       "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "ScreaM Rookies : The Chase (Remixes)",
         "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
@@ -677,7 +621,7 @@
       "url": "https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Super (Workout Remix)",
         "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
@@ -693,7 +637,7 @@
       "url": "https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
@@ -709,7 +653,7 @@
       "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "FIX OFF Desire Project 1",
         "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
@@ -725,7 +669,7 @@
       "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
         "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
@@ -745,7 +689,7 @@
       "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Formula of Love: O+T=<3",
         "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
@@ -765,7 +709,7 @@
       "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "allez, pousse!",
         "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
@@ -781,7 +725,7 @@
       "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "MONA LISA (Remix so fine)",
         "url": "https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp"
@@ -797,7 +741,7 @@
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
@@ -821,7 +765,7 @@
       "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
@@ -841,7 +785,7 @@
       "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Eu li EP",
         "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
@@ -861,7 +805,7 @@
       "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Dirty Work (Remixes)",
         "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
@@ -881,7 +825,7 @@
       "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Keep My Light On",
         "url": "https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW"
@@ -901,7 +845,7 @@
       "url": "https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "CHU\u2661",
         "url": "https://open.spotify.com/album/1kx3QVAHC1eEsBFklYJ1pV"
@@ -917,23 +861,7 @@
       "url": "https://open.spotify.com/track/13RXWCKAcrnvYgAFATCZf8"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "everybody dies",
-        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "everybody dies",
-      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
@@ -957,7 +885,23 @@
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "I,God",
         "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
@@ -973,7 +917,7 @@
       "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
@@ -993,7 +937,7 @@
       "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "TOMBOY (R3HAB Remix)",
         "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
@@ -1013,7 +957,7 @@
       "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Love Eternally (feat. JUNNY)",
         "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
@@ -1033,7 +977,7 @@
       "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
         "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
@@ -1061,7 +1005,7 @@
       "url": "https://open.spotify.com/track/217pG31hswPFS8zFo2KONE"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "caffeine withdrawal",
         "url": "https://open.spotify.com/album/0nJlGYaDlHYfbdRx9NTFe0"
@@ -1077,7 +1021,27 @@
       "url": "https://open.spotify.com/track/3xSFpa7tcAXZv1oGPZ0ZsO"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/1rWXfjjQW0A7ZUPPGMvpNG"
+      },
+      "artists": [
+        {
+          "name": "250",
+          "url": "https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 216896,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2osyzRNIOMXUoW4gJLrRxl"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "K-POP ScreaM 3",
         "url": "https://open.spotify.com/album/5NK2QooMJIctUo0gUX4yfm"
@@ -1101,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6W5jkQxPErgbTLNcu6QEJb"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "TREASURE EP. Map To Answer",
         "url": "https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i"
@@ -1121,7 +1085,7 @@
       "url": "https://open.spotify.com/track/74R92FEHV8CNMLJapNelbM"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Mushroom House",
         "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
@@ -1137,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
         "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
@@ -1161,7 +1125,7 @@
       "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "My Bad (feat. Julie Bergan) [KSHMR Edit]",
         "url": "https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G"
@@ -1189,7 +1153,27 @@
       "url": "https://open.spotify.com/track/7rM4FWiY8PqU2TxdXX6BXh"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3"
+        }
+      ],
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
@@ -1205,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Re: searchlight",
         "url": "https://open.spotify.com/album/4OgPOKPx8KrrwDRrLImBgQ"
@@ -1225,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7u7mFTVWBbWcAc3NQzOmgq"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
@@ -1245,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
@@ -1265,7 +1249,7 @@
       "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Ash",
         "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
@@ -1281,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
@@ -1297,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Love Crime",
         "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
@@ -1313,7 +1297,7 @@
       "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
@@ -1333,7 +1317,7 @@
       "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Always with You",
         "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
@@ -1349,7 +1333,7 @@
       "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
@@ -1369,23 +1353,7 @@
       "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "eigensinn",
-        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "homes",
-      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
@@ -1405,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "like JENNIE (Peggy Gou Remix)",
         "url": "https://open.spotify.com/album/4AqYxQUuZk29apyPYt9aA8"
@@ -1425,27 +1393,23 @@
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+        "name": "eigensinn",
+        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Mount XLR",
-          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 224640,
-      "name": "Armageddon - Mount XLR Remix",
-      "url": "https://open.spotify.com/track/4z58YfbLph7Z7l7DhkdctO"
+      "duration_ms": 261301,
+      "name": "homes",
+      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "My Bad (feat. SHAUN)",
         "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
@@ -1465,7 +1429,43 @@
       "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Armageddon - Mount XLR Remix",
+      "url": "https://open.spotify.com/track/4z58YfbLph7Z7l7DhkdctO"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Pondeggi",
         "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
@@ -1485,23 +1485,7 @@
       "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
@@ -1525,7 +1509,7 @@
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
@@ -1545,7 +1529,7 @@
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Lucky Star",
         "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
@@ -1561,7 +1545,7 @@
       "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "silkysmooth 01",
         "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
@@ -1577,7 +1561,7 @@
       "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Iab",
         "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
@@ -1597,7 +1581,7 @@
       "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "iScreaM Vol.11 : Queendom Remix",
         "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
@@ -1617,7 +1601,7 @@
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Unstable",
         "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
@@ -1633,7 +1617,7 @@
       "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "STARDUST",
         "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
@@ -1653,7 +1637,7 @@
       "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "firefly",
         "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
@@ -1669,7 +1653,7 @@
       "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "LOTTO - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
@@ -1685,7 +1669,7 @@
       "url": "https://open.spotify.com/track/1U1wrOyV4SotwDmFxKXqpN"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "MOLLAK",
         "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
@@ -1705,23 +1689,7 @@
       "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "MOONLIGHT (MOTi Remix)",
         "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
@@ -1741,7 +1709,23 @@
       "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "iScreaM Vol.14 : Peaches Remixes",
         "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
@@ -1761,27 +1745,7 @@
       "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
-      "album": {
-        "name": "iScreaM Vol.32 : Impossible Remix",
-        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        },
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Impossible - Darius Remix",
-      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
-    },
-    {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
@@ -1801,7 +1765,27 @@
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "iScreaM Vol.32 : Impossible Remix",
+        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Impossible - Darius Remix",
+      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "iScreaM Vol.25 : Red Flavor Remix",
         "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
@@ -1821,7 +1805,7 @@
       "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "Atmosphere - SM STATION",
         "url": "https://open.spotify.com/album/6F44f0aj0LxqI4hguioxTZ"
@@ -1845,7 +1829,7 @@
       "url": "https://open.spotify.com/track/3s6oEjTTcjdCResRda90Hx"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
@@ -1865,7 +1849,7 @@
       "url": "https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n"
     },
     {
-      "added_at": "2026-06-24 05:32:41",
+      "added_at": "2026-06-26 09:28:13",
       "album": {
         "name": "iScreaM Vol.16 : Glitch Mode Remix",
         "url": "https://open.spotify.com/album/1qCGvCguJOKwfJbfBH8q8O"
@@ -1883,6 +1867,22 @@
       "duration_ms": 277760,
       "name": "Glitch Mode - JINBO Remix",
       "url": "https://open.spotify.com/track/6gVZB0cp9QmWoduXVWOgHM"
+    },
+    {
+      "added_at": "2026-06-26 09:28:13",
+      "album": {
+        "name": "Ehyu Ahnida",
+        "url": "https://open.spotify.com/album/5NToC2gcDLmUKBMkXA2oss"
+      },
+      "artists": [
+        {
+          "name": "boksed",
+          "url": "https://open.spotify.com/artist/0XKg116o1q0I9pMa3SqpZZ"
+        }
+      ],
+      "duration_ms": 228100,
+      "name": "Ehyu Ahnida",
+      "url": "https://open.spotify.com/track/08Hn3iJL1URn9qY8hi9Tum"
     }
   ],
   "unique_name": "Electronii[K]",

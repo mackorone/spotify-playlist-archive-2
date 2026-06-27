@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,367 likes - 54 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,370 likes - 54 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [High Pony](https://open.spotify.com/track/5INLroy9fRR1w5NdshKuxw) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [High Pony](https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO) | 2:54 |
 | 23 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 |
 | 24 | [MOSH★PIT](https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj) | 2:44 |
-| 25 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
-| 26 | [Femme Hysteria](https://open.spotify.com/track/2g8y30PtQ3jO7fR4wKQaOU) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 2:53 |
+| 25 | [Femme Hysteria](https://open.spotify.com/track/2g8y30PtQ3jO7fR4wKQaOU) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 2:53 |
+| 26 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
 | 27 | [i loved you then](https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [i loved you then](https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf) | 3:42 |
 | 28 | [SURFBOARD](https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AMOR & DROGA](https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg) | 3:31 |
 | 29 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 39 | [Maniac](https://open.spotify.com/track/6zEgLCKqeYmAG83pEvXHw3) | [Kid Sistr](https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk) | [Maniac](https://open.spotify.com/album/7zhKcGwizryo4VIJueO1V4) | 2:30 |
 | 40 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
-| 41 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
-| 42 | [WYD](https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [WYD](https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw) | 2:36 |
+| 41 | [WYD](https://open.spotify.com/track/4VzsfQSUEwJ37RjyzAmQ5Y) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [WYD](https://open.spotify.com/album/3UQ4Eu0TwyHelMM8LR5smw) | 2:36 |
+| 42 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
 | 43 | [no te vayas](https://open.spotify.com/track/6BEubkVfewFOsd0LUwtb0C) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [no te vayas](https://open.spotify.com/album/2lqWGkViqu6n36AZc9rSVJ) | 3:14 |
 | 44 | [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 |
 | 45 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
 | 46 | [Plastic Fruit](https://open.spotify.com/track/2haZjYWVMFjpn3QxVuqANq) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Plastic Fruit](https://open.spotify.com/album/1NCa1RSwxfQ03vnXqzLH2D) | 3:29 |
 | 47 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
-| 48 | [Clink](https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [SYNY 3 ACT III](https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB) | 2:40 |
-| 49 | [Oídos Sordos](https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Oídos Sordos](https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4) | 3:34 |
+| 48 | [Oídos Sordos](https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Oídos Sordos](https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4) | 3:34 |
+| 49 | [Clink](https://open.spotify.com/track/60eUWIGVnOBdVOs14dz0UP) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [SYNY 3 ACT III](https://open.spotify.com/album/4HGO4xsnxiXdUylihPjTUB) | 2:40 |
 | 50 | [Madrugá](https://open.spotify.com/track/7FMZshxfGrGTvsOvIUVHdK) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GOLOSA](https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr) | 3:08 |
 | 51 | [Jade](https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Jade](https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0) | 4:04 |
 | 52 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 |

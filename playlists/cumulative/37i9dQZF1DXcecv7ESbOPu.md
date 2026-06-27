@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Benson Boone, Amani Smith och VC Barre med flera\. Happy New Music Friday!
 
-24,828 songs - 53 day 14 hr 30 min
+24,829 songs - 53 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11535,7 +11535,7 @@
 | [JASMINE](https://open.spotify.com/track/1fqxKS1ExmsmpXyJU7XShG) | [SAUDA](https://open.spotify.com/artist/39dIL6jVJO0gdoAOQL0Tt1) | [JASMINE](https://open.spotify.com/album/0yzE0zW19kWUC7tbmUBmL5) | 3:26 | 2025-09-18 | 2025-09-26 |
 | [Javelin](https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [Javelin](https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V) | 3:09 | 2024-08-29 | 2024-09-06 |
 | [Jaw](https://open.spotify.com/track/3WD46C6wIMtBYIhHRK7AVw) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Jaw](https://open.spotify.com/album/38RJf1UrjwYBo0mLqCOghv) | 2:26 | 2022-06-30 | 2022-07-08 |
-| [JB x SOUNDZ – GOLDEN AGE](https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [JB x SOUNDZ – GOLDEN AGE](https://open.spotify.com/album/15NHzrRtbABPAJnGrsXvp3) | 2:51 | 2026-06-25 |  |
+| [JB x SOUNDZ – GOLDEN AGE](https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [GOLDEN AGE](https://open.spotify.com/album/15NHzrRtbABPAJnGrsXvp3) | 2:51 | 2026-06-25 |  |
 | [JB X YASIN \- DIE YOUNG](https://open.spotify.com/track/46fo800FpGqEjaCPLX4uHy) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [JB AHSP DEL 2](https://open.spotify.com/album/7KtrpUHy9JLhCskwG0MMrC) | 2:31 | 2022-07-08 | 2022-07-15 |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-06-23 | 2022-07-01 |
 | [Jealous](https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Jealous](https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo) | 3:53 | 2022-03-03 | 2022-03-11 |
@@ -17479,6 +17479,7 @@
 | [Radar](https://open.spotify.com/track/2ajRSxRuNZi5X8yisdEq8K) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE), [Theo Rosén](https://open.spotify.com/artist/4oFR7Ubb8C4b06Du2KE362) | [Radar](https://open.spotify.com/album/45na4lMBOykMdcwE6fC4hn) | 2:33 | 2025-03-20 | 2025-03-28 |
 | [Radarn](https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Radarn](https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte) | 2:03 | 2024-07-25 | 2024-08-02 |
 | [Radical](https://open.spotify.com/track/15so50OznMXFl2QrVSY368) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Radical](https://open.spotify.com/album/0x1Cp9g0hqp8PYgHbehtaG) | 2:54 | 2023-10-12 | 2023-10-24 |
+| [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 | 2026-06-26 |  |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-02-17 | 2022-02-25 |
 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 | 2022-06-30 | 2022-07-08 |
 | [Radio](https://open.spotify.com/track/3FN3jsZTdt5sU6NRcIgUKK) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Radio](https://open.spotify.com/album/7udcz2WCVMk58UsJ7cPXH9) | 3:15 | 2023-01-05 | 2023-01-13 |
@@ -20677,7 +20678,7 @@
 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 | 2024-02-15 | 2024-02-23 |
 | [Sweden Beef](https://open.spotify.com/track/1QnzK1fXddVNZijq1tNVGM) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Sweden Beef](https://open.spotify.com/album/3ETNRvqg8cIrAFJhjvbXN8) | 1:54 | 2025-11-20 | 2025-11-28 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-29 | 2025-06-06 |
-| [Swedish Mermaid \(Rebecca & Fiona Remix\) \- Radio edit](https://open.spotify.com/track/70OKnvljXMOwtqhsMV5qW5) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Swedish Mermaid \(Rebecca & Fiona Remix\)](https://open.spotify.com/album/6KmEIUsOvwzKJmrWzAxxxM) | 3:09 | 2026-06-25 |  |
+| [Swedish Mermaid \(Rebecca & Fiona Remix\) \- Radio Edit](https://open.spotify.com/track/70OKnvljXMOwtqhsMV5qW5) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Swedish Mermaid \(Rebecca & Fiona Remix\)](https://open.spotify.com/album/6KmEIUsOvwzKJmrWzAxxxM) | 3:09 | 2026-06-25 |  |
 | [SwedishWinterDepression](https://open.spotify.com/track/2amgwr4hJ5sYWO6OlMupr7) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [SwedishWinterDepression](https://open.spotify.com/album/0WQiuNJTLa46pN1oi297rt) | 1:40 | 2025-12-18 | 2026-01-02 |
 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 | 2024-08-15 | 2024-08-23 |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-02-07 |

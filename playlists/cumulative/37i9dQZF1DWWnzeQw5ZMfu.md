@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-264 songs - 20 hr 6 min
+266 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 | 2022-04-14 | 2025-01-18 |
 | [Greatest Love of All \- Live from That's What Friends Are For: Arista Records 15th Anniversary Concert](https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 6:50 | 2022-04-14 | 2023-08-19 |
 | [Guilty \(feat\. Barry Gibb\) \- Live Duet With Barry Gibb](https://open.spotify.com/track/2f7wiqS80eqRzDlXT8BI6G) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d) | [One Voice](https://open.spotify.com/album/69TPOVVeA5VBEPWLrCMQ4f) | 4:32 | 2022-04-14 | 2022-07-28 |
+| [hate that i made you love me \- live from rehearsal](https://open.spotify.com/track/2pNbrMKqDaUwmCzmPr5upM) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v) | 3:17 | 2026-06-26 |  |
 | [Havana \- Live](https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Havana \(Live\)](https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6) | 4:08 | 2022-04-14 |  |
 | [Heaven \- Live At Sydney Opera House / 2013](https://open.spotify.com/track/7GqC52l5QiBdUjju5hzeOL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Live At Sydney Opera House](https://open.spotify.com/album/6wFQwkeJRlLi4wP5doOGlh) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Heaven Is a Place On Earth \(Live at Indigo at the O2, London, 13/10/2017\)](https://open.spotify.com/track/1Iw1FOdlNmchEKpqXn2i2r) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [The Heaven on Earth Tour](https://open.spotify.com/album/6yjlSS4enVYWCgTx7g54jL) | 5:39 | 2022-04-29 | 2022-07-29 |
@@ -206,6 +207,7 @@
 | [SOLO \- Live](https://open.spotify.com/track/6V3dOOUiPg53wUf83tBLR8) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 2:45 | 2023-08-18 | 2024-04-19 |
 | [Something In The Orange \- Live From Spotify Studios](https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 4:02 | 2023-11-03 |  |
 | [Sorry \- Live](https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 5:03 | 2022-04-29 | 2025-01-18 |
+| [SPEED DEMON](https://open.spotify.com/track/47qjplCUKeyBeAe4nVKhEi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG LIVE FROM COACHELLA \(Weekend I\)](https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8) | 3:31 | 2026-06-26 |  |
 | [Star People \- Live](https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:15 | 2022-04-14 | 2023-08-19 |
 | [Stargazing \- Live at Eventim Apollo](https://open.spotify.com/track/3X1KhC6ygB8vb66ewgUq3t) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \(Live at Eventim Apollo\)](https://open.spotify.com/album/4j6KwjNkSjnAAggyFoLDs4) | 3:24 | 2025-08-08 |  |
 | [Stars \- Live at Sydney Opera House](https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Farewell: Live in Concert at Sydney Opera House](https://open.spotify.com/album/2ROL02gUpj3nTbB6CCuEz3) | 4:05 | 2022-08-09 | 2023-08-19 |

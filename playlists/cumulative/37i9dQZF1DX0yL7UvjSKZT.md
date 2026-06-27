@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Susto Stringband
 
-540 songs - 1 day 9 hr 19 min
+541 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Lost and Lonesome Ways](https://open.spotify.com/track/4dvP00JhOXlPBPC9Mrey2W) | [Valley Flower](https://open.spotify.com/artist/30RBNZU9rtKnfb5dlOm1Ew) | [Lost and Lonesome Ways](https://open.spotify.com/album/4E4AavoulNlh7LlsubBZzh) | 3:01 | 2026-05-29 |  |
 | [Lost But Not Forgotten](https://open.spotify.com/track/3Bm3ymBsKeq5GTGOIsd6dM) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Lost But Not Forgotten](https://open.spotify.com/album/6IIDtMuwJwElTFuZAcm7cH) | 4:39 | 2023-08-25 | 2025-02-15 |
 | [Lou](https://open.spotify.com/track/5RiNiEwBUXyigik5Jt3FOu) | [The Montvales](https://open.spotify.com/artist/0FYazSWo7TGjPJz0Jz4O9t) | [Lou](https://open.spotify.com/album/6rfs4PhhJWZDZRO9Qt6Z54) | 3:11 | 2023-11-17 | 2025-02-15 |
+| [Love is Everywhere \(Beware\)](https://open.spotify.com/track/3Xq1HvkjYvh3SVUiGfT2MP) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love is Everywhere \(Beware\)](https://open.spotify.com/album/79nQxkPGvJ2NN1PAXFQCKU) | 3:13 | 2026-06-26 |  |
 | [Love Letter](https://open.spotify.com/track/3l6KKhbzmDDy4ye0qqgTEf) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 3:07 | 2021-10-01 | 2023-04-09 |
 | [Love That Keeps on Trying](https://open.spotify.com/track/7znCP6GsGLYxIp9JQQGrBh) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Love That Keeps on Trying](https://open.spotify.com/album/17WDRBufDeWyDqhjB4SRzK) | 3:21 | 2022-08-11 | 2023-05-16 |
 | [Love Will Only Break Your Heart](https://open.spotify.com/track/2faqlLswnAEXMqkaiRQ5LW) | [The David Mayfield Parade](https://open.spotify.com/artist/2cUl2KIxv7FHmL4pt4uLsN) | [Good Man Down](https://open.spotify.com/album/5d2s0xDFNSP9DHcENh8Htz) | 2:53 | 2021-10-01 | 2022-01-22 |
@@ -344,7 +345,7 @@
 | [Prelude: An Elemental Search](https://open.spotify.com/track/1wvveTJkxKP9ZpweilllGk) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [The Crown of Elements](https://open.spotify.com/album/0iEkjMOPEvgCSgf0fb4jKQ) | 2:08 | 2023-07-21 | 2024-05-11 |
 | [Pretty Polly \- Bluegrass](https://open.spotify.com/track/7GNIQFh5cE3zGSAg4Sulgh) | [Michael Daves](https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb) | [Orchids and Violence](https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb) | 4:33 | 2021-10-01 | 2022-01-22 |
 | [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 | 2022-01-14 | 2025-02-15 |
-| [Prodigal Daughter](https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:42 | 2022-11-18 |  |
+| [Prodigal Daughter](https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:42 | 2022-11-18 | 2026-06-27 |
 | [Prodigal Daughter](https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:42 | 2023-04-28 | 2024-04-19 |
 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 | 2023-06-23 | 2025-02-15 |
 | [Purgatory](https://open.spotify.com/track/1pq21pf7yuj51viGV8HDzc) | [Kindred Valley](https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy) | [Purgatory](https://open.spotify.com/album/1rPX15QkMKxNuH49aiFc8t) | 3:12 | 2026-03-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368913,
+  "num_followers": 368905,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-06-25 13:41:45",
       "album": {
+        "name": "Sometimes I Love You",
+        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
+      },
+      "artists": [
+        {
+          "name": "Mistasy",
+          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
+        }
+      ],
+      "duration_ms": 177938,
+      "name": "Sometimes I Love You",
+      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
+    },
+    {
+      "added_at": "2026-06-25 13:41:45",
+      "album": {
         "name": "Der letzte Tanz",
         "url": "https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2026-06-25 13:41:45",
       "album": {
-        "name": "Sometimes I Love You",
-        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
-      },
-      "artists": [
-        {
-          "name": "Mistasy",
-          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
-        }
-      ],
-      "duration_ms": 177938,
-      "name": "Sometimes I Love You",
-      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
-    },
-    {
-      "added_at": "2026-06-25 13:41:45",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG"
       },
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-06-25 13:41:45",
       "album": {
-        "name": "READY TO BLOW",
-        "url": "https://open.spotify.com/album/7IUJIJFFdbb3Eue0m2iCGI"
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
       "artists": [
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 141223,
-      "name": "READY TO BLOW",
-      "url": "https://open.spotify.com/track/6t5riyc8EaFD0FLMi8naQp"
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     }
   ],
   "unique_name": "Feelgood Pop",

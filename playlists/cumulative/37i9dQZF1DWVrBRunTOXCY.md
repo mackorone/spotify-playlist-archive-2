@@ -4,7 +4,7 @@
 
 > The sound of summer 2026! Cover: Prospa
 
-477 songs - 1 day 0 hr 15 min
+478 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Don’t Go \(Don’t Leave\)](https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd) | 2:26 | 2026-04-08 |  |
 | [Down To The Bone](https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Down To The Bone](https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa) | 2:51 | 2026-04-08 |  |
 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-04-08 |  |
-| [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 | 2025-08-07 |  |
+| [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 | 2025-08-07 | 2026-06-27 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-26 | 2024-03-29 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 | 2024-03-29 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-03-28 |  |
@@ -268,7 +268,7 @@
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-09-08 | 2024-03-29 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-08-25 | 2023-10-27 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-03-28 | 2025-06-07 |
-| [Mi Chico](https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg) | [Mi Chico](https://open.spotify.com/album/62l0wWMAp5TewPjHGqzyqY) | 1:57 | 2026-06-18 |  |
+| [Mi Chico](https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg) | [Mi Chico](https://open.spotify.com/album/62l0wWMAp5TewPjHGqzyqY) | 1:57 | 2026-06-18 | 2026-06-27 |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-09 | 2026-05-01 |
 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 | 2026-04-08 |  |
 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 | 2023-07-10 | 2024-03-29 |
@@ -478,6 +478,7 @@
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-03-28 | 2026-04-09 |
 | [Wild](https://open.spotify.com/track/78IA2OfQpKNHBqSfKy4kvf) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Wild](https://open.spotify.com/album/6immkKGjqExbs6Q4XjF4Sa) | 2:38 | 2024-03-29 | 2025-03-29 |
 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 | 2025-08-07 |  |
+| [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 | 2026-06-26 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-03-29 | 2025-03-29 |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-07-21 | 2024-03-29 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-03-29 | 2025-03-29 |

@@ -6,8 +6,24 @@
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAJDPr8g8PW28m0aA/xSSw6xg4ChJQT",
+  "snapshot_id": "AAAJDtR9/OSBAbx5osFRAygfWr8tzP+P",
   "tracks": [
+    {
+      "added_at": "2026-06-26 14:06:28",
+      "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+    },
     {
       "added_at": "2026-05-15 14:49:11",
       "album": {

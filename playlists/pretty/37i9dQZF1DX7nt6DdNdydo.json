@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 64146,
+  "num_followers": 64147,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
       "artists": [
         {
-          "name": "Joe Liggins",
-          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
-        },
-        {
-          "name": "Honeydrippers",
-          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
         }
       ],
-      "duration_ms": 286893,
-      "name": "Rhythm In The Barnyard",
-      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -387,18 +383,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
       "artists": [
         {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+          "name": "Joe Liggins",
+          "url": "https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV"
+        },
+        {
+          "name": "Honeydrippers",
+          "url": "https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF"
         }
       ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+      "duration_ms": 286893,
+      "name": "Rhythm In The Barnyard",
+      "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
     },
     {
       "added_at": "2022-03-28 19:44:25",

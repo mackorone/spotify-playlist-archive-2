@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover:  Arkells
 
-319 songs - 19 hr 4 min
+320 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-06 |  |
 | [is it too late?](https://open.spotify.com/track/7nM7v4mzorGlZbsJlhuDL3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [is it too late?](https://open.spotify.com/album/45hjkRFUziCz2LKSNw8i6g) | 2:39 | 2024-04-05 | 2024-10-05 |
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 |  |
+| [Jealous Lover](https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jealous Lover](https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM) | 3:49 | 2026-06-26 |  |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-25 |  |
 | [JIM BOB](https://open.spotify.com/track/1ntaXOGOU4Oha1mEKfshtK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JIM BOB](https://open.spotify.com/album/1iaeDfvi0vLhu4uLCC4BLE) | 3:41 | 2024-05-31 | 2025-06-07 |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-11-03 | 2024-04-06 |
@@ -289,7 +290,7 @@
 | [Time Machine 2 \(feat\. illuminati hotties\)](https://open.spotify.com/track/4gMUfXTeJybsscR5ntzQDT) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Tough Kid EP](https://open.spotify.com/album/0mzbKYOJgiNvCtevFiS1kv) | 3:19 | 2023-11-03 | 2023-12-09 |
 | [Together Right](https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Together Right](https://open.spotify.com/album/5wiYwpkw5aYVKIot1wmrO9) | 3:01 | 2023-11-03 | 2024-06-02 |
 | [Too Good At Raising Hell](https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Too Good At Raising Hell](https://open.spotify.com/album/7rynwXAYkqA8uExmOuXlwO) | 3:49 | 2023-11-03 | 2024-03-02 |
-| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-04-05 |  |
+| [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-04-05 | 2026-06-27 |
 | [Trial By Fire](https://open.spotify.com/track/02DLCwqe2a5o6n9ZfQKHuR) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Trial By Fire](https://open.spotify.com/album/1VTD55qqG4845hiL2D3aWj) | 4:00 | 2024-11-01 | 2025-12-20 |
 | [Try](https://open.spotify.com/track/0HsTfpRWlG37ZScD9432te) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Try](https://open.spotify.com/album/2I1wfhhrYy5gpO5j4jBfus) | 2:37 | 2025-01-10 | 2025-03-23 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-24 | 2025-05-24 |

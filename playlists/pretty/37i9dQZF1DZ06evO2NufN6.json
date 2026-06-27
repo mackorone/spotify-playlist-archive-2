@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 993115,
+  "num_followers": 993229,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACQDYEWb0WAo7n0vLwHU70D",
+  "snapshot_id": "ajxvgAAAAAByRaniHa9/WHZZOMcLP4FD",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 243522,
-      "name": "Stoned",
-      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 216000,
       "name": "My Favorite Part",
       "url": "https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 243522,
+      "name": "Stoned",
+      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
     },
     {
       "added_at": null,

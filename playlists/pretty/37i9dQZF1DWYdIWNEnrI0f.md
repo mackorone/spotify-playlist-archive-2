@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,847 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,885 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 41 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 |
 | 42 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 |
 | 43 | [Yosei](https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [岡潔 \(Oka Kiyoshi\)](https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q) | 3:01 |
-| 44 | [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 |
-| 45 | [Tokiwa](https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Tokiwa](https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ) | 2:34 |
+| 44 | [Tokiwa](https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Tokiwa](https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ) | 2:34 |
+| 45 | [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 |
 | 46 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
 | 47 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
 | 48 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |

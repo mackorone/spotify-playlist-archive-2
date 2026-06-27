@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,286 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,363 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 10 | [Bac To Eden](https://open.spotify.com/track/1wH7HtPls8TwhkDmVs9GDW) | [ISDMUSIC](https://open.spotify.com/artist/3XcH6LY2crH77fmOHoaEjC), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf), [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC) | [Bac To Eden](https://open.spotify.com/album/54WQXqkvjd1Yhm9DDs56in) | 2:51 |
 | 11 | [Unchangeable God](https://open.spotify.com/track/1KqWFk0UUMQjp7CAPjLZ1g) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace) | [Unchangeable God](https://open.spotify.com/album/2mmidaFmGORPdq38xbdtNx) | 3:24 |
 | 12 | [Anchor of My Strength](https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [Anchor of My Strength](https://open.spotify.com/album/6j5WW5wCRQpz719p05KNzz) | 3:10 |
-| 13 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/4zAIwqmbzqg6T8F0jfbcq6) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
+| 13 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
 | 14 | [Love lifted me](https://open.spotify.com/track/7Dh3nIB06U3E36uRzoto6B) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Love lifted me](https://open.spotify.com/album/4k0oK8dni5zooCkPxHFXXr) | 2:48 |
 | 15 | [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 |
 | 16 | [Holy Spirit](https://open.spotify.com/track/6qMEFM7wncWmD6LvxXdZnQ) | [KHAEL](https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Holy Spirit](https://open.spotify.com/album/3o3pHXAbeUh0uTG2cZ9vJ2) | 2:39 |

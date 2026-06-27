@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > Soft and cozy acoustic covers of famous songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,472,678 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,472,920 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 16 | [she's all i wanna be](https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [she's all i wanna be](https://open.spotify.com/album/4yCSGabeo8VEeETk6fg6ul) | 3:17 |
 | 17 | [Don't Start Now](https://open.spotify.com/track/2dIL35obnWkkaMcTqTZUIe) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Don't Start Now](https://open.spotify.com/album/4R3pHbMmVbzremPQBw5FQ9) | 2:52 |
 | 18 | [APT.](https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs) | [SƎLFISH](https://open.spotify.com/artist/5OkQrED6g8Ui4HyRXFESAP) | [APT.](https://open.spotify.com/album/0bykfqEsCpbW2cETLvIal7) | 2:12 |
-| 19 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
-| 20 | [Never Forget You](https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Never Forget You](https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors) | 3:11 |
+| 19 | [Never Forget You](https://open.spotify.com/track/7fH1He9bsEfczjdRHxVqmz) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Never Forget You](https://open.spotify.com/album/7BFZdaPawpH98vgHFhEors) | 3:11 |
+| 20 | [Sex is on fire](https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Sex is on fire](https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e) | 2:43 |
 | 21 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Girls Just Want to Have Fun](https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4) | 2:53 |
 | 22 | [Only Girl In The World](https://open.spotify.com/track/0KOLKV454e5cN98pyHGMjL) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Only Girl In The World](https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG) | 3:46 |
 | 23 | [Black Hole](https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Black Hole](https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr) | 3:22 |
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 28 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 |
 | 29 | [Taste](https://open.spotify.com/track/1xUN5ZZ7pJySj9pa9UiWpZ) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Taste](https://open.spotify.com/album/0DUrfU6HigN6VulouqEGzt) | 3:09 |
 | 30 | [I Feel It Coming](https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb) | [Alice Nordstrom](https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3) | [I Feel It Coming](https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f) | 2:46 |
-| 31 | [Espresso](https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6) | [LAJKA](https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh) | [Espresso](https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS) | 2:40 |
-| 32 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
-| 33 | [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 |
+| 31 | [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 |
+| 32 | [Espresso](https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6) | [LAJKA](https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh) | [Espresso](https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS) | 2:40 |
+| 33 | [Too Good At Goodbyes](https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Too Good At Goodbyes](https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ) | 2:50 |
 | 34 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 |
 | 35 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 |
 | 36 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
 | 37 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 |
 | 38 | [Stay](https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Stay](https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn) | 3:28 |
 | 39 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Out Of My Head And Back In My Bed](https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M) | 3:10 |
-| 40 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
-| 41 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |
+| 40 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd) | 3:37 |
+| 41 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
 | 42 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 |
 | 43 | [Jealous \(Acoustic\)](https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Jealous \(Acoustic\)](https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg) | 3:31 |
 | 44 | [Without You](https://open.spotify.com/track/49IWgpr5W24IY1ZnGmSEcT) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Without You](https://open.spotify.com/album/2PMxsiBgRuxfqhj6GlKQV6) | 2:43 |

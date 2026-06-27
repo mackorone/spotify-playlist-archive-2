@@ -1,6 +1,6 @@
 {
   "description": "\"Wait have you heard of The Beaches?\" ",
-  "num_followers": 42191,
+  "num_followers": 42189,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-26 04:03:06",
       "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
-      },
-      "artists": [
-        {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
-    },
-    {
-      "added_at": "2026-06-26 04:03:06",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2026-06-26 04:03:06",
+      "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2026-06-26 04:03:06",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-06-26 04:03:06",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
+    },
+    {
+      "added_at": "2026-06-26 04:03:06",
+      "album": {
         "name": "Malcolm Todd",
         "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu"
-    },
-    {
-      "added_at": "2026-06-26 04:03:06",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
     },
     {
       "added_at": "2026-06-26 04:03:06",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-06-26 04:03:06",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 219340,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
-    },
-    {
-      "added_at": "2026-06-26 04:03:06",
-      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 248892,
       "name": "Agitations tropicales",
       "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2026-06-26 04:03:06",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 219340,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
     },
     {
       "added_at": "2026-06-26 04:03:06",

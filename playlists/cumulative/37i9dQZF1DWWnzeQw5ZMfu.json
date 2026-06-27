@@ -1613,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197743,
+      "name": "hate that i made you love me - live from rehearsal",
+      "url": "https://open.spotify.com/track/2pNbrMKqDaUwmCzmPr5upM"
+    },
+    {
+      "album": {
         "name": "Havana (Live)",
         "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
       },
@@ -3666,6 +3684,24 @@
       "duration_ms": 303200,
       "name": "Sorry - Live",
       "url": "https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1"
+    },
+    {
+      "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211546,
+      "name": "SPEED DEMON",
+      "url": "https://open.spotify.com/track/47qjplCUKeyBeAe4nVKhEi"
     },
     {
       "album": {

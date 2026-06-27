@@ -2,9 +2,9 @@
 
 ### [Mariachi 2026](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal📸
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alta Consigna📸
 
-579 songs - 1 day 7 hr 35 min
+584 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Dulcesito De Chamoy](https://open.spotify.com/track/3FsUMWJZOlRzQIOf05PVtr) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Dulcesito De Chamoy](https://open.spotify.com/album/7J3zMhP1YP1sdiisRT8FfC) | 3:14 | 2024-05-24 | 2026-02-21 |
 | [Déjame Amarte Otra Vez](https://open.spotify.com/track/6Cem7W1IWveAHlbVP9tNKE) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Súper Éxitos Rancheros Vol\. 2](https://open.spotify.com/album/4ZEM9AniXRQyM0lySCRUc0) | 3:29 | 2022-05-13 | 2022-06-01 |
 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 | 2025-11-07 |  |
+| [El Adiós Ranchero](https://open.spotify.com/track/6FiCXjItnPGWQ09DIOi1Ml) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [El Adiós Ranchero](https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK) | 2:50 | 2026-06-26 |  |
 | [El Alumno](https://open.spotify.com/track/4oRtfBaE8J1B0SDzVQAH5j) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Llegando Al Rancho](https://open.spotify.com/album/6vJ9ymVhHcvI1NgFuFA0rN) | 3:08 | 2022-05-13 | 2023-01-07 |
 | [El Amor Más Grande](https://open.spotify.com/track/62K8tEf4hr6MpP31v2wWdf) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 3:26 | 2022-05-13 | 2022-06-01 |
 | [El Anillo](https://open.spotify.com/track/4ZsmJY1ugWmo6ROkR9Tcba) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [El Anillo](https://open.spotify.com/album/5sd8XpxNp5ADwZIXqNBX0A) | 3:29 | 2023-05-26 | 2023-09-03 |
@@ -191,6 +192,7 @@
 | [Esta vez te digo adios](https://open.spotify.com/track/54jrwH1uMEfXLMjKSaaj1d) | [JUAN MACI](https://open.spotify.com/artist/6AAkqxke5D09lpu1SoOsFl) | [Esta vez te digo adios](https://open.spotify.com/album/7ySOEo0nvGHbjjsmtA4mEA) | 3:48 | 2025-12-12 | 2026-05-23 |
 | [Esta Vida \(Qué Bonita Es Esta Vida\)](https://open.spotify.com/track/7nR0urmFhXgbKeqYHkTQLd) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:26 | 2022-05-13 | 2022-06-01 |
 | [Este Amor](https://open.spotify.com/track/4qQEpeUsKJYeRTZmF9nsSf) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Angélica Vargas](https://open.spotify.com/artist/7yYj6r5ixw1hILSxPVVUNx) | [Este Amor](https://open.spotify.com/album/52k951JAnmJbJfJBCGe5AR) | 3:51 | 2026-04-24 |  |
+| [Este Corazón](https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:19 | 2026-06-26 |  |
 | [Excusa No Es](https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp) | [Adrián Barraza](https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt) | [Excusa No Es](https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq) | 2:55 | 2026-04-24 |  |
 | [Explícame](https://open.spotify.com/track/3q3fVJZWuLmyMyDIiLJbVb) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 2:15 | 2022-05-13 | 2022-06-01 |
 | [Fan De La Relación](https://open.spotify.com/track/0avvoJ4ukQXaOTPSofnPo3) | [Tú Dime María](https://open.spotify.com/artist/5KEj5NHNPxuNTcDfuGrjFR) | [Fan De La Relación](https://open.spotify.com/album/2Ofh0yVOz9neKuF7RLGDjl) | 3:24 | 2026-03-27 |  |
@@ -412,6 +414,7 @@
 | [Por Un Amor](https://open.spotify.com/track/3YibdBCjkHdhJ0RfucR0sZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:23 | 2022-05-13 | 2022-05-29 |
 | [Por Un Amor](https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Por Un Amor](https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf) | 3:13 | 2025-10-03 | 2026-05-23 |
 | [Por Un Mal Amor](https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Por Un Mal Amor](https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU) | 3:13 | 2026-03-27 |  |
+| [Porque la vida fue tan injusta](https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr) | [Mariacho Ay Ay Ay](https://open.spotify.com/artist/4JyndRgkNK1KbUyMEm0Oy2) | [Porque la vida fue tan injusta](https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9) | 3:02 | 2026-06-26 |  |
 | [Porqué Como Tú](https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Porqué Como Tú](https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU) | 3:59 | 2022-05-13 | 2023-01-07 |
 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 | 2022-06-01 | 2023-01-07 |
 | [Probablemente](https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 | 2022-05-13 | 2023-01-07 |
@@ -526,6 +529,7 @@
 | [Tu Adiós Como Tequila \- Versión Mariachi](https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Tu Adiós Como Tequila \(Versión Mariachi\)](https://open.spotify.com/album/32ZSvVzmVoHGeXeT9JIxRH) | 3:35 | 2022-05-13 | 2023-01-07 |
 | [Tu Amante](https://open.spotify.com/track/5IiRU7hwmvfNfLg3xLfVkE) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Cántalas](https://open.spotify.com/album/3E1fWH9Vyb9eBasSLXUBim) | 3:24 | 2022-05-13 | 2022-06-01 |
 | [Tu Amante](https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu Amante](https://open.spotify.com/album/1IF3OmJA6rQKVEof7C85us) | 3:24 | 2022-06-01 | 2023-01-07 |
+| [Tu Eterno Enamorado](https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg) | [Osbaldo Lopez](https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d) | [Tu Eterno Enamorado](https://open.spotify.com/album/1u0hzSTwrrbm5HbHOCAcDV) | 3:02 | 2026-06-26 |  |
 | [Tu Mama](https://open.spotify.com/track/4sT2ok1MLTcvLC2YocPuJU) | [Rocio Jasso](https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b) | [Tu Mama](https://open.spotify.com/album/4UghGYyZTNF1yZMbMmJYPr) | 2:35 | 2024-03-08 | 2024-04-30 |
 | [Tu Retirada](https://open.spotify.com/track/5Cwzn2O9Y5nPbbNLI88st8) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Indomable](https://open.spotify.com/album/2EnbSxO2FJd9wQWE3p7q01) | 4:02 | 2022-05-13 | 2022-06-01 |
 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:58 | 2022-05-13 | 2023-01-07 |
@@ -566,6 +570,7 @@
 | [Ya Es Muy Tarde](https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [Ya Es Muy Tarde](https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy) | 3:47 | 2026-05-22 |  |
 | [Ya Es Suficiente](https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Ya Es Suficiente](https://open.spotify.com/album/5Rd0mR4ErR1V7Seq9D3ELT) | 3:02 | 2023-01-06 | 2023-07-23 |
 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 | 2022-05-13 | 2022-06-01 |
+| [Ya No Le Mientas](https://open.spotify.com/track/7xdtRize93wp9Zi3HM3bqI) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Ya No Le Mientas](https://open.spotify.com/album/5luT7UJl4D2vY5xL8M6mRf) | 2:39 | 2026-06-26 |  |
 | [Ya No Me Importa](https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:43 | 2022-05-13 | 2022-06-01 |
 | [Ya No Me Importa](https://open.spotify.com/track/1uVQ9tclCufSbqpaOHgfU4) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Ya No Me Importa](https://open.spotify.com/album/7sZubnxahx4tIddCErjwFR) | 2:25 | 2022-06-01 | 2023-01-07 |
 | [Ya no me importa](https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN) | [Sebas Estrada](https://open.spotify.com/artist/2zRwtBlZ7NdX5M1YeFVQnx) | [Ya no me importa](https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf) | 2:54 | 2022-06-01 | 2023-01-07 |

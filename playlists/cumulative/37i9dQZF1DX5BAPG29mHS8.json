@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "67",
+        "url": "https://open.spotify.com/album/3QgLZuwsnQUml2qGWvxxHO"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159125,
+      "name": "67",
+      "url": "https://open.spotify.com/track/463ofCva1Fqv4Vlw50SOOX"
+    },
+    {
+      "album": {
         "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
@@ -1374,6 +1392,28 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "album": {
+        "name": "AMIGOS CON DERECHOS",
+        "url": "https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168890,
+      "name": "AMIGOS CON DERECHOS",
+      "url": "https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9"
     },
     {
       "album": {
@@ -9879,6 +9919,24 @@
     },
     {
       "album": {
+        "name": "La Formula",
+        "url": "https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "La Formula",
+      "url": "https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g"
+    },
+    {
+      "album": {
         "name": "La Guerita",
         "url": "https://open.spotify.com/album/2LcCq1U716IqmlzlwSLAct"
       },
@@ -12772,7 +12830,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 156444,
       "name": "Millonari",
       "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
@@ -14938,7 +14996,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 156256,
       "name": "PANIKI",
       "url": "https://open.spotify.com/track/0fF5mK8NIiMOehvmg0Xqq9"
@@ -16320,7 +16378,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
@@ -16632,6 +16690,24 @@
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+    },
+    {
+      "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/1qiWVzOApnT0lLLQofPr1S"
     },
     {
       "album": {
@@ -19432,7 +19508,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
@@ -20550,7 +20626,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 193732,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/0fZbQRMzIkltayJ8FhOFtH"
@@ -22622,6 +22698,28 @@
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"
+    },
+    {
+      "album": {
+        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172997,
+      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 347489,
+  "num_followers": 347526,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADUuyYHW2Csz4Ly3VimrGLR",
+  "snapshot_id": "ajxvgAAAAABXn/Qg7Q8KzhUi3qXs1cfV",
   "tracks": [
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez Con Mariachi",
-        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
+        "name": "Ya Despu\u00e9s De Muerto",
+        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 242195,
-      "name": "Mar\u00eda De La Luz",
-      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
+      "duration_ms": 199045,
+      "name": "Corazoncito Tirano",
+      "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
     },
     {
       "added_at": null,
@@ -515,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Despu\u00e9s De Muerto",
-        "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
       },
       "artists": [
         {
           "name": "Chalino Sanchez",
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 199045,
-      "name": "Corazoncito Tirano",
-      "url": "https://open.spotify.com/track/1lRVQ0anNC6adfOLfsHjG7"
+      "duration_ms": 242195,
+      "name": "Mar\u00eda De La Luz",
+      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Quisiera Ser Pajarillo",
-      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 202675,
       "name": "Corrido Del Gallito",
       "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Quisiera Ser Pajarillo",
+      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos de Colecci\u00f3n, Vol.1",
+        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 164942,
       "name": "Corrido De Olegario",
       "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos de Colecci\u00f3n, Vol.1",
-        "url": "https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s \u00c9xitos con Chalino S\u00e1nchez (Remastered 2025)",
+        "url": "https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 250224,
+      "name": "El Sapo - Remastered 2025",
+      "url": "https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s \u00c9xitos con Chalino S\u00e1nchez (Remastered 2025)",
-        "url": "https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 250224,
-      "name": "El Sapo - Remastered 2025",
-      "url": "https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermos\u00edsimo Lucero",
         "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 202666,
       "name": "Lucero Negro",
       "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "El Branco Fajiado",
+      "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 213507,
       "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
       "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
-        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "El Branco Fajiado",
-      "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
     },
     {
       "added_at": null,

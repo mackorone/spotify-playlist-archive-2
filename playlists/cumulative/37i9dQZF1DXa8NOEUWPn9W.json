@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Green Velvet & Detlef",
+  "description": "House music lives here. United under one roof, featuring FISHER and Florence Arman",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Anaconda",
+        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216861,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
+    },
+    {
+      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -2161,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
       },
@@ -2522,7 +2558,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 225454,
       "name": "Bass Rider",
       "url": "https://open.spotify.com/track/71lvGzvRiC58AeFffFmw3N"
@@ -3784,7 +3820,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206428,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/70q857tiye8tZ57Tau00jW"
@@ -4727,6 +4763,32 @@
     },
     {
       "album": {
+        "name": "Can't Say Nah (feat. Benni Ola)",
+        "url": "https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Can't Say Nah (feat. Benni Ola)",
+      "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
+    },
+    {
+      "album": {
         "name": "Can't Stop Thinking About",
         "url": "https://open.spotify.com/album/3b3b2mY42N62Gr26cEncx6"
       },
@@ -5067,7 +5129,7 @@
     },
     {
       "album": {
-        "name": "Check Check",
+        "name": "check check",
         "url": "https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh"
       },
       "artists": [
@@ -5080,7 +5142,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 182326,
-      "name": "Check Check",
+      "name": "check check",
       "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
     },
     {
@@ -5224,6 +5286,28 @@
       "duration_ms": 351412,
       "name": "Cinemax - Edit",
       "url": "https://open.spotify.com/track/682HD7Z4WzSxqyjEJQgtBU"
+    },
+    {
+      "album": {
+        "name": "CircoLoco",
+        "url": "https://open.spotify.com/album/1tJaK909K2B286fMfOwQ6G"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/0SpjJZehdlLB7qMJL86E35"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239485,
+      "name": "CircoLoco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LAVS3IzKkS5Mi7IU8oycu"
     },
     {
       "album": {
@@ -5543,6 +5627,28 @@
     },
     {
       "album": {
+        "name": "Come Back Tomorrow",
+        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202017,
+      "name": "Come Back Tomorrow",
+      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "album": {
         "name": "Come Closer EP",
         "url": "https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz"
       },
@@ -5748,7 +5854,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 192836,
       "name": "Control",
       "url": "https://open.spotify.com/track/4e1L2pH75XOtCE0I0XzxlU"
@@ -8988,7 +9094,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
@@ -10222,7 +10328,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
@@ -11898,6 +12004,24 @@
       "duration_ms": 185806,
       "name": "Got to Love",
       "url": "https://open.spotify.com/track/1no0u5mO6IY3B2L6dEzVrj"
+    },
+    {
+      "album": {
+        "name": "Gotta Be Cool",
+        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231774,
+      "name": "Gotta Be Cool",
+      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
     },
     {
       "album": {
@@ -18176,7 +18300,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187965,
       "name": "Lots of Love",
       "url": "https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4"
@@ -22646,7 +22770,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 193464,
       "name": "Passion (R U Satisfied)",
       "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
@@ -22690,6 +22814,24 @@
       "duration_ms": 187087,
       "name": "Patchwork",
       "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
+    },
+    {
+      "album": {
+        "name": "Sex Machine EP",
+        "url": "https://open.spotify.com/album/1e3vwSdN7h1l2CK327jwaw"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225134,
+      "name": "Pay To Play",
+      "url": "https://open.spotify.com/track/2K5sawFkHlDwpm3Pu1JUq3"
     },
     {
       "album": {
@@ -24324,6 +24466,28 @@
       "duration_ms": 187500,
       "name": "Rhythm Machine",
       "url": "https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb"
+    },
+    {
+      "album": {
+        "name": "Rhythm Of The House",
+        "url": "https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        },
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199575,
+      "name": "Rhythm Of The House",
+      "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
     },
     {
       "album": {
@@ -26512,7 +26676,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178500,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/6ZyMKpaBRpFVeAhmWy5Us9"
@@ -27253,6 +27417,28 @@
     },
     {
       "album": {
+        "name": "State Of Mind (with Camden Cox)",
+        "url": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "State Of Mind (with Camden Cox)",
+      "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB"
       },
@@ -27942,7 +28128,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 160025,
       "name": "Swagger Sound",
       "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
@@ -30680,7 +30866,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 215040,
       "name": "U Ain't Lyin'",
       "url": "https://open.spotify.com/track/2Jiax1WNF2PvupJP0Rn6EL"
@@ -30994,7 +31180,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187500,
       "name": "Va Va Voom",
       "url": "https://open.spotify.com/track/3OsoEWDeqRgsd3v3z20L5o"
@@ -31809,6 +31995,28 @@
     },
     {
       "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189398,
+      "name": "What A Life (feat. Florence Arman)",
+      "url": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ"
+    },
+    {
+      "album": {
         "name": "What Have You Done For Me Lately",
         "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
       },
@@ -32480,6 +32688,28 @@
       "duration_ms": 169354,
       "name": "Without You",
       "url": "https://open.spotify.com/track/3CUzFT1kB8i897irsbV4GD"
+    },
+    {
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "album": {

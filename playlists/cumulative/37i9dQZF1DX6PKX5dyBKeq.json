@@ -3727,6 +3727,52 @@
     },
     {
       "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Suggz",
+          "url": "https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        },
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Reekz PB",
+          "url": "https://open.spotify.com/artist/1rcDQO1ZDEfAXpM6ycRWqk"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277714,
+      "name": "Avengers",
+      "url": "https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum"
+    },
+    {
+      "album": {
         "name": "Avengers (feat. Popcaan)",
         "url": "https://open.spotify.com/album/4oAFfQnW4DcAwh4MSawVI2"
       },
@@ -43770,24 +43816,6 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum"
     },
     {
       "album": {

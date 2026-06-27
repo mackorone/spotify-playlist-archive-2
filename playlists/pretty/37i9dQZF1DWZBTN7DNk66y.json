@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29263,
+  "num_followers": 29268,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "T\u00c1",
-        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Ana Mar\u00eda",
-      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 275551,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "T\u00c1",
+        "url": "https://open.spotify.com/album/2jqMX5VF39iN4Jgm1SSh03"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Ana Mar\u00eda",
+      "url": "https://open.spotify.com/track/56frUZQsbNRY22EyjcuCrH"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Porte\u00f1a",
-        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 254829,
-      "name": "Malagradecida",
-      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Ojos De Fuego",
         "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 314996,
       "name": "Ojos De Fuego",
       "url": "https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Porte\u00f1a",
+        "url": "https://open.spotify.com/album/1Cw28qlsCwgIBYnhgqEyzC"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 254829,
+      "name": "Malagradecida",
+      "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "A\u00fan no mor\u00ed",
-        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        },
-        {
-          "name": "Isabel Lenoir",
-          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
-        }
-      ],
-      "duration_ms": 217457,
-      "name": "A\u00fan no mor\u00ed",
-      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Amor Amor",
         "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 222006,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "A\u00fan no mor\u00ed",
+        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        },
+        {
+          "name": "Isabel Lenoir",
+          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
+        }
+      ],
+      "duration_ms": 217457,
+      "name": "A\u00fan no mor\u00ed",
+      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+      },
+      "artists": [
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Luna Llena de Fuego",
         "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
       },
@@ -955,46 +975,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
-      },
-      "artists": [
-        {
-          "name": "bambu",
-          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 231127,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/0SRelqWjmVPD1Y4nslmyB6"
+      },
+      "artists": [
+        {
+          "name": "bambu",
+          "url": "https://open.spotify.com/artist/33gHNq944vAjJT986rp1TZ"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 231127,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Sendero",
         "url": "https://open.spotify.com/album/5rxlC79Jn0KgMI3OjSvlZ9"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 233385,
       "name": "Sendero",
       "url": "https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 237078,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
-      },
-      "artists": [
-        {
-          "name": "Micaela Basadoni",
-          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
-        },
-        {
-          "name": "Luna Sujatovich",
-          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
-        }
-      ],
-      "duration_ms": 139952,
-      "name": "Siesta rosa",
-      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
+      },
+      "artists": [
+        {
+          "name": "Micaela Basadoni",
+          "url": "https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU"
+        },
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        }
+      ],
+      "duration_ms": 139952,
+      "name": "Siesta rosa",
+      "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
-      },
-      "artists": [
-        {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
-        }
-      ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "D\u00eda tras d\u00eda",
         "url": "https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF"
       },
@@ -1763,22 +1747,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Otras Bocas, Otras Lenguas",
-        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
       },
       "artists": [
         {
-          "name": "Alejo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
         }
       ],
-      "duration_ms": 285375,
-      "name": "Otras Bocas, Otras Lenguas",
-      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1815,6 +1795,26 @@
       "duration_ms": 178576,
       "name": "Soles en la Luna - Ma'\u1ebdna anga",
       "url": "https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Otras Bocas, Otras Lenguas",
+        "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
+      },
+      "artists": [
+        {
+          "name": "Alejo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2dwM9OcE4c3Ph1UBINSodx"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 285375,
+      "name": "Otras Bocas, Otras Lenguas",
+      "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
     },
     {
       "added_at": "2026-03-10 15:20:53",

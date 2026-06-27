@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,971 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,976 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 21 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
 | 22 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
 | 23 | [Ugly Sweater Blues](https://open.spotify.com/track/4vqUiwZ2f6bYjpmbo7LW5x) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC) | 2:56 |
-| 24 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
-| 25 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
+| 24 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
+| 25 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
 | 26 | [Happy New Year](https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [The Devil You Know](https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk) | 3:52 |
 | 27 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
 | 28 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 |

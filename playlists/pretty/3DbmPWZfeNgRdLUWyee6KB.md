@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 201 songs - 11 hr 20 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 202 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,5 +209,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 199 | [FURRY FRIENDS](https://open.spotify.com/track/2gnZmFxLw9by8BwV1k6BHa) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FURRY FRIENDS](https://open.spotify.com/album/5HKaaPkVWWcxYZ9COjBxIX) | 2:34 |
 | 200 | [Even If It Ends](https://open.spotify.com/track/5uMjPEoWLYy76yf4pj9iLb) | [Youb Mens](https://open.spotify.com/artist/4g0hEdRRDZAtsWO9YgRJFT), [Samija](https://open.spotify.com/artist/46P7ib6U2AhkLntVpf6LUF) | [Even If It Ends](https://open.spotify.com/album/3FTi7jUWKe34h6n73MBYsW) | 2:55 |
 | 201 | [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 |
+| 202 | [It Slips Out](https://open.spotify.com/track/5czxTvjUblxfYTgu3uBFT2) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [It Slips Out](https://open.spotify.com/album/4ZxE206WS5pevYK2fARkpv) | 3:23 |
 
-Snapshot ID: `AAAVSxNVqtcceb9t5FxM9Uvr9+movAHE`
+Snapshot ID: `AAAVTEbXd93wurQ65nEeWbCPa1QOJXhV`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-406 songs - 1 day 12 hr 45 min
+407 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Python](https://open.spotify.com/track/66t1AeKLiO4MeB4infU6RA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [XOXO](https://open.spotify.com/album/2B0zymgi6PcjXBL6e6sRf3) | 7:52 | 2025-04-25 | 2026-04-18 |
 | [R U FCKNG SERIOUS \- Moritz Hofbauer Remix](https://open.spotify.com/track/5SfyXx7eOVL3zI16uNjRRN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [R U FCKNG SERIOUS \(2023 Remaster + Remixes\)](https://open.spotify.com/album/6DFJ1oSqV2bgw3tXiCdn22) | 6:31 | 2023-08-25 | 2023-11-25 |
 | [Red In The Desert](https://open.spotify.com/track/2h7WCMGmGeNDQRhw40qHUc) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Red In The Desert](https://open.spotify.com/album/3lRV5oID7bkBR4BP4xgBlX) | 3:26 | 2025-10-31 | 2026-03-21 |
+| [Red In The Desert \- Joseph Capriati Remix](https://open.spotify.com/track/2s65MIW86O3HQqMSisJUe6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf) | [Red In The Desert \(Joseph Capriati Remix\)](https://open.spotify.com/album/08zh77lOlw5plQeNs8tAz9) | 5:12 | 2026-06-26 |  |
 | [Red Wedding](https://open.spotify.com/track/6WO56O5QJgoSwDwOTsbIM9) | [SOURCE+RUMITZ](https://open.spotify.com/artist/07naaE7QfabZrVoPqsa0Lh) | [Red Wedding](https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq) | 8:46 | 2023-05-05 | 2024-11-09 |
 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 | 2023-10-27 | 2025-02-15 |
 | [Remember the Music](https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Remember the Music](https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy) | 4:04 | 2024-07-01 | 2024-10-12 |

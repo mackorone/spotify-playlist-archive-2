@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-266 songs - 14 hr 29 min
+267 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,8 +167,9 @@
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2023-12-13 |  |
 | [Open Always Wins](https://open.spotify.com/track/4vuudfaZC8lxouxxC9tLOz) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#75](https://open.spotify.com/album/6eajkqJn9Tva9SvTVmYfr2) | 2:22 | 2024-08-18 | 2024-10-04 |
 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 | 2024-10-03 |  |
-| [Open Book](https://open.spotify.com/track/0qHcXbKygBssRpTYHxzJ2W) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why](https://open.spotify.com/album/76y1pCBvDEZeIPtS4gHJ9e) | 4:48 | 2024-12-11 |  |
+| [Open Book](https://open.spotify.com/track/0qHcXbKygBssRpTYHxzJ2W) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why](https://open.spotify.com/album/76y1pCBvDEZeIPtS4gHJ9e) | 4:48 | 2024-12-11 | 2026-06-27 |
 | [Open Book](https://open.spotify.com/track/0u9EMAFCKDIwiSS2wGLk0K) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why?](https://open.spotify.com/album/48I2gzctst5EmUaVNUsnwL) | 4:48 | 2021-12-27 | 2023-12-14 |
+| [Open Book](https://open.spotify.com/track/1R1PYPEvYasgYBjmRjkHKE) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why?](https://open.spotify.com/album/7Kgb5OL8ERXGxgC24eh5OY) | 4:48 | 2026-06-26 |  |
 | [Open Book](https://open.spotify.com/track/61A57xxAea7lkLFClsCVOn) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why?](https://open.spotify.com/album/4pwckZgqySwVgWj7EGlo9d) | 4:48 | 2023-12-13 | 2024-12-12 |
 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-12 |  |
 | [Paper Love](https://open.spotify.com/track/59HRIFXMIkjsYF0Ji2MlKA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/12ty08Y0h6TtP469jEtJ9S) | 3:16 | 2021-12-27 | 2023-06-15 |

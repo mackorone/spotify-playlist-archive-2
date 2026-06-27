@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Mimi Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,643 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,650 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 49 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 |
 | 50 | [No Stress](https://open.spotify.com/track/1VQereVv8Flzey3eD9sj6D) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [No Stress](https://open.spotify.com/album/47InAFoqRqQ7E7LdEcrUFt) | 2:35 |
 
-Snapshot ID: `AAAAANP7Pnht0LnYHgLfiHJYuG75gpDu`
+Snapshot ID: `AAAAABm4uEEKLtBqmKW8HeVxp4Rh/Z5j`

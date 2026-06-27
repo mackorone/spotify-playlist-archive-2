@@ -100427,6 +100427,24 @@
     },
     {
       "album": {
+        "name": "Red Card",
+        "url": "https://open.spotify.com/album/4lGK2hFLltxu1gxlTsrrhO"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115931,
+      "name": "Red Card",
+      "url": "https://open.spotify.com/track/4tKGWvBamBpUmU9ERmLD1j"
+    },
+    {
+      "album": {
         "name": "Red Eye",
         "url": "https://open.spotify.com/album/2L7NJFxSMRMSDnY0hqxOiH"
       },
@@ -135919,6 +135937,28 @@
     },
     {
       "album": {
+        "name": "Witcha",
+        "url": "https://open.spotify.com/album/4iHElHbSMojagEEx09D3kg"
+      },
+      "artists": [
+        {
+          "name": "Ciara Cuv\u00e9",
+          "url": "https://open.spotify.com/artist/0jL2xQp86VKvXfkL35QRY8"
+        },
+        {
+          "name": "Enham",
+          "url": "https://open.spotify.com/artist/1aHtToTOTgyF83Q2EtAdoz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Witcha",
+      "url": "https://open.spotify.com/track/1ivicrIdH9AyrBHuxBHa5W"
+    },
+    {
+      "album": {
         "name": "WITH ME",
         "url": "https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y"
       },
@@ -136404,6 +136444,28 @@
       "duration_ms": 97776,
       "name": "wo warst du",
       "url": "https://open.spotify.com/track/3tnQ659lreM1zp87AB0sbD"
+    },
+    {
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "album": {

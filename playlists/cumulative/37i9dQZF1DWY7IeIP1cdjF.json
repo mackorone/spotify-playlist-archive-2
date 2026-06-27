@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 157571,
       "name": "Botellita De Champagne",
       "url": "https://open.spotify.com/track/1qUwfQjdSq3Jta580WvsI3"
@@ -5905,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181277,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
+    },
+    {
+      "album": {
         "name": "FUMETEO (Remix)",
         "url": "https://open.spotify.com/album/2RS7DIwtcaoDue6Rcg6PGD"
       },
@@ -7988,7 +8006,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
@@ -9688,7 +9706,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 127366,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
@@ -10296,6 +10314,28 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "album": {
+        "name": "NOTA",
+        "url": "https://open.spotify.com/album/7AQ1vE4tY1dMceu9sTTyfO"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167106,
+      "name": "NOTA",
+      "url": "https://open.spotify.com/track/7zCBT5SUMOHkuUnTZHyNQC"
     },
     {
       "album": {
@@ -11237,6 +11277,28 @@
     },
     {
       "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
+    },
+    {
+      "album": {
         "name": "PELIGROSA",
         "url": "https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz"
       },
@@ -12057,6 +12119,32 @@
     },
     {
       "album": {
+        "name": "PROV\u00d3CATE",
+        "url": "https://open.spotify.com/album/6UrmZ0pbAvY80glXCCVlZi"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "PROV\u00d3CATE",
+      "url": "https://open.spotify.com/track/6tVUJRUMCPucWI3ZDCKQIK"
+    },
+    {
+      "album": {
         "name": "PARA TODAS LAS MAMACITAS",
         "url": "https://open.spotify.com/album/3vybLae46btPWds1OXSHTK"
       },
@@ -12504,6 +12592,36 @@
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+    },
+    {
+      "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/5LisdCHCabIfd7kzP6MXne"
+      },
+      "artists": [
+        {
+          "name": "Gaby Music",
+          "url": "https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/58BUlorkbBEPLOmTZkXKr7"
     },
     {
       "album": {
@@ -14918,7 +15036,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
@@ -16262,7 +16380,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

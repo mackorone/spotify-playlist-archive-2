@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Blue Ridge Band",
+  "description": "The home of Canadian country music. Cover: James Barker Band",
   "name": "North Country",
   "tracks": [
     {
@@ -164,6 +164,24 @@
       "duration_ms": 221640,
       "name": "A Real Man",
       "url": "https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7"
+    },
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181389,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
     },
     {
       "album": {
@@ -532,6 +550,24 @@
       "duration_ms": 299453,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0A1gnuKVww2zEcZcu7seyu"
+    },
+    {
+      "album": {
+        "name": "Anything But That / Blame It On The Jukebox",
+        "url": "https://open.spotify.com/album/50zkEmS6l4nrfsDPW4LPGJ"
+      },
+      "artists": [
+        {
+          "name": "The Mainlanders",
+          "url": "https://open.spotify.com/artist/4nSnBHdBOmQIh9B9zUU8kX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169437,
+      "name": "Anything But That",
+      "url": "https://open.spotify.com/track/0aAKFjfgx3Mv9ZVC35U9de"
     },
     {
       "album": {
@@ -1438,7 +1474,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206938,
       "name": "Burnin' Now",
       "url": "https://open.spotify.com/track/7Kp6frqhrF4iWZtPHFAZeh"
@@ -1496,6 +1532,24 @@
       "duration_ms": 218810,
       "name": "Call For You",
       "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
+    },
+    {
+      "album": {
+        "name": "Call You A Country Boy",
+        "url": "https://open.spotify.com/album/3GrR7tNyyqghXTnhPJwisa"
+      },
+      "artists": [
+        {
+          "name": "The Martin Boys",
+          "url": "https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198146,
+      "name": "Call You A Country Boy",
+      "url": "https://open.spotify.com/track/1eFfvPvwLDDh3XjHzrezK7"
     },
     {
       "album": {
@@ -2134,7 +2188,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 183813,
       "name": "Cowboy Crazy",
       "url": "https://open.spotify.com/track/2QJtrLjUVj2u08DElIBr3r"
@@ -2228,6 +2282,24 @@
       "duration_ms": 188096,
       "name": "Crazy For You",
       "url": "https://open.spotify.com/track/4F20g3pd4jMu7hHNPKoUxG"
+    },
+    {
+      "album": {
+        "name": "Crooked Heart",
+        "url": "https://open.spotify.com/album/21KEjRBj0v2QFQeLQKKtmI"
+      },
+      "artists": [
+        {
+          "name": "Charissa",
+          "url": "https://open.spotify.com/artist/2mA5aOUA0aNvFIzBKE1iTc"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Crooked Heart",
+      "url": "https://open.spotify.com/track/6f6BNmylsm3MN04P1as8FS"
     },
     {
       "album": {
@@ -2520,10 +2592,28 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 179218,
       "name": "Dead to Me",
       "url": "https://open.spotify.com/track/6cAgAl351adI4ETmE4pfnX"
+    },
+    {
+      "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
     },
     {
       "album": {
@@ -2574,7 +2664,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 212759,
       "name": "Dernier mot",
       "url": "https://open.spotify.com/track/4N0eBOtW24oTP3LbpbvsWj"
@@ -3350,7 +3440,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187988,
       "name": "Fire Child",
       "url": "https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o"
@@ -3524,7 +3614,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 176786,
       "name": "Foraine",
       "url": "https://open.spotify.com/track/1tBoPHs23Y9lYSpikSj3dq"
@@ -3546,7 +3636,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 256223,
       "name": "Forever Changed",
       "url": "https://open.spotify.com/track/3HidZA7UD6dsFkXipUyntd"
@@ -4062,6 +4152,24 @@
       "duration_ms": 161486,
       "name": "Good Thing Goin'",
       "url": "https://open.spotify.com/track/1ieyxmrg8nfH4zm6f7Usl1"
+    },
+    {
+      "album": {
+        "name": "Good Time Goes",
+        "url": "https://open.spotify.com/album/72DXGnyQci5iySip0YI8TI"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "Good Time Goes",
+      "url": "https://open.spotify.com/track/6haT5X7ZPkkyKJl37HZWMO"
     },
     {
       "album": {
@@ -5020,7 +5128,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 165797,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/17X7LnnLPlLYcqkUzxozjp"
@@ -5128,7 +5236,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 188313,
       "name": "I Don't Shine",
       "url": "https://open.spotify.com/track/2fGiIwttSIJ9KFee1r3Fw2"
@@ -5838,7 +5946,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 138389,
       "name": "J'pense qu'on est d\u00fb",
       "url": "https://open.spotify.com/track/634Cq5adWVq0fLbyurn4E4"
@@ -6058,6 +6166,24 @@
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "album": {
+        "name": "Kiss My Glass",
+        "url": "https://open.spotify.com/album/1hLmkh1BrKnjhTpv2j6uPz"
+      },
+      "artists": [
+        {
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "Kiss My Glass",
+      "url": "https://open.spotify.com/track/2jvj8Ujx1atOIE7QIMCekC"
     },
     {
       "album": {
@@ -6541,6 +6667,28 @@
     },
     {
       "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
+    },
+    {
+      "album": {
         "name": "Little Of The Drunk Me",
         "url": "https://open.spotify.com/album/1uHVq7dDuZi6gi5raL2yWj"
       },
@@ -6960,7 +7108,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 209942,
       "name": "Man Outta Me",
       "url": "https://open.spotify.com/track/51nRWKX2GqMu4h5B0jqlqJ"
@@ -7491,6 +7639,28 @@
     },
     {
       "album": {
+        "name": "Neon Town",
+        "url": "https://open.spotify.com/album/7mEqmkilvctmYwZegxYSal"
+      },
+      "artists": [
+        {
+          "name": "Gord Bamford",
+          "url": "https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups"
+        },
+        {
+          "name": "Dallas Alexander",
+          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165875,
+      "name": "Neon Town",
+      "url": "https://open.spotify.com/track/1XOAvyG75esKqcVrU1905C"
+    },
+    {
+      "album": {
         "name": "Never Drinking Again",
         "url": "https://open.spotify.com/album/6cIFKlwoPIhIaEohKz99Py"
       },
@@ -7708,7 +7878,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 210425,
       "name": "Nobody Roads",
       "url": "https://open.spotify.com/track/0z1WNPABTJVmhDG9WK8EHT"
@@ -8450,7 +8620,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 180102,
       "name": "Paradise & Hurricanes",
       "url": "https://open.spotify.com/track/3Ke1H3yXStzd29Mz0xK5vM"
@@ -9568,7 +9738,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 173690,
       "name": "SHE'S SO SWEET",
       "url": "https://open.spotify.com/track/09XEPqzhscWgZ65uYKHvuJ"
@@ -11375,6 +11545,28 @@
     },
     {
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
+    },
+    {
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/085IcPMakVdABGg6iV6L2n"
       },
@@ -11660,7 +11852,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 191192,
       "name": "Une autre histoire",
       "url": "https://open.spotify.com/track/3kguXseiQKUXWV7yfRgSjJ"

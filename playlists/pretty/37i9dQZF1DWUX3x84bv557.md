@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,741 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,763 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 13 | [Elk Risico Waard](https://open.spotify.com/track/2ZsKOqQXJiJQnk9wY8T7Nn) | [Sabien](https://open.spotify.com/artist/5crEEdqLKMj9sfD2vdeo5o) | [Dicht Bij Mij](https://open.spotify.com/album/0vFIT31n2dQOxuvc477ewc) | 2:44 |
 | 14 | [Twin](https://open.spotify.com/track/7ve2v3YkXa512zMk6FM8a4) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Twin](https://open.spotify.com/album/1UmeapC8Q60EZ4SirUrv0R) | 2:32 |
 | 15 | [Damn I Think I Love You 2.0](https://open.spotify.com/track/2WtXU2XRWsTnTrF1osJUAd) | [K\-otic](https://open.spotify.com/artist/0dyJmRgb1c6Q8FiODm8KAb) | [Damn I Think I Love You 2.0](https://open.spotify.com/album/4aio7PEyNmWFUpZqANaLtS) | 3:12 |
-| 16 | [Twee Mensen](https://open.spotify.com/track/4NdmsDZaXcdafzpqanIreO) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Jacob Dubbel](https://open.spotify.com/artist/5CgWSdci8Qzl9dRNDIE0S5), [Grote Komeet](https://open.spotify.com/artist/7LYfZxjkhw2zHu56dEhzG6) | [Twee Mensen](https://open.spotify.com/album/2Zm0J1I4wFU87tALfr7HYr) | 4:42 |
+| 16 | [Twee Mensen](https://open.spotify.com/track/4NdmsDZaXcdafzpqanIreO) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Jacob Dubbel](https://open.spotify.com/artist/4Lp0MmnChBCtuK7HIYO3Jn), [Grote Komeet](https://open.spotify.com/artist/7LYfZxjkhw2zHu56dEhzG6) | [Twee Mensen](https://open.spotify.com/album/2Zm0J1I4wFU87tALfr7HYr) | 4:42 |
 | 17 | [Nooduitgang](https://open.spotify.com/track/5rOBfDJVwRRDFNe2YxeXbf) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Nooduitgang](https://open.spotify.com/album/4nTDJDQYvw7pzXVojgpsI8) | 3:24 |
 | 18 | [3.2.1.](https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [3.2.1.](https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ) | 3:21 |
 | 19 | [Voor Iedereen](https://open.spotify.com/track/30p2i1EvXB9RounDUOhGsF) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Voor Iedereen](https://open.spotify.com/album/3HscyVfPrAEfHGRDumpYZO) | 2:55 |

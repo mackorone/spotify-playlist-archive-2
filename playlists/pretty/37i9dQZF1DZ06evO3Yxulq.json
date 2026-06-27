@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 42005,
+  "num_followers": 42006,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAlJ+f/uEDsYmNNZfBJzQy8",
+  "snapshot_id": "ajxvgAAAAAAI+y6u8iSbFcCkw64Hrn5D",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 513870,
+      "name": "Dios de Maravillas",
+      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Necesidad (Live)",
         "url": "https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 616880,
       "name": "Mi Necesidad - Live",
       "url": "https://open.spotify.com/track/4ax8W4nFT6r5QfK1hxnXRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 513870,
-      "name": "Dios de Maravillas",
-      "url": "https://open.spotify.com/track/5QO9bWvJS6lHbITqUzf0jO"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 267326,
+      "name": "Ruge",
+      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1s Profundo",
         "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
       },
@@ -819,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 267326,
-      "name": "Ruge",
-      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -879,18 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+        "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+        "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+      "duration_ms": 231742,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+      "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
     },
     {
       "added_at": null,
@@ -911,26 +931,6 @@
       "duration_ms": 287533,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corriente / Un D\u00eda A La Vez (Medley)",
-        "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 231742,
-      "name": "Corriente / Un D\u00eda A La Vez (Medley)",
-      "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
     },
     {
       "added_at": null,

@@ -9123,6 +9123,24 @@
     },
     {
       "album": {
+        "name": "Die Next To You",
+        "url": "https://open.spotify.com/album/1KxbHOU842mZkbciseNI0i"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213648,
+      "name": "Die Next To You",
+      "url": "https://open.spotify.com/track/5gTLztYL2Mytq5EVPFeGxE"
+    },
+    {
+      "album": {
         "name": "Die On This Hill",
         "url": "https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC"
       },
@@ -19047,7 +19065,7 @@
     },
     {
       "album": {
-        "name": "I Knew It, I Knew You",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
@@ -19060,7 +19078,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
@@ -38963,24 +38981,6 @@
     },
     {
       "album": {
-        "name": "I understand you sometimes",
-        "url": "https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn"
-    },
-    {
-      "album": {
         "name": "Train",
         "url": "https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj"
       },
@@ -42028,6 +42028,24 @@
       "duration_ms": 209479,
       "name": "Wish I Didn't",
       "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
+    },
+    {
+      "album": {
+        "name": "I understand you sometimes",
+        "url": "https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Wish Upon A Sun",
+      "url": "https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn"
     },
     {
       "album": {

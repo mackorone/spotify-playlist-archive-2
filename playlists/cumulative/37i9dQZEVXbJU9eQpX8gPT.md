@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,109 songs - 4 day 18 hr 18 min
+2,110 songs - 4 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1260,7 +1260,8 @@
 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-15 | 2026-03-22 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-22 | 2023-05-24 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-09 | 2023-04-23 |
-| [MON PAYS](https://open.spotify.com/track/7lpIzkaN94dhq5fuNc7v59) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MON PAYS](https://open.spotify.com/album/5JdwrDTz88fZcX9RYa6agm) | 3:31 | 2026-06-18 |  |
+| [MON PAYS](https://open.spotify.com/track/1085UWT4FdQOgQDbmA5pe2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2 \- Extension\)](https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g) | 3:31 | 2026-06-26 |  |
+| [MON PAYS](https://open.spotify.com/track/7lpIzkaN94dhq5fuNc7v59) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [MON PAYS](https://open.spotify.com/album/5JdwrDTz88fZcX9RYa6agm) | 3:31 | 2026-06-18 | 2026-06-27 |
 | [Mon poto](https://open.spotify.com/track/2Mhn2jv81zNuuRvdlYOYlM) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Au clair de la rue \(Part.2\)](https://open.spotify.com/album/01yBge2y28BW4sCyh6QM71) | 3:19 | 2021-12-18 | 2022-01-04 |
 | [Mona Lisa](https://open.spotify.com/track/20yprTRbn3BtE3P3BRQ3xG) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:13 | 2021-05-08 | 2021-05-16 |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-22 | 2025-04-09 |

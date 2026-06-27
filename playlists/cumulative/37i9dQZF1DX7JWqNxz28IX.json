@@ -323,7 +323,7 @@
     },
     {
       "album": {
-        "name": "Amore pericoloso",
+        "name": "Amore Pericoloso",
         "url": "https://open.spotify.com/album/7s7cCiwhh4RH3dlRWLD6aG"
       },
       "artists": [
@@ -336,7 +336,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 132046,
-      "name": "Amore pericoloso",
+      "name": "Amore Pericoloso",
       "url": "https://open.spotify.com/track/067uO64hZ5My9V2c4AXyM0"
     },
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 196726,
       "name": "Atlantico",
       "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 172923,
       "name": "Hai fatto tardi",
       "url": "https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2"

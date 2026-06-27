@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,113 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,117 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 29 | [Mi Complemento](https://open.spotify.com/track/53m15VomGDsuaV71S8gXD0) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mi Complemento](https://open.spotify.com/album/1boUaFfBiyugoYGOQIGsQi) | 2:54 |
 | 30 | [Yo Quisiera Entrar](https://open.spotify.com/track/5sbnGS8meG63nqxeihnAQv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 4:51 |
 | 31 | [El Plebe del Rancho](https://open.spotify.com/track/2WrtMLBOcdUr3BmHBaCUly) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Plebe del Rancho](https://open.spotify.com/album/3KJspmEBkGrfOPEXyvgeUK) | 3:27 |
-| 32 | [Aquí Sigues Tú](https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Aquí Sigues Tú](https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj) | 4:22 |
-| 33 | [Buscábamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
+| 32 | [Buscábamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
+| 33 | [Aquí Sigues Tú](https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Aquí Sigues Tú](https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj) | 4:22 |
 | 34 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 |
 | 35 | [Tres Botellas](https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:19 |
 | 36 | [Dado A La Vida](https://open.spotify.com/track/6aY11ZLwdFwkCHX0gaoYYr) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Dado A La Vida](https://open.spotify.com/album/6tUh9wo5wFmFn1XHL3q2DC) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Karma](https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6) | 3:30 |
 | 50 | [Demasiado Tarde](https://open.spotify.com/track/2v9qicGSoOgaa9lz5djEze) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Demasiado Tarde](https://open.spotify.com/album/56kTxnxogCqBKbGmPMZkHH) | 2:12 |
 
-Snapshot ID: `ajseAAAAAAAFtwxHVZUv9NEJEvqBfIrE`
+Snapshot ID: `ajxvgAAAAABxGs+6ylPoEmRB26Ga7jzN`

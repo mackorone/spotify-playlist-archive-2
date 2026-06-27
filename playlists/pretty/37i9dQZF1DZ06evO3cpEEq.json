@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACzaEhjQRyUOarZO5cSeGBw",
+  "snapshot_id": "ajxvgAAAAACQe3r9ck4uwfKvSRA4i9KS",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/54v7sRXJYPlOhY3brfdCyL"
+      },
+      "artists": [
+        {
+          "name": "Brad Butcher",
+          "url": "https://open.spotify.com/artist/10X5cQoX0Mkm9eMZcXsetC"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/5cJROxX3DX3PzZI7SORzd0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kate Kelly",
         "url": "https://open.spotify.com/album/6SBv6mAGuH4Kl4aB5G7bdt"
       },
@@ -63,26 +83,6 @@
       "duration_ms": 267161,
       "name": "Kate Kelly",
       "url": "https://open.spotify.com/track/5CuYP8M74wJqQU4vmHTUfz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/54v7sRXJYPlOhY3brfdCyL"
-      },
-      "artists": [
-        {
-          "name": "Brad Butcher",
-          "url": "https://open.spotify.com/artist/10X5cQoX0Mkm9eMZcXsetC"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/5cJROxX3DX3PzZI7SORzd0"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Less of Me More Often",
-      "url": "https://open.spotify.com/track/6lIqDxKE72vM3vtIYCypmq"
+      "duration_ms": 235413,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 193213,
-      "name": "Turn out the Light",
-      "url": "https://open.spotify.com/track/2nPF1OqoEf149o7JKop0SX"
+      "duration_ms": 154666,
+      "name": "Less of Me More Often",
+      "url": "https://open.spotify.com/track/6lIqDxKE72vM3vtIYCypmq"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 158266,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424"
+      "duration_ms": 202546,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 202546,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
+      "duration_ms": 228066,
+      "name": "We'll Never Get Along",
+      "url": "https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing to Hide",
-        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 228066,
-      "name": "We'll Never Get Along",
-      "url": "https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6"
+      "duration_ms": 193213,
+      "name": "Turn out the Light",
+      "url": "https://open.spotify.com/track/2nPF1OqoEf149o7JKop0SX"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 228760,
       "name": "Ernie's Daughter",
       "url": "https://open.spotify.com/track/6yepggqorn7eMEsDtmyDFk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "The Flood",
-      "url": "https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing to Hide",
         "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Sugar Town",
-      "url": "https://open.spotify.com/track/6kqwN65FEBCatSX3z38670"
+      "duration_ms": 261200,
+      "name": "Sugarloaf Hill",
+      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
     },
     {
       "added_at": null,
@@ -476,25 +476,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 223426,
-      "name": "Time for a Change",
-      "url": "https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Live a Little",
-      "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
+      "duration_ms": 241293,
+      "name": "Bed and Breakfast",
+      "url": "https://open.spotify.com/track/7bJugT9TUsQQnM0hQlgILq"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Send It Down Hughie, Vol. 2",
+        "url": "https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "Give",
+      "url": "https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing to Hide",
         "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
       },
@@ -524,9 +524,77 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Tropical Fever",
-      "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
+      "duration_ms": 252813,
+      "name": "Country Girl (In the Urban World)",
+      "url": "https://open.spotify.com/track/7pgPBsGjUAy5aOe6yN1uBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 126866,
+      "name": "You Can't Break My Heart",
+      "url": "https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Edge of It All",
+        "url": "https://open.spotify.com/album/69hQpAVpRlSgXzZ3YZstcQ"
+      },
+      "artists": [
+        {
+          "name": "Phil Davidson",
+          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
+        },
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3a9FYOFDfwdcS9a8zr0QtR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing to Hide",
+        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart",
+          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Sugar Town",
+      "url": "https://open.spotify.com/track/6kqwN65FEBCatSX3z38670"
     },
     {
       "added_at": null,
@@ -563,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT"
+        "name": "New Shadow",
+        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
       },
       "artists": [
         {
@@ -572,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 254813,
-      "name": "A Little Joy",
-      "url": "https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA"
+      "duration_ms": 154400,
+      "name": "Live a Little",
+      "url": "https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h"
     },
     {
       "added_at": null,
@@ -588,45 +656,9 @@
           "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
         }
       ],
-      "duration_ms": 252813,
-      "name": "Country Girl (In the Urban World)",
-      "url": "https://open.spotify.com/track/7pgPBsGjUAy5aOe6yN1uBS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Edge of It All",
-        "url": "https://open.spotify.com/album/69hQpAVpRlSgXzZ3YZstcQ"
-      },
-      "artists": [
-        {
-          "name": "Phil Davidson",
-          "url": "https://open.spotify.com/artist/170zczcg9A75nZzdPJckgv"
-        },
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3a9FYOFDfwdcS9a8zr0QtR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Send It Down Hughie, Vol. 2",
-        "url": "https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Give",
-      "url": "https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai"
+      "duration_ms": 230053,
+      "name": "Tropical Fever",
+      "url": "https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo"
     },
     {
       "added_at": null,
@@ -643,38 +675,6 @@
       "duration_ms": 238266,
       "name": "Planet of Love",
       "url": "https://open.spotify.com/track/7wTQs1o4yo1m3aLvuMZHGi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing to Hide",
-        "url": "https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Sugarloaf Hill",
-      "url": "https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Shadow",
-        "url": "https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD"
-      },
-      "artists": [
-        {
-          "name": "Felicity Urquhart",
-          "url": "https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj"
-        }
-      ],
-      "duration_ms": 126866,
-      "name": "You Can't Break My Heart",
-      "url": "https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf"
     }
   ],
   "unique_name": "This Is Felicity Urquhart",

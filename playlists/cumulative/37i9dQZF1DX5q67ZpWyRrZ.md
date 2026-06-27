@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-291 songs - 16 hr 37 min
+292 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-02-28 | 2024-06-15 |
 | [Dilbar](https://open.spotify.com/track/5YCdQ5NhaZ3PBdcmAV0CZS) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/4pv9PobaeFfnzvZd3IKHEJ) | 2:48 | 2023-02-22 | 2023-03-14 |
 | [Dilnawaz](https://open.spotify.com/track/2KDR0VRWbQ88LQ1cdi8T3z) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:27 | 2022-01-05 | 2022-08-11 |
-| [Dilshad](https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P), [Sifar](https://open.spotify.com/artist/4lQzaSJjGUm6LfySUnYKEK) | [Dilshad](https://open.spotify.com/album/1liRfiO6i0jEeosUm4BBNp) | 3:43 | 2025-02-04 |  |
+| [Dilshad](https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P), [Sifar](https://open.spotify.com/artist/4lQzaSJjGUm6LfySUnYKEK) | [Dilshad](https://open.spotify.com/album/1liRfiO6i0jEeosUm4BBNp) | 3:43 | 2025-02-04 | 2026-06-27 |
 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 | 2025-09-22 |  |
 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 | 2021-12-06 | 2022-08-10 |
 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 | 2025-01-31 |  |
@@ -118,6 +118,7 @@
 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-01-05 | 2022-02-12 |
 | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 | 2022-12-08 | 2023-09-23 |
 | [Intezaar](https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Intezaar](https://open.spotify.com/album/6Z4DXqYqQJc6XLzvPaSynt) | 3:55 | 2022-04-06 | 2023-05-01 |
+| [Ishq](https://open.spotify.com/track/760n01fPMR7sqrn3msFBcT) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ) | [Ishq](https://open.spotify.com/album/0PWyUp1bCI0wDEjSHMLfiO) | 3:33 | 2026-06-26 |  |
 | [Ishq \- From "Lost;Found"](https://open.spotify.com/track/7hDoxkN20lLb06zifzYnD2) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Ishq \(From "Lost;Found"\)](https://open.spotify.com/album/49shWTH1llwLbKQ1bq1cvJ) | 3:48 | 2024-04-19 |  |
 | [Iss Tarah](https://open.spotify.com/track/1hj2XHe0acA4QuAS0HSxsz) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Iss Tarah](https://open.spotify.com/album/6ZMzPoQ7uJXIrzxAqtRBU9) | 5:23 | 2026-02-26 |  |
 | [Jaadoogari](https://open.spotify.com/track/0HDm8hVrpUDAXLmvortmoy) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Jaadoogari](https://open.spotify.com/album/7xH1diJuXLqpv10oc2skWV) | 4:20 | 2021-12-06 | 2023-02-03 |

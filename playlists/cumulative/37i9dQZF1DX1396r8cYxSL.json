@@ -303,6 +303,28 @@
     },
     {
       "album": {
+        "name": "A\u015fk Perisi",
+        "url": "https://open.spotify.com/album/7sBb37vssoTiQNbAl0UlDO"
+      },
+      "artists": [
+        {
+          "name": "Demet Sa\u011f\u0131ro\u011flu",
+          "url": "https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY"
+        },
+        {
+          "name": "Melis Fis",
+          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164838,
+      "name": "A\u015fk Perisi",
+      "url": "https://open.spotify.com/track/3f9OfKpnkCFQNRZYSTHaP7"
+    },
+    {
+      "album": {
         "name": "A\u015fkperest",
         "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
       },
@@ -3145,24 +3167,6 @@
     },
     {
       "album": {
-        "name": "25.Y\u0131l \u00d6zel Hit VS Hit The Remix's Vol II",
-        "url": "https://open.spotify.com/album/4NWzAIjwQkXLlcHYsqqcxD"
-      },
-      "artists": [
-        {
-          "name": "I\u015f\u0131n Karaca",
-          "url": "https://open.spotify.com/artist/0iKWCp8QXDXAD3wzFrExYr"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/09RgdOpifTSA0BZ2fdax2o"
-    },
-    {
-      "album": {
         "name": "KADER SK.",
         "url": "https://open.spotify.com/album/2U3BMQ4x81ZIyyrxLcBa9P"
       },
@@ -3480,6 +3484,28 @@
       "duration_ms": 231473,
       "name": "Yaygara",
       "url": "https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI"
+    },
+    {
+      "album": {
+        "name": "25.Y\u0131l \u00d6zel Hit VS Hit The Remix's Vol II",
+        "url": "https://open.spotify.com/album/4NWzAIjwQkXLlcHYsqqcxD"
+      },
+      "artists": [
+        {
+          "name": "I\u015f\u0131n Karaca",
+          "url": "https://open.spotify.com/artist/0iKWCp8QXDXAD3wzFrExYr"
+        },
+        {
+          "name": "Can Yap\u0131c\u0131o\u011flu",
+          "url": "https://open.spotify.com/artist/0lGC7oDzClBGoXITLiDvYr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112250,
+      "name": "Yaz - Club",
+      "url": "https://open.spotify.com/track/09RgdOpifTSA0BZ2fdax2o"
     },
     {
       "album": {

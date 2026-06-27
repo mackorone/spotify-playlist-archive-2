@@ -1,13 +1,29 @@
 {
-  "description": "Historias que hacen historia.  en portada. El Fantasma y Los Huracanes del Norte en portada. ",
-  "num_followers": 377073,
+  "description": "Historias que hacen historia. Beto Quintanilla en portada. ",
+  "num_followers": 377196,
   "original_name": "La Tierra del Corrido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnAuVCtKNK8nMVfGlsmY5RES+iA",
+  "snapshot_id": "AAAAAKV7nPO50nGg+1N7nl/O0dNHoPMz",
   "tracks": [
+    {
+      "added_at": "2026-06-26 17:00:46",
+      "album": {
+        "name": "El Corrido De Dam\u00e1sio Fuentes",
+        "url": "https://open.spotify.com/album/2mhQsA1iwQY5Y4JV4SINZx"
+      },
+      "artists": [
+        {
+          "name": "Beto Quintanilla",
+          "url": "https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "El Corrido De Damasio Fuentes",
+      "url": "https://open.spotify.com/track/2c5rJcHVcMlVBkrfbBrDQu"
+    },
     {
       "added_at": "2026-06-19 17:46:40",
       "album": {

@@ -4,7 +4,7 @@
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-216 songs - 12 hr 25 min
+217 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [How Cute](https://open.spotify.com/track/3UO4lfyVC7etdTYq638K7q) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [You Were Wrong](https://open.spotify.com/album/6qpDp066saTszT71b8pm3t) | 2:45 | 2025-01-09 | 2026-02-06 |
 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 | 2025-10-12 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-04-03 |  |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-25 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-25 |  |
 | [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 | 2026-04-17 | 2026-05-15 |
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-17 |  |
 | [Icy Tale](https://open.spotify.com/track/466snzkO84cnoC6b9DnrgQ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Bose x NME: C25](https://open.spotify.com/album/6OWuJ6OIKG1axWobbTd16D) | 2:48 | 2025-09-22 | 2025-10-07 |
@@ -109,6 +109,7 @@
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2024-06-20 | 2025-03-10 |
 | [Macramé \(ft\. Mei Semones\)](https://open.spotify.com/track/4AKMCbXYw5zXpHMAUeQ8uy) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Macramé](https://open.spotify.com/album/2fzrBj31NWHaEjODwESbKy) | 3:31 | 2026-05-07 | 2026-05-20 |
 | [Mandarin Tree](https://open.spotify.com/track/7IgoHCHuINRjCSyPV9RssK) | [Phoebe Rings](https://open.spotify.com/artist/6bU6vdMpAqDEoWsj8iUNEf) | [Aseurai](https://open.spotify.com/album/6fUVWQKr8nv8LIt8EQEPya) | 4:02 | 2026-04-17 |  |
+| [Marry You Again](https://open.spotify.com/track/7GW3ySPXF49BKJ6HQQ1FiJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Marry You Again](https://open.spotify.com/album/0d8GtPFvul3BhoSAvT98ID) | 3:06 | 2026-06-25 |  |
 | [masshiro \(pure white\)](https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [masshiro \(pure white\)](https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg) | 4:54 | 2025-02-28 | 2025-09-06 |
 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-04-30 | 2026-05-08 |
 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 | 2025-07-17 | 2026-04-18 |
@@ -149,6 +150,7 @@
 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 | 2025-06-05 | 2025-09-06 |
 | [Sunshine](https://open.spotify.com/track/5j7HESfa8OXs3hTqQ1ZvnR) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Mabuk Laut](https://open.spotify.com/album/3W3PcnesLOd6YiGvZHK9av) | 4:14 | 2025-07-29 | 2025-09-06 |
 | [Sup](https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Sup](https://open.spotify.com/album/2qH04f0258XtW0AGdmqtex) | 3:40 | 2025-02-28 | 2025-06-06 |
+| [Supermarket Daydreams](https://open.spotify.com/track/2aKyzHAPY0PvvdKIBKVKdW) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Supermarket Daydreams](https://open.spotify.com/album/7Kmor35G3CfC8zJX9GeAvA) | 4:41 | 2026-06-25 |  |
 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 | 2025-06-05 | 2025-10-03 |
 | [Take Care Terry](https://open.spotify.com/track/5fZVNQ7VbWpH6fTjh1HZ08) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w) | [Take Care Terry](https://open.spotify.com/album/2IVfHyrBqB8TzptyU8r4Cb) | 3:04 | 2025-11-26 | 2025-12-13 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 | 2025-01-09 | 2025-03-01 |
@@ -169,7 +171,6 @@
 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-04-17 | 2026-05-15 |
 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 | 2025-09-23 | 2026-06-26 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-20 | 2024-11-13 |
-| [Track 3](https://open.spotify.com/track/2aKyzHAPY0PvvdKIBKVKdW) | [Magnolian](https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp) | [Supermarket Daydreams](https://open.spotify.com/album/7Kmor35G3CfC8zJX9GeAvA) | 0:00 | 2026-06-25 |  |
 | [Under Construction](https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Under Construction](https://open.spotify.com/album/7tPygg8Jr9igPfGsY8gnzD) | 3:42 | 2026-06-25 |  |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2024-06-20 | 2025-06-18 |
 | [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 | 2025-10-11 |  |

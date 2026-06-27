@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The tracks you can put on repeat all day. Cover: Bryson Tiller",
+  "description": "The tracks you can put on repeat all day. Cover: kwn",
   "name": "R&B Favourites",
   "tracks": [
     {
@@ -398,6 +398,28 @@
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
+    },
+    {
+      "album": {
+        "name": "AIN'T U TIRED? (with Muni Long)",
+        "url": "https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "AIN'T U TIRED? (with Muni Long)",
+      "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
     },
     {
       "album": {
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 214757,
       "name": "Back and Forth (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
@@ -4292,7 +4314,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223157,
       "name": "FOREVER (with 6LACK)",
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
@@ -4888,7 +4910,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 214692,
       "name": "GRAVITY (FEAT. TYLER, THE CREATOR)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
@@ -6198,7 +6220,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207830,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT"
@@ -8117,6 +8139,28 @@
     },
     {
       "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187096,
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -8358,6 +8402,28 @@
       "duration_ms": 202706,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/56l5nazZw2rwYmu3dqbWjo"
+    },
+    {
+      "album": {
+        "name": "NOBLE (with The Kid LAROI)",
+        "url": "https://open.spotify.com/album/2a7B8ngsOQDg0G5ejax0z2"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "NOBLE (with The Kid LAROI)",
+      "url": "https://open.spotify.com/track/00meonIF1VYLe1eTcx3w9e"
     },
     {
       "album": {
@@ -12454,6 +12520,24 @@
       "duration_ms": 255658,
       "name": "Touch & Go",
       "url": "https://open.spotify.com/track/0t4knmBuw14LysanDonPrj"
+    },
+    {
+      "album": {
+        "name": "touch myself/idea of love",
+        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
     },
     {
       "album": {

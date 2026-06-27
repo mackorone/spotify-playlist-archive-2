@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: D\-Double
 
-488 songs - 22 hr 5 min
+488 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Beemsterstraat](https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Beemsterstraat](https://open.spotify.com/album/4fIC1wHhQghmmJZS5QmFJT) | 2:20 | 2025-12-04 | 2026-01-15 |
 | [Before The Hype](https://open.spotify.com/track/6Xl8SV2MuJgXtytiJwX5Vz) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Before The Hype](https://open.spotify.com/album/5DrNm3Tp7PpS2zNHas1uLR) | 2:30 | 2026-01-29 | 2026-02-13 |
 | [BEHIND ENEMY LINES](https://open.spotify.com/track/7K7z4QPD7bAIAlKsHAAhqz) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [BEHIND ENEMY LINES](https://open.spotify.com/album/6p8htScfXLAi98BHQfmPTX) | 2:13 | 2026-01-15 | 2026-02-06 |
+| [Bell Me Op](https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 2:00 | 2026-06-25 |  |
 | [Ben je dom?](https://open.spotify.com/track/6heB9e8RyXvmQpKZEs3x87) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Ben je dom?](https://open.spotify.com/album/683rXVkEbHarFpnbjEvN7D) | 2:51 | 2026-05-14 | 2026-06-26 |
 | [BEN JE DOM?!](https://open.spotify.com/track/4RCInrdDyCR7uLDMw9yOAY) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [BEN JE DOM?!](https://open.spotify.com/album/0ZDbBUhewSBhxO7ekYoG94) | 2:16 | 2025-08-04 | 2025-08-29 |
 | [Big 45](https://open.spotify.com/track/3P7poze29ks7ehISI4Qgpi) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [KA](https://open.spotify.com/artist/7gg1EFa02G9nKLqITlkHyB), [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC) | [Eigenwijs](https://open.spotify.com/album/5UaXfutr3ym7TSyWfozVgd) | 3:51 | 2025-07-17 | 2025-07-25 |
@@ -435,7 +436,6 @@
 | [Toedels!](https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Toedels!](https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf) | 2:52 | 2026-02-26 | 2026-05-29 |
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
 | [Toxic](https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Toxic](https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd) | 2:31 | 2026-05-07 |  |
-| [Track 7](https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 0:00 | 2026-06-25 |  |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 | 2026-01-23 |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |
 | [TURCOSHIT](https://open.spotify.com/track/4zP9qyBs4U2Jg2mKmUsAE3) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1) | [TURCOSHIT](https://open.spotify.com/album/2IVrLyF9g7IAQWojebAdRf) | 2:38 | 2026-01-15 | 2026-01-30 |

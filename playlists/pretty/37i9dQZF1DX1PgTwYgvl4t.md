@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI?si=0pFwlycWSQ2EW\-aA6W\-b4A>Tkeyz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,928 likes - 105 songs - 14 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,985 likes - 105 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 6 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 7 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 |
 | 8 | [Chinecherem \(Live\)](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem \(Live\)](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
-| 9 | [Track 12](https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Intimacy \(Worship Night Ottawa\)](https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r) | 0:00 |
+| 9 | [We Want More \- Live](https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Intimacy \(Worship Night Ottawa\)](https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r) | 5:09 |
 | 10 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
 | 11 | [RIVER FLOW \- Live](https://open.spotify.com/track/08odXNEvezN6ztXa6XZyId) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [RIVER FLOW \(Live\)](https://open.spotify.com/album/5Lb0gOpbCIBXzU6MtRPe89) | 10:47 |
 | 12 | [Favour](https://open.spotify.com/track/0mxvkw5NNGXugvh5qVORjx) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Favour](https://open.spotify.com/album/6MRFqruKFqEQlSl6P4Ge1k) | 5:57 |

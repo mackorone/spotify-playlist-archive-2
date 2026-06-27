@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Olivia Rodrigo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,640 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,687 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 71 | [God Gotta Afro](https://open.spotify.com/track/1pwH03MgZ8TRTbtrY1hm3O) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [KARABO YA MORENA](https://open.spotify.com/artist/27tTpZuZ6SMPTYgB0JKvYx) | [God Gotta Afro](https://open.spotify.com/album/35Roh9uaOwBIvJcuMts4wk) | 2:48 |
 | 72 | [Crash First \(with mgk\)](https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crash First \(with mgk\)](https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi) | 3:43 |
 | 73 | [i got a gun](https://open.spotify.com/track/3KqW72V5DRjWTPMulx3lqi) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [i got a gun](https://open.spotify.com/album/7pxOcKEaGSFMrEPsyIcarp) | 2:37 |
-| 74 | [Check Check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Check Check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
+| 74 | [check check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [check check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
 | 75 | [Year of the Horse](https://open.spotify.com/track/4WJV42FGtNRS2epH9lQS8Q) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Year of the Horse](https://open.spotify.com/album/57RVZ6TnVLVNK5FxOvw2Am) | 4:16 |
 | 76 | [The Ballad of Big Balls](https://open.spotify.com/track/6WdDfuiqy4hLHAG9EfhvXF) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Masks Off](https://open.spotify.com/album/1ADa0uCdQlkfKng3mYVF9C) | 3:42 |
 | 77 | [Don't Let Go](https://open.spotify.com/track/5Bb3bQz7BCG01HiTzx5mU5) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Mutiny After Midnight \(Extended Edition\)](https://open.spotify.com/album/3YdXVCzqT98v7pMbxVvOL0) | 4:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 600011,
+  "num_followers": 600239,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAxl07Xfvk8chaepFWsQIp+",
+  "snapshot_id": "ajxvgAAAAAB1zKBKIBTJw4rMjiXLYwaU",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 203732,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
@@ -851,42 +867,6 @@
       "duration_ms": 167954,
       "name": "mi droga",
       "url": "https://open.spotify.com/track/1l9X3eyb8ZV4MQvUubYtFF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IMPOSIBLE",
-        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 193788,
-      "name": "IMPOSIBLE",
-      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con dolor",
-        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 203732,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD"
     },
     {
       "added_at": null,
@@ -911,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
       },
       "artists": [
         {
@@ -920,13 +900,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 145658,
-      "name": "\u00e9chame la mano",
-      "url": "https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD"
+      "duration_ms": 193788,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 159552,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 145658,
+      "name": "\u00e9chame la mano",
+      "url": "https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD"
     },
     {
       "added_at": null,

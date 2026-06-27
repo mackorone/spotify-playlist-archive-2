@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 295330,
       "name": "Facile-Batiste",
       "url": "https://open.spotify.com/track/6uzw70lkJtUrkrC2VWQujf"
@@ -1332,6 +1332,24 @@
       "duration_ms": 268000,
       "name": "I - The Creation",
       "url": "https://open.spotify.com/track/7GterxMQBBkkaoyJ1w9w9y"
+    },
+    {
+      "album": {
+        "name": "Scenes from a Velvet Room",
+        "url": "https://open.spotify.com/album/09kPTLt8cBBySqLg2OgFC3"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243186,
+      "name": "I Break Everything I Love",
+      "url": "https://open.spotify.com/track/3eS6tvMaOwv4UshhPVqxxt"
     },
     {
       "album": {
@@ -1886,6 +1904,42 @@
       "duration_ms": 441933,
       "name": "Night 'n' Day (Arr. for 4 Pianos by Gershwin Piano Quartet)",
       "url": "https://open.spotify.com/track/6kygwZuZtwF8pLaxxIkKaP"
+    },
+    {
+      "album": {
+        "name": "In Search Of Beauty",
+        "url": "https://open.spotify.com/album/5anLZBAhqEw1h9j0RRwJCL"
+      },
+      "artists": [
+        {
+          "name": "Leif Kaner-Lidstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1zgrVzDDzgoBXdxRdd7TsC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153260,
+      "name": "Nine Lights",
+      "url": "https://open.spotify.com/track/3dgSxzyLOq3n55JLMaGpzb"
+    },
+    {
+      "album": {
+        "name": "Nine on Blue",
+        "url": "https://open.spotify.com/album/1h2StLeVmSrnDOHTHZ2Dt6"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165064,
+      "name": "Nine on Blue",
+      "url": "https://open.spotify.com/track/16Ke0Ui7f8y0qti3apCEIX"
     },
     {
       "album": {

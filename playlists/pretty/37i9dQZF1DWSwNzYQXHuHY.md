@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,672 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,682 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 14 | [May I Love You?](https://open.spotify.com/track/3yByTfbbmapjLSzGUw6S67) | [UMJI](https://open.spotify.com/artist/2yExPRQtV9wSUqASXj9q1e) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:18 |
 | 15 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 16 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 17 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
-| 18 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
+| 17 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 |
+| 18 | [Special Day](https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS) | 3:18 |
 | 19 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 20 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 |
 | 21 | [monodrama \(feat\. KURO\)](https://open.spotify.com/track/7Fyj1PrZfWjbm1qlVu5aM9) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [monodrama \(feat\. KURO\)](https://open.spotify.com/album/6m0ImyuGH2zCmlpJy7PpZB) | 2:53 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 36 | [Up & Down](https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn) | [배이 \(NMIXX\)](https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo) | [제4차 사랑혁명 \(Original Sound Track\) Pt.1](https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC) | 4:04 |
 | 37 | [juicy](https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC) | 3:20 |
 | 38 | [It’s secret](https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [It’s secret](https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW) | 3:08 |
-| 39 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
-| 40 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
+| 39 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
+| 40 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 41 | [Would You Hold My Hand?](https://open.spotify.com/track/5kOV8uXtuQoPt7nOs6RqoV) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Would You Hold My Hand?](https://open.spotify.com/album/6E7w7vQOxUEa7Jh38RhgVd) | 2:46 |
 | 42 | [Stuck with You](https://open.spotify.com/track/3IJASXMNdfp8z130pvy8p8) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [LOVECHAPTER](https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ) | 2:48 |
 | 43 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
 | 44 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 45 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
 | 46 | [Fall In Love](https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Fall In Love](https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90) | 3:22 |
-| 47 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
-| 48 | [Friends to Lovers](https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU) | [B.D.U](https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz) | [Friends to Lovers](https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ) | 2:56 |
-| 49 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
-| 50 | [Reaching](https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a) | [MINHYUK \(MONSTA X\)](https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V) | [Reaching](https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl) | 3:19 |
+| 47 | [Reaching](https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a) | [MINHYUK \(MONSTA X\)](https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V) | [Reaching](https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl) | 3:19 |
+| 48 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
+| 49 | [Friends to Lovers](https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU) | [B.D.U](https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz) | [Friends to Lovers](https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ) | 2:56 |
+| 50 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 
 Snapshot ID: `AAAAAFQhzwgfCfrYFOx2ZNnnCTizSzWr`

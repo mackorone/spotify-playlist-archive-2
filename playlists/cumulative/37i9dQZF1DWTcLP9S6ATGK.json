@@ -7523,6 +7523,28 @@
     },
     {
       "album": {
+        "name": "Keluh",
+        "url": "https://open.spotify.com/album/1dHlxF5pHfz0m2pF50QA3g"
+      },
+      "artists": [
+        {
+          "name": "Arialsays",
+          "url": "https://open.spotify.com/artist/1k1k7EVTpdVRtMV6rt5vLF"
+        },
+        {
+          "name": "Renjana Asa",
+          "url": "https://open.spotify.com/artist/09RwgbSgq6yTmEgO1ZmJVb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250322,
+      "name": "Keluh",
+      "url": "https://open.spotify.com/track/2nxBcDrA5UaWxhilnvZF0J"
+    },
+    {
+      "album": {
         "name": "Kembali",
         "url": "https://open.spotify.com/album/0E03zjmCULVZbWWEuJaAIc"
       },
@@ -10726,6 +10748,24 @@
       "duration_ms": 191111,
       "name": "Nada Kasih",
       "url": "https://open.spotify.com/track/66v72L6lQ3W33f2AtOfYxb"
+    },
+    {
+      "album": {
+        "name": "Sehidup Semusik",
+        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280125,
+      "name": "Naksir",
+      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
     },
     {
       "album": {
@@ -17578,24 +17618,6 @@
       "duration_ms": 215238,
       "name": "Tolak Ukur",
       "url": "https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ"
-    },
-    {
-      "album": {
-        "name": "Sehidup Semusik",
-        "url": "https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT"
-      },
-      "artists": [
-        {
-          "name": "Andien",
-          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE"
     },
     {
       "album": {

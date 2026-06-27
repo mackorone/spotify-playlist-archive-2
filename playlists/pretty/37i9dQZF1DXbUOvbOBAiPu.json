@@ -1,12 +1,12 @@
 {
   "description": "New music from Theodora, La Mano 1.9, Charli xcx and more...",
-  "num_followers": 51755,
+  "num_followers": 51910,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLCt/dtnBw4OS17b2/ddXJuAwt5",
+  "snapshot_id": "AAAAAHTgzIXmUPmzwdLM+pQCim2soPkq",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:24",
@@ -23,6 +23,22 @@
       "duration_ms": 179551,
       "name": "Be my Valentine ?",
       "url": "https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF"
+    },
+    {
+      "added_at": "2026-06-26 04:01:24",
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY"
     },
     {
       "added_at": "2026-06-26 04:01:24",
@@ -119,22 +135,6 @@
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
-    },
-    {
-      "added_at": "2026-06-26 04:01:24",
-      "album": {
-        "name": "SUPERSTAR",
-        "url": "https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "SUPERSTAR",
-      "url": "https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY"
     },
     {
       "added_at": "2026-06-26 04:01:24",
@@ -1301,7 +1301,7 @@
         },
         {
           "name": "Jacob Dubbel",
-          "url": "https://open.spotify.com/artist/5CgWSdci8Qzl9dRNDIE0S5"
+          "url": "https://open.spotify.com/artist/4Lp0MmnChBCtuK7HIYO3Jn"
         },
         {
           "name": "Grote Komeet",
@@ -1960,7 +1960,7 @@
           "url": "https://open.spotify.com/artist/56NpbTj8WFa3zj7hnpp1Kx"
         }
       ],
-      "duration_ms": 169714,
+      "duration_ms": 171595,
       "name": "En mieux (feat. Don Jordy & Afro Live)",
       "url": "https://open.spotify.com/track/0EdWT22tejgLphnZjk1Z6D"
     },

@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: The Black Keys",
-  "num_followers": 266259,
+  "num_followers": 266315,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAExz04b/PtthtLlL3LY0jO1ko2go",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Black Dog Rabbit Hole",
+        "url": "https://open.spotify.com/album/3TbkHwgeg6cnKDugwWi9Ax"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 200356,
+      "name": "Black Dog Rabbit Hole",
+      "url": "https://open.spotify.com/track/49CEYpkyy7TCaG6cLWwqxm"
+    },
     {
       "added_at": "2026-06-12 04:00:21",
       "album": {
@@ -41,6 +57,58 @@
       "url": "https://open.spotify.com/track/7BmBO5pX8clT3vcZHmMkX2"
     },
     {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Manic Depression",
+        "url": "https://open.spotify.com/album/2GYHjdCpvmoY35YmQxm1Es"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 251911,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/6d1P9nP8GD8lHp5510nOwQ"
+    },
+    {
+      "added_at": "2026-05-01 04:00:44",
+      "album": {
+        "name": "Peaches!",
+        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 223325,
+      "name": "She Does It Right",
+      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
+    },
+    {
+      "added_at": "2026-06-26 04:01:30",
+      "album": {
+        "name": "Send for me",
+        "url": "https://open.spotify.com/album/2JWlYarFHOLygAB9RSHFCE"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Send for me",
+      "url": "https://open.spotify.com/track/7tIftL6W9alpfkDIhSld77"
+    },
+    {
       "added_at": "2026-06-05 04:00:36",
       "album": {
         "name": "Louder Than Fate",
@@ -71,22 +139,6 @@
       "duration_ms": 244376,
       "name": "Hold Up, Say What?",
       "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd"
-    },
-    {
-      "added_at": "2026-05-01 04:00:44",
-      "album": {
-        "name": "Peaches!",
-        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 223325,
-      "name": "She Does It Right",
-      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1587,22 +1639,6 @@
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
-        "name": "One Way Out",
-        "url": "https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 243697,
-      "name": "One Way Out",
-      "url": "https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
         "name": "Dirt Woman Blues",
         "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
       },
@@ -2299,22 +2335,6 @@
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
-        "name": "One Thing I Feared",
-        "url": "https://open.spotify.com/album/2EDbBAMjZP9V35vICdeOYo"
-      },
-      "artists": [
-        {
-          "name": "Clockwork Wolf & Co.",
-          "url": "https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "One Thing I Feared",
-      "url": "https://open.spotify.com/track/5q6lNs2xlM8OTcM9ipZ46M"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
         "name": "Get Your Head Right",
         "url": "https://open.spotify.com/album/4Y6VXXguQxpZz2vY79fg5u"
       },
@@ -2487,22 +2507,6 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Too Much Is Never Too Much",
-        "url": "https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa"
-      },
-      "artists": [
-        {
-          "name": "Gnarfunkel",
-          "url": "https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5"
-        }
-      ],
-      "duration_ms": 207003,
-      "name": "Too Much Is Never Too Much",
-      "url": "https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI"
     }
   ],
   "unique_name": "Modern Blues Rock",

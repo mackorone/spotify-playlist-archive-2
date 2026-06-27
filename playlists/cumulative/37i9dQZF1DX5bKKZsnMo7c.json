@@ -3237,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Fated",
+        "url": "https://open.spotify.com/album/4OKlCUOd7YzVcJz2cdRPvN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Rose",
+          "url": "https://open.spotify.com/artist/5cxp2EYF0ZPdMGXPq545tU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Fated",
+      "url": "https://open.spotify.com/track/3fiVdmvLQeTDVFJ5mJ7mF9"
+    },
+    {
+      "album": {
         "name": "Public Void",
         "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
       },
@@ -3450,6 +3468,24 @@
       "duration_ms": 199363,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ"
+    },
+    {
+      "album": {
+        "name": "You Don't Know My Name",
+        "url": "https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Fond",
+      "url": "https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh"
     },
     {
       "album": {
@@ -3910,7 +3946,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
@@ -7097,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "On Wires",
+        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202989,
+      "name": "On Wires",
+      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
+    },
+    {
+      "album": {
         "name": "One Man Circus",
         "url": "https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN"
       },
@@ -7522,7 +7576,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 174655,
       "name": "Poconos",
       "url": "https://open.spotify.com/track/3Sqb167kZ1XoEApxbbrDby"
@@ -10766,7 +10820,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 259626,
       "name": "Wishing For Wounds",
       "url": "https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD"

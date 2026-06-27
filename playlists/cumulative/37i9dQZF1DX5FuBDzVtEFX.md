@@ -4,7 +4,7 @@
 
 > Kick back to the soothing sounds of the Ukulele...
 
-82 songs - 4 hr 19 min
+84 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Dream Of Kapalua](https://open.spotify.com/track/3Ix8AFTXjJIqHbDkUdVU6z) | [Jim Kama](https://open.spotify.com/artist/4freTExwYI8GowzmoaluQJ) | [Dream Of Kapalua](https://open.spotify.com/album/2KKNEk0GmsqPx2SHsSL049) | 2:28 | 2021-11-12 | 2026-06-16 |
 | [Dreams Of Hope](https://open.spotify.com/track/67p5pQ6d9ernqsXHPJNs63) | [Leo Wilkins](https://open.spotify.com/artist/2sUn5O8knTdsGPYo8N6iIr) | [Dreams Of Hope](https://open.spotify.com/album/7fz01uPFA7gfF6alAwUNAF) | 3:00 | 2021-11-12 | 2026-06-16 |
 | [E Ku’u Morning Dew](https://open.spotify.com/track/5jnvdBYa3t2TDFEZYboelj) | [Benny Chong](https://open.spotify.com/artist/4rva1vKgGPw9mEyCiucXvH) | [Ukulele Therapy: Soothing Instrumentals for Relaxing](https://open.spotify.com/album/0fJsCkPyFZ9IcHaIV140e8) | 3:39 | 2021-11-12 |  |
+| [Espresso](https://open.spotify.com/track/3T4zAHzPvmfAyJOwtlTKB0) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Espresso](https://open.spotify.com/album/02ue88JVHaPAv6NKF951T7) | 2:52 | 2026-06-26 |  |
 | [Fast Car](https://open.spotify.com/track/2ZxxrbtKlESR3rvbbn44Ae) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Fast Car](https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH) | 3:59 | 2026-06-15 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/3WtHeD1MkPYh1o5Bta94uL) | [Kaikane](https://open.spotify.com/artist/23f4uXdf9I7nMXo3Aaxsp7) | [What a Wonderfull World](https://open.spotify.com/album/3ObzhmOpdnOQzm5O6mreAl) | 2:11 | 2021-11-12 | 2026-06-16 |
 | [Granada](https://open.spotify.com/track/7gFCvt8SGMlAFUOKDIgm6l) | [Harry Kalahiki](https://open.spotify.com/artist/74i5ZwoH6EtMk59EmKA6V6) | [Mungo Plays Ukulele](https://open.spotify.com/album/6Cw3epXSZzC8PgKCWG8Rdr) | 3:03 | 2021-11-12 |  |
@@ -56,6 +57,7 @@
 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 | 2021-11-12 |  |
 | [Paka Ua](https://open.spotify.com/track/1hHGhu5Ly4MtctPrshrAb5) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/15YakA5L7dr86I60h4zKMy) | 3:50 | 2022-04-15 | 2024-04-19 |
 | [Paka Ua](https://open.spotify.com/track/7tGs3qEdxRPpu6EXahlICf) | [Ozzie Kotani](https://open.spotify.com/artist/142rlGd3piCJQf1OWRkywk), [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI) | [The Descendants](https://open.spotify.com/album/6VodWMKGJ6HgcaHqftYngq) | 3:50 | 2021-11-12 |  |
+| [Please Please Please](https://open.spotify.com/track/52qQFsLZBYjd1VdKQJN7CV) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Please Please Please](https://open.spotify.com/album/6NNTBABdwcGcK1dqGbpYQG) | 2:59 | 2026-06-26 |  |
 | [Pohai Ke Aloha](https://open.spotify.com/track/05jS1nFGqVQ6QFQlLVYw3m) | [Eco Friendly](https://open.spotify.com/artist/4EKiXQ8sC11kEoiz18VBmQ) | [Pohai Ke Aloha](https://open.spotify.com/album/190yIgaoivhzltuOLMzszR) | 2:58 | 2021-11-12 | 2026-06-16 |
 | [Pua Lililehua](https://open.spotify.com/track/0X1cfOCdBaRfpu2MI0ur0l) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy \- Ka Leo O Loko](https://open.spotify.com/album/5IvZf6jkaOeib9EvdyyJr8) | 2:53 | 2021-11-12 |  |
 | [Pua Līlīlehua](https://open.spotify.com/track/4NlVNFMdM67IVhiYl9SDua) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Soliloquy: Ka Leo O Loko](https://open.spotify.com/album/0ZzGZp6cerAABuNHL3qRWO) | 2:57 | 2022-04-15 | 2024-04-19 |

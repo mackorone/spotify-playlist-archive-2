@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAALzgev7cqMbNBK4WnPLSXTw4EDfl7x",
+  "snapshot_id": "AAALzyScCPosZIUNAkYLtRphUHuq2UJ6",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -1423,6 +1423,22 @@
       "duration_ms": 202909,
       "name": "Love Me Back",
       "url": "https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM"
+    },
+    {
+      "added_at": "2026-06-26 17:07:26",
+      "album": {
+        "name": "Backseat Polaroids",
+        "url": "https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh"
+      },
+      "artists": [
+        {
+          "name": "The Nightfall",
+          "url": "https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo"
+        }
+      ],
+      "duration_ms": 211365,
+      "name": "Backseat Polaroids",
+      "url": "https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

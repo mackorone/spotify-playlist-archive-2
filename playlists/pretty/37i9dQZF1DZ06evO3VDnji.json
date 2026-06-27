@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 75874,
+  "num_followers": 75877,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAC/ip7TyEPPBmHPlQ1M9JXB",
+  "snapshot_id": "ajxvgAAAAADtZPulb5uxkTIY1BEb6BBb",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 286500,
+      "name": "Falsos Sentimientos",
+      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 214410,
       "name": "VIAJA CONMIGO (feat. Jasiel Nu\u00f1ez, Yng Naz) - Remix",
       "url": "https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 286500,
-      "name": "Falsos Sentimientos",
-      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 242701,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/37mVNCGhOvnjFJ2wQFnNjq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PORTATE BIEN",
         "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 205565,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 242701,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/37mVNCGhOvnjFJ2wQFnNjq"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distinto",
-        "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
+        "name": "El 100",
+        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
       "artists": [
         {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 165110,
-      "name": "Distinto",
-      "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
+      "duration_ms": 178100,
+      "name": "El 100",
+      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     }
   ],
   "unique_name": "This Is DannyLux",

@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1108831,
+  "num_followers": 1108944,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADb7RPjX48VSiAUQIYMo0G+",
+  "snapshot_id": "ajxvgAAAAAAw1GSmaNo+nLPjtm0/DefH",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasting Light",
-        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 265944,
-      "name": "Dear Rosemary",
-      "url": "https://open.spotify.com/track/6HeFCUg1F1v0bnE3JFTlxz"
+      "duration_ms": 208696,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 208696,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+      "duration_ms": 265944,
+      "name": "Dear Rosemary",
+      "url": "https://open.spotify.com/track/6HeFCUg1F1v0bnE3JFTlxz"
     },
     {
       "added_at": null,

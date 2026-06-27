@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,104 likes - 35 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,114 likes - 35 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [Chanson triste \(feat\. a6el\)](https://open.spotify.com/track/1sc6lYULJA1X0s1yT9r2p3) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Chanson triste \(feat\. a6el\)](https://open.spotify.com/album/0eGdXwZZ95NTZwOjR0G13Q) | 2:24 |
 | 12 | [La Cumbia De Virgil](https://open.spotify.com/track/2r9OniMnG9dXIPCvLtjuwf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [La Cumbia De Virgil](https://open.spotify.com/album/725hLNSjmqBjOIYPG89hN3) | 2:36 |
 | 13 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
-| 14 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 |
-| 15 | [Autodéfense](https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:40 |
+| 14 | [Autodéfense](https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:40 |
+| 15 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 |
 | 16 | [Wide Eyed](https://open.spotify.com/track/62PpNCrIep6clOAMg2gKt7) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Wide Eyed](https://open.spotify.com/album/2PxLh2WHZRf4JOmxr1MHYn) | 3:22 |
 | 17 | [Madonna](https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Limbo](https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd) | 2:17 |
 | 18 | [Yao](https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Yao](https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX) | 3:07 |

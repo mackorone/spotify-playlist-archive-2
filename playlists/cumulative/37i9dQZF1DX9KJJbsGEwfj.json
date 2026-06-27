@@ -1035,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "Cuica",
+        "url": "https://open.spotify.com/album/5tNbZe4vmxZDD2n3lvS9uz"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199914,
+      "name": "Cuica",
+      "url": "https://open.spotify.com/track/0azybKTeKVV2UNeof409O8"
+    },
+    {
+      "album": {
         "name": "Cynical (MistaJam Remix)",
         "url": "https://open.spotify.com/album/5RSGGM4NroRRL5xU9Ow9qD"
       },
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195148,
       "name": "Final Minutes",
       "url": "https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q"
@@ -2214,7 +2236,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 229184,
       "name": "Giant (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
@@ -3662,7 +3684,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
@@ -5095,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "PATRONA",
+        "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165135,
+      "name": "PATRONA",
+      "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
+    },
+    {
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -5854,7 +5894,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 215979,
       "name": "Salvame Hoy (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/1RkWdKYYHVrtV76KLzUJsa"
@@ -6096,6 +6136,36 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
     },
     {
       "album": {
@@ -7188,6 +7258,24 @@
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover:   Adekunle Gold x Yamê
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,511 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,747 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [I Know Who I Be](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
 | 4 | [MISS DES MISS](https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [BACK 2 BACK](https://open.spotify.com/album/7Bc60xCdm3tna3M8n6s1sK) | 2:12 |
 | 5 | [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 |
-| 6 | [Track 8](https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Farasha / فراشة](https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf) | 0:00 |
+| 6 | [Dima \- ديما](https://open.spotify.com/track/403VWu7hrDm7JMKtBBzbBI) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Farasha / فراشة](https://open.spotify.com/album/5o214igdQdbjhVlAnd6ukf) | 1:48 |
 | 7 | [JIGGLE](https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [JIGGLE](https://open.spotify.com/album/0MlvZhXLMS6Q0gZlVeY11R) | 2:08 |
 | 8 | [Embêtée](https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Embêtée](https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs) | 1:52 |
-| 9 | [Track 6](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 0:00 |
+| 9 | [GBESUNMO](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 3:08 |
 | 10 | [WDYS \( WHAT DO YOU SAY?\)](https://open.spotify.com/track/0D1DLIH9Xe9tkt12B9fGqQ) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [WDYS \( WHAT DO YOU SAY?\)](https://open.spotify.com/album/0BfwkaCSKlirg87yQVIxFY) | 2:21 |
 | 11 | [TATTUU](https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [TATTUU](https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI) | 3:14 |
 | 12 | [Feel Am](https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [ATOM II](https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,641 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,615 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 11 | [TIK TAK](https://open.spotify.com/track/7bZ2QUWiP3upNEnIQc7AmZ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [SARRA](https://open.spotify.com/artist/6rxAZckuZM4y6aKz9ZtaUv) | [TIK TAK](https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy) | 2:25 |
 | 12 | [No Me Dejes Solo](https://open.spotify.com/track/4CjuGBDMwSDpjzWtWINN5g) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/7BmWnXvx1CD6vtxtBd0czc) | 2:50 |
 | 13 | [Energy](https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Energy](https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ) | 3:03 |
-| 14 | [Track 3](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 0:00 |
+| 14 | [ROMO](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 2:51 |
 | 15 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4) | 2:10 |
 | 16 | [Morenito](https://open.spotify.com/track/2UgaIRtWxiEmRcv6MXhFVb) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Morenito](https://open.spotify.com/album/4qMgq0Xnm9zk1uKr6YMyRF) | 2:15 |
 | 17 | [Satalanaaa](https://open.spotify.com/track/16Rw2320t2aLHgmcYp5cbC) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Satalanaaa](https://open.spotify.com/album/6ufHkDXSap5scn0CK9MOQk) | 2:06 |

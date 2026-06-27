@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Loathe are on top of today's best Metal playlist.",
+  "description": "Bring Me the Horizon are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 355366,
       "name": "Beneath the Scythe",
       "url": "https://open.spotify.com/track/4FIUe6szGpTGCaXQHisXr6"
@@ -5157,6 +5157,24 @@
     },
     {
       "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+    },
+    {
+      "album": {
         "name": "Dead",
         "url": "https://open.spotify.com/album/4eOTSkwqPH3cXTlDZQZUKW"
       },
@@ -5604,6 +5622,24 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+    },
+    {
+      "album": {
+        "name": "Dehumanized",
+        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268181,
+      "name": "Dehumanized",
+      "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
     },
     {
       "album": {
@@ -6751,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213533,
+      "name": "Dying To Forget",
+      "url": "https://open.spotify.com/track/58n0MyTEOVHzAlPowTVt4P"
+    },
+    {
+      "album": {
         "name": "Dying To Love",
         "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
       },
@@ -7614,7 +7668,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195161,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
@@ -10313,6 +10367,24 @@
     },
     {
       "album": {
+        "name": "How to Be Lonely",
+        "url": "https://open.spotify.com/album/5TTD7a8ocw3dwJPwaqfddO"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "How to Be Lonely",
+      "url": "https://open.spotify.com/track/0i4QCUTSFuwZnIrdYi3U21"
+    },
+    {
+      "album": {
         "name": "DREAMCRUSH",
         "url": "https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22"
       },
@@ -10728,7 +10800,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 166000,
       "name": "I Don\u2019t Want to Be Here Anymore",
       "url": "https://open.spotify.com/track/11utu1CyDWIN46SfiHW2DD"
@@ -10916,7 +10988,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186013,
       "name": "i. the many names of god",
       "url": "https://open.spotify.com/track/4316NG1dDzm8N6gVSeDY0f"
@@ -14820,7 +14892,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223216,
       "name": "No Arms",
       "url": "https://open.spotify.com/track/0XC9BnUa6dG392hk4k2iyF"
@@ -14914,7 +14986,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
@@ -15463,6 +15535,24 @@
     },
     {
       "album": {
+        "name": "Omert\u00e0",
+        "url": "https://open.spotify.com/album/4ZrFcR0SzxkQ1fThBKSsmQ"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181274,
+      "name": "Omert\u00e0",
+      "url": "https://open.spotify.com/track/57vyx7Zut46IWiCvIp5bjT"
+    },
+    {
+      "album": {
         "name": "On The Dark Waters",
         "url": "https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN"
       },
@@ -15997,6 +16087,28 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        },
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD"
       },
@@ -16405,6 +16517,24 @@
     },
     {
       "album": {
+        "name": "Play Dead",
+        "url": "https://open.spotify.com/album/4qTdW5pNnPSzWMRXxVGCPz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/48fiPDRk7FPmNAgefKIILW"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/05GsVj0oUeuUEnYb31uCHR"
       },
@@ -16694,6 +16824,24 @@
       "duration_ms": 212387,
       "name": "Prostitution",
       "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
+    },
+    {
+      "album": {
+        "name": "Proxy Idols",
+        "url": "https://open.spotify.com/album/1z7FBiBOvIR4RCxUriq86E"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215871,
+      "name": "Proxy Idols",
+      "url": "https://open.spotify.com/track/4w5czlEdBIsojTuywaXKdL"
     },
     {
       "album": {
@@ -19088,7 +19236,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 200677,
       "name": "Snowblind",
       "url": "https://open.spotify.com/track/11LEv0RsjebMdHVjXQWxvy"
@@ -22244,7 +22392,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 226760,
       "name": "The Wretch",
       "url": "https://open.spotify.com/track/04GwBRJv67pOxOHcqThW9c"
@@ -22620,7 +22768,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207200,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
@@ -23498,6 +23646,24 @@
       "duration_ms": 274098,
       "name": "V.A.N",
       "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/1zPWN8XQYJQYTUi4wQmhNe"
+      },
+      "artists": [
+        {
+          "name": "ASAVA",
+          "url": "https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Valhalla",
+      "url": "https://open.spotify.com/track/4L6EZ0AnXwovpw9Po78MEh"
     },
     {
       "album": {

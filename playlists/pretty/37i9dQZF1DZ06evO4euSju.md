@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 27 | [Wax Poetic](https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:33 |
 | 28 | [Bloom \(Remastered\)](https://open.spotify.com/track/1g299OyEF4WpiZ2DIq32u3) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed \(2025 Remaster\)](https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH) | 4:37 |
 
-Snapshot ID: `ajseAAAAAADNibvsOuqFmL9GWn7MMyzJ`
+Snapshot ID: `ajxvgAAAAADR8ZKeeMkwmB3W+5oMUPZY`

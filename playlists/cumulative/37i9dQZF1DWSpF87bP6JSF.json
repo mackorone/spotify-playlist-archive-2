@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 140844,
       "name": "aiaiaiaiai",
       "url": "https://open.spotify.com/track/1OWeVALbBJNeVRn09ZKB53"
@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 201233,
       "name": "EL BACHAT\u00d3N DE LA L",
       "url": "https://open.spotify.com/track/3RHT8N9fhgqsD6KGDrquaW"
@@ -9094,7 +9094,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 143914,
       "name": "Linda",
       "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
@@ -9786,7 +9786,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 125560,
       "name": "Mal o Bien",
       "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
@@ -12423,6 +12423,24 @@
     },
     {
       "album": {
+        "name": "Otro Cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/0QCB3aF4ABfpm7oqGpaKVp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Otro Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6NtUqkWvw9oemFVi2q7dKz"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -12770,6 +12788,24 @@
       "duration_ms": 162245,
       "name": "pasarella \ud83d\udc60",
       "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
+    },
+    {
+      "album": {
+        "name": "PATRONA",
+        "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165135,
+      "name": "PATRONA",
+      "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
     },
     {
       "album": {
@@ -14050,7 +14086,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 282216,
       "name": "Rubio",
       "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
@@ -14750,6 +14786,28 @@
       "duration_ms": 152500,
       "name": "SI SABE FERXXO",
       "url": "https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL"
+    },
+    {
+      "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
     },
     {
       "album": {
@@ -15572,7 +15630,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 172595,
       "name": "Te Perdono",
       "url": "https://open.spotify.com/track/6BXieCLHBV6NRSDKkqyh6Z"
@@ -17138,7 +17196,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"

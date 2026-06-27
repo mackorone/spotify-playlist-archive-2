@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Chella
 
-496 songs - 22 hr 33 min
+496 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 | 2025-06-20 |  |
 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-04 | 2026-03-10 |
 | [Moti High](https://open.spotify.com/track/1D1bWp401f4xkTm6JAZXZf) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Moti High](https://open.spotify.com/album/02PnfWjoM04XKcfkkUQb8g) | 2:33 | 2026-05-08 |  |
+| [Motide](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 2:30 | 2026-06-26 |  |
 | [Mr\. Parker](https://open.spotify.com/track/390cSkHKKjiQawiiAvQxyl) | [Skelvin](https://open.spotify.com/artist/5LTAJPBjxITKSLQb5wAbIc), [Corizo](https://open.spotify.com/artist/5TDcsaFykPA6PCbyd1yRlw), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Mr\. Parker](https://open.spotify.com/album/42ciHWnCfwa97AfOEYWYZZ) | 3:51 | 2025-09-26 | 2025-10-03 |
 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 | 2025-06-13 | 2026-05-01 |
 | [My Dear](https://open.spotify.com/track/1CYFNeIAZwflFAWhpl1bAT) | [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [DEBAYO](https://open.spotify.com/artist/2uBCvfIeglYX3d6NOKKxGL) | [My Dear](https://open.spotify.com/album/62EgFNDFDT0cg9XJm4DqJZ) | 2:37 | 2025-02-21 | 2025-03-15 |
@@ -364,6 +365,7 @@
 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 | 2023-02-28 |
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-12 | 2025-10-09 |
 | [Oscroh \(Pepperline\)](https://open.spotify.com/track/5Trqt6aqWnhqAcWS4Zto7v) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Oscroh \(Pepperline\)](https://open.spotify.com/album/3t6Awr5SrYlepeBSzC83sg) | 2:44 | 2023-10-17 | 2024-04-30 |
+| [Oshe](https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 2:38 | 2026-06-26 |  |
 | [Oshey Boys](https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Oshey Boys](https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ) | 3:09 | 2022-12-02 | 2023-07-18 |
 | [OTE!](https://open.spotify.com/track/2EN5MHa0Gihyf54OfIlSCB) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [SPORT](https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm) | 1:32 | 2023-11-17 | 2023-11-26 |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-06-29 | 2022-12-04 |
@@ -459,8 +461,6 @@
 | [Top Chart](https://open.spotify.com/track/5Hci0k1CPLJwJrr4yL5xVU) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Tony Montana Of London](https://open.spotify.com/album/0DXKD2h11v2YmQp96v9eZB) | 1:58 | 2024-02-08 | 2024-02-23 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-14 | 2025-01-21 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-13 |
-| [Track 15](https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 0:00 | 2026-06-26 |  |
-| [Track 3](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 0:00 | 2026-06-26 |  |
 | [traffic](https://open.spotify.com/track/57Ca9ulwiKUh5VEAb0ObA3) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC](https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n) | 2:20 | 2023-05-11 | 2023-09-29 |
 | [Trench Anthem](https://open.spotify.com/track/3pg3n0XBIUJkUeUEZjQmQV) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Freshout Jimma, Vol\. 1](https://open.spotify.com/album/4vEbQcyYikY4qCKGxAgfeT) | 2:43 | 2024-11-22 | 2024-11-29 |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 |  |

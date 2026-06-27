@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Rony Parulian
 
-700 songs - 1 day 21 hr 18 min
+700 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [my Mystery \(feat\. Marty Friedman\)](https://open.spotify.com/track/1sXOsbw9FU3o029nmcx5U9) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [my Mystery \(feat\. Marty Friedman\)](https://open.spotify.com/album/3ZiSiBKJuooo7GCkqwwnK9) | 5:23 | 2024-11-14 | 2024-12-13 |
 | [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 | 2024-08-08 | 2025-01-17 |
 | [Nafas](https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Nafas](https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN) | 3:26 | 2026-04-23 | 2026-06-26 |
+| [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 | 2026-06-25 |  |
 | [Negoro Angin](https://open.spotify.com/track/3kfVlzPUsy7x1MiPHRuFr0) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Negoro Angin](https://open.spotify.com/album/473skY7alrmJfasO5CIeDm) | 5:12 | 2026-03-19 |  |
 | [New Feeling](https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [New Feeling](https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs) | 4:17 | 2024-06-27 | 2024-08-16 |
 | [Ngeluwihi](https://open.spotify.com/track/1BhClhu3KbdPLTPJFbBMwV) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Ngeluwihi](https://open.spotify.com/album/09OTA5eXLEKQAMnrvOJgq3) | 3:26 | 2024-01-26 | 2024-02-16 |
@@ -681,7 +682,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-04 | 2025-10-17 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-06-07 |
-| [Track 2](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 0:00 | 2026-06-25 |  |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |

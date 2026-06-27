@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-157 songs - 9 hr 26 min
+159 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [American Honey](https://open.spotify.com/track/0KZ7a5L9Q9aBLAINBgDsWq) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:44 | 2021-11-12 |  |
 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 | 2021-11-12 |  |
 | [American Made](https://open.spotify.com/track/0hLp6YwRC0pALE8IoruAxS) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [American Made](https://open.spotify.com/album/2PXeBIPphyBJcWtXsQ3QyJ) | 3:32 | 2026-01-16 |  |
+| [American Made](https://open.spotify.com/track/2IKYEtPZLywTOt1F3Eb0fj) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Made](https://open.spotify.com/album/7zaEIu1zl48MlGggY5AtB6) | 3:45 | 2026-06-26 |  |
 | [American Nights](https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:38 | 2024-07-04 |  |
 | [American Pride](https://open.spotify.com/track/2qdzLlnfCHrAibmWLaPbDD) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 4:42 | 2021-11-12 | 2022-04-04 |
 | [American Saturday Night](https://open.spotify.com/track/7xJqaCgeteqWPogqjjxkBl) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:34 | 2021-11-12 |  |
@@ -72,6 +73,7 @@
 | [Have You Forgotten?](https://open.spotify.com/track/5JWuz7zukN8z9JLNm29U5K) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Have You Forgotten?](https://open.spotify.com/album/0prhHOpBsrLRtf1fvv5dEg) | 4:02 | 2021-11-12 |  |
 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 | 2021-11-12 |  |
 | [Heart Of A Small Town](https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y) | [Tim Dugger](https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj) | [Heart Of A Small Town](https://open.spotify.com/album/4KVtANgNjZNcudrOea5YM5) | 3:17 | 2022-06-03 | 2023-08-21 |
+| [Heartbeat Of America](https://open.spotify.com/track/4SCmbpuFJmU64l0O8ESjiw) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Heartbeat Of America](https://open.spotify.com/album/3SArOU9rGqeg782YXuHJRb) | 3:35 | 2026-06-26 |  |
 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 | 2021-11-12 |  |
 | [Heroes](https://open.spotify.com/track/2ZqAZ0AcpHoy8VDhknlmdA) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Heroes](https://open.spotify.com/album/5VqDoau8rREO2OPaJUOrMc) | 3:13 | 2021-11-12 | 2022-04-04 |
 | [Heroes](https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heroes](https://open.spotify.com/album/2XcBhNn09YlqGjxUhQyVkj) | 3:04 | 2024-09-27 |  |

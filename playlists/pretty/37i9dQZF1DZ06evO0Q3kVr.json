@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAClkzsRM7fpwAE4iHBbSKSc",
+  "snapshot_id": "ajxvgAAAAAD4H8FRymGMWEgbFwjPxdOl",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Llamarada de Petate",
-      "url": "https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6"
+      "duration_ms": 367850,
+      "name": "Jesus de Nazareth",
+      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Llamarada de Petate",
+      "url": "https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trascendencia",
         "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 237609,
       "name": "Trascendencia",
       "url": "https://open.spotify.com/track/1Y89NWpT8TVJFeDT8ffPoM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Del Barrio",
-        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 367850,
-      "name": "Jesus de Nazareth",
-      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Capturados",
-        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 236193,
-      "name": "Pandillero, Pt. 1",
-      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
+      "duration_ms": 201680,
+      "name": "Redada",
+      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 274226,
-      "name": "Donde Estas Hermano",
-      "url": "https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ"
+      "duration_ms": 236193,
+      "name": "Pandillero, Pt. 1",
+      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trascendencia",
-        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 285988,
-      "name": "Que Facil",
-      "url": "https://open.spotify.com/track/5WC1NftBsLtyyLTbdVGUf6"
+      "duration_ms": 274226,
+      "name": "Donde Estas Hermano",
+      "url": "https://open.spotify.com/track/51LSobJfabBX2FeGpW0QgQ"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Redada",
-      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
+      "duration_ms": 285988,
+      "name": "Que Facil",
+      "url": "https://open.spotify.com/track/5WC1NftBsLtyyLTbdVGUf6"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 235293,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
+      "duration_ms": 223386,
+      "name": "Guerrillero",
+      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 393626,
-      "name": "Tocando Fondo",
-      "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
+      "duration_ms": 385560,
+      "name": "Hipotecados",
+      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 223386,
-      "name": "Guerrillero",
-      "url": "https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17"
+      "duration_ms": 235293,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 385560,
-      "name": "Hipotecados",
-      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
+      "duration_ms": 393626,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW"
     },
     {
       "added_at": null,

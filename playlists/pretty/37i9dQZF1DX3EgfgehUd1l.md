@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,336 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,353 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 33 | [True Love](https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Grace Kelly](https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji) | [Takes Two to Tango \(Duets for Him and Her \- Music for Valentine's Day\)](https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O) | 3:05 |
 | 34 | [St Therese of the Roses](https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Magic Of Malcolm Vaughan](https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU) | 2:52 |
 | 35 | [The Great Pretender \- Single Version](https://open.spotify.com/track/7DPxY0fRDRHeWRtLZZoOyt) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Rock N' Roll Legends](https://open.spotify.com/album/6AfKX3qduiaVOzcvNXNlib) | 2:39 |
-| 36 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
-| 37 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
+| 36 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
+| 37 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
 | 38 | [I'm In Love Again](https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 1:58 |
 | 39 | [Poor Little Fool](https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:33 |
 | 40 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 67 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |
 | 68 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
 | 69 | [Tom Dooley](https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP) | [Lonnie Donegan](https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n) | [The EP Collection](https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu) | 3:20 |
-| 70 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
-| 71 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
+| 70 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
+| 71 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
 | 72 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
 | 73 | [I'll Take You Home Again, Kathleen](https://open.spotify.com/track/3rfvssyMQbY28825P2sztA) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 2:57 |
 | 74 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [60's Triple set](https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7) | 2:53 |

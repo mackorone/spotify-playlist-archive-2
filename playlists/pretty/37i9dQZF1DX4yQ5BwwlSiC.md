@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yQ5BwwlSiC.md) - [plain]
 
 > Watch The Music Event of Summer on June 25 at 8/7c on ABC! Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,654 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,658 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

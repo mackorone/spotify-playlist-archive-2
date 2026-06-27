@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & Kwesi Arthur
 
-977 songs - 2 day 0 hr 57 min
+977 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [Masua Adeɛ](https://open.spotify.com/track/7kOYEpuROieNGPzsd4Ppxg) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Masua Adeɛ](https://open.spotify.com/album/180eJKKw93qShZlba2nfCH) | 3:25 | 2026-02-27 | 2026-03-27 |
 | [Mbesiafo \(Women\)](https://open.spotify.com/track/4nsaG9UbW5rCYfFwQurZ3V) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 2:44 | 2023-11-24 | 2023-11-29 |
 | [Mbesiafo \(Women\)](https://open.spotify.com/track/76hd0dnQvZuXfvoDLnzOGD) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 2:44 | 2023-11-24 | 2024-01-05 |
+| [Me](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 2:14 | 2026-06-25 |  |
 | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 | 2024-09-19 | 2025-10-17 |
 | [Meantime](https://open.spotify.com/track/2v29eqWWEYgcK2quLFk4sH) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Meantime](https://open.spotify.com/album/3lHTdBtPn88NOv2cjcwocX) | 2:53 | 2023-08-03 | 2023-09-15 |
 | [Medo \(feat\. Swanzy B\)](https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena) | [Lord Kenya](https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7), [Swanzy B](https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP) | [Yeesom Sika](https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb) | 4:52 | 2025-03-06 | 2025-03-14 |
@@ -878,7 +879,6 @@
 | [Too Windy 4 U](https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O) | [Mus](https://open.spotify.com/artist/4gIy9bx9Mw1zNM6PRnfT0P), [Japo](https://open.spotify.com/artist/7fKwtNYCndojisAPoE3z7m) | [Too Windy 4 U](https://open.spotify.com/album/4SdPGtonnFujGC874zu2Ii) | 1:58 | 2024-08-09 | 2024-08-26 |
 | [Top Speed](https://open.spotify.com/track/5uMtLvgPkHjclh5zIgYSOO) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Top Speed](https://open.spotify.com/album/5QTnDhXpzwXkhzqHcyhxYp) | 3:01 | 2025-09-26 |  |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
-| [Track 1](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 0:00 | 2026-06-25 |  |
 | [Tracking You](https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Tracking You](https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6) | 3:03 | 2025-09-05 |  |
 | [Tranquillo](https://open.spotify.com/track/0R5MHXzCbwJkng8NHlH2S2) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Allan Harvey](https://open.spotify.com/artist/2CgKpJdeCBt658rjmY5DZt) | [Tranquillo](https://open.spotify.com/album/6tlJwdz4dFTig2UG6HoSAn) | 3:05 | 2023-06-09 | 2023-06-23 |
 | [Trap](https://open.spotify.com/track/6Lss25OMzPLTx8czIC8Wr4) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Trap](https://open.spotify.com/album/46zsXuCelHvSbq1wtawF59) | 2:58 | 2024-03-08 | 2024-08-09 |

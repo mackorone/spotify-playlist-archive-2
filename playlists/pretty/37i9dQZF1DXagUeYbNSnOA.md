@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MXKA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,887 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,894 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Montana](https://open.spotify.com/track/03KZMwVbWkto3cqV1g5wf8) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL), [Mr Sonic](https://open.spotify.com/artist/5WJpA3sTvsjYnBjYLS97Wm) | [Montana](https://open.spotify.com/album/68TZrJR51i3Z5D7xOJqmF9) | 2:49 |
 | 50 | [NO PARA](https://open.spotify.com/track/2snV0xKwCvi12Cllb5M1lB) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [NO PARA](https://open.spotify.com/album/6IbfWaqJgeU3EhQZPhtf4w) | 2:55 |
 
-Snapshot ID: `AAAAAFmbLE/RDvoo6LLSy9tZ8DFaPwKX`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

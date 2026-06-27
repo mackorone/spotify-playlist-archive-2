@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27274,
+  "num_followers": 27271,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
-        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
+        "name": "\u6cab\u96ea",
+        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 286000,
-      "name": "SNOW SOUND",
-      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+      "duration_ms": 184266,
+      "name": "\u6cab\u96ea",
+      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u6cab\u96ea",
-        "url": "https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q"
+        "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
+        "url": "https://open.spotify.com/album/4JnLPlsSyrE4pD9TV6WLTj"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
         }
       ],
-      "duration_ms": 184266,
-      "name": "\u6cab\u96ea",
-      "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
+      "duration_ms": 286000,
+      "name": "SNOW SOUND",
+      "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
     },
     {
       "added_at": "2025-10-23 13:55:51",

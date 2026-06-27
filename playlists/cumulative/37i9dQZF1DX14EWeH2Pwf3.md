@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> G\. Mineiro in cover 🇧🇷
+> sopra il beat di Flatinho, G\. Mineiro in cover 🇧🇷
 
 1,111 songs - 2 day 5 hr 40 min
 

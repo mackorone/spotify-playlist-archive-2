@@ -1,12 +1,12 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met Barto, Die Piesangskille, Justin Vega, Juanita du Plessis en meer!",
-  "num_followers": 43798,
+  "num_followers": 43828,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIMfqarw1/M7W5PjFRLrHcuOBzxO",
+  "snapshot_id": "AAAAAKjexTffznjDebfHKNF010gDV0rx",
   "tracks": [
     {
       "added_at": "2026-06-25 22:02:01",
@@ -88,8 +88,8 @@
           "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 199500,
+      "name": "Bly In Jou Baan",
       "url": "https://open.spotify.com/track/3wNuwI4JUltqlUtof6H32M"
     },
     {
@@ -107,6 +107,22 @@
       "duration_ms": 179646,
       "name": "Bid",
       "url": "https://open.spotify.com/track/3ukaWRNUa3ABSHLgDvUD5d"
+    },
+    {
+      "added_at": "2026-06-26 04:58:04",
+      "album": {
+        "name": "Waar Die Engele Rook",
+        "url": "https://open.spotify.com/album/27p8jYPlg9TST9z1XaVgAb"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Waar Die Engele Rook",
+      "url": "https://open.spotify.com/track/2CSfUdmAa9qIBycNIBVcJu"
     },
     {
       "added_at": "2026-06-25 22:02:01",

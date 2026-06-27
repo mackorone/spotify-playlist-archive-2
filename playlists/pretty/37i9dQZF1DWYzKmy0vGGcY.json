@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 650088,
+  "num_followers": 650196,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Bee Gees' 1st",
         "url": "https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 144880,
       "name": "Here, There And Everywhere - Remastered 2009",
       "url": "https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Platinum - A Life In Music",
-        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Are You Lonesome Tonight?",
-      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 178466,
       "name": "Trust In Me",
       "url": "https://open.spotify.com/track/5Zu9mG353GB3p26t7M5AmR"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Platinum - A Life In Music",
+        "url": "https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Are You Lonesome Tonight?",
+      "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Golden Hits of The Everly Brothers",
-        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
+        "name": "A Date with The Everly Brothers",
+        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 120306,
-      "name": "Crying in the Rain",
-      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
+      "duration_ms": 145933,
+      "name": "Cathy's Clown - 2007 Remaster",
+      "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "A Date with The Everly Brothers",
-        "url": "https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P"
+        "name": "The Golden Hits of The Everly Brothers",
+        "url": "https://open.spotify.com/album/3wWjXsqngYcPmd4hQzjNAD"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 145933,
-      "name": "Cathy's Clown - 2007 Remaster",
-      "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
+      "duration_ms": 120306,
+      "name": "Crying in the Rain",
+      "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
-        "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Honey (I Miss You)",
-      "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "For Your Precious Love...",
         "url": "https://open.spotify.com/album/2PHrZGSFqrXwJ4RM5svp4T"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 165626,
       "name": "For Your Precious Love",
       "url": "https://open.spotify.com/track/4HiOvJ1lASRijDaaqtZQ9N"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Gary Puckett & The Union Gap Featuring \"Young Girl\"",
+        "url": "https://open.spotify.com/album/3Q83WkHiw4oRcmjuRbHJ8M"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Honey (I Miss You)",
+      "url": "https://open.spotify.com/track/7eErg4xYy85zjy10xsZop6"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Motown Anthology",
-        "url": "https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP"
-      },
-      "artists": [
-        {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Darling Baby - Mono",
-      "url": "https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Collectors Gold Series",
@@ -1887,6 +1871,22 @@
       "duration_ms": 155960,
       "name": "My True Story",
       "url": "https://open.spotify.com/track/1paWReMsPIqKGEOxdlHT2D"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Motown Anthology",
+        "url": "https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP"
+      },
+      "artists": [
+        {
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Darling Baby - Mono",
+      "url": "https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg"
     },
     {
       "added_at": "2024-05-03 14:52:34",

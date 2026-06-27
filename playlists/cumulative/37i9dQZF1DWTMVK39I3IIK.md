@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> young soundsss!! Monaqi på forsiden 🍔
+> youngs soundss 🥞 Klara Vibe på forsiden
 
-444 songs - 22 hr 46 min
+445 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,11 +153,12 @@
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2025-01-24 |
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-27 | 2024-08-23 |
 | [Gode Dage Venter](https://open.spotify.com/track/6qRcNR61C16q4sSplRwe24) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/331nvnmllDG5iYUsEvbsS6) | 3:25 | 2025-10-23 | 2025-10-31 |
+| [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 | 2026-06-26 |  |
 | [Grå Skyer](https://open.spotify.com/track/0sdW0LZgcaY5KGPzLrq55A) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Grå Skyer](https://open.spotify.com/album/6pikXZAx9cyLdYSisP5gBE) | 2:51 | 2025-03-07 | 2025-03-14 |
 | [gyldne løfter](https://open.spotify.com/track/4v1vC9ENhra6G8Qj95TJ9L) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [gyldne løfter](https://open.spotify.com/album/1OUMoazluzkG5nD8MI2BmQ) | 3:39 | 2025-03-20 | 2025-03-28 |
 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 | 2025-09-05 |
 | [Går Bare](https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Går Bare](https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD) | 4:36 | 2024-09-16 | 2025-02-21 |
-| [Gør Mig Bedre](https://open.spotify.com/track/2VIkXrTOiFwIZwxzHIaqnU) | [Monaqi](https://open.spotify.com/artist/2sbioqETc1sQ9Qmel7cqwo) | [Gør Mig Bedre](https://open.spotify.com/album/535qjHFfawN9fIRP3iROsx) | 3:10 | 2026-06-19 |  |
+| [Gør Mig Bedre](https://open.spotify.com/track/2VIkXrTOiFwIZwxzHIaqnU) | [Monaqi](https://open.spotify.com/artist/2sbioqETc1sQ9Qmel7cqwo) | [Gør Mig Bedre](https://open.spotify.com/album/535qjHFfawN9fIRP3iROsx) | 3:10 | 2026-06-19 | 2026-06-27 |
 | [Halskæde](https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Halskæde](https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq) | 2:37 | 2024-06-27 | 2025-10-10 |
 | [Ham Med Paraplyen](https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Ham Med Paraplyen](https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J) | 2:53 | 2025-08-28 | 2026-05-01 |
 | [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 | 2025-08-08 |

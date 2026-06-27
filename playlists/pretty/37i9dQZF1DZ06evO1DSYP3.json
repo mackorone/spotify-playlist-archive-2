@@ -1,13 +1,29 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5758,
+  "num_followers": 5760,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAy+tyrkX6FfjvqOTiWi8AK",
+  "snapshot_id": "ajxvgAAAAACpPWOhBH/crRwLs9k9P9p7",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 137860,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk"
+    },
     {
       "added_at": null,
       "album": {
@@ -215,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Me Lit",
+        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 131794,
+      "name": "Get Me Lit",
+      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -239,22 +271,6 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Me Lit",
-        "url": "https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 131794,
-      "name": "Get Me Lit",
-      "url": "https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M"
     },
     {
       "added_at": null,
@@ -947,26 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Should Know",
-        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+        "name": "SILK",
+        "url": "https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR"
       },
       "artists": [
         {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "Hollywood Cole",
-          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+          "name": "YMTK",
+          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Mack",
-      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+      "duration_ms": 201665,
+      "name": "SILK",
+      "url": "https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty"
     },
     {
       "added_at": null,
@@ -987,26 +999,6 @@
       "duration_ms": 182926,
       "name": "Luh U",
       "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SILK",
-        "url": "https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR"
-      },
-      "artists": [
-        {
-          "name": "YMTK",
-          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 201665,
-      "name": "SILK",
-      "url": "https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty"
     },
     {
       "added_at": null,
@@ -1035,6 +1027,30 @@
       "duration_ms": 225802,
       "name": "Demon (feat. P-Lo & ShooterGang Kony)",
       "url": "https://open.spotify.com/track/6ZD4SzGfEVd0mOtttUE99M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "Hollywood Cole",
+          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mack",
+      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
     },
     {
       "added_at": null,
@@ -1075,30 +1091,6 @@
       "duration_ms": 139041,
       "name": "Type Beat",
       "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She Wanna (feat. P-Lo)",
-        "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "!llmind",
-          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 205124,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
     }
   ],
   "unique_name": "This Is P-Lo",

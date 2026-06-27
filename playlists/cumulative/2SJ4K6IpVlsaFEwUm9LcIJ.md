@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,023 songs - 2 day 14 hr 10 min
+1,025 songs - 2 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,6 +833,7 @@
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 | 2024-11-13 | 2025-01-12 |
 | [Suffer Debt](https://open.spotify.com/track/3U9AaUSqjcUmWEbDenK39r) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Running From the Chase](https://open.spotify.com/album/3yKcdRIr1FIFE1xQe4PCWR) | 4:05 | 2025-04-20 | 2025-05-09 |
 | [Sullen Girl](https://open.spotify.com/track/6cVxGzo7214XabSXFGasNl) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 3:54 | 2026-01-08 | 2026-03-13 |
+| [Summer](https://open.spotify.com/track/2jUTmPJ6YU8197buZGWc5U) | [Helvetia](https://open.spotify.com/artist/2nUbg56ljfs5oXyB1UNiY8) | [The Acrobats](https://open.spotify.com/album/5uzAsif3xMdnlwfaPNzfYx) | 5:25 | 2026-06-26 |  |
 | [Summertime](https://open.spotify.com/track/0SvdetJuMPimGOvqSoVAZT) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 3:21 | 2024-11-17 | 2025-01-12 |
 | [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 | 2024-06-03 | 2024-07-12 |
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 | 2024-07-12 |
@@ -992,6 +993,7 @@
 | [White Hop](https://open.spotify.com/track/335x3VZtXVQGcDoWEjZwt5) | [The Aggrovators](https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm) | [Rocksteady Reverie](https://open.spotify.com/album/4Vg0XOP6lgwtONH1w991qP) | 3:39 | 2025-08-05 | 2025-09-11 |
 | [Who's Gonna Buy You Ribbons](https://open.spotify.com/track/3q1Bx4GURmhkVafAtU5tOQ) | [Paul Clayton](https://open.spotify.com/artist/0OP3vGdafC4R9cXSoyRm9B) | [Paul Clayton Sings Home Made Songs And Ballads](https://open.spotify.com/album/7D75T3r9whYRbxy3gZ41FV) | 2:54 | 2025-11-14 | 2026-01-15 |
 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 | 2024-11-18 | 2025-01-12 |
+| [Why Do You Ask](https://open.spotify.com/track/0LFoXRQ74Z8xksGA1z9EVB) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [Northern Classic](https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr) | 4:56 | 2026-06-26 |  |
 | [Why I Cry](https://open.spotify.com/track/63eLvJ4LTI1Q30s0980UT7) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Get Lost](https://open.spotify.com/album/41xkD8HnEZ4ad9DPeL2kY0) | 3:37 | 2024-05-30 | 2024-07-12 |
 | [Wild Eyes](https://open.spotify.com/track/06kfJgnlXLbXhhRFXS42xP) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP) | 1:55 | 2024-07-12 | 2024-09-08 |
 | [Wild Goose Chase](https://open.spotify.com/track/6gRn4Cs6bJeo0RP7XXxn95) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:06 | 2025-06-14 | 2025-07-04 |

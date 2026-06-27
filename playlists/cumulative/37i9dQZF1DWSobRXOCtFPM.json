@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "A Little Life",
+        "url": "https://open.spotify.com/album/6xW6F51FnnMSHONxw70BEY"
+      },
+      "artists": [
+        {
+          "name": "Michele Conte",
+          "url": "https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282580,
+      "name": "A Little Life",
+      "url": "https://open.spotify.com/track/3Szp1Gbe5PH2PS26Qkr7ni"
+    },
+    {
+      "album": {
         "name": "A Savage",
         "url": "https://open.spotify.com/album/0XBr18hWgUrnN7rJUYAZ4c"
       },
@@ -696,6 +714,24 @@
       "duration_ms": 340589,
       "name": "Bastian",
       "url": "https://open.spotify.com/track/4VNCTejinLH66gtNc9etdO"
+    },
+    {
+      "album": {
+        "name": "A Little Life",
+        "url": "https://open.spotify.com/album/6xW6F51FnnMSHONxw70BEY"
+      },
+      "artists": [
+        {
+          "name": "Michele Conte",
+          "url": "https://open.spotify.com/artist/5Ua2M4hhWcm1y2ADgGp92q"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329032,
+      "name": "Bay Baby",
+      "url": "https://open.spotify.com/track/3LoFfJc8gswCBKLvXzpyPj"
     },
     {
       "album": {
@@ -6267,6 +6303,58 @@
     },
     {
       "album": {
+        "name": "Probe Your Mind",
+        "url": "https://open.spotify.com/album/5vp77RZ0R6SwRMTCFd7rqg"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        },
+        {
+          "name": "Tony Morris",
+          "url": "https://open.spotify.com/artist/6P00k1dNhaEj1TtCetLAyE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211977,
+      "name": "Probe Your Mind - Coe's Mind radio edit",
+      "url": "https://open.spotify.com/track/6muvI0yuuVbtWz2CkD3J3y"
+    },
+    {
+      "album": {
+        "name": "Probe Your Mind",
+        "url": "https://open.spotify.com/album/5vp77RZ0R6SwRMTCFd7rqg"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        },
+        {
+          "name": "Christopher Coe",
+          "url": "https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP"
+        },
+        {
+          "name": "Tony Morris",
+          "url": "https://open.spotify.com/artist/6P00k1dNhaEj1TtCetLAyE"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214138,
+      "name": "Probe Your Mind - Wink's mind radio edit",
+      "url": "https://open.spotify.com/track/2tdB1DVQFAUuzuACrZWIx8"
+    },
+    {
+      "album": {
         "name": "Generate EP",
         "url": "https://open.spotify.com/album/3VL5m0I2IyfWXwV5s3mhUR"
       },
@@ -6580,6 +6668,36 @@
       "duration_ms": 447626,
       "name": "Realize - Original Mix",
       "url": "https://open.spotify.com/track/0WlHwzg4dnOEDaEi4jvey0"
+    },
+    {
+      "album": {
+        "name": "Rebel in the Morning",
+        "url": "https://open.spotify.com/album/2JTDgHjxyeEtYWIpFqa2Ig"
+      },
+      "artists": [
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        },
+        {
+          "name": "Jake Childs",
+          "url": "https://open.spotify.com/artist/7bPxCkG6dTO2FUSrHy5Tm3"
+        },
+        {
+          "name": "Joe Roberts",
+          "url": "https://open.spotify.com/artist/1bZ6A5GwXSCqs4dES87glX"
+        },
+        {
+          "name": "Papa Michigan",
+          "url": "https://open.spotify.com/artist/7susReFcK5MW1MnGlCKvCe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246061,
+      "name": "Rebel in the Morning - Jake Child's Deepah Edit",
+      "url": "https://open.spotify.com/track/5thlnPc4FTSa3ZrdyTrXMa"
     },
     {
       "album": {

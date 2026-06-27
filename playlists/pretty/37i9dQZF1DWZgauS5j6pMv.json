@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: Devon Gilfillian",
-  "num_followers": 355107,
+  "num_followers": 355135,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKeAqyOtpxc1nIGR13Jl6FnWaFiE",
+  "snapshot_id": "AAAAABrDhKp2vsNujnZre8XpBRjqOSzC",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:47",
+      "album": {
+        "name": "PILLAR OF SALT",
+        "url": "https://open.spotify.com/album/6kwTGr3AN3hlGcNWyyHUsb"
+      },
+      "artists": [
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "PILLAR OF SALT",
+      "url": "https://open.spotify.com/track/7etk8IZgsTqysBOHvMK7uY"
+    },
     {
       "added_at": "2026-06-19 04:00:35",
       "album": {
@@ -1051,26 +1067,6 @@
       "duration_ms": 135312,
       "name": "FYMB (Free Your Mind Baby)",
       "url": "https://open.spotify.com/track/7fY9syk6ncZMGwCzNOLGMI"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/2bI85Cz6myN5xQxM31bfvg"
-      },
-      "artists": [
-        {
-          "name": "Tweak on the Beat",
-          "url": "https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B"
-        },
-        {
-          "name": "Ric Wilson",
-          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
-        }
-      ],
-      "duration_ms": 98181,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 443502,
+  "num_followers": 443529,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1hiiTeDI2HgonmqDnISzuvQdj8",
+  "snapshot_id": "AAAAACQMEJzv+SeKWDKZPoDc8PO3wWLj",
   "tracks": [
     {
       "added_at": "2026-06-19 04:00:56",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
-        "name": "End of Summer",
-        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
         "name": "PEARL",
         "url": "https://open.spotify.com/album/0gfmzQ2h5XslfUtAZKm4oj"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 231066,
       "name": "PEARL",
       "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
+        "name": "End of Summer",
+        "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 274303,
+      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
+      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
         "name": "Let Love Be Genuine",
         "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 366133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
-        "name": "Miles '56 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 274303,
-      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
-      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
     },
     {
       "added_at": "2026-06-19 04:00:56",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-06-19 04:00:56",
       "album": {
+        "name": "Around The World With U",
+        "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Owens Jr.",
+          "url": "https://open.spotify.com/artist/66FAsYgofjwbhgGXMzZyzP"
+        }
+      ],
+      "duration_ms": 307346,
+      "name": "Mo\u2019 Betta Blues",
+      "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
+    },
+    {
+      "added_at": "2026-06-19 04:00:56",
+      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/1Plvo3OJgozxDluN4QKoTo"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 386786,
       "name": "Uncle John\u2019s Band",
       "url": "https://open.spotify.com/track/6bt7GwrXpUgIeXMw16yBkY"
-    },
-    {
-      "added_at": "2026-06-19 04:00:56",
-      "album": {
-        "name": "Around The World With U",
-        "url": "https://open.spotify.com/album/3v4eINJb7PG6tyW91TtEOx"
-      },
-      "artists": [
-        {
-          "name": "Ulysses Owens Jr.",
-          "url": "https://open.spotify.com/artist/66FAsYgofjwbhgGXMzZyzP"
-        }
-      ],
-      "duration_ms": 307346,
-      "name": "Mo\u2019 Betta Blues",
-      "url": "https://open.spotify.com/track/0JoLYqF8Nq29tRzlR384vk"
     },
     {
       "added_at": "2026-06-19 04:00:56",

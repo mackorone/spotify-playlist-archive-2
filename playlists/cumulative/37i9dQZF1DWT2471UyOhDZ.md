@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Julia Jacklin
 
-460 songs - 1 day 5 hr 44 min
+462 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,10 @@
 | [Better](https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Better](https://open.spotify.com/album/3WrwVAVGPXWDewDCxkdnc0) | 3:09 | 2025-09-04 | 2025-10-03 |
 | [Bitter Everyday](https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bitter Everyday](https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs) | 3:21 | 2025-09-04 | 2025-11-15 |
 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 | 2024-06-14 | 2025-01-17 |
-| [Black James Dean](https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Black James Dean](https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8) | 5:22 | 2026-04-30 |  |
+| [Black James Dean](https://open.spotify.com/track/4V6u2JRED2D0936h6NPucc) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Black James Dean](https://open.spotify.com/album/3ipPjBzXI1iqWIgF991UK8) | 5:22 | 2026-04-30 | 2026-06-27 |
 | [Black Poppies](https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Black Poppies](https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n) | 2:52 | 2024-10-06 | 2024-11-23 |
 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-06-14 | 2025-03-22 |
-| [Black Ulysses](https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Vespers, Tracks 1\-4](https://open.spotify.com/album/71eLI9GjL6lzcqCLRLHrZG) | 3:14 | 2026-04-30 |  |
+| [Black Ulysses](https://open.spotify.com/track/75IorrAVPCZfzET2ICkVx7) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Vespers, Tracks 1\-4](https://open.spotify.com/album/71eLI9GjL6lzcqCLRLHrZG) | 3:14 | 2026-04-30 | 2026-06-27 |
 | [Blankspace](https://open.spotify.com/track/0y4l286JVQCzFf2mC1esgl) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Blankspace](https://open.spotify.com/album/7x4uL7q989pphBMwV3g54g) | 3:04 | 2026-01-12 | 2026-02-07 |
 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 | 2024-06-14 | 2025-03-22 |
 | [Blues](https://open.spotify.com/track/7nGhBjDpYtI7jJ5Tel9jDt) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Blues](https://open.spotify.com/album/17MCK1RRgBwKzmOLioiap3) | 5:42 | 2024-10-06 | 2025-01-17 |
@@ -75,6 +75,7 @@
 | [But I'll Keep Trying](https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [But I'll Keep Trying](https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57) | 3:11 | 2025-01-31 | 2026-06-19 |
 | [But You Just Woke Me Up](https://open.spotify.com/track/3O3qS7OEH1cIFfDzzWO3ym) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 2:10 | 2026-01-12 |  |
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 | 2025-05-09 |
+| [Cameos](https://open.spotify.com/track/6q1og9CkTnFTTYqOSN9ed3) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Cameos](https://open.spotify.com/album/1KtLF0mP4It7MNhJSmE0Yc) | 2:55 | 2026-06-25 |  |
 | [Can't](https://open.spotify.com/track/42RzJ3eJARwTlUVVYdZQ10) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf) | 4:40 | 2024-06-14 | 2024-08-13 |
 | [Can't Pretend To Know](https://open.spotify.com/track/4blFV4d1eU814W3w9Ohyv3) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Can't Pretend To Know](https://open.spotify.com/album/4bAP2pRy474uL5jDRi6jOx) | 2:41 | 2024-11-15 | 2025-02-02 |
 | [Cap In Hand](https://open.spotify.com/track/7FZQ2rD9dTDt8GY3zJostK) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Cap In Hand](https://open.spotify.com/album/1zy5MTDu9hdJJZFFJocUV5) | 3:32 | 2026-06-18 |  |
@@ -180,7 +181,7 @@
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-10-06 | 2025-01-31 |
 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 | 2024-11-15 | 2025-05-09 |
 | [God Of Everything Else](https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [God Of Everything Else](https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN) | 3:24 | 2024-10-17 | 2024-11-13 |
-| [GOD SAVE THE PONY.](https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo) | 3:09 | 2025-10-23 | 2026-06-26 |
+| [GOD SAVE THE PONY.](https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo) | 3:09 | 2025-10-23 |  |
 | [God's Lonely Man](https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [God’s Lonely Man](https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7) | 2:43 | 2026-02-20 |  |
 | [Golden Chain](https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Golden Chain](https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53) | 2:49 | 2026-04-30 |  |
 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 | 2025-04-04 | 2026-06-19 |
@@ -359,6 +360,7 @@
 | [Sliced by a Fingernail](https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sliced by a Fingernail](https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1) | 4:08 | 2026-04-30 |  |
 | [SLUGLIFE](https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [SLUGLIFE](https://open.spotify.com/album/38gPPBhvhAMdyPe8keDAnf) | 4:43 | 2026-01-12 | 2026-03-19 |
 | [Snares](https://open.spotify.com/track/382qAtuQEUpqa4ILGWfeWY) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Microtonic](https://open.spotify.com/album/2a7WAptRLsXA4dOnGIdn5a) | 4:41 | 2025-02-28 | 2025-04-12 |
+| [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-06-25 |  |
 | [Sober](https://open.spotify.com/track/7i1n6BPGuSYiDaRUxKIStA) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Sober](https://open.spotify.com/album/52VNpXFgf7DENnJb4MXdkH) | 4:46 | 2025-05-08 | 2025-07-21 |
 | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/track/7oA9S6NHRiaI7TUbPwKOCF) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/album/3D8hTdaS1LPiA8gayUlGdR) | 4:03 | 2024-10-06 | 2024-10-17 |
 | [Something Now](https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Something Now](https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5) | 3:07 | 2024-06-14 | 2024-07-12 |

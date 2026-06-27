@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per un'estate non proprio felice 🥀 Oliver Tree in cover, in ricordo 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,295 likes - 119 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,381 likes - 119 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 39 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
 | 40 | [giornate perse](https://open.spotify.com/track/0F6y4H8xU4cjYzeeKXYxdV) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [giornate perse](https://open.spotify.com/album/3XdrxxnRdMHk3fwDuHEAq0) | 2:30 |
 | 41 | [Fiocco rosso \(feat\. Piccolo\)](https://open.spotify.com/track/4OUFixO9c4KDUuqXPHSg3R) | [SCAR](https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [Esordienti 1994](https://open.spotify.com/album/7feRUSGS3HffjLaYzeOPPS) | 3:02 |
-| 42 | [DIPENDENZA](https://open.spotify.com/track/7338uQtmHnGh5vFfHR80kC) | [Your Grave](https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm) | [DIPENDENZA](https://open.spotify.com/album/4HlyJdlH2HNUB7SRYCUX4p) | 2:04 |
+| 42 | [DIPENDENZA](https://open.spotify.com/track/7338uQtmHnGh5vFfHR80kC) | [Your Grave](https://open.spotify.com/artist/6c96Q2sjCvtDuxlApe9GbQ) | [DIPENDENZA](https://open.spotify.com/album/4HlyJdlH2HNUB7SRYCUX4p) | 2:04 |
 | 43 | [EUFORIA X SEMPRE](https://open.spotify.com/track/3N71nzozIIXSfJEmhFCy2s) | [EUFORIA](https://open.spotify.com/artist/16lbAhDR415StnqDDa4UpO) | [EUFORIA X SEMPRE](https://open.spotify.com/album/1kDvja6cY1ppFurQ7IrIWn) | 2:36 |
 | 44 | [STUPIDO](https://open.spotify.com/track/1zNnoVc2wR1fvR2lN5W7KB) | [hotelcasino](https://open.spotify.com/artist/5Or3IONhWnfvHdGEYdkDs0) | [STUPIDO](https://open.spotify.com/album/3BrFklqLFN1d5zfMYeB6uR) | 2:23 |
 | 45 | [Sei arte](https://open.spotify.com/track/1W2QKOHu2sXvXFjk7KkZzV) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Post Trauma](https://open.spotify.com/album/1VmYnK5720UrbxcyEzcqxN) | 2:08 |

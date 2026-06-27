@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Cody Johnson
 
-1,238 songs - 2 day 19 hr 55 min
+1,239 songs - 2 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-17 | 2025-07-04 |
 | [Man on the Moon](https://open.spotify.com/track/22UE7ARZNnAJHq1TObXLcc) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Man on the Moon](https://open.spotify.com/album/42uGNihY12UIvkV5gEJLaI) | 3:07 | 2024-06-06 | 2024-08-02 |
 | [Married](https://open.spotify.com/track/52PKHwouqcZxnPcUE0en29) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [KICKONS](https://open.spotify.com/album/6jTtXvHk7B1W4Pqs3jBPK5) | 3:31 | 2024-08-22 | 2024-10-04 |
+| [Marry You Again](https://open.spotify.com/track/7GW3ySPXF49BKJ6HQQ1FiJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Marry You Again](https://open.spotify.com/album/0d8GtPFvul3BhoSAvT98ID) | 3:06 | 2026-06-25 |  |
 | [Matching Tattoos](https://open.spotify.com/track/6Q0oVfhe6qYiwv6VNHhEAd) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Matching Tattoos](https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC) | 3:00 | 2024-02-15 | 2024-06-01 |
 | [Maybe So](https://open.spotify.com/track/0XrU2DeYQqktzWiU9bzkif) | [Lily Grace](https://open.spotify.com/artist/36C2hXqhxu8S68awyDaGQD) | [Maybe So](https://open.spotify.com/album/2g8yKSxKrrzekwUWSzeH2U) | 3:35 | 2023-09-14 | 2023-10-20 |
 | [Mayday](https://open.spotify.com/track/6xVpluBhiL9wMnNDy8FtzG) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Mayday](https://open.spotify.com/album/0inaA4ttyipWBUij1V6Zq0) | 2:24 | 2024-03-14 | 2024-06-01 |

@@ -3525,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/2UMHfMc5EN5y6DyMDS4kQr"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Where the Cowboys Ride",
+      "url": "https://open.spotify.com/track/7sGNBMpZJm77YoaBs5e2cg"
+    },
+    {
+      "album": {
         "name": "Who Do You Think You Are?",
         "url": "https://open.spotify.com/album/0Qbhu9PWySe05RAaT6ZC4W"
       },

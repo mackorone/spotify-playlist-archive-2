@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2118533,
+  "num_followers": 2118679,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAVMqJE51372f7ShGtk0q8g",
+  "snapshot_id": "ajxvgAAAAABSs1sd/Roy3k8sWbO/muYH",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": null,

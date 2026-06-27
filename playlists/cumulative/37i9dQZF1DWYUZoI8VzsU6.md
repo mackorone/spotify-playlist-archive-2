@@ -2,9 +2,9 @@
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with Treaty Oak Revival and Dexter and the Moonrocks
+> back roads up loud with Fox N' Vead
 
-81 songs - 4 hr 32 min
+82 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Overrated](https://open.spotify.com/track/55BmlUAYuZTqpvM7bfSUuo) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 3:38 | 2025-09-05 |  |
 | [Pick Your Reason](https://open.spotify.com/track/5NBX2Jy2j9hJN9cxpRQAOh) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Pick Your Reason](https://open.spotify.com/album/6JWfaf3toO5qwap20Of7DY) | 2:40 | 2026-01-16 |  |
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2025-09-05 |  |
+| [Playing the Game](https://open.spotify.com/track/0QrhiVmoOfnfyf7m80ZWDK) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Playing the Game](https://open.spotify.com/album/55DsguPq2KU8wyJq3UxanP) | 3:39 | 2026-06-26 |  |
 | [Power](https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Power](https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS) | 2:43 | 2025-09-05 | 2026-02-21 |
 | [Preacher’s Kid](https://open.spotify.com/track/0xhJziFgWiRqV3ihWaXdc0) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Preacher’s Kid](https://open.spotify.com/album/5r5DSgxAIE0yWQjqZT61fo) | 5:02 | 2026-06-09 |  |
 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 | 2025-09-05 |  |

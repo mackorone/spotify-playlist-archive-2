@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2861,
+  "num_followers": 2864,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAACk/vRCDBoY9XEWspMwNkC9",
+  "snapshot_id": "ajxvgAAAAACPZ1ETapL2C+h5SdKDkUyN",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 137647,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
+        "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 130095,
       "name": "BOYS BOYS BOYS",
       "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FEAST (Let\u2019s Eat Yuh Yuh)",
-        "url": "https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moonwater",
+        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 112566,
+      "name": "Moonwater",
+      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trillion$ (feat. bludnymph)",
         "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 123681,
       "name": "Trillion$ (feat. bludnymph)",
       "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moonwater",
-        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 112566,
-      "name": "Moonwater",
-      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
     },
     {
       "added_at": null,

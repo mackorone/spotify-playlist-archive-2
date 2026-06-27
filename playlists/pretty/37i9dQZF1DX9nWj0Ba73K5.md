@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iM06L"> Brett James</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,754 likes - 197 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,760 likes - 197 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

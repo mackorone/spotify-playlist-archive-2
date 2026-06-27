@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Yan Block is bringing the heat this week. Tap in every Thursday for a fresh Fuego mixtape.",
+  "description": "Hamilton is bringing the heat this week. Tap in every Thursday for a fresh Fuego mixtape.",
   "name": "Fuego",
   "tracks": [
     {
@@ -5938,7 +5938,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 150410,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1MMSPU104BcRlh6Yc7AGW4"
@@ -7418,6 +7418,24 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,478 songs - 9 day 23 hr 39 min
+4,480 songs - 9 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Almeno un'altra vita](https://open.spotify.com/track/4rsKVwn2zvkOcA2n7Yp3qq) | [Beppe De Francesco](https://open.spotify.com/artist/3dBEDD55mslAd77kOtW36X) | [Almeno un'altra vita](https://open.spotify.com/album/3xs9bQtd6NP3YEP8uCyDQR) | 3:44 | 2025-07-03 |  |
 | [ALOHA](https://open.spotify.com/track/7qImrsugYnOBTRf22LbQHP) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [ALOHA](https://open.spotify.com/album/4hqqpZw3l01zh8jwdf34Qw) | 2:02 | 2025-12-10 |  |
 | [Alone](https://open.spotify.com/track/3mMRiofuwlI9Df5UORruqH) | [Giacomo Bondi](https://open.spotify.com/artist/0iQySX2DwuYtpRH2ZHHrCc), [Barbara B.](https://open.spotify.com/artist/11VY1XpJ8WxV5mfiKFfiyd) | [Alone](https://open.spotify.com/album/4IVbOsVEi01lUcofUKKI93) | 5:01 | 2025-06-05 |  |
+| [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 | 2026-06-26 |  |
 | [Alone](https://open.spotify.com/track/1wSI1tfThOk4nwTMqWIxaH) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [The Vantages](https://open.spotify.com/album/2JHUDX78JZ6Cq7XAjW0Q2l) | 3:20 | 2025-11-08 |  |
 | [Alternativa Funky](https://open.spotify.com/track/25MbZSmJa1uTZmoqFpkgrA) | [Arturo Soria](https://open.spotify.com/artist/6m7C1JO71VO7G9HaKyncjS) | [Alternativa Funky](https://open.spotify.com/album/6199CWyrWPVP4E1M8gmh0y) | 3:37 | 2025-06-25 |  |
 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 | 2026-02-13 |  |
@@ -1547,7 +1548,7 @@
 | [from dolmen to stonehange](https://open.spotify.com/track/0poo3sN4FFTp8ESe8Rnphw) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 | 2026-01-16 |  |
 | [From east to west](https://open.spotify.com/track/6ReVKHnqarCSlUzHct6pbw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [From east to west](https://open.spotify.com/album/5TGWXU79TkABEo2bKm4aTG) | 4:54 | 2025-06-05 |  |
 | [Front Porch Wisdom \(And a Cup of Tea\)](https://open.spotify.com/track/1jVR4lpiQPQz8ArITeH5Dy) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:54 | 2026-04-29 |  |
-| [FRONTIER SNOW](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FRONTIER SNOW](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 | 2025-12-10 |  |
+| [Frontier Snow](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Frontier Snow](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 | 2025-12-10 |  |
 | [Frowned Upon](https://open.spotify.com/track/3udEXAmLrG9tnU7a9Vxibs) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Frowned Upon](https://open.spotify.com/album/5YNbGKqoXOLiyVMupRt61y) | 3:38 | 2025-06-25 |  |
 | [Frozen](https://open.spotify.com/track/4gNSelBneZYQvYclbZb1hV) | [eawokk](https://open.spotify.com/artist/37CmsNuvnB4L4jUpOGMkq6) | [Turn Me Off](https://open.spotify.com/album/5BD0JfPu3R2iQhmfUpm94A) | 6:18 | 2025-10-17 |  |
 | [Fruit on the Vine](https://open.spotify.com/track/5QgWl7qQVLjqdD1rS6BeID) | [Kip Lily](https://open.spotify.com/artist/0lJ4m103Yzpv9aWNfI1g5y) | [Fruit on the Vine](https://open.spotify.com/album/39WBV1h8qFbnxgEYpxUqkI) | 3:53 | 2025-09-21 |  |
@@ -3111,6 +3112,7 @@
 | [Reasons To Stay](https://open.spotify.com/track/6GO9asq0BdWB3EMWZibLMc) | [Get Through](https://open.spotify.com/artist/5gF3q9VRL3x0zOyba99xIT) | [Reasons To Stay](https://open.spotify.com/album/1fgrJdJdPJhaz0KCN5PkVW) | 4:29 | 2026-06-19 |  |
 | [Rebel Heart](https://open.spotify.com/track/3yBRPnQnbAE8ZHxJ78ps2O) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 3:54 | 2025-05-31 |  |
 | [Rebel Heart \(another\)](https://open.spotify.com/track/6i0wkBGhCfOq1QLmtsAk2Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 3:20 | 2025-09-18 |  |
+| [Rebel Soul](https://open.spotify.com/track/6JCO2Sp295DrQi5Mu5Ix0t) | [Riiver Brukes](https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS) | [Rebel Soul](https://open.spotify.com/album/6UkFPm3iask9d6xcxwVYN9) | 3:55 | 2026-06-26 |  |
 | [Rebellion's Fire](https://open.spotify.com/track/654UuP9v8Jt7NV6YPtudIA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:55 | 2025-05-27 |  |
 | [Rebellion's Fire \(another\)](https://open.spotify.com/track/7w2EeMM1UfSg4AFI6UshNP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Rock'n roll Pop Modern Hits](https://open.spotify.com/album/5TKb0dzplMyuhjmMv2iFim) | 2:08 | 2025-09-18 |  |
 | [Red Cap, Blue Star](https://open.spotify.com/track/6orpNkaB5N8mFEEwQ6eypw) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [FOR CHARLIE](https://open.spotify.com/album/0Xn5dxCEWmsvZkMHsXNy23) | 3:11 | 2026-04-13 |  |

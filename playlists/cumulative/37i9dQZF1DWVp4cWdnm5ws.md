@@ -4,7 +4,7 @@
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: Kenaniah
 
-344 songs - 20 hr 21 min
+345 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [5678](https://open.spotify.com/track/2hAoi72sQzqmRwj4eXRjeh) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [5678](https://open.spotify.com/album/0UYm7AHI0WoaCDajD1Dwdt) | 2:51 | 2023-04-13 | 2024-04-03 |
 | [65+4](https://open.spotify.com/track/47MuTRFIMpxY05ZLyfX5Pg) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [ELHÉVATE](https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0) | 3:14 | 2026-04-06 |  |
 | [Aftertaste](https://open.spotify.com/track/356cHgniK3jX5vdyTw5bxj) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Aftertaste](https://open.spotify.com/album/4A4p0x3lcjeCXog13ypREc) | 3:32 | 2023-04-13 | 2024-04-03 |
+| [Ai Shite Ruyo](https://open.spotify.com/track/7lN50K8eny7KTRXKvd95Wt) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Ai Shite Ruyo](https://open.spotify.com/album/0s74hT3Ar02cQZA7VHhxnn) | 3:08 | 2026-06-26 |  |
 | [Alam Ko Na](https://open.spotify.com/track/5sxzyd1SIx7COY68mfEO3y) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:00 | 2023-11-29 | 2024-01-12 |
 | [Alam Ko Na](https://open.spotify.com/track/6deBk1BSZkEO7WxvXKnqOZ) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF), [Third Flo'](https://open.spotify.com/artist/4oq3ZPun2GUPkUBo8BzuTW) | [Alam Ko Na](https://open.spotify.com/album/72zUZYts2xtMDdOS02vOSw) | 4:00 | 2023-04-13 | 2024-04-03 |
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2024-04-02 | 2025-03-28 |
@@ -249,7 +250,7 @@
 | [Polaroid](https://open.spotify.com/track/3QL4l8VyhcwzvTpQkqktTY) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [No$ia](https://open.spotify.com/artist/75SAo69xbkQH9d5LfLwCeZ), [Leslie](https://open.spotify.com/artist/4ISAzgKYMuonWbDhueeoEq) | [Polaroid](https://open.spotify.com/album/0bIMhGqBeOGcu7R6LjsStY) | 4:17 | 2021-11-25 | 2022-03-25 |
 | [porque](https://open.spotify.com/track/0dyQp33F9CImZFoSrxaEEM) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [porque](https://open.spotify.com/album/6L93zJeOIQWTgnkJ6Xqj7R) | 4:52 | 2021-11-25 | 2022-03-25 |
 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 | 2025-12-03 | 2026-01-18 |
-| [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [Cholow](https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 | 2026-04-06 |  |
+| [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [CHOLOW](https://open.spotify.com/artist/5ViHWjuSxWnCCT9Ck4Qrux) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 | 2026-04-06 |  |
 | [PRETTY PLEASE](https://open.spotify.com/track/2mNL99gN0yxhPPXpyhFlcS) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [PRETTY PLEASE](https://open.spotify.com/album/7tw9n1syMTgFz6KI9hsqSO) | 3:04 | 2023-06-16 | 2024-04-03 |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2021-11-25 | 2022-03-25 |
 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-30 | 2025-03-28 |

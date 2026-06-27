@@ -1223,6 +1223,28 @@
     },
     {
       "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Bell Me Op",
+      "url": "https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz"
+    },
+    {
+      "album": {
         "name": "Ben je dom?",
         "url": "https://open.spotify.com/album/683rXVkEbHarFpnbjEvN7D"
       },
@@ -9312,24 +9334,6 @@
       "duration_ms": 151282,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ"
-    },
-    {
-      "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz"
     },
     {
       "album": {

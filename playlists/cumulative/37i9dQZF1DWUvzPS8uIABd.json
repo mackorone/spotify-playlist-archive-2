@@ -15605,6 +15605,28 @@
     },
     {
       "album": {
+        "name": "#YOLO",
+        "url": "https://open.spotify.com/album/6FyjnRVIhWbL36HfVaOkbX"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120833,
+      "name": "SWAG",
+      "url": "https://open.spotify.com/track/38fVwj5ltp4sfF7Lpby8Ud"
+    },
+    {
+      "album": {
         "name": "Sweetheart (feat. Topi Saha)",
         "url": "https://open.spotify.com/album/3cBuBd8Csq8AMb0m66SS9i"
       },
@@ -16848,24 +16870,6 @@
       "duration_ms": 199466,
       "name": "Toyboy",
       "url": "https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI"
-    },
-    {
-      "album": {
-        "name": "#YOLO",
-        "url": "https://open.spotify.com/album/6FyjnRVIhWbL36HfVaOkbX"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/38fVwj5ltp4sfF7Lpby8Ud"
     },
     {
       "album": {

@@ -6394,7 +6394,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 276643,
       "name": "Dhun (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
@@ -9480,6 +9480,32 @@
       "duration_ms": 324880,
       "name": "Haan Tu Hain",
       "url": "https://open.spotify.com/track/4vgCpNUUcpEIBifidhQOnR"
+    },
+    {
+      "album": {
+        "name": "YRF Top 10 - Midnight Hour",
+        "url": "https://open.spotify.com/album/2mgAQPRBawMyJ1N6jGWWPF"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214735,
+      "name": "Haareya (From \"Meri Pyaari Bindu \")",
+      "url": "https://open.spotify.com/track/678JJ0TF3KFkzw6bIFKcew"
     },
     {
       "album": {
@@ -17389,6 +17415,40 @@
     },
     {
       "album": {
+        "name": "Cocktail 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uxxgYDgTR08xPIU1Ngo4g"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230070,
+      "name": "Mashooqa - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/0IfWnsZSHmBf8tVlYEuUQG"
+    },
+    {
+      "album": {
         "name": "Mashooqa (From \u201cCocktail 2\u201d)",
         "url": "https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac"
       },
@@ -17416,7 +17476,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 230070,
       "name": "Mashooqa - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK"
@@ -28204,10 +28264,40 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 342400,
       "name": "Tujhko - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"
+    },
+    {
+      "album": {
+        "name": "Cocktail 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uxxgYDgTR08xPIU1Ngo4g"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342400,
+      "name": "Tujhko - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/34brecMr3yWUJFPcwrAhax"
     },
     {
       "album": {

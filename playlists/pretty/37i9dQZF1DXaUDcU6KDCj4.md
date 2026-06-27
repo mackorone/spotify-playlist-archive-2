@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Tiny Habits
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ryan Beatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,624 likes - 159 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,787 likes - 159 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 158 | [tennis practice](https://open.spotify.com/track/7BlOrylka32xGgGTpqAOdW) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [exposure therapy](https://open.spotify.com/album/18TFbtYFWjkpYwj4mmU0N3) | 2:41 |
 | 159 | [Upstate](https://open.spotify.com/track/6Swl911DmwTVxG8FtcVa25) | [Beatrix](https://open.spotify.com/artist/70GG0H4aMaTD5kBzqUfSlh) | [We Swallowed The Sky](https://open.spotify.com/album/2FTn24fXfckKGHhyt8R1ij) | 3:51 |
 
-Snapshot ID: `AAAAAJAyHy9PQLxbo2D2x7c1jeISDFJ1`
+Snapshot ID: `AAAAAGCVpmWkolRr98nsftIh/QE6x3sr`

@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11431,
+  "num_followers": 11432,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 224909,
-      "name": "Of Er Nog Iets Terugkaatst",
-      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Honderdduizend graden",
         "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Leve de Feeks",
+        "url": "https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 207292,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Niemand Gaat Het Voor Je Doen",
         "url": "https://open.spotify.com/album/3a7bA26ltWMlYpJuD2R8oF"
       },
@@ -227,18 +227,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Leve de Feeks",
-        "url": "https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh"
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
         }
       ],
-      "duration_ms": 207292,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA"
+      "duration_ms": 224909,
+      "name": "Of Er Nog Iets Terugkaatst",
+      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Als Het Donker Wordt",
-        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
-      },
-      "artists": [
-        {
-          "name": "Pip Lieke Lucas",
-          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Als Het Donker Wordt",
-      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Jongen van de Zon",
         "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 209280,
       "name": "Jongen van de Zon",
       "url": "https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Als Het Donker Wordt",
+        "url": "https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY"
+      },
+      "artists": [
+        {
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Als Het Donker Wordt",
+      "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Boterham",
+        "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 127562,
+      "name": "Boterham",
+      "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Opscheer",
         "url": "https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 145536,
       "name": "GEEN BEEST",
       "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Boterham",
-        "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 127562,
-      "name": "Boterham",
-      "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -647,26 +647,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "IJSLAND 2",
-        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
+        "name": "Rode Seks Feeks",
+        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
       },
       "artists": [
         {
-          "name": "Abel",
-          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        },
-        {
-          "name": "IJSLAND",
-          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 199371,
-      "name": "TIJDSGEEST",
-      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
+      "duration_ms": 167381,
+      "name": "Rode Seks Feeks",
+      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -703,18 +695,26 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Rode Seks Feeks",
-        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
+        "name": "IJSLAND 2",
+        "url": "https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        },
+        {
+          "name": "IJSLAND",
+          "url": "https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW"
         }
       ],
-      "duration_ms": 167381,
-      "name": "Rode Seks Feeks",
-      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
+      "duration_ms": 199371,
+      "name": "TIJDSGEEST",
+      "url": "https://open.spotify.com/track/3uKQQH67pV4dsJIR6SML8z"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -875,22 +875,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Zie mij graag",
-        "url": "https://open.spotify.com/album/3LE9BSOO5lfrLq8bw5eZEG"
+        "name": "Gefeliciteerd",
+        "url": "https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG"
       },
       "artists": [
         {
-          "name": "Bovenste Knoopje Open",
-          "url": "https://open.spotify.com/artist/74ZDRWqO6aHeLRjAaugQej"
-        },
-        {
-          "name": "Vic Willems",
-          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+          "name": "LOT",
+          "url": "https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K"
         }
       ],
-      "duration_ms": 272680,
-      "name": "Zie mij graag",
-      "url": "https://open.spotify.com/track/1pc1xnIszMNn3fg3HJHZA9"
+      "duration_ms": 164117,
+      "name": "Gefeliciteerd",
+      "url": "https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4"
     }
   ],
   "unique_name": "indie.nl",

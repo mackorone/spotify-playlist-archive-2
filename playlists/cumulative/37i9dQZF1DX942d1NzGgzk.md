@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B rising in the UK\. Cover: Saint Harison
+> The latest of R&B rising in the UK\. Cover: AMARIA BB
 
-635 songs - 1 day 8 hr 50 min
+636 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Class A](https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Symptoms of Me](https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs) | 2:29 | 2025-09-18 | 2026-04-17 |
 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 | 2024-11-22 | 2025-06-27 |
 | [Closer](https://open.spotify.com/track/0gZkwRjMYBtyWzo6Kx7Efn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:34 | 2022-07-17 | 2023-04-29 |
+| [Closure \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/1pEgkIlcPmDBuH4YQ5gMqS) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Comes to Light](https://open.spotify.com/album/081jLkJYWGp76MJTPu650Z) | 2:58 | 2026-06-26 |  |
 | [Clothes Off](https://open.spotify.com/track/3AbbBPOMTPWAJm0BYAJUY1) | [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Clothes Off](https://open.spotify.com/album/321J19JZwknNDSjaXmZn8G) | 2:36 | 2025-08-07 | 2025-09-19 |
 | [cocoa body](https://open.spotify.com/track/2DSsF45LB3rzvJehF5qpcF) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [cocoa body](https://open.spotify.com/album/1aAKL6fzyKBpTF2lCX7HeH) | 2:59 | 2025-07-24 | 2026-02-27 |
 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 | 2026-02-06 |  |
@@ -167,7 +168,7 @@
 | [Eighteen](https://open.spotify.com/track/6SCSFTRB2ueJIhYQ2VJK68) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Eighteen](https://open.spotify.com/album/29DLEk1PoZBbEDBgjPAj6Y) | 2:35 | 2022-07-17 | 2023-05-09 |
 | [EMILIA](https://open.spotify.com/track/68B5H1EYzsjhBJtGd62VyY) | [Isaiah St Jean](https://open.spotify.com/artist/14rchXSv5I3gxgE6qNuMN2) | [BRITISH BOGOTÁ BOY](https://open.spotify.com/album/5Ne9zTgzSScFDIBXrtyLPH) | 3:03 | 2025-09-18 | 2026-02-13 |
 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 | 2023-02-24 | 2024-09-13 |
-| [Enough](https://open.spotify.com/track/4JKa7E11MKyZrFQBzFaTij) | [Marika](https://open.spotify.com/artist/4FmPYAalf626cq25ZfwbG4) | [Enough](https://open.spotify.com/album/1aTjBoDqG06Ra9eLYDVIrA) | 3:47 | 2026-02-06 |  |
+| [Enough](https://open.spotify.com/track/4JKa7E11MKyZrFQBzFaTij) | [Marika](https://open.spotify.com/artist/4FmPYAalf626cq25ZfwbG4) | [Enough](https://open.spotify.com/album/1aTjBoDqG06Ra9eLYDVIrA) | 3:47 | 2026-02-06 | 2026-06-27 |
 | [Escape Plan](https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Escape Plan](https://open.spotify.com/album/62DboXMp5tBqZGDVxdaiVy) | 3:35 | 2024-02-02 | 2024-11-12 |
 | [Evil Eye](https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil) | 2:55 | 2022-07-17 | 2023-10-20 |
 | [Evil Eye](https://open.spotify.com/track/4HB9GHrm8VvizUlbV6VnWg) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye](https://open.spotify.com/album/4CJPUoc2krf3TXaA9Z8R5f) | 2:55 | 2022-07-17 | 2022-12-25 |

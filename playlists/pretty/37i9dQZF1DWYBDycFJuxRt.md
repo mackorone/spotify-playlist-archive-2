@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SUPER BEAVER \*👉 <a href="https://spice.eplus.jp/articles/347083">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,457 likes - 101 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,473 likes - 101 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 17 | [How Far I'll Go \- From "Moana"/Japanese Soundtrack Version](https://open.spotify.com/track/3xncn9sZJWHskFtx2MG012) | [TSUZUMI \(ME:I\)](https://open.spotify.com/artist/7zJbY9oWwc3NIivxbVWnlz) | [How Far I'll Go \(From "Moana"/Japanese Soundtrack Version\)](https://open.spotify.com/album/4Q5v8vesyCCXx3PKIstyvW) | 2:51 |
 | 18 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 |
 | 19 | [Nanya Music City](https://open.spotify.com/track/4FjlznApU3MM4Gdm5ZF3mz) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [HITOTARASHI](https://open.spotify.com/album/5hTZCWFC1JXG0SzJhnCxQB) | 4:03 |
-| 20 | [パッパパラダイス](https://open.spotify.com/track/3347KswTTnQyqjUL9dXi5J) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Hiroto Komoto](https://open.spotify.com/artist/0J95iEs3VOS9NqY1n6i2qh) | [パッパパラダイス](https://open.spotify.com/album/5aTu7RbHY1iOoYpoLGNo0I) | 3:50 |
+| 20 | [パッパパラダイス](https://open.spotify.com/track/3347KswTTnQyqjUL9dXi5J) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Hiroto Kohmoto](https://open.spotify.com/artist/0J95iEs3VOS9NqY1n6i2qh) | [パッパパラダイス](https://open.spotify.com/album/5aTu7RbHY1iOoYpoLGNo0I) | 3:50 |
 | 21 | [Crave](https://open.spotify.com/track/7B6wJDoXiAAPC8yQ7lO7wA) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [Crave](https://open.spotify.com/album/2NA3kEQF8NmviQms2c2fGu) | 3:53 |
 | 22 | [風鈴草](https://open.spotify.com/track/2itczKXOJqs0PXk4uvOSoV) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [風鈴草](https://open.spotify.com/album/39r52MJEVMxD8wiS2uvbqd) | 4:02 |
 | 23 | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [SNEAKPEAK feat\. Shing02](https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC) | 3:39 |

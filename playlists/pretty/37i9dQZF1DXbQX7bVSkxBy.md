@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,491 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,510 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 2 | [He Is Here](https://open.spotify.com/track/71WaxrZwN86EY4oZr2Z8pm) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Ibukun](https://open.spotify.com/artist/1JcySGJuBH1NiNXOCRnY51) | [He Is Here](https://open.spotify.com/album/6pzbXY00MdrbtrOywFw7SQ) | 9:00 |
 | 3 | [Reckless Love](https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg) | 5:33 |
 | 4 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |
-| 5 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/4zAIwqmbzqg6T8F0jfbcq6) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
+| 5 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
 | 6 | [Jesus Has Won](https://open.spotify.com/track/2Zs2RddCnSBPQJXZyVXCSB) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Jesus Has Won](https://open.spotify.com/album/2C9WtoYZCIoZgOeDrTP0XG) | 3:26 |
 | 7 | [Faithful](https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Faithful](https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB) | 9:46 |
 | 8 | [I Thank God \(feat\. Dante Bowe, Maryanne Joshua George & Aaron Moses\)](https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 7:45 |

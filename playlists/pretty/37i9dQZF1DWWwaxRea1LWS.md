@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT takes a short trip back to the early 2020s, celebrating 5 years of Planet Her\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,275,108 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,274,930 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

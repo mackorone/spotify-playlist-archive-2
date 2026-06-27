@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Eladio Carrion",
+  "description": "The best of Latin Trap. Cover: Pirlo",
   "name": "Trap Land",
   "tracks": [
     {
@@ -486,6 +486,32 @@
       "duration_ms": 187694,
       "name": "60 Barras",
       "url": "https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P"
+    },
+    {
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "666",
+      "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
     },
     {
       "album": {
@@ -1094,7 +1120,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 247930,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2VdDYSWijGCmLFzvjYYMZJ"
@@ -2670,7 +2696,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 151292,
       "name": "CHANDAL GRIS",
       "url": "https://open.spotify.com/track/6zitYJnOnNI0tNgbLPN3qi"
@@ -3600,7 +3626,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 157959,
       "name": "Despedida",
       "url": "https://open.spotify.com/track/7stq8hGlGt6FjSnx8kSOWO"
@@ -5290,7 +5316,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186000,
       "name": "Gal\u00e1ctico",
       "url": "https://open.spotify.com/track/0HCDbojE5tb9fxMGoKPhoW"
@@ -6014,7 +6040,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 158746,
       "name": "Hechos",
       "url": "https://open.spotify.com/track/2esT30J5nPkd74jozzjXK0"
@@ -7355,6 +7381,32 @@
     },
     {
       "album": {
+        "name": "Las Mu\u00f1equitas (Remix)",
+        "url": "https://open.spotify.com/album/4nbP74VOG2T2FrBtckNIk4"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Las Mu\u00f1equitas - Remix",
+      "url": "https://open.spotify.com/track/4JZq1NlpsXqpqYra43QNEG"
+    },
+    {
+      "album": {
         "name": "Las Piponas (Remix)",
         "url": "https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb"
       },
@@ -8116,6 +8168,32 @@
       "duration_ms": 135019,
       "name": "Manhattan II",
       "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
+    },
+    {
+      "album": {
+        "name": "La Casa Del Trap",
+        "url": "https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260970,
+      "name": "Mas Mujeres",
+      "url": "https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV"
     },
     {
       "album": {
@@ -9381,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Nunca Voy a Morir",
+      "url": "https://open.spotify.com/track/4C9ZJp0ykJ0ZvNUaMwdLZZ"
+    },
+    {
+      "album": {
         "name": "NunK es Tarde",
         "url": "https://open.spotify.com/album/2pdbc6KYkMIBsFF3sSBA1Q"
       },
@@ -10092,7 +10188,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 252156,
       "name": "Plata Llama Plata",
       "url": "https://open.spotify.com/track/1CDDKIHrnQJ1QHDBvwOz7B"
@@ -12121,6 +12217,28 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "TOPSHELF",
+      "url": "https://open.spotify.com/track/6RCX0Bbldbl9kR5cHbaQdj"
+    },
+    {
+      "album": {
         "name": "TOPURIA",
         "url": "https://open.spotify.com/album/4GLKElwZnRbDi498zgv8w3"
       },
@@ -13584,6 +13702,24 @@
       "duration_ms": 240043,
       "name": "Zodiaco",
       "url": "https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq"
+    },
+    {
+      "album": {
+        "name": "EL DIAMOND FOREVER",
+        "url": "https://open.spotify.com/album/3XKJ8cCTqAPODrDQRCBo1J"
+      },
+      "artists": [
+        {
+          "name": "Fronti",
+          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142503,
+      "name": "\u00c1NDELE",
+      "url": "https://open.spotify.com/track/04fcR37SXdxg7v8iY68Aai"
     },
     {
       "album": {

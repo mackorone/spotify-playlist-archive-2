@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "A\u015fk Perisi",
+        "url": "https://open.spotify.com/album/7sBb37vssoTiQNbAl0UlDO"
+      },
+      "artists": [
+        {
+          "name": "Demet Sa\u011f\u0131ro\u011flu",
+          "url": "https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY"
+        },
+        {
+          "name": "Melis Fis",
+          "url": "https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164838,
+      "name": "A\u015fk Perisi",
+      "url": "https://open.spotify.com/track/3f9OfKpnkCFQNRZYSTHaP7"
+    },
+    {
+      "album": {
         "name": "A\u015fka Doyamad\u0131\u011f\u0131m",
         "url": "https://open.spotify.com/album/6NRXcIDhigFtargqoVGe9f"
       },
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 204200,
       "name": "Bundan Gayr\u0131",
       "url": "https://open.spotify.com/track/6UVUuNq21sRH4iAxB0xJf9"
@@ -7144,7 +7166,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 137671,
       "name": "MA\u015eALLAH",
       "url": "https://open.spotify.com/track/2qzQNdEUKc9ntvASZgsAo3"
@@ -8060,6 +8082,24 @@
       "duration_ms": 157384,
       "name": "Pasl\u0131 Sand\u0131k",
       "url": "https://open.spotify.com/track/6JENFxIrwe7JLKFYEYJeXh"
+    },
+    {
+      "album": {
+        "name": "Peki biz n'olucaz?",
+        "url": "https://open.spotify.com/album/0SLwlRavwmIJTkDShPEzr1"
+      },
+      "artists": [
+        {
+          "name": "Ayla \u00c7elik",
+          "url": "https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186067,
+      "name": "Peki biz n'olucaz?",
+      "url": "https://open.spotify.com/track/14jDG7f4KKOSsCnUEg5DMq"
     },
     {
       "album": {

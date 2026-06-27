@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Bruno Mars",
-  "num_followers": 4377479,
+  "num_followers": 4377208,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Pump It Louder",
-        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Pump It Louder",
-      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Money Made Me A Savage (Calabria)",
         "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 123854,
       "name": "Money Made Me A Savage - Calabria",
       "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "Pump It Louder",
+        "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Pump It Louder",
+      "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -789,6 +789,26 @@
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
     },
     {
+      "added_at": "2026-06-13 04:01:33",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/7lbnCc3sLLeQXso4Jn3kvc"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 181709,
+      "name": "Dai Dai - Clean Bandit Remix",
+      "url": "https://open.spotify.com/track/6fA1rWHTpUfprPJzsBKZZr"
+    },
+    {
       "added_at": "2026-05-09 02:01:26",
       "album": {
         "name": "Peru (Peace Control Remix)",
@@ -827,26 +847,6 @@
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
-    },
-    {
-      "added_at": "2026-06-13 04:01:33",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/7lbnCc3sLLeQXso4Jn3kvc"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 181709,
-      "name": "Dai Dai - Clean Bandit Remix",
-      "url": "https://open.spotify.com/track/6fA1rWHTpUfprPJzsBKZZr"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Bittersweet Goodbye (Ti\u00ebsto\u2019s Hardcore Remix)",
         "url": "https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 158723,
       "name": "Bittersweet Goodbye - Ti\u00ebsto\u2019s Hardcore Remix",
       "url": "https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1121,26 +1121,6 @@
       "url": "https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu"
     },
     {
-      "added_at": "2026-05-15 04:00:02",
-      "album": {
-        "name": "Fabulous (Felix Jaehn Remix)",
-        "url": "https://open.spotify.com/album/1MvjwsMhesKPDq503pQWxR"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        },
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Fabulous - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/6Lr9mVWFH5LwcdLej5OVjW"
-    },
-    {
       "added_at": "2026-05-09 02:01:26",
       "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
@@ -1179,6 +1159,26 @@
       "duration_ms": 201711,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
       "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+    },
+    {
+      "added_at": "2026-05-15 04:00:02",
+      "album": {
+        "name": "Fabulous (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/1MvjwsMhesKPDq503pQWxR"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        },
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 153151,
+      "name": "Fabulous - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/6Lr9mVWFH5LwcdLej5OVjW"
     },
     {
       "added_at": "2026-05-09 02:01:26",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "like JENNIE",
-        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "like JENNIE - Peggy Gou Remix",
-      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
-    },
-    {
-      "added_at": "2026-05-09 02:01:26",
-      "album": {
         "name": "Not At This Party (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
       },
@@ -1283,22 +1263,22 @@
     {
       "added_at": "2026-05-09 02:01:26",
       "album": {
-        "name": "Sports car (remixes)",
-        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
+        "name": "like JENNIE",
+        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         },
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Sports car - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
+      "duration_ms": 208375,
+      "name": "like JENNIE - Peggy Gou Remix",
+      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
       "added_at": "2026-06-13 04:01:33",
@@ -1319,6 +1299,26 @@
       "duration_ms": 334078,
       "name": "Sick Of Love (Mura Masa Remix)",
       "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
+    },
+    {
+      "added_at": "2026-05-09 02:01:26",
+      "album": {
+        "name": "Sports car (remixes)",
+        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Sports car - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
     },
     {
       "added_at": "2026-05-09 02:01:26",

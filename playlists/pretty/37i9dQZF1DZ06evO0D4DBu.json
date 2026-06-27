@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211139,
+  "num_followers": 211136,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAxm8u2whW5q67UI7nMY7nx",
+  "snapshot_id": "ajxvgAAAAACr1wQXGhFU6deddehKzWC7",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+        "name": "Mr. Wonderful",
+        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+      "duration_ms": 280160,
+      "name": "Baby Blue (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
     },
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Wonderful",
-        "url": "https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 280160,
-      "name": "Baby Blue (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/7gDwRzJhLs0fFHaGtMDJVM"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -624,17 +624,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Lili K",
-          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 239250,
-      "name": "Good Ass Intro",
-      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
+      "duration_ms": 184562,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
     },
     {
       "added_at": null,
@@ -724,13 +720,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Lili K",
+          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
         }
       ],
-      "duration_ms": 184562,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
+      "duration_ms": 239250,
+      "name": "Good Ass Intro",
+      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
     },
     {
       "added_at": null,

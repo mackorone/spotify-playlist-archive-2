@@ -4,7 +4,7 @@
 
 > 
 
-1,506 songs - 3 day 9 hr 2 min
+1,508 songs - 3 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 | 2025-04-07 | 2026-02-08 |
 | [Child \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Long Live Mexico](https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i) | 2:36 | 2023-12-27 | 2024-03-05 |
 | [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 | 2026-03-06 |  |
+| [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 | 2026-06-26 |  |
 | [Choose U](https://open.spotify.com/track/0kCZ2X6kIXZ5zRMrPx8Usx) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC) | 2:58 | 2025-12-26 | 2026-03-08 |
 | [Church](https://open.spotify.com/track/3bHLtoy9F6W2EhVzRqRy9N) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:22 | 2025-07-02 | 2026-03-08 |
 | [CIA](https://open.spotify.com/track/2BW0B7PbTW0tXGYFCRnOJU) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:56 | 2026-05-04 |  |
@@ -471,6 +472,7 @@
 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 | 2022-10-14 | 2023-05-09 |
 | [Frontin](https://open.spotify.com/track/6lSrytpCsHjltHLcHfsthi) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Jump Out](https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM) | 2:16 | 2025-06-21 | 2026-03-08 |
 | [FroZone](https://open.spotify.com/track/0LA62GKyphyLZVGkvrWi6g) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5TH AMNDMNT](https://open.spotify.com/album/5IJAhCl93xn2Ybqk8OGm6n) | 2:46 | 2023-11-01 | 2025-05-21 |
+| [Fuck All Nite](https://open.spotify.com/track/3BhB7Ps9xk8vPgzs1Kldce) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:19 | 2026-06-27 |  |
 | [Fuck Everybody Else](https://open.spotify.com/track/4UqvWxvygh6aTOXfXvvQd8) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:07 | 2024-03-26 | 2024-04-24 |
 | [Fuck Good Business](https://open.spotify.com/track/1VD6wUwdgSGlvRap1ygUA5) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Fuck Good Business](https://open.spotify.com/album/6lCLumKtwy6FzgUMrPkwe4) | 2:23 | 2023-01-11 | 2023-04-12 |
 | [Fukit](https://open.spotify.com/track/2QJLqxLXlzMiApFS6eBY4G) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Trëndi](https://open.spotify.com/album/7EO5zGsZP0HHxEhSLGw2aj) | 2:28 | 2023-01-06 | 2023-12-14 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
-  "num_followers": 1302693,
+  "num_followers": 1302698,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/6JXhLhkOf72sFFIMu9PZda"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225170,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Le Va A Doler",
         "url": "https://open.spotify.com/album/3FEbPL9ApdttYUsPOq083K"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 160258,
       "name": "Le Va A Doler",
       "url": "https://open.spotify.com/track/5NAtdcJlfRoBrSTkFutxCd"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/6JXhLhkOf72sFFIMu9PZda"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225170,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/1x31ooeK1AY0JbI5rhArlj"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/6J5nDuL7cgp9igdUn9cR7L"
       },
@@ -547,6 +527,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "Piratita",
         "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
       },
@@ -563,18 +559,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
+      "duration_ms": 183311,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "Se Busca Plebita",
+        "url": "https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 153085,
+      "name": "Se Busca Plebita",
+      "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 200346,
       "name": "Por Salud Mental",
       "url": "https://open.spotify.com/track/3scDoFYqOF2LxyN066Dp5s"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "Se Busca Plebita",
-        "url": "https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 153085,
-      "name": "Se Busca Plebita",
-      "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "Parece Chiste",
+        "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 175337,
+      "name": "Parece Chiste",
+      "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "Un D\u00eda Como Hoy",
         "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 209000,
       "name": "Sonri\u00e9ndole A La Vida - En Vivo",
       "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "Parece Chiste",
-        "url": "https://open.spotify.com/album/438NTdxSGoEV48r3UFxw0E"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 175337,
-      "name": "Parece Chiste",
-      "url": "https://open.spotify.com/track/4CiFqbhxUiZqy9t936ESVG"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "ME DERRITO (Banda)",
-        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "ME DERRITO - Banda",
-      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "ME DERRITO (Banda)",
+        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "ME DERRITO - Banda",
+      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Se Sabe",
-        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
-      },
-      "artists": [
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Se Sabe",
-      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 827509,
       "name": "El Sinaloense, La cuichi, Tamarindo, Camaron Pelado - En Vivo",
       "url": "https://open.spotify.com/track/4ETP4mqFWC9BYdphJXGJsc"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Se Sabe",
+        "url": "https://open.spotify.com/album/3Zp4rYGAh6L8GY2AHpbGKK"
+      },
+      "artists": [
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Se Sabe",
+      "url": "https://open.spotify.com/track/2tunYzmPxLOih6OeUrFgKh"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Alergico Al Amor",
-        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 190767,
-      "name": "Alergico Al Amor",
-      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 204396,
       "name": "El secuestro del cachorro - En Vivo",
       "url": "https://open.spotify.com/track/5vRXMsQS8lVlscTZarrMP3"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Alergico Al Amor",
+        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Alergico Al Amor",
+      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Reproches Al Viento",
-        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
-      },
-      "artists": [
-        {
-          "name": "Los Ex de la Banda",
-          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
-        }
-      ],
-      "duration_ms": 213777,
-      "name": "Reproches Al Viento",
-      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 146524,
       "name": "Por Aqu\u00ed Pas\u00f3 Mar\u00eda",
       "url": "https://open.spotify.com/track/5pYeQU77YuKzscy8YJvFx7"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Reproches Al Viento",
+        "url": "https://open.spotify.com/album/1ZJaz7EeISE7WMfdHPUqTj"
+      },
+      "artists": [
+        {
+          "name": "Los Ex de la Banda",
+          "url": "https://open.spotify.com/artist/6CHQA1uMG9PkxUOK9jj5ND"
+        }
+      ],
+      "duration_ms": 213777,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4yo2Hyue6bhdVarIIwTeno"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "Si Te Vuelves a Enamorar",
+        "url": "https://open.spotify.com/album/1Fz1KX39tfYhKAp4oT8S7B"
+      },
+      "artists": [
+        {
+          "name": "Decibel Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Si Te Vuelves a Enamorar",
+      "url": "https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 146221,
       "name": "Fuiste Mi Todo",
       "url": "https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "Si Te Vuelves a Enamorar",
-        "url": "https://open.spotify.com/album/1Fz1KX39tfYhKAp4oT8S7B"
-      },
-      "artists": [
-        {
-          "name": "Decibel Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Si Te Vuelves a Enamorar",
-      "url": "https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv"
     },
     {
       "added_at": "2026-06-19 06:00:40",

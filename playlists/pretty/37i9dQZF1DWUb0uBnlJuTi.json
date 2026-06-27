@@ -1,18 +1,18 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 417976,
+  "num_followers": 418034,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF",
+  "snapshot_id": "AAAAAJkZhiDLIMEEgrYw5aU4wQ6pG/pk",
   "tracks": [
     {
-      "added_at": "2026-05-01 04:01:07",
+      "added_at": "2026-06-26 04:00:12",
       "album": {
-        "name": "Chain Reaction",
-        "url": "https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE"
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/2J7s7Zo6TNPeKSYnAVz2KF"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 487845,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ"
+      "duration_ms": 399992,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/4j95thWu0vNFOB1qWKkxV9"
     },
     {
       "added_at": "2026-03-27 04:00:06",
@@ -39,26 +39,6 @@
       "duration_ms": 191753,
       "name": "Respond to Sound",
       "url": "https://open.spotify.com/track/06RocQbgd52XlaWaX3haRK"
-    },
-    {
-      "added_at": "2026-03-27 04:00:06",
-      "album": {
-        "name": "Trio Asesino",
-        "url": "https://open.spotify.com/album/3LuLM488LxdVh6nVAcRcxz"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "MF AF",
-      "url": "https://open.spotify.com/track/0lbv0rx3b5SOFlEYkqpHRa"
     },
     {
       "added_at": "2026-03-20 04:00:29",
@@ -117,6 +97,42 @@
       "url": "https://open.spotify.com/track/6hs6fldhuYp37VBNUzHXS5"
     },
     {
+      "added_at": "2026-05-01 04:01:07",
+      "album": {
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 487845,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:06",
+      "album": {
+        "name": "Trio Asesino",
+        "url": "https://open.spotify.com/album/3LuLM488LxdVh6nVAcRcxz"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "MF AF",
+      "url": "https://open.spotify.com/track/0lbv0rx3b5SOFlEYkqpHRa"
+    },
+    {
       "added_at": "2026-01-09 05:00:22",
       "album": {
         "name": "Saturday Spin",
@@ -167,26 +183,6 @@
       "duration_ms": 249070,
       "name": "Rules Of The Game",
       "url": "https://open.spotify.com/track/2NCKMGcBAK8C7QSA6C4sAQ"
-    },
-    {
-      "added_at": "2025-11-07 05:00:35",
-      "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/3WFNwofVFXTDmNmNtB951Y"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        },
-        {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Red Lights",
-      "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"
     },
     {
       "added_at": "2025-10-24 04:00:02",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159033,
+  "num_followers": 159029,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Drive Safe",
-        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Drive Safe",
-      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -423,18 +419,22 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 239333,
-      "name": "Madwoman",
-      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "MS. SEROTONIN",
-        "url": "https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "MS. SEROTONIN",
-      "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Heim te st\u00e5vo",
         "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 196758,
       "name": "Heim te st\u00e5vo",
       "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "MS. SEROTONIN",
+        "url": "https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "MS. SEROTONIN",
+      "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
+        "name": "jeg holder pusten til du drar",
+        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "jeg holder pusten til du drar",
+      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
-        "name": "jeg holder pusten til du drar",
-        "url": "https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "jeg holder pusten til du drar",
-      "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Milk and Honey",
-        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 210807,
-      "name": "Milk and Honey",
-      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "THEO",
         "url": "https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 147018,
       "name": "THEO",
       "url": "https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Milk and Honey",
+        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "Milk and Honey",
+      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "OVERTIME/OVERKILL VOL. 2",
-        "url": "https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 249905,
-      "name": "Oslo / Karachi / Paris",
-      "url": "https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Love & Hyperbole (Deluxe)",
         "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Never Be Friends",
-        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
+        "name": "OVERTIME/OVERKILL VOL. 2",
+        "url": "https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7"
       },
       "artists": [
         {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
         }
       ],
-      "duration_ms": 179189,
-      "name": "Never Be Friends",
-      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
+      "duration_ms": 249905,
+      "name": "Oslo / Karachi / Paris",
+      "url": "https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1247,6 +1231,22 @@
       "duration_ms": 145893,
       "name": "Her vil e v\u00e6r",
       "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Never Be Friends",
+        "url": "https://open.spotify.com/album/25xUgydy4RfI3TQ3q9P8xD"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 179189,
+      "name": "Never Be Friends",
+      "url": "https://open.spotify.com/track/3gu4FgP94Z453ng3eM0IOk"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Kanskje det g\u00e5r te helvete",
-        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "Gjesten p\u00e5 festen",
-      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Lykkelig uten meg",
         "url": "https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6"
       },
@@ -1427,18 +1411,38 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
+        "name": "Skyfri himmel",
+        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
       },
       "artists": [
         {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
         }
       ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
+      "duration_ms": 225570,
+      "name": "Skyfri himmel",
+      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Kanskje det g\u00e5r te helvete",
+        "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "Gjesten p\u00e5 festen",
+      "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

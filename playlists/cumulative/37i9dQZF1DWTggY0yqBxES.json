@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "5AM in ATL",
+        "url": "https://open.spotify.com/album/6HH4Wdq0GpG1Ny7ER2JFDu"
+      },
+      "artists": [
+        {
+          "name": "MAKAVELIGODD",
+          "url": "https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123999,
+      "name": "5AM in ATL",
+      "url": "https://open.spotify.com/track/6XiIdwiGhljjOXNLC6udPl"
+    },
+    {
+      "album": {
         "name": "7th Grade",
         "url": "https://open.spotify.com/album/0zWDfSw6Zc1N238MhXOvAN"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 123349,
       "name": "Acoustics",
       "url": "https://open.spotify.com/track/33uttj110Pgdnqkylw6dpR"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 197932,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/0kWAW8wkGQwepTKyYjJTu5"
@@ -3530,6 +3548,32 @@
       "duration_ms": 190153,
       "name": "better",
       "url": "https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH"
+    },
+    {
+      "album": {
+        "name": "Beyond The Brilliant Haze",
+        "url": "https://open.spotify.com/album/1eSBJYm05UodNrXkzOgzSg"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191799,
+      "name": "Beyond The Brilliant Haze",
+      "url": "https://open.spotify.com/track/4DjTD6mX5Cu2ZFduKT64X5"
     },
     {
       "album": {
@@ -5512,7 +5556,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223951,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W"
@@ -7067,6 +7111,24 @@
     },
     {
       "album": {
+        "name": "Daddy Died",
+        "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
+      },
+      "artists": [
+        {
+          "name": "earthsignchels",
+          "url": "https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252656,
+      "name": "Daddy Died",
+      "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
+    },
+    {
+      "album": {
         "name": "DAMN",
         "url": "https://open.spotify.com/album/1laNezKmfgzVmLo3jvdR44"
       },
@@ -7572,7 +7634,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 130731,
       "name": "Demon On A Ceiling",
       "url": "https://open.spotify.com/track/0OZH9YY1wcfEnmkI54DdPw"
@@ -10182,7 +10244,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 135360,
       "name": "FLOW STATE",
       "url": "https://open.spotify.com/track/4ov53PbySjI7Si0c4S3zCE"
@@ -16313,6 +16375,28 @@
     },
     {
       "album": {
+        "name": "Linkupp (feat. Pink Siifu)",
+        "url": "https://open.spotify.com/album/3LGJzud6dCLHaArngxA2FD"
+      },
+      "artists": [
+        {
+          "name": "Bobbyy",
+          "url": "https://open.spotify.com/artist/3Vk2Sjk6l8GVlK5jEBbH2z"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "Linkupp (feat. Pink Siifu)",
+      "url": "https://open.spotify.com/track/6lUKj4GVjyH4tx7KagSLcz"
+    },
+    {
+      "album": {
         "name": "Liq & X",
         "url": "https://open.spotify.com/album/5chN7M8HXoooEDFQ0ElOAb"
       },
@@ -19826,6 +19910,24 @@
       "duration_ms": 108187,
       "name": "NYDFRYSTL",
       "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
+    },
+    {
+      "album": {
+        "name": "O.Y.N",
+        "url": "https://open.spotify.com/album/2eFIQSVl3w0S64ufrkoS5y"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197387,
+      "name": "O.Y.N",
+      "url": "https://open.spotify.com/track/1Z3ZkSkFJ5y6a3mvE0le0b"
     },
     {
       "album": {
@@ -23852,7 +23954,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 120732,
       "name": "RUNNING MAN",
       "url": "https://open.spotify.com/track/6vGVWSZ8pgRshGzXev51ef"
@@ -26085,6 +26187,24 @@
     },
     {
       "album": {
+        "name": "Stop It",
+        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Stop It",
+      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
+    },
+    {
+      "album": {
         "name": "Mnt. Snug",
         "url": "https://open.spotify.com/album/1CxZ3qofoLQQ6OqohMZqSa"
       },
@@ -27794,6 +27914,24 @@
       "duration_ms": 101040,
       "name": "This Bitch Matters",
       "url": "https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP"
+    },
+    {
+      "album": {
+        "name": "O.Y.N",
+        "url": "https://open.spotify.com/album/2eFIQSVl3w0S64ufrkoS5y"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "This Shit Going On",
+      "url": "https://open.spotify.com/track/7n6CFV2WGbbwziswLDtBNU"
     },
     {
       "album": {
@@ -30354,7 +30492,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 196341,
       "name": "whoa (mind in awe) - Remix",
       "url": "https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh"

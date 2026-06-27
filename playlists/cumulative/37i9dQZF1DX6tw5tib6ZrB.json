@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from YG, Nyota Parker, Key Glock and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Future, Tyler The Creator, GloRilla and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 140050,
       "name": "Baby I",
       "url": "https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159038,
       "name": "CHANGE",
       "url": "https://open.spotify.com/track/2ilviyc5XdaEjBtwj3iHvG"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184320,
       "name": "Different Species (feat. Gunna)",
       "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
@@ -4595,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "HAAVIN",
+        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "HAAVIN",
+      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
+    },
+    {
+      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
       },
@@ -5843,6 +5861,24 @@
     },
     {
       "album": {
+        "name": "KILLIN EM",
+        "url": "https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113437,
+      "name": "KILLIN EM",
+      "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -6052,7 +6088,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 181600,
       "name": "Let King Tonka Talk",
       "url": "https://open.spotify.com/track/0r1YhuTLqxybeKSQjIP0Gs"
@@ -6593,6 +6629,28 @@
     },
     {
       "album": {
+        "name": "MANE",
+        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "MANE",
+      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
+    },
+    {
+      "album": {
         "name": "MARCH",
         "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
       },
@@ -7052,7 +7110,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 237421,
       "name": "MUTT THAT BIH [Feat. 1900Rugrat & Key Nyata]",
       "url": "https://open.spotify.com/track/3iFNq8TcrmWdElJ7IkqHRF"
@@ -7082,7 +7140,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 188652,
       "name": "MVP",
       "url": "https://open.spotify.com/track/1L7324QK3osE201YXxrrrl"
@@ -7770,6 +7828,32 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158193,
+      "name": "OK (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
     },
     {
       "album": {
@@ -8764,7 +8848,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 108334,
       "name": "PUNCH DRUNK",
       "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"
@@ -8940,6 +9024,24 @@
       "duration_ms": 173806,
       "name": "Rackies (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/0UcuymskcvzMYexnJiVBmd"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159933,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj"
     },
     {
       "album": {
@@ -9158,6 +9260,32 @@
       "duration_ms": 158150,
       "name": "Rick Jameski",
       "url": "https://open.spotify.com/track/0C6g9ixjZ8g3dIdd3jp0wb"
+    },
+    {
+      "album": {
+        "name": "BIANCA (Deluxe)",
+        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149572,
+      "name": "ROLLIN",
+      "url": "https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN"
     },
     {
       "album": {
@@ -10838,6 +10966,24 @@
       "duration_ms": 200245,
       "name": "Thank Me (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6cMDoVNZ9qCiDQGUdV3Mbh"
+    },
+    {
+      "album": {
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
     },
     {
       "album": {

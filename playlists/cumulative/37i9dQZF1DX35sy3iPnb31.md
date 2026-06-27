@@ -4,7 +4,7 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-302 songs - 16 hr 19 min
+303 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [G.Y.A.M.L \(My Love\)](https://open.spotify.com/album/0xeEoXE1WXKkuYFh3bEZPc) | 3:27 | 2026-06-01 |  |
 | [Gameshow](https://open.spotify.com/track/1RXNsfzeF1pdEV7ZsJfECe) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Gameshow](https://open.spotify.com/album/0WrNdcswqSMLDm0RkToEDU) | 3:31 | 2026-04-01 | 2026-05-02 |
 | [GEAR](https://open.spotify.com/track/34V32D276vNbF2WUtDWluJ) | [Bluefold](https://open.spotify.com/artist/7Ev5EGcO8uOOyJ7OrOuDy7) | [GEAR](https://open.spotify.com/album/1V9dhGe30LAZxCDgSEtOMW) | 1:52 | 2026-05-01 | 2026-06-02 |
-| [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 | 2026-06-01 |  |
+| [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 | 2026-06-01 | 2026-06-27 |
 | [Give 'Er Hell](https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Give 'Er Hell](https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj) | 3:21 | 2026-05-01 | 2026-06-02 |
 | [Going Home](https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Going Home](https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ) | 4:02 | 2025-12-03 | 2026-02-07 |
 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 | 2026-02-06 | 2026-03-06 |
@@ -282,6 +282,7 @@
 | [To Myself](https://open.spotify.com/track/74NpjceFhcxsKDVptmskzj) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [MINDFIELDS](https://open.spotify.com/album/6INVkw6zEJjhLSNDjlcp2X) | 3:40 | 2026-04-01 | 2026-05-02 |
 | [TOI](https://open.spotify.com/track/5GzKPDiPtnurHMdz8ecUu9) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [DJ Manifest](https://open.spotify.com/artist/054xXaZopv6j8jKPiQhVtT) | [LE CASH VAUT RIEN](https://open.spotify.com/album/5BQmijxAPJbVZiPYA7vz57) | 3:19 | 2026-04-01 | 2026-05-02 |
 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-04-01 | 2026-05-02 |
+| [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 | 2026-06-01 |  |
 | [Towers](https://open.spotify.com/track/5bfFCwTtflxfirt9d8Ls3S) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Towers](https://open.spotify.com/album/1c8opfck2GJiprPJByHUOp) | 3:08 | 2026-02-06 | 2026-03-06 |
 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 | 2026-03-05 | 2026-04-02 |
 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 | 2026-05-01 | 2026-06-02 |

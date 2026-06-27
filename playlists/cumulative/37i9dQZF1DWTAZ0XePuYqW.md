@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> TyriqueOrDie's got that big energy.
+> Omarion's got that big energy.
 
-668 songs - 1 day 9 hr 30 min
+669 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Housekeeping Knows \(feat\. Latto\)](https://open.spotify.com/track/1b8Uy52q8fZUBTlRkoXoT5) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 3:06 | 2024-08-10 | 2025-03-01 |
 | [HYPER DAI](https://open.spotify.com/track/7JCfurFJRcGufOHFQJsdmS) | [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [HYPER DAI](https://open.spotify.com/album/0dLYXJDaGCzgDpa4hh1oBH) | 2:09 | 2024-12-31 | 2025-08-30 |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 | 2026-04-18 |
+| [I Could Do It](https://open.spotify.com/track/7AEJOlZZamhM9I32JUsNnF) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [O2 \- Part 1](https://open.spotify.com/album/38fs18fUgnA1ESHegI7OXG) | 3:32 | 2026-06-26 |  |
 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 | 2026-01-30 | 2026-06-06 |
 | [I Don't Wanna Work](https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Don't Wanna Work](https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ) | 2:35 | 2023-09-29 | 2023-10-14 |
 | [I Don’t Like You \(feat\. JELEEL! & Candy Bleakz\)](https://open.spotify.com/track/1q2YCwUq4dKY5n0zg4eo4D) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [I Don’t Like You \(feat\. JELEEL! & Candy Bleakz\)](https://open.spotify.com/album/5uWy69DZ2yLwy7kCDbRuPU) | 2:59 | 2023-11-10 | 2024-04-06 |
@@ -597,7 +598,7 @@
 | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine \(feat\. Thundercat & James Fauntleroy\)](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-02-16 | 2024-04-19 |
 | [Toma](https://open.spotify.com/track/1PohtBS9n9YCwubzQAFkki) | [Fafa Khan](https://open.spotify.com/artist/4TtWW9JEksSAem0tGrAYsP), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Toma](https://open.spotify.com/album/5NvAJsrQ8T819kkhGXN3u4) | 2:38 | 2023-08-18 | 2023-09-02 |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-04 | 2025-11-29 |
-| [Too Close](https://open.spotify.com/track/4rQf9YtcgjzLzndj1EUcAm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI) | [Too Close](https://open.spotify.com/album/1549qienGQFQHzFQcvhl9H) | 1:54 | 2025-10-17 |  |
+| [Too Close](https://open.spotify.com/track/4rQf9YtcgjzLzndj1EUcAm) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Memblem](https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI) | [Too Close](https://open.spotify.com/album/1549qienGQFQHzFQcvhl9H) | 1:54 | 2025-10-17 | 2026-06-27 |
 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-07-05 | 2025-08-30 |
 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 | 2026-06-05 |  |
 | [too fast](https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [too fast](https://open.spotify.com/album/6UV79NnkVMC2doyJeC4twp) | 3:14 | 2024-04-26 | 2024-05-18 |

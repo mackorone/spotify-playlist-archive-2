@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "Arricchiti (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/5r8qz3XZd9YULzc47y8Nd5"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155268,
+      "name": "Arricchiti (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T"
+    },
+    {
+      "album": {
         "name": "ATENA",
         "url": "https://open.spotify.com/album/3o0X8SGTY9Ifkb3yR2kFjA"
       },
@@ -7962,8 +7984,8 @@
           "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         },
         {
-          "name": "Juniork",
-          "url": "https://open.spotify.com/artist/0fmgGC0Djn2ZgujYN4HvFo"
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
         }
       ],
       "date_added": "2026-06-25",

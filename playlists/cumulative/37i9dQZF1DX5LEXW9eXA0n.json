@@ -20273,6 +20273,24 @@
     },
     {
       "album": {
+        "name": "I LOVE SUMMER",
+        "url": "https://open.spotify.com/album/7CqcYywNSEGpI9JT3HRQoa"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Our Summer",
+      "url": "https://open.spotify.com/track/1aSqypbR0rwLGIxRrPLxNG"
+    },
+    {
+      "album": {
         "name": "Our Youth",
         "url": "https://open.spotify.com/album/0wLCobJuw9BcWtoVvbIYXf"
       },

@@ -4,7 +4,7 @@
 
 > Quevedo con Ptazeta, Bizarrap con Myke Towers, Becky G, MARLENA y el resto de novedades de la semana.
 
-5,960 songs - 12 day 17 hr 2 min
+5,962 songs - 12 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4559,6 +4559,7 @@
 | [ROMANTICÓMANA](https://open.spotify.com/track/4u27In1Np7ZXGK6XL7nRfE) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [ROMANTICÓMANA](https://open.spotify.com/album/0BfL4OgoGJ19ZCZYJqD3F9) | 2:13 | 2025-03-13 | 2025-03-21 |
 | [ROMEO](https://open.spotify.com/track/5KloY4dqqARqRPavfyRmRE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ROMEO](https://open.spotify.com/album/7mRkuJO3wFrp1CKKVPsodh) | 3:10 | 2025-02-07 | 2025-02-14 |
 | [Romeo y Julieta](https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:26 | 2025-04-04 | 2025-04-11 |
+| [ROMO](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 2:51 | 2026-06-25 |  |
 | [Rompe](https://open.spotify.com/track/4XaizBUwflGXhsbOVCekLE) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG), [Original Elias](https://open.spotify.com/artist/3KDXaImaYfNcLfhUKCrkBS) | [Rompe](https://open.spotify.com/album/4czxImB6MIT7Rr0kozEeY7) | 2:38 | 2025-07-18 | 2025-07-25 |
 | [ROMPECORA](https://open.spotify.com/track/7JOXgSI073RHX6tJHetZ8v) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TU PATRONA DE LUJO](https://open.spotify.com/album/44Z2l8T9cvw3SFs35f6PQq) | 2:26 | 2024-11-21 | 2024-11-29 |
 | [Rompecoras](https://open.spotify.com/track/1ZwJn0GXnuDNILcZ4nMCji) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [Rompecoras](https://open.spotify.com/album/4TmaV0LjlNhYZw2B1GBu9P) | 1:50 | 2025-06-05 | 2025-06-13 |
@@ -5362,7 +5363,6 @@
 | [Toñito](https://open.spotify.com/track/5l4xsHuiPYtcwnBCkAZ1ZJ) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Toñito](https://open.spotify.com/album/3Xqnaem0KaSd23sYfCmXGr) | 2:36 | 2026-06-25 |  |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-15 |
 | [track 1](https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [track 1](https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh) | 3:11 | 2026-05-14 | 2026-05-22 |
-| [Track 3](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 0:00 | 2026-06-25 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 | 2025-02-28 | 2025-03-07 |
 | [TRAGEDIA](https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv) | [Marta Sango](https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv) | [TRAGEDIA](https://open.spotify.com/album/6zTRAEX6goxJb5wXBqoSLO) | 2:30 | 2026-06-25 |  |
@@ -5730,6 +5730,7 @@
 | [Volvería](https://open.spotify.com/track/7Fh6jDbjjoyELGdlHjfLKl) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Volvería](https://open.spotify.com/album/3JB5cOPooKdhmP528Z3Uaa) | 3:00 | 2025-08-15 | 2025-08-22 |
 | [Volvería A Elegirte](https://open.spotify.com/track/7bs75fgmqbe7Y2mDR17J00) | [Hermanos Martínez](https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x) | [Volvería A Elegirte](https://open.spotify.com/album/6Ca2rpCTj8P17x0NpMrMsG) | 3:08 | 2026-04-23 | 2026-05-01 |
 | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/track/3Qk8BwdlfhxQgbsbirMWmD) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [VOLVIÓ EL PERREO \(with DJ Luian\)](https://open.spotify.com/album/519kAGpWRfLu916UM2wXqA) | 3:01 | 2026-01-15 | 2026-01-23 |
+| [Voodoo](https://open.spotify.com/track/6v3rQFbj6B9OfKKWaoCXGf) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Voodoo](https://open.spotify.com/album/0vxMtN9Yy73GOUi9AihlSc) | 3:49 | 2026-06-25 |  |
 | [Vou pa Arzúa](https://open.spotify.com/track/73hDech6uOsguf43udLL5V) | [Grande Amore](https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ) | [III](https://open.spotify.com/album/29dxEpPkvFugW3lQbkAB8G) | 3:02 | 2025-03-06 | 2025-03-14 |
 | [Vouche Enseñar a Amar](https://open.spotify.com/track/7gvPnimtDeT4tWQkHkC6y4) | [Lg1do](https://open.spotify.com/artist/57dwtWkjg3IdbVB68wX7Ra) | [Sobresaliente](https://open.spotify.com/album/2kDIJHdCw9Uht3jmhDmwhe) | 2:37 | 2026-06-04 | 2026-06-12 |
 | [Voy A Buscarte](https://open.spotify.com/track/6Rv1QOGFvJpNnDODXeMtMz) | [Fran y Nico](https://open.spotify.com/artist/0MshSBlTe7LBnw17PsggdI), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [Voy A Buscarte](https://open.spotify.com/album/3fNIZBLh3eIFAZnuqXRoCO) | 3:38 | 2025-09-25 | 2025-10-03 |
@@ -5799,6 +5800,7 @@
 | [Willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 | 2025-07-24 | 2025-08-01 |
 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 | 2026-04-23 | 2026-05-01 |
 | [WINDOW SHOPPER](https://open.spotify.com/track/3Uk8c4i5iBSDXc5JFFF4Xk) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [ThePoing](https://open.spotify.com/artist/25GeI9XfoQKewss8IzQyyO) | [WINDOW SHOPPER](https://open.spotify.com/album/7J2g497Sd5oxbzgF7klj8M) | 2:26 | 2025-05-29 | 2025-06-06 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 |  |
 | [Winnie The Plug](https://open.spotify.com/track/68T0vbZ76DRA3OmFG8b8jA) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Winnie The Plug](https://open.spotify.com/album/5msz6Fg74wXeXds08TKpZi) | 2:36 | 2024-11-01 | 2024-11-08 |
 | [Winny](https://open.spotify.com/track/4qhrMsB4w2pHYB3BhX5WPr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Winny](https://open.spotify.com/album/63ITryjqkiwjmk3GABslAj) | 4:24 | 2025-11-20 | 2025-11-28 |
 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 | 2025-07-24 | 2025-08-01 |

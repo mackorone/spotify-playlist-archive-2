@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-270 songs - 13 hr 29 min
+271 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Embers](https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Embers](https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4) | 3:01 | 2026-01-26 | 2026-06-06 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 |  |
 | [Enough To Drink \- Frank Walker Remix](https://open.spotify.com/track/7oFFgyhqW2u9x97RU4Acl8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Enough To Drink \(Remix Pack\)](https://open.spotify.com/album/4Wu0Z9YORUdekIMDMYhIl4) | 2:41 | 2025-07-18 | 2025-11-22 |
+| [Everything's Fine \(PM\)](https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Everything's Fine](https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR) | 2:45 | 2026-06-26 |  |
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-07-18 | 2026-01-06 |
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2025-07-18 | 2025-08-09 |
 | [Eyes Closed](https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Eyes Closed](https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb) | 3:15 | 2026-01-12 | 2026-02-21 |
@@ -264,7 +265,7 @@
 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-07-18 | 2026-04-25 |
 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-07-18 |  |
 | [Walking On A Dream](https://open.spotify.com/track/3tDaxaj8DPYSpKuKLbYivr) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Walking On A Dream](https://open.spotify.com/album/0If2TvEiZbLz38TpWiAD9j) | 2:32 | 2025-07-25 | 2026-01-31 |
-| [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2026-01-27 |  |
+| [Walking On A Dream \- BLOND:ISH Remix](https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Walking On A Dream \(BLOND:ISH Remix\)](https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu) | 3:11 | 2026-01-27 | 2026-06-27 |
 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2026-01-26 |  |
 | [What’s a Girl to Do in ‘25](https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What’s a Girl to Do in ‘25](https://open.spotify.com/album/1wFswwju0J072xesMYeMCz) | 2:28 | 2026-01-26 | 2026-01-28 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2025-07-18 | 2025-09-13 |

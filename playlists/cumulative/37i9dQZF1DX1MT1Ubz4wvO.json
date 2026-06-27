@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 221058,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/1ObQCTqo42fBTjyFJTPWkO"
@@ -6499,6 +6499,24 @@
     },
     {
       "album": {
+        "name": "Antes de Cerrar el Bar",
+        "url": "https://open.spotify.com/album/1xMvXq94EyezYioTsQAkvF"
+      },
+      "artists": [
+        {
+          "name": "Interferencias",
+          "url": "https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184192,
+      "name": "Antes de Cerrar el Bar",
+      "url": "https://open.spotify.com/track/2f0R4rmAgY85dNT74x9WaJ"
+    },
+    {
+      "album": {
         "name": "Antes de Morir",
         "url": "https://open.spotify.com/album/00KfdQcYoPnllkSOT5Elqy"
       },
@@ -9224,7 +9242,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 144251,
       "name": "A\u00f1o sovi\u00e9tico",
       "url": "https://open.spotify.com/track/3eCHyjsjYtM41QDBXq6lLD"
@@ -68227,6 +68245,24 @@
     },
     {
       "album": {
+        "name": "No Lineal",
+        "url": "https://open.spotify.com/album/1z6rxMrrcKDzXifoF02FbG"
+      },
+      "artists": [
+        {
+          "name": "Zign\u00f6s",
+          "url": "https://open.spotify.com/artist/6cBiPrpM7TJOqq0izNJzx7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261724,
+      "name": "No Lineal",
+      "url": "https://open.spotify.com/track/0vWMYq3l8C9AjMY2K61qBz"
+    },
+    {
+      "album": {
         "name": "No Lo S\u00e9",
         "url": "https://open.spotify.com/album/6q9U5WS4ToMIeQeNyrIRp4"
       },
@@ -101862,6 +101898,32 @@
       "duration_ms": 194218,
       "name": "Verano Ts\u00e9-Ts\u00e9",
       "url": "https://open.spotify.com/track/7ka4lVeUiURlLeA7TeLKzD"
+    },
+    {
+      "album": {
+        "name": "Verdadero Amor",
+        "url": "https://open.spotify.com/album/6zoyKU0a7N6DxfNiU5Hh9G"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ilabaca",
+          "url": "https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd"
+        },
+        {
+          "name": "Felipe Ilabaca",
+          "url": "https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU"
+        },
+        {
+          "name": "Pablo Ilabaca",
+          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205108,
+      "name": "Verdadero Amor",
+      "url": "https://open.spotify.com/track/0g8WShTm10NsRlrWIu7fVu"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "Turn the party on with these hits. Music videos only available on Premium.",
-  "num_followers": 1826,
+  "num_followers": 1837,
   "original_name": "Latin Party Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBhv0U2z8HxIdBT9FFVQ3kHr5pt",
+  "snapshot_id": "AAAAAJXB5I51ryYBUolmr5ugF4txtkf+",
   "tracks": [
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "LA VILLA",
         "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "mi refe",
         "url": "https://open.spotify.com/album/0rSQvCCRuzdiNzmmNJ1o1O"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/7Jc3xf5NtjhNlVCKd8DDTG"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/6XCUEebM9ZmuFE6UaKgkSp"
@@ -85,23 +85,91 @@
       "url": "https://open.spotify.com/track/5geixbM9crd2eA3vU6Rsgl"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/56x4SumdngV2zQXkxjlsGF"
+        "name": "LA GRACIOSA",
+        "url": "https://open.spotify.com/album/4RtMsGDasSSbnjY6dVA7yB"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
-      "duration_ms": 185066,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/0Ti1S4hu8GdJVjrpwkEqtx"
+      "duration_ms": 284394,
+      "name": "LA GRACIOSA",
+      "url": "https://open.spotify.com/track/2ocMQJWmzz0vPx0FzoGJje"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2026-06-26 16:43:18",
+      "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/2ukbbf4uaeSZF4q09Iciq3"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 225685,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/3Ovcq3hiNOyqbfG3WLIx31"
+    },
+    {
+      "added_at": "2026-06-26 16:43:18",
+      "album": {
+        "name": "Tit\u00ed Me Pregunt\u00f3",
+        "url": "https://open.spotify.com/album/1Er72OzYbTkXKjzinDakpO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 290883,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/74uM0HT6JPXIzaVk5IQMtY"
+    },
+    {
+      "added_at": "2026-06-26 16:43:18",
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 159522,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA"
+    },
+    {
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -121,23 +189,23 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/56x4SumdngV2zQXkxjlsGF"
       },
       "artists": [
         {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+      "duration_ms": 185066,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/0Ti1S4hu8GdJVjrpwkEqtx"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/3WOWJ9jZCuZwuh1vth6jqq"
@@ -161,7 +229,7 @@
       "url": "https://open.spotify.com/track/7yHv0XQi87cPAmSn7M5263"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/1O66jKGCKnQf0Nmo4wlovR"
@@ -181,39 +249,7 @@
       "url": "https://open.spotify.com/track/0PUtc28PTUN5ev1siRr4AL"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
-      "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/2WD5MphDwKn8u3UDXxADyH"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 159082,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4aZhzKTAQOpmMyy8ln9nc7"
-    },
-    {
-      "added_at": "2026-02-12 17:37:45",
-      "album": {
-        "name": "Tit\u00ed Me Pregunt\u00f3",
-        "url": "https://open.spotify.com/album/1Er72OzYbTkXKjzinDakpO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 290883,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/74uM0HT6JPXIzaVk5IQMtY"
-    },
-    {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3hM3i4eghAifTJVBwcaKNb"
@@ -233,23 +269,7 @@
       "url": "https://open.spotify.com/track/3oj8MKN2KmAIVMCsCkdbkG"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
-      "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159522,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA"
-    },
-    {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/5RQVfYOqGWoLyViYHanYD6"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/72VipjUthWyIAW8rwCAY40"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/10E2xFStkL2uqXkiXiQEoH"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/5LGl6AkddNBdd8Rt4uunHV"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/77HpsjuhHrcZhIp0PyiROw"
@@ -325,7 +345,7 @@
       "url": "https://open.spotify.com/track/0lREs0EdgrMQQKw00yx0Ct"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/05MaDb9RBWImPDezuUjEvT"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/18Pv9tK6iymZWB8yQW6Aoc"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "La Historia De El D\u00fao (Vol.1)",
         "url": "https://open.spotify.com/album/5lYf4T8bPha4fuM33kCFr4"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/0Tq9r08MqjyXqgqeuUxpxS"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Nuevas Metas",
         "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
@@ -377,7 +397,43 @@
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/3mIJYbV5fBZglqiRLei3Kp"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 273813,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/3UMpdwMNrTOm8z3ldN2I0N"
+    },
+    {
+      "added_at": "2026-06-26 16:43:18",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4I7uNVX9pmyrjHBtCV2hSS"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49"
+    },
+    {
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Otra Vez (feat. J Balvin)",
         "url": "https://open.spotify.com/album/2rIkvBy6neSw44CvZkxTGH"
@@ -397,23 +453,7 @@
       "url": "https://open.spotify.com/track/1yeNEwCLZti2HusXE6Zpay"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4I7uNVX9pmyrjHBtCV2hSS"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49"
-    },
-    {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "Pretty Boy, Dirty Boy",
         "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
@@ -429,7 +469,7 @@
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
     },
     {
-      "added_at": "2026-02-12 17:37:45",
+      "added_at": "2026-06-26 16:43:18",
       "album": {
         "name": "QUE PRETENDES",
         "url": "https://open.spotify.com/album/4KcyXhEqtw6JGkWWq2FQOY"
@@ -447,22 +487,6 @@
       "duration_ms": 224223,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/7LdXoP2rkbFF0xsPo6fQbg"
-    },
-    {
-      "added_at": "2026-02-12 17:37:45",
-      "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/3cRUdUwsW8T4qk3YJjteYn"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 168325,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/6jOc98cnGY5HPpMetR5kOm"
     }
   ],
   "unique_name": "Latin Party Hits",

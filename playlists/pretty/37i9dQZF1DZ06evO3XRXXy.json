@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153240,
+  "num_followers": 153254,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAh1fw4BP6fO8C/bOgIcQzF",
+  "snapshot_id": "ajxvgAAAAABfkx95gqm/2h8MDVrYQNRB",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
       "artists": [
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 244826,
-      "name": "You Send Me (with Michael Bolton)",
-      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
+      "duration_ms": 262533,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
     },
     {
       "added_at": null,
@@ -559,6 +555,26 @@
       "duration_ms": 298066,
       "name": "Everytime I Close My Eyes (with Babyface)",
       "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "You Send Me (with Michael Bolton)",
+      "url": "https://open.spotify.com/track/6qB2W0DcQo2kLyqw2JUo5k"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classics In The Key Of G",
-        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Stranger On The Shore",
-      "url": "https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Romance",
         "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 431893,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classics In The Key Of G",
+        "url": "https://open.spotify.com/album/6z3utjo3iGofLUnxWL9zXh"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Stranger On The Shore",
+      "url": "https://open.spotify.com/track/56YAQYJltZevVwJUNAlLxw"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 207757,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Sabor A Mi",
-      "url": "https://open.spotify.com/track/4Pu9FoZv0FPYD1aDE1lmJ2"
     },
     {
       "added_at": null,

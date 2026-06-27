@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1912,
+  "num_followers": 1913,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAC75YCVlNYA2Bgc8g1bzmzo",
+  "snapshot_id": "ajxvgAAAAACwNuV/V9eYspWjXpECAoKI",
   "tracks": [
     {
       "added_at": null,
@@ -535,30 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recebi Meu Salario",
-        "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
-      },
-      "artists": [
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Mr. Bim",
-          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
-        }
-      ],
-      "duration_ms": 147691,
-      "name": "Recebi Meu Salario",
-      "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Errei Eu Fui Muleque",
         "url": "https://open.spotify.com/album/1DYJPTo95QasswE7okwMQ2"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 180803,
       "name": "Eu Errei Eu Fui Muleque",
       "url": "https://open.spotify.com/track/4V7dIuq4tsh6afEP54yaSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recebi Meu Salario",
+        "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
+      },
+      "artists": [
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Mr. Bim",
+          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
+        }
+      ],
+      "duration_ms": 147691,
+      "name": "Recebi Meu Salario",
+      "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
     },
     {
       "added_at": null,
@@ -1015,18 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+        "name": "Fica Tudo Bem",
+        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
       },
       "artists": [
         {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+      "duration_ms": 168960,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
     },
     {
       "added_at": null,
@@ -1051,26 +1059,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tudo Bem",
-        "url": "https://open.spotify.com/album/7ufEyoej0NRDZsjRtxf3Pu"
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
       },
       "artists": [
         {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/3CZ1yKCXWvZ08SQd4n08hs"
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -1099,6 +1099,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Papo 10",
+        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "VINT",
+          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
+        }
+      ],
+      "duration_ms": 153545,
+      "name": "Papo 10",
+      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proibid\u00e3o Delas",
         "url": "https://open.spotify.com/album/7xk8dpr4b49rgsfj4hQVKF"
       },
@@ -1123,26 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo 10",
-        "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "VINT",
-          "url": "https://open.spotify.com/artist/6KjG5ZIQ6aiu2i0cKGqzJ7"
-        }
-      ],
-      "duration_ms": 153545,
-      "name": "Papo 10",
-      "url": "https://open.spotify.com/track/57yAaWATgSEWKDb1Dh0nAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -1159,30 +1159,6 @@
       "duration_ms": 156500,
       "name": "Sem Calcinha",
       "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1 No Erro",
-        "url": "https://open.spotify.com/album/0qrIqQH65haYKMIst9Jn3U"
-      },
-      "artists": [
-        {
-          "name": "Sarah Sampp",
-          "url": "https://open.spotify.com/artist/2cl1hdWUdHlZoI3MXvIcY9"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Linguini",
-          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "T\u00e1 No Erro",
-      "url": "https://open.spotify.com/track/4KNH8weAZJDNc0AvuS4Moz"
     },
     {
       "added_at": null,
@@ -1207,6 +1183,30 @@
       "duration_ms": 121846,
       "name": "Ajoelhou",
       "url": "https://open.spotify.com/track/3gmimtzSVq82cgTwwb0w6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1 No Erro",
+        "url": "https://open.spotify.com/album/0qrIqQH65haYKMIst9Jn3U"
+      },
+      "artists": [
+        {
+          "name": "Sarah Sampp",
+          "url": "https://open.spotify.com/artist/2cl1hdWUdHlZoI3MXvIcY9"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "T\u00e1 No Erro",
+      "url": "https://open.spotify.com/track/4KNH8weAZJDNc0AvuS4Moz"
     },
     {
       "added_at": null,
@@ -1251,26 +1251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu & Elas",
-        "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
       },
       "artists": [
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
         }
       ],
-      "duration_ms": 130212,
-      "name": "Macetada Forte",
-      "url": "https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR"
+      "duration_ms": 134206,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

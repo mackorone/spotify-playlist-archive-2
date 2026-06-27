@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13568,
+  "num_followers": 13573,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADsI9xzMeA3a6+EBO7TX4+B",
+  "snapshot_id": "ajxvgAAAAADNfdVXF5WQX6sPKTxZxK+P",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 160033,
-      "name": "Burglars & Murderers (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
+      "duration_ms": 195266,
+      "name": "CHICKENS (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
     },
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 195266,
-      "name": "CHICKENS (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
+      "duration_ms": 160033,
+      "name": "Burglars & Murderers (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
     },
     {
       "added_at": null,

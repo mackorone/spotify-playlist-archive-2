@@ -1,12 +1,12 @@
 {
   "description": "This is Avenoir. The essential tracks, all in one playlist.",
-  "num_followers": 5709,
+  "num_followers": 5715,
   "original_name": "This Is Avenoir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABs1cnkF7/oWXNKYQash/HM",
+  "snapshot_id": "ajxvgAAAAAAl7qhgLZZdnwp18yqV8XLP",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+      "duration_ms": 155586,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 155586,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM"
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": null,

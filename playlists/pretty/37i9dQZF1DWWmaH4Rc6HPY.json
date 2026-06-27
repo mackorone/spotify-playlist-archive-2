@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38844,
+  "num_followers": 38850,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Los mejores a\u00f1os de nuestra vida",
-        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Los mejores a\u00f1os de nuestra vida",
-      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Los mejores a\u00f1os de nuestra vida",
+        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "Los mejores a\u00f1os de nuestra vida",
+      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "El M\u00e9ndigo D\u00eda Del Padre",
         "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 266066,
       "name": "El M\u00e9ndigo D\u00eda Del Padre",
       "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
     },
     {
       "added_at": "2026-05-22 06:00:30",

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Andien
 
-969 songs - 2 day 14 hr 57 min
+970 songs - 2 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Kekasih](https://open.spotify.com/track/73WFq1OI6LxCojIFwGCoua) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kekasih](https://open.spotify.com/album/7wQBNZsbYMV5oc6MHgSVd6) | 4:20 | 2025-11-06 | 2026-06-19 |
 | [Kekasih Seseorang \- Kotakustik](https://open.spotify.com/track/5qGDptJdZN6YxQk4L9X0zH) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Kekasih Seseorang \(Kotakustik\)](https://open.spotify.com/album/4XpV2OESSXOnbaf3TWcCxi) | 4:10 | 2024-06-27 | 2024-10-18 |
 | [Kelabu](https://open.spotify.com/track/3oOXSlquzVhaNB0vUAWBuu) | [Beranda Rumah](https://open.spotify.com/artist/01IC5xtwNyGb0CT0t7jDQf) | [Kelabu](https://open.spotify.com/album/5754frt1xUsyruyjptD4pb) | 4:05 | 2025-06-12 | 2025-08-09 |
+| [Keluh](https://open.spotify.com/track/2nxBcDrA5UaWxhilnvZF0J) | [Arialsays](https://open.spotify.com/artist/1k1k7EVTpdVRtMV6rt5vLF), [Renjana Asa](https://open.spotify.com/artist/09RwgbSgq6yTmEgO1ZmJVb) | [Keluh](https://open.spotify.com/album/1dHlxF5pHfz0m2pF50QA3g) | 4:10 | 2026-06-26 |  |
 | [Kembali](https://open.spotify.com/track/59OWkgz8gCVcPPsH6Q7Cki) | [bedacerita.](https://open.spotify.com/artist/2LrbX4xyxtkwC0LLqsXqOP) | [Kembali](https://open.spotify.com/album/0E03zjmCULVZbWWEuJaAIc) | 4:15 | 2024-09-19 | 2024-12-13 |
 | [Kembali Ke Aku](https://open.spotify.com/track/7w9uXR9ZDOK8afkmhWW4J5) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Kembali Ke Aku](https://open.spotify.com/album/43uKjfAyF0ZIbEWBeMq54c) | 3:25 | 2025-10-16 | 2025-11-28 |
 | [Kembali Kecil](https://open.spotify.com/track/6p2HmpiklbuoVKbuqhwhdM) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 3:59 | 2025-11-27 | 2026-02-13 |
@@ -578,6 +579,7 @@
 | [Mungkin Hanya Kamu](https://open.spotify.com/track/06ecDe5VHZhpCi7V5kQFTW) | [Aurelia Syaharani](https://open.spotify.com/artist/7A8RuvaCkbtKEZwf1pW3cn) | [Mungkin Hanya Kamu](https://open.spotify.com/album/3sy9zZeAtCUk6BAnOQZb9K) | 3:39 | 2025-05-08 | 2025-06-06 |
 | [Muslihat \- Muslihat Original Soundtrack](https://open.spotify.com/track/234mUkdICBtkPqZqsSdw97) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz) | [Muslihat \(Muslihat Original Soundtrack\)](https://open.spotify.com/album/5PFDIJ7EvKDnENjhy3iNai) | 4:53 | 2024-07-18 | 2024-09-27 |
 | [Nada Kasih](https://open.spotify.com/track/66v72L6lQ3W33f2AtOfYxb) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Rieka Roslan](https://open.spotify.com/artist/1uv8Uq3SQm91fql1Ef6G2l), [Harsya Rieuwpassa](https://open.spotify.com/artist/3EIWLqVx1wWdsayIvqwe0w) | [Nada Kasih](https://open.spotify.com/album/3gxPL86jiJVh5quZLL6c7n) | 3:11 | 2024-11-28 | 2025-02-28 |
+| [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 | 2026-06-26 |  |
 | [nanti bila engkau pergi](https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr) | [Argya](https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345) | [nanti bila engkau pergi](https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU) | 4:22 | 2026-03-05 | 2026-04-24 |
 | [Nanti Kita Seperti Ini \- Cinematic Version](https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Nanti Kita Seperti Ini \(Cinematic Version\)](https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p) | 4:24 | 2025-06-26 | 2025-09-26 |
 | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/album/6FHTCzGVQD0QyVvywYoXjn) | 3:49 | 2024-10-03 | 2024-11-08 |
@@ -940,7 +942,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 | 2025-11-28 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
-| [Track 2](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 0:00 | 2026-06-26 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,033 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,037 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 43 | [Billie's Bounce](https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc) | [Alfredo Remus](https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3), [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P) | [Querido Bill : Tributo a Bill Evans](https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ) | 8:10 |
 | 44 | [Blue in Green \(Sky and Sea\)](https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:49 |
 | 45 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
-| 46 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
-| 47 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
+| 46 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
+| 47 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
 | 48 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
 | 49 | [I Should Care](https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH) | [Ruben Lopez Furst](https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Luis Ceravolo](https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E) | [All the Things You Are](https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB) | 6:48 |
 | 50 | [La Novena](https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:45 |

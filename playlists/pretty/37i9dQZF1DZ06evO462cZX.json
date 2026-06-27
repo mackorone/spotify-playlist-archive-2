@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 45615,
+  "num_followers": 45623,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABIzsJJIwJMHh5i/Ak2ySPF",
+  "snapshot_id": "ajxvgAAAAABaWvzC/txHWB6YDy2BSD69",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Can Be Somebody (feat. Erin McCarley)",
+        "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Erin McCarley",
+          "url": "https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "I Can Be Somebody (feat. Erin McCarley)",
+      "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bring It Back (feat. Max Styler)",
         "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 165000,
       "name": "Bring It Back (feat. Max Styler)",
       "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Can Be Somebody (feat. Erin McCarley)",
-        "url": "https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Erin McCarley",
-          "url": "https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "I Can Be Somebody (feat. Erin McCarley)",
-      "url": "https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6"
     },
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 188225,
       "name": "PPP",
       "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Like You (feat. Lost Boy)",
-        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Nobody Like You (feat. Lost Boy)",
-      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 185076,
       "name": "Deli",
       "url": "https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody Like You (feat. Lost Boy)",
+        "url": "https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Lost Boy",
+          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Nobody Like You (feat. Lost Boy)",
+      "url": "https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevation EP",
-        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Cayendo",
-      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canta y No Llores",
         "url": "https://open.spotify.com/album/6nddQ9X6LMHKeV2Wv4PpT0"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 302839,
       "name": "Canta y No Llores",
       "url": "https://open.spotify.com/track/07IWaJ7EWVFe0Zdo82zaml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevation EP",
+        "url": "https://open.spotify.com/album/5CaG0USlhfAgCKGCoXND0J"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/0ULYaI7D58tFNVUu34Y5ty"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Arthi
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,793 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,819 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Even Angels Ghost](https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Even Angels Ghost](https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS) | 4:22 |
 | 2 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 3 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
-| 4 | [Check Check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Check Check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
+| 4 | [check check](https://open.spotify.com/track/287TkTdofAFvXB4EaT160W) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [check check](https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh) | 3:02 |
 | 5 | [When You Smile](https://open.spotify.com/track/1mhTX06itPHKN5cWj5fIVj) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [When You Smile](https://open.spotify.com/album/7n29Ak1v8crsUb5JOH6WU1) | 3:31 |
 | 6 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 7 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 |

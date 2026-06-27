@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Novex, Born Kxng, MOONLIGHT AFRIQA, S.N.E
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,810 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,903 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Bayathakatha \(feat\. Dladla Mshunqisi, Beast RSA & Sazified\)](https://open.spotify.com/track/1YFv2J0MYXFq4JSfbqSzMr) | [Sphectacula and DJ Naves](https://open.spotify.com/artist/7yHWqKzRw7VR7zU5e3nIZx), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Sazified](https://open.spotify.com/artist/1PmS3JegLpKsc6V9aWvQJA) | [Bayathakatha \(feat\. Dladla Mshunqisi, Beast RSA & Sazified\)](https://open.spotify.com/album/2iDFPZxJ42zzFAH9cYQBqn) | 4:58 |
 | 50 | [Amaphutha](https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1) | [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [Acquiesce](https://open.spotify.com/album/1YGjJwAanA1N66ctu89siu) | 5:33 |
 
-Snapshot ID: `AAAAAPlDmaTAV8xKLSf3hpQGCravJiT6`
+Snapshot ID: `AAAAAArTv2QdIKI4tCdxzXpAYi/XfG7p`

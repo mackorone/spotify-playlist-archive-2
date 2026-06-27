@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: D\-Double
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,550 likes - 59 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,531 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 5 | [Andersom \(feat\. Boef\)](https://open.spotify.com/track/5kYM2ac4h8SDGyoT6O7Q0i) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Andersom \(feat\. Boef\)](https://open.spotify.com/album/0eZLLmggsAmrXm8ZISADy8) | 3:50 |
 | 6 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 7 | [IT’S US](https://open.spotify.com/track/0VK82DF3bZEh8tVQY71Nev) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [IT’S US](https://open.spotify.com/album/2Agk8fhkC1FZCHq6GZGJtq) | 3:14 |
-| 8 | [Track 7](https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 0:00 |
+| 8 | [Bell Me Op](https://open.spotify.com/track/4Vs0gIpwXvQr87X1ndakcz) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 2:00 |
 | 9 | [Grafsteen](https://open.spotify.com/track/3KNkkhM1ItwXCi7uATPwVQ) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Vrijspel \(Deluxe\)](https://open.spotify.com/album/2ITuJwvDclaOKmIJfcyZft) | 3:30 |
 | 10 | [Runner](https://open.spotify.com/track/4JKI3AZTmCNOzoXbZE2AZr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Runner](https://open.spotify.com/album/6EnAXief5ET4I92perP6Zy) | 2:47 |
 | 11 | [Balalaika Freestyle](https://open.spotify.com/track/1bLHhUtuFDTru3hQJNEGhx) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Top Hustler](https://open.spotify.com/album/1xfkXJb4MZinRhmc3OHpNu) | 3:44 |

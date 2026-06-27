@@ -4,7 +4,7 @@
 
 > zu dieser sonnigen playlist kann man nur viben
 
-645 songs - 1 day 7 hr 15 min
+645 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 | 2025-07-09 | 2025-11-08 |
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/0XrZkuSgrDEI14kRHqdz77), [Flo Milli](https://open.spotify.com/artist/1OnIwQ9ENeFghbHZhZ4xkl) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-11-10 | 2025-07-19 |
 | [Rollercoaster](https://open.spotify.com/track/00Sz7Sb3Gt7NxsQbD4ggA1) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Dropical GReeeN](https://open.spotify.com/album/3O5swfBqGoWN8MP0pVsmL2) | 2:34 | 2024-09-13 | 2025-04-03 |
+| [ROMO](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 2:51 | 2026-06-25 |  |
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-10 | 2025-08-02 |
 | [Rude Boi](https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Lou Combo](https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX), [Erin Kimberly](https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe) | [Rude Boi](https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB) | 3:35 | 2025-07-09 | 2026-04-17 |
 | [RUDUMB?](https://open.spotify.com/track/1RH05bSUuaRN1aq7l0lMtN) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [RUDUMB?](https://open.spotify.com/album/27zzEm2EZCnaEg7Gz6BpX4) | 1:57 | 2025-03-14 | 2025-03-26 |
@@ -577,7 +578,6 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-08-30 | 2025-02-08 |
 | [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 | 2026-03-18 | 2026-05-08 |
 | [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2024-12-30 | 2025-02-08 |
-| [Track 3](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 0:00 | 2026-06-25 |  |
 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 | 2026-03-20 |  |
 | [Trap Queen](https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/4DM34NuOlqu5S8PZAje4iF) | 3:42 | 2025-04-02 | 2025-11-19 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-03-15 | 2024-10-04 |

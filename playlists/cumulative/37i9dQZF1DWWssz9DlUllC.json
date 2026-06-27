@@ -423,6 +423,32 @@
     },
     {
       "album": {
+        "name": "Backa",
+        "url": "https://open.spotify.com/album/7oBL7XYcmrLCZJpC7YEL9B"
+      },
+      "artists": [
+        {
+          "name": "Offei",
+          "url": "https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Afrolektra",
+          "url": "https://open.spotify.com/artist/0qy73oup9yKKAO8TsRoS1g"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Backa",
+      "url": "https://open.spotify.com/track/2IA463EQ4O1pHAGQx1d1U2"
+    },
+    {
+      "album": {
         "name": "Young Poet",
         "url": "https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q"
       },
@@ -1058,7 +1084,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177368,
       "name": "Enjoy and Party",
       "url": "https://open.spotify.com/track/1mJ5ry5cCt0MTWEj3RGDj3"
@@ -1406,6 +1432,32 @@
       "duration_ms": 188981,
       "name": "FUN",
       "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188803,
+      "name": "GBESUNMO",
+      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
     },
     {
       "album": {
@@ -3998,24 +4050,6 @@
       "duration_ms": 144000,
       "name": "TOO HOT",
       "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
-    },
-    {
-      "album": {
-        "name": "KING COAL",
-        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
     },
     {
       "album": {

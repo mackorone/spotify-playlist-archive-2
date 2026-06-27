@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ No Cure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,027 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,054 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 20 | [Your Phantasm](https://open.spotify.com/track/318Tb1QejxmItd6N4uyD5m) | [World I Hate](https://open.spotify.com/artist/04l0T0rBlp4cMuYY59JMrO) | [Total Nuclear Annihilation](https://open.spotify.com/album/0C1tZwGhmTG6pcDld9zj3J) | 1:31 |
 | 21 | [The Weapon Pt\. II](https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81) | [Mizery](https://open.spotify.com/artist/1jtr0Jugsg69AGlDW4cqsX) | [The Weapon Pt\. II](https://open.spotify.com/album/77O2A0v7aanzerQ0fsyrbQ) | 3:17 |
 | 22 | [Everybody in the Way](https://open.spotify.com/track/6bmjLlYJoe1L2YyajmolCA) | [SCARAB](https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX) | [Burn After Listening](https://open.spotify.com/album/7xxjZMggrW1lUYoIyR4Fpn) | 1:51 |
-| 23 | [SONG 2](https://open.spotify.com/track/0kUZ2rAYAgXtcgpVOhP58k) | [CROWDKILL CARTEL](https://open.spotify.com/artist/7jWytXunzd88U2NY5nlSTz), [MOUTH BREAKER](https://open.spotify.com/artist/5dz8LGLQRsMoVR5UqGT61d), [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [SONG 2](https://open.spotify.com/album/35XzE95hTMOgyQ2JVqXHog) | 2:30 |
+| 23 | [SONG 2](https://open.spotify.com/track/0kUZ2rAYAgXtcgpVOhP58k) | [CROWDKILL CARTEL](https://open.spotify.com/artist/7jWytXunzd88U2NY5nlSTz), [MOUTH BREAKER](https://open.spotify.com/artist/5dz8LGLQRsMoVR5UqGT61d), [ZUKO](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [SONG 2](https://open.spotify.com/album/35XzE95hTMOgyQ2JVqXHog) | 2:30 |
 | 24 | [Flavorless](https://open.spotify.com/track/0RhuWspdZFzl2nbUo0YSOA) | [Gumm](https://open.spotify.com/artist/4iJSuRiHxC9zkb3nN4aYWA) | [Beneath the Wheel](https://open.spotify.com/album/2F4ghd19BiTO6y1dJWXjac) | 2:31 |
 | 25 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 |
 | 26 | [Box Man](https://open.spotify.com/track/3SF5H9ZntPTz9MBTSMvQ0e) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:18 |

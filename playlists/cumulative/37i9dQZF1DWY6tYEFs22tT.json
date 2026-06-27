@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with YG, Drake, Future, Latto and Central Cee.",
+  "description": "Today's Hip-Hop with Tyler, The Creator, Future, Quavo, YG, and Drake.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 122352,
       "name": "2POPS",
       "url": "https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm"
@@ -1945,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "AND WON'T (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194321,
+      "name": "AND WON'T (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB"
+    },
+    {
+      "album": {
         "name": "Angel In The Marble",
         "url": "https://open.spotify.com/album/4atJj8AYiUEmgXq4RhySaH"
       },
@@ -3078,7 +3100,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 108121,
       "name": "Bazooka",
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
@@ -5316,6 +5338,24 @@
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+    },
+    {
+      "album": {
+        "name": "ML2",
+        "url": "https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Calling From Rio",
+      "url": "https://open.spotify.com/track/0EdUsCmzimUe6JcKBDPKfG"
     },
     {
       "album": {
@@ -10877,6 +10917,28 @@
     },
     {
       "album": {
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/3EP96BwNsuTDRygOOa50FL"
+      },
+      "artists": [
+        {
+          "name": "Robin Banks",
+          "url": "https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE"
+        },
+        {
+          "name": "wewantwraiths",
+          "url": "https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164535,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/3fvaVKXKQNV4eT4BK60gVX"
+    },
+    {
+      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0JBYjJ6QJrZ0nyr8whq35E"
       },
@@ -10998,7 +11060,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167177,
       "name": "GANG BIZNESS feat paygotti",
       "url": "https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv"
@@ -11967,6 +12029,24 @@
     },
     {
       "album": {
+        "name": "GOD flow.",
+        "url": "https://open.spotify.com/album/0eltnSKt09LSO7oefCOb9M"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209302,
+      "name": "GOD flow.",
+      "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
+    },
+    {
+      "album": {
         "name": "Goin Up",
         "url": "https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932"
       },
@@ -12222,7 +12302,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 157333,
       "name": "Griddl\u00eb",
       "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
@@ -12460,6 +12540,24 @@
       "duration_ms": 234586,
       "name": "H.Y.B. (feat. Bas & Central Cee)",
       "url": "https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6"
+    },
+    {
+      "album": {
+        "name": "HAAVIN",
+        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "HAAVIN",
+      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
     },
     {
       "album": {
@@ -14694,7 +14792,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146526,
       "name": "idk idk",
       "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
@@ -15986,6 +16084,24 @@
       "duration_ms": 169676,
       "name": "KiKi (What Would Drizzy Say?)",
       "url": "https://open.spotify.com/track/1H0IdGNAKBXQnPD7SBZJfo"
+    },
+    {
+      "album": {
+        "name": "KILLIN EM",
+        "url": "https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113437,
+      "name": "KILLIN EM",
+      "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
     },
     {
       "album": {
@@ -17956,6 +18072,24 @@
       "duration_ms": 204255,
       "name": "Make It Happen (feat. Pressa & Bun Dog)",
       "url": "https://open.spotify.com/track/06Mw4zXE8okGz2ezF7ExZk"
+    },
+    {
+      "album": {
+        "name": "Making Promises",
+        "url": "https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Making Promises",
+      "url": "https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh"
     },
     {
       "album": {
@@ -20917,6 +21051,32 @@
     },
     {
       "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158193,
+      "name": "OK (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
+    },
+    {
+      "album": {
         "name": "OK (feat. Young Thug)",
         "url": "https://open.spotify.com/album/76GwLI1nybtKiwJ1maeFIw"
       },
@@ -22504,7 +22664,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 210600,
       "name": "Pipe Down (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
@@ -23827,6 +23987,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159933,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj"
+    },
+    {
+      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -24793,6 +24971,32 @@
     },
     {
       "album": {
+        "name": "BIANCA (Deluxe)",
+        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149572,
+      "name": "ROLLIN",
+      "url": "https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN"
+    },
+    {
+      "album": {
         "name": "Back On My Baby Jesus Sh!t AGAIN",
         "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
       },
@@ -25184,6 +25388,24 @@
       "duration_ms": 318066,
       "name": "SAFETY",
       "url": "https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9"
+    },
+    {
+      "album": {
+        "name": "SAG HARBOR",
+        "url": "https://open.spotify.com/album/0WEIzP144txcADcIcumIiy"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "SAG HARBOR",
+      "url": "https://open.spotify.com/track/6NVRUjLqjAsPpaSUgVawTQ"
     },
     {
       "album": {
@@ -26840,6 +27062,24 @@
       "duration_ms": 184730,
       "name": "Speeding",
       "url": "https://open.spotify.com/track/4v0UUSV45rtjYBu3nEZ6Dh"
+    },
+    {
+      "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
     },
     {
       "album": {
@@ -28724,6 +28964,24 @@
       "duration_ms": 168644,
       "name": "Thank Me (feat. Young Dolph)",
       "url": "https://open.spotify.com/track/4T9246CX4qYIaUxVFALOpQ"
+    },
+    {
+      "album": {
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
     },
     {
       "album": {
@@ -32493,6 +32751,24 @@
     },
     {
       "album": {
+        "name": "Where There's Smoke",
+        "url": "https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190628,
+      "name": "Where There's Smoke",
+      "url": "https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s"
+    },
+    {
+      "album": {
         "name": "Mac & Cheese 5",
         "url": "https://open.spotify.com/album/5eNbrlazXci6OR5uQeFfV3"
       },
@@ -33014,6 +33290,28 @@
       "duration_ms": 160500,
       "name": "WTF (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr"
+    },
+    {
+      "album": {
+        "name": "WTF GOIN (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184705,
+      "name": "WTF Goin (Feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
     },
     {
       "album": {

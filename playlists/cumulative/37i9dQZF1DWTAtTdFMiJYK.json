@@ -5041,6 +5041,32 @@
     },
     {
       "album": {
+        "name": "Main Tera Deewana",
+        "url": "https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66"
+      },
+      "artists": [
+        {
+          "name": "Shyam Sidhawat",
+          "url": "https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Rutvij Joshi",
+          "url": "https://open.spotify.com/artist/1z2gTsj64IYMJv1HxKfsQi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220414,
+      "name": "Main Tera Deewana",
+      "url": "https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht"
+    },
+    {
+      "album": {
         "name": "Makhmal (feat. BLUK)",
         "url": "https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx"
       },
@@ -8904,7 +8930,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 171000,
       "name": "Zarii",
       "url": "https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A"

@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
 
-1,054 songs - 1 day 23 hr 5 min
+1,055 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 | 2025-02-14 | 2025-05-16 |
 | [Karardı Bulutlar](https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Karardı Bulutlar](https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk) | 2:25 | 2024-08-29 | 2025-05-09 |
 | [KARDEŞ](https://open.spotify.com/track/60L3b4EDrwenFFOY2eBqzm) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [KARDEŞ](https://open.spotify.com/album/2aGaMtEzo1t5pQMQj9eiHl) | 2:01 | 2024-01-04 | 2024-02-09 |
+| [Karizma](https://open.spotify.com/track/4VChhXnTFtnmrqtTdszwKa) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr) | [Karizma](https://open.spotify.com/album/0nK4TdgxlGcETjDUyXePuE) | 2:44 | 2026-06-26 |  |
 | [KASA ORIJINAL](https://open.spotify.com/track/6sVqMxZnOMyZrATLR6v5Ft) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KASA ORIJINAL](https://open.spotify.com/album/1kIKNCYnhNNVSfE6E7U4fT) | 1:50 | 2024-10-03 | 2024-12-13 |
 | [KATANA](https://open.spotify.com/track/1lBFlo5LGdC6A5G7Dj1Cip) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [KATANA](https://open.spotify.com/album/6TKb83p6EWwQPjUqT8lMYN) | 2:13 | 2025-11-27 | 2025-12-12 |
 | [Kaybet](https://open.spotify.com/track/2clKyB93M9tT80yraXSHWs) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kaybet](https://open.spotify.com/album/51G4p4KQeDHKTkhf7mEpJS) | 2:51 | 2026-04-16 | 2026-05-26 |
@@ -651,7 +652,7 @@
 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 | 2023-03-30 | 2023-06-16 |
 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 | 2025-05-29 | 2025-08-16 |
 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 | 2023-01-10 | 2023-01-27 |
-| [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 | 2026-04-23 |  |
+| [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 | 2026-04-23 | 2026-06-27 |
 | [Multi\-Milyoner](https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Vio](https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt) | [Koleksiyoner](https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf) | 3:07 | 2023-03-23 | 2023-04-07 |
 | [Mülteci](https://open.spotify.com/track/4HaMpkwcCGKDZt72wQNj1x) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Mülteci](https://open.spotify.com/album/0f8FxGc32sNZZaZiLXMGKs) | 2:58 | 2025-11-20 | 2025-12-12 |
 | [Mülteci Kelebekler](https://open.spotify.com/track/5n8guiNcpqpHCHEOkh5xtD) | [Sorgu](https://open.spotify.com/artist/5rfJ3Ece18ZymeMvpMLUvB), [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [Mülteci Kelebekler](https://open.spotify.com/album/0izIY7JgxIwsvmn9eyMRFu) | 2:21 | 2026-01-01 | 2026-01-16 |

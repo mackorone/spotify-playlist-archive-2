@@ -9156,7 +9156,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 192657,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm"
@@ -9538,7 +9538,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 117053,
       "name": "Mi Chico",
       "url": "https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO"
@@ -16262,6 +16262,28 @@
       "duration_ms": 201028,
       "name": "With You",
       "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
+    },
+    {
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "album": {

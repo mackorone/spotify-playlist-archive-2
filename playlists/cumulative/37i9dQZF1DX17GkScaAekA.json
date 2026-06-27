@@ -2433,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Sonata No. 31 in A-Flat Major, Op. 110: IIIa. Adagio ma non troppo (Live at Suntory Hall, Tokyo, 2025)",
+        "url": "https://open.spotify.com/album/0Ln3MvKO6kwKHe7eVyfoxE"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mitsuko Uchida",
+          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "Piano Sonata No. 31 in A-Flat Major, Op. 110: IIIa. Adagio ma non troppo - Live at Suntory Hall, Tokyo, 2025",
+      "url": "https://open.spotify.com/track/5ScUpHFUBdzP0QFNpaGSrM"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonata No. 29 \"Hammerklavier\"; An die ferne Geliebte (Arr. Liszt)",
         "url": "https://open.spotify.com/album/5apkyGtm23mbUibaDvxSwI"
       },

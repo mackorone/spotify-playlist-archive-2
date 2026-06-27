@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,359 likes - 39 songs - 2 hr 29 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,362 likes - 41 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
 | 38 | [Heart\-shaped Eyes](https://open.spotify.com/track/3W0XKCoZbqgXrwfdEqRCI3) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Heart\-shaped Eyes](https://open.spotify.com/album/2iYIMPIfDSmVqMeJWp98g6) | 3:09 |
 | 39 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 |
+| 40 | [Summer](https://open.spotify.com/track/2jUTmPJ6YU8197buZGWc5U) | [Helvetia](https://open.spotify.com/artist/2nUbg56ljfs5oXyB1UNiY8) | [The Acrobats](https://open.spotify.com/album/5uzAsif3xMdnlwfaPNzfYx) | 5:25 |
+| 41 | [Why Do You Ask](https://open.spotify.com/track/0LFoXRQ74Z8xksGA1z9EVB) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [Northern Classic](https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr) | 4:56 |
 
-Snapshot ID: `AAAOdlHoqxBM3I0qtUbgfwGFHJAd+P1P`
+Snapshot ID: `AAAOeCiheMArCnmWS9d9JG+ePE7YxQMD`

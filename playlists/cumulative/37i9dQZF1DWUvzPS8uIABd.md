@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-1,024 songs - 2 day 3 hr 3 min
+1,024 songs - 2 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -808,6 +808,7 @@
 | [Suuria tarinoita](https://open.spotify.com/track/4ZPgBmWL0HQ87T1E8dHoHk) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suuria tarinoita](https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3) | 3:06 | 2025-01-16 | 2025-06-13 |
 | [Suutele mun silmii](https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Suutele mun silmii](https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr) | 2:25 | 2025-01-02 | 2025-02-28 |
 | [Suvi suloinen \(feat\. Faija\)](https://open.spotify.com/track/2jy9ucmnnuzCrZStpYMmL4) | [SUOMEN PELI](https://open.spotify.com/artist/27MFM28QS21aphrFWyYfdj), [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Suvi suloinen \(feat\. Faija\)](https://open.spotify.com/album/5FqIPiCEgqHjm0UEIK3cBb) | 3:06 | 2025-07-10 | 2025-08-13 |
+| [SWAG](https://open.spotify.com/track/38fVwj5ltp4sfF7Lpby8Ud) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [\#YOLO](https://open.spotify.com/album/6FyjnRVIhWbL36HfVaOkbX) | 2:00 | 2026-06-25 |  |
 | [Sweetheart \(feat\. Topi Saha\)](https://open.spotify.com/track/0raRqU2pwKRw69n0m3rGOT) | [Annika Pudas](https://open.spotify.com/artist/1UEWzQeV0TWpwFQvhIeJiA), [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Sweetheart \(feat\. Topi Saha\)](https://open.spotify.com/album/3cBuBd8Csq8AMb0m66SS9i) | 3:16 | 2026-04-02 | 2026-04-10 |
 | [Sydämel on kiire](https://open.spotify.com/track/2CjVDW5JJ4E1SOqj50QgIG) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN) | [Sydämel on kiire](https://open.spotify.com/album/7jh7qPSZie4mXWKXZOHfmg) | 2:43 | 2025-04-17 | 2025-06-27 |
 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 | 2026-02-05 | 2026-06-19 |
@@ -873,7 +874,6 @@
 | [Torille \(Amanda\)](https://open.spotify.com/track/7BI1mKphWiIELK1izr31r0) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Antero Mertaranta](https://open.spotify.com/artist/7k2IjAXssqab7nw3oAR4IH) | [Torille \(Amanda\)](https://open.spotify.com/album/2cYtXm4hUWOnyPYZrPl635) | 3:14 | 2025-04-24 | 2025-05-09 |
 | [Totuus sattuu](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-26 | 2026-04-24 |
 | [Toyboy](https://open.spotify.com/track/7MVEmgMAip0fGfOgNaRjlI) | [Herrat](https://open.spotify.com/artist/2HGPd1n5wmvFCJccRPRJ9k) | [Toyboy](https://open.spotify.com/album/5m3yIBuAo3v75o0NgSIAMT) | 3:19 | 2025-10-23 | 2025-11-05 |
-| [Track 5](https://open.spotify.com/track/38fVwj5ltp4sfF7Lpby8Ud) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [\#YOLO](https://open.spotify.com/album/6FyjnRVIhWbL36HfVaOkbX) | 0:00 | 2026-06-25 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-27 |

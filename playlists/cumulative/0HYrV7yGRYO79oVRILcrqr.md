@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-589 songs - 1 day 12 hr 39 min
+590 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Back 40](https://open.spotify.com/track/0iaNSdzQj8xsukNbny7g5Y) | [PICKLE JUICE](https://open.spotify.com/artist/02OYBGdYRGnzhcYR8AvHmS) | [The Whiteroom](https://open.spotify.com/album/5guju2jxu3skCcJqbijGHN) | 3:07 | 2026-06-16 | 2026-06-25 |
 | [Back To Echoes](https://open.spotify.com/track/24cfvqW3Y74zR82aIoOmvA) | [Alessandro Del Sole](https://open.spotify.com/artist/4RtSBm2fYcMFBpqTCKrin7) | [Back To Echoes](https://open.spotify.com/album/0tdImFUbq2HC1bmanKxaoo) | 3:18 | 2026-01-25 |  |
 | [Back to the start](https://open.spotify.com/track/3udu8nAbzIPcIxzd0vGFIu) | [Danny Burbank Music](https://open.spotify.com/artist/0G7ynrTB2fLLfshHTm1ExK), [wil bruninga](https://open.spotify.com/artist/6W39Y8jM6A71i3wrmFYSGq), [chuck lopez](https://open.spotify.com/artist/6BGoZ1lniBMWMRu5Fe1cT2) | [Back to the start](https://open.spotify.com/album/4yEUJSkoOGDZIUqCfmnM15) | 3:48 | 2025-09-29 | 2025-12-17 |
+| [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 | 2026-06-26 |  |
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-02-22 | 2026-03-18 |
 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 | 2026-04-23 | 2026-06-25 |
 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 | 2025-12-16 | 2026-04-21 |

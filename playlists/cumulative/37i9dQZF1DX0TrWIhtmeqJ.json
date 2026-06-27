@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: SINN6R",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: Pozzy, Saiming, t.o",
   "name": "We Move",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 138411,
       "name": "(Intro) imma pick you up imma",
       "url": "https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 169786,
       "name": "Antihistamine",
       "url": "https://open.spotify.com/track/1Y2UbnQCMIJQczK5gii5Bp"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 119250,
       "name": "BREAK THE LAW",
       "url": "https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw"
@@ -548,6 +548,28 @@
       "duration_ms": 155151,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/4vNPEUTDUuHx35aiLl2dEP"
+    },
+    {
+      "album": {
+        "name": "Burn It",
+        "url": "https://open.spotify.com/album/660anNnVGegng3aOR1KNFi"
+      },
+      "artists": [
+        {
+          "name": "ok",
+          "url": "https://open.spotify.com/artist/1uiGVqVPmQxy5lD8SHGAy5"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Burn It",
+      "url": "https://open.spotify.com/track/3VeE0m2gkSJNg039yK4S1a"
     },
     {
       "album": {
@@ -1682,7 +1704,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 144571,
       "name": "I can hold u",
       "url": "https://open.spotify.com/track/3pwDBitHK1Qp6t7ET5ImCE"
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 158685,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2Y0EVQZvvA16eoejvPfW12"
@@ -1988,7 +2010,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187317,
       "name": "Jump Shot",
       "url": "https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX"
@@ -2035,6 +2057,32 @@
     },
     {
       "album": {
+        "name": "RYDERHOOD 3",
+        "url": "https://open.spotify.com/album/56k9OG8hgUQf0jyFJE1Z8q"
+      },
+      "artists": [
+        {
+          "name": "Ryder",
+          "url": "https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb"
+        },
+        {
+          "name": "Ciel",
+          "url": "https://open.spotify.com/artist/3o0yzk7s3fVuGkCmaWSEA2"
+        },
+        {
+          "name": "N4T",
+          "url": "https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175985,
+      "name": "Left Side (Right Side)",
+      "url": "https://open.spotify.com/track/2WjjEeQRLCXMnbQZ6mcCHd"
+    },
+    {
+      "album": {
         "name": "LEGACY",
         "url": "https://open.spotify.com/album/480cO3M1pWRyGwxnYb0hxF"
       },
@@ -2050,6 +2098,32 @@
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/3e82RF8rwQYOpCwjLSu6gA"
+    },
+    {
+      "album": {
+        "name": "levels",
+        "url": "https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ"
+      },
+      "artists": [
+        {
+          "name": "Pozzy",
+          "url": "https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G"
+        },
+        {
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "t.o",
+          "url": "https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "levels",
+      "url": "https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in"
     },
     {
       "album": {
@@ -2329,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "No Harm",
+        "url": "https://open.spotify.com/album/0s4lWucH2UGmHl5rrysSjs"
+      },
+      "artists": [
+        {
+          "name": "Cristale",
+          "url": "https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "No Harm",
+      "url": "https://open.spotify.com/track/2XQ133QNNO2GbOsOiukvSW"
+    },
+    {
+      "album": {
         "name": "NOBLE",
         "url": "https://open.spotify.com/album/7kSO56we07fodbcyHOSCps"
       },
@@ -2423,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Old Gs at Millbrook",
+        "url": "https://open.spotify.com/album/1peRulDfaNGVT954NXowpS"
+      },
+      "artists": [
+        {
+          "name": "Moriah Mensah",
+          "url": "https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Old Gs at Millbrook",
+      "url": "https://open.spotify.com/track/0RzBYjoz2KsHAjDr8nSvft"
+    },
+    {
+      "album": {
         "name": "Hope She Hears This",
         "url": "https://open.spotify.com/album/01aAP2WJGtq3rc6JNGJHpW"
       },
@@ -2456,7 +2566,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 153600,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq"
@@ -2594,6 +2704,24 @@
       "duration_ms": 131320,
       "name": "purge",
       "url": "https://open.spotify.com/track/3GiA19bwUhxQH7CuDsfEMX"
+    },
+    {
+      "album": {
+        "name": "DREAMON",
+        "url": "https://open.spotify.com/album/2Hme0pMDpEqriJWDS1oNEe"
+      },
+      "artists": [
+        {
+          "name": "Wxterboi",
+          "url": "https://open.spotify.com/artist/544LkXoMYQUHx92BtPHRHS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/4k1E1hioBtPXmxPnx6qaRG"
     },
     {
       "album": {
@@ -3402,6 +3530,28 @@
       "duration_ms": 153802,
       "name": "Tamper",
       "url": "https://open.spotify.com/track/2Cymy83v0iB4X4rJuJcYT2"
+    },
+    {
+      "album": {
+        "name": "The Elephant In The Room",
+        "url": "https://open.spotify.com/album/14JQJ1oXfeoD03ffZfnqru"
+      },
+      "artists": [
+        {
+          "name": "Catch",
+          "url": "https://open.spotify.com/artist/1RfToIsj1AxotI31yAdJsT"
+        },
+        {
+          "name": "Young Adz",
+          "url": "https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211648,
+      "name": "Target",
+      "url": "https://open.spotify.com/track/12TuFEojfVYzPAt0cdyfad"
     },
     {
       "album": {

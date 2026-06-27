@@ -1,6 +1,6 @@
 {
   "description": "per spingere come veri gym bro e gym sis",
-  "num_followers": 372186,
+  "num_followers": 372191,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2026-05-21 23:01:22",
       "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 181545,
+      "name": "ten",
+      "url": "https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i"
+    },
+    {
+      "added_at": "2026-05-21 23:01:22",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2026-05-21 23:01:22",
-      "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 181545,
-      "name": "ten",
-      "url": "https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i"
     },
     {
       "added_at": "2026-05-21 23:01:22",
@@ -1923,22 +1923,22 @@
     {
       "added_at": "2026-05-21 23:01:22",
       "album": {
-        "name": "RYAN TED",
-        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+        "name": "VHS RAVE",
+        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 159312,
-      "name": "Hoola Hop (feat. Ernia)",
-      "url": "https://open.spotify.com/track/5JDy1S1EjyqbjvWCKjUxK6"
+      "duration_ms": 191250,
+      "name": "VHS RAVE",
+      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
     }
   ],
   "unique_name": "ADRENALINA",

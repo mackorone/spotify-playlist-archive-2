@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Radikal",
-  "num_followers": 582448,
+  "num_followers": 582522,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-06-25 21:00:39",
       "album": {
+        "name": "Aldan\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
+      },
+      "artists": [
+        {
+          "name": "S\u0131la \u015eahin",
+          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
+        },
+        {
+          "name": "Samet Karde\u015fler",
+          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Aldan\u0131r\u0131m",
+      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
+    },
+    {
+      "added_at": "2026-06-25 21:00:39",
+      "album": {
         "name": "\u015eark\u0131lar Sokaklara Ait",
         "url": "https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 154402,
       "name": "\u00dcz\u00fclmedim Ki",
       "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
-    },
-    {
-      "added_at": "2026-06-25 21:00:39",
-      "album": {
-        "name": "Aldan\u0131r\u0131m",
-        "url": "https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt"
-      },
-      "artists": [
-        {
-          "name": "S\u0131la \u015eahin",
-          "url": "https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC"
-        },
-        {
-          "name": "Samet Karde\u015fler",
-          "url": "https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Aldan\u0131r\u0131m",
-      "url": "https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo"
     },
     {
       "added_at": "2026-06-25 21:00:39",

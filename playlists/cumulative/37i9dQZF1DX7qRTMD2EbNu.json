@@ -11255,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "GuyGuy Mmienu",
+        "url": "https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134466,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y"
+    },
+    {
+      "album": {
         "name": "Me Baby (feat. AratheJay)",
         "url": "https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK"
       },
@@ -18642,24 +18660,6 @@
       "duration_ms": 122668,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv"
-    },
-    {
-      "album": {
-        "name": "GuyGuy Mmienu",
-        "url": "https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y"
     },
     {
       "album": {

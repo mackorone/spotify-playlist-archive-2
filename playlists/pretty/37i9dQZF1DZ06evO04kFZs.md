@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,451 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,466 likes - 46 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 30 | [Meet the Woo](https://open.spotify.com/track/7svGHGXAvXr68wgsZIlBlW) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50) | 2:01 |
 | 31 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 |
 | 32 | [AP \(Music from the film Boogie\) \(Original Soundtrack\)](https://open.spotify.com/track/0g7zmpC462tfLjVhdzLGcX) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [AP \(Music from the film Boogie\) \(Original Soundtrack\)](https://open.spotify.com/album/3MN7fVEK68cLhuN6ULtX5T) | 2:51 |
-| 33 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
+| 33 | [MPR](https://open.spotify.com/track/5uQCJp0Im4KKP3YfrOc844) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [MPR](https://open.spotify.com/album/0rJwuwTbToEljY5tDwXR0g) | 2:35 |
 | 34 | [Scenario](https://open.spotify.com/track/6kCXdQb0ope40wooHb8aFN) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50) | 4:01 |
-| 35 | [MPR](https://open.spotify.com/track/5uQCJp0Im4KKP3YfrOc844) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [MPR](https://open.spotify.com/album/0rJwuwTbToEljY5tDwXR0g) | 2:35 |
+| 35 | [Zoo York \(feat\. Fivio Foreign & Pop Smoke\)](https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [State of Emergency](https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw) | 3:34 |
 | 36 | [Bout A Million](https://open.spotify.com/track/4JfyaqKAw2u2smAMJpFYfp) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 3:23 |
 | 37 | [Remember](https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T) | 2:15 |
 | 38 | [100k On A Coupe](https://open.spotify.com/track/6ra0Dds8XigftgKs64R1zq) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [100k On A Coupe](https://open.spotify.com/album/05KwKSKIC05Z9KxqXRp2D5) | 1:57 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 45 | [Light It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:29 |
 | 46 | [More Time](https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:00 |
 
-Snapshot ID: `ajseAAAAAACz4XKC/5Q7qlboabvvMvMZ`
+Snapshot ID: `ajxvgAAAAABiDGFVbsoPG/HDS9IDNLPB`

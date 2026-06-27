@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 247973,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
@@ -1642,6 +1642,24 @@
       "duration_ms": 198706,
       "name": "Par Mil",
       "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+    },
+    {
+      "album": {
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
     },
     {
       "album": {

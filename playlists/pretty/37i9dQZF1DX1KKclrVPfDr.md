@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,570 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,567 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 26 | [Banal Rahe Amar Suhag](https://open.spotify.com/track/0SyhsuQ8PGJRt52qFV4oTK) | [Alka Singh Pahadiya](https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH) | [Banal Rahe Amar Suhag](https://open.spotify.com/album/1nWL4bSG5mk2Ut8eSAbGrh) | 4:28 |
 | 27 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |
 | 28 | [Suna Ho Paahun \(Lava Chhitaai\)](https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 4:09 |
-| 29 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
-| 30 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
-| 31 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
-| 32 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
+| 29 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
+| 30 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
+| 31 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
+| 32 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
 | 33 | [Shubh Vivah](https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ) | [Neelkamal Singh](https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC), [Amrita Dixit](https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH), [Antra Singh Priyanka](https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd) | [Shubh Vivah](https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA) | 12:58 |
 | 34 | [Aaiye Swagat Barat Mein Sarkaar Raur \(From "Pyar Karela Himmat Chaahi"\)](https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:53 |
 | 35 | [Baliya Baraat Jaai \(From "Nirhua Rikshawala"\)](https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD) | [Rajnish Mishra](https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO), [Rajesh Jha](https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:31 |

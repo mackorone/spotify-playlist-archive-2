@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Fimi",
-  "num_followers": 83343,
+  "num_followers": 83436,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-25 22:06:18",
       "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
-    },
-    {
-      "added_at": "2026-06-25 22:06:18",
-      "album": {
         "name": "IRON ORE",
         "url": "https://open.spotify.com/album/6EPlya7gvf30qUrScXPJQr"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2026-06-25 22:06:18",
       "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
+    },
+    {
+      "added_at": "2026-06-25 22:06:18",
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2026-06-25 22:06:18",
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
     },
     {
       "added_at": "2026-06-25 22:06:18",
@@ -867,22 +883,6 @@
       "duration_ms": 252903,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM"
-    },
-    {
-      "added_at": "2026-06-25 22:06:18",
-      "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
     },
     {
       "added_at": "2026-06-25 22:06:18",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-06-25 22:06:18",
       "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165991,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+    },
+    {
+      "added_at": "2026-06-25 22:06:18",
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 137892,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2026-06-25 22:06:18",
-      "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165991,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": "2026-06-25 22:06:18",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-06-25 22:06:18",
       "album": {
-        "name": "HOOD BOY DREAMS 2",
-        "url": "https://open.spotify.com/album/5fMGQzPbvDkF8gQTMgGZfg"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "TEN STREET COMMANDMENT",
-      "url": "https://open.spotify.com/track/1AGbjWGPkFqxdKBsVG6oN6"
-    },
-    {
-      "added_at": "2026-06-25 22:06:18",
-      "album": {
         "name": "Beretta 92",
         "url": "https://open.spotify.com/album/5XnKMN3CzQ2lZtPbjmo0iL"
       },
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2026-06-25 22:06:18",
       "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 131592,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
-    },
-    {
-      "added_at": "2026-06-25 22:06:18",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/2QYYnJslX1DOik4DBskOV1"
       },
@@ -1335,6 +1303,38 @@
       "duration_ms": 179961,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/4c7tC5eg31bBezb76301Xt"
+    },
+    {
+      "added_at": "2026-06-25 22:06:18",
+      "album": {
+        "name": "HOOD BOY DREAMS 2",
+        "url": "https://open.spotify.com/album/5fMGQzPbvDkF8gQTMgGZfg"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "TEN STREET COMMANDMENT",
+      "url": "https://open.spotify.com/track/1AGbjWGPkFqxdKBsVG6oN6"
+    },
+    {
+      "added_at": "2026-06-25 22:06:18",
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 131592,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
     }
   ],
   "unique_name": "Naija Bars ",

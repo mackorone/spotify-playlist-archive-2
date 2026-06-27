@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. ROBI en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. DANNA y El Malilla en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149931,
       "name": "(todo lo que haces para no acordarte de mi)",
       "url": "https://open.spotify.com/track/1LSZR83twS1UYcydCYzx9E"
@@ -13125,6 +13125,24 @@
     },
     {
       "album": {
+        "name": "Otro Cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/0QCB3aF4ABfpm7oqGpaKVp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Otro Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6NtUqkWvw9oemFVi2q7dKz"
+    },
+    {
+      "album": {
         "name": "Otro Mood",
         "url": "https://open.spotify.com/album/02kufg8vQsGs63dvpyKYcX"
       },
@@ -15797,6 +15815,28 @@
     },
     {
       "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
+    },
+    {
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -16636,7 +16676,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 213952,
       "name": "Te Lo Advert\u00ed - Desde Abbey Road",
       "url": "https://open.spotify.com/track/4KwR77O9Yld5rHkkv2nbib"

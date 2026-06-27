@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Black Dog Rabbit Hole",
+        "url": "https://open.spotify.com/album/3TbkHwgeg6cnKDugwWi9Ax"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200356,
+      "name": "Black Dog Rabbit Hole",
+      "url": "https://open.spotify.com/track/49CEYpkyy7TCaG6cLWwqxm"
+    },
+    {
+      "album": {
         "name": "Black Gold",
         "url": "https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j"
       },
@@ -4221,6 +4239,28 @@
     },
     {
       "album": {
+        "name": "Manic Depression",
+        "url": "https://open.spotify.com/album/2GYHjdCpvmoY35YmQxm1Es"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251911,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/6d1P9nP8GD8lHp5510nOwQ"
+    },
+    {
+      "album": {
         "name": "Meet Me in the Bottom / Friends",
         "url": "https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5"
       },
@@ -4910,7 +4950,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 242933,
       "name": "One Thing I Feared",
       "url": "https://open.spotify.com/track/5q6lNs2xlM8OTcM9ipZ46M"
@@ -4928,7 +4968,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 243697,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS"
@@ -5556,6 +5596,24 @@
       "duration_ms": 188065,
       "name": "Scorned",
       "url": "https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW"
+    },
+    {
+      "album": {
+        "name": "Send for me",
+        "url": "https://open.spotify.com/album/2JWlYarFHOLygAB9RSHFCE"
+      },
+      "artists": [
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Send for me",
+      "url": "https://open.spotify.com/track/7tIftL6W9alpfkDIhSld77"
     },
     {
       "album": {
@@ -6990,7 +7048,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 207003,
       "name": "Too Much Is Never Too Much",
       "url": "https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI"

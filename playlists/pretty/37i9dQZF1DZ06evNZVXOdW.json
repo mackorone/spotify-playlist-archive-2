@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9624,
+  "num_followers": 9626,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADOfAeE30QBVn98ZnzMqEqn",
+  "snapshot_id": "ajxvgAAAAACsMrYpCV1H7PtjLteMqLvw",
   "tracks": [
     {
       "added_at": null,
@@ -362,15 +362,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Chocolate Genius Incorporated",
-          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 256846,
-      "name": "Zameen (feat. Chocolate Genius Incorporated)",
-      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
     },
     {
       "added_at": null,
@@ -434,11 +430,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Chocolate Genius Incorporated",
+          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 256846,
+      "name": "Zameen (feat. Chocolate Genius Incorporated)",
+      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
     },
     {
       "added_at": null,

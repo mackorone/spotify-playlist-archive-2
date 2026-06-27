@@ -5627,6 +5627,32 @@
     },
     {
       "album": {
+        "name": "Red In The Desert (Joseph Capriati Remix)",
+        "url": "https://open.spotify.com/album/08zh77lOlw5plQeNs8tAz9"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        },
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Red In The Desert - Joseph Capriati Remix",
+      "url": "https://open.spotify.com/track/2s65MIW86O3HQqMSisJUe6"
+    },
+    {
+      "album": {
         "name": "Red Wedding",
         "url": "https://open.spotify.com/album/2iyr07RGqSkTHIT5BI0Rvq"
       },

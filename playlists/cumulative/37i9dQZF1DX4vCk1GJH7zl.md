@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capsula
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Colomy, Peter Buck
 
-237 songs - 14 hr 10 min
+238 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Pensando Bem](https://open.spotify.com/track/2hzv2fq86gwMSR3ppsvyJ5) | [Drenna](https://open.spotify.com/artist/7Km2oqSGqY9nTSnyY4QVyf) | [Cisne Negro](https://open.spotify.com/album/2d6HKeQ9TVtHFjrWnrMO9n) | 3:25 | 2023-08-25 | 2023-11-11 |
 | [Pequenas Coisas](https://open.spotify.com/track/2sfKGR8005yI04id52i70p) | [Daniel Lima](https://open.spotify.com/artist/3y08WX6dvJRofhXVXnQ3Lo), [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO) | [Pequenas Coisas](https://open.spotify.com/album/6ZjnmO1ErxLMwSQcteDnV2) | 4:41 | 2023-09-29 | 2024-06-29 |
 | [Perdido em Pensamentos \- Ao Vivo](https://open.spotify.com/track/2RR0hIgmyepYrhbvrLHMBz) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Acústico Kamaitachi \(Ao Vivo\)](https://open.spotify.com/album/0P4l2RFeCHWe5F27joSY2r) | 2:53 | 2025-09-26 | 2025-12-19 |
-| [Poema](https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Trio Ao Vivo no Teatro Alcione Araújo](https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS) | 2:50 | 2023-12-01 |  |
+| [Poema](https://open.spotify.com/track/6luoCgnBDkY7I7FBkexp1s) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Frejat Trio Ao Vivo no Teatro Alcione Araújo](https://open.spotify.com/album/26tTDgDlnMje9hWOuLHfdS) | 2:50 | 2023-12-01 | 2026-06-27 |
 | [Por Enquanto \- Ao Vivo](https://open.spotify.com/track/3H2oROvmrOu4hnf3Xv7pjU) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Capital Inicial Multishow \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS) | 4:14 | 2023-08-25 |  |
 | [Por Que Você Me Trata Assim?](https://open.spotify.com/track/29oGHO3PXrpHEjosASg9yr) | [Thelfos](https://open.spotify.com/artist/6wm3X6FY2usjwXhCdUCWk7) | [Inferno Particular](https://open.spotify.com/album/6ZktaztaNfDKU6VIRYbtne) | 3:25 | 2023-07-21 | 2024-01-13 |
 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/1RxAzmAuN6KldKrMeVKkf2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Acústico MTV](https://open.spotify.com/album/2zu9De5vcXBYGg0X9g5LV8) | 3:42 | 2023-07-21 | 2025-02-15 |
@@ -186,6 +186,7 @@
 | [Renata](https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Renata](https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI) | 2:50 | 2023-11-10 | 2024-06-22 |
 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 | 2024-06-28 | 2026-05-22 |
 | [Rua do Gasômetro](https://open.spotify.com/track/2IYnSM1Qdc5AKRoIUbAMaz) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Rua do Gasômetro](https://open.spotify.com/album/1uINhoxHdGsJeMREnGk4Px) | 3:39 | 2023-12-15 | 2024-03-16 |
+| [Rádio](https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Rádio](https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH) | 3:22 | 2026-06-26 |  |
 | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/track/0s0xqCwSN9dpouDr06i1eg) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/album/0PuCQoxexvLuUa2Ku1wbTM) | 4:01 | 2024-04-05 | 2024-04-27 |
 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-28 | 2025-05-17 |
 | [Se Você Quiser Voltar](https://open.spotify.com/track/0WCDkJYGEZfMKhVvEAsCeU) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ), [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [Se Você Quiser Voltar](https://open.spotify.com/album/4Na3ea1iiGnAmWQTVDbnTg) | 3:24 | 2023-08-25 | 2023-09-30 |

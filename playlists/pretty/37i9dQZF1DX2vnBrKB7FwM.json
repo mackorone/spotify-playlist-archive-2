@@ -1,13 +1,33 @@
 {
   "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Penyair",
-  "num_followers": 63955,
+  "num_followers": 63976,
   "original_name": "RAP\u00fablica de Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH6YXeeuKERvxDelmGcc/ujPrqfF",
+  "snapshot_id": "AAAAAOJQEVe5Tk+hPwkZ7c6uQYkycSYG",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:59:09",
+      "album": {
+        "name": "Bluzz",
+        "url": "https://open.spotify.com/album/1rWBQLisHHWNCd9AMWsqEV"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        }
+      ],
+      "duration_ms": 169887,
+      "name": "Bluzz",
+      "url": "https://open.spotify.com/track/7dhkR65sPVPYCEgtyPPbk8"
+    },
     {
       "added_at": "2026-06-12 04:59:15",
       "album": {

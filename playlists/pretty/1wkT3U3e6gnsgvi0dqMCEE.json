@@ -6,8 +6,104 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADxkiy+BdmZIcIODeIjZnrdvwBYqSr",
+  "snapshot_id": "AAAD1MUJb7sMQ3ShjedOQHjMmoQ1R5Ls",
   "tracks": [
+    {
+      "added_at": "2026-06-26 13:12:54",
+      "album": {
+        "name": "Little Bones/It's A Good Life If You Don't Weaken (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/2MbKU2dYv0P7DzWpZM7orO"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 307893,
+      "name": "Little Bones - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/2hjObvvnDrRM1iFVrIG0eq"
+    },
+    {
+      "added_at": "2026-06-26 13:13:02",
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+    },
+    {
+      "added_at": "2026-06-26 13:14:51",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/6eyIR3bP3r3YG40DnyTyHc"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 230148,
+      "name": "Just As Bad As You",
+      "url": "https://open.spotify.com/track/3PpfemA3nLeG2ZMdWiFyiC"
+    },
+    {
+      "added_at": "2026-06-26 13:16:56",
+      "album": {
+        "name": "Little Bones/It's A Good Life If You Don't Weaken (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/2MbKU2dYv0P7DzWpZM7orO"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "It\u2019s A Good Life If You Don\u2019t Weaken - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/5ZS9998dQe1kzKSnYLpT4U"
+    },
+    {
+      "added_at": "2026-06-26 13:14:14",
+      "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/3G0opOaCnaNM1GooutYDOp"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/1CDzAsGH7q4N2eCBfuAKID"
+    },
+    {
+      "added_at": "2026-06-26 13:14:22",
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/3KWoMQxS2OgIqXiQ8umBbk"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "duration_ms": 231351,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/6Ot94bjY2Fx4WcGDo2FcoC"
+    },
     {
       "added_at": "2026-05-15 10:15:04",
       "album": {
@@ -127,6 +223,22 @@
       "duration_ms": 219582,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q"
+    },
+    {
+      "added_at": "2026-06-26 13:16:32",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2026-06-12 15:57:36",

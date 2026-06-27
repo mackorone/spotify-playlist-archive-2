@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,072 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,075 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 40 | [Acicálame](https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO) | [Flacø](https://open.spotify.com/artist/2MP4Sye1CkjSzki8eqG1ub), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Acicálame](https://open.spotify.com/album/0l81vXuYP8EdwIjXG2YYrW) | 3:55 |
 | 41 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/4kWoY4UAagOKJosGwp1gXh), [Duplat](https://open.spotify.com/artist/3orjHoBsxIdDBxsx95OW6d) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
 | 42 | [Lagrimas derramadas](https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [HAT](https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Lagrimas derramadas](https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA) | 3:20 |
-| 43 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
-| 44 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
+| 43 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
+| 44 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
 | 45 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 46 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
 | 47 | [California](https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv) | [Nunca Fuimos Listos](https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T) | [California](https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I) | 3:51 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 52 | [En Otro Jardín X\(](https://open.spotify.com/track/2viqKpMbOfAH2lwHLsRYJG) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [En Otro Jardín X\(](https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao) | 2:17 |
 | 53 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 |
 | 54 | [Frágilmente](https://open.spotify.com/track/501PDMrVTyjxwJMPWItWK9) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Frágilmente](https://open.spotify.com/album/3Rl6qflmwxWIe8jtXN5zl1) | 3:37 |
-| 55 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
-| 56 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 |
+| 55 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 |
+| 56 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
 | 57 | [Natural](https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q), [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [FASES](https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN) | 2:59 |
 | 58 | [Nada Que Perder](https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Nada Que Perder](https://open.spotify.com/album/4Jx1Ktxmbhn0mk5a2hGjoQ) | 3:19 |
 | 59 | [los pies](https://open.spotify.com/track/3hZ20RZMCSjJfRdoyUVncW) | [Mina con N](https://open.spotify.com/artist/1hFYEvNr5V7JBuqxznqpm7), [Lorenzo Engell](https://open.spotify.com/artist/5w5VigociNIme6JiUUGkgN) | [los pies](https://open.spotify.com/album/5DudjWk6xe6rJVTQpD2IIl) | 3:06 |

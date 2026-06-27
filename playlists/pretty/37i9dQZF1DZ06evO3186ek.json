@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABwtS1WAKSASn/rK32zE2zA",
+  "snapshot_id": "ajxvgAAAAABNTsRywtOF0wDsDXDI3g2Q",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Name of Jesus (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Was Made To Glorify Your Name",
-        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
+        "name": "Instrumental Worship Collection",
+        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
       "artists": [
         {
@@ -600,13 +600,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Hindrix Brown",
-          "url": "https://open.spotify.com/artist/0MKSEV762KVJJXueLFnQut"
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        },
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        },
+        {
+          "name": "Calm Worship Collective",
+          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 202671,
-      "name": "RUN 2 U",
-      "url": "https://open.spotify.com/track/2PtFjEZQgKYaei2JsCU8xJ"
+      "duration_ms": 226773,
+      "name": "Worthy Of It All - Instrumental Worship",
+      "url": "https://open.spotify.com/track/01inNw5R0q2qDZrktc0qUG"
     },
     {
       "added_at": null,
@@ -635,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Was Made To Glorify Your Name",
+        "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Hindrix Brown",
+          "url": "https://open.spotify.com/artist/0MKSEV762KVJJXueLFnQut"
+        }
+      ],
+      "duration_ms": 202671,
+      "name": "RUN 2 U",
+      "url": "https://open.spotify.com/track/2PtFjEZQgKYaei2JsCU8xJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Made A Way",
         "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
       },
@@ -655,34 +683,6 @@
       "duration_ms": 150038,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/2Bkh2dlIHqSbPbJhlja3xw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumental Worship Collection",
-        "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "The Prayer Project",
-          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
-        },
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        },
-        {
-          "name": "Calm Worship Collective",
-          "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Worthy Of It All - Instrumental Worship",
-      "url": "https://open.spotify.com/track/01inNw5R0q2qDZrktc0qUG"
     },
     {
       "added_at": null,
@@ -943,34 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Hold It All Together",
-        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 449704,
-      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
-      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumental Worship Collection",
         "url": "https://open.spotify.com/album/7oW8IhvJpVd4efpomMxptQ"
       },
@@ -995,6 +967,34 @@
       "duration_ms": 262304,
       "name": "I Speak Jesus - Instrumental Worship",
       "url": "https://open.spotify.com/track/1SC5WvC4xqYGKQTgRusjq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 449704,
+      "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
+      "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
     },
     {
       "added_at": null,

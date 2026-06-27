@@ -460,7 +460,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 213024,
       "name": "Detour",
       "url": "https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn"
@@ -2240,6 +2240,24 @@
       "duration_ms": 241466,
       "name": "Smother",
       "url": "https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/55ddvvJjo9AtQfLo5V6RSf"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "date_added": "2024-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275226,
+      "name": "Song For Zula - Live From Spotify London",
+      "url": "https://open.spotify.com/track/362LzQDbfNdZDuv37BIEkG"
     },
     {
       "album": {

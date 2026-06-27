@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sweet. sharp. unbothered - INJI on the cover",
+  "description": "sweet. sharp. unbothered - Bella Poarch on the cover",
   "name": "SALT",
   "tracks": [
     {
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 184186,
       "name": "Better Than a Man",
       "url": "https://open.spotify.com/track/7dRrGnxYlWuaOukJRSlE2C"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178512,
       "name": "BLUR",
       "url": "https://open.spotify.com/track/4r7SDPszEcnEPnyc5FURj8"
@@ -5311,6 +5311,24 @@
     },
     {
       "album": {
+        "name": "heartcore",
+        "url": "https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180177,
+      "name": "E-MOTION",
+      "url": "https://open.spotify.com/track/47jmrl8NmxEv2bPML9E8IW"
+    },
+    {
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power",
         "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
       },
@@ -6852,6 +6870,24 @@
       "duration_ms": 186462,
       "name": "god sent me as karma",
       "url": "https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3"
+    },
+    {
+      "album": {
+        "name": "SHE IS herCULES",
+        "url": "https://open.spotify.com/album/7mznu4HTr6liGB7QMrAM6y"
+      },
+      "artists": [
+        {
+          "name": "herCULES",
+          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140388,
+      "name": "GOD'S FAVORITE",
+      "url": "https://open.spotify.com/track/701Ti7VhAddNs8HtYEfAfU"
     },
     {
       "album": {
@@ -8682,6 +8718,24 @@
       "duration_ms": 239154,
       "name": "I Dated A Monster",
       "url": "https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK"
+    },
+    {
+      "album": {
+        "name": "I DON'T LIKE YOU",
+        "url": "https://open.spotify.com/album/3YeED48niwqqRwnnK3H8Hh"
+      },
+      "artists": [
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146087,
+      "name": "I DON'T LIKE YOU",
+      "url": "https://open.spotify.com/track/1bPX434rtJb556MIkQt6mi"
     },
     {
       "album": {
@@ -10606,7 +10660,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168292,
       "name": "Liplock",
       "url": "https://open.spotify.com/track/6QtPL3JS0S9dwQD8u8eDP8"
@@ -11889,6 +11943,24 @@
     },
     {
       "album": {
+        "name": "Miss Misfortunately",
+        "url": "https://open.spotify.com/album/4JNe6LQPMjKvWPAZW7yJlG"
+      },
+      "artists": [
+        {
+          "name": "gracie",
+          "url": "https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243037,
+      "name": "Miss Misfortunately",
+      "url": "https://open.spotify.com/track/5lB1flA93G6OiJFNBR1uE3"
+    },
+    {
+      "album": {
         "name": "The Misunderstood EP",
         "url": "https://open.spotify.com/album/6Ep6pTjB74CbL3yiaTzikT"
       },
@@ -12293,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/4bLThdUFHWgOgT0mjzp4Bz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149869,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/3iecnkddipTVKwQdxz41FW"
+    },
+    {
+      "album": {
         "name": "MY EX FRIEND",
         "url": "https://open.spotify.com/album/24D3RIz4fTgrNy1UwJhlxe"
       },
@@ -12488,6 +12578,24 @@
       "duration_ms": 121183,
       "name": "Never Dated You",
       "url": "https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv"
+    },
+    {
+      "album": {
+        "name": "Next Girl",
+        "url": "https://open.spotify.com/album/2rsNNclb3rLNdFgbrcSVRN"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133695,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/04nNCAclZY6SkkhAsyZvrg"
     },
     {
       "album": {
@@ -13362,7 +13470,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187289,
       "name": "Party girls don't cry",
       "url": "https://open.spotify.com/track/4HlsJHl0NgI6ogjBqp32On"
@@ -14708,7 +14816,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 180347,
       "name": "Ribcage",
       "url": "https://open.spotify.com/track/7d89dqmZGIqYmybxPEYywJ"
@@ -17578,7 +17686,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149137,
       "name": "The Kill (From the Original Motion Picture \"Scream 7\")",
       "url": "https://open.spotify.com/track/29rXj5xHh7tGAA8H5Zqrxy"

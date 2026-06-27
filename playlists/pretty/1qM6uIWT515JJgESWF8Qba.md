@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 489 likes - 69 songs - 4 hr 22 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 492 likes - 72 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 67 | [No More](https://open.spotify.com/track/5AKRusRRZE5YoUkF0XwyGk) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [No More](https://open.spotify.com/album/14v5mbH2aXizw2tslxpDfn) | 3:19 |
 | 68 | [Bad Medicine](https://open.spotify.com/track/5Cpj9SqRd6tON7qOQIYQhy) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Bad Medicine](https://open.spotify.com/album/418PEdXOglBn0sDniDXMdf) | 2:16 |
 | 69 | [What Remains](https://open.spotify.com/track/4oMM9SF5TYscNNN8KHoslX) | [RABBiTHOLE](https://open.spotify.com/artist/5c9jIapeSPaUgi0M1iB6Mi) | [What Remains](https://open.spotify.com/album/6n6yJgKlDj3QKNvuGshOo7) | 3:49 |
+| 70 | [Forage For Porridge](https://open.spotify.com/track/04XrtXFB2uDOMhP12V5bZT) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [Last Woman Left At The Market](https://open.spotify.com/album/5QwDMazOp31hcNanUG7MCx) | 4:09 |
+| 71 | [Happy Lonely](https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n) | [Becky Crosby](https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz) | [Happy Lonely](https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E) | 3:06 |
+| 72 | [Dirty Halo](https://open.spotify.com/track/2XIUFJZjZvVh927O5qSLHs) | [The Buzzos](https://open.spotify.com/artist/5s0aZOqX6T1mHkK2uPtvKQ) | [Survival](https://open.spotify.com/album/7zDDjOLKVuRDMC1OpTYvei) | 4:06 |
 
-Snapshot ID: `AAAB87UUjxQguL20CJOrk+HF0FKIytQM`
+Snapshot ID: `AAAB9k9US5FLETDPh+8B733q1Y12nekJ`

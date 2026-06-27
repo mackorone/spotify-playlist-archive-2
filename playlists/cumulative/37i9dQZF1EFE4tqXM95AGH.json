@@ -3034,7 +3034,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 288266,
       "name": "Open Book",
       "url": "https://open.spotify.com/track/0qHcXbKygBssRpTYHxzJ2W"
@@ -3056,6 +3056,24 @@
       "duration_ms": 288266,
       "name": "Open Book",
       "url": "https://open.spotify.com/track/0u9EMAFCKDIwiSS2wGLk0K"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/7Kgb5OL8ERXGxgC24eh5OY"
+      },
+      "artists": [
+        {
+          "name": "Jacob Whitesides",
+          "url": "https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288266,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/1R1PYPEvYasgYBjmRjkHKE"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375233,
+  "num_followers": 375249,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAA8/8l25tOrX4x+bMbeffiF",
+  "snapshot_id": "ajxvgAAAAAAGvqlIkeOZIvGbxvi+2Qgv",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Rio",
-        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 129639,
-      "name": "Brazilian Rhyme",
-      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live in Rio",
+        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 129639,
+      "name": "Brazilian Rhyme",
+      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -439,26 +439,6 @@
       "duration_ms": 235140,
       "name": "Love Music",
       "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Want My Love",
-        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "You Want My Love",
-      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
       "added_at": null,
@@ -479,6 +459,26 @@
       "duration_ms": 222400,
       "name": "September '99 - Phats & Small Remix",
       "url": "https://open.spotify.com/track/6Z6my7Cpi5BongU2fsY96l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Want My Love",
+        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "You Want My Love",
+      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+        "name": "Babel - Music From And Inspired By The Motion Picture",
+        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 277543,
-      "name": "I've Had Enough",
-      "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
+      "duration_ms": 389973,
+      "name": "September/The Joker",
+      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel - Music From And Inspired By The Motion Picture",
-        "url": "https://open.spotify.com/album/3oHysLqzr30LVkciv5idom"
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 389973,
-      "name": "September/The Joker",
-      "url": "https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O"
+      "duration_ms": 277543,
+      "name": "I've Had Enough",
+      "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
     },
     {
       "added_at": null,

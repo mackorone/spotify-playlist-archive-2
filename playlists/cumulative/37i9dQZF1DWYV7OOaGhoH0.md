@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Allison Russell
+> The best in folk & acoustic today featuring music from Ethan Regan
 
-856 songs - 2 day 4 hr 43 min
+859 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Dust](https://open.spotify.com/track/4ts0um3KEZwZNPkz7LAGq9) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dust](https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy) | 5:02 | 2022-02-25 | 2022-04-02 |
 | [Dust](https://open.spotify.com/track/6sA8vdkzv693nFHrfR7DZk) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Dust](https://open.spotify.com/album/5f0YEgUKxFekMSXXxQkKAH) | 5:02 | 2022-04-01 | 2023-02-04 |
 | [Dyan](https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Dyan](https://open.spotify.com/album/5rgmHYbqXbu6pJsQp1uRlv) | 2:38 | 2021-12-10 | 2022-06-04 |
+| [each man has got a bullet](https://open.spotify.com/track/7AKQaChEENrHqW2Fo1v9Bz) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [YOUNG REGAN](https://open.spotify.com/album/7odkdCGZcEFevFilZZIjn9) | 2:36 | 2026-06-26 |  |
 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 | 2025-05-23 | 2026-02-21 |
 | [Easy Target](https://open.spotify.com/track/6C3eUX2nv5lZWBPYHZIe9E) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Easy Target](https://open.spotify.com/album/4m73ABi1nqvgxQqtIMY3yS) | 2:40 | 2022-03-25 | 2022-06-11 |
 | [El Invento](https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 2:33 | 2021-12-10 | 2022-03-26 |
@@ -767,6 +768,7 @@
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2022-04-15 | 2023-03-25 |
 | [Tongue Tied](https://open.spotify.com/track/3xXpLxoBD0x5QglLcRrBto) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Tongue Tied](https://open.spotify.com/album/6qaa92H8qSXZXrJy5rXPNh) | 2:26 | 2025-07-25 |  |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-08 | 2024-03-16 |
+| [Too Young to Die](https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Too Young to Die](https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r) | 3:53 | 2026-06-26 |  |
 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 | 2023-06-30 | 2024-03-23 |
 | [too young to die](https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [too young to die](https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU) | 4:34 | 2023-06-23 | 2023-07-02 |
 | [toothache](https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [toothache](https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4) | 3:28 | 2024-09-27 | 2025-03-15 |
@@ -798,6 +800,7 @@
 | [Vini Wè](https://open.spotify.com/track/15k4qMUlrAfEyuQILWe110) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [Vini Wè](https://open.spotify.com/album/05sG8hbCEVtuHbtoA2QdYr) | 4:34 | 2022-02-25 | 2022-07-23 |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 | 2022-02-11 | 2022-04-29 |
 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/3dDaJo3QS9Bohk8wrG5Pvv) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:25 | 2022-04-29 | 2023-04-29 |
+| [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-26 |  |
 | [Wait for You](https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/53ppopomnHhYNNftYvyImu) | 3:13 | 2021-12-10 | 2022-06-18 |
 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 | 2026-02-27 |  |
 | [Walk Above the City \(feat\. MARO\)](https://open.spotify.com/track/6qRIH2KDx2NW81J2PR5Lke) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Walk Above the City \(feat\. MARO\)](https://open.spotify.com/album/437GKySGOeGJ223PSQLQ6K) | 4:00 | 2021-12-10 | 2022-06-18 |

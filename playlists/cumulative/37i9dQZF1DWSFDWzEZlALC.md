@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BIBIZA
 
-1,848 songs - 3 day 15 hr 1 min
+1,849 songs - 3 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,6 +353,7 @@
 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 | 2025-10-23 | 2026-01-30 |
 | [Denkmal](https://open.spotify.com/track/58zHoX9U5VlSXLUUmWTfe2) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Die Reklamation](https://open.spotify.com/album/3q6f8bwF1ZWxTGvS0veYi3) | 3:17 | 2024-02-13 | 2024-02-16 |
 | [Denkst du noch an mich?](https://open.spotify.com/track/4Sy4s75ZIslof3ggwq6ekC) | [Tom Blanc](https://open.spotify.com/artist/1ZGjNQCPK5Rl7D5u1kbXc3) | [Denkst du noch an mich?](https://open.spotify.com/album/2yLIMYSgBUzCTmV0zLbJhp) | 2:25 | 2024-12-05 | 2024-12-20 |
+| [der beste sommer meines lebens](https://open.spotify.com/track/6HXx5dApSjHU2Y0clXM8eQ) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [der beste sommer meines lebens](https://open.spotify.com/album/0k5PqjWO0skt1qcxWuQfHk) | 2:56 | 2026-06-26 |  |
 | [der Himmel brennt in Europa](https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [der Himmel brennt in Europa](https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X) | 3:25 | 2025-11-06 | 2026-02-06 |
 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 | 2026-01-15 | 2026-02-13 |
 | [Der letzte Dinosaurier](https://open.spotify.com/track/6idLijwCv8gn4fAUTwOsSO) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Der letzte Dinosaurier](https://open.spotify.com/album/11o9d9xQ2JbXICrxe9yuKp) | 2:37 | 2024-06-20 | 2024-07-05 |

@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 245648,
       "name": "A Portrait of Jennie",
       "url": "https://open.spotify.com/track/0qQLT0KMCGpDl8JMoPAgwT"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 273676,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/0HO7e0ehTVAHNc6PqEJyKj"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 149853,
       "name": "Balkis",
       "url": "https://open.spotify.com/track/50r8xQYk7Gyo4N9mnguBWJ"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 340760,
       "name": "Deep in a Dream",
       "url": "https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 213431,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6RXt3afBywNDfc6qKFZKRm"
@@ -5110,7 +5110,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 305977,
       "name": "Penelope",
       "url": "https://open.spotify.com/track/2HeCmF80vTyRHBOVf1pc22"
@@ -5821,6 +5821,32 @@
     },
     {
       "album": {
+        "name": "Centenary Coltrane (Ballads for Meditation)",
+        "url": "https://open.spotify.com/album/2Hk5RSUNs04Kx0kBIPcHa3"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Rune Fog-Nielsen",
+          "url": "https://open.spotify.com/artist/1JD8w4EbJ1vtpNnDkmT6go"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270263,
+      "name": "Soul Eyes",
+      "url": "https://open.spotify.com/track/4Qr7Wt9udMVHENqRnUoTa1"
+    },
+    {
+      "album": {
         "name": "European Quartet",
         "url": "https://open.spotify.com/album/1aeuJphtfTGTAjnW5oX5Fu"
       },
@@ -6320,6 +6346,24 @@
       "duration_ms": 341666,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/3wPZVnOScmpbn6JkWJxi3S"
+    },
+    {
+      "album": {
+        "name": "The Midnight Sun Will Never Set",
+        "url": "https://open.spotify.com/album/4ALAnzbSdg4U2HfNzhXqTo"
+      },
+      "artists": [
+        {
+          "name": "Rasmus H Thomsen Trio",
+          "url": "https://open.spotify.com/artist/5Ep05EOVNYVc5b5trOuDI1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194850,
+      "name": "The Midnight Sun Will Never Set",
+      "url": "https://open.spotify.com/track/5tzsryoAEdVKmNcgrrinsS"
     },
     {
       "album": {
@@ -6852,7 +6896,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 325586,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2"
@@ -6870,7 +6914,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 318000,
       "name": "Tutto",
       "url": "https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk"

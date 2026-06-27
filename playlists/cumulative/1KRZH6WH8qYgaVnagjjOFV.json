@@ -2430,10 +2430,32 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 171612,
       "name": "Lord It Feels Good",
       "url": "https://open.spotify.com/track/3myYQwCxhcHbX1mASCXPgn"
+    },
+    {
+      "album": {
+        "name": "Heaven On My Mind (Guest List Edition)",
+        "url": "https://open.spotify.com/album/0rRNnqI6YHTdLW4htwJz6U"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171621,
+      "name": "Lord It Feels Good (with gio.)",
+      "url": "https://open.spotify.com/track/361XvZ74ZV7iS1L7M12Ehs"
     },
     {
       "album": {

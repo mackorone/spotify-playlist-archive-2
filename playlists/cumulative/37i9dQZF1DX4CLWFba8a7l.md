@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: The Avalanches
 
-666 songs - 1 day 13 hr 14 min
+667 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Isso](https://open.spotify.com/track/0IKjSt4MiTBvC0ogVKgBJC) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [MC Pânico](https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr) | [Isso](https://open.spotify.com/album/0hyAgPcABjcgMCV7WNw1E3) | 3:12 | 2025-05-15 | 2025-05-23 |
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2024-12-06 |
 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 | 2026-06-18 |
+| [It's Kinda Hot](https://open.spotify.com/track/71fNiEeFDm4jNuk15rh4Wf) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [It's Kinda Hot](https://open.spotify.com/album/5pCdGf426pZVgJTrSjRWxs) | 2:37 | 2026-06-26 |  |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-03-12 | 2026-04-16 |
 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 | 2026-06-26 |
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |
@@ -432,7 +433,7 @@
 | [Our Greats](https://open.spotify.com/track/4Uf9Ssmbrvdw7ZUaJgblNo) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg) | [Our Greats](https://open.spotify.com/album/2p2GX5ISOGv4JRg7GJoapg) | 3:45 | 2025-07-03 | 2025-07-11 |
 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-15 | 2024-11-21 |
 | [Outdone](https://open.spotify.com/track/24CtTaRliBIACacaUxHIwO) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/7cAXOEbTaUQTwTDoKk1ACY) | 3:35 | 2026-01-15 | 2026-01-23 |
-| [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-22 |  |
+| [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-22 | 2026-06-27 |
 | [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 | 2026-02-05 | 2026-03-14 |
 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 | 2026-05-20 |
 | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI) | 2:55 | 2025-05-29 | 2025-06-06 |

@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tontons Franglish et KeBlack.
 
-762 songs - 1 day 18 hr 39 min
+763 songs - 1 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Afsana](https://open.spotify.com/track/0Ms0rronIijW3ngbCOtRlB) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 4:47 | 2022-12-16 | 2023-07-01 |
 | [Ah mon bébé](https://open.spotify.com/track/27fF4VChLqJYRhjmQ9EGKL) | [Ntaba 2 London](https://open.spotify.com/artist/0J1OPojYoKeyRGscpWrwPy) | [Ah mon bébé](https://open.spotify.com/album/4y2gqiUF1t49bKYXKqeZxR) | 3:00 | 2025-04-25 | 2025-07-05 |
 | [Allo](https://open.spotify.com/track/2aOCcxLfLXUvDra9KuDkaa) | [Rockia Chelle](https://open.spotify.com/artist/1ZrT53sSLbDhxz7QVnisBo), [Fanicko](https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p) | [Allo](https://open.spotify.com/album/5gnoiVpxA1Y4bJIZ2oNpYL) | 3:19 | 2024-04-05 | 2024-07-27 |
-| [Altress \(feat\. Michka Ngandu\)](https://open.spotify.com/track/4AGwo7ic94ivqnWjJqK8Es) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [Michka Ngandu](https://open.spotify.com/artist/3qFeHoCe0aXn9E3dQdCAzv) | [Altress \(feat\. Michka Ngandu\)](https://open.spotify.com/album/5z6dcaHQThY8PY98r7GfyO) | 6:05 | 2026-06-19 |  |
+| [Altress \(feat\. Michka Ngandu\)](https://open.spotify.com/track/4AGwo7ic94ivqnWjJqK8Es) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [Michka Ngandu](https://open.spotify.com/artist/3qFeHoCe0aXn9E3dQdCAzv) | [Altress \(feat\. Michka Ngandu\)](https://open.spotify.com/album/5z6dcaHQThY8PY98r7GfyO) | 6:05 | 2026-06-19 | 2026-06-27 |
 | [ALWAYS](https://open.spotify.com/track/6Wkoz5kAWOTIHewXzn9srF) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [ALWAYS](https://open.spotify.com/album/5M3zUxFgRlneZtiEXGuKYe) | 2:52 | 2024-04-05 | 2024-05-11 |
 | [Amani Bombe](https://open.spotify.com/track/7qGZsPHy5NAkvtNeet3GXk) | [Huguette Tolinga](https://open.spotify.com/artist/13gEoV3xYprWdVPCSznG1O) | [Amani Bombe](https://open.spotify.com/album/7mrSqIQMuLxX6OQmYaT7kL) | 3:27 | 2022-07-29 | 2022-11-26 |
 | [Amapiupiu](https://open.spotify.com/track/3MNaH9rDwnuICFLBhky1tE) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Amapiupiu](https://open.spotify.com/album/3ZNOD4OfYMFGXbuNqTwfOk) | 3:09 | 2024-09-20 | 2025-07-12 |
@@ -78,6 +78,7 @@
 | [Bayibi nga tshombo](https://open.spotify.com/track/5JmG6cRX8yjjPU8QsTk1L1) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin Intense](https://open.spotify.com/album/0G7KfhQPFbv2hGFOGZiBrI) | 3:43 | 2023-11-10 | 2024-02-10 |
 | [Bayuma Bavida Kala \(feat\. Innoss B\)](https://open.spotify.com/track/7ns8gWGNO1vbNF2r7wDPEH) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 4:13 | 2022-06-30 | 2023-08-26 |
 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 | 2022-06-30 | 2023-06-24 |
+| [Be my Valentine ?](https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Be my Valentine ? / MR\. DJ](https://open.spotify.com/album/6QjQrPLjMDI2TMFc5ykWnT) | 2:59 | 2026-06-26 |  |
 | [Beauté Africaine](https://open.spotify.com/track/6JDpHqnwC9gn2HV88m2q4z) | [DJ Moh Green](https://open.spotify.com/artist/6i4GzOgHcFD5XGbEUt0KhH), [skipp narco](https://open.spotify.com/artist/5gMV8JxqqLD8N2N7sZ1DYy) | [African Proud](https://open.spotify.com/album/1l60ntWVk4rlaLUnnGaB9t) | 3:09 | 2024-04-26 | 2024-07-06 |
 | [BEAUX GARÇONS](https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BEAUX GARÇONS](https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw) | 2:29 | 2026-06-12 |  |
 | [Belinda](https://open.spotify.com/track/0qx78Gvw4GSjp3664A8ari) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ), [Afriki](https://open.spotify.com/artist/7wplUIsQsBY2x6E6XSZDAB) | [Belinda](https://open.spotify.com/album/0acRmuhqQyaIqrF27CpawP) | 2:57 | 2024-11-29 | 2025-01-25 |

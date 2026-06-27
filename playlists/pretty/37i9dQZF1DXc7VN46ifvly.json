@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21265,
+  "num_followers": 21268,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,18 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -307,18 +303,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 247444,
       "name": "First Person Shooter (feat. J. Cole)",
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -607,18 +607,26 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "2093",
-        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 170847,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -643,26 +651,18 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 220584,
-      "name": "n\u00e9e-nah",
-      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+      "duration_ms": 170847,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5NAOhPAZ57eFAXr3qatS6i"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "CRUSH (with Travis Scott)",
-      "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "CRUSH (with Travis Scott)",
+      "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1323,6 +1323,30 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
+        "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+        "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 238726,
+      "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
+      "url": "https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
         "name": "Show Me The Money 12 Episode 1",
         "url": "https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG"
       },
@@ -1351,30 +1375,6 @@
       "duration_ms": 269081,
       "name": "Money Checks (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/5bB7348yF6DXMmK1WQlBui"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
-        "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
-        "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 238726,
-      "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
-      "url": "https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "ON to the next (Prod. by Crush, ZICO)",
-      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "ON to the next (Prod. by Crush, ZICO)",
+      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
         "name": "Chain My Heart",
         "url": "https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD"
       },
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 133320,
+      "name": "GOTTASADAE",
+      "url": "https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1555,38 +1571,6 @@
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
-        "name": "Yarrr",
-        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 166999,
-      "name": "Yarrr",
-      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
-        "name": "The Movie Star",
-        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 133320,
-      "name": "GOTTASADAE",
-      "url": "https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1619,6 +1603,22 @@
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
+        "name": "Yarrr",
+        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 166999,
+      "name": "Yarrr",
+      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 306477,
-      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
-      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
         "name": "LLLM",
         "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 225610,
       "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
       "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 306477,
+      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
     },
     {
       "added_at": "2026-06-20 05:27:51",

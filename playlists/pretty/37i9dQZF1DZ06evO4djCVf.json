@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 103040,
+  "num_followers": 103058,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABYVlnJydPHxcIvMOmJ+dX3",
+  "snapshot_id": "ajxvgAAAAAAS2ip/3Y3OUFPzzbyiwLUu",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batterij",
-        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Batterij",
-      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dromen In Kleur",
         "url": "https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 201903,
       "name": "Dromen In Kleur",
       "url": "https://open.spotify.com/track/2KqRs4eFBBo4xkZWbZhGPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batterij",
+        "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Batterij",
+      "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gedeeld Door Ons",
-        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 173596,
-      "name": "Nog Even Dit",
-      "url": "https://open.spotify.com/track/7aESh0sw6yPw7yTNgC4gwi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dromen In Kleur",
         "url": "https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 177000,
       "name": "Onderweg Naar Later",
       "url": "https://open.spotify.com/track/5rES9eqpHTAlv7jVY1SUQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gedeeld Door Ons",
+        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 173596,
+      "name": "Nog Even Dit",
+      "url": "https://open.spotify.com/track/7aESh0sw6yPw7yTNgC4gwi"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gedeeld Door Ons",
-        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 207548,
-      "name": "Mag Ik Daar Even Stil Bij Staan",
-      "url": "https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glass House Sessions",
         "url": "https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 191513,
       "name": "Altijd Wel Iemand",
       "url": "https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gedeeld Door Ons",
+        "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 207548,
+      "name": "Mag Ik Daar Even Stil Bij Staan",
+      "url": "https://open.spotify.com/track/3BNKqoRnHFyyfktrNpJgwW"
     },
     {
       "added_at": null,

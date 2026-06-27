@@ -4,11 +4,12 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Stryper
 
-307 songs - 19 hr 35 min
+309 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A HOLY MESS](https://open.spotify.com/track/0tY7GdyvPaZOnqSuNKqpiu) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [A HOLY MESS](https://open.spotify.com/album/1A2MbKMJBqtU6OI3NsuD0I) | 4:05 | 2025-10-24 |  |
+| [A Symphony](https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [A Symphony](https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD) | 3:28 | 2026-06-26 |  |
 | [Absolution](https://open.spotify.com/track/3jfHclM5oNBSUvuBS7OgPj) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Absolution](https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9) | 4:05 | 2026-05-23 |  |
 | [Acts of Piety](https://open.spotify.com/track/0a5ecbwi5na0yP5dhF1VVJ) | [amen](https://open.spotify.com/artist/4oYfyBavNX48RqJIPLbIsP) | [Acts of Piety](https://open.spotify.com/album/0k7oPFu3vU71na759mh0zu) | 4:07 | 2026-05-23 |  |
 | [Adhd](https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Hurricane](https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9) | 3:13 | 2021-05-28 | 2024-06-29 |
@@ -18,6 +19,7 @@
 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 | 2021-05-28 | 2024-11-02 |
 | [All of Me](https://open.spotify.com/track/6YVeVuB9KpwAeQcKjVEE7k) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [Let the Light In](https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh) | 3:43 | 2023-02-17 | 2024-04-19 |
 | [All That Matters](https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu) | [Gateway Youth](https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM) | [All That Matters](https://open.spotify.com/album/0faMG5obG4JTbHyjehxJK5) | 3:17 | 2023-02-17 |  |
+| [Ambush](https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [Voyage](https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj) | 4:13 | 2026-06-26 |  |
 | [Angels vs Demons](https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW) | 4:18 | 2022-10-29 | 2024-06-29 |
 | [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 | 2022-03-11 | 2024-06-29 |
 | [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 | 2022-10-29 | 2024-05-11 |
@@ -136,7 +138,7 @@
 | [Holding Me Up](https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [Divided Frame Of Mind](https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy) | 2:57 | 2023-07-28 | 2026-03-30 |
 | [Holy Forever](https://open.spotify.com/track/3DKhJAdyjssQhYVjJUJUqt) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Thy Kingdom Come](https://open.spotify.com/album/5BdXHH1gfAfyHOxzcxTAYP) | 4:35 | 2026-03-29 |  |
 | [Holy Savior](https://open.spotify.com/track/4Iv4RGVktNQmC60UH3HjMu) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Kelsea Yetton](https://open.spotify.com/artist/6PQ6WHlRAdmly59ZGcA7D4) | [Holy Savior](https://open.spotify.com/album/2A5zE1ptlwgo6bLuRYhzUB) | 5:03 | 2024-06-28 | 2025-11-08 |
-| [How Much Longer?](https://open.spotify.com/track/0GrRkiNOYZZBoBQ9SovC3Y) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [How Much Longer?](https://open.spotify.com/album/01bwQUD2rxE4QIBIpscsCQ) | 3:03 | 2025-11-21 |  |
+| [How Much Longer?](https://open.spotify.com/track/0GrRkiNOYZZBoBQ9SovC3Y) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [How Much Longer?](https://open.spotify.com/album/01bwQUD2rxE4QIBIpscsCQ) | 3:03 | 2025-11-21 | 2026-06-27 |
 | [I Declare, I Decree \- Live](https://open.spotify.com/track/7kSDH4uUG1zprJHGJ1c49Q) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Declare, I Decree \(Live\)](https://open.spotify.com/album/1GOjbafLvn5RCZUiOVNmDb) | 3:46 | 2026-05-12 |  |
 | [I Get Wicked \- Reignited](https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [I Get Wicked](https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V) | 3:33 | 2024-06-28 |  |
 | [I Know Your Heart](https://open.spotify.com/track/5afMJm0l4ZYGfNSaHMF9uk) | [Sean Daily](https://open.spotify.com/artist/57PqS7EAbP8iX4d3v9J2L1) | [I Know Your Heart](https://open.spotify.com/album/7CaPgwk2v0N12bsvJMyUqm) | 2:36 | 2025-12-12 |  |
@@ -150,7 +152,7 @@
 | [In Defiance](https://open.spotify.com/track/17VvT0RZ6HcRkpMbw1xgn3) | [Matt Sassano](https://open.spotify.com/artist/57qdENESO67xX6tvTXTLtk) | [In Defiance](https://open.spotify.com/album/10V2CzomOo7tBR27HsKon5) | 3:26 | 2023-11-17 | 2025-06-01 |
 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 | 2022-01-14 | 2025-03-01 |
 | [It Is Finished](https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [It Is Finished](https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W) | 4:10 | 2024-11-01 | 2026-03-30 |
-| [just look at HIM](https://open.spotify.com/track/7vj2tW89HC3WDK5ijLNZXp) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [just look at HIM](https://open.spotify.com/album/0C3EDOYCgh2Wik5SQtkRs5) | 3:09 | 2026-04-10 |  |
+| [just look at HIM](https://open.spotify.com/track/7vj2tW89HC3WDK5ijLNZXp) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [just look at HIM](https://open.spotify.com/album/0C3EDOYCgh2Wik5SQtkRs5) | 3:09 | 2026-04-10 | 2026-06-27 |
 | [Keep On](https://open.spotify.com/track/45DKhoX10YPqu1MKzE7kZ0) | [Swytt Poblete](https://open.spotify.com/artist/3KdxCKUQCLD8t7jTiLxPQI), [Bro Justin](https://open.spotify.com/artist/3mEwMuyf1W27Uii5xPArh3), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [Keep On](https://open.spotify.com/album/3GKqCEO8tlNqoGuc3TdJCu) | 4:15 | 2023-11-17 | 2024-05-11 |
 | [KINGDOM COME](https://open.spotify.com/track/4V0XVB84bt1Dhu8kcJXvy5) | [aftrthght](https://open.spotify.com/artist/0m4Lfr9tvsHyYOUWhsbSKY), [CHANGETHEWXRLD](https://open.spotify.com/artist/2EoePmwsrpFvAgaJa5Soxe) | [KINGDOM](https://open.spotify.com/album/0iQ6ubCreyPmqyDebWPAyf) | 2:32 | 2024-06-28 |  |
 | [La Verdad](https://open.spotify.com/track/5bzYivepxtHfBzE7tBvUPs) | [Zona 7](https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI) | [La Verdad](https://open.spotify.com/album/3GXG3VarQFE1fn0RwBGapZ) | 3:54 | 2023-11-17 | 2024-08-10 |

@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 369076,
+  "num_followers": 369087,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -587,8 +587,8 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Two Shadows",
-        "url": "https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel"
+        "name": "Peace is overrated",
+        "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
       },
       "artists": [
         {
@@ -596,25 +596,9 @@
           "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
         }
       ],
-      "duration_ms": 149591,
-      "name": "Two Shadows",
-      "url": "https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B"
-      },
-      "artists": [
-        {
-          "name": "TS Eklund",
-          "url": "https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3"
+      "duration_ms": 172573,
+      "name": "Peace is overrated",
+      "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -635,6 +619,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B"
+      },
+      "artists": [
+        {
+          "name": "TS Eklund",
+          "url": "https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "I miss your laughter",
         "url": "https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7"
       },
@@ -651,38 +651,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Staying for Tomorrow",
-        "url": "https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc"
-      },
-      "artists": [
-        {
-          "name": "Hveiti Brauo",
-          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
-        }
-      ],
-      "duration_ms": 203083,
-      "name": "Staying for Tomorrow",
-      "url": "https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Peace is overrated",
-        "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Peace is overrated",
-      "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Moonlit Moods",
         "url": "https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 132264,
       "name": "Moonlit Moods",
       "url": "https://open.spotify.com/track/1l3zd90ouLAM4yEwmRSQUK"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Two Shadows",
+        "url": "https://open.spotify.com/album/73vN2nvl4vs9sqEd4Ctvel"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "duration_ms": 149591,
+      "name": "Two Shadows",
+      "url": "https://open.spotify.com/track/0onz00xJtAFBVRlOUHNeVm"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Staying for Tomorrow",
+        "url": "https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "duration_ms": 203083,
+      "name": "Staying for Tomorrow",
+      "url": "https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Evening Stillness",
-        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
-      },
-      "artists": [
-        {
-          "name": "John B\u00fclow",
-          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Evening Stillness",
-      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Clear Sky",
         "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 170686,
       "name": "A clear sky",
       "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Evening Stillness",
+        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
+      },
+      "artists": [
+        {
+          "name": "John B\u00fclow",
+          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Evening Stillness",
+      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -795,38 +795,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Touch of Kindness",
-        "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Blackwood",
-          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
-        }
-      ],
-      "duration_ms": 136968,
-      "name": "A Touch of Kindness",
-      "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Midnight on 5th Avenue",
-        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 180259,
-      "name": "Midnight on 5th Avenue",
-      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Sk\u00f3gafoss",
         "url": "https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK"
       },
@@ -843,6 +811,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "A Touch of Kindness",
+        "url": "https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blackwood",
+          "url": "https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe"
+        }
+      ],
+      "duration_ms": 136968,
+      "name": "A Touch of Kindness",
+      "url": "https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 159615,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Midnight on 5th Avenue",
+        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 180259,
+      "name": "Midnight on 5th Avenue",
+      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Tender Is The Quiet",
-        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
-      },
-      "artists": [
-        {
-          "name": "Aliz Uveges",
-          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Tender Is The Quiet",
-      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Glimpses",
         "url": "https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 163250,
       "name": "Glimpses",
       "url": "https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Tender Is The Quiet",
+        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
+      },
+      "artists": [
+        {
+          "name": "Aliz Uveges",
+          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Tender Is The Quiet",
+      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "It's Probably True",
-        "url": "https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7"
-      },
-      "artists": [
-        {
-          "name": "Kim Lawrence",
-          "url": "https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "It's Probably True",
-      "url": "https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Few Horizons",
         "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 140997,
       "name": "A Few Horizons",
       "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "It's Probably True",
+        "url": "https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7"
+      },
+      "artists": [
+        {
+          "name": "Kim Lawrence",
+          "url": "https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "It's Probably True",
+      "url": "https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "The old train",
+        "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "The old train",
+      "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Fading Skies",
         "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
       },
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "The old train",
-        "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "The old train",
-      "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "A Phonecall Away",
-        "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
-      },
-      "artists": [
-        {
-          "name": "Goratie",
-          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "A Phonecall Away",
-      "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Beneath the Paris Sky",
         "url": "https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Says Nothing",
-        "url": "https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m"
+        "name": "A Phonecall Away",
+        "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
       },
       "artists": [
         {
-          "name": "Gottfried Barber",
-          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
         }
       ],
-      "duration_ms": 164351,
-      "name": "Says Nothing",
-      "url": "https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM"
+      "duration_ms": 152733,
+      "name": "A Phonecall Away",
+      "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1191,6 +1175,22 @@
       "duration_ms": 162009,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Says Nothing",
+        "url": "https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Says Nothing",
+      "url": "https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM"
     },
     {
       "added_at": "2026-05-25 14:11:39",

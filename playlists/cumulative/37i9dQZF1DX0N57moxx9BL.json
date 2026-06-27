@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Symphony",
+        "url": "https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208410,
+      "name": "A Symphony",
+      "url": "https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG"
+    },
+    {
+      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/7GWNCcWHvI9VkysTH5cxt9"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 197336,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/3an1jZuGuItXCfcfZFkdvu"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj"
+      },
+      "artists": [
+        {
+          "name": "Tree63",
+          "url": "https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253856,
+      "name": "Ambush",
+      "url": "https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6"
     },
     {
       "album": {
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 183073,
       "name": "How Much Longer?",
       "url": "https://open.spotify.com/track/0GrRkiNOYZZBoBQ9SovC3Y"
@@ -2696,7 +2732,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189591,
       "name": "just look at HIM",
       "url": "https://open.spotify.com/track/7vj2tW89HC3WDK5ijLNZXp"

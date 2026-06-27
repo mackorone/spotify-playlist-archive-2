@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-173 songs - 10 hr 4 min
+174 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 | 2026-06-08 |  |
 | [Dance Like Fire](https://open.spotify.com/track/0lD3Yvnwpl68HXdnK5USQY) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Dance Like Fire](https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC) | 3:42 | 2025-11-16 | 2026-03-15 |
 | [Dime Hoy](https://open.spotify.com/track/2VbBUTrOTTtjEWtsUHpaCn) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:29 | 2026-04-28 |  |
+| [Dimenticare](https://open.spotify.com/track/6DAgcHrCpVAvWEpscvHVR7) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Dimenticare](https://open.spotify.com/album/23nIqYsVN6ig5SBkGRS0lD) | 4:13 | 2026-06-26 |  |
 | [Do you tell](https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Do you tell](https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj) | 2:59 | 2025-11-29 | 2026-06-14 |
 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-05 | 2025-12-09 |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2025-11-06 | 2025-12-09 |

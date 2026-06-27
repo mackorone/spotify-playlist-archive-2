@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-244 songs - 11 hr 30 min
+245 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 | 2024-09-05 |  |
 | [lighters](https://open.spotify.com/track/621A6t2WLsM67dDSFuzipu) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [campthehills](https://open.spotify.com/album/730BEbU2Ka6T64vHyrtZSZ) | 3:15 | 2026-04-03 |  |
 | [LIGHTS BACK ON](https://open.spotify.com/track/0VLRHa8pl79TqRfmuGD7ly) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/0A3cUs6VsAhn5EYvqrQgRm) | 2:53 | 2026-03-17 |  |
-| [Like Animals](https://open.spotify.com/track/2VMJUOsP6pbC506uLOVLGF) | [Smyang Piano](https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS) | [Piano Collection, Vol\. 16](https://open.spotify.com/album/60PfA7MDnNMOn97PRUXyMO) | 3:02 | 2026-06-17 |  |
+| [Like Animals](https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:09 | 2026-06-26 |  |
+| [Like Animals](https://open.spotify.com/track/2VMJUOsP6pbC506uLOVLGF) | [Smyang Piano](https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS) | [Piano Collection, Vol\. 16](https://open.spotify.com/album/60PfA7MDnNMOn97PRUXyMO) | 3:02 | 2026-06-17 | 2026-06-27 |
 | [Like Strangers Do](https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Like Strangers Do](https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ) | 2:40 | 2024-07-09 |  |
 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 | 2024-07-09 |  |
 | [love me again](https://open.spotify.com/track/0CAq5PJHoIlDOd4A8oFl6F) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/2RvkkmSJ8jCNB5JyHNMnek) | 2:25 | 2024-07-09 | 2025-01-16 |

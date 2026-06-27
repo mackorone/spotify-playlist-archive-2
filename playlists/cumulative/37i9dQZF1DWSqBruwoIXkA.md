@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like sad hour, with Asha Banks
+> heartbreak feels good in a place like sad hour, with PEGGY
 
-1,062 songs - 2 day 10 hr 25 min
+1,065 songs - 2 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 | 2025-05-31 |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-04-28 | 2024-04-19 |
 | [forgive and forget](https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [forgive and forget](https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD) | 2:54 | 2023-08-04 | 2024-07-30 |
+| [FRANKENSTEIN](https://open.spotify.com/track/0tFJn4LFkfvJYpMURjn7Tk) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FRANKENSTEIN](https://open.spotify.com/album/09av6JLmcwy6qkpuBsM6uN) | 3:07 | 2026-06-26 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-01-26 | 2024-02-17 |
 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-15 | 2025-09-24 |
 | [Friends Don't](https://open.spotify.com/track/2N970NvTMrHQ1iqN4Aot8k) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Friends Don’t](https://open.spotify.com/album/13ccJsUECBGoRAm2xdTvuC) | 3:24 | 2025-09-19 | 2025-10-25 |
@@ -472,7 +473,7 @@
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 | 2023-08-19 |
 | [I Tried](https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [I Tried](https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP) | 2:32 | 2025-07-18 | 2026-05-26 |
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 | 2024-09-07 |
-| [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 | 2024-03-08 |  |
+| [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 | 2024-03-08 | 2026-06-27 |
 | [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 | 2022-09-23 |  |
 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 | 2023-08-11 |  |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2023-03-03 |
@@ -523,6 +524,7 @@
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-25 | 2025-09-13 |
 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 | 2024-08-09 | 2024-09-14 |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2024-08-23 | 2024-09-14 |
+| [It Is What It Is](https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [It Is What It Is](https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4) | 3:10 | 2026-06-26 |  |
 | [It Still Rains in Paradise](https://open.spotify.com/track/7nSRwnGtocax7zFgNnR70D) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [It Still Rains in Paradise](https://open.spotify.com/album/1RzEZUdiyyMFnbpXK5kcyj) | 2:42 | 2022-05-27 | 2022-06-22 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-17 |  |
 | [It's No Fun](https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [It's No Fun](https://open.spotify.com/album/6qDA7zAfwhlinzTUzuxaK5) | 2:43 | 2024-07-12 | 2024-08-03 |
@@ -572,6 +574,7 @@
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-03-11 | 2023-08-19 |
 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2023-07-28 |  |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2021-12-17 | 2025-12-20 |
+| [Liar Out Of Me](https://open.spotify.com/track/4gkYx1zSCdMEpvoqbCDmdE) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Liar Out Of Me](https://open.spotify.com/album/5H68xqeJ7cvT7Jl8KbupQK) | 2:56 | 2026-06-26 |  |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2023-06-23 | 2024-04-27 |
 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 | 2024-08-23 | 2025-03-26 |
 | [life, i'm over you](https://open.spotify.com/track/4tI1u9uQXYLnswRzcysxDo) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:23 | 2022-07-22 | 2023-10-03 |
@@ -911,7 +914,7 @@
 | [the reason i hate home](https://open.spotify.com/track/4ONM0At2H9s1rjIZ9ROxRj) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [the reason i hate home](https://open.spotify.com/album/60w9GszHHtExusXvbenVKz) | 2:43 | 2022-05-13 | 2022-07-28 |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-05 |  |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
-| [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 | 2026-02-20 |  |
+| [The Summer I Turned Pretty](https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [The Summer I Turned Pretty](https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC) | 3:13 | 2026-02-20 | 2026-06-27 |
 | [The Trauma and The Pleasure](https://open.spotify.com/track/4UOTmg9TBVTUibdKnPYzKt) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX) | [If We Were a Film, We'd Be a Sad One](https://open.spotify.com/album/4b3xIi8eyBNWbrIAkX7GoA) | 3:13 | 2021-12-17 | 2022-03-26 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-04-10 |  |
 | [The Way a Heart Breaks](https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:51 | 2025-10-24 |  |
@@ -976,7 +979,7 @@
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-12-17 | 2023-04-01 |
 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 | 2024-04-12 | 2025-02-01 |
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2021-12-17 | 2022-12-17 |
-| [walking contradiction](https://open.spotify.com/track/1M9ojFPLrZO5AdoZzaOI2Q) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [walking contradiction](https://open.spotify.com/album/5vCD6GlY0edWIBibN1nNTn) | 2:29 | 2026-06-12 |  |
+| [walking contradiction](https://open.spotify.com/track/1M9ojFPLrZO5AdoZzaOI2Q) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [walking contradiction](https://open.spotify.com/album/5vCD6GlY0edWIBibN1nNTn) | 2:29 | 2026-06-12 | 2026-06-27 |
 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 | 2025-03-14 |  |
 | [Want You Back](https://open.spotify.com/track/4ZGC3yb7ObpkN2rj3t7l9N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:24 | 2023-06-30 | 2023-08-05 |
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2021-12-17 |  |

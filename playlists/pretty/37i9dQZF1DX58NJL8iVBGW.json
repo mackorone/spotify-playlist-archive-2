@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 816193,
+  "num_followers": 816227,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
+        "name": "Look Homeward",
+        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
+      },
+      "artists": [
+        {
+          "name": "Look Homeward",
+          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Sister Death",
+      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 193866,
       "name": "O Death (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/4isz6MOaOrvonLrIVyPpvj"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
-        "name": "Look Homeward",
-        "url": "https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt"
-      },
-      "artists": [
-        {
-          "name": "Look Homeward",
-          "url": "https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Sister Death",
-      "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Stumbler's Business",
-        "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
+        "name": "Boy From The North (ADA / USA)",
+        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
       },
       "artists": [
         {
-          "name": "Kendl Winter",
-          "url": "https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM"
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
         }
       ],
-      "duration_ms": 243533,
-      "name": "The River's Will",
-      "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
+      "duration_ms": 196946,
+      "name": "Conman Coming",
+      "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Boy From The North (ADA / USA)",
-        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
+        "name": "Stumbler's Business",
+        "url": "https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc"
       },
       "artists": [
         {
-          "name": "Monica Heldal",
-          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+          "name": "Kendl Winter",
+          "url": "https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Conman Coming",
-      "url": "https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq"
+      "duration_ms": 243533,
+      "name": "The River's Will",
+      "url": "https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
         "name": "Imaginary Appalachia",
         "url": "https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
+        "name": "Beat the Devil's Tattoo",
+        "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
+      "duration_ms": 225760,
+      "name": "Beat The Devil's Tattoo",
+      "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1527,22 +1543,6 @@
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
-        "name": "Beat the Devil's Tattoo",
-        "url": "https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP"
-      },
-      "artists": [
-        {
-          "name": "Black Rebel Motorcycle Club",
-          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Beat The Devil's Tattoo",
-      "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
     },
     {
       "added_at": "2026-06-05 00:00:39",

@@ -4,7 +4,7 @@
 
 > greenery & humid air 🍃
 
-110 songs - 6 hr 56 min
+111 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-06-27 |  |
 | [Satellite](https://open.spotify.com/track/06guidgPnPfyA4VJaELthY) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Loose Future](https://open.spotify.com/album/7CungZ9S54si6eKBOqhnF6) | 2:54 | 2025-06-27 |  |
 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-06-27 |  |
+| [Special](https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [You Are Spring!](https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT) | 4:36 | 2026-06-26 |  |
 | [Spring Bug](https://open.spotify.com/track/7rKT3mqu5kExdlTAh1o654) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:27 | 2025-06-27 |  |
 | [Suburban Siddhartha](https://open.spotify.com/track/7rGtG1dGgT7A1KgTrgRrQj) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Suburban Siddhartha](https://open.spotify.com/album/6kcB3CI4RrmOTUX5lovtb9) | 3:49 | 2025-06-27 | 2026-06-06 |
 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 | 2025-06-27 |  |

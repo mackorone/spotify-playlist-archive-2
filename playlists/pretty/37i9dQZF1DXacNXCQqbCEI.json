@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 342707,
+  "num_followers": 342695,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Xaxoeira",
-        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
+        "name": "Sonic Forest",
+        "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
         }
       ],
-      "duration_ms": 347600,
-      "name": "1542",
-      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
+      "duration_ms": 169094,
+      "name": "Sonic Forest (D\u00e9jame Respirar)",
+      "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -179,26 +187,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Sonic Forest",
-        "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
+        "name": "Xaxoeira",
+        "url": "https://open.spotify.com/album/0T1MHuHlxRGyGqZT1KGubi"
       },
       "artists": [
         {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
         }
       ],
-      "duration_ms": 169094,
-      "name": "Sonic Forest (D\u00e9jame Respirar)",
-      "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
+      "duration_ms": 347600,
+      "name": "1542",
+      "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Efecto Manglar",
-        "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
-      },
-      "artists": [
-        {
-          "name": "Black Mambo",
-          "url": "https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ"
-        },
-        {
-          "name": "\u00c1cido Pantera",
-          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
-        }
-      ],
-      "duration_ms": 308213,
-      "name": "Efecto Manglar",
-      "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Recuerdos de Expiaci\u00f3n",
         "url": "https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN"
       },
@@ -535,6 +515,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Efecto Manglar",
+        "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
+      },
+      "artists": [
+        {
+          "name": "Black Mambo",
+          "url": "https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ"
+        },
+        {
+          "name": "\u00c1cido Pantera",
+          "url": "https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW"
+        }
+      ],
+      "duration_ms": 308213,
+      "name": "Efecto Manglar",
+      "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Nene",
         "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 201700,
       "name": "Nene",
       "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -583,6 +567,22 @@
       "duration_ms": 215427,
       "name": "P\u00e1jaro de Mar",
       "url": "https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Remixeado a Lo Bien",
-        "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
-      },
-      "artists": [
-        {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "A Lo Bien - CERO39 rmx",
-      "url": "https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Hijo de Tigre",
         "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 261240,
       "name": "Mapal\u00e9",
       "url": "https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Remixeado a Lo Bien",
+        "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
+      },
+      "artists": [
+        {
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "A Lo Bien - CERO39 rmx",
+      "url": "https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
-      },
-      "artists": [
-        {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        }
-      ],
-      "duration_ms": 152576,
-      "name": "Caruy\u00fa",
-      "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Baquin\u00e9",
         "url": "https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 186818,
       "name": "Amanecer\u00e1 - Bial Hclap Remix",
       "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+      },
+      "artists": [
+        {
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+        }
+      ],
+      "duration_ms": 152576,
+      "name": "Caruy\u00fa",
+      "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
     },
     {
       "added_at": "2024-07-12 22:50:04",

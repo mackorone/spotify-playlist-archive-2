@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28818,
+  "num_followers": 28823,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAC0lFq7fJSq6cD2WwvyKquj",
+  "snapshot_id": "ajxvgAAAAADNs/NFJQMFwmaEudnNrbrU",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 212110,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOT A REASON",
         "url": "https://open.spotify.com/album/4AUioy59lGdmS1mPufTdfC"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 169792,
       "name": "GOT A REASON",
       "url": "https://open.spotify.com/track/5MTPmRNRnblPndt4JJaL02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 212110,
-      "name": "Armies",
-      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170911,
-      "name": "Familia",
-      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Live the Champion",
         "url": "https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 263118,
       "name": "Long Live the Champion",
       "url": "https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170911,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
+      "duration_ms": 210507,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
       "artists": [
         {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 210507,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,

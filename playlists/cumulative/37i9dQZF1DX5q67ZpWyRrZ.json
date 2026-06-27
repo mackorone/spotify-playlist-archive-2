@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223714,
       "name": "Dilshad",
       "url": "https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw"
@@ -2226,6 +2226,24 @@
       "duration_ms": 235964,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/6AlW2ZNQlzIKReQ1CS8J9r"
+    },
+    {
+      "album": {
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/0PWyUp1bCI0wDEjSHMLfiO"
+      },
+      "artists": [
+        {
+          "name": "Donn Bhat",
+          "url": "https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213004,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/760n01fPMR7sqrn3msFBcT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,443 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,445 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 21 | [Il terzo fuochista](https://open.spotify.com/track/19Rdet8mE1HvEoO4aMrQs3) | [Tosca](https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu) | [Romana](https://open.spotify.com/album/0qnJo0nniBPA33NV72WgRQ) | 4:02 |
 | 22 | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/track/4ukx28Dx9UnZlFWk81HNaV) | [Gigi Proietti](https://open.spotify.com/artist/4aztUD9n74oCxu7ss8C8UD), [Trio Melody](https://open.spotify.com/artist/2JhA5aOKefzHPXKbyhi61y), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Stefano Palatresi](https://open.spotify.com/artist/5hyNfdEAhG5oKIRhpgS5bx) | [Ma Che Ne Sai..\. \(...Se Non Hai Fatto Il Piano\-Bar\)](https://open.spotify.com/album/5MEDvsrCUMJ5HbYaozGNRU) | 3:13 |
 | 23 | [Mi sono innamorato di mia moglie](https://open.spotify.com/track/7vvzB2UIc9cZUxrSNN5U9u) | [Gianni Nazzaro](https://open.spotify.com/artist/4Xyv6XmF999fSruMHlHu6o) | [Il meglio](https://open.spotify.com/album/64N7AuJBH4se9KM2GXzdsc) | 3:47 |
-| 24 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 25 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
+| 24 | [Il farmacista](https://open.spotify.com/track/3tx0Rl5JSvTVfPMuDd0CdN) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Il farmacista](https://open.spotify.com/album/5O37ctKTp6CZyfhrRZhLq3) | 4:11 |
+| 25 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 26 | [Mezze verità](https://open.spotify.com/track/7rdw5FwyUOuXtTQCKRtsWy) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Playlist: Sottotono](https://open.spotify.com/album/3PNhqVcLql4ffwqtzIKXMr) | 4:18 |
 | 27 | [Buona Giornata](https://open.spotify.com/track/7LFXimqV3fbyE1IQrTkwlk) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Made In Italy](https://open.spotify.com/album/0aHIpO6L0A7hgp5Czy8OFF) | 3:38 |
 | 28 | [Linda Bella Linda \- 2004 Digital Remaster](https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z) | [Daniel Sentacruz Ensemble](https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26) | [Daniel Sentacruz Ensemble: Solo Grandi Successi](https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0) | 3:42 |

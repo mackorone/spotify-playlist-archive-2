@@ -2,9 +2,9 @@
 
 ### [Women of Punjabi Pop](https://open.spotify.com/playlist/37i9dQZF1DWSElo6PPUdZk)
 
-> Catch the queens of Punjabi Pop\. Cover: Afsana Khan
+> Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-290 songs - 14 hr 34 min
+291 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 | 2024-09-13 |  |
 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 | 2024-10-10 |  |
 | [Asla](https://open.spotify.com/track/4GCSYis95BSlNwuR4VTvLD) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Asla](https://open.spotify.com/album/5dmwcQZNdR0HTG9NNNqAug) | 2:02 | 2025-01-10 |  |
-| [BAAZIGARA](https://open.spotify.com/track/0oZj0yIo556j8UfXqRwGid) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [BAAZIGARA](https://open.spotify.com/album/5zIVEKw3owP9Jl140Y1lgL) | 3:21 | 2026-05-29 |  |
+| [BAAZIGARA](https://open.spotify.com/track/0oZj0yIo556j8UfXqRwGid) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [BAAZIGARA](https://open.spotify.com/album/5zIVEKw3owP9Jl140Y1lgL) | 3:21 | 2026-05-29 | 2026-06-27 |
 | [Babul](https://open.spotify.com/track/6b7Nn2mkfXeS4Ij0PjySu4) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N), [Piyush Chhabra](https://open.spotify.com/artist/7cErzZIv8GyIE1SQwGRCOO) | [Babul](https://open.spotify.com/album/18CM5e5toairZKnviHUVWC) | 5:25 | 2024-12-06 |  |
 | [Baby](https://open.spotify.com/track/2hZkyRqr9NO7OjJxHuVf2v) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:25 | 2024-09-04 | 2025-09-13 |
 | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2) | 3:23 | 2024-09-03 | 2024-12-12 |
@@ -92,6 +92,7 @@
 | [Good Luck](https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Good Luck](https://open.spotify.com/album/5VzvS0APXNfXoYwUPZetPg) | 3:31 | 2024-01-30 | 2024-04-24 |
 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 | 2025-03-20 |  |
 | [Gustakhi](https://open.spotify.com/track/2khgycGenz8WXa8DgH0fGH) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y) | [Gustakhi](https://open.spotify.com/album/2hf7wUuaRVXOCbMTV8lotP) | 2:16 | 2025-06-05 | 2025-07-26 |
+| [Haal Mittra](https://open.spotify.com/track/1UgfPvdUJLi6J4jNQ86M8V) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Haal Mittra](https://open.spotify.com/album/6JMD95X5h8Wz3QJUDjyZ4d) | 2:37 | 2026-06-26 |  |
 | [Haaniya](https://open.spotify.com/track/01rsvFmtiW3Cr5oMW1RA9m) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Haaniya](https://open.spotify.com/album/6EMMY5bwElZSSlwzw8XNA7) | 3:08 | 2023-03-18 | 2023-04-20 |
 | [Haase Thode](https://open.spotify.com/track/76MrBHxJVet38xAtxqc0xg) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Spidy's Music](https://open.spotify.com/artist/4JJpNjGZGXcezGJkS0ASqP), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Haase Thode](https://open.spotify.com/album/7o3jdiuwEuHvFAy4IkavQa) | 3:16 | 2024-11-11 | 2024-12-24 |
 | [Han G](https://open.spotify.com/track/6sx9Ex9d2pRHqF9l9VLch8) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Jaggi Bathinde Wala](https://open.spotify.com/artist/1Jbvo4pjRoe615tEiA12X0) | [Han G](https://open.spotify.com/album/0423F7TMUDOIn7hwDFAEsJ) | 2:22 | 2025-09-12 |  |

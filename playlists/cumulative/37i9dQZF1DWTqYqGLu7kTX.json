@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover:  Cheema Y",
+  "description": "Best of Punjabi Hip-Hop! Cover:  Prem Dhillon",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -914,7 +914,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 195000,
       "name": "ASTARR",
       "url": "https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206707,
       "name": "DXB",
       "url": "https://open.spotify.com/track/17vaaGEZlUz7b7IMKyDXvy"
@@ -2406,6 +2406,32 @@
       "duration_ms": 181621,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/6EXYmo6wuxDey1qBV4WbJW"
+    },
+    {
+      "album": {
+        "name": "EX-FILES",
+        "url": "https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U"
+      },
+      "artists": [
+        {
+          "name": "Baggh-e SMG",
+          "url": "https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu"
+        },
+        {
+          "name": "BIG KAY SMG",
+          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
+        },
+        {
+          "name": "Farmaan SMG",
+          "url": "https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196730,
+      "name": "EX-FILES",
+      "url": "https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U"
     },
     {
       "album": {
@@ -4002,10 +4028,32 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 175200,
       "name": "Lock",
       "url": "https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp"
+    },
+    {
+      "album": {
+        "name": "Majhaestic",
+        "url": "https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "London",
+      "url": "https://open.spotify.com/track/6JJItkAG3SkBVZfk1vFVVu"
     },
     {
       "album": {
@@ -4248,6 +4296,28 @@
       "duration_ms": 181140,
       "name": "Many Men",
       "url": "https://open.spotify.com/track/4z2V6jTd4VagqPexBQXPKA"
+    },
+    {
+      "album": {
+        "name": "Majhaestic",
+        "url": "https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Map",
+      "url": "https://open.spotify.com/track/1qMLmdxbkHE2zeCYu63Gn9"
     },
     {
       "album": {

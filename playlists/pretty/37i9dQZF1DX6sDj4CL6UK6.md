@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: Tsumyoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,988 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,996 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 12 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 |
 | 13 | [Too Much?](https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH) | 2:45 |
 | 14 | [I Love You Baby, I Love You Doll](https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Ocean](https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO) | 2:49 |
-| 15 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
+| 15 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
 | 16 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 |
 | 17 | [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 |
 | 18 | [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 |
-| 19 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
+| 19 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
 | 20 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
 | 21 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 |
 | 22 | [again...](https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [again...](https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V) | 2:57 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 58 | [Keep You](https://open.spotify.com/track/1EY3dZn5z9ZpVCIIh855J2) | [Shrestha D.](https://open.spotify.com/artist/2lmdJPTrldJerZZEMPGYBT), [Hiten Mukherjee](https://open.spotify.com/artist/1NcTcdQoKp0zcJxr7rZVa4), [gaurab gaboo chatterjee](https://open.spotify.com/artist/10e0DmwViaefZxDfwTg7YT), [Mainak Nag Chowdhury](https://open.spotify.com/artist/1icoDoBNO8lzirfgkgA8wH), [Sudipto Paul](https://open.spotify.com/artist/0bCsOJ63rO4aP5EWUCV7JG) | [Keep You](https://open.spotify.com/album/77YwQgSDxEaAt1Me1J6VV1) | 5:23 |
 | 59 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
 | 60 | [Wallow](https://open.spotify.com/track/43tDC5J5wzTK4xgQSieZga) | [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Sanoli Chowdhury](https://open.spotify.com/artist/36ZC6sfDiqZdz1aJefbdKl) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:03 |
-| 61 | [Paradise](https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 2:28 |
-| 62 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
+| 61 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
+| 62 | [Paradise](https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 2:28 |
 | 63 | [Into The Wild](https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn) | [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:50 |
 | 64 | [LASSI](https://open.spotify.com/track/6y9cKGfKKSZw0Ozx84iDrG) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [LASSI](https://open.spotify.com/album/5Ok9uUPaWel7pzJphrwbBl) | 2:44 |
 | 65 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |

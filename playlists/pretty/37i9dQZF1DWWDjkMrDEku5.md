@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 
 > Get ready for Disney and Pixar’s Toy Story 5, only in theaters\. To infinity and beyond!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,692 likes - 36 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,053 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 1 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 2 | [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 |
 | 3 | [Strange Things](https://open.spotify.com/track/5JypFayfT1V5OG4xJ8q7jK) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 3:18 |
 | 4 | [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/7tSODhfDkv0JEhkSMYSIBS) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:05 |

@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 221253,
       "name": "Bless The Lord",
       "url": "https://open.spotify.com/track/4un5nPT9hPvMxMbmDPdPYf"
@@ -2006,10 +2006,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 240882,
       "name": "Breathe On It",
       "url": "https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV"
+    },
+    {
+      "album": {
+        "name": "Breathe On It (From Austin)",
+        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290981,
+      "name": "Breathe On It - From Austin",
+      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "album": {
@@ -3968,6 +3986,28 @@
       "duration_ms": 367089,
       "name": "Fall Afresh",
       "url": "https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse"
+    },
+    {
+      "album": {
+        "name": "Holy And Pleasing + Fall Like Rain",
+        "url": "https://open.spotify.com/album/5RlJ9epviWCq0ncfWg50LO"
+      },
+      "artists": [
+        {
+          "name": "Brett Younker",
+          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242661,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/66RNum4AF6ZPPy3SLJvXut"
     },
     {
       "album": {
@@ -6276,6 +6316,32 @@
       "duration_ms": 389973,
       "name": "Holy Forever - Live From Good Friday 2023",
       "url": "https://open.spotify.com/track/3SOD2rOwadCSRKluvV36Sv"
+    },
+    {
+      "album": {
+        "name": "Holy Is He",
+        "url": "https://open.spotify.com/album/5NKhmZWg5cDaI2JxxcFGo5"
+      },
+      "artists": [
+        {
+          "name": "Citipointe Worship",
+          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
+        },
+        {
+          "name": "Kate Tamsen",
+          "url": "https://open.spotify.com/artist/5268DeVAJPgvGRryvIj1EE"
+        },
+        {
+          "name": "Chardon Lewis",
+          "url": "https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376453,
+      "name": "Holy Is He",
+      "url": "https://open.spotify.com/track/15UfzWcb7zBgDqnBMf1Ptc"
     },
     {
       "album": {
@@ -10017,6 +10083,28 @@
     },
     {
       "album": {
+        "name": "House Church Vol. 001",
+        "url": "https://open.spotify.com/album/2wsjghItFIaMTy5mR0LfvJ"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Lily Hooten",
+          "url": "https://open.spotify.com/artist/5pgwHZ02bNDJPgPw6neVim"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330200,
+      "name": "No One Like The Lord",
+      "url": "https://open.spotify.com/track/63PS63EkeqYJMTN7AFh65j"
+    },
+    {
+      "album": {
         "name": "No One Like The Lord (We Crown You) [Live]",
         "url": "https://open.spotify.com/album/4Kdfe6DKx6mIpvlSHAaVzQ"
       },
@@ -12708,6 +12796,24 @@
       "duration_ms": 212226,
       "name": "Something About That Name",
       "url": "https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx"
+    },
+    {
+      "album": {
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN"
+      },
+      "artists": [
+        {
+          "name": "The Heritage",
+          "url": "https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh"
     },
     {
       "album": {

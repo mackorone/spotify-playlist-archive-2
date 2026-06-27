@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "De Lejitos",
+        "url": "https://open.spotify.com/album/2ukbbf4uaeSZF4q09Iciq3"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225685,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/3Ovcq3hiNOyqbfG3WLIx31"
+    },
+    {
+      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/05MaDb9RBWImPDezuUjEvT"
       },
@@ -74,6 +92,28 @@
       "duration_ms": 185066,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/0Ti1S4hu8GdJVjrpwkEqtx"
+    },
+    {
+      "album": {
+        "name": "LA GRACIOSA",
+        "url": "https://open.spotify.com/album/4RtMsGDasSSbnjY6dVA7yB"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284394,
+      "name": "LA GRACIOSA",
+      "url": "https://open.spotify.com/track/2ocMQJWmzz0vPx0FzoGJje"
     },
     {
       "album": {
@@ -166,6 +206,28 @@
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/3mIJYbV5fBZglqiRLei3Kp"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273813,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/3UMpdwMNrTOm8z3ldN2I0N"
     },
     {
       "album": {
@@ -450,7 +512,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159082,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/4aZhzKTAQOpmMyy8ln9nc7"
@@ -486,7 +548,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168325,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/6jOc98cnGY5HPpMetR5kOm"

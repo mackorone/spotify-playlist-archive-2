@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "The Fate of the Broken Hearted",
+        "url": "https://open.spotify.com/album/55xI9pc1fCKsols9VFW7re"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171605,
+      "name": "Dido and Aeneas, Z. 626: Dido's Lament (Arr. Huws for Harp)",
+      "url": "https://open.spotify.com/track/1idIMWMeJfxvk0Awer2MMG"
+    },
+    {
+      "album": {
         "name": "Dowland: Lachrimae antiquae",
         "url": "https://open.spotify.com/album/1lMZfgvg9yuvE2jeKtY7BD"
       },
@@ -544,6 +566,28 @@
       "duration_ms": 128586,
       "name": "Festival and Faire",
       "url": "https://open.spotify.com/track/1t15ZwSoumPAgRGZhrVH4h"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) [Upright Version]",
+        "url": "https://open.spotify.com/album/2cOUIkSFT9DLS0BXvmuezG"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Justus Eichhorn",
+          "url": "https://open.spotify.com/artist/79DwUiit79izF5P71SMLdz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178131,
+      "name": "Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) - Upright Version",
+      "url": "https://open.spotify.com/track/7hqA2zUcotxKyhEt01WfEe"
     },
     {
       "album": {

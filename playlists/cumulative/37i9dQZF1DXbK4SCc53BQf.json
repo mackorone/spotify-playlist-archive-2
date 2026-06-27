@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Aleluya",
+        "url": "https://open.spotify.com/album/3YdRfqiRJegnQ51A6GXbOZ"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197361,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/4ev4Iiff5CVXkiWSYgaqrO"
+    },
+    {
+      "album": {
         "name": "Alfarero",
         "url": "https://open.spotify.com/album/2GxTHBxsy5sYDSIiWKAYH3"
       },
@@ -1109,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Dios nos am\u00f3",
+        "url": "https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Dios nos am\u00f3",
+      "url": "https://open.spotify.com/track/46nG55qxILEKoEigxYOMis"
+    },
+    {
+      "album": {
         "name": "Dios Te Bendiga",
         "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
       },
@@ -1428,10 +1464,32 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162551,
       "name": "ETE' MUNDO",
       "url": "https://open.spotify.com/track/5mxXHC2esSHpS76ZZferdn"
+    },
+    {
+      "album": {
+        "name": "Eternamente Te Amo",
+        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
+      },
+      "artists": [
+        {
+          "name": "Jafet",
+          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
+        },
+        {
+          "name": "Melody Joyce",
+          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261461,
+      "name": "Eternamente Te Amo",
+      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
     },
     {
       "album": {
@@ -1768,7 +1826,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 262434,
       "name": "Jord\u00e1n",
       "url": "https://open.spotify.com/track/5IziK5mdFGsyo9YRLLV9wc"
@@ -1804,7 +1862,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 285076,
       "name": "Juntos como hermanos / Que alegr\u00eda / Vienen con alegr\u00eda",
       "url": "https://open.spotify.com/track/4gLefdqjcYj8fwLWLF81jw"
@@ -2113,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Hoy No Pudo Ser",
+        "url": "https://open.spotify.com/album/2gid8ldQL20sszSDum6Pjz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215694,
+      "name": "Lo Que Hoy No Pudo Ser",
+      "url": "https://open.spotify.com/track/05fLRTHI40TvfN2UogPH6U"
+    },
+    {
+      "album": {
         "name": "LONELY",
         "url": "https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz"
       },
@@ -2274,7 +2350,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 189247,
       "name": "Me Siento Libre",
       "url": "https://open.spotify.com/track/20AahfaNpsuIz9He5tWe7Q"
@@ -2470,7 +2546,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 210058,
       "name": "M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/2PUqm44YdZFxDvFEM04xyH"
@@ -2770,6 +2846,24 @@
       "duration_ms": 196156,
       "name": "Ped\u00ed Un Deseo",
       "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+    },
+    {
+      "album": {
+        "name": "Peleando En Mi Mente",
+        "url": "https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Peleando En Mi Mente",
+      "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
     },
     {
       "album": {
@@ -3664,7 +3758,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187933,
       "name": "Tengo Victoria",
       "url": "https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU"
@@ -3748,6 +3842,24 @@
       "duration_ms": 211000,
       "name": "Todo Y Nada - En Vivo",
       "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
+    },
+    {
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
     },
     {
       "album": {
@@ -3876,7 +3988,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 170898,
       "name": "Tus Planes",
       "url": "https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM"
@@ -4022,6 +4134,28 @@
       "duration_ms": 257385,
       "name": "Van God",
       "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
+    },
+    {
+      "album": {
+        "name": "Verso de Amor",
+        "url": "https://open.spotify.com/album/2puEEYFBPFfmMQqXbaEITd"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "Verso de Amor",
+      "url": "https://open.spotify.com/track/20Wr0dFjG4qfFBnlZqJmh1"
     },
     {
       "album": {

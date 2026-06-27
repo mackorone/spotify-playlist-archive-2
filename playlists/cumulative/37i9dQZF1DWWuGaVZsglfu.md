@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Ariana Grande
+> The best tracks from the world of music\. Cover: Olivia Rodrigo
 
-544 songs - 1 day 7 hr 4 min
+546 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-30 | 2024-12-05 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 3:20 | 2025-04-16 | 2025-07-03 |
 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 | 2024-07-24 | 2024-08-15 |
-| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-13 |  |
+| [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 | 2026-05-13 | 2026-06-27 |
 | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/track/0LFYvwPOahhb2FAr2z1M7k) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/album/4Qcxk0sal9fPkgwhb3fA32) | 3:32 | 2024-07-17 | 2024-08-15 |
 | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/track/5TFvDLLJZGgl4F9eJegCgd) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Cinta Tak Pernah Tepat Waktu](https://open.spotify.com/album/0eX3aLzEgrPIIo7DMinZqr) | 3:32 | 2024-09-04 | 2025-01-23 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 | 2026-04-08 | 2026-05-27 |
@@ -199,7 +199,7 @@
 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 | 2025-03-19 | 2025-04-17 |
 | [i don't like u \(but i love u\)](https://open.spotify.com/track/4tEkd3ta78WY2IRtRz3ou8) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [i don't like u \(but i love u\)](https://open.spotify.com/album/4I0lSg6mDyJStWrNBJrcCK) | 3:07 | 2025-07-30 | 2025-08-28 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-14 | 2026-05-21 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-27 | 2025-11-20 |
 | [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 | 2024-08-07 | 2024-10-03 |
 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-02 | 2024-12-12 |
@@ -377,6 +377,7 @@
 | [Ruang & Waktu](https://open.spotify.com/track/3aEQOmXkgUHsIR3A1oiEgR) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Ruang & Waktu](https://open.spotify.com/album/1FFwUNyTkk83wxQwiPECTo) | 2:49 | 2025-05-28 | 2025-06-26 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-20 | 2024-12-05 |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-11-27 | 2024-12-26 |
+| [Sadis](https://open.spotify.com/track/71glSZUO4wGGGCrLvLPXaq) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sadis](https://open.spotify.com/album/1Ql7Guj6oU5pQiiI5ftpOI) | 3:52 | 2026-06-26 |  |
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-06-26 | 2025-02-20 |
 | [Sahabat](https://open.spotify.com/track/2ddeYr2sDs3EJmtYwL9r5M) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Sahabat](https://open.spotify.com/album/5g5wpu2Vmcbiflv5nwPvfi) | 4:01 | 2025-06-04 | 2025-06-26 |
 | [Saham Naik](https://open.spotify.com/track/7nZO67lj0rbx9RLzc9KxmG) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 2:50 | 2025-01-29 | 2025-02-13 |
@@ -411,6 +412,7 @@
 | [Sesaat](https://open.spotify.com/track/71AETshF1rNpsVYVZNC5Ka) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sesaat](https://open.spotify.com/album/6J0FS9xHsVquBalfDRiSYm) | 3:36 | 2025-10-01 | 2025-10-30 |
 | [SESAL](https://open.spotify.com/track/2ZzUaiFFmyFCjuhHglHOtL) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [SESAL](https://open.spotify.com/album/0VZ98o1xulHwBPs50wk0BZ) | 3:29 | 2025-04-23 | 2025-05-22 |
 | [Sesal Tak Bermakna](https://open.spotify.com/track/21QziOU4cWjn1CWavEeSmZ) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Sesal Tak Bermakna](https://open.spotify.com/album/2RfYAJP8TlLV5TIN5Rr60I) | 3:54 | 2024-08-28 | 2024-09-14 |
+| [Sesi Potret](https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Sesi Potret](https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv) | 4:03 | 2026-06-26 |  |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-05-28 | 2025-07-03 |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-06-26 | 2024-07-11 |
 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 | 2025-05-21 | 2025-06-26 |

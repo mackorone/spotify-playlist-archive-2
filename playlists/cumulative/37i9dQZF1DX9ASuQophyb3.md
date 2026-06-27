@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Reynmen
 
-695 songs - 1 day 12 hr 2 min
+696 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 | 2024-08-22 | 2024-09-06 |
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 | 2024-08-02 |
 | [Hırka](https://open.spotify.com/track/1QHpaU9xEGUxkWYXdulbSw) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Hırka](https://open.spotify.com/album/7kDVCqqwuadzJtpYOgQIcg) | 4:07 | 2026-01-08 | 2026-01-23 |
+| [Hıçkırık](https://open.spotify.com/track/1K0L1HmL9uofGkUo6hxJA7) | [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI), [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Hıçkırık](https://open.spotify.com/album/0ZNrJyNOUlYMTl5psmgEwo) | 3:14 | 2026-06-26 |  |
 | [IDI DIDI](https://open.spotify.com/track/4lXSghkK5EMqRa8nkG3Jgh) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy), [Yaren Özaydın](https://open.spotify.com/artist/3uPE296pAZPNAko0tAliut), [Heybensena](https://open.spotify.com/artist/146UWYVJXG95QSDpOqjawp) | [IDI DIDI](https://open.spotify.com/album/0h0bPPHluMCcwXmAvxwhrD) | 2:13 | 2026-06-18 |  |
 | [Isırgan](https://open.spotify.com/track/5ygYby3Yh2PMqfFuYxhOGy) | [Duygu Soylu](https://open.spotify.com/artist/4rGbEwbyxCn54KVvV589AY), [Özgün](https://open.spotify.com/artist/2DJNQjrMqbyGFax9mgHm3f) | [Isırgan](https://open.spotify.com/album/4eUTNrK1HCYBCXJWhAFROO) | 3:46 | 2026-04-09 | 2026-04-24 |
 | [İhtimal](https://open.spotify.com/track/37dO7nOyDyZT4MUDrvH8zK) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [İhtimal](https://open.spotify.com/album/7hAN78zujt3FZ5Wk4t8A8t) | 3:13 | 2024-08-15 | 2024-09-27 |
@@ -572,7 +573,7 @@
 | [Umarım Unutmuştur](https://open.spotify.com/track/4uHd54kBsk8srZVTqaV37F) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Mona Lisa](https://open.spotify.com/album/5mWtdUlQ5hM51PFSrYuQtT) | 2:38 | 2026-02-19 | 2026-03-27 |
 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 | 2026-06-25 |  |
 | [Unutacağım](https://open.spotify.com/track/6ZB2MjZFsNukr71joHmwQd) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Unutacağım](https://open.spotify.com/album/4IJjWvJufVG6aFLmks1eMB) | 2:39 | 2026-06-18 |  |
-| [Unutamazsın](https://open.spotify.com/track/65dKYQvIz5eTTy4fqv19Ji) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Unutamazsın](https://open.spotify.com/album/43nJTaIBqv1ECCCMDFvPfv) | 2:20 | 2025-10-23 |  |
+| [Unutamazsın](https://open.spotify.com/track/65dKYQvIz5eTTy4fqv19Ji) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Unutamazsın](https://open.spotify.com/album/43nJTaIBqv1ECCCMDFvPfv) | 2:20 | 2025-10-23 | 2026-06-27 |
 | [Unuttum](https://open.spotify.com/track/034sApejpkdGyrn4yDdcwH) | [Baha](https://open.spotify.com/artist/2vB0YxchGzK7GpfMp4JX3w), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Unuttum](https://open.spotify.com/album/6foE1hsQFeSgekQKpjopzY) | 4:03 | 2026-05-07 | 2026-06-12 |
 | [Unutulmuyor](https://open.spotify.com/track/69WJKtNwwQ5ST9y34lpp8g) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Unutulmuyor](https://open.spotify.com/album/7md4fYG2lWiKS09tq13Ll4) | 2:52 | 2025-08-21 | 2025-10-31 |
 | [Uslanmaz](https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Uslanmaz](https://open.spotify.com/album/7rpKmV8l7F9nBsyzxW8nMJ) | 2:25 | 2024-07-25 | 2024-11-08 |

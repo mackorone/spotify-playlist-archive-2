@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+ o -",
+        "url": "https://open.spotify.com/album/13dHms0XApDnlof04QefXv"
+      },
+      "artists": [
+        {
+          "name": "Niel Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166269,
+      "name": "+ o -",
+      "url": "https://open.spotify.com/track/4bLM1avZg2BVexiUPGCl4x"
+    },
+    {
+      "album": {
         "name": "Voy A Entregar Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5WgMBg0KfWb1drMLy4uOw2"
       },
@@ -576,6 +594,24 @@
       "duration_ms": 158532,
       "name": "Direccionados VIP Edit",
       "url": "https://open.spotify.com/track/1883GmR7KtX5TsKh04q99J"
+    },
+    {
+      "album": {
+        "name": "Due\u00f1o de Todo",
+        "url": "https://open.spotify.com/album/6Tv4b5X0aQOAuGAAppV3cg"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535571,
+      "name": "Due\u00f1o de Todo",
+      "url": "https://open.spotify.com/track/6d4a2G9dQwIGpg1494sSEk"
     },
     {
       "album": {
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 235070,
       "name": "Somos Libres",
       "url": "https://open.spotify.com/track/5K8h4xOwZVRQa4VGriAQKv"
@@ -2350,7 +2386,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 225542,
       "name": "Vamos a Cantar",
       "url": "https://open.spotify.com/track/2Br9dGiApsxGbh6B1OGJA8"

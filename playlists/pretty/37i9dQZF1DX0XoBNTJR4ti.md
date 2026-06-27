@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 
 > A collection of family\-friendly stories in five minutes or less.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,569 likes - 35 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,578 likes - 35 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XoBNTJR4ti.md) - [plain]
 | 18 | [Mandy Mouse](https://open.spotify.com/track/3plR4Br6f2QpxnPaQokXzH) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Mandy Mouse](https://open.spotify.com/album/5WYoSMuqhb4P5IhLoxQN9Z) | 4:45 |
 | 19 | [Little Red Riding Hood](https://open.spotify.com/track/1bg1YoDRjBKYyv30pguig8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs And Stories](https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e) | 4:50 |
 | 20 | [Chicken Licken](https://open.spotify.com/track/6abzjmJziIfTl7UkOcZG8k) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 2](https://open.spotify.com/album/11fiyuFsAYvKBIzv8uSrVB) | 5:25 |
-| 21 | [Cinderella](https://open.spotify.com/track/6TUS7KrPsLHyrbHdKQcuK4) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 3](https://open.spotify.com/album/4glSOhrOYAV235TuVlsGkf) | 5:00 |
+| 21 | [Cinderella](https://open.spotify.com/track/6TUS7KrPsLHyrbHdKQcuK4) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun, Vol\. 3](https://open.spotify.com/album/4glSOhrOYAV235TuVlsGkf) | 5:00 |
 | 22 | [The 3 Wishes](https://open.spotify.com/track/6stEWRa1Mssvf9qpd4WHOr) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs and Stories](https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY) | 3:18 |
 | 23 | [Pirate Treasure](https://open.spotify.com/track/5HbS4avLoZIYTVcElQmtmE) | [Peppa Pig Stories](https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8) | [Pirate Treasure](https://open.spotify.com/album/3hfnU4gXOokoXNh9zzesoO) | 5:00 |
 | 24 | [The Country Mouse And The City Mouse](https://open.spotify.com/track/3Lq4VY03Ry28qQIV0IT7jN) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [157 Kids Best Songs and Stories](https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY) | 3:17 |
-| 25 | [Tom Thumb](https://open.spotify.com/track/47RnUUD5NINEqodaRDaCHj) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun Vol\. 4](https://open.spotify.com/album/4jUVjpL3MQaigupwkFFh16) | 3:46 |
+| 25 | [Tom Thumb](https://open.spotify.com/track/47RnUUD5NINEqodaRDaCHj) | [Smiley Storytellers](https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt) | [Fairy Tales, Kid Stories and Fun, Vol\. 4](https://open.spotify.com/album/4jUVjpL3MQaigupwkFFh16) | 3:46 |
 | 26 | [The Elves and the Shoemaker](https://open.spotify.com/track/3RxXRKAHUGVElHojNgdh93) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [25 Best Kids Stories, Vol\. 1](https://open.spotify.com/album/63O04CjLofFffxZtxuzo5R) | 4:02 |
 | 27 | [The Owl and the Pussycat](https://open.spotify.com/track/3u4KqPXfRX1zMNZYUVMvvE) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [25 Best Kids Stories, Vol\. 1](https://open.spotify.com/album/63O04CjLofFffxZtxuzo5R) | 1:43 |
 | 28 | [Hansel and Gretel](https://open.spotify.com/track/6rAAnCV6AP6u6JHJf4UFYW) | [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r) | [Sesame Street: The Sesame Street Fairy Tale Album](https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS) | 4:04 |

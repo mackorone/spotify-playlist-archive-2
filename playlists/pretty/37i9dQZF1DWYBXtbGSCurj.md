@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Brocasito, Abbot, BGK
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,940 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,028 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 6 | [ZONA DE PERIGO](https://open.spotify.com/track/6q9KVAb0UgdBmgqJFdQrOM) | [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [maiarealplug](https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy), [GFM](https://open.spotify.com/artist/4YDz87v1xGFjUr9Sovl0AM) | [SELVAGERIA](https://open.spotify.com/album/7dCbVm7RTCjDMHuOQ1KlhQ) | 2:19 |
 | 7 | [Bad and Boujee](https://open.spotify.com/track/2JKrXh8P3MrMRTZKTYGYdB) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [FOD\*SE A P\*RRA DO TRAP \(DLC\)](https://open.spotify.com/album/5KGP1AkuJ1IyJf5gI9W76v) | 2:52 |
 | 8 | [Umbrella](https://open.spotify.com/track/3FtRtoJHaUqrkY2FHRkEtX) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t) | [Umbrella](https://open.spotify.com/album/2dwGjp6JC9KinbMPD4vRl0) | 3:30 |
-| 9 | [Blue Balenciaga](https://open.spotify.com/track/5W6DR95vbfWQtVNcj7g8ir) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [A FÓRMULA](https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [Blue Balenciaga](https://open.spotify.com/album/2bZRw6aSJeOs1V5AoqBGCN) | 2:03 |
+| 9 | [Blue Balenciaga](https://open.spotify.com/track/5W6DR95vbfWQtVNcj7g8ir) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [A FÓRMULA](https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz) | [Blue Balenciaga](https://open.spotify.com/album/2bZRw6aSJeOs1V5AoqBGCN) | 2:03 |
 | 10 | [Te vi lá no Site](https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9) | [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Te vi lá no Site](https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0) | 2:37 |
 | 11 | [Vibração](https://open.spotify.com/track/7FmrORHUYaNlBF1lS0HayP) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Vibração](https://open.spotify.com/album/5yNQz4Zf4SYwygZk7hTE7c) | 2:41 |
 | 12 | [pyschol](https://open.spotify.com/track/4e6jJ6GMgSTiyXVg4iJnAZ) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG) | [ugo.exe](https://open.spotify.com/album/3mJbVw5GcZMpvldIdIquuH) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Princesa Minimalista](https://open.spotify.com/track/0g1kQdEoZ93wG0GsUP0ZIf) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Trak](https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M) | [Princesa Minimalista](https://open.spotify.com/album/4i2lK5t4JwkMHgDv7osymf) | 3:09 |
 | 75 | [Questão de Tempo](https://open.spotify.com/track/6BCy8MRzxlyYe0m1QPXrVa) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [Questão de Tempo](https://open.spotify.com/album/4q2tM1I0t2rodhMNHS8FLO) | 2:06 |
 
-Snapshot ID: `AAAAAJhRnnwhBFELamuRjwsqS9qTKjCu`
+Snapshot ID: `AAAAAEK+lmFmw2uSwx1K6W+lgz9XAnut`

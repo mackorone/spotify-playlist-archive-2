@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[\-Taq\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 3,107 likes - 81 songs - 3 hr 29 min
+[\-Taq\-](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 3,108 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 36 | [Back End Blues](https://open.spotify.com/track/7g1HuVyMNGmMxfzS8nQ1Hn) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:51 |
 | 37 | [Intro Jingle](https://open.spotify.com/track/3bcGDqANHU0nCa7Hvz3tw5) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 0:08 |
 | 38 | [At Least Not Yet](https://open.spotify.com/track/0eVRfIVLjaxIss80CrUjoG) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 3:22 |
-| 39 | [MAMA\-GEN](https://open.spotify.com/track/4aNEgCMAFd7IZ6A1IUgJH8) | [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS), [Sotowolf2016](https://open.spotify.com/artist/2hstcmuVbtzlOZwcgkNXqL) | [VIRTUAL LIFE](https://open.spotify.com/album/3XyZOUFLUzNc0DHkzpywWe) | 2:13 |
+| 39 | [MAMA\-GEN](https://open.spotify.com/track/4aNEgCMAFd7IZ6A1IUgJH8) | [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS) | [VIRTUAL LIFE](https://open.spotify.com/album/3XyZOUFLUzNc0DHkzpywWe) | 2:13 |
 | 40 | [Professional Dog](https://open.spotify.com/track/22468108sXHJSMZ7Uffixx) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [The New 4lung Album](https://open.spotify.com/album/7ktcibSjb9UykTwVGR92NU) | 2:00 |
 | 41 | [RUIN MY LIFE \(​ʟ​ɪ​ᴄ​ᴋ ᴍʏ ʀ​ᴜ​ssʏ ᴀ​ɴ​ᴅ ᴍʏ ᴄ​ʀ​ᴀ​ᴄ​ᴋ​\)](https://open.spotify.com/track/5HmDyHzgP4e1LHmIlAKMaj) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RUIN MY LIFE \(​ʟ​ɪ​ᴄ​ᴋ ᴍʏ ʀ​ᴜ​ssʏ ᴀ​ɴ​ᴅ ᴍʏ ᴄ​ʀ​ᴀ​ᴄ​ᴋ​\)](https://open.spotify.com/album/6P7vLI213QKazvc6CbsvB4) | 2:28 |
 | 42 | [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 |

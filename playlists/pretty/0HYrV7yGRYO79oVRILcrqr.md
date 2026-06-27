@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,859 likes - 85 songs - 5 hr 42 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,859 likes - 86 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 83 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 |
 | 84 | [No es pecado](https://open.spotify.com/track/0G6a9gaWPPFsmu3Cb9hMpx) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 4:38 |
 | 85 | [Love Me Back](https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Love Me Back](https://open.spotify.com/album/0MkfpV7NcjQbXOpq0SMa3z) | 3:22 |
+| 86 | [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 |
 
-Snapshot ID: `AAALzgev7cqMbNBK4WnPLSXTw4EDfl7x`
+Snapshot ID: `AAALzyScCPosZIUNAkYLtRphUHuq2UJ6`

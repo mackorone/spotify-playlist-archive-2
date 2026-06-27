@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Feel It All Again",
+        "url": "https://open.spotify.com/album/6gCprK5FOgT9z0OZQBSd3W"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Feel It All Again",
+      "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
+    },
+    {
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -5285,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "Robotic Love",
+        "url": "https://open.spotify.com/album/01f4z9qlIFuQ995ktvJHjE"
+      },
+      "artists": [
+        {
+          "name": "elkan",
+          "url": "https://open.spotify.com/artist/3WSjliq6LXGZZRYwJd5Jbe"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205914,
+      "name": "Robotic Love",
+      "url": "https://open.spotify.com/track/2nESIycF0tKqtJk2nxRmuF"
+    },
+    {
+      "album": {
         "name": "Sing When You're Winning",
         "url": "https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m"
       },
@@ -5412,7 +5448,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"

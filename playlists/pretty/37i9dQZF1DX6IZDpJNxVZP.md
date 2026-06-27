@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,539 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,532 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 51 | [Run Rudolph Run](https://open.spotify.com/track/5dz0znJokWnGpYiAXMi2NJ) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Run Rudolph Run](https://open.spotify.com/album/4SXUAm1Xiw1HHsEwq99WBR) | 2:42 |
 | 52 | [Christmas All Over Again](https://open.spotify.com/track/7gFWrOdP9CK2Y2kI85Ptdv) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey and the Very Many Christmases \(Original Soundtrack\)](https://open.spotify.com/album/3sfCAbyjR2RN1LxXMaWp0L) | 1:51 |
 | 53 | [Peppa's Sleigh Ride](https://open.spotify.com/track/6d4vPBlZIaE9kLsjhNQoLH) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Happy Holidays with Peppa Pig](https://open.spotify.com/album/3Vy9FyTFq1finvi8k8H13g) | 3:23 |
-| 54 | [Don't Be A Jerk \(It's Christmas\)](https://open.spotify.com/track/6diKTB6VWE1JxRUvjzoTld) | [Spongebob Squarepants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [It's A SpongeBob Christmas! Album](https://open.spotify.com/album/441OzdFDiUUgQ273HjHzlA) | 2:34 |
+| 54 | [Don't Be A Jerk \(It's Christmas\)](https://open.spotify.com/track/6diKTB6VWE1JxRUvjzoTld) | [SpongeBob SquarePants](https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj) | [It's A SpongeBob Christmas! Album](https://open.spotify.com/album/441OzdFDiUUgQ273HjHzlA) | 2:34 |
 | 55 | [Wintertime is better with friends](https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7) | [Mini Smiley](https://open.spotify.com/artist/60IT25papFnCsrfkel54e8) | [Christmas Songs](https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m) | 2:36 |
 | 56 | ['Zat You, Santa Claus?](https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:34 |
 | 57 | [We Wish You a Merry Christmas](https://open.spotify.com/track/3O3tvaQnp76v0UquL3B8SA) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [We Wish You a Merry Christmas](https://open.spotify.com/album/2gMdZ3jT2q3dHjXJt1D7B8) | 2:00 |

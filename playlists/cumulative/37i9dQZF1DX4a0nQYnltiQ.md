@@ -4,7 +4,7 @@
 
 > The \#1 Destination for the best melodies in the world\. Cover: Steve Lacy
 
-150 songs - 7 hr 35 min
+151 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I know](https://open.spotify.com/track/1sfC1pBC9jUn5QUGbW4Inq) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [I know](https://open.spotify.com/album/6d007bzGban8JqmIvrubZW) | 3:15 | 2025-07-10 | 2025-07-25 |
 | [I'm OK](https://open.spotify.com/track/6fKFucYhNUguZCuX0FTJfQ) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [I’m OK](https://open.spotify.com/album/04ZQfIDilS8OXjviQPj6yb) | 3:36 | 2025-07-10 | 2025-09-12 |
 | [Impact](https://open.spotify.com/track/4mGAgHZ5kZwxvXEYqOxbOu) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Impact](https://open.spotify.com/album/2M4e4YtEp2Dyrozz7ghg1U) | 4:59 | 2025-07-10 | 2025-10-10 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-25 |  |
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-03-20 |  |
 | [Life After Love](https://open.spotify.com/track/4iI3VuXTaRHhPtIukeljkU) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Life After Love](https://open.spotify.com/album/026mGyAjIYXJVinjFvWF8X) | 2:10 | 2025-07-10 | 2025-10-17 |
 | [Like A Star](https://open.spotify.com/track/7mMi0mUPohV2X0nNsCeH57) | [Sophie Castillo](https://open.spotify.com/artist/4LoRVyF2R00cUR8q3oatMb) | [Like A Star](https://open.spotify.com/album/5Pb8ViifCseDip08mLNnsT) | 2:46 | 2025-07-10 | 2026-04-24 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 59928,
+  "num_followers": 59937,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -851,30 +851,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
       },
       "artists": [
         {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Danny Boy",
-          "url": "https://open.spotify.com/artist/3Cntpdjm5aq13H1IalBAga"
-        },
-        {
-          "name": "Syke",
-          "url": "https://open.spotify.com/artist/6kXRDOhy73hpUJuIzLLwvm"
-        },
-        {
-          "name": "C-PO",
-          "url": "https://open.spotify.com/artist/4NU1ENV9ADEMnvlgJkExEV"
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
         }
       ],
-      "duration_ms": 314906,
-      "name": "Picture Me Rollin'",
-      "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
+      "duration_ms": 278533,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
     }
   ],
   "unique_name": "Steven Victor's Taste",

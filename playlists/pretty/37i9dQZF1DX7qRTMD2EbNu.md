@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & Kwesi Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,888 likes - 79 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,933 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 0:00 |
+| 1 | [Me](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 2:14 |
 | 2 | [Won't Be Here Forever](https://open.spotify.com/track/6cBnyv4GsGl9VJx2tW2oP5) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [How Did We Get Here](https://open.spotify.com/album/0EqCL0NBywUAAVFuPrUHK8) | 3:05 |
 | 3 | [Adu the Borga](https://open.spotify.com/track/1USHzKwx6N8MO9ePRnpqfo) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 2:34 |
 | 4 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |

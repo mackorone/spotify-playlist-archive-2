@@ -3633,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/2J7s7Zo6TNPeKSYnAVz2KF"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399992,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/4j95thWu0vNFOB1qWKkxV9"
+    },
+    {
+      "album": {
         "name": "I Can't Get Enough",
         "url": "https://open.spotify.com/album/7crmaW8Z1HEy4wKmbUtj2x"
       },
@@ -6362,7 +6380,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 219000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/38ZNIoztDMomK5RYl6fDEO"

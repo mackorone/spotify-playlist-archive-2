@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,863 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,880 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 20 | [Que Me Maten Las Penas](https://open.spotify.com/track/0agl1LIUm2XGtbWak77G68) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Que Me Maten Las Penas](https://open.spotify.com/album/1G3ctECROeLa3lNVers9tt) | 3:44 |
 | 21 | [Ojalá Sea Cierto](https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 2:36 |
 | 22 | [Te Amo Y Te Lo Digo](https://open.spotify.com/track/6HQTfGCo5O2itJ25D1yytt) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:02 |
-| 23 | [Con El Alma En La Mano](https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:40 |
-| 24 | [Mi Amor sin Ella \- Remastered 2025](https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:15 |
-| 25 | [Vuelve por Favor](https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:20 |
+| 23 | [Mi Amor sin Ella \- Remastered 2025](https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:15 |
+| 24 | [Vuelve por Favor](https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:20 |
+| 25 | [Con El Alma En La Mano](https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:40 |
 | 26 | [Al Final De Tu Camino](https://open.spotify.com/track/23IZObD629IXwpPEyDM3RL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:27 |
 | 27 | [Una Tarde Como Cualquiera](https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:10 |
 | 28 | [Pasión de Amor \- Remastered 2025](https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:40 |
 | 29 | [Ojalá](https://open.spotify.com/track/0CDr89BlgF2Jm5bLgsUlz1) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [35 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z) | 3:30 |
 | 30 | [Mi Gran Problema](https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:35 |
 | 31 | [Cuenta Conmigo](https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 3:36 |
-| 32 | [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 |
+| 32 | [Adiós, Adiós \- Remastered 2025](https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:13 |
 | 33 | [Borracho De Besos](https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [35 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z) | 3:41 |
-| 34 | [Adiós, Adiós \- Remastered 2025](https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:13 |
+| 34 | [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 |
 | 35 | [Nunca Cambies](https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL) | 2:37 |
 | 36 | [Por Amor Y Fe](https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:33 |
 | 37 | [Historia De Un Amor](https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Historia De Un Amor](https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Discúlpame](https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Discúlpame](https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC) | 3:57 |
 | 50 | [El Último Minuto](https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Último Minuto](https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps) | 3:31 |
 
-Snapshot ID: `ajseAAAAAAD3TmStqX60rTQZwehgr5bf`
+Snapshot ID: `ajxvgAAAAACrCv3OfO3iKo8vFY7jewYX`

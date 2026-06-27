@@ -992,7 +992,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 153977,
       "name": "Atoms",
       "url": "https://open.spotify.com/track/7sSsEu8vZqUjQzbQY1unO4"
@@ -1848,6 +1848,28 @@
       "duration_ms": 163255,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/5Kvt3Z5UmSujUQDFUJZ9oi"
+    },
+    {
+      "album": {
+        "name": "Broken heart",
+        "url": "https://open.spotify.com/album/06FNamFD9hMoDFz9XzJeON"
+      },
+      "artists": [
+        {
+          "name": "Guidolain beats",
+          "url": "https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP"
+        },
+        {
+          "name": "The Retune Project",
+          "url": "https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99750,
+      "name": "Broken heart",
+      "url": "https://open.spotify.com/track/75Oqrj2AE1wS7e8Cq8muXM"
     },
     {
       "album": {
@@ -3338,7 +3360,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
@@ -4909,6 +4931,28 @@
     },
     {
       "album": {
+        "name": "Floating in the Lounge",
+        "url": "https://open.spotify.com/album/6fBtATV56yxhgSdGi1hern"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Floating in the Lounge",
+      "url": "https://open.spotify.com/track/4thpsT3LNmiZs5V2FgCnPE"
+    },
+    {
+      "album": {
         "name": "Flou",
         "url": "https://open.spotify.com/album/60zc77AzwG4gt7NTIvAC7L"
       },
@@ -5012,7 +5056,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 125159,
       "name": "flygawd",
       "url": "https://open.spotify.com/track/1GVk47Cvw4gRGMpex3zZUp"
@@ -5482,6 +5526,28 @@
       "duration_ms": 141176,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/7nNck2PhET9OK7epBKwhHz"
+    },
+    {
+      "album": {
+        "name": "Gimme Your Time",
+        "url": "https://open.spotify.com/album/1m0QrLaAtTpn1Zrzh6lI3f"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        },
+        {
+          "name": "OMMI",
+          "url": "https://open.spotify.com/artist/75GHk4deBRJlGhw6TehRuR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138171,
+      "name": "Gimme Your Time",
+      "url": "https://open.spotify.com/track/6kM7J233aOa9u5HE9M8f3z"
     },
     {
       "album": {
@@ -6449,6 +6515,24 @@
     },
     {
       "album": {
+        "name": "hummingbird",
+        "url": "https://open.spotify.com/album/5qCFUlftlTBolI68wUjkgT"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "hummingbird",
+      "url": "https://open.spotify.com/track/7cRHttCOKV8JZPnA0PE2kd"
+    },
+    {
+      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/4ibmuGQ6uUCLVCIcuy8nke"
       },
@@ -6468,7 +6552,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 108889,
       "name": "hush",
       "url": "https://open.spotify.com/track/6Rrb41SWFY6zfmyviZ5mSJ"
@@ -7347,6 +7431,28 @@
     },
     {
       "album": {
+        "name": "Kater",
+        "url": "https://open.spotify.com/album/1cIUKP7opzS2s3Q0uk0Oco"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104096,
+      "name": "Kater",
+      "url": "https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd"
+    },
+    {
+      "album": {
         "name": "Kebab Sauce",
         "url": "https://open.spotify.com/album/2ErhKjzJvbAV07mb7VWD54"
       },
@@ -7732,7 +7838,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 123000,
       "name": "Last Ray",
       "url": "https://open.spotify.com/track/1OepOwxPyqCYctBH2DyWu4"
@@ -8019,6 +8125,32 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/0fyesHkl7J28wdalaK9o4p"
+      },
+      "artists": [
+        {
+          "name": "Sheath",
+          "url": "https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw"
+        },
+        {
+          "name": "hotpotatoes",
+          "url": "https://open.spotify.com/artist/1dZJR80G2bQzlGD2F9bOwG"
+        },
+        {
+          "name": "tramori",
+          "url": "https://open.spotify.com/artist/7Av7PFsKF71Lh0YgZqvQXd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114007,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1n9nedXmq3sEcqT7aShm0i"
+    },
+    {
+      "album": {
         "name": "Let's Play",
         "url": "https://open.spotify.com/album/0O0GjMpqQ0kHgRHns7DI5i"
       },
@@ -8182,7 +8314,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 118153,
       "name": "Lights",
       "url": "https://open.spotify.com/track/3UN61l5ZGaUAllaz8ZUpvV"
@@ -8284,7 +8416,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 128998,
       "name": "Limes",
       "url": "https://open.spotify.com/track/0vYoOnvctOU7WTrZ0F5MHH"
@@ -9450,7 +9582,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 113768,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0y6CvWmmpmJ4ZiUQjgTmPQ"
@@ -11200,7 +11332,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 122790,
       "name": "Opals",
       "url": "https://open.spotify.com/track/3RtwoMRo2MKGQmfGtJphrw"
@@ -12058,7 +12190,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 122790,
       "name": "Poplar",
       "url": "https://open.spotify.com/track/4dqEfht8003OLT3wZBOvBz"
@@ -13198,7 +13330,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 123000,
       "name": "Settled",
       "url": "https://open.spotify.com/track/3AT7qsJhazXy92ur5AGgaa"
@@ -13296,6 +13428,24 @@
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf"
+    },
+    {
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/74aTs51SbBqXaA1yEwBs8q"
+      },
+      "artists": [
+        {
+          "name": "Jost Esser",
+          "url": "https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129210,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/0jiHFSq49GpQ9BPhFeAuS4"
     },
     {
       "album": {
@@ -14370,7 +14520,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 117073,
       "name": "St Kitts",
       "url": "https://open.spotify.com/track/3HbNIUhOuTT05WTDSmQ4OI"
@@ -15138,6 +15288,28 @@
       "duration_ms": 280975,
       "name": "Sunsets",
       "url": "https://open.spotify.com/track/4TvRslVhVW2ULg7nhgAzn9"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/11bfIlWYoe2A0cmVUOzXf9"
+      },
+      "artists": [
+        {
+          "name": "Yummy",
+          "url": "https://open.spotify.com/artist/0fOVDBNJ2TffrHk0SwlGZ5"
+        },
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94099,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1eFQ9tUxDHGb6LGMy1ilbK"
     },
     {
       "album": {
@@ -16160,7 +16332,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162575,
       "name": "The Winds Of Change",
       "url": "https://open.spotify.com/track/6PjuBpVOA9n1xJEoQzhT8O"
@@ -17356,7 +17528,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "violet",
       "url": "https://open.spotify.com/track/5bKHuX3cPzbRMT8JIyWIHF"

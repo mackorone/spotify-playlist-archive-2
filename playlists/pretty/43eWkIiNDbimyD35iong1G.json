@@ -1,29 +1,13 @@
 {
-  "description": "Your perfect 2026 Wedding Playlist! \u2728 Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! \u2764\ufe0f Save for your special day.",
-  "num_followers": 194246,
+  "description": "Your perfect 2026 Wedding Reception Playlist! \u2728 Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! \u2764\ufe0f Save for your special day.",
+  "num_followers": 194612,
   "original_name": "Wedding Songs 2026",
   "owner": {
     "name": "Topsify US",
     "url": "https://open.spotify.com/user/warnermusicus"
   },
-  "snapshot_id": "AAAEslWfiSN5E72i1ki1BJJjkcOR61fn",
+  "snapshot_id": "AAAEtLx5n7SjdzWmuG/Wf0K3FbSufq0m",
   "tracks": [
-    {
-      "added_at": "2026-06-24 21:04:59",
-      "album": {
-        "name": "Ordinary (Wedding Version)",
-        "url": "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary - Wedding Version",
-      "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
-    },
     {
       "added_at": "2026-06-24 21:07:46",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
+      "added_at": "2026-06-24 21:04:59",
+      "album": {
+        "name": "Ordinary (Wedding Version)",
+        "url": "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary - Wedding Version",
+      "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
     },
     {
       "added_at": "2026-06-24 21:04:34",

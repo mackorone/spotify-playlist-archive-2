@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,236 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,288 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 38 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 39 | [Who Run It](https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Who Run It](https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI) | 2:43 |
 | 40 | [Rap Niggas](https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:44 |
-| 41 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
-| 42 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
+| 41 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
+| 42 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
 | 43 | [Rich Off Rap](https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:00 |
 | 44 | [Meet The 6ixers](https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [MEET THE 6IXERS](https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5) | 2:17 |
 | 45 | [Left Eye](https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [DOPEMAN](https://open.spotify.com/track/6lTxBTBNE8NCLfSs5LflhJ) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [6WA](https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0) | 2:01 |
 | 50 | [No Love \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4bA0warBsmbGTkVRFDTviU) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [No Love](https://open.spotify.com/album/0jNWu1J9xoi5MYDaCCBapr) | 2:29 |
 
-Snapshot ID: `ajseAAAAAABEQpXQZrn3EIZgsUDbrIw3`
+Snapshot ID: `ajxvgAAAAADti4OMtacHzAVFi9Q+AbU1`

@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1517424,
+  "num_followers": 1517735,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "L'Amour Toujours",
         "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 255546,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
+        "name": "Made In Sweden",
+        "url": "https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA"
+      },
+      "artists": [
+        {
+          "name": "E-Type",
+          "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "This Is The Way - Radio Edit",
+      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
         "name": "Short Dick Man",
         "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
-        "name": "Made In Sweden",
-        "url": "https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA"
-      },
-      "artists": [
-        {
-          "name": "E-Type",
-          "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "This Is The Way - Radio Edit",
-      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Don't Stop Movin'",
-      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "Swipe Me",
         "url": "https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 231986,
       "name": "Dooh Dooh",
       "url": "https://open.spotify.com/track/06MaHjSGleJNvfsugH0mFi"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
     },
     {
       "added_at": "2024-07-15 19:54:53",

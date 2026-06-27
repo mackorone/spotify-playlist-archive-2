@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2026! Cover: Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,096 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,106 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 10 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 11 | [Satisfaction Skank](https://open.spotify.com/track/75PWvCyXFTuXvwmntGMhuB) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank \(High Contrast Remix\)](https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb) | 3:19 |
 | 12 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 |
-| 13 | [Share The House](https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Share The House](https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl) | 3:12 |
-| 14 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
-| 15 | [My Destiny \- 2026 Edit](https://open.spotify.com/track/1quse5mAKsNcrilBTJosG3) | [Delinquent](https://open.spotify.com/artist/1VtJL8QulGDXbbZwTaGV53), [KCAT](https://open.spotify.com/artist/0aWB8X9jnXYw3cyRnUtutZ), [Mike Delinquent Project](https://open.spotify.com/artist/3ktmzZtH6NJz7269QgaBtL) | [My Destiny](https://open.spotify.com/album/0O9mN7yH0MENyCjaOLzFIC) | 2:27 |
-| 16 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
-| 17 | [Mi Chico](https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg) | [Mi Chico](https://open.spotify.com/album/62l0wWMAp5TewPjHGqzyqY) | 1:57 |
+| 13 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 |
+| 14 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 15 | [Share The House](https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Share The House](https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl) | 3:12 |
+| 16 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
+| 17 | [My Destiny \- 2026 Edit](https://open.spotify.com/track/1quse5mAKsNcrilBTJosG3) | [Delinquent](https://open.spotify.com/artist/1VtJL8QulGDXbbZwTaGV53), [KCAT](https://open.spotify.com/artist/0aWB8X9jnXYw3cyRnUtutZ), [Mike Delinquent Project](https://open.spotify.com/artist/3ktmzZtH6NJz7269QgaBtL) | [My Destiny](https://open.spotify.com/album/0O9mN7yH0MENyCjaOLzFIC) | 2:27 |
 | 18 | [Let Me Be In Your Arms](https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Let Me Be In Your Arms](https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs) | 3:13 |
 | 19 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
 | 20 | [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 |
@@ -107,6 +107,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 97 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 98 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
 | 99 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
-| 100 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 
-Snapshot ID: `AAAAAJ9XpKwB3M5xB/kutUF7LMe377CO`
+Snapshot ID: `AAAAANcJElBn6XY+xGwWX7iUIND+sft3`

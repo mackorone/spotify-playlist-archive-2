@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Campione 2000 \- Radio Version](https://open.spotify.com/track/0yf6LL8DG9hOB84qjCtoFj) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Campione 2000 \- The Official Euro 2000 Anthem](https://open.spotify.com/album/7EU8dnFKEVJVq7xKgyHtlC) | 3:34 | 2012-05-23 |  |
+| [Campione 2000 \- Radio Version](https://open.spotify.com/track/0yf6LL8DG9hOB84qjCtoFj) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Campione 2000](https://open.spotify.com/album/7EU8dnFKEVJVq7xKgyHtlC) | 3:34 | 2012-05-23 |  |
 | [Carnaval De Paris \- Radio Mix](https://open.spotify.com/track/0qAYczZuIPY8pn4Exv9PpL) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A), [Mixed By Dario G & Mark Tucker](https://open.spotify.com/artist/5ASwILlaGJeEU3mkUfhkM1) | [Carnaval De Paris](https://open.spotify.com/album/4wC4lpIgU0imCfhOR4qld8) | 3:52 | 2012-06-06 |  |
 | [Det Spelades Bättre Boll](https://open.spotify.com/track/63kD9G9bG0Y10SxVvYJZNS) | [Torsson](https://open.spotify.com/artist/3QQOx64tLX3UIjImu2ANtc) | [ELMIA \- jordbruksutställning](https://open.spotify.com/album/3B9tX3djQ8D9QfigENQecE) | 3:48 | 2012-06-06 |  |
 | [Du Och Jag Och Glenn Hysén \(Dansmix\)](https://open.spotify.com/track/6fhGll7zYYIb6zP8bKK7bW) | [Micke Syd](https://open.spotify.com/artist/62vj47O6nNW5jFJ2yuliKS) | [Du Och Jag Och Glenn Hysén](https://open.spotify.com/album/2ZL6d5umjwe2lxShKIs325) | 3:29 | 2012-06-06 |  |

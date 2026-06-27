@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 22 songs - 52 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 816 likes - 22 songs - 52 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 21 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
 | 22 | [Getting Late Night](https://open.spotify.com/track/3OTeopQuiNsNLR2fonFZlU) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh), [David Stal](https://open.spotify.com/artist/5GU98Lel6AXhTsoaSASYNX) | [Hacks: Seasons 2\-5 \(Original Series Soundtrack\)](https://open.spotify.com/album/6SCMaaxakgzykc4Ujjxg5x) | 2:00 |
 
-Snapshot ID: `ajseAAAAAAD+IwNnnUgFNIYqDmAF5Tnd`
+Snapshot ID: `ajxvgAAAAABO6smnEVqCRXB1dXGJll3J`

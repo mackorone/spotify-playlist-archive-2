@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7398,
+  "num_followers": 7401,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADAXQghvLMrWo1HrhIhJmh6",
+  "snapshot_id": "ajxvgAAAAADJvLOR7nZLYZPFBtkJCRDq",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'Yo (29 Aniversario)",
-        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 171135,
-      "name": "Pa'Yo (29 Aniversario)",
-      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
+      "duration_ms": 200426,
+      "name": "La Banda Rock",
+      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+        "name": "Pa'Yo (29 Aniversario)",
+        "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 200426,
-      "name": "La Banda Rock",
-      "url": "https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn"
+      "duration_ms": 171135,
+      "name": "Pa'Yo (29 Aniversario)",
+      "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
     },
     {
       "added_at": null,

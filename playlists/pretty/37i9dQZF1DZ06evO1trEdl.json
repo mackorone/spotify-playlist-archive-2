@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6631,
+  "num_followers": 6632,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABg926gbixban0SaZzrhb3C",
+  "snapshot_id": "ajxvgAAAAAC46o5rIZttuuWobQhjde9E",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees - The Very Best Of",
-        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 213786,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
+      "duration_ms": 481640,
+      "name": "When Will I See You Again / Love Train - Live Medley",
+      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
     },
     {
       "added_at": null,
@@ -295,26 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
       },
       "artists": [
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 481640,
-      "name": "When Will I See You Again / Love Train - Live Medley",
-      "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+      "duration_ms": 213786,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 221093,
       "name": "Toast Of Love",
       "url": "https://open.spotify.com/track/3fHPWPG4Ef7cI7vOZYTeJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Look in My Eyes",
         "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 157773,
       "name": "Look in My Eyes",
       "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "60's Girl Groups",
-        "url": "https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "No, No Not Again",
-      "url": "https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 293906,
       "name": "Gee Baby I'm Sorry / Take Good Care of Yourself / The Runner - Live Medley",
       "url": "https://open.spotify.com/track/1ZI40a48FO8d3OTUfAdYwn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "60's Girl Groups",
+        "url": "https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "No, No Not Again",
+      "url": "https://open.spotify.com/track/48uOmFxgtnZtWkM1at2K4r"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees Live",
-        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "T.S.O.P. (The Sound Of Philadelphia) - Live at Bailey's, London, England - 1975",
-      "url": "https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 164306,
       "name": "Rosegarden",
       "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Free Ride - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees Live",
-        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Free Ride - Live at Bailey's, London, England - 1975",
-      "url": "https://open.spotify.com/track/6p31MRw6SHnG4B2FOV8I0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204520,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/7F6kaO0Bp9uKefViCZGiP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees Live",
+        "url": "https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "T.S.O.P. (The Sound Of Philadelphia) - Live at Bailey's, London, England - 1975",
+      "url": "https://open.spotify.com/track/45zlvuzYYe5jcG8VX9XXEZ"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Close Your Eyes / Gotta Draw the Line",
-        "url": "https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Gotta Draw the Line",
-      "url": "https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe (Expanded Edition)",
         "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 235693,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Close Your Eyes / Gotta Draw the Line",
+        "url": "https://open.spotify.com/album/4SkEdHeraLeqe5stv41pq9"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Gotta Draw the Line",
+      "url": "https://open.spotify.com/track/7HNVtnLuq2lmKMPB9kFj1A"
     },
     {
       "added_at": null,

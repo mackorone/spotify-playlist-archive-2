@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Hooligan Hefs
 
-864 songs - 1 day 17 hr 39 min
+866 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-08 | 2024-10-18 |
 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 | 2024-04-05 | 2024-08-02 |
 | [HA](https://open.spotify.com/track/51IUpGY4rRh9fKJSzTC4qn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:53 | 2025-12-12 | 2026-01-31 |
+| [HAAVIN](https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HAAVIN](https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm) | 2:30 | 2026-06-26 |  |
 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 | 2025-06-12 | 2025-08-22 |
 | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/track/3miaStyl3Y5JrMf1fZAEY3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [HANDLING BUSINESS \(with Tory Lanez\)](https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV) | 3:22 | 2025-01-16 | 2025-02-21 |
 | [HANDOUT](https://open.spotify.com/track/3v4GDXibV0EcyViPek8I1d) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz), [Jamahl Yami](https://open.spotify.com/artist/3Itv2bIVJFOjkW4UtMfclN) | [HANDOUT](https://open.spotify.com/album/2TBTrjzQYJGtFCH12Gc6Pe) | 4:16 | 2026-06-18 |  |
@@ -621,6 +622,7 @@
 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 | 2026-04-30 |  |
 | [QUIET](https://open.spotify.com/track/1j8ObJlfbKQhXV1RXzNF5S) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z), [blendwise](https://open.spotify.com/artist/5UXVHfbYhVQy9TtRAEJo5W), [ENO](https://open.spotify.com/artist/43WRcxnLsTBgl73jDYDKuP) | [QUIET/NO HONEY](https://open.spotify.com/album/6ls8stXjfcl47ehVJHSzrj) | 3:40 | 2024-06-21 | 2024-08-02 |
 | [Quincy Promes](https://open.spotify.com/track/63EsJUVOQFYkMogamKR7o2) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU), [PS Hitsquad](https://open.spotify.com/artist/2EFfcfsFZxKJXnN63BqyPc) | [Quincy Promes](https://open.spotify.com/album/1gy1CJieTwVImFeBbXlB9g) | 2:02 | 2024-08-01 | 2024-11-22 |
+| [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 | 2026-06-26 |  |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-22 | 2026-06-26 |
 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 | 2023-09-28 | 2023-11-10 |
 | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/track/2liaCKyzID20FGfWslwWHA) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/album/5e4EiQFjBNnd1UGx3tnJ5W) | 2:49 | 2026-06-18 |  |

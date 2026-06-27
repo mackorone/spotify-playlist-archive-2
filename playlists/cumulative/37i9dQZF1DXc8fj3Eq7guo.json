@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181810,
+      "name": "Cairo FM",
+      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
+    },
+    {
+      "album": {
         "name": "CLARITY OF MIND",
         "url": "https://open.spotify.com/album/2dsbyfeOhmmpzisluBfPKc"
       },

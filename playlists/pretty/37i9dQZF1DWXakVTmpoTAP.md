@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,971 likes - 36 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,990 likes - 36 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 33 | [Things Dads Do](https://open.spotify.com/track/14bD7Sx9HkF5g9DgcS6TmQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Things Dads Do](https://open.spotify.com/album/3xBZp5yZ3yxb2EpsRQz7MX) | 4:09 |
 | 34 | [Winter](https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 5:42 |
 | 35 | [Build Me A Daddy](https://open.spotify.com/track/3udcshOhVkIlkFpqys8H6X) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Build Me A Daddy](https://open.spotify.com/album/3wCpymONuF2pwfAyz4mFW3) | 3:09 |
-| 36 | [Song For My Father](https://open.spotify.com/track/0NFPwzs0fIDOMeLvsZVb0m) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Shine On \(Deluxe Edition\)](https://open.spotify.com/album/1nDlis2RPYSa2hzQc6nw7c) | 3:16 |
+| 36 | [Daughters](https://open.spotify.com/track/2cOfceFeMN2YgYaOf3KYJ6) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:20 |
 
 Snapshot ID: `AAAAAIIOInoUDNMqUdV7GWmkIKIBCwKo`

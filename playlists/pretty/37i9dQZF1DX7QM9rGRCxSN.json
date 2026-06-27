@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHsUGi+wP8PPbL+XG0PKoDUJg9pc",
+  "snapshot_id": "AAAAAM4NLxEWDCOBK4mwZ0bqgRCpIf8X",
   "tracks": [
     {
       "added_at": "2026-06-19 06:00:24",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Cortacalles",
-        "url": "https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM"
-      },
-      "artists": [
-        {
-          "name": "Tenemos Explosivos",
-          "url": "https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS"
-        }
-      ],
-      "duration_ms": 275410,
-      "name": "San Borja",
-      "url": "https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Tan f\u00e1cil que es hablar las cosas",
         "url": "https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 322254,
       "name": "Tan f\u00e1cil que es hablar las cosas",
       "url": "https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Cortacalles",
+        "url": "https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM"
+      },
+      "artists": [
+        {
+          "name": "Tenemos Explosivos",
+          "url": "https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS"
+        }
+      ],
+      "duration_ms": 275410,
+      "name": "San Borja",
+      "url": "https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Verde Color Universo",
-        "url": "https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS"
-      },
-      "artists": [
-        {
-          "name": "Angelo Con Baja Autoestima",
-          "url": "https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx"
-        }
-      ],
-      "duration_ms": 182415,
-      "name": "Monty muri\u00f3 por mi culpa y ahora su fantasma no deja de molestarme",
-      "url": "https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Todo Ocaso Resplandece y Acaba",
         "url": "https://open.spotify.com/album/7Mpv4BsHC0sM20F4RXXMYJ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 300596,
       "name": "Destello",
       "url": "https://open.spotify.com/track/1M0QiIMZ7hR7Am3hK9Y5Vz"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Verde Color Universo",
+        "url": "https://open.spotify.com/album/7hIp2B3nKf6iERwUkWk9IS"
+      },
+      "artists": [
+        {
+          "name": "Angelo Con Baja Autoestima",
+          "url": "https://open.spotify.com/artist/15eh6gwszLI2pu628n0nRx"
+        }
+      ],
+      "duration_ms": 182415,
+      "name": "Monty muri\u00f3 por mi culpa y ahora su fantasma no deja de molestarme",
+      "url": "https://open.spotify.com/track/1Css9p0LMeZ8v84E7tig4j"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Fuseimyaku",
-        "url": "https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL"
-      },
-      "artists": [
-        {
-          "name": "Teniente",
-          "url": "https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a"
-        }
-      ],
-      "duration_ms": 253022,
-      "name": "Sabado en Alem\u00e1n",
-      "url": "https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Nimio",
         "url": "https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 218016,
       "name": "24:00",
       "url": "https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Fuseimyaku",
+        "url": "https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL"
+      },
+      "artists": [
+        {
+          "name": "Teniente",
+          "url": "https://open.spotify.com/artist/2gi6IsKTijDybvh79yqx5a"
+        }
+      ],
+      "duration_ms": 253022,
+      "name": "Sabado en Alem\u00e1n",
+      "url": "https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X"
     }
   ],
   "unique_name": "Emo En Tu Idioma",

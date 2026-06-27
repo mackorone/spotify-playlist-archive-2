@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,529 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,548 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Knew It, I Knew You \- Piano Version](https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG) | 3:10 |
+| 1 | [I Knew It, I Knew You \- Piano Version \(From "Toy Story 5"\)](https://open.spotify.com/track/6ZwVl8oPsraGB177TNEzaX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/4Ii9whWXI1O1H01ziECRaG) | 3:10 |
 | 2 | [we can't be friends \(wait for your love\) \- acoustic \(live from jungle city studios\)](https://open.spotify.com/track/23itJEBZlued974YuPPLlq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [we can't be friends \(wait for your love\) \[acoustic \(live from jungle city studios\)\]](https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD) | 3:07 |
 | 3 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
 | 4 | [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 |

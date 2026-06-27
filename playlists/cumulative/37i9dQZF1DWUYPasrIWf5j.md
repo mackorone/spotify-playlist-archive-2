@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-168 songs - 9 hr 31 min
+170 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Don't Worry Be Happy](https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 5:22 | 2023-03-16 | 2024-04-19 |
 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 | 2022-05-20 |  |
 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Michael Shirley](https://open.spotify.com/artist/2q3cCHnHPfV8jzQIfqwkb6) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 | 2023-03-16 |  |
+| [Espresso](https://open.spotify.com/track/3T4zAHzPvmfAyJOwtlTKB0) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Espresso](https://open.spotify.com/album/02ue88JVHaPAv6NKF951T7) | 2:52 | 2026-06-26 |  |
 | [Every Breath You Take](https://open.spotify.com/track/3IMNxMkK7ELLnnE5HlSNeD) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Every Breath You Take](https://open.spotify.com/album/0VrFqadXNGwa28aYJxh7W7) | 2:45 | 2023-12-22 | 2026-06-16 |
 | [Fast Car](https://open.spotify.com/track/2ZxxrbtKlESR3rvbbn44Ae) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Fast Car](https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH) | 3:59 | 2023-06-08 | 2025-12-12 |
 | [Free Fallin'](https://open.spotify.com/track/53s6wjrDKlNU6VU4WKzqHf) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Free Fallin'](https://open.spotify.com/album/3XL2LOza5FwJtK9Da0ScVe) | 2:57 | 2024-03-22 |  |
@@ -147,6 +148,7 @@
 | [That's So True](https://open.spotify.com/track/3TQR9sX6WofUdAGqBizdhi) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [That's So True](https://open.spotify.com/album/1PzQPMKhp02IYgy9m03tOW) | 2:59 | 2025-03-17 | 2026-06-16 |
 | [The A Team](https://open.spotify.com/track/0Y9lGmQeaMR3veXCgMqHH3) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Ukelele Love Songs](https://open.spotify.com/album/701SRvVz5WHzkBRqjnVGgW) | 4:29 | 2022-05-20 | 2023-04-28 |
 | [The Bones](https://open.spotify.com/track/2iscuzrTQy4BNduk41rwC8) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:24 | 2022-05-20 | 2025-12-12 |
+| [The Fate of Ophelia](https://open.spotify.com/track/3B6KudQChhlWw7D9YxT22m) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [The Fate of Ophelia](https://open.spotify.com/album/6hoJ6shs0RHjNFuOOPigF9) | 3:43 | 2026-06-26 |  |
 | [The Lazy Song](https://open.spotify.com/track/2fOa6SUM7HAtMxZSzA38S8) | [Jillian Bosch](https://open.spotify.com/artist/6M4papcmK0X0HNyA3felGW) | [A Thousand Years](https://open.spotify.com/album/56X5chQwECoMG26y7HY7RQ) | 3:16 | 2022-05-20 |  |
 | [The Lion Sleeps Tonight](https://open.spotify.com/track/1lYTXhbkp0rZAN8KXqyX0I) | [J\. Adeline](https://open.spotify.com/artist/0tVNHCVKmdQ5KynS8NCZMx) | [Sunshine Superman](https://open.spotify.com/album/4ynXAjJpx6QJTiJ6w1h3ey) | 3:16 | 2022-05-20 | 2026-06-16 |
 | [The Scientist](https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 4:00 | 2022-05-20 |  |

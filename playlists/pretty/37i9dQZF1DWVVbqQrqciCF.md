@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,035 likes - 79 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,063 likes - 79 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 0:00 |
+| 1 | [オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:26 |
 | 2 | [アドレナ](https://open.spotify.com/track/6opptJmdOo9CLXs2zEaPK6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:07 |
 | 3 | [UNDEAD](https://open.spotify.com/track/35xfPPSPHG42a8MSoHBymZ) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:02 |
 | 4 | [PLAYERS](https://open.spotify.com/track/582epFEaznKZ7oru9UwfPz) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:21 |

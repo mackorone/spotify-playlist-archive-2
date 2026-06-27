@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Tenxi
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,260 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,343 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 4 | [Lagu Kenangan](https://open.spotify.com/track/0LZFpTfPDoiRHBFdvZzYaR) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Lagu Kenangan](https://open.spotify.com/album/04M40ppkeO8AXy9jc4oDGG) | 3:52 |
 | 5 | [bentar lagi sayang](https://open.spotify.com/track/1013IA4NqScgO66QFJEYBO) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [bentar lagi sayang](https://open.spotify.com/album/1SPHzIB37eDCSpgOYozOwQ) | 3:17 |
 | 6 | [bERANI](https://open.spotify.com/track/48oUGcXdLlGztCA0u0gqNI) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [bERANI](https://open.spotify.com/album/1SJCHC92mK2v7frrmWXFCf) | 3:30 |
-| 7 | [Track 2](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 0:00 |
+| 7 | [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 |
 | 8 | [Bersama Kamu](https://open.spotify.com/track/6IVktFPrHKE0RKkVmZwNBO) | [8 Ball](https://open.spotify.com/artist/4JV6JFLPTf2eDCJ7fFcdNh), [Calla](https://open.spotify.com/artist/3aJy8lPmiyOOe0hYU1WFPi) | [Bersama Kamu \(From "Ketok Mejik"\)](https://open.spotify.com/album/4hMlhDqBQKuUW11Y3UEXOC) | 3:13 |
 | 9 | [Gara Gara](https://open.spotify.com/track/7kcXgnVbzINLV01fnoai6P) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Gara Gara](https://open.spotify.com/album/3peFznPS4vpWZBoum5YbUE) | 3:07 |
 | 10 | [Mahir](https://open.spotify.com/track/4dEGZBE1pYNtRkuzhy8olm) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Mahir](https://open.spotify.com/album/1mjPSdz4YrLh1uqpaRVbXO) | 3:13 |

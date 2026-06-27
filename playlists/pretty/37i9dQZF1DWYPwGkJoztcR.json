@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397635,
+  "num_followers": 397619,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Streets of London",
-        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 189136,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -171,18 +171,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+        "name": "Streets of London",
+        "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+      "duration_ms": 189136,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Northern Star",
         "url": "https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192080,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Be My Own",
-        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Be My Own",
-      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 237545,
       "name": "Uncharted - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Be My Own",
+      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Brotherhood",
-        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Apple Tree",
         "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178336,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1119,34 +1119,18 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
       "artists": [
         {
-          "name": "Sisy Fos",
-          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
         }
       ],
-      "duration_ms": 229347,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
+      "duration_ms": 145403,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1167,18 +1151,34 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
       "artists": [
         {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
         }
       ],
-      "duration_ms": 145403,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+      "duration_ms": 186040,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
+      },
+      "artists": [
+        {
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+        }
+      ],
+      "duration_ms": 229347,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
-      },
-      "artists": [
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        }
-      ],
-      "duration_ms": 248019,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "I'm Always On Stage",
         "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 243546,
       "name": "I'm Always On Stage",
       "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
+      },
+      "artists": [
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        }
+      ],
+      "duration_ms": 248019,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
     },
     {
       "added_at": "2026-05-26 22:00:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-05-26 22:00:49",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
-    },
-    {
-      "added_at": "2026-05-26 22:00:49",
-      "album": {
         "name": "Redeeming Grace",
         "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 265866,
       "name": "Afraid Of What You Might Find",
       "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
+    },
+    {
+      "added_at": "2026-05-26 22:00:49",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
     },
     {
       "added_at": "2026-05-26 22:00:49",

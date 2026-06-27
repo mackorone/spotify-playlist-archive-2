@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Taves
 
-780 songs - 1 day 12 hr 2 min
+780 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 | 2025-03-21 | 2025-05-17 |
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-10-18 | 2025-03-07 |
 | [MCBH](https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:50 | 2026-05-01 | 2026-05-26 |
+| [Me](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 2:14 | 2026-06-25 |  |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-09-19 | 2026-01-23 |
 | [Mekɔn Adɔ](https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Mekɔn Adɔ](https://open.spotify.com/album/6cus1YyspHCbKeSjjrBZhU) | 3:28 | 2026-02-13 | 2026-02-20 |
 | [Melanin](https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Melanin](https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q) | 2:34 | 2026-03-20 | 2026-04-10 |
@@ -705,7 +706,6 @@
 | [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 | 2026-05-26 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-06 |
-| [Track 1](https://open.spotify.com/track/2Fiq6goppIAyRxXKXKq59Y) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [GuyGuy Mmienu](https://open.spotify.com/album/6BwjKGAGtwPNtNnth1tziy) | 0:00 | 2026-06-25 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

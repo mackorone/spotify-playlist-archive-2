@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 341907,
+  "num_followers": 341975,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADCVrhFhBAsDQ5gP5eZe1wS",
+  "snapshot_id": "ajxvgAAAAAAsBhd4fvSfuv2XD25jTm3O",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Honest (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 207030,
       "name": "Be Honest (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 187609,
-      "name": "Gbona",
-      "url": "https://open.spotify.com/track/1PlYxNrefqOBvk52umixt9"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220394,
-      "name": "Tested, Approved & Trusted",
-      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179916,
       "name": "My Oasis (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E)",
-        "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
+        "name": "Tshwala Bam",
+        "url": "https://open.spotify.com/album/4qYfV3DTCJeB83hqco5JfR"
       },
       "artists": [
         {
@@ -734,7 +734,7 @@
       ],
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
-      "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+      "url": "https://open.spotify.com/track/1AU9i0OPKywwrrpKJpV5ZG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,324 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,325 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 9 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
 | 10 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 |
 | 11 | [Thunderbird](https://open.spotify.com/track/1Wl2sGefc5A4r17FgrFxbA) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:48 |
-| 12 | [Tell Me Mama](https://open.spotify.com/track/7zJ2O12mVRbZyOYbok9WrN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 2:42 |
+| 12 | [The Toddle](https://open.spotify.com/track/7gB25CGr3vbvDUThLfdwm8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:36 |
 | 13 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 14 | [Mellow Down Easy](https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:38 |
-| 15 | [The Toddle](https://open.spotify.com/track/7gB25CGr3vbvDUThLfdwm8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:36 |
+| 15 | [Tell Me Mama](https://open.spotify.com/track/7zJ2O12mVRbZyOYbok9WrN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 2:42 |
 | 16 | [Who](https://open.spotify.com/track/3tQULiAweMvxtwadRonAER) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:23 |
 | 17 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 |
 | 18 | [Roller Coaster](https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:53 |
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 24 | [Don't Have To Hunt No More](https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 2:59 |
 | 25 | [You're So Fine](https://open.spotify.com/track/5efTTfuEyLcafZ5ZBxAu3Y) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:04 |
 | 26 | [I Just Want To Make Love To You](https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 6:08 |
-| 27 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 2:52 |
+| 27 | [I'm Ready](https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 3:05 |
 | 28 | [Ah'w Baby](https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:52 |
 | 29 | [That's All Right \- Remastered](https://open.spotify.com/track/5fsdMcMEmQGSDTyjXNMuZz) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:46 |
 | 30 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 |
-| 31 | [I'm Ready](https://open.spotify.com/track/08jmyS0eeftXvPRV1QfWqO) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 3:05 |
+| 31 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KAAyjgvTwhAF1ejtLhkEw) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Saga Blues: Blowing With a Feeling](https://open.spotify.com/album/3yvfD8yp4XXUx27DFY3luB) | 2:52 |
 | 32 | [Crazy For My Baby](https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:01 |
 | 33 | [You Better Watch Yourself](https://open.spotify.com/track/3nuCnthADyAD4OaPs9gpU1) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:05 |
 | 34 | [I'm A Man](https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 5:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 47 | [Crazy Legs](https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 | 48 | [Driftin'](https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:08 |
 
-Snapshot ID: `ajseAAAAAACiT01Ke+bWTen0iyQX1YaD`
+Snapshot ID: `ajxvgAAAAAAxpuo5UvCJ4WpQi1YCvICg`

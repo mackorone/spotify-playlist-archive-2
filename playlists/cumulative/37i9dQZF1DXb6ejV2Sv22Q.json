@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  El Pony Express en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  ANASOF en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -148,6 +148,24 @@
       "duration_ms": 138795,
       "name": "100pre",
       "url": "https://open.spotify.com/track/2KGQTxKFBQFuMOVNejG8b7"
+    },
+    {
+      "album": {
+        "name": "11 esperono X.X",
+        "url": "https://open.spotify.com/album/0SWJSzzMPtq7rck43vBDr7"
+      },
+      "artists": [
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "11 esperono X.X",
+      "url": "https://open.spotify.com/track/4sN0MTVxQhl9yt7EJXULCP"
     },
     {
       "album": {
@@ -1658,7 +1676,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 124878,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 161368,
       "name": "cienmilkilos",
       "url": "https://open.spotify.com/track/1iWUXJAiffOM422L1SCB4K"
@@ -2430,6 +2448,24 @@
       "duration_ms": 141040,
       "name": "COWBELL GOTH",
       "url": "https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs"
+    },
+    {
+      "album": {
+        "name": "Creaci\u00f3n del Universo",
+        "url": "https://open.spotify.com/album/4oJZVumWIrvin4vDjaPRDz"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235402,
+      "name": "Creaci\u00f3n del Universo",
+      "url": "https://open.spotify.com/track/47CA0YZt3iDzoReDZoaQnG"
     },
     {
       "album": {
@@ -3426,7 +3462,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 192086,
       "name": "El Problema Eras T\u00fa",
       "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
@@ -5419,6 +5455,24 @@
     },
     {
       "album": {
+        "name": "LA CONOC\u00cd EN UN pERREO",
+        "url": "https://open.spotify.com/album/2gp9sDhMjTK2zZiWnga0zE"
+      },
+      "artists": [
+        {
+          "name": "Neisan",
+          "url": "https://open.spotify.com/artist/0WwYuArR76kC6JxhmwzRNG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168712,
+      "name": "LA CONOC\u00cd EN UN pERREO",
+      "url": "https://open.spotify.com/track/5uS0SFEc5fGcHAfqqXCWCE"
+    },
+    {
+      "album": {
         "name": "Da\u00f1ado",
         "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
       },
@@ -6054,7 +6108,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 236341,
       "name": "los quiero de verdad",
       "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
@@ -6320,7 +6374,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 196920,
       "name": "MALASNOTICIAS.",
       "url": "https://open.spotify.com/track/5W1bHlFGv5jJw1xyWQJlrJ"
@@ -7728,6 +7782,32 @@
       "duration_ms": 250869,
       "name": "normal",
       "url": "https://open.spotify.com/track/5Sl9DQqkVANHgljFrNGqbG"
+    },
+    {
+      "album": {
+        "name": "Nos Damos 2024",
+        "url": "https://open.spotify.com/album/1C0tOIMEqG4yLKSs7BKkGL"
+      },
+      "artists": [
+        {
+          "name": "KAIISITO",
+          "url": "https://open.spotify.com/artist/5f4C4xS08FHKOQrtyx5YCh"
+        },
+        {
+          "name": "Shinko",
+          "url": "https://open.spotify.com/artist/3CqoH3O5o8DLVKjoS4dDEu"
+        },
+        {
+          "name": "Almazzz",
+          "url": "https://open.spotify.com/artist/0O1XAq8Y4BsDnfNiLfGRBq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "Nos Damos 2024",
+      "url": "https://open.spotify.com/track/5LTSwf1GSL1CwZSwhugCmb"
     },
     {
       "album": {
@@ -9584,7 +9664,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 152000,
       "name": "SE NOS HIZO TARDE",
       "url": "https://open.spotify.com/track/5jkTMzJOP0OVXcGECRBaTg"
@@ -9740,6 +9820,28 @@
       "duration_ms": 199799,
       "name": "Si Me Pierdo",
       "url": "https://open.spotify.com/track/6YK7pon3v5QHUH2ceGj3Lp"
+    },
+    {
+      "album": {
+        "name": "Si No Contestas",
+        "url": "https://open.spotify.com/album/7b4IqAWD96IDrvMFtRHgyq"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166308,
+      "name": "Si No Contestas",
+      "url": "https://open.spotify.com/track/0XcwsV85eFMwc7Wr7KvhWW"
     },
     {
       "album": {
@@ -11118,6 +11220,24 @@
       "duration_ms": 190964,
       "name": "T\u00fa Nunca Lo Sabras",
       "url": "https://open.spotify.com/track/2N11YipbkcRe2c35ddvmVa"
+    },
+    {
+      "album": {
+        "name": "T\u00fa, mi bb",
+        "url": "https://open.spotify.com/album/3pv2BRwZhBXBxXfNYifT0h"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187591,
+      "name": "T\u00fa, mi bb",
+      "url": "https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf"
     },
     {
       "album": {

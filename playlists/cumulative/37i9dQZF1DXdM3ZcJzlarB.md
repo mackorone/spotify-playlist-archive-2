@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Jay de Lys
 
-387 songs - 1 day 12 hr 15 min
+388 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [STOP Cerebro](https://open.spotify.com/track/2ECTFGAX2lU2hrCA6vxiJR) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/4fTMwrvhkSg7RHlKJzjovV) | 3:38 | 2024-01-05 | 2025-03-20 |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/0Nno4cLqFzPgcMFbCpdDqE) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/1PiycNuMNREvJyVPgt7pBN) | 8:57 | 2020-09-04 | 2023-11-18 |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm) | 8:57 | 2020-09-04 | 2022-07-29 |
-| [Subliminal Verses](https://open.spotify.com/track/5zvjECHXCAkIuVbpfde1PE) | [Redspace](https://open.spotify.com/artist/7DW9eqgg0IgQOQBhtCLAfc), [Martin Di Sciascio](https://open.spotify.com/artist/12UjfrZr2EdktvDeIw6rom) | [Subliminal Verses](https://open.spotify.com/album/4uEA136nqalZPhcWkVgxOY) | 7:36 | 2025-08-29 |  |
+| [Subliminal Verses](https://open.spotify.com/track/5zvjECHXCAkIuVbpfde1PE) | [Redspace](https://open.spotify.com/artist/7DW9eqgg0IgQOQBhtCLAfc), [Martin Di Sciascio](https://open.spotify.com/artist/12UjfrZr2EdktvDeIw6rom) | [Subliminal Verses](https://open.spotify.com/album/4uEA136nqalZPhcWkVgxOY) | 7:36 | 2025-08-29 | 2026-06-27 |
 | [Subterráneo](https://open.spotify.com/track/303LAlVcCjlKGh3Ew56cB8) | [Agustin Barbei](https://open.spotify.com/artist/7bgEDA7TeFF6seNd0EppXw) | [DCD](https://open.spotify.com/album/3IGg198tZhKXXeO1nxJkti) | 5:55 | 2025-03-20 | 2025-09-26 |
 | [Supernova](https://open.spotify.com/track/1jtyBiXBUv4ynh0XInlzZE) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Supernova](https://open.spotify.com/album/5TzC2DFxBkbEpHwRh6hFkQ) | 4:11 | 2025-06-13 |  |
 | [Synchronic](https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd) | [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Synchronic](https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T) | 4:55 | 2024-05-06 | 2024-06-29 |
@@ -343,6 +343,7 @@
 | [That's the Way It Goes](https://open.spotify.com/track/7LLPb7lwljnDSksJ2iOJ7u) | [SidiRum](https://open.spotify.com/artist/6aCzyU3S7tQc31Cv09EcYu), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Buen Augurio](https://open.spotify.com/album/6Ef0wz2lp7g7FD6PJIMb71) | 7:40 | 2020-09-04 | 2023-11-18 |
 | [The Hanging Tree](https://open.spotify.com/track/0VPJnjF2TEshtyEwNxBcAA) | [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i), [Oh My Pop!](https://open.spotify.com/artist/3bagGeYp0001yDSzrxmv6J) | [The Hanging Tree](https://open.spotify.com/album/12mgeUhTHMNaWcMxNG5xnP) | 3:14 | 2025-05-02 |  |
 | [The Illusion](https://open.spotify.com/track/5bVb0wK6MbEcfUYLXlXdcw) | [Joan Retamero](https://open.spotify.com/artist/5DgoJDVafztIO8Q2RGpGuh) | [The Illusion](https://open.spotify.com/album/4u8kiomTCLb4WXrQQi4q5H) | 7:20 | 2025-03-19 | 2026-04-03 |
+| [The Insanity of Infinity \- Frank Sonic & Drumcomplex Edit](https://open.spotify.com/track/26Ku6hCxosxaxM9ikMlYRF) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Frank Sonic](https://open.spotify.com/artist/3VyBzVPO0uq9bqgVeDyPmR), [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId) | [The Insanity of Infinity \(Remixes\)](https://open.spotify.com/album/43J0PvzR2ZQhv2ULxW6JRf) | 4:48 | 2026-06-26 |  |
 | [The Insanity of Infinty \- Edit](https://open.spotify.com/track/2iIpsPRoHMGGjzY4ydEzwz) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [The Insanity of Infinity](https://open.spotify.com/album/3C6C6bs2PBcdurxWS57ewv) | 4:32 | 2026-03-20 |  |
 | [The Range](https://open.spotify.com/track/5LctNQgYEqdfbRdNLvTsyR) | [Tiefstone](https://open.spotify.com/artist/6Nu3bTytPSUQ9Y6k0r2gOO), [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Unicron \| Dominus \| the Range](https://open.spotify.com/album/2nLS9mHCj9SlionGnXPOn6) | 6:34 | 2025-05-09 | 2026-03-21 |
 | [The Raveolution](https://open.spotify.com/track/0fTXTxCAk94ZUEjqoUvb1d) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 6:14 | 2025-03-19 | 2025-08-29 |

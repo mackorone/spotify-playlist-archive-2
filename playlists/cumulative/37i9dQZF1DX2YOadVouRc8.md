@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-791 songs - 1 day 14 hr 15 min
+792 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Lately](https://open.spotify.com/track/5Cs9XAqvVqv8hcTO0Q9iCR) | [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [Lately](https://open.spotify.com/album/5TDwRF1rZqw9lqfdXKFQXS) | 2:10 | 2023-09-29 | 2023-10-07 |
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-09-19 | 2024-06-15 |
 | [Let Me Be](https://open.spotify.com/track/3u8OeLttFqulCrcb3odEps) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Christer](https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Moments After](https://open.spotify.com/album/1LkeXOTB9ErcgYzQF6EYMV) | 2:33 | 2025-05-30 | 2025-06-28 |
-| [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 | 2024-09-20 |  |
+| [Let Me Know](https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Let Me Know](https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m) | 2:27 | 2024-09-20 | 2026-06-27 |
 | [Level Up](https://open.spotify.com/track/13C83mBRF1HW2cQ1ThDn9q) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Level Up](https://open.spotify.com/album/4HRPdNNrlFdvye0nyGEfBK) | 2:43 | 2023-08-10 | 2023-09-29 |
 | [Level Up](https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:00 | 2025-11-28 | 2026-03-17 |
 | [Life](https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s) | [Ada](https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg) | 3:50 | 2022-06-09 | 2022-10-14 |
@@ -558,6 +558,7 @@
 | [Question](https://open.spotify.com/track/2dxn5GRHaqH35Xpt0SyFvB) | [Wademix](https://open.spotify.com/artist/0bXGq88PdstXaKPeLLDg3q), [Amakah](https://open.spotify.com/artist/0xo6Apny9RYCv2mg59KmxL) | [The First Tape](https://open.spotify.com/album/4W6ZHq5fGlS2jH9NpHGpTC) | 2:36 | 2025-05-30 | 2025-06-28 |
 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 | 2024-07-18 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-24 | 2026-03-17 |
+| [Ready](https://open.spotify.com/track/2Md155L5t3ShDWE7lzNYLr) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Ready](https://open.spotify.com/album/6ZP4GInPQJoQovE7lq0xzw) | 2:52 | 2026-06-26 |  |
 | [Realize \(feat\. taves\)](https://open.spotify.com/track/5odFUgF0MS8DAnvlJpYdUd) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:13 | 2023-10-17 | 2023-10-27 |
 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 | 2025-06-27 |  |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-16 | 2024-08-18 |

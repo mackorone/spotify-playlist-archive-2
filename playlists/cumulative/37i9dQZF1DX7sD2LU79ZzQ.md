@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Tenxi
 
-1,597 songs - 4 day 5 hr 15 min
+1,597 songs - 4 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [Nada Nada Cinta](https://open.spotify.com/track/6CuuUDWvmwNqeDDrhHXPxP) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Ariel NOAH](https://open.spotify.com/artist/5YrZrapAjJbpikrp3JEmMF) | [Nada \- Nada Cinta](https://open.spotify.com/album/1FowDsfN8edbtuEeLV2vNF) | 4:31 | 2024-08-08 | 2025-01-10 |
 | [Nafas](https://open.spotify.com/track/0HydcejUZ63IGT7ff4Rurs) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Nafas](https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN) | 3:26 | 2026-04-23 |  |
 | [Nafas Buatan](https://open.spotify.com/track/0s3aUW0M88PFtb2bZt5Qns) | [Prince Husein](https://open.spotify.com/artist/3JzIIqZI9biLWd2LyC6lus) | [Nafas Buatan](https://open.spotify.com/album/0zNcMUa1Z05Zl6wQrF90sn) | 3:44 | 2025-11-20 | 2026-01-15 |
+| [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 | 2026-06-25 |  |
 | [nanti bila engkau pergi](https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr) | [Argya](https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345) | [nanti bila engkau pergi](https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU) | 4:22 | 2026-03-05 | 2026-04-17 |
 | [Nanti Datang Lagi](https://open.spotify.com/track/3fCRF1xut8640nAE8EK2jg) | [Tiket](https://open.spotify.com/artist/1vhz9FJUh57QhAiRsB6fAM) | [Nanti Datang Lagi](https://open.spotify.com/album/5QBkDcHlv8SkzNVBZGuRQN) | 4:03 | 2025-05-22 | 2025-06-27 |
 | [Nanti Kita Seperti Ini \- Cinematic Version](https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Nanti Kita Seperti Ini \(Cinematic Version\)](https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p) | 4:24 | 2025-06-26 | 2025-08-01 |
@@ -1534,7 +1535,6 @@
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-08-30 |
 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 | 2024-08-15 | 2024-09-27 |
-| [Track 2](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 0:00 | 2026-06-25 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-08 | 2024-11-29 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-09-06 |

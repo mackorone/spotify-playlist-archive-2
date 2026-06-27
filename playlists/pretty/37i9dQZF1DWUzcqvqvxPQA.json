@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33145,
+  "num_followers": 33150,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 112497,
-      "name": "Believe It",
-      "url": "https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "FREE! (Live)",
         "url": "https://open.spotify.com/album/68M9x2mqytP80fXEXmdEOy"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 225617,
       "name": "FREE! - Live",
       "url": "https://open.spotify.com/track/6TK9UE4eODGbyimh0qEYoq"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 112497,
+      "name": "Believe It",
+      "url": "https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Counting My Blessings",
+        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "duration_ms": 190106,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "The Sacrifice",
         "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 228215,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/35Bkyy0sIJ2HB2fEJXlV43"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Counting My Blessings",
-        "url": "https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz"
-      },
-      "artists": [
-        {
-          "name": "Seph Schlueter",
-          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
-        }
-      ],
-      "duration_ms": 190106,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Praise The Lord (Sunday Prelude)",
-        "url": "https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo"
-      },
-      "artists": [
-        {
-          "name": "Bay Turner",
-          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
-        },
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 191212,
-      "name": "Praise The Lord (Sunday Prelude)",
-      "url": "https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "No Problem",
         "url": "https://open.spotify.com/album/3Yg6huueqSi6zCTUhVNwj0"
       },
@@ -563,6 +543,26 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Praise The Lord (Sunday Prelude)",
+        "url": "https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo"
+      },
+      "artists": [
+        {
+          "name": "Bay Turner",
+          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
+        },
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 191212,
+      "name": "Praise The Lord (Sunday Prelude)",
+      "url": "https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Northstar",
         "url": "https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L"
       },
@@ -575,6 +575,26 @@
       "duration_ms": 191411,
       "name": "We Rise And Fall",
       "url": "https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "So Divine",
+        "url": "https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Dani Lyra",
+          "url": "https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "So Divine",
+      "url": "https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -611,26 +631,6 @@
       "duration_ms": 213912,
       "name": "Turbulent Skies",
       "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "So Divine",
-        "url": "https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU"
-      },
-      "artists": [
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        },
-        {
-          "name": "Dani Lyra",
-          "url": "https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "So Divine",
-      "url": "https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -899,22 +899,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Emmaus",
-        "url": "https://open.spotify.com/album/4VQPtBO3Y1a1wy7d2gByMQ"
+        "name": "How Good of God",
+        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
       },
       "artists": [
         {
-          "name": "Sam McCabe",
-          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 237257,
-      "name": "Emmaus",
-      "url": "https://open.spotify.com/track/1ZtVGvGRzpEHlEwEgLgyh0"
+      "duration_ms": 164632,
+      "name": "How Good of God",
+      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -935,18 +931,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "How Good of God",
-        "url": "https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT"
+        "name": "Emmaus",
+        "url": "https://open.spotify.com/album/4VQPtBO3Y1a1wy7d2gByMQ"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Sam McCabe",
+          "url": "https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 164632,
-      "name": "How Good of God",
-      "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
+      "duration_ms": 237257,
+      "name": "Emmaus",
+      "url": "https://open.spotify.com/track/1ZtVGvGRzpEHlEwEgLgyh0"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Not For You",
         "url": "https://open.spotify.com/album/3TyG2ACkY0lJ9LWcKjTnKW"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 133761,
       "name": "Not For You",
       "url": "https://open.spotify.com/track/0yuBiPxOKOe4jYbOzSe92t"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Abacus",
+        "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 123888,
+      "name": "Abacus",
+      "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 195818,
       "name": "Grace",
       "url": "https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Abacus",
-        "url": "https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 123888,
-      "name": "Abacus",
-      "url": "https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 174220,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "Good Shepherd (John 10)",
         "url": "https://open.spotify.com/album/45wP8PPlXzpyh2lgnYMhvY"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 199583,
       "name": "Good Shepherd (John 10)",
       "url": "https://open.spotify.com/track/32ATRazMSiY7hvHvTeU2sj"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 174220,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
     },
     {
       "added_at": "2026-05-29 08:59:34",

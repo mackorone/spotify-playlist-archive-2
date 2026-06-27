@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from feeble little horse
+> Explore all things indie rock right now\. Featuring music from This Is Lorelei
 
-2,181 songs - 5 day 3 hr 34 min
+2,187 songs - 5 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [19](https://open.spotify.com/track/4eXjrOYY9hxmJkS0hkhZxQ) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [19](https://open.spotify.com/album/6IQUj5eSse9rXx2WHUHg8p) | 2:34 | 2021-10-22 | 2022-06-08 |
 | [19](https://open.spotify.com/track/4dd4aXsxKoFIabi7tYlpQz) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [19](https://open.spotify.com/album/6BDIWeTB0A905y20y8xoJT) | 2:43 | 2025-07-18 | 2026-02-21 |
 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 | 2024-08-02 | 2024-09-21 |
-| [2 C U](https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [2 C U](https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue) | 2:19 | 2026-05-23 |  |
+| [2 C U](https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [2 C U](https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue) | 2:19 | 2026-05-23 | 2026-06-27 |
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-10-14 | 2022-11-12 |
 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-09-08 | 2024-02-10 |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-21 | 2023-07-01 |
@@ -134,6 +134,7 @@
 | [apartment402](https://open.spotify.com/track/3tzhG9Y64aTdoQj9p2pije) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [apartment402](https://open.spotify.com/album/2qLK5cRG3do78g2y8RFjpn) | 4:16 | 2023-09-08 | 2023-09-16 |
 | [April Baby](https://open.spotify.com/track/2Uq8YwiAYhbG2jNzLimd7A) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [April Baby](https://open.spotify.com/album/1VX0j5c4IKT9VRKWNJ0i5U) | 3:53 | 2022-04-08 | 2022-07-02 |
 | [Arcade](https://open.spotify.com/track/3gZHd2vSxknZBvNXaKsdOE) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [Arcade](https://open.spotify.com/album/5SLCLGN4Gq2Jx3R27bz0nL) | 3:59 | 2023-08-11 | 2023-09-23 |
+| [Arctic](https://open.spotify.com/track/2JuuDTjgN7FkR6p0QxOuTw) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Arctic](https://open.spotify.com/album/6A5kz0EFCFBf9gXNgddAOo) | 2:53 | 2026-06-26 |  |
 | [Are You Happy?](https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Are You Happy?](https://open.spotify.com/album/0XqYtsDMA5ORWlPLkc2LGF) | 3:12 | 2021-06-07 | 2022-06-11 |
 | [Are You In](https://open.spotify.com/track/5vVqAE6Y9LLXj7YoCxbeRM) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Are You In](https://open.spotify.com/album/2lyN14f6FTtvCL0ztt6Sxg) | 2:51 | 2023-05-05 | 2023-06-24 |
 | [Are You Looking Up](https://open.spotify.com/track/00uvWPbNBali6gKlZxUxIU) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Are You Looking Up / You got it](https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX) | 2:46 | 2023-10-20 | 2024-03-09 |
@@ -239,6 +240,7 @@
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2022-08-26 | 2022-11-12 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-30 | 2023-03-11 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-07 | 2025-05-24 |
+| [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 | 2026-06-26 |  |
 | [Billy Elliot](https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Billy Elliot / Alone In Cologne](https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o) | 3:11 | 2026-02-06 |  |
 | [Bitch Heart](https://open.spotify.com/track/1CU65NgKvZxUagOiq5m3fd) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Bitch Heart](https://open.spotify.com/album/4OR108JUFbFuyjdTNVuYIG) | 2:24 | 2025-05-09 | 2025-07-12 |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-07-29 | 2022-10-22 |
@@ -839,6 +841,7 @@
 | [Gwen Everest](https://open.spotify.com/track/0jgS3Mw4Q32NSb6r3iDh4J) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 3:04 | 2023-05-05 | 2023-07-22 |
 | [HABIT](https://open.spotify.com/track/4V8q8KlNBMPaDXzMxcyffx) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [HABIT](https://open.spotify.com/album/73uftp3sZdOZU5Qc7kfcAi) | 2:54 | 2026-05-08 | 2026-05-19 |
 | [half alive](https://open.spotify.com/track/4impZnrNgbel1s7u5eV4lE) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [half alive](https://open.spotify.com/album/5mbI4LGBukyNORhfu4nrMC) | 3:13 | 2021-10-22 | 2022-06-09 |
+| [Halfway](https://open.spotify.com/track/53oAPCPAZlaMGGKqDnrL5D) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Halfway](https://open.spotify.com/album/7dRTgpXhKLpFfL3suMrwep) | 3:33 | 2026-06-26 |  |
 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-03-15 | 2024-05-03 |
 | [Hanging](https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:53 | 2023-10-13 | 2023-11-11 |
 | [Happy Anniversary \(To Being Lonely\)](https://open.spotify.com/track/1tWtxE1UiQRkX1yVVZ7KeL) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Happy Anniversary \(To Being Lonely\)](https://open.spotify.com/album/0yykwlrNLn2yAYfFHsbyCG) | 3:25 | 2023-05-05 | 2023-06-03 |
@@ -950,7 +953,7 @@
 | [I Just Do!](https://open.spotify.com/track/7AL5SFvQYZLbfmGzq1WFQ2) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Just Do!](https://open.spotify.com/album/0NoxyeMZ6UNGNSDRG1UUFq) | 3:09 | 2025-02-07 | 2025-05-17 |
 | [i just want to hide my face](https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i just want to hide my face](https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB) | 2:12 | 2022-09-16 | 2022-10-01 |
 | [I Know I'm Funny haha](https://open.spotify.com/track/6XZFsJP56Sn0LyGolV8IMT) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/1t5Hqutu3LDNs1p0ZaeZdW) | 2:43 | 2021-06-07 | 2022-06-07 |
-| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-09 |  |
+| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-09 | 2026-06-27 |
 | [I Lied Again](https://open.spotify.com/track/3ZqRBncgNX4Ty8S9dk2RMk) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [I Lied Again](https://open.spotify.com/album/2o5qh4bTUArB2T7BQA1XoF) | 2:50 | 2023-08-11 | 2023-12-02 |
 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-07-22 | 2022-10-08 |
 | [I Need You](https://open.spotify.com/track/4LU6OmxWbg2puqLHamzgLH) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [I Need You](https://open.spotify.com/album/4R1eHgQT9pw9kIANAqlSIj) | 6:21 | 2025-02-07 | 2025-03-08 |
@@ -1182,6 +1185,7 @@
 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 | 2023-05-19 | 2023-07-29 |
 | [Lost](https://open.spotify.com/track/3fCo2ii087XnTUxGMY6bzZ) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Lost](https://open.spotify.com/album/3hqIPUnrBY8BqOexjv9bML) | 2:51 | 2023-06-09 | 2023-08-15 |
 | [Lost Boys](https://open.spotify.com/track/14RHVhgK4QxsOCQcu4R1Q3) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Lost Boys](https://open.spotify.com/album/6a33WVVukUWB0gNetjTBmm) | 2:40 | 2024-03-15 | 2024-05-25 |
+| [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 | 2026-06-26 |  |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-12 | 2022-10-01 |
 | [Lost In Love](https://open.spotify.com/track/3ZeR4nO0QmiIP8DlNYz4wm) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Lost In Love](https://open.spotify.com/album/5wptCIda7QwzdcJ0sZhdWX) | 2:10 | 2021-06-07 | 2022-04-20 |
 | [Lost Ones](https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 | 2024-07-19 | 2024-09-07 |
@@ -1809,6 +1813,7 @@
 | [SUMMER](https://open.spotify.com/track/2v0563M9NN06MYmCGYdgoI) | [Max Leonard](https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew), [Indigo](https://open.spotify.com/artist/6iPag3KNgZKw56EnjCzcv4), [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [BEACH CASSETTE](https://open.spotify.com/album/0GS23M0MYJVddh3OYIdIg5) | 2:56 | 2022-07-08 | 2022-07-30 |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-19 | 2022-04-03 |
 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/7tMYbJhP6N732MAglwmuJf) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/7xvecR0lQHuMtwxErfq2JA) | 2:39 | 2023-05-26 | 2023-08-12 |
+| [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 | 2026-06-26 |  |
 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 | 2023-06-23 | 2023-09-09 |
 | [Sunday](https://open.spotify.com/track/6X8AAASfTGuODSiZ63vGpL) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Sunday](https://open.spotify.com/album/7C21AzkOpBuoE03o3GMJQY) | 2:35 | 2021-06-07 | 2022-04-16 |
 | [Sunday](https://open.spotify.com/track/3OB5WUE1dbsTAs7kYjgNkP) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Sunday / Medicine](https://open.spotify.com/album/2q3V5Ylh479x0bTRCJeHC1) | 3:20 | 2023-11-03 | 2024-03-23 |
@@ -2051,6 +2056,7 @@
 | [Violet](https://open.spotify.com/track/3lKKT3H1gMr3zIPdauECXk) | [hallpass](https://open.spotify.com/artist/1ojodT2n3tLClMDaRgIk7Z) | [Sabeline](https://open.spotify.com/album/0aMXItwR69aDCVI5gRWwN9) | 3:17 | 2023-08-04 | 2023-11-11 |
 | [Violet](https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 | 2024-08-23 | 2024-12-21 |
 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 | 2024-06-28 | 2024-10-26 |
+| [Violins](https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy) | 4:10 | 2026-06-26 |  |
 | [Virginia Tech](https://open.spotify.com/track/63RXrwFp8OlTvnr5JsXVY2) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Defense / Virginia Tech](https://open.spotify.com/album/4loQm364AOexSa6uEMUpUo) | 4:27 | 2025-06-06 | 2025-11-01 |
 | [Virtual Aerobics](https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:02 | 2021-06-07 | 2022-06-11 |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-06-30 | 2023-08-26 |

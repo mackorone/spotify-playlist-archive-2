@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover:  Barry
 
-160 songs - 7 hr 25 min
+160 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 | 2025-06-20 |  |
 | [Money](https://open.spotify.com/track/2hDS2oAk8SO3nsR49TsShH) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:40 | 2025-11-07 | 2026-01-26 |
 | [Money Must Drop](https://open.spotify.com/track/5Ryse1pa8SEKCt80MHOcJY) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Effizy](https://open.spotify.com/artist/6xx8uwM0k7VMnmZC1nOgoY) | [Money Must Drop](https://open.spotify.com/album/45WqqtUFXM2EsJVcpF8k0C) | 4:08 | 2025-06-20 | 2026-01-15 |
+| [Motide](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 2:30 | 2026-06-25 |  |
 | [My Father My father](https://open.spotify.com/track/2pJc9s2R4zwfexvsAmwq2N) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [My Father My father](https://open.spotify.com/album/5z28zMGx9Hf4dH1uWkzH9Q) | 2:38 | 2026-01-14 | 2026-01-25 |
 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 | 2025-06-20 |  |
 | [Nigga](https://open.spotify.com/track/0voiVxfuDYLdwVTmE4bErO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 3:05 | 2025-11-28 | 2026-01-15 |
@@ -143,6 +144,7 @@
 | [SPIRIT](https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [SPIRIT](https://open.spotify.com/album/626iZIxk6Pmb2DlnRo4FQY) | 3:31 | 2025-08-01 |  |
 | [Stormy](https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Stormy](https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB) | 2:30 | 2026-03-27 |  |
 | [Story Change](https://open.spotify.com/track/2IMi9tTS4Htr0NdOcCmZh4) | [Henry Adams](https://open.spotify.com/artist/1S6JmteKPx1hIASDTnQ4SD), [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Lamentations 3:37](https://open.spotify.com/album/5KAgDbJvvrOE6BLOQPWREA) | 3:14 | 2026-03-20 | 2026-04-28 |
+| [Sure For Me](https://open.spotify.com/track/4t4Idhn46m8YDMeGtNwRvj) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 2:55 | 2026-06-25 |  |
 | [Suru](https://open.spotify.com/track/347Lf3F7lGmiKXBPNE3GdA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:18 | 2025-10-10 | 2026-01-15 |
 | [Thankful](https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 4:12 | 2026-04-03 |  |
 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 | 2025-06-20 |  |
@@ -150,8 +152,6 @@
 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 | 2025-06-20 |  |
 | [TIME](https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A) | [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [TIME](https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI) | 2:19 | 2025-06-20 | 2025-09-22 |
 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-08-29 |  |
-| [Track 11](https://open.spotify.com/track/4t4Idhn46m8YDMeGtNwRvj) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 0:00 | 2026-06-25 |  |
-| [Track 3](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 0:00 | 2026-06-25 |  |
 | [Trench Anthem](https://open.spotify.com/track/3pg3n0XBIUJkUeUEZjQmQV) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Freshout Jimma, Vol\. 1](https://open.spotify.com/album/4vEbQcyYikY4qCKGxAgfeT) | 2:43 | 2025-06-20 | 2025-08-15 |
 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2026-01-14 | 2026-01-31 |
 | [Try \(feat\. Young Jonn\)](https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:34 | 2025-06-20 | 2026-06-26 |

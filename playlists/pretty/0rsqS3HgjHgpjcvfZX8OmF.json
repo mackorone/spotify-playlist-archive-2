@@ -1,13 +1,29 @@
 {
   "description": "The best and latest rock and alternative. Cover:  Arkells",
-  "num_followers": 9530,
+  "num_followers": 9527,
   "original_name": "New Rock Music",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAdU9oRdg2PQgqX7GjZopOB57WYOczZ",
+  "snapshot_id": "AAAdVggmu2BsL2Bcj86/2zvykxBaymk4",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:15:35",
+      "album": {
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+    },
     {
       "added_at": "2026-06-17 18:15:20",
       "album": {
@@ -1579,22 +1595,6 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
-    },
-    {
-      "added_at": "2026-06-17 18:15:20",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
     },
     {
       "added_at": "2026-06-17 18:15:20",

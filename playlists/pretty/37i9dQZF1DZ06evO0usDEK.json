@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49630,
+  "num_followers": 49629,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAhL9FfrJ0JjWsF3ugq5nhX",
+  "snapshot_id": "ajxvgAAAAACCjf+AYpRkVUCOCm8Qy8Yi",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Lives Forever",
         "url": "https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 420986,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peculiar Situation",
         "url": "https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s"
       },
@@ -571,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live & More",
-        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 570800,
-      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
-      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
       "duration_ms": 224733,
       "name": "'Till the Morning Comes",
       "url": "https://open.spotify.com/track/1Fj7PU5CHaVEgn4f9ZC85N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live & More",
+        "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        }
+      ],
+      "duration_ms": 570800,
+      "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
+      "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 296960,
+      "name": "No Tears - In the End",
+      "url": "https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live & More",
         "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 506840,
       "name": "Feel the Fire - Live Version",
       "url": "https://open.spotify.com/track/3psrv1KCESzitUw7FU0lyr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 296960,
-      "name": "No Tears - In the End",
-      "url": "https://open.spotify.com/track/1JQTXexqzRiUA2mVjGeem3"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta",
+        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 602306,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live & More",
         "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roberta",
-        "url": "https://open.spotify.com/album/6ZRG7eADa1XJfu7UU4t6X1"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 602306,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
+      "duration_ms": 212840,
+      "name": "And so It Goes",
+      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 279920,
       "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "And so It Goes",
-      "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm the One",
-        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 220773,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm the One",
+        "url": "https://open.spotify.com/album/5A00qXuqxWrO4NvSkBZfq4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/4o6WgUstuDJ8BL1m53g8Nj"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "I'd Like to Be Baby to You (Live at Montreux, 1990)",
+        "url": "https://open.spotify.com/album/0AueXBAtxaEaGDTFqa3YXR"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 224293,
-      "name": "When You Smile",
-      "url": "https://open.spotify.com/track/460ysTfMygkMjaes74RdU3"
+      "duration_ms": 282200,
+      "name": "I'd Like to Be Baby to You - Live at Montreux, 1990",
+      "url": "https://open.spotify.com/track/4T8PXhGjWvTrVsMGDHcacd"
     }
   ],
   "unique_name": "This Is Roberta Flack",

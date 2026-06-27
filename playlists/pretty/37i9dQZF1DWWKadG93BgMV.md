@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 
 > Sonic the Hedgehog here! 35 years? Yeah, I counted..\. between running at the speed of sound! The ultimate birthday playlist is here and it's hitting harder than ever\. Crank it up and celebrate with me!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,810 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,431 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

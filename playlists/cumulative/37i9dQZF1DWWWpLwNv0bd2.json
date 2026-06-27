@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 194000,
       "name": "Aaraaro",
       "url": "https://open.spotify.com/track/5Jul29MOtuvCWzwLVeOl1s"
@@ -2248,6 +2248,32 @@
       "duration_ms": 237642,
       "name": "Esa Kaaththa - From \"My Lord\"",
       "url": "https://open.spotify.com/track/4b2oOabEPMuQTNboXon8cf"
+    },
+    {
+      "album": {
+        "name": "Con City [TAMIL]",
+        "url": "https://open.spotify.com/album/1wKwpbHYAV91DQxwnWZxE6"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226197,
+      "name": "Fraud Payale",
+      "url": "https://open.spotify.com/track/5KGx0VTq1lkF4zVqsS5Nh1"
     },
     {
       "album": {
@@ -9379,6 +9405,40 @@
     },
     {
       "album": {
+        "name": "Yaar Yaarival (From \"Ram in Leela\")",
+        "url": "https://open.spotify.com/album/6NAwXhVqUd3T1SKkNHPTvI"
+      },
+      "artists": [
+        {
+          "name": "Ankit Menon",
+          "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        },
+        {
+          "name": "Sawai Bhatt",
+          "url": "https://open.spotify.com/artist/0z1qSvHkQCNPYcXH3FNBSK"
+        },
+        {
+          "name": "Sushant Sudhakaran",
+          "url": "https://open.spotify.com/artist/0vlkuxwsSVsEfvzs0usXIX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199132,
+      "name": "Yaar Yaarival - From \"Ram in Leela\"",
+      "url": "https://open.spotify.com/track/3c2yNVENVB9jgDuFZzxRXs"
+    },
+    {
+      "album": {
         "name": "Yaaraiyum Ivlo Azhaga (From \"Sulthan\")",
         "url": "https://open.spotify.com/album/5MNzOtjJZh98O2uNICovAo"
       },
@@ -9646,7 +9706,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 203571,
       "name": "Yeno Indru - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/40xVepzK7qT60Jl3BHjRj7"

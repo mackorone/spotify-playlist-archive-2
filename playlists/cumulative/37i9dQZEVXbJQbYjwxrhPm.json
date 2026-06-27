@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 195866,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -5299,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "KRUV I SOS",
+        "url": "https://open.spotify.com/album/0GCR1eLCSoJnJ2ZJHuY783"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "KRUV I SOS",
+      "url": "https://open.spotify.com/track/3AheHkUhDbHGPHyn0b0qgX"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -6334,7 +6352,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 216873,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB"
@@ -8070,7 +8088,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223698,
       "name": "Rezhim Neprilichna",
       "url": "https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG"
@@ -8910,7 +8928,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -10732,7 +10750,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 189176,
       "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
       "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
@@ -12492,7 +12510,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 241960,
       "name": "\u041c\u043e\u043c\u0447\u0435 \u0431\u0435\u0437 \u0441\u044a\u0440\u0446\u0435",
       "url": "https://open.spotify.com/track/751kslplg7iAx3bD98pZgs"
@@ -13399,6 +13417,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u043b\u0435\u0434\u0430",
+        "url": "https://open.spotify.com/album/5LeDOv6tCRSiZJ2zIeKfA6"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
+      "url": "https://open.spotify.com/track/0HhOMHYqSbjz9SO2mnYyMS"
+    },
+    {
+      "album": {
         "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
         "url": "https://open.spotify.com/album/0VG7yB4t851fxU0L7986Ib"
       },
@@ -13450,7 +13486,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
@@ -13538,6 +13574,24 @@
       "duration_ms": 184090,
       "name": "\u0421\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4MT6GrseYj0lRmXh6CS8jU"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043a\u044a\u0441\u0430\u043d\u044f\u043a",
+        "url": "https://open.spotify.com/album/709tKfziCz2ym371N7elXT"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "\u0421\u043a\u044a\u0441\u0430\u043d\u044f\u043a",
+      "url": "https://open.spotify.com/track/75n8AlD4OLp8024wBSuqZq"
     },
     {
       "album": {

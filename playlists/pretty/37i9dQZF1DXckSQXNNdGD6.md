@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Guitarricadelafuente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,304 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,306 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
 | 2 | [CONEJITA PLAYBOY](https://open.spotify.com/track/42U40DG6b3VVCBfgeBSxGH) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [CONEJITA PLAYBOY](https://open.spotify.com/album/206r467aoLTOWH9u436PKi) | 2:18 |
 | 3 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
-| 4 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
-| 5 | [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 |
+| 4 | [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 |
+| 5 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
 | 6 | [Bichifokel](https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Bichifokel](https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q) | 3:07 |
 | 7 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |
 | 8 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |

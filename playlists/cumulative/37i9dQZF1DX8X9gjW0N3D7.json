@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: mirani coelho",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Le Ren",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -706,7 +706,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 199280,
       "name": "Bless\u00e9e au bras",
       "url": "https://open.spotify.com/track/4zJitsmpDElaFmgrgeW8ZP"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 309760,
       "name": "Dis-moi dis-moi dis-moi",
       "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
@@ -2567,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Feel '26",
+        "url": "https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343733,
+      "name": "Feel '26",
+      "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
+    },
+    {
+      "album": {
         "name": "Feu de paille",
         "url": "https://open.spotify.com/album/6BRYJkvN7L16RK79er9TPL"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 169358,
       "name": "Fous de nous deux",
       "url": "https://open.spotify.com/track/34pKCpWbrzLva99r9lkF7n"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 229592,
       "name": "Free Wheeling",
       "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
@@ -2914,6 +2932,24 @@
       "duration_ms": 247468,
       "name": "GODDAMN!",
       "url": "https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11"
+    },
+    {
+      "album": {
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
     },
     {
       "album": {
@@ -3762,7 +3798,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178653,
       "name": "Je t'en veux",
       "url": "https://open.spotify.com/track/5PIDxgPBBfqijwwJ6JT21k"
@@ -4246,7 +4282,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 154200,
       "name": "La confr\u00e9rie du N\u00e9ant",
       "url": "https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb"
@@ -4730,7 +4766,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167033,
       "name": "le briquet et l'\u00e9ther",
       "url": "https://open.spotify.com/track/6kOMHhdV82LTGu8l8csN8e"
@@ -4946,7 +4982,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 248055,
       "name": "Le nom d'un chien",
       "url": "https://open.spotify.com/track/7ismMqSHoT0ARvSKO7e8sc"
@@ -5004,7 +5040,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 187826,
       "name": "Le prix de la paix",
       "url": "https://open.spotify.com/track/0JM3WyIRcCA6zijL1rMbRt"
@@ -5250,7 +5286,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 181907,
       "name": "les choses belles",
       "url": "https://open.spotify.com/track/4DCF9iRPYxQHeljuJYFpzq"
@@ -6240,7 +6276,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 177104,
       "name": "Ne me fais pas mal",
       "url": "https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm"
@@ -6442,7 +6478,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 124214,
       "name": "Oiseaux de Paradis",
       "url": "https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii"
@@ -6882,7 +6918,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 206600,
       "name": "Pens\u00e9es sans calcul",
       "url": "https://open.spotify.com/track/73XJsoBcFhZhmglFhy9RUw"
@@ -7348,7 +7384,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 225998,
       "name": "Quand vient le soir",
       "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
@@ -7366,7 +7402,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 196994,
       "name": "Que je vous aime",
       "url": "https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0"
@@ -8568,7 +8604,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 157750,
       "name": "TABLE DU FOND",
       "url": "https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj"
@@ -8752,7 +8788,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 215722,
       "name": "The Mess in My Room",
       "url": "https://open.spotify.com/track/1brN9v4sw2zEyEGwqf3WyA"
@@ -8846,6 +8882,24 @@
       "duration_ms": 280239,
       "name": "To Her",
       "url": "https://open.spotify.com/track/5Xa32y3yYAqQjuSnQ9e2nC"
+    },
+    {
+      "album": {
+        "name": "Todas mis amigas",
+        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228786,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
     },
     {
       "album": {
@@ -9236,7 +9290,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 192857,
       "name": "Tu prendras des d\u00e9tours",
       "url": "https://open.spotify.com/track/1RktxOfbDaQz0xyvk6bVCy"
@@ -9576,7 +9630,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 216080,
       "name": "Voz de mi vida",
       "url": "https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk"
@@ -9816,7 +9870,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 240502,
       "name": "\u00c0 moi-m\u00eame",
       "url": "https://open.spotify.com/track/06YgTAZNZ1jYThvRR02uCD"
@@ -9892,7 +9946,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186154,
       "name": "\u00c2mes soeurs",
       "url": "https://open.spotify.com/track/7rWZkygReO0P7KOyqwLEXH"

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-344 songs - 18 hr 21 min
+348 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [amour \(piano\)](https://open.spotify.com/track/2F0XzNxOXO6uzMyIYlC0EG) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [amour \(piano\)](https://open.spotify.com/album/4phqumUbfsuVx9ZWjne9TP) | 5:05 | 2022-07-08 | 2025-03-06 |
 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 | 2021-12-10 | 2023-01-04 |
 | [And I Alone](https://open.spotify.com/track/3cISlJElRfvRzINv5DOcVC) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [And I Alone](https://open.spotify.com/album/2Eyga05AJcKX51SOjUCUfV) | 2:55 | 2024-09-06 |  |
+| [Andito](https://open.spotify.com/track/4sdtpnmqPJtAF5og3zPz5X) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Andito](https://open.spotify.com/album/5qJ0Kscv5uPmNTX771eTIk) | 2:23 | 2026-06-26 |  |
 | [Apartment Song \#5](https://open.spotify.com/track/0GG1KOVmUeZfipy9MB9m4e) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Apartment Song \#5](https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5) | 3:11 | 2021-12-10 | 2026-06-20 |
 | [As Wind Echoes Over Snow](https://open.spotify.com/track/31sFVhpsghiYz85q6pdxao) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Winter Poetry](https://open.spotify.com/album/3UAMIANsQQemUfXOyTe5TU) | 3:41 | 2021-12-10 | 2025-03-27 |
 | [Ascent \- Day 1](https://open.spotify.com/track/1Bdgn4nmMlADRQ6DPJh7UM) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 1\)](https://open.spotify.com/album/1m4GKm4lVNZdA4dHwcr8of) | 5:37 | 2021-12-10 | 2023-01-04 |
@@ -67,6 +68,7 @@
 | [Burn + Bloom](https://open.spotify.com/track/1OfOFCJbhZMZBrzQEjnFco) | [Jamal Green](https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt), [Joe Bridges](https://open.spotify.com/artist/0eeIWw2Fhp6T0nDj3JNoqj), [GRNBRDGS](https://open.spotify.com/artist/6xa3p19EALIAhQpMjlMwhU) | [Burn + Bloom](https://open.spotify.com/album/4IutKSX5jpa5toa7QP0apX) | 2:17 | 2025-12-01 |  |
 | [By Night](https://open.spotify.com/track/6BjAF110FvR7r3j7vhmdKW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Night Sky](https://open.spotify.com/album/1fp1vxW0KcuyPpKLxfkzFO) | 5:29 | 2021-12-10 | 2023-01-04 |
 | [Canton](https://open.spotify.com/track/4MLZUtTBE5eTu7Gv54pPZn) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Canton](https://open.spotify.com/album/5w9c6kAouFX6I1mrdVVpYf) | 5:25 | 2025-05-16 |  |
+| [Carved by Time](https://open.spotify.com/track/3UOjFyp7X5CACDGFUYEXCD) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Colors](https://open.spotify.com/album/3tuvuIpvHY0DBfQ801pH6x) | 3:03 | 2026-06-26 |  |
 | [Chapter 1 \- The Quiet Years](https://open.spotify.com/track/5NILvSQOPKweFhUPo7ZmGh) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Chapter 1 \- The Quiet Years](https://open.spotify.com/album/3xp3lD1jxB3vtqlNIBjUqv) | 2:52 | 2025-12-01 |  |
 | [Citybird](https://open.spotify.com/track/3zNxTBLeo8L0pIWUYVxpbc) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Citybird](https://open.spotify.com/album/1RwOV4ESUBxoBjB6PbC08v) | 2:34 | 2025-12-01 |  |
 | [Clarity \(Single\)](https://open.spotify.com/track/437HHrOnSWx0nv1oAEkGKX) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Clarity \(Single\)](https://open.spotify.com/album/5tLsGeXebqlhZgFeODIgWo) | 1:34 | 2021-12-10 | 2026-06-20 |
@@ -121,6 +123,7 @@
 | [Frost](https://open.spotify.com/track/0dJ2ybe4xFAFc8jXwUVNjg) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost](https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH) | 2:05 | 2022-10-14 |  |
 | [Galaxy](https://open.spotify.com/track/1KOxdPguXunJrrBFWgqR3i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Galaxy](https://open.spotify.com/album/1Y9mn9slMJf0N35vPweEc0) | 3:42 | 2024-12-24 |  |
 | [Globes](https://open.spotify.com/track/0oT5AOdk4IUqVDOaIN86ng) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Globes](https://open.spotify.com/album/3fMs5z9oLrJ2unce2K05Xt) | 2:34 | 2021-12-10 | 2026-06-20 |
+| [Go Not Against The Wind](https://open.spotify.com/track/2ST26aMjxnHXBJRb9Iskae) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG) | [Go Not Against The Wind](https://open.spotify.com/album/0hRQJ5282f9a4ksoN78Xc5) | 2:31 | 2026-06-26 |  |
 | [Grace](https://open.spotify.com/track/0bnUWmQVWODe7I17aidv3j) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Grace](https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH) | 3:09 | 2025-12-01 |  |
 | [Grand Bazaar](https://open.spotify.com/track/2ZmbjLl2zlSTAw52PLEYg2) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Grand Bazaar](https://open.spotify.com/album/4U5DWmeKAeLv9KeGjxIiI2) | 3:33 | 2026-05-15 |  |
 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 | 2021-12-10 | 2026-06-20 |
@@ -286,6 +289,7 @@
 | [Spring \- Ambient Mix](https://open.spotify.com/track/0dH7jBey84D2tcTtPfSq2b) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Spring \(Ambient Mix\)](https://open.spotify.com/album/4gkjKuW0ijEkJZhokQCTJs) | 2:43 | 2025-07-25 |  |
 | [Stars Light Up The Water](https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stars Light Up The Water](https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ) | 2:16 | 2021-12-10 | 2026-06-20 |
 | [Stella de Oro](https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA) | [Solace](https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl) | 4:10 | 2022-04-01 |  |
+| [Still](https://open.spotify.com/track/0H2Xy3FnL6Tv5wWWD8LoRR) | [Gabriel Albuquerqüe](https://open.spotify.com/artist/2oA6iL2R3RUkHcmnC091P0) | [Still, Vol\. I](https://open.spotify.com/album/3Eg8zeMrD50RjQYjFLM90G) | 1:51 | 2026-06-26 |  |
 | [Still](https://open.spotify.com/track/6B0ZlLf0p2s1Lwt3ivAXKy) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Still](https://open.spotify.com/album/0QxD0lOJH9NBtJuSb2can4) | 2:22 | 2021-12-10 | 2025-03-27 |
 | [Still Life](https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life](https://open.spotify.com/album/6R5tp7dLEAqPUwYsqerNFg) | 3:22 | 2022-04-08 | 2022-07-29 |
 | [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2022-07-22 | 2023-01-04 |

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,226 songs - 2 day 23 hr 19 min
+1,227 songs - 2 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Invencible](https://open.spotify.com/track/20NwpCgWSJhKdaC1Ovw6zK) | [Tormenta perfecta](https://open.spotify.com/artist/4tQuhyohHa4GwI6H7oXES0) | [Invencible](https://open.spotify.com/album/1oehW1vr4g4WTNiiptAEr6) | 3:00 | 2026-03-10 | 2026-04-12 |
 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2025-12-17 | 2026-01-15 |
 | [It Gets Better](https://open.spotify.com/track/3aJL2o26QXD7KYX8daL0yX) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [honeybee](https://open.spotify.com/artist/3uRgGI7WqysQzxvmmSXMpF) | [It Gets Better](https://open.spotify.com/album/4cZdqoIPaeYn108RoDhJkV) | 3:19 | 2026-03-30 | 2026-05-03 |
+| [It Slips Out](https://open.spotify.com/track/5czxTvjUblxfYTgu3uBFT2) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [It Slips Out](https://open.spotify.com/album/4ZxE206WS5pevYK2fARkpv) | 3:23 | 2026-06-26 |  |
 | [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 | 2025-12-19 | 2026-01-15 |
 | [It's Been A Year](https://open.spotify.com/track/635ncU7KUrv7RLKzOUFasu) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [It's Been A Year](https://open.spotify.com/album/2ea8M9j1kcqXw444mZbuwA) | 3:41 | 2025-12-22 | 2026-01-24 |
 | [It's You](https://open.spotify.com/track/4OSreDxciehHjXiDIecQav) | [McKayla Michelle](https://open.spotify.com/artist/14RIpvHLel1ghkovrPsu6h) | [It's You](https://open.spotify.com/album/6eMmuyv2I41OrR0M7E7qe8) | 2:38 | 2025-12-26 | 2026-01-24 |

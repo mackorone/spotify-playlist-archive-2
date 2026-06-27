@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Alyssa Grace
 
-604 songs - 1 day 10 hr 8 min
+607 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-08-01 | 2025-01-18 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-03-01 |
 | [Fair To You](https://open.spotify.com/track/21ZKNvnpr0ahYMFsTffZCm) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Fair To You](https://open.spotify.com/album/6nXMgFLI7FcMiDR9OHnLaQ) | 3:38 | 2025-07-18 |  |
+| [Fair To You](https://open.spotify.com/track/5WNh6gcqlXOp26jHYIRsx6) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [To Love A Thing That Fades](https://open.spotify.com/album/1mBprt4SXV2ih1O6HVRbUK) | 3:38 | 2026-06-26 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 | 2023-09-30 |
 | [Fallen Angel](https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [Fallen Angel](https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX) | 3:05 | 2026-05-29 |  |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-12 | 2025-08-16 |
@@ -189,6 +190,7 @@
 | [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 | 2023-06-16 | 2024-10-12 |
 | [Flora](https://open.spotify.com/track/6LGEAepdRhTsUW57oyOEHa) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:08 | 2024-03-29 | 2024-04-19 |
 | [Follow You](https://open.spotify.com/track/4aoM7nMiTlGTO6yJ1WUqfB) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Follow You](https://open.spotify.com/album/5WV73fHbT3Wc9dTl17Xzq1) | 2:55 | 2024-09-06 | 2026-02-21 |
+| [Fond](https://open.spotify.com/track/1i7a6xZ9NHpb5FSSyCwTDh) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [You Don't Know My Name](https://open.spotify.com/album/3inlEu7RZ2B4NdAYEqEmwk) | 2:23 | 2026-06-26 |  |
 | [fool](https://open.spotify.com/track/0baNbP2iJjS5TW3N92H5AF) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [fool](https://open.spotify.com/album/5g4CtR8feobksBOQTBH9Hi) | 4:33 | 2025-12-05 |  |
 | [For All You Give](https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 3:11 | 2022-03-12 | 2024-03-30 |
 | [For All You Give \(feat\. Lucy Rose\)](https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Roses](https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q) | 3:11 | 2021-11-12 | 2022-07-29 |
@@ -221,6 +223,7 @@
 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 | 2021-11-12 | 2023-04-15 |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2023-05-19 | 2023-06-13 |
 | [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-08-18 | 2024-03-30 |
+| [Gravedigger](https://open.spotify.com/track/4cpwbQ87rrbKM9d7acnPmr) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Gravedigger](https://open.spotify.com/album/3ljvoeP8qxZvC5Q5b85STU) | 2:46 | 2026-06-26 |  |
 | [Greatest Enemy](https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Greatest Enemy](https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu) | 3:09 | 2021-11-12 | 2022-08-20 |
 | [Grow Up](https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH) | [Late Night Thoughts](https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN) | [Grow Up](https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3) | 3:48 | 2025-02-14 |  |
 | [Growing Exponentially](https://open.spotify.com/track/0vKaiWad18yPie45nWpDz8) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Growing Through It](https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v) | 3:51 | 2024-10-25 | 2025-08-03 |

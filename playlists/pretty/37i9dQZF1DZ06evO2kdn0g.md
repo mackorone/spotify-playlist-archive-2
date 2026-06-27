@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,709 likes - 25 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,715 likes - 25 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 8 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 |
 | 9 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
 | 10 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 |
-| 11 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
+| 11 | [DIFFERENT](https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:35 |
 | 12 | [Alone](https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:25 |
-| 13 | [DIFFERENT](https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:35 |
+| 13 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
 | 14 | [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 |
 | 15 | [WHO DO U LUV](https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm) | 4:08 |
 | 16 | [Mirage](https://open.spotify.com/track/5as974bpTDV3CJGZYbK6kJ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:29 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 24 | [Desert Oasis](https://open.spotify.com/track/4raVYWt5YDX4GlLDUrRM9c) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:34 |
 | 25 | [MORTAL](https://open.spotify.com/track/2DsKEr398bpEAOJvZjem6L) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:21 |
 
-Snapshot ID: `ajseAAAAAABs1cnkF7/oWXNKYQash/HM`
+Snapshot ID: `ajxvgAAAAAAl7qhgLZZdnwp18yqV8XLP`

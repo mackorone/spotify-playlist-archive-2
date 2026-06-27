@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-418 songs - 1 day 2 hr 54 min
+421 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 | 2026-02-28 |
 | [Big Legged Woman](https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 4:00 | 2024-05-24 | 2024-07-06 |
 | [Big Women](https://open.spotify.com/track/2besC8P5XlSgrfx3WlAODD) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Big Women](https://open.spotify.com/album/3odHHsOy9iCoYouoOrH8Gt) | 4:59 | 2025-04-25 | 2025-06-28 |
+| [Black Dog Rabbit Hole](https://open.spotify.com/track/49CEYpkyy7TCaG6cLWwqxm) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Dog Rabbit Hole](https://open.spotify.com/album/3TbkHwgeg6cnKDugwWi9Ax) | 3:20 | 2026-06-26 |  |
 | [Black Gold](https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Black Gold](https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j) | 3:36 | 2023-09-15 |  |
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 | 2024-07-19 |
 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 | 2020-10-16 | 2024-04-19 |
@@ -236,6 +237,7 @@
 | [Make It \- Live To Tape Session](https://open.spotify.com/track/5nAT9cIj9PbqM3F7A0iKYv) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA), [Rhett Shull](https://open.spotify.com/artist/5llKYgJlzPpMaDPmuATus5) | [Make It \(Live To Tape Session\)](https://open.spotify.com/album/3pgUURlyqRdc13C5DnBQ8A) | 10:30 | 2025-01-10 |  |
 | [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 | 2023-05-20 |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 | 2026-06-13 |
+| [Manic Depression](https://open.spotify.com/track/6d1P9nP8GD8lHp5510nOwQ) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Manic Depression](https://open.spotify.com/album/2GYHjdCpvmoY35YmQxm1Es) | 4:11 | 2026-06-26 |  |
 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 | 2022-11-04 |  |
 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 | 2023-09-22 |  |
 | [Mercy](https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Mercy](https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0) | 3:25 | 2022-02-25 | 2023-07-01 |
@@ -273,8 +275,8 @@
 | [One More Time](https://open.spotify.com/track/4xJ65J4IJYtxV7A9Uz9BX4) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Choke Cherry Tree](https://open.spotify.com/album/2H6mfUMvRacDoPtgbcbqkR) | 3:24 | 2020-10-16 | 2024-02-24 |
 | [One Of A Kind](https://open.spotify.com/track/58EZbAbfLjnsfS5gBFVgnF) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [One Of A Kind](https://open.spotify.com/album/28VUOeKPDCNxr4I1vxDz2h) | 3:13 | 2023-03-10 | 2023-10-21 |
 | [One Thing I Feared](https://open.spotify.com/track/1KK0CRO47v2pYmKfct9GbD) | [Clockwork Wolf & Co.](https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo) | [One Thing I Feared](https://open.spotify.com/album/1yxopMV9t0m7g1W5fdpA7s) | 4:02 | 2021-04-30 | 2024-04-19 |
-| [One Thing I Feared](https://open.spotify.com/track/5q6lNs2xlM8OTcM9ipZ46M) | [Clockwork Wolf & Co.](https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo) | [One Thing I Feared](https://open.spotify.com/album/2EDbBAMjZP9V35vICdeOYo) | 4:02 | 2021-04-30 |  |
-| [One Way Out](https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe) | 4:03 | 2021-05-28 |  |
+| [One Thing I Feared](https://open.spotify.com/track/5q6lNs2xlM8OTcM9ipZ46M) | [Clockwork Wolf & Co.](https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo) | [One Thing I Feared](https://open.spotify.com/album/2EDbBAMjZP9V35vICdeOYo) | 4:02 | 2021-04-30 | 2026-06-27 |
+| [One Way Out](https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe) | 4:03 | 2021-05-28 | 2026-06-27 |
 | [One Way Out](https://open.spotify.com/track/2r350C33U7HK2gpj0nSP1E) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1F5cc76pR3u3CtQlVOF2Zq) | 4:03 | 2021-06-11 | 2024-04-19 |
 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 | 2022-08-12 |  |
 | [Operator](https://open.spotify.com/track/2dfcd7W3wOh7lCXTLYwF1C) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Operator](https://open.spotify.com/album/7EGjTs8NlKUo0VEUXU1lJU) | 4:18 | 2021-09-10 |  |
@@ -309,6 +311,7 @@
 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 | 2020-10-16 | 2023-03-04 |
 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 | 2022-05-13 | 2026-02-28 |
 | [Scorned](https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW) | [Kira Mac](https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg) | [Scorned](https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt) | 3:08 | 2023-05-12 |  |
+| [Send for me](https://open.spotify.com/track/7tIftL6W9alpfkDIhSld77) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Send for me](https://open.spotify.com/album/2JWlYarFHOLygAB9RSHFCE) | 2:56 | 2026-06-26 |  |
 | [Shake You Off](https://open.spotify.com/track/0wX8kkelEfK6RWMcHGWTHU) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Shake You Off](https://open.spotify.com/album/4q8ICEgFA3aLmGulvQ2KHE) | 3:55 | 2024-06-07 |  |
 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 | 2026-05-01 |  |
 | [She Gets Me High](https://open.spotify.com/track/0H8Pm02RYzcMA5FeAVF1ZI) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:58 | 2020-10-16 | 2025-04-26 |
@@ -385,7 +388,7 @@
 | [Tin Pan Alley \(AKA Roughest Place in Town\)](https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 9:11 | 2024-05-24 | 2024-07-06 |
 | [To The Bone](https://open.spotify.com/track/2vDFtFES302W2LdkgJY7Vt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [To The Bone](https://open.spotify.com/album/3rVPrMd1k1qhitQyoKsrPp) | 3:39 | 2022-10-21 | 2023-05-02 |
 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 | 2020-10-16 | 2023-03-04 |
-| [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 | 2022-03-18 |  |
+| [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 | 2022-03-18 | 2026-06-27 |
 | [Tricks On My Mind](https://open.spotify.com/track/6k3jiZrFNJ2AeiuwRRO6wC) | [Sweet Crisis](https://open.spotify.com/artist/0VLBsVfOThyVZU94tW3qJ4) | [Tricks On My Mind](https://open.spotify.com/album/0BZeTdDbL03qzEVtQfPloh) | 3:00 | 2021-08-27 | 2023-05-06 |
 | [Trigger Finger](https://open.spotify.com/track/6XHWkCRUWawmhKabunby7P) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Trigger Finger](https://open.spotify.com/album/4CdL2CJw4i5qUOpNQCTNWF) | 4:04 | 2025-06-20 |  |
 | [Trouble](https://open.spotify.com/track/0rwpF4XtV2JL9857906zHq) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Trouble](https://open.spotify.com/album/6xca8kKugBDofCcvC4gsDe) | 3:45 | 2026-02-27 |  |

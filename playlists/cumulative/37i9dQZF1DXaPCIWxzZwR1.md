@@ -4,7 +4,7 @@
 
 > next gen pop<br/>Cover: Mollie Elizabeth
 
-2,492 songs - 5 day 2 hr 8 min
+2,494 songs - 5 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1174,7 +1174,7 @@
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-08-14 | 2021-12-20 |
 | [Insomniac](https://open.spotify.com/track/5TdbSCRdrZDC8yK19l7fou) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Insomniac](https://open.spotify.com/album/0nGHS3N9YU1HBB53ls0gcH) | 2:10 | 2021-08-07 | 2021-09-18 |
 | [internet crush](https://open.spotify.com/track/4GISsjjHTA2UyM9DY4DNgY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [internet crush](https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H) | 3:22 | 2023-02-10 | 2023-02-25 |
-| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-02 |  |
+| [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 | 2026-01-02 | 2026-06-27 |
 | [Internet Star](https://open.spotify.com/track/2LpyVY2jIGC8QV8TNUSHt1) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Internet Star](https://open.spotify.com/album/6pdC35KSTDQi2E9KgTTVd0) | 1:58 | 2024-08-30 | 2025-05-31 |
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-10 |
 | [Into The Walls](https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY) | 3:08 | 2023-10-20 | 2024-03-30 |
@@ -1908,6 +1908,7 @@
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-02-24 | 2023-05-27 |
 | [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 | 2022-03-04 | 2022-04-02 |
 | [Shut Up and Look Pretty](https://open.spotify.com/track/0WN1iznk8aBrlknCM1jHGE) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Shut Up and Look Pretty](https://open.spotify.com/album/46KsSdjhNsmmYrJ3FxVr52) | 2:21 | 2022-07-08 | 2022-10-22 |
+| [SICK](https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [SICK](https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO) | 2:12 | 2026-06-26 |  |
 | [sick of myself](https://open.spotify.com/track/0uNcqssd2jsd9zhZhgLl0o) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [sick of myself](https://open.spotify.com/album/20OOBBJM61941fgjyk4e4b) | 2:21 | 2023-09-08 | 2024-02-10 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-09-30 | 2022-12-10 |
 | [sickly sweet](https://open.spotify.com/track/23v6BY613BSU5UaRhQ7mYB) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/4WsRz4GfzTr5f4FtCSp8a8) | 2:14 | 2023-05-19 | 2023-06-03 |
@@ -2188,6 +2189,7 @@
 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 | 2025-11-28 | 2026-05-09 |
 | [The Other POV](https://open.spotify.com/track/3oTJNtm0yjukzgjVmR2CKk) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The Other POV](https://open.spotify.com/album/5orycXA2UEXDzHxaaE0uK3) | 2:59 | 2023-06-02 | 2023-08-12 |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 | 2024-08-31 |
+| [The Pavement](https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [The Pavement](https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ) | 3:04 | 2026-06-26 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-05 | 2022-09-24 |
 | [The Real Thing](https://open.spotify.com/track/6dQouK9atua68vEQrnIwf8) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [The Real Thing](https://open.spotify.com/album/4TFpy2A4CuGv18cQfH9PYY) | 2:53 | 2021-10-16 | 2021-11-20 |
 | [The Reminder](https://open.spotify.com/track/72QuVfFahOw2LmiqBJBheh) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [The Reminder](https://open.spotify.com/album/4JOh5OuC6W4fiMqtNyTL08) | 2:38 | 2021-10-09 | 2021-10-30 |
@@ -2290,7 +2292,7 @@
 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 | 2021-10-02 | 2021-12-04 |
 | [u love u \(feat\. JVKE\)](https://open.spotify.com/track/1Wu5ERJDVhEUDKSim34CnP) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [u love u \(feat\. JVKE\)](https://open.spotify.com/album/6tqmxYtdp7MZS9hcqoA5AM) | 2:03 | 2022-04-29 | 2022-06-11 |
 | [u love u \(with Tate McRae\)](https://open.spotify.com/track/1xBQDoxqFyloelbnfju8na) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [u love u \(with Tate McRae\)](https://open.spotify.com/album/5Bh6CHXpl4slkIihdDKIcn) | 3:09 | 2021-06-05 | 2021-08-28 |
-| [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 | 2026-02-13 |  |
+| [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 | 2026-02-13 | 2026-06-27 |
 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 | 2022-08-19 | 2023-02-25 |
 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 | 2025-05-02 | 2026-02-21 |
 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 | 2025-09-26 | 2026-02-21 |

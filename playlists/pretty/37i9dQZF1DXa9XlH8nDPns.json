@@ -1,6 +1,6 @@
 {
   "description": "Feelgood indie & roadtrip bangers",
-  "num_followers": 29480,
+  "num_followers": 29478,
   "original_name": "Happy Roadtrip",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-06-25 22:00:33",
       "album": {
-        "name": "Not Like That Anymore",
-        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 202412,
-      "name": "Not Like That Anymore",
-      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
-    },
-    {
-      "added_at": "2026-06-25 22:00:33",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 174322,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2"
+    },
+    {
+      "added_at": "2026-06-25 22:00:33",
+      "album": {
+        "name": "Not Like That Anymore",
+        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 202412,
+      "name": "Not Like That Anymore",
+      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
     },
     {
       "added_at": "2026-06-25 22:00:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-06-25 22:00:33",
       "album": {
-        "name": "Tequila Shots",
-        "url": "https://open.spotify.com/album/3RvspKF4izNsVsFfawFeH2"
-      },
-      "artists": [
-        {
-          "name": "Rikas",
-          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Tequila Shots",
-      "url": "https://open.spotify.com/track/41a9e1pccolyyJxkg2reuw"
-    },
-    {
-      "added_at": "2026-06-25 22:00:33",
-      "album": {
         "name": "Sunny Baby",
         "url": "https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 199040,
       "name": "Sunny Baby",
       "url": "https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup"
+    },
+    {
+      "added_at": "2026-06-25 22:00:33",
+      "album": {
+        "name": "Tequila Shots",
+        "url": "https://open.spotify.com/album/3RvspKF4izNsVsFfawFeH2"
+      },
+      "artists": [
+        {
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Tequila Shots",
+      "url": "https://open.spotify.com/track/41a9e1pccolyyJxkg2reuw"
     }
   ],
   "unique_name": "Happy Roadtrip",

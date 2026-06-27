@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63505,
+  "num_followers": 63500,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABu0Ya9HesKPiHbMQ4qB4WQ",
+  "snapshot_id": "ajxvgAAAAAAWAHQfHWCucWlEv5tBYGps",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pardal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
+      },
+      "artists": [
+        {
+          "name": "Drops INA",
+          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Paulo Vicente",
+          "url": "https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO"
+        }
+      ],
+      "duration_ms": 415099,
+      "name": "Pardal - Ao Vivo",
+      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pardal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
-      },
-      "artists": [
-        {
-          "name": "Drops INA",
-          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Paulo Vicente",
-          "url": "https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO"
-        }
-      ],
-      "duration_ms": 415099,
-      "name": "Pardal - Ao Vivo",
-      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Cora\u00e7\u00e3o Igual ao Teu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 437090,
       "name": "Medley Cora\u00e7\u00e3o Igual ao Teu - Ao Vivo",
       "url": "https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
     },
     {
       "added_at": null,

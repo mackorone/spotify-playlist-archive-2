@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Thomas Azier
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,902 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,927 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Say Yes, Before I Do](https://open.spotify.com/track/7nezdzBBV8ulf6igXq73Dd) | [Kaya](https://open.spotify.com/artist/6tyCabPUFMlCxB5NxICFtK) | [Say Yes, Before I Do](https://open.spotify.com/album/5aoDMcTy7L5P0OrGUvx1SR) | 3:51 |
 | 100 | [Eyes Wide](https://open.spotify.com/track/3RYnZF3SYTxQ8Mys5daMzd) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Eyes Wide](https://open.spotify.com/album/4sdkGycSaYg4n4O7rCi8a8) | 2:26 |
 
-Snapshot ID: `AAAAAIPopI+q8vaqvwc5jG7FX6VJLU60`
+Snapshot ID: `AAAAAMx7z3KOx5vyVsM8BclPwrYpFvI4`

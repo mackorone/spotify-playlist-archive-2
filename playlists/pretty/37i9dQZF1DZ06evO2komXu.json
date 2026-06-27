@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 57013,
+  "num_followers": 57030,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADwsDwHpebOOKzHZ5mQEZOY",
+  "snapshot_id": "ajxvgAAAAACuduc2fjkZEMq0GFVYFRYY",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/1P8BZuY2ZRlCPzXhSly5eZ"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gimme Dat",
-        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Next Door",
-        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 180682,
-      "name": "Girl Next Door",
-      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 155506,
       "name": "Many Roads",
       "url": "https://open.spotify.com/track/4KHSKFMQr0PGkWIzIueg8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 180682,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
-      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+        "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
+      "url": "https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2"
     },
     {
       "added_at": null,

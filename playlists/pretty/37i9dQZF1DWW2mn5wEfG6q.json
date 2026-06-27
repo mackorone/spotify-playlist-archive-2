@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 96532,
+  "num_followers": 96540,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "One Way Trigger",
+      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Oblivion (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5O5pnKHDJrwvL6w9Ne1mka"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 356674,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/79npfYK6N5RnBc1jiaoHCr"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "One Way Trigger",
-      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "If You Wait (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Wasting My Young Years",
-      "url": "https://open.spotify.com/track/0CzKeBPCiBrGZRV9eLzzBo"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "When It Was Now",
         "url": "https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "If You Wait (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Wasting My Young Years",
+      "url": "https://open.spotify.com/track/0CzKeBPCiBrGZRV9eLzzBo"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "If You Wait (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "We Are Only What We Feel",
         "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "If You Wait (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/2ENgaBS5vLUpqUw8inkZZp"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "If You Wait (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Nightcall",
-      "url": "https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Changing of the Seasons",
         "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222880,
       "name": "Changing of the Seasons",
       "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "If You Wait (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0Jxn7c5MQwqvkahOp4YiB5"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/4MKO1xltVSQlMMZUfOMEA1"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "More Than Just a Dream",
-        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "The Walker",
-      "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "MoM & DaD",
         "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 291773,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "More Than Just a Dream",
+        "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "The Walker",
+      "url": "https://open.spotify.com/track/46EOWTszdIfllYY4o6rjkY"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1484,57 +1484,9 @@
           "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 254037,
-      "name": "This Song Is Not About A Girl",
-      "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Muchacho De Lujo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song For Zula",
-      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1555,6 +1507,54 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Muchacho De Lujo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song For Zula",
+      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1568,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 221894,
-      "name": "Drop The Game",
-      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 309590,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Dear Miss Lonelyhearts",
         "url": "https://open.spotify.com/album/0uQ7R0muujuP3OOu5Q9ZAg"
       },
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
-        "url": "https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw"
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
       },
       "artists": [
         {
-          "name": "Foxygen",
-          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 201706,
-      "name": "Shuggie",
-      "url": "https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/2nbZjuvTQh6kpFPe6uIc2Z"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 309590,
-      "name": "Howling",
-      "url": "https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq"
+      "duration_ms": 194733,
+      "name": "Blondie",
+      "url": "https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9"
     }
   ],
   "unique_name": "Best of Indie 2013",

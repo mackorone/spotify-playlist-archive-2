@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Ai Shite Ruyo",
+        "url": "https://open.spotify.com/album/0s74hT3Ar02cQZA7VHhxnn"
+      },
+      "artists": [
+        {
+          "name": "HEY JUNE!",
+          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188974,
+      "name": "Ai Shite Ruyo",
+      "url": "https://open.spotify.com/track/7lN50K8eny7KTRXKvd95Wt"
+    },
+    {
+      "album": {
         "name": "LOVES7AGE",
         "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
@@ -4580,8 +4598,8 @@
           "url": "https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al"
         },
         {
-          "name": "Cholow",
-          "url": "https://open.spotify.com/artist/2Rf3Zpxu2RYKZuoOjubuJk"
+          "name": "CHOLOW",
+          "url": "https://open.spotify.com/artist/5ViHWjuSxWnCCT9Ck4Qrux"
         }
       ],
       "date_added": "2026-04-06",

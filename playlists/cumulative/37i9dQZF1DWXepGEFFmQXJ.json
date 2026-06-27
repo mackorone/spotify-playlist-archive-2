@@ -12861,6 +12861,24 @@
     },
     {
       "album": {
+        "name": "Marry You Again",
+        "url": "https://open.spotify.com/album/0d8GtPFvul3BhoSAvT98ID"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Marry You Again",
+      "url": "https://open.spotify.com/track/7GW3ySPXF49BKJ6HQQ1FiJ"
+    },
+    {
+      "album": {
         "name": "Matching Tattoos",
         "url": "https://open.spotify.com/album/1mlkMoZYsAX8tvNnodHDFC"
       },

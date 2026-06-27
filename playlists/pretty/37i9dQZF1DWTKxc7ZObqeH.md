@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz for warm summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,084 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,622 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,19 +16,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 6 | [Absolutely Splendid](https://open.spotify.com/track/7ttqHySQKA7NfottjoK7jf) | [Earlham Trio](https://open.spotify.com/artist/2iWX7U2iPzG2ew3ywVSSQx) | [Absolutely Splendid](https://open.spotify.com/album/1GTslps4fAhJV8Yy2FCVYg) | 2:59 |
 | 7 | [There Will Never Be Another You](https://open.spotify.com/track/3Jj4zXCs23YMLcEFODQsfY) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [There Will Never Be Another You](https://open.spotify.com/album/7B3cO9ADwtUAV1vV3vCawT) | 3:55 |
 | 8 | [I got it bad and that ain't good](https://open.spotify.com/track/5gC026nF0o0bLHu3naP6dk) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [I got it bad and that ain't good](https://open.spotify.com/album/5DkW3Oh7sHvOeTCkaen9ZW) | 3:16 |
-| 9 | [Hotcakes](https://open.spotify.com/track/0lWNm6lIo6J2hOHjogydlU) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Hotcakes](https://open.spotify.com/album/2mp6XtceEU3EFKG8kYQdH1) | 2:48 |
-| 10 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 |
-| 11 | [Maywood In My Heart](https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:44 |
-| 12 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 |
-| 13 | [A Train to Cannes](https://open.spotify.com/track/4Gh6qRN0GWET3KFx6lIkzF) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [A Train to Cannes](https://open.spotify.com/album/7I75eKv2H6qCe26EFS5dsj) | 2:34 |
-| 14 | [While We're Young](https://open.spotify.com/track/1YO1AkxsjQ0zjfVaATCsnQ) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [While We're Young](https://open.spotify.com/album/5VfecsPq4UaqzGm42wBKyK) | 3:52 |
-| 15 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 |
-| 16 | [A minute so long](https://open.spotify.com/track/3Xn7vSjgTLNwHk6ZfPMv4Y) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [A minute so long](https://open.spotify.com/album/4hq76KYACxP9LUb8CqZttE) | 3:05 |
-| 17 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 |
-| 18 | [Sunshine in Vermont](https://open.spotify.com/track/3X9XRg4DPw5NmJDefP9JBZ) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Sunshine in Vermont](https://open.spotify.com/album/3uPfZBaOayqefC99TZ5BYs) | 3:00 |
-| 19 | [Fading Skies](https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Fading Skies](https://open.spotify.com/album/10t4J4mFT0ChaEJUnSYpdF) | 3:01 |
-| 20 | [Last Bus Uptown](https://open.spotify.com/track/6hPoq4UsxKl9eWQI7esa9N) | [Orbit Trio](https://open.spotify.com/artist/0UrAU253yLOb2eBXIiyXNq) | [Last Bus Uptown](https://open.spotify.com/album/6M2vaiVIh1yBVqaiSYsNhf) | 2:48 |
-| 21 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 |
+| 9 | [Maywood In My Heart](https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Maywood In My Heart](https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn) | 3:44 |
+| 10 | [The Fool That Fell For You](https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [The Fool That Fell For You](https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R) | 4:30 |
+| 11 | [A Train to Cannes](https://open.spotify.com/track/4Gh6qRN0GWET3KFx6lIkzF) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [A Train to Cannes](https://open.spotify.com/album/7I75eKv2H6qCe26EFS5dsj) | 2:34 |
+| 12 | [Ask Me Now](https://open.spotify.com/track/04ICJKheRrWvKTXcQQN8FM) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Ask Me Now](https://open.spotify.com/album/2M7mD8tcjef75sXOfQg2Q4) | 4:41 |
+| 13 | [A minute so long](https://open.spotify.com/track/3Xn7vSjgTLNwHk6ZfPMv4Y) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [A minute so long](https://open.spotify.com/album/4hq76KYACxP9LUb8CqZttE) | 3:05 |
+| 14 | [My Ideal](https://open.spotify.com/track/7auDnLAZDuygfAcDyaRwIN) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My Ideal](https://open.spotify.com/album/1UPIz7n0yAGGuMaonT6Vho) | 3:20 |
+| 15 | [Sunshine in Vermont](https://open.spotify.com/track/3X9XRg4DPw5NmJDefP9JBZ) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Sunshine in Vermont](https://open.spotify.com/album/3uPfZBaOayqefC99TZ5BYs) | 3:00 |
+| 16 | [Fading Skies](https://open.spotify.com/track/1dyjTzH2OBunqoXYhDPRUn) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Fading Skies](https://open.spotify.com/album/10t4J4mFT0ChaEJUnSYpdF) | 3:01 |
+| 17 | [Hotcakes](https://open.spotify.com/track/0lWNm6lIo6J2hOHjogydlU) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Hotcakes](https://open.spotify.com/album/2mp6XtceEU3EFKG8kYQdH1) | 2:48 |
+| 18 | [Last Bus Uptown](https://open.spotify.com/track/6hPoq4UsxKl9eWQI7esa9N) | [Orbit Trio](https://open.spotify.com/artist/0UrAU253yLOb2eBXIiyXNq) | [Last Bus Uptown](https://open.spotify.com/album/6M2vaiVIh1yBVqaiSYsNhf) | 2:48 |
+| 19 | [What room you in?](https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [What room you in?](https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE) | 3:17 |
+| 20 | [While We're Young](https://open.spotify.com/track/1YO1AkxsjQ0zjfVaATCsnQ) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [While We're Young](https://open.spotify.com/album/5VfecsPq4UaqzGm42wBKyK) | 3:52 |
+| 21 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 |
 | 22 | [Pass the Salt](https://open.spotify.com/track/6c7YlCeNwLuua6LDeflx1U) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Pass the Salt](https://open.spotify.com/album/650WMgglCat9jejss0KSu6) | 3:42 |
 | 23 | [Strolling With My Poodle](https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC) | [Billy Hicks Quartet](https://open.spotify.com/artist/5Ygo7dMjlqex2mD2Ah7h1J) | [Strolling With My Poodle](https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ) | 3:58 |
 | 24 | [Came and Went](https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR) | [Geoffrey Dean](https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE) | [Came and Went](https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j) | 5:35 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 44 | [Velvet Nightfall](https://open.spotify.com/track/44H2n9uGagQmP9k6TvAJ13) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Sapphire Dreams](https://open.spotify.com/album/3j4YOkM5ZR0yybllI5FiQO) | 3:59 |
 | 45 | [Do Nothin' Til You Hear from Me](https://open.spotify.com/track/3nWyP7orBO4WCuAfIetpX1) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Do Nothin' Til You Hear from Me](https://open.spotify.com/album/1ounwufvmQ9EfCEbBboss3) | 2:43 |
 
-Snapshot ID: `AAAAAA0iUJl3I6Ij6JH208O85UKmSGNg`
+Snapshot ID: `AAAAALAtZqcaG1V5nd86H6259ifK5Vka`

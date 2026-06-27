@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler",
-  "num_followers": 476378,
+  "num_followers": 476398,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABUTXQG/zKg/xIr8Snch4Qhnt/2r",
+  "snapshot_id": "AAAAAC7nMj26oR3exaWuIwAZ8TCFe5Kj",
   "tracks": [
     {
       "added_at": "2026-05-29 04:59:20",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/4pH4hyu6sNdcZBCllIbo1u"
     },
     {
+      "added_at": "2026-06-26 04:59:10",
+      "album": {
+        "name": "RULAY",
+        "url": "https://open.spotify.com/album/70x2Y06HOorSVh6OLtPupJ"
+      },
+      "artists": [
+        {
+          "name": "menteabierta",
+          "url": "https://open.spotify.com/artist/3Z5jrGaclyPGZxbGcVuCFy"
+        },
+        {
+          "name": "Cali Flow Latino",
+          "url": "https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD"
+        }
+      ],
+      "duration_ms": 163142,
+      "name": "RULAY",
+      "url": "https://open.spotify.com/track/440u0o6IMKbLgqNhmuYD8M"
+    },
+    {
       "added_at": "2026-06-12 17:39:58",
       "album": {
         "name": "Marcri\u00e1",
@@ -63,26 +83,6 @@
       "duration_ms": 220407,
       "name": "mariposas en el est\u00f3mago",
       "url": "https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT"
-    },
-    {
-      "added_at": "2026-04-10 04:59:28",
-      "album": {
-        "name": "PUERTA ABIERTA",
-        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 164790,
-      "name": "Amor Bonito",
-      "url": "https://open.spotify.com/track/4L9l8YzYwmGl70RqFhb23B"
     },
     {
       "added_at": "2026-03-26 19:01:46",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-26 19:01:46",
       "album": {
-        "name": "HOY SE GUAYA",
-        "url": "https://open.spotify.com/album/4bDcoGYOho0rcPLm7FV8Te"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "HOY SE GUAYA",
-      "url": "https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "Sigueme Besando Asi",
-        "url": "https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Sigueme Besando Asi",
-      "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
     },
     {
       "added_at": "2025-12-19 04:59:16",
@@ -1127,26 +1095,6 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2026-03-26 19:01:46",

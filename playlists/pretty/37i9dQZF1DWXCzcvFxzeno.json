@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: 999999999",
-  "num_followers": 510130,
+  "num_followers": 510439,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        },
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 160503,
       "name": "DON'T WANNA MISS THIS",
       "url": "https://open.spotify.com/track/0kEmoJeOPaIXVgRT0XREw0"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        },
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
-        }
-      ],
-      "duration_ms": 226064,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/0fW4McH0CZO94g0L8sJCE2"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -263,6 +263,26 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
+        "name": "300G",
+        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "300G",
+      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 220714,
       "name": "SHIVA",
       "url": "https://open.spotify.com/track/6NOMfX95ei3MYvs7pIbUzL"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
-        "name": "300G",
-        "url": "https://open.spotify.com/album/59grAMlOifI3fj7sn4PEXg"
-      },
-      "artists": [
-        {
-          "name": "Kobosil",
-          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
-        },
-        {
-          "name": "Bekkaa",
-          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "300G",
-      "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -559,22 +559,18 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "See Me Coming",
-        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
+        "name": "Rave Kid EP",
+        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
         }
       ],
-      "duration_ms": 256511,
-      "name": "See Me Coming",
-      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
+      "duration_ms": 169600,
+      "name": "LaLaLo",
+      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -595,38 +591,22 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "Rave Kid EP",
-        "url": "https://open.spotify.com/album/62kW3kk96aliqD1B9bpWJ1"
+        "name": "See Me Coming",
+        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
       },
       "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "LaLaLo",
-      "url": "https://open.spotify.com/track/1bZNXnAUa5lhXrh1cGnR9F"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
         {
           "name": "Nico Moreno",
           "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
+      "duration_ms": 256511,
+      "name": "See Me Coming",
+      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -647,6 +627,26 @@
       "duration_ms": 227250,
       "name": "Kick Drum Talk",
       "url": "https://open.spotify.com/track/0Tm7qZ3buYsSNhSUs3Ps5j"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "Weltschmerz",
-        "url": "https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3"
-      },
-      "artists": [
-        {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
-        }
-      ],
-      "duration_ms": 384949,
-      "name": "Weltschmerz",
-      "url": "https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
         "name": "WTF?",
         "url": "https://open.spotify.com/album/1GbFabrDm9f8oFuwWhRjj5"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 222574,
       "name": "WTF?",
       "url": "https://open.spotify.com/track/5DaHRGpgfmx7mcCYrXmlxT"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
+        "name": "Weltschmerz",
+        "url": "https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        }
+      ],
+      "duration_ms": 384949,
+      "name": "Weltschmerz",
+      "url": "https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "2 LOUD",
-        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 303483,
-      "name": "2 LOUD",
-      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
         "name": "303 101",
         "url": "https://open.spotify.com/album/6HCtACAngzFc9Take9cXNt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 184645,
       "name": "303 101",
       "url": "https://open.spotify.com/track/7eu6tCiOMEmtuAKcN5WqtK"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
+        "name": "2 LOUD",
+        "url": "https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 303483,
+      "name": "2 LOUD",
+      "url": "https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
+        "name": "REMEMBER THIS FACE",
+        "url": "https://open.spotify.com/album/3cYKPp26P57F81IdlAtSnI"
+      },
+      "artists": [
+        {
+          "name": "KLOFAMA",
+          "url": "https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68"
+        },
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
+        }
+      ],
+      "duration_ms": 231374,
+      "name": "REMEMBER THIS FACE",
+      "url": "https://open.spotify.com/track/7bwjc2oYo6mkLblcqh0IcD"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
         "name": "TASTE MY LOVE",
         "url": "https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 194509,
       "name": "Kummer",
       "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
-        "name": "REMEMBER THIS FACE",
-        "url": "https://open.spotify.com/album/3cYKPp26P57F81IdlAtSnI"
-      },
-      "artists": [
-        {
-          "name": "KLOFAMA",
-          "url": "https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68"
-        },
-        {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        }
-      ],
-      "duration_ms": 231374,
-      "name": "REMEMBER THIS FACE",
-      "url": "https://open.spotify.com/track/7bwjc2oYo6mkLblcqh0IcD"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        },
+        {
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
         "name": "Check This Out",
         "url": "https://open.spotify.com/album/3UjwWgBtFDygUwVeCqrH7s"
       },
@@ -1507,26 +1527,6 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "Shivaya (Remix)",
-        "url": "https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        },
-        {
-          "name": "Per Pleks",
-          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
-        }
-      ],
-      "duration_ms": 202838,
-      "name": "Shivaya - Remix",
-      "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
         "name": "It's A Fine Day (Hard Techno Remix)",
         "url": "https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM"
       },
@@ -1547,6 +1547,26 @@
       "duration_ms": 153222,
       "name": "It's A Fine Day - Hard Techno Remix",
       "url": "https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY"
+    },
+    {
+      "added_at": "2026-06-25 22:02:43",
+      "album": {
+        "name": "Shivaya (Remix)",
+        "url": "https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        },
+        {
+          "name": "Per Pleks",
+          "url": "https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV"
+        }
+      ],
+      "duration_ms": 202838,
+      "name": "Shivaya - Remix",
+      "url": "https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -1587,22 +1607,6 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
-      },
-      "artists": [
-        {
-          "name": "Luciid",
-          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
-        }
-      ],
-      "duration_ms": 294207,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
-    },
-    {
-      "added_at": "2026-06-25 22:02:43",
-      "album": {
         "name": "HOMEWARD BOUND",
         "url": "https://open.spotify.com/album/77qphqm55wE28WErICmvo5"
       },
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "Data Corrupted",
-        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/749Q9MDcHCeK6TwYVVYvn1"
       },
       "artists": [
         {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        },
-        {
-          "name": "Kruelty",
-          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
+          "name": "Luciid",
+          "url": "https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Data Corrupted",
-      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
+      "duration_ms": 294207,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/6OeE8CehRJaqiD8soZpAgq"
     },
     {
       "added_at": "2026-06-25 22:02:43",
@@ -1899,26 +1899,18 @@
     {
       "added_at": "2026-06-25 22:02:43",
       "album": {
-        "name": "2005",
-        "url": "https://open.spotify.com/album/4xhy1R0xkrbmbiE24QH1V0"
+        "name": "Mystical Energy EP",
+        "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
         }
       ],
-      "duration_ms": 199029,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/5B7WC3RAeh3aEjnZ2qc2JF"
+      "duration_ms": 320093,
+      "name": "Mystical Energy",
+      "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
     }
   ],
   "unique_name": "Hard Techno",

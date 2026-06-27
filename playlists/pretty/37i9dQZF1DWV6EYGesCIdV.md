@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6EYGesCIdV.md) - [plain]
 
 > Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,867 likes - 88 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,863 likes - 88 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6EYGesCIdV.md) - [plain]
 | 5 | [Touch the Sky](https://open.spotify.com/track/2OkZOxHeqv8b9iRZG2PPrD) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Love](https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug) | 2:32 |
 | 6 | [Je fais le vœu \- Instrumental](https://open.spotify.com/track/4WERGzNWm4IrQHX8xzX8SS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish: Asha et la bonne étoile \(Bande Originale Française du Film\)](https://open.spotify.com/album/1LhuHxg33x4ZnyIpF702GQ) | 3:25 |
 | 7 | [Le vœu parfait](https://open.spotify.com/track/6KE9FwyaFVmNhPFMotqiP0) | [Océane Demontis](https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs) | [Wish: Asha et la bonne étoile \(Bande Originale Française du Film\)](https://open.spotify.com/album/1LhuHxg33x4ZnyIpF702GQ) | 2:52 |
-| 8 | [A Wish Worth Making \- Instrumental](https://open.spotify.com/track/5dDiJ7cbWbIBlRBMqqRJsS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:53 |
+| 8 | [A Wish Worth Making \- Instrumental](https://open.spotify.com/track/5dDiJ7cbWbIBlRBMqqRJsS) | [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 2:53 |
 | 9 | [You've Got a Friend in Me](https://open.spotify.com/track/5XQ9Q0bXlNv8q96OxjBhSm) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 2:48 |
 | 10 | [I Just Can't Wait to Be King](https://open.spotify.com/track/6MBBBLlg335SrCzCagXRRt) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Happy](https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm) | 2:44 |
 | 11 | [All Is Found](https://open.spotify.com/track/0SdFIDXpGJnd7rIWbXQxIv) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 2:23 |

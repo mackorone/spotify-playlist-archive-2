@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAI+r7O+1gplAxOo6S2yjrvMVmyfpNi",
+  "snapshot_id": "AAAI/HCNs88doYdMQXFy2u6pXSA6AuqJ",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -62703,7 +62703,7 @@
     {
       "added_at": "2025-12-10 14:03:59",
       "album": {
-        "name": "FRONTIER SNOW",
+        "name": "Frontier Snow",
         "url": "https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2"
       },
       "artists": [
@@ -62713,7 +62713,7 @@
         }
       ],
       "duration_ms": 199960,
-      "name": "FRONTIER SNOW",
+      "name": "Frontier Snow",
       "url": "https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl"
     },
     {
@@ -74131,6 +74131,38 @@
       "duration_ms": 116290,
       "name": "Musicando",
       "url": "https://open.spotify.com/track/57kXi1yuNUN7lnZzJTMgyz"
+    },
+    {
+      "added_at": "2026-06-26 07:08:56",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 205914,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ"
+    },
+    {
+      "added_at": "2026-06-26 15:12:26",
+      "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/6UkFPm3iask9d6xcxwVYN9"
+      },
+      "artists": [
+        {
+          "name": "Riiver Brukes",
+          "url": "https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/6JCO2Sp295DrQi5Mu5Ix0t"
     }
   ],
   "unique_name": "playlist spotify free",

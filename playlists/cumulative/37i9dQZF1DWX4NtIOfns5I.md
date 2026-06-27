@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> because I will go wherever you wannaaaa
+> tasha on the cover <3
 
-829 songs - 2 day 2 hr 3 min
+835 songs - 2 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-25 | 2026-01-15 |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2024-08-01 | 2024-09-07 |
 | [August \(Acoustic\)](https://open.spotify.com/track/2JXiyD1zucGdFmnTeYb5Ry) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [August \(Acoustic\)](https://open.spotify.com/album/6uGsmECvPd2VoQI5OfnSPL) | 5:02 | 2025-08-08 | 2025-09-06 |
+| [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 | 2026-06-26 |  |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-15 | 2024-11-09 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/4e1S8n3KB4J8J5IPMNLySk) | [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Baby Don't Hurt Me](https://open.spotify.com/album/19t0Qz1pqBHpdGA7wKuXJe) | 3:45 | 2026-03-06 |  |
 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 | 2025-09-12 | 2026-02-21 |
@@ -153,6 +154,7 @@
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 | 2024-10-19 |
 | [Curl up & Die](https://open.spotify.com/track/0mDn9q0XZBVI3xICivkTY1) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 3:22 | 2023-10-17 | 2024-03-13 |
 | [Cynthia](https://open.spotify.com/track/7wIBlBjYKgEMUfDEFXS61E) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Cynthia](https://open.spotify.com/album/4LJpvQlEZCTOqgIRfmgRVI) | 3:46 | 2026-02-06 | 2026-04-18 |
+| [dad im scared to age](https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [dad im scared to age](https://open.spotify.com/album/22lSxuKjTVyrh1zz8t6Ld8) | 2:53 | 2026-06-26 |  |
 | [Daisy](https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL) | 3:37 | 2024-10-23 | 2025-05-17 |
 | [dandelion dream](https://open.spotify.com/track/0JtEIgORtcboJBcbTDbwk1) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [boundless & true](https://open.spotify.com/album/69AcJYuoVwJzoq86dnA08r) | 3:16 | 2024-12-06 | 2025-03-13 |
 | [Dark Sun](https://open.spotify.com/track/6Zn6u1wC7JcLZ4EsUTcNET) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [Dark Sun](https://open.spotify.com/album/5LoqJrgLyJYbsk5IavjkkJ) | 4:38 | 2024-03-29 | 2025-01-18 |
@@ -430,6 +432,7 @@
 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 | 2024-05-01 | 2025-01-18 |
 | [Lost & Found](https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost & Found](https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ) | 4:09 | 2023-10-20 | 2024-06-01 |
 | [Lost Again](https://open.spotify.com/track/736kzWTAngrJGQVZicIMCx) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [Losin'](https://open.spotify.com/album/5sH5XoVKY8ZMJgVhuc1gw0) | 5:13 | 2025-04-25 | 2025-09-13 |
+| [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 | 2026-06-26 |  |
 | [love is a black hole !](https://open.spotify.com/track/28cQ6woa2DeOICa4Qefaje) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [love is a black hole !](https://open.spotify.com/album/16d3wulra6dX9bVyENqGPU) | 3:29 | 2023-10-06 | 2024-03-13 |
 | [Lucy](https://open.spotify.com/track/6O1vElqf77upV8az275UZs) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lucy](https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa) | 3:38 | 2025-05-09 | 2026-01-17 |
 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 | 2024-01-05 | 2024-08-27 |
@@ -529,6 +532,7 @@
 | [Only Time \(demo\)](https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Only Time \(demo\)](https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu) | 4:34 | 2024-11-15 | 2025-05-14 |
 | [orange : v2](https://open.spotify.com/track/1dLW515RvXJektDP5NBPBK) | [King Howe](https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV) | [orange : the ep](https://open.spotify.com/album/3YOtJDFGokdJ99r1Qp85CP) | 3:59 | 2026-05-29 |  |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 | 2026-01-31 |
+| [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 | 2026-06-26 |  |
 | [Outdoor Shower](https://open.spotify.com/track/6pOogh0qZALsuhj5I3uKKT) | [Boxtrod](https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx) | [Broken Stairs / Outdoor Shower](https://open.spotify.com/album/6eKDyNHs1Y2i5AH5lkQBBi) | 3:25 | 2025-06-13 | 2026-01-17 |
 | [Over Your Head](https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Over Your Head](https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI) | 3:16 | 2024-10-18 | 2025-05-14 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-05 | 2024-07-27 |
@@ -653,6 +657,7 @@
 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 | 2023-10-06 | 2024-03-30 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2023-12-08 | 2024-03-16 |
 | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/track/4s5xjrNtmAKKv1A66rfHVR) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [SPANISH ARMADA VAR\. XV](https://open.spotify.com/album/6WSRJN51d3S5OmWNi6Bv13) | 2:27 | 2025-09-05 | 2026-02-07 |
+| [Special](https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [You Are Spring!](https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT) | 4:36 | 2026-06-26 |  |
 | [spoiling me](https://open.spotify.com/track/1SjYeT1ntGnK0yWp9rMGpR) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [spoiling me](https://open.spotify.com/album/7zZ8oSOHAJyqMBJb3QAvXH) | 3:04 | 2024-07-08 | 2024-10-12 |
 | [Sports](https://open.spotify.com/track/4YGzGO76QnzV2JRsQCB2cb) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Duck](https://open.spotify.com/album/4SEvWrTXazys86CggJfd7p) | 2:54 | 2025-12-12 |  |
 | [spring cleaning](https://open.spotify.com/track/1rZggDe0NlgkU63OkbD3r8) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [spring cleaning](https://open.spotify.com/album/2csnhRN3yY164SmOUXJLLE) | 4:03 | 2026-04-06 |  |
@@ -764,6 +769,7 @@
 | [Villain](https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Villain](https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD) | 4:30 | 2025-03-21 | 2025-11-01 |
 | [violet](https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G) | [Marianne Ross](https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j) | [violet](https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN) | 1:50 | 2024-02-06 | 2025-01-18 |
 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 | 2024-04-26 | 2025-01-18 |
+| [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-26 |  |
 | [Visions Of You](https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [Visions Of You](https://open.spotify.com/album/22ERssxXyl2G0RYOVNjnHV) | 3:56 | 2024-03-15 | 2025-01-18 |
 | [Voodoo](https://open.spotify.com/track/0B0rHMbgUbay5ewNxHEMyw) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Voodoo](https://open.spotify.com/album/2r0czxUBgmwvs2sLWzVMH0) | 3:02 | 2025-05-09 | 2025-09-13 |
 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 | 2024-04-12 | 2024-05-25 |

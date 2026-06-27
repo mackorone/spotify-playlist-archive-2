@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAD1AVPTWf027660Tp6l4HZi",
+  "snapshot_id": "ajxvgAAAAADyS0xAcwsJqxV5aqBYjWoB",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+        "name": "Common Ground, Vol. 1",
+        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
       },
       "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Heliopause",
-      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
+      "duration_ms": 214883,
+      "name": "At Sea",
+      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
     },
     {
       "added_at": null,
@@ -115,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Ground, Vol. 1",
-        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "At Sea",
-      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -144,9 +124,25 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
+      "duration_ms": 174000,
+      "name": "Heliopause",
+      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prsnt",
+        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 35005,
+      "name": "FlyBy",
+      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
     },
     {
       "added_at": null,
@@ -183,8 +179,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prsnt",
-        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+      },
+      "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
       },
       "artists": [
         {
@@ -192,9 +208,41 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 35005,
-      "name": "FlyBy",
-      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unseen Worlds",
+        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Three Sonic Spaces I",
+      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 123773,
+      "name": "A Folk Study",
+      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
     },
     {
       "added_at": null,
@@ -212,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
+      "duration_ms": 158500,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
     },
     {
       "added_at": null,
@@ -244,25 +292,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 123773,
-      "name": "A Folk Study",
-      "url": "https://open.spotify.com/track/5SuTsR3Mjaq3Ss0VKFyQof"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 1708800,
+      "name": "The Expanding Universe",
+      "url": "https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn"
     },
     {
       "added_at": null,
@@ -296,41 +328,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Three Sonic Spaces I",
-      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 1708800,
-      "name": "The Expanding Universe",
-      "url": "https://open.spotify.com/track/43mnZs5bumUEqepenx1Hgn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unseen Worlds",
-        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Two Archetypes: Hall of Mirrors - I",
-      "url": "https://open.spotify.com/track/1NAWh1hzqWHyRhxFmSVnRF"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,

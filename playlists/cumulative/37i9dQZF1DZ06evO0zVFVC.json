@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48560,
+      "name": "Begin",
+      "url": "https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME"
+    },
+    {
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },

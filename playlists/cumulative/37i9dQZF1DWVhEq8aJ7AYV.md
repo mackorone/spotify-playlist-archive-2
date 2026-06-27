@@ -4,7 +4,7 @@
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-274 songs - 13 hr 43 min
+276 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [El Planeta Sexual](https://open.spotify.com/track/075wKuhA08EGXvGAwYZUgj) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 4:23 | 2021-09-03 | 2022-07-29 |
 | [El Rancho Rock](https://open.spotify.com/track/27RzkzE1NTBJxLDaZK2jIa) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Go Champ Go](https://open.spotify.com/album/2w8npBWERvFfCpOMhajy5M) | 2:16 | 2021-09-03 | 2022-07-07 |
 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 | 2021-09-03 | 2026-04-28 |
+| [El Tema de la Muerte](https://open.spotify.com/track/3xBVL1Wg4TURQIBOscECFL) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [El Tema de la Muerte](https://open.spotify.com/album/7Ce3sdwywrhnskprGMvYyH) | 2:39 | 2026-06-26 |  |
 | [El Toro](https://open.spotify.com/track/4WVlPM5Nl3FrPRy2bm10mx) | [Abbie Cardwell](https://open.spotify.com/artist/6AVI3pekvBNc56kSVkziJH), [The Chicano Rockers](https://open.spotify.com/artist/2WTeAK7vSE9STJ10tsouN3) | [From Mexico With Love](https://open.spotify.com/album/0TBkdI9lgfQNAnrPYqFeV1) | 4:03 | 2021-09-03 | 2022-07-01 |
 | [Eres Feo, Chaval](https://open.spotify.com/track/5DXKOjEC1pDOcAwnYMz9uO) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [El Loco Mundo De Los Jovenes](https://open.spotify.com/album/48P6nJlSaE2zMSSZvD4oSg) | 2:08 | 2021-09-03 | 2023-08-31 |
 | [Extraños Hipnóticos](https://open.spotify.com/track/1vV4a30H0U7OAdLbijCfVT) | [TELEKRIMEN](https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC) | [Resurrection of the Blood Zombies from Beyond!](https://open.spotify.com/album/3zosPfY4bKBfuBjPvHyiIH) | 2:27 | 2021-09-03 | 2022-07-27 |
@@ -147,7 +148,7 @@
 | [Lancha Con Fondo De Cristal](https://open.spotify.com/track/3y0nZ0vHHBhmqRdYuz0DNV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 2:12 | 2023-07-28 | 2024-04-19 |
 | [Last Call](https://open.spotify.com/track/2Aw6dlyFVe0noQH9ppjhvX) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Swingin' Singles](https://open.spotify.com/album/0yfDlYjL7m8HGqaobyt4k3) | 1:55 | 2021-09-03 |  |
 | [Lejos de ti](https://open.spotify.com/track/5m9zpVXgiTzKL6VdDiV3Nn) | [Artemio Charlatan](https://open.spotify.com/artist/2KrPZlVoD8mheZL7KakWRT), [JCesarTV](https://open.spotify.com/artist/0NIdivLRmHCALfjjxikI6C) | [Lejos de ti](https://open.spotify.com/album/3cE49bhcWjfvJHi9i8kX7z) | 4:19 | 2025-09-12 | 2025-12-21 |
-| [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 | 2021-09-03 |  |
+| [Logan's Run](https://open.spotify.com/track/1eBUpSGH2gLrrB2Wy2lwCZ) | [The Nebulas](https://open.spotify.com/artist/1AT04gH0CP5RTSTFkJQCi1) | [The Nebulas](https://open.spotify.com/album/0sQaPVhkMbLaVtQuQu2eCk) | 2:57 | 2021-09-03 | 2026-06-27 |
 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 | 2021-09-03 |  |
 | [Love Special Delivery](https://open.spotify.com/track/1FAM8gwc0xTtsgIza7JlFs) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Love Special Delivery / Sail On, Sailor](https://open.spotify.com/album/3fljjkZOzsIjG6FF7PaQE7) | 2:22 | 2021-09-03 | 2022-07-19 |
 | [Mad Waves](https://open.spotify.com/track/5TKLfhIuRiwFs65utNQ651) | [Los Pegajosos](https://open.spotify.com/artist/4ipiEnWeX9r4MinEb9hco6) | [Profecía Celeste](https://open.spotify.com/album/1OUbvQlEfRsVTvIgFJuk2X) | 3:23 | 2021-09-03 | 2022-07-28 |
@@ -225,7 +226,7 @@
 | [Sin Retorno](https://open.spotify.com/track/5mu02msW2PN3oVBoJiBqnh) | [Sys Malakian](https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk) | [Sin Retorno](https://open.spotify.com/album/176jcX2mrt470jgrE4NdUA) | 2:53 | 2021-09-03 | 2022-07-02 |
 | [Solaris Stomp](https://open.spotify.com/track/5C3mApxFbXRWj8ouYNCsyD) | [The Space Cossacks](https://open.spotify.com/artist/1XhaaT9U8CACi8QQepcl3p) | [Never Mind The Bolsheviks \- The Best Of…](https://open.spotify.com/album/6wz7bEL4keadApTdRTYy3z) | 3:14 | 2021-09-03 | 2022-07-04 |
 | [Souls in the Space](https://open.spotify.com/track/0WC6Adr7sFuM5h5D7q43Bd) | [The Pacific Lions](https://open.spotify.com/artist/31lKq1IQ8MatyHwbQXwlY3) | [Souls in the Space](https://open.spotify.com/album/4rPtJpTRsUGxqNMeknlJdN) | 4:21 | 2021-09-03 | 2022-07-13 |
-| [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 | 2021-09-03 |  |
+| [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 | 2021-09-03 | 2026-06-27 |
 | [Space Junket](https://open.spotify.com/track/1yKaipER1IDZhK7xlkG19G) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Space Junket](https://open.spotify.com/album/4eETDlaUPg9XS32qD66M34) | 2:56 | 2021-09-03 | 2022-07-22 |
 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 | 2021-09-03 |  |
 | [Sputnik A\-Go\-Go](https://open.spotify.com/track/7etKtgTsjfSEOZp1eqNJad) | [The Reverb Syndicate](https://open.spotify.com/artist/5bO9P60meCXaKNmoMLSqtJ) | [Sputnik A\-Go\-Go](https://open.spotify.com/album/6NRN8ztPhAWEFpvYYZkqDQ) | 3:34 | 2024-06-07 | 2024-07-18 |
@@ -269,6 +270,7 @@
 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 | 2021-09-03 |  |
 | [Una Chica Me Dijo una Vez](https://open.spotify.com/track/1tzcfcBpgv2uaZsWwTi73f) | [Los Moustros del Espacio Exterior](https://open.spotify.com/artist/7x7xd2Q9q00hWdSYBgr8Bl), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Una Chica Me Dijo una Vez](https://open.spotify.com/album/6ezRzAQ2YzBP4CZwYEy4jn) | 3:14 | 2021-09-03 | 2022-07-28 |
 | [Vaquero](https://open.spotify.com/track/7jJEMBy2f4bLHJZ8yG2Pxg) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Death Calavera 2.2](https://open.spotify.com/album/3LG8wwHzcv0WgsxVeVaigW) | 2:52 | 2021-09-03 |  |
+| [Viste Mister](https://open.spotify.com/track/149dGPibHqV1ypIQWcXjim) | [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Bruxería](https://open.spotify.com/album/5VEZvFA3FLSBHs8WIYe25w) | 2:31 | 2026-06-26 |  |
 | [Volar](https://open.spotify.com/track/3sfk92mTJYV2L9bcvW8d2Z) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sábado](https://open.spotify.com/album/7kuSs5f1rvSnxTm5Xccjiq) | 3:44 | 2021-09-03 | 2025-09-10 |
 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2023-07-28 | 2023-10-16 |
 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 | 2021-09-03 |  |

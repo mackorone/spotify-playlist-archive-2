@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 87689,
+  "num_followers": 87685,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Signature of Divine (Yahweh)",
-      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
+      "duration_ms": 190560,
+      "name": "Lay 'Em Down",
+      "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/3BB1Pe1PfijkrftFVmBEBs"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Lay 'Em Down",
-      "url": "https://open.spotify.com/track/5384anjbn1d5biZEgrDUA7"
+      "duration_ms": 244720,
+      "name": "Signature of Divine (Yahweh)",
+      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Jesus Song (Live)",
+        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
+        }
+      ],
+      "duration_ms": 380713,
+      "name": "Jesus Song - Live",
+      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Hymns For The Christian Life",
         "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 413186,
       "name": "Lamb of God",
       "url": "https://open.spotify.com/track/2wjv8xgIYCU951PwhYwgCJ"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Jesus Song (Live)",
-        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Taylor Gall",
-          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
-        }
-      ],
-      "duration_ms": 380713,
-      "name": "Jesus Song - Live",
-      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "At The Cross",
-        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 219729,
-      "name": "At The Cross",
-      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Glorious Day: Hymns of Faith",
         "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 237000,
       "name": "At Calvary",
       "url": "https://open.spotify.com/track/6EfFgQ5aPRJp7oinHiRMFQ"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "At The Cross",
+        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 219729,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
+        "name": "Everlasting God",
+        "url": "https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD"
+      },
+      "artists": [
+        {
+          "name": "Brenton Brown",
+          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 329680,
       "name": "Agnus Dei - Live",
       "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
-        "name": "Everlasting God",
-        "url": "https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD"
-      },
-      "artists": [
-        {
-          "name": "Brenton Brown",
-          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "HOLY WEEK",
-        "url": "https://open.spotify.com/album/13zbzotn0HxoUuD6teaxNT"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 329632,
-      "name": "He's Alive",
-      "url": "https://open.spotify.com/track/3dnzycduBghfHuaDaTBvOu"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 238306,
       "name": "Scars",
       "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "HOLY WEEK",
+        "url": "https://open.spotify.com/album/13zbzotn0HxoUuD6teaxNT"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 329632,
+      "name": "He's Alive",
+      "url": "https://open.spotify.com/track/3dnzycduBghfHuaDaTBvOu"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/2mFDrWZLN68vYYQhjSElca"
-      },
-      "artists": [
-        {
-          "name": "Bay Turner",
-          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
-        }
-      ],
-      "duration_ms": 285771,
-      "name": "Redeemer",
-      "url": "https://open.spotify.com/track/1BFbJ72sJw2lGGEp0e3bsM"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/2mFDrWZLN68vYYQhjSElca"
+      },
+      "artists": [
+        {
+          "name": "Bay Turner",
+          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
+        }
+      ],
+      "duration_ms": 285771,
+      "name": "Redeemer",
+      "url": "https://open.spotify.com/track/1BFbJ72sJw2lGGEp0e3bsM"
     },
     {
       "added_at": "2026-04-04 06:04:53",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2026-04-04 06:04:53",
       "album": {
-        "name": "The Crucifixion of Jesus",
-        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
-      },
-      "artists": [
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Stay With Me Here",
-      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
-    },
-    {
-      "added_at": "2026-04-04 06:04:53",
-      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/70x3zMErhDJEzh7pGw6ICv"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 357404,
       "name": "Just The Cross",
       "url": "https://open.spotify.com/track/37dWqUi7xIJ4HH4dsgxDDh"
+    },
+    {
+      "added_at": "2026-04-04 06:04:53",
+      "album": {
+        "name": "The Crucifixion of Jesus",
+        "url": "https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Stay With Me Here",
+      "url": "https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn"
     },
     {
       "added_at": "2026-04-04 06:04:53",

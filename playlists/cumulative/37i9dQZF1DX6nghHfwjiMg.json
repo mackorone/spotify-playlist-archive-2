@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Diablo Que Soy",
+        "url": "https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167754,
+      "name": "Diablo Que Soy",
+      "url": "https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y"
+    },
+    {
+      "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq"
       },

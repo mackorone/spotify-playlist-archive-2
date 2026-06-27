@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92838,
+  "num_followers": 92905,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,18 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Millonari",
-        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
+        "name": "HIJO DE P",
+        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
       },
       "artists": [
         {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
         }
       ],
-      "duration_ms": 156444,
-      "name": "Millonari",
-      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
+      "duration_ms": 181132,
+      "name": "HIJO DE P",
+      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -135,18 +127,26 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "HIJO DE P",
-        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
+        "name": "Millonari",
+        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
       },
       "artists": [
         {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
         }
       ],
-      "duration_ms": 181132,
-      "name": "HIJO DE P",
-      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
+      "duration_ms": 156444,
+      "name": "Millonari",
+      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Tempestad",
-        "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 255605,
-      "name": "Tempestad",
-      "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Tempestad",
+        "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 255605,
+      "name": "Tempestad",
+      "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "solo hoy",
         "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 186639,
       "name": "En el sur - REMIX",
       "url": "https://open.spotify.com/track/7h31UFRcfMvKgBKIWDWVFg"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "El hombre ideal",
-        "url": "https://open.spotify.com/album/4KHf9Q72Fr1b9YtbS74Scf"
+        "name": "YoPiensoEnTi",
+        "url": "https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ"
       },
       "artists": [
         {
-          "name": "Brigitte",
-          "url": "https://open.spotify.com/artist/4FVoLaxiUrMYTDXB6u4646"
+          "name": "flxbabu",
+          "url": "https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC"
+        },
+        {
+          "name": "matt",
+          "url": "https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy"
         }
       ],
-      "duration_ms": 171704,
-      "name": "El hombre ideal",
-      "url": "https://open.spotify.com/track/3A57ItGf2m5jOEhsF8mNxB"
+      "duration_ms": 156000,
+      "name": "YoPiensoEnTi",
+      "url": "https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

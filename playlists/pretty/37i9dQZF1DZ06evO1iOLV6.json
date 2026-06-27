@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12606,
+  "num_followers": 12608,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAArrFkmmN34hYl1shjDa6BZ",
+  "snapshot_id": "ajxvgAAAAACO4nv41/FmPEUGIwL5YANz",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 224028,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yagi",
         "url": "https://open.spotify.com/album/6AggMrJjq5i8HftaQMpnJt"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 234226,
       "name": "Is It Because I Love You",
       "url": "https://open.spotify.com/track/1qfNnRKkN2tvAdFch4fOi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 224028,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Boy",
-        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
-      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "W.E.E.D.",
         "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 281453,
       "name": "Wait Refix",
       "url": "https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Golden Boy",
+        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
     },
     {
       "added_at": null,

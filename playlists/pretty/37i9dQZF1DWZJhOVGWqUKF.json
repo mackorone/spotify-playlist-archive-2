@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Five Finger Death Punch",
-  "num_followers": 338340,
+  "num_followers": 338308,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
+        "name": "Specter",
+        "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 274408,
+      "name": "Specter",
+      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
         "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
         "url": "https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 243996,
       "name": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
-        "name": "Specter",
-        "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 274408,
-      "name": "Specter",
-      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
+        "name": "Dying To Love",
+        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 256965,
+      "name": "Dying To Love",
+      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
         "name": "Let The Good Times Roll (feat. The Offspring)",
         "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 210913,
       "name": "Let The Good Times Roll (feat. The Offspring)",
       "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
-        "name": "Dying To Love",
-        "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 256965,
-      "name": "Dying To Love",
-      "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -763,8 +763,8 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
       },
       "artists": [
         {
@@ -772,25 +772,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
-        "name": "False Reaction",
-        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "False Reaction",
-      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
+      "duration_ms": 199696,
+      "name": "Tell Me When You've Had Enough",
+      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -807,6 +791,22 @@
       "duration_ms": 181018,
       "name": "House Of Matches",
       "url": "https://open.spotify.com/track/2k6HnONLAdpRT0TGM0Ykov"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
+        "name": "False Reaction",
+        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "False Reaction",
+      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -843,8 +843,8 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 199696,
-      "name": "Tell Me When You've Had Enough",
-      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
-        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 223762,
-      "name": "G.O.D. And The Broken Ribs",
-      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
         "name": "Everything Burns (feat. Beartooth)",
         "url": "https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 181666,
       "name": "Everything Burns (feat. Beartooth)",
       "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
+        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
+        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 223762,
+      "name": "G.O.D. And The Broken Ribs",
+      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Peaches!",
-        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 223325,
-      "name": "She Does It Right",
-      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
         "name": "When I Wake Up",
         "url": "https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n"
       },
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+        "name": "Peaches!",
+        "url": "https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
+      "duration_ms": 223325,
+      "name": "She Does It Right",
+      "url": "https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Violent Nature",
-        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 191531,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
-    },
-    {
-      "added_at": "2026-06-25 22:00:42",
-      "album": {
         "name": "Villainous (feat. Maria Brink of In This Moment)",
         "url": "https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 176700,
       "name": "Villainous (feat. Maria Brink of In This Moment)",
       "url": "https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X"
+    },
+    {
+      "added_at": "2026-06-25 22:00:42",
+      "album": {
+        "name": "Violent Nature",
+        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 191531,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "Whisper of a Dream",
-        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 264248,
-      "name": "Whisper of a Dream",
-      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-06-25 22:00:42",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2026-06-25 22:00:42",
       "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+        "name": "Whisper of a Dream",
+        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
+      "duration_ms": 264248,
+      "name": "Whisper of a Dream",
+      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
     },
     {
       "added_at": "2026-06-25 22:00:42",

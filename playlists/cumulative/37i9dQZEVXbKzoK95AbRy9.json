@@ -1126,6 +1126,32 @@
     {
       "album": {
         "name": "Ama Um Maloqueiro",
+        "url": "https://open.spotify.com/album/4pL1QsYUQpN7gZrb1y45GV"
+      },
+      "artists": [
+        {
+          "name": "Rafa e Junior",
+          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Ama Um Maloqueiro",
+      "url": "https://open.spotify.com/track/3qKcgMYlJ10WYa3ChZMp19"
+    },
+    {
+      "album": {
+        "name": "Ama Um Maloqueiro",
         "url": "https://open.spotify.com/album/38ye4dhsMJ6Wfl4IBZpUPt"
       },
       "artists": [
@@ -1184,7 +1210,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 119538,
       "name": "Amo Minha Favela",
       "url": "https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju"
@@ -2128,7 +2154,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -2212,7 +2238,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -2314,7 +2340,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -2428,7 +2454,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -3502,7 +3528,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -4800,7 +4826,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 172751,
       "name": "Dois Enganados",
       "url": "https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw"
@@ -5282,7 +5308,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 157358,
       "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
       "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
@@ -6570,7 +6596,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 273326,
       "name": "Gauchinha",
       "url": "https://open.spotify.com/track/7qqixxBvZIGSep53Eh2o0b"
@@ -6978,7 +7004,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -8165,6 +8191,28 @@
     },
     {
       "album": {
+        "name": "Maria Vaqueiro",
+        "url": "https://open.spotify.com/album/2x4fnJEXhz3dzZkt6M3cqI"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Maria Vaqueiro",
+      "url": "https://open.spotify.com/track/2SdY67mkVPqIhObg8QP458"
+    },
+    {
+      "album": {
         "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 1)",
         "url": "https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie"
       },
@@ -9095,6 +9143,24 @@
     },
     {
       "album": {
+        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161862,
+      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
+    },
+    {
+      "album": {
         "name": "Mtg Forr\u00f3 e Desmantelo",
         "url": "https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc"
       },
@@ -9644,6 +9710,50 @@
       "duration_ms": 164307,
       "name": "Nem Ligo Pro Amor",
       "url": "https://open.spotify.com/track/5rIv8Ya5G1bLQoXwIKTn80"
+    },
+    {
+      "album": {
+        "name": "Nem Pagando",
+        "url": "https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6"
+      },
+      "artists": [
+        {
+          "name": "Henrique Casttro",
+          "url": "https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142286,
+      "name": "Nem Pagando",
+      "url": "https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu"
+    },
+    {
+      "album": {
+        "name": "Nessa idade",
+        "url": "https://open.spotify.com/album/2Zxx2zFK4xQR0LhpG9q3Xj"
+      },
+      "artists": [
+        {
+          "name": "Munhoz & Mariano",
+          "url": "https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178896,
+      "name": "Nessa idade",
+      "url": "https://open.spotify.com/track/3Q6BDjIoF5lsKZ3eaEeIVm"
     },
     {
       "album": {
@@ -10249,6 +10359,28 @@
     },
     {
       "album": {
+        "name": "N\u00famero Chato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1eHpcJfss839hxB07LtRfu"
+      },
+      "artists": [
+        {
+          "name": "Leo Balbinotti",
+          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
+        },
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194459,
+      "name": "N\u00famero Chato - Ao Vivo",
+      "url": "https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913"
+    },
+    {
+      "album": {
         "name": "Sem Contra-Indica\u00e7\u00e3o (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/4cmnBc1SViY9M3Rgh2LgFi"
       },
@@ -10790,6 +10922,44 @@
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "album": {
+        "name": "\u00c9 o Baile do Japa NK",
+        "url": "https://open.spotify.com/album/72MiIktTaLRmAvnjViU7hw"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262158,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
     },
     {
       "album": {
@@ -14066,7 +14236,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -14190,6 +14360,28 @@
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Com Ela (Ao Vivo)",
+        "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168916,
+      "name": "S\u00f3 Com Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3"
     },
     {
       "album": {
@@ -14712,6 +14904,24 @@
       "duration_ms": 223384,
       "name": "TENTAR SER BREVE \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f",
       "url": "https://open.spotify.com/track/5wTHqpJDnoGW562HQW1BmC"
+    },
+    {
+      "album": {
+        "name": "Texana 37",
+        "url": "https://open.spotify.com/album/23bWxqMFBmJmox2txSWc4C"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Barretto",
+          "url": "https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129515,
+      "name": "Texana 37",
+      "url": "https://open.spotify.com/track/72KzypkTLmEyOz3xWuAurD"
     },
     {
       "album": {
@@ -15386,7 +15596,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"
@@ -15974,6 +16184,24 @@
       "duration_ms": 335999,
       "name": "Vai Tomando Pock Pock",
       "url": "https://open.spotify.com/track/2WYuivMCuOQbxhaatuWUCN"
+    },
+    {
+      "album": {
+        "name": "Do Nosso Model\u00e3o, Vol.1 (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2rFyBaYQqn7Y2DCkTj50tJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vitor & Rael",
+          "url": "https://open.spotify.com/artist/3RqHNz7XW4CEFERRbHf8ZC"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156571,
+      "name": "Vale a Pena Ouvir de Novo - Do Nosso Model\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nb27TERfCb0YsZIjteSg0"
     },
     {
       "album": {

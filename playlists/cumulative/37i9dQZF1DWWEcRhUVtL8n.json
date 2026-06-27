@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 167551,
       "name": "Angel",
       "url": "https://open.spotify.com/track/26buigTaEZOsbaZpsMsfws"
@@ -9044,7 +9044,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 290000,
       "name": "crumble",
       "url": "https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4"
@@ -23006,7 +23006,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
@@ -23854,7 +23854,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 179727,
       "name": "Little Blue House",
       "url": "https://open.spotify.com/track/0KUcvWJzx9McoYo31gAqDy"
@@ -27361,6 +27361,24 @@
     },
     {
       "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "album": {
         "name": "My Body's My Buddy",
         "url": "https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u"
       },
@@ -28880,6 +28898,24 @@
       "duration_ms": 158048,
       "name": "Nothing Scares Me - Spotify Singles",
       "url": "https://open.spotify.com/track/49rILSmVLmGmknARFACh3N"
+    },
+    {
+      "album": {
+        "name": "Nothing's Accidental",
+        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
+      },
+      "artists": [
+        {
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Nothing's Accidental",
+      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
     },
     {
       "album": {
@@ -33212,6 +33248,24 @@
       "duration_ms": 208988,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/1fpvdpEUe6jncotfqNGRW8"
+    },
+    {
+      "album": {
+        "name": "EAVESDROPPING",
+        "url": "https://open.spotify.com/album/7cUIDKRSyezrS3oZtywQwh"
+      },
+      "artists": [
+        {
+          "name": "ill peach",
+          "url": "https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182887,
+      "name": "RODEO",
+      "url": "https://open.spotify.com/track/0bfVAtGxRGmqtaLxjezNJG"
     },
     {
       "album": {
@@ -43036,6 +43090,24 @@
       "duration_ms": 219582,
       "name": "Water Pistol",
       "url": "https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg"
+    },
+    {
+      "album": {
+        "name": "Water The Flowers",
+        "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150994,
+      "name": "Water The Flowers",
+      "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
       "album": {

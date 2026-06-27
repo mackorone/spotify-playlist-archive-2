@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Honey Dijon
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Guitarricadelafuente
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,111 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,097 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 45 | [Slip Away](https://open.spotify.com/track/13yxz52EwElyue9PLrqcZY) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:45 |
 | 46 | [PSST!](https://open.spotify.com/track/4ygTGz56fx18n4uxvFphj6) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:27 |
 
-Snapshot ID: `AAAAAOaKOcFTFEE0cYblIFPYKmsxO8ea`
+Snapshot ID: `AAAAAFU3Pm1yMFATY9bwfjB8kfpmLAJo`

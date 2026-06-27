@@ -61,6 +61,32 @@
     },
     {
       "album": {
+        "name": "R. Schumann: 5 St\u00fccke im Volkston, Op. 102: II. Langsam",
+        "url": "https://open.spotify.com/album/1yyvZIt8OcGvFJV99DJasI"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christoph Crois\u00e9",
+          "url": "https://open.spotify.com/artist/4y3g3ztBiagwuJYyHSDZLK"
+        },
+        {
+          "name": "Ana Bakradze",
+          "url": "https://open.spotify.com/artist/6E4Ep2HmopmoDpAGnCXwKM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206237,
+      "name": "5 St\u00fccke im Volkston, Op. 102: II. Langsam",
+      "url": "https://open.spotify.com/track/5xd0zNO2iko9UqF2OdthjS"
+    },
+    {
+      "album": {
         "name": "Falla: Autumn Landscapes",
         "url": "https://open.spotify.com/album/2a2dsgq3oWwPY0F8sDeqOg"
       },
@@ -1270,6 +1296,32 @@
       "duration_ms": 143666,
       "name": "Darkwood 1",
       "url": "https://open.spotify.com/track/3Yd9BawtErogF5B2p6e3MV"
+    },
+    {
+      "album": {
+        "name": "R. Schumann: Dichterliebe, Op. 48: No. 1, Im wundersch\u00f6nen Monat Mai (Arr. for Cello by Tatsuki Sasanuma)",
+        "url": "https://open.spotify.com/album/4K0W2MyzkHMWIiO0QyGUti"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Tatsuki Sasanuma",
+          "url": "https://open.spotify.com/artist/5FMbeQXQHOlSFJo6f6hIX0"
+        },
+        {
+          "name": "Th\u00e9o Fouchenneret",
+          "url": "https://open.spotify.com/artist/3PB8ZybyZ2Uc1Lrh5Z1P1D"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95560,
+      "name": "Dichterliebe, Op. 48: No. 1, Im wundersch\u00f6nen Monat Mai (Arr. for Cello and Piano by Tatsuki Sasanuma)",
+      "url": "https://open.spotify.com/track/5iLf6YbYvRzhHhdS9xwECo"
     },
     {
       "album": {

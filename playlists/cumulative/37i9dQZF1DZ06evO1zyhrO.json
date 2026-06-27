@@ -86,6 +86,28 @@
     {
       "album": {
         "name": "Abracadabra, Pt. 2",
+        "url": "https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2",
+      "url": "https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD"
+    },
+    {
+      "album": {
+        "name": "Abracadabra, Pt. 2",
         "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
       },
       "artists": [
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 205373,
       "name": "Summertime (feat. Craig David)",
       "url": "https://open.spotify.com/track/505SwWKGVGRh9RzhKVq3qY"

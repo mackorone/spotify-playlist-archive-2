@@ -2,9 +2,9 @@
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! Featuring Fenix Flexin, Shaboozey, LUCKI &amp; more.
+> Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.
 
-240 songs - 10 hr 43 min
+241 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 | 2023-10-30 | 2024-01-20 |
 | [Amapiano](https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:45 | 2024-01-12 |  |
 | [Amen](https://open.spotify.com/track/3Q5b9lTrxvv6f8jLX4M6VJ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Amen](https://open.spotify.com/album/5Rqj746qniBVcnLT4QglB5) | 3:17 | 2025-04-29 | 2025-09-30 |
+| [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s) | 3:14 | 2026-06-26 |  |
 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 | 2024-06-01 |  |
 | [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-06 |  |
 | [back it up](https://open.spotify.com/track/11H4HMp6cbBmq1jX2XIRFU) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [back it up](https://open.spotify.com/album/79NlxG2zasYDYcIBFVA7rq) | 2:12 | 2023-12-01 | 2025-03-05 |

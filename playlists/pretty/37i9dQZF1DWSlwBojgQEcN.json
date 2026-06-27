@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1588090,
+  "num_followers": 1587836,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 269595,
-      "name": "My Lover",
-      "url": "https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 246347,
       "name": "Star-Crossed Lovers (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/33ABk3bhz6G8AB9ASHrgW9"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 269595,
+      "name": "My Lover",
+      "url": "https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H"
     },
     {
       "added_at": "2025-06-26 15:53:58",

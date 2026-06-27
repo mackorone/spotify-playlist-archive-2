@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16657,
+  "num_followers": 16660,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAABYOaIW1Ga6aZejWl+gG0rO",
+  "snapshot_id": "ajxvgAAAAABMMCwHcsORnU7Gr23Ddfej",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 418173,
-      "name": "Can't You See Me",
-      "url": "https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 334360,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
+      "duration_ms": 418173,
+      "name": "Can't You See Me",
+      "url": "https://open.spotify.com/track/5WvuwQ9U5qh0enH4NxnkYr"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Everytime I See You",
-      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Stranger To Love",
         "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 350546,
       "name": "What You Won't Do For Love",
       "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Everytime I See You",
+      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 181756,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers Delfonic Reworked #1",
         "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
@@ -831,38 +807,6 @@
       "duration_ms": 350293,
       "name": "Oh What A Lonely Feeling - Delfonic Rework",
       "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Might Be Surprised (Expanded Edition)",
-        "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Slip n' Slide",
-      "url": "https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 380546,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
     },
     {
       "added_at": null,
@@ -900,9 +844,41 @@
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 211977,
-      "name": "Synchronize Vibration",
-      "url": "https://open.spotify.com/track/7FLT4dXxZMaapLcNn4SgBc"
+      "duration_ms": 181756,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Might Be Surprised (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Slip n' Slide",
+      "url": "https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 380546,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
     },
     {
       "added_at": null,
@@ -923,6 +899,30 @@
       "duration_ms": 427906,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 211977,
+      "name": "Synchronize Vibration",
+      "url": "https://open.spotify.com/track/7FLT4dXxZMaapLcNn4SgBc"
     },
     {
       "added_at": null,
@@ -959,26 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+        "name": "In The Dark (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 219989,
-      "name": "Shadows of The East",
-      "url": "https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk"
+      "duration_ms": 390933,
+      "name": "Poo Poo La La",
+      "url": "https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz"
     }
   ],
   "unique_name": "This Is Roy Ayers",

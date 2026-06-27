@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117963,
+  "num_followers": 117973,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Sl\u00e5ss f\u00f6r dig",
-        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
+        "name": "Promiski\u00f8s (PM)",
+        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
       },
       "artists": [
         {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Kudos",
-          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 131807,
-      "name": "Sl\u00e5ss f\u00f6r dig",
-      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
+      "duration_ms": 153882,
+      "name": "Promiski\u00f8s (PM)",
+      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -575,18 +571,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Promiski\u00f8s (PM)",
-        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
+        "name": "Sl\u00e5ss f\u00f6r dig",
+        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
         }
       ],
-      "duration_ms": 153882,
-      "name": "Promiski\u00f8s (PM)",
-      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
+      "duration_ms": 131807,
+      "name": "Sl\u00e5ss f\u00f6r dig",
+      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
       },
       "artists": [
         {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Helg",
+        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        },
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 171008,
+      "name": "Helg",
+      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "G\u00e5r det bra?",
         "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 144808,
       "name": "Dum i haue",
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Helg",
-        "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 171008,
-      "name": "Helg",
-      "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 136285,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
         "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "E45",
-        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 136285,
-      "name": "E45",
-      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Eviva Espana (Charterfeber 2026)",
         "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 149886,
       "name": "Jeg har v\u00e6rt en idiot",
       "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "St\u00f8gg melodi",
+        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "St\u00f8gg melodi",
+      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "St\u00f8gg melodi",
-        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "St\u00f8gg melodi",
-      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Maria",
         "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Hele natta",
         "url": "https://open.spotify.com/album/3uVAwQKUH2tDeVxQzA9CXZ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 149435,
       "name": "Hele natta",
       "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 192282,
       "name": "Viddas Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "G\u00e5r i hundre",
+        "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
+      },
+      "artists": [
+        {
+          "name": "Knivblad",
+          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
+        }
+      ],
+      "duration_ms": 161294,
+      "name": "G\u00e5r i hundre",
+      "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "G\u00e5r i hundre",
-        "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
-      },
-      "artists": [
-        {
-          "name": "Knivblad",
-          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
-        }
-      ],
-      "duration_ms": 161294,
-      "name": "G\u00e5r i hundre",
-      "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
         "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
-      },
-      "artists": [
-        {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "N\u00e5 er det freda'n igjen",
-      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Her og no",
         "url": "https://open.spotify.com/album/3UzSZqAsJtaE3fK504GEpB"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 206022,
       "name": "Her og no",
       "url": "https://open.spotify.com/track/5MnPKJKEnNpwf3gzBitObq"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
+      },
+      "artists": [
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

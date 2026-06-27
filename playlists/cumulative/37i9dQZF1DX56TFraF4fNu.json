@@ -5839,6 +5839,24 @@
     },
     {
       "album": {
+        "name": "Webcam",
+        "url": "https://open.spotify.com/album/6XeM4SLWAyQHtJoxmD3tkd"
+      },
+      "artists": [
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Webcam",
+      "url": "https://open.spotify.com/track/1YWX4WOqF5hIKrs0ld6PsT"
+    },
+    {
+      "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,196 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,195 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 43 | [Spacer](https://open.spotify.com/track/3gzFESmUSfoFWeehf2rNOl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Intégrale \(exclus À 17 ans "At Seventeen", En duo avec Claude François\)](https://open.spotify.com/album/6wzJnPvJwYOzW5LMjAdfNc) | 5:54 |
 | 44 | [Brazilian Love Affair](https://open.spotify.com/track/1gN4FXvfrVOqJSWh20BPBK) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Brazilian Love Affair \(Expanded Edition\)](https://open.spotify.com/album/7mVnCwqkT2tYSJBBbD4l4T) | 7:23 |
 | 45 | [Spank \- Special DJ Remix](https://open.spotify.com/track/6MfYTs6Cwny5P4a1fI7stu) | [Jimmy "Bo" Horne](https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K) | [The Very Best Of The Tk Years](https://open.spotify.com/album/6R1hsCjnZakiVgqjcJkRRv) | 6:58 |
-| 46 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
-| 47 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 |
+| 46 | [September](https://open.spotify.com/track/5nNmj1cLH3r4aA4XDJ2bgY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Eternal Dance](https://open.spotify.com/album/6UixeNUSjrBnxeYV0ZuGHR) | 3:34 |
+| 47 | [Genius Of Love](https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Wordy Rappinghood](https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3) | 5:35 |
 | 48 | [Funky Town](https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Paradas Continuas](https://open.spotify.com/album/3r4KvV3xbEN0VAHthWYnAE) | 3:59 |
 | 49 | [Dancing Queen](https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 3:50 |
 | 50 | [Stayin' Alive \- Remastered Version](https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8) | 4:45 |

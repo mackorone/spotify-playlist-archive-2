@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,826 songs - 3 day 21 hr 27 min
+1,827 songs - 3 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,7 +756,7 @@
 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 | 2025-02-13 | 2025-03-28 |
 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 | 2025-06-30 | 2025-08-15 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-12 | 2026-03-20 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I Know I Know](https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [I Know I Know](https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA) | 2:39 | 2026-04-30 | 2026-06-12 |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4RtFabLO2KuYlxBlgHkg64) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 2:36 | 2025-02-25 | 2025-03-28 |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-26 | 2026-05-22 |
@@ -1794,6 +1794,7 @@
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-10 | 2024-11-23 |
 | [WIND BLOW](https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [WIND BLOW](https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR) | 3:25 | 2025-01-09 | 2025-02-21 |
 | [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 | 2026-03-26 | 2026-05-01 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 |  |
 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 | 2025-08-28 | 2025-10-10 |
 | [wish I did](https://open.spotify.com/track/1JD1Jmc81iMs4bcGUNnN7W) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [wish I did](https://open.spotify.com/album/1QNXdmIyAviteAsQ7Qq8At) | 2:20 | 2026-03-13 | 2026-04-18 |
 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 | 2026-01-15 | 2026-02-27 |

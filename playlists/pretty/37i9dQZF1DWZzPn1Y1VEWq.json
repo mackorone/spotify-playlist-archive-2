@@ -1,15 +1,15 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 391752,
+  "num_followers": 391770,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3tPRW3gf0IL33Etjsp6Pt8rHwd",
+  "snapshot_id": "AAAAAJ54qBCZ3B+j7inz47x8RFwtV9+f",
   "tracks": [
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6iCnJkKswtMYoSmT58HmEn"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
@@ -137,7 +137,39 @@
       "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225706,
+      "name": "Putita",
+      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
@@ -157,39 +189,7 @@
       "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Putita",
-      "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Presi\u00f3n",
         "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
@@ -237,7 +237,23 @@
       "url": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Visperas De Carnaval",
+        "url": "https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Airbag",
         "url": "https://open.spotify.com/album/4FtWJXF1bvQ4Q7PGbGGgMQ"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/0OcYoSGA1CFGZcCuPLyfhj"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Anoche",
         "url": "https://open.spotify.com/album/15eHesyZJpvolTrSUJgoDX"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/571PVMWxL6aEwyOOfRFXPF"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
@@ -333,7 +349,7 @@
       "url": "https://open.spotify.com/track/75dqA2rQHnUtP7XjvkmKh2"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
@@ -349,7 +365,7 @@
       "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Fuerza Natural",
         "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Rocanroles Sin Destino",
         "url": "https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/7rocqOEREl0vp5CRYTeZFv"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "De Bichos Y Flores",
         "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Los Rayos",
         "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Toro Rojo",
         "url": "https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Parulo",
         "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Libertinaje",
         "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "La Renga",
         "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/24o76WATbnSIhV26hHgUHn"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Dynamo (Remastered)",
         "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "El regreso",
         "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/5cBdKHSiooNsZ3FIWlYdDh"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Mordisco",
         "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "100% Negro Cumbiero",
         "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/6BaMKZw3o4r0OQwDcPNI12"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Girando",
         "url": "https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Dynamo (Remastered)",
         "url": "https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/2V4aobDkpJD7e36J8xPCL6"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "El Bonaerense",
         "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/6kNeYwH3KdumwIAkeAxZCR"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Influencia",
         "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/7B8W8kfQwcVubGo2EGosID"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
@@ -945,23 +961,7 @@
       "url": "https://open.spotify.com/track/53LovEbSOlvxq2qj8EMWub"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Par Mil",
-      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
@@ -977,7 +977,23 @@
       "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Par Mil",
+      "url": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "SHOC",
         "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
@@ -993,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Con La Cumbia En La Sangre",
         "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
@@ -1009,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
@@ -1025,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Sin Remedio",
         "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
@@ -1057,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
@@ -1073,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Armando Camale\u00f3n",
         "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2w8wIBE9r1OmP7EUrTaCTL"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
@@ -1105,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
@@ -1121,7 +1137,7 @@
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Operacion Damas Gratis",
         "url": "https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Corazon de Papel (Edicion Especial Remasterizada)",
         "url": "https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU"
@@ -1153,7 +1169,7 @@
       "url": "https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
@@ -1169,7 +1185,7 @@
       "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
@@ -1185,7 +1201,7 @@
       "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
@@ -1201,7 +1217,7 @@
       "url": "https://open.spotify.com/track/5SDPJjP3G1U2ipKcDwvqv8"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
@@ -1221,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
@@ -1237,7 +1253,7 @@
       "url": "https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Fabulosos Calavera",
         "url": "https://open.spotify.com/album/7FKr6OHxY05uURhgQ86fm4"
@@ -1253,7 +1269,7 @@
       "url": "https://open.spotify.com/track/2lDcq6gFN9W5yXHk0NU7ve"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
@@ -1269,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
@@ -1285,7 +1301,7 @@
       "url": "https://open.spotify.com/track/5QLbG1uIdSQyiKOY69SN4v"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
@@ -1301,7 +1317,7 @@
       "url": "https://open.spotify.com/track/7sp3ANvVq6FH67nXb6q1yA"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Turfshow",
         "url": "https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7"
@@ -1317,7 +1333,7 @@
       "url": "https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "\u00a1Esta!",
         "url": "https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K"
@@ -1333,7 +1349,7 @@
       "url": "https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Gladiadores del rock",
         "url": "https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp"
@@ -1349,7 +1365,7 @@
       "url": "https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Influencia",
         "url": "https://open.spotify.com/album/5Rgudh1IKSXYyKDVZuyyQu"
@@ -1365,7 +1381,7 @@
       "url": "https://open.spotify.com/track/3HaE5D0wBDeyf38f5w4CLa"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
@@ -1381,7 +1397,7 @@
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Vengo Del Placard De Otro",
         "url": "https://open.spotify.com/album/3ljsgnB9LYYXmVmXIk5sby"
@@ -1397,7 +1413,7 @@
       "url": "https://open.spotify.com/track/3dYlW2oy1sBMVCH5zst8le"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
@@ -1417,7 +1433,7 @@
       "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
@@ -1433,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Rock And Roll Yo",
         "url": "https://open.spotify.com/album/3qPPzWHpuvFT0xHMyDrvS4"
@@ -1449,7 +1465,7 @@
       "url": "https://open.spotify.com/track/2NtS0rZ8MdnsJbLNRME6pg"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
@@ -1465,7 +1481,7 @@
       "url": "https://open.spotify.com/track/2jiSAy0MSiODKpQupYLnTY"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Naturaleza Sangre",
         "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
@@ -1481,7 +1497,7 @@
       "url": "https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Cuarto Creciente",
         "url": "https://open.spotify.com/album/23f7vw1xTj95F2gmhly8n8"
@@ -1497,7 +1513,7 @@
       "url": "https://open.spotify.com/track/4Lo9osdsopemnKIfgi6IqW"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Vicentico",
         "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
@@ -1513,7 +1529,7 @@
       "url": "https://open.spotify.com/track/4PmAcbJ6HFOYDXrbEEeOHd"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Hija del Rigor",
         "url": "https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO"
@@ -1529,39 +1545,7 @@
       "url": "https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 172251,
-      "name": "Ser\u00e1 - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Naturaleza Sangre",
-        "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Volver a M\u00ed",
-      "url": "https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
@@ -1577,7 +1561,39 @@
       "url": "https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Naturaleza Sangre",
+        "url": "https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Volver a M\u00ed",
+      "url": "https://open.spotify.com/track/5vWgQ5tRPZ7enuuqBDDniZ"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 172251,
+      "name": "Ser\u00e1 - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "Hormigas",
         "url": "https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD"
@@ -1593,7 +1609,7 @@
       "url": "https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi"
     },
     {
-      "added_at": "2024-06-12 23:26:13",
+      "added_at": "2026-06-26 15:38:11",
       "album": {
         "name": "De Culo",
         "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
@@ -1607,22 +1623,6 @@
       "duration_ms": 130481,
       "name": "Naty Bum Bum",
       "url": "https://open.spotify.com/track/6b1cUW3hBwjlXrermDMkn5"
-    },
-    {
-      "added_at": "2024-06-12 23:26:13",
-      "album": {
-        "name": "Incompleto - 20 Rocanroles 20",
-        "url": "https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 247973,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
     }
   ],
   "unique_name": "Los 2000 Argentina",

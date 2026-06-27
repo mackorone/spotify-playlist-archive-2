@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: EsDeeKid
 
-2,347 songs - 4 day 19 hr 37 min
+2,347 songs - 4 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Authentic Drill](https://open.spotify.com/track/6Qw7FhgDxkrMpnCWbkupCh) | [Poundz](https://open.spotify.com/artist/2jItxZsB8PA3vday7b0RLT) | [Authentic Drill](https://open.spotify.com/album/1ecuCGib82QFjDVNYQJcz3) | 2:54 | 2022-01-28 | 2022-02-12 |
 | [Avalon](https://open.spotify.com/track/4Q2is8M0wHvGbdr1fE3jdJ) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Avalon](https://open.spotify.com/album/5bZlhG6Byx0JRvFBurvHGP) | 3:44 | 2023-09-14 | 2023-09-29 |
 | [AVEN9ERS ASSEM8LE](https://open.spotify.com/track/26X6KQZbqwINTTOeoKs5Nn) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [98s](https://open.spotify.com/artist/6IzhPGZlb27v8HuOQvkiQk) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 4:07 | 2024-01-19 | 2024-03-16 |
+| [Avengers](https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Reekz PB](https://open.spotify.com/artist/1rcDQO1ZDEfAXpM6ycRWqk) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 4:37 | 2026-06-25 |  |
 | [Avengers \(feat\. Popcaan\)](https://open.spotify.com/track/0u58kRDn5CCcZOqghG1Bsb) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Avengers \(feat\. Popcaan\)](https://open.spotify.com/album/4oAFfQnW4DcAwh4MSawVI2) | 3:14 | 2020-10-16 | 2020-11-23 |
 | [Avon](https://open.spotify.com/track/1ocoytg0zuTMvR9KXiyGde) | [Frosty](https://open.spotify.com/artist/2uaGbYYR6MVKSR371T3a7p) | [Avon](https://open.spotify.com/album/4i8nkt0dTUpuA2o14rQY8L) | 2:55 | 2024-11-15 | 2025-04-11 |
 | [B\*\*\*K](https://open.spotify.com/track/3eGICbn5Cn5TdwuDkFr31u) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [B\*\*\*K](https://open.spotify.com/album/0XDklnajhZPo35b4BKIsEa) | 2:10 | 2020-10-24 | 2020-11-13 |
@@ -2134,7 +2135,6 @@
 | [Toxic \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/5igGT00gBoAj8FieNnUkjL) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Crop Circle 3](https://open.spotify.com/album/6SUtgIpgq9qxA3VfjzS0rq) | 2:58 | 2023-10-05 | 2023-11-17 |
 | [Toxic Minds \(feat\. AntsLive & joe unknown\)](https://open.spotify.com/track/5P9DssMSmpLDksnMsxdOXH) | [BlazeYL](https://open.spotify.com/artist/59fXT8REPhYypqMiXMxSKs), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Toxic Minds \(feat\. AntsLive & joe unknown\)](https://open.spotify.com/album/3rvXGITfqU8JBeEUxirgpf) | 3:04 | 2024-05-10 | 2024-06-14 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-22 | 2023-10-06 |
-| [Track 6](https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 0:00 | 2026-06-25 |  |
 | [Training Day](https://open.spotify.com/track/5D5gxoqeVLsX0KN10FSEH8) | [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Training Day](https://open.spotify.com/album/3QyY7JuRAUb9TPTRL26ccs) | 3:06 | 2020-06-19 | 2020-07-18 |
 | [Trapway](https://open.spotify.com/track/2m6MzHbANhE3KlgJ2hKRwI) | [M'Way](https://open.spotify.com/artist/4a9smiC3FdklrSyh5akDHP) | [Trapway](https://open.spotify.com/album/2beCuZXvc2UM7ACFSRyiIw) | 3:46 | 2020-09-18 | 2020-10-16 |
 | [Traumatised](https://open.spotify.com/track/2L717z38Qgcs4XvmXXxjHL) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Traumatised](https://open.spotify.com/album/2ruzEAmfk6jx6hpcqJVna6) | 2:57 | 2023-01-06 | 2023-03-31 |

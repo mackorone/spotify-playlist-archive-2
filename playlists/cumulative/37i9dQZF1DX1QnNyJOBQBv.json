@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Yorghaki.",
+  "description": "Pop on the rise you should know, featuring DANNA & El Malilla.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 241704,
       "name": "(ENAMORADA)",
       "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 186047,
       "name": "1+1",
       "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 213011,
       "name": "ALGO T\u00da",
       "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 164790,
       "name": "Amor Bonito",
       "url": "https://open.spotify.com/track/30ZakrQPwfjyrkiJfxGey9"
@@ -1350,6 +1350,24 @@
       "duration_ms": 210526,
       "name": "amor tonight",
       "url": "https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI"
+    },
+    {
+      "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
     },
     {
       "album": {
@@ -2192,6 +2210,24 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "album": {
@@ -4348,7 +4384,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 161249,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
@@ -6234,7 +6270,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 216594,
       "name": "esperando que vuelvas",
       "url": "https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS"
@@ -6888,7 +6924,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 216875,
       "name": "GOLPE",
       "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
@@ -8818,6 +8854,28 @@
       "duration_ms": 192469,
       "name": "La Rutina",
       "url": "https://open.spotify.com/track/1b03Wjd2GOjbwjhZUJtaQO"
+    },
+    {
+      "album": {
+        "name": "No Quiero Que Se Acabe Este Bendito Verano",
+        "url": "https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "La Semana",
+      "url": "https://open.spotify.com/track/6dp9a1SstZXhgIyLVKLzdX"
     },
     {
       "album": {
@@ -12461,6 +12519,28 @@
     },
     {
       "album": {
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
+    {
+      "album": {
         "name": "Canto Pa No Llorar",
         "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
       },
@@ -12813,6 +12893,24 @@
     },
     {
       "album": {
+        "name": "PATRONA",
+        "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165135,
+      "name": "PATRONA",
+      "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
+    },
+    {
+      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93"
       },
@@ -12908,6 +13006,28 @@
       "duration_ms": 211084,
       "name": "pelinegra",
       "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
+    },
+    {
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
     },
     {
       "album": {
@@ -14711,6 +14831,28 @@
     },
     {
       "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
+    },
+    {
+      "album": {
         "name": "Si Te Quedas (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
       },
@@ -15522,6 +15664,32 @@
       "duration_ms": 202500,
       "name": "Tarde o temprano",
       "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
     },
     {
       "album": {
@@ -17048,7 +17216,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 155255,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl"

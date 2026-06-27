@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,469 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,497 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 47 | [Tierra Mala](https://open.spotify.com/track/2t7Zu61LX9fvksVg3f6zfo) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:48 |
 | 48 | [Niña Bonita](https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:10 |
 | 49 | [Quiéreme](https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 5:06 |
-| 50 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
-| 51 | [Que Me Perdone](https://open.spotify.com/track/5KyNTRKevJLoF2qy0QyLzE) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Victor "Rey" Reyes](https://open.spotify.com/artist/2VuafUDzCmCB9a6H3h7OEu) | [La Combinación Vallenata, Vol\. 2](https://open.spotify.com/album/5z2MpAXOEjwYJBKhpUc55k) | 5:06 |
+| 50 | [Acuérdate](https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Pisando Fuerte](https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB) | 4:28 |
+| 51 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
 | 52 | [Voy a Olvidarte](https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:12 |
-| 53 | [Acuérdate](https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Pisando Fuerte](https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB) | 4:28 |
+| 53 | [Que Me Perdone](https://open.spotify.com/track/5KyNTRKevJLoF2qy0QyLzE) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Victor "Rey" Reyes](https://open.spotify.com/artist/2VuafUDzCmCB9a6H3h7OEu) | [La Combinación Vallenata, Vol\. 2](https://open.spotify.com/album/5z2MpAXOEjwYJBKhpUc55k) | 5:06 |
 | 54 | [Novios Cruzados](https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Uniendo Corazones](https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X) | 4:19 |
-| 55 | [Buscaré Otro Amor](https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B) | 5:05 |
-| 56 | [Me Dejaste Sin Nada](https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Adiós A La Diosa](https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc) | 4:37 |
+| 55 | [Se Me Salen las Lagrimas](https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [De Primera](https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc) | 5:07 |
+| 56 | [Buscaré Otro Amor](https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B) | 5:05 |
 | 57 | [El Amor Es Perdón y Algo Más](https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:15 |
-| 58 | [Me Mata la Melancolía](https://open.spotify.com/track/5jXt0cLk4bIuWkGoCyNOIa) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Siempre Gigantes](https://open.spotify.com/album/4zKI0c9MaYbIiuwctHedOe) | 4:53 |
+| 58 | [Me Dejaste Sin Nada](https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Adiós A La Diosa](https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc) | 4:37 |
 | 59 | [Me Sobran las Palabras](https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys) | 4:30 |
-| 60 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
+| 60 | [Dejando Huellas](https://open.spotify.com/track/215HJm2MLqkzfnQ69O5iC2) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Siempre Gigantes](https://open.spotify.com/album/4zKI0c9MaYbIiuwctHedOe) | 4:06 |
 
 Snapshot ID: `AAAAAK092wt67QwsI50uh1u3bwKJV0L8`

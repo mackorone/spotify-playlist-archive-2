@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADpLwo/2jp/0YqjVUhZbmEf",
+  "snapshot_id": "ajxvgAAAAAAIj6Q61/QsGf9LMNcFbMMz",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "semi-auto",
-        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
+        "name": "One Shot (feat. Blxst & Wale)",
+        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Guadalupe Estrada",
-          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
-        },
-        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 235093,
-      "name": "semi-auto",
-      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
+      "duration_ms": 153194,
+      "name": "One Shot (feat. Blxst & Wale)",
+      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
     },
     {
       "added_at": null,
@@ -547,26 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Shot (feat. Blxst & Wale)",
-        "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
+        "name": "semi-auto",
+        "url": "https://open.spotify.com/album/7KqYq0N1DyEOSTwJLvUxx8"
       },
       "artists": [
         {
+          "name": "Jos\u00e9 Guadalupe Estrada",
+          "url": "https://open.spotify.com/artist/0BFINpe01okw1htOTh9Flt"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 153194,
-      "name": "One Shot (feat. Blxst & Wale)",
-      "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
+      "duration_ms": 235093,
+      "name": "semi-auto",
+      "url": "https://open.spotify.com/track/5XmVB20AVnn0B1rwEVeNRW"
     },
     {
       "added_at": null,
@@ -731,30 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
-      },
-      "artists": [
-        {
-          "name": "9lokknine",
-          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -779,30 +755,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Shit (feat. dj gummy bear)",
-        "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
       },
       "artists": [
         {
+          "name": "9lokknine",
+          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
         }
       ],
-      "duration_ms": 185205,
-      "name": "Same Shit (feat. dj gummy bear)",
-      "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
+      "duration_ms": 181306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
     },
     {
       "added_at": null,
@@ -859,6 +831,34 @@
       "duration_ms": 153529,
       "name": "Eye Spy (feat. Nardo Wick, Key Glock, Tay Keith & Murda Beatz)",
       "url": "https://open.spotify.com/track/21DBRZQmH2RIkI7pZybCiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Same Shit (feat. dj gummy bear)",
+        "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "duration_ms": 185205,
+      "name": "Same Shit (feat. dj gummy bear)",
+      "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
     },
     {
       "added_at": null,

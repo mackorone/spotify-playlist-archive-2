@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: 8onthebeat",
+  "description": "The wave of Latin Electronic music. Cover: DannyLux, Ckdageneral",
   "name": "mint Latin",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 193170,
       "name": "AACHO",
       "url": "https://open.spotify.com/track/7GeJYEhQsBY2hyJZjZrslZ"
+    },
+    {
+      "album": {
+        "name": "Abuelita",
+        "url": "https://open.spotify.com/album/000gf7NIjqCWW7CZXKRyES"
+      },
+      "artists": [
+        {
+          "name": "P3SO",
+          "url": "https://open.spotify.com/artist/48bh1gHb1CarFiSvZ4ibWK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Abuelita - Radio Mix",
+      "url": "https://open.spotify.com/track/4mu0GtRRjZo64BetS7cjMd"
     },
     {
       "album": {
@@ -1427,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Canta y No Llores",
+        "url": "https://open.spotify.com/album/6nddQ9X6LMHKeV2Wv4PpT0"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302839,
+      "name": "Canta y No Llores",
+      "url": "https://open.spotify.com/track/07IWaJ7EWVFe0Zdo82zaml"
+    },
+    {
+      "album": {
         "name": "HiROQUEST 2: Double Helix",
         "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
       },
@@ -1744,6 +1780,24 @@
       "duration_ms": 104888,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/0B579r7pTXXfLY4bP90rOA"
+    },
+    {
+      "album": {
+        "name": "Con Dinero Sin Dinero",
+        "url": "https://open.spotify.com/album/6ipquzCzn7x7pt9vy28YzO"
+      },
+      "artists": [
+        {
+          "name": "Uglyprimo",
+          "url": "https://open.spotify.com/artist/0nQLteq3319CGvYQwMrDBq"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Con Dinero Sin Dinero",
+      "url": "https://open.spotify.com/track/4asPVE2J4qK1THSbMcEMFL"
     },
     {
       "album": {
@@ -2314,7 +2368,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 165360,
       "name": "DURO",
       "url": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
@@ -3268,7 +3322,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 129429,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/2LyEzzKsYKQ0V04SW1ibP3"
@@ -3623,6 +3677,28 @@
     },
     {
       "album": {
+        "name": "HBU",
+        "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248391,
+      "name": "HBU",
+      "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
+    },
+    {
+      "album": {
         "name": "Heartless (Kidd Spin Remix)",
         "url": "https://open.spotify.com/album/7HGBT7yVmnLCsIj58do4M0"
       },
@@ -3850,6 +3926,28 @@
       "duration_ms": 140735,
       "name": "HOUSE OF LUX",
       "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF LUX (JUMP ON THE PITCH REMIX)",
+        "url": "https://open.spotify.com/album/07ZEWmcod4RvNw8g459vj3"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Ckdageneral",
+          "url": "https://open.spotify.com/artist/4FIXMvdKOqfgiOwpgDrO5X"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169354,
+      "name": "HOUSE OF LUX (JUMP ON THE PITCH REMIX)",
+      "url": "https://open.spotify.com/track/4eR8iyDWgah6SWs1GPD2Pr"
     },
     {
       "album": {
@@ -4764,7 +4862,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 142093,
       "name": "Las Gatas (feat. Jory Boy & The Good Son)",
       "url": "https://open.spotify.com/track/5Y273bqlD01aozcKujkLIZ"
@@ -5551,6 +5649,28 @@
     },
     {
       "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/2LcxQFOvPNRMg944TO7ykt"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "BASSYY",
+          "url": "https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210962,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/7drdmjhg7RZD0UJuma7NPV"
+    },
+    {
+      "album": {
         "name": "Mesera",
         "url": "https://open.spotify.com/album/5XyrI2rounQVQaxybEYmea"
       },
@@ -6302,7 +6422,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 141176,
       "name": "NO PUEDO VIVIR SIN TI",
       "url": "https://open.spotify.com/track/3LFmTL2Pe8DTl4kwGGVdGV"
@@ -7254,7 +7374,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 221428,
       "name": "PINK",
       "url": "https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA"
@@ -7390,7 +7510,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 159500,
       "name": "Preseo Perreo - Afro House",
       "url": "https://open.spotify.com/track/2aPFAY4ppBGUt4XNeRcp7T"
@@ -8522,7 +8642,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 151384,
       "name": "TABLA",
       "url": "https://open.spotify.com/track/0jpqvB6Up1DTAD3XSfaBUu"
@@ -9096,6 +9216,28 @@
       "duration_ms": 167441,
       "name": "Tr\u00e1gatelo",
       "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
+    },
+    {
+      "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "album": {

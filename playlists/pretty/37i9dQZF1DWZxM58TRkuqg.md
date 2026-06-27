@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,975 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,003 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 5 | [Himalaya x Jalan, Pulang \- dari "Musikal Senja Teduh Pelita"](https://open.spotify.com/track/2TNja1EoOgmoJRpoABCPiR) | [Jakarta Movin](https://open.spotify.com/artist/6iBBrO0lIKlUjco8HXY0hB), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Himalaya x Jalan, Pulang \(dari "Musikal Senja Teduh Pelita"\)](https://open.spotify.com/album/2CyeynJZkL3UgPknUrevux) | 1:52 |
 | 6 | [Jadi Udara](https://open.spotify.com/track/6yJhH3vYp2W5zuJjAtixsq) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [\(Jangan\) Jatuh Cinta](https://open.spotify.com/album/1l1ET8aN8W78ajd5RJ9lpc) | 3:21 |
 | 7 | [Makasih Tuhan](https://open.spotify.com/track/5LaIWHtl9M5clEMDZjvQuT) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [LIGA BESAR](https://open.spotify.com/album/5681nFmaVbRtrj66f7xnbS) | 2:55 |
-| 8 | [Track 2](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 0:00 |
+| 8 | [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 |
 | 9 | [bERANI](https://open.spotify.com/track/48oUGcXdLlGztCA0u0gqNI) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [bERANI](https://open.spotify.com/album/1SJCHC92mK2v7frrmWXFCf) | 3:30 |
 | 10 | [2001x](https://open.spotify.com/track/7EkTXoaED7peReoRytElSi) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [2001x](https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN) | 3:24 |
 | 11 | [Pulang](https://open.spotify.com/track/7H9hNVHqO4y6IraXCPBVmi) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Pulang](https://open.spotify.com/album/1vPPunuBJElZtiha0nIUhK) | 3:28 |

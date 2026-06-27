@@ -1,13 +1,53 @@
 {
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Borgore",
-  "num_followers": 994442,
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring T-Pain & DJ DIESEL",
+  "num_followers": 994466,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJo9MAaKSyRLFu5md7V6rHAFqpOS",
+  "snapshot_id": "AAAAAEK4dyzTuekUXJndYGYq3ntFHmNy",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        },
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
+    },
     {
       "added_at": "2026-06-12 04:24:40",
       "album": {
@@ -31,6 +71,22 @@
       "duration_ms": 276153,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/4q1LQDKbCd6JX2EDJTRZjn"
+    },
+    {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "MONSOON",
+        "url": "https://open.spotify.com/album/5A60sszN1Cgkt9kWXme7HT"
+      },
+      "artists": [
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "MONSOON",
+      "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
     },
     {
       "added_at": "2026-06-05 04:01:32",
@@ -97,6 +153,26 @@
       "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
     },
     {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "D4B",
+        "url": "https://open.spotify.com/album/1JOOkZIyivp03FTvUgGrYl"
+      },
+      "artists": [
+        {
+          "name": "LUMBERJVCK",
+          "url": "https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T"
+        },
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "D4B",
+      "url": "https://open.spotify.com/track/6DSHXVpYslRrFXAOqYaGtM"
+    },
+    {
       "added_at": "2026-06-19 04:02:01",
       "album": {
         "name": "Push Up",
@@ -119,6 +195,26 @@
       "duration_ms": 203142,
       "name": "Push Up",
       "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
+    },
+    {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "Beat On My Drum",
+        "url": "https://open.spotify.com/album/2bhyG6zXxsCE3S43riy5Yc"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 213180,
+      "name": "Beat On My Drum",
+      "url": "https://open.spotify.com/track/5rQTAm1XAm7UKdejGZAkZF"
     },
     {
       "added_at": "2026-06-05 04:01:32",
@@ -159,6 +255,26 @@
       "duration_ms": 198857,
       "name": "Visualize",
       "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/0WAdan0ibzKZaXQVJUu15I"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Mr. Carmack",
+          "url": "https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn"
+        }
+      ],
+      "duration_ms": 210910,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/2DZsC8AcxL8hgClBNnTCos"
     },
     {
       "added_at": "2026-06-12 19:36:48",
@@ -317,6 +433,26 @@
       "url": "https://open.spotify.com/track/45JQqMg08DsvcDvpiJP7rE"
     },
     {
+      "added_at": "2026-06-26 04:01:05",
+      "album": {
+        "name": "It's Called: Freefall (GRiZ Remix)",
+        "url": "https://open.spotify.com/album/6NTFxRVK79OAv97i44C6Aa"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        },
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 188936,
+      "name": "It's Called: Freefall - GRiZ Remix",
+      "url": "https://open.spotify.com/track/0TpfbxBqQerT5xVe0N6Rfk"
+    },
+    {
       "added_at": "2026-04-17 04:04:06",
       "album": {
         "name": "WONKY SHIT",
@@ -371,26 +507,6 @@
       "duration_ms": 190801,
       "name": "Bass Cannon (Flux's Version) - Crankdat Remix",
       "url": "https://open.spotify.com/track/3b7doVly0rz4na3rqZUasE"
-    },
-    {
-      "added_at": "2026-06-05 04:01:32",
-      "album": {
-        "name": "Future Funk Volume 1",
-        "url": "https://open.spotify.com/album/2rQ5O2LTWYvzFJTOnYNPyZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 164835,
-      "name": "Rainbow Machine",
-      "url": "https://open.spotify.com/track/1tGLoKlVJksDcCTTVeTD6U"
     },
     {
       "added_at": "2026-06-19 04:02:01",
@@ -1145,22 +1261,6 @@
       "url": "https://open.spotify.com/track/7pddglpSVLghORfwW4zk8I"
     },
     {
-      "added_at": "2026-01-23 05:05:02",
-      "album": {
-        "name": "Zouki",
-        "url": "https://open.spotify.com/album/3riFmoDuxNNUwMa4pZtIdS"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 158378,
-      "name": "Zouki",
-      "url": "https://open.spotify.com/track/4fi51l6vEHfAbq0vieFpMF"
-    },
-    {
       "added_at": "2026-04-24 04:02:31",
       "album": {
         "name": "wakeup(crazy) [feat. Angst]",
@@ -1181,26 +1281,6 @@
       "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"
     },
     {
-      "added_at": "2026-04-03 04:03:08",
-      "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        }
-      ],
-      "duration_ms": 159821,
-      "name": "Screen Time",
-      "url": "https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL"
-    },
-    {
       "added_at": "2026-05-01 04:02:55",
       "album": {
         "name": "The Dreams Strange and Eternal",
@@ -1219,22 +1299,6 @@
       "duration_ms": 233794,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
-    },
-    {
-      "added_at": "2026-02-13 05:00:48",
-      "album": {
-        "name": "TYNAN TIME",
-        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
-      },
-      "artists": [
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "his name is",
-      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-04-17 04:04:06",
@@ -1441,22 +1505,6 @@
       "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
     },
     {
-      "added_at": "2026-04-10 04:03:13",
-      "album": {
-        "name": "Sleep Paralysis",
-        "url": "https://open.spotify.com/album/638Pj6hF9c5tz5HQKwj3ci"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        }
-      ],
-      "duration_ms": 116756,
-      "name": "Sleep Paralysis",
-      "url": "https://open.spotify.com/track/2GnJ6rHzf2AMzQhCyN1AJX"
-    },
-    {
       "added_at": "2026-02-27 05:00:28",
       "album": {
         "name": "Goddess",
@@ -1615,22 +1663,6 @@
       "duration_ms": 164885,
       "name": "No Broke Boys - AVELLO Remix",
       "url": "https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV"
-    },
-    {
-      "added_at": "2025-12-05 05:08:59",
-      "album": {
-        "name": "Dream Machine",
-        "url": "https://open.spotify.com/album/0021xj4uajtMYc2w7AyJRq"
-      },
-      "artists": [
-        {
-          "name": "Jaenga",
-          "url": "https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI"
-        }
-      ],
-      "duration_ms": 193883,
-      "name": "Bass Go Silly",
-      "url": "https://open.spotify.com/track/275UK4dZzVVgwWMzjRKw2i"
     },
     {
       "added_at": "2025-11-21 05:00:39",

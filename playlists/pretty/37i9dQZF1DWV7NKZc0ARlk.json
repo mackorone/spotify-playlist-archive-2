@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 265635,
+  "num_followers": 265657,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Equivocada - Live Version",
-      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "MTV Unplugged: Con El Alma Desnuda",
         "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 298546,
       "name": "La Chica De Humo - MTV Unplugged",
       "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
     },
     {
       "added_at": "2026-03-06 03:00:23",

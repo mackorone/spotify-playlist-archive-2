@@ -110997,6 +110997,24 @@
     },
     {
       "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159933,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj"
+    },
+    {
+      "album": {
         "name": "Radyoda Sevdi\u011fin \u015eark\u0131",
         "url": "https://open.spotify.com/album/1nMho7olSlxnFwglkDRZXN"
       },
@@ -119532,6 +119550,14 @@
         {
           "name": "Dilhan \u015ee\u015fen",
           "url": "https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1"
+        },
+        {
+          "name": "Salih Korkut Peker",
+          "url": "https://open.spotify.com/artist/0U06Mx18YYHYbjcrxvez2b"
+        },
+        {
+          "name": "Kaan Duzarat",
+          "url": "https://open.spotify.com/artist/5mA77js8qqRbZqvmBo8uZy"
         }
       ],
       "date_added": "2026-06-25",
@@ -130535,7 +130561,7 @@
         },
         {
           "name": "Taylan Boylu",
-          "url": "https://open.spotify.com/artist/3nY9EPiPT80YTel6J3NA3h"
+          "url": "https://open.spotify.com/artist/03mwF8UmASQaoPGKpBz05G"
         }
       ],
       "date_added": "2026-06-25",

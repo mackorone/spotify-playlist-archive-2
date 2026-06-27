@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11402,
+  "num_followers": 11404,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAASp7v0i/GNWiqRDmqizs83",
+  "snapshot_id": "ajxvgAAAAABKjezrWKf0qUC8h11y2HNI",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parachute Remixes",
+        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Drivin Thru the Night - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d"
       },
@@ -395,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
-      },
-      "artists": [
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
       },
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parachute Remixes",
-        "url": "https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
       },
       "artists": [
         {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
         },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Drivin Thru the Night - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+      "duration_ms": 206769,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
     },
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "When I Fall Asleep (with Jai Wolf)",
+        "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 193984,
+      "name": "When I Fall Asleep (with Jai Wolf)",
+      "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "eye2eye (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When I Fall Asleep (with Jai Wolf)",
-        "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 193984,
-      "name": "When I Fall Asleep (with Jai Wolf)",
-      "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
     },
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
       },
       "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 95500,
-      "name": "This Space In My Heart Is for You",
-      "url": "https://open.spotify.com/track/16xxB8ILPk98pe12CVrfSy"
+      "duration_ms": 201444,
+      "name": "Easy For Me - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
-        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
       },
       "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 201444,
-      "name": "Easy For Me - Jai Wolf Club Babu Remix",
-      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
+      "duration_ms": 95500,
+      "name": "This Space In My Heart Is for You",
+      "url": "https://open.spotify.com/track/16xxB8ILPk98pe12CVrfSy"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 248100,
+  "num_followers": 248127,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Hard Fete",
-        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Hard Fete",
-      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "How She Like It",
         "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 181567,
       "name": "How She Like It",
       "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Hard Fete",
+        "url": "https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Hard Fete",
+      "url": "https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 257921,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Spirit Of Carnival Project",
         "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 184273,
       "name": "Mental Day",
       "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 257921,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Carry It",
-        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        },
-        {
-          "name": "Stemz",
-          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Carry It",
-      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 238153,
       "name": "Workout",
       "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Carry It",
+        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Stemz",
+          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Carry It",
+      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "PARDY",
-        "url": "https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 222329,
-      "name": "PARDY",
-      "url": "https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "In the Water",
         "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "PARDY",
+        "url": "https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 222329,
+      "name": "PARDY",
+      "url": "https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "The Carnival Jumbies Experiment",
-        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
-      },
-      "artists": [
-        {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
-        }
-      ],
-      "duration_ms": 158917,
-      "name": "Carnival Jumbie",
-      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 167019,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "The Carnival Jumbies Experiment",
+        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
+      },
+      "artists": [
+        {
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+        }
+      ],
+      "duration_ms": 158917,
+      "name": "Carnival Jumbie",
+      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
     },
     {
       "added_at": "2026-05-30 05:52:43",

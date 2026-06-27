@@ -4,7 +4,7 @@
 
 > Bluesy blips and blops
 
-89 songs - 6 hr 2 min
+90 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Fatboy](https://open.spotify.com/track/5baarVtoUjoffq6RPKGEES) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 3:27 | 2020-12-01 | 2024-04-19 |
 | [From the Storm](https://open.spotify.com/track/5eHLQ0pMsDwFoHjK315CQf) | [KR3TURE](https://open.spotify.com/artist/5Da6Z6taYuywICqGUwocwu), [Ruby Friedman Orchestra](https://open.spotify.com/artist/723Ki2RVmcT0L3y6NHPOEE) | [From the Storm](https://open.spotify.com/album/3Fmfkjw6e8SLnQ8b2kLTd0) | 3:29 | 2023-08-04 |  |
 | [Go On Home](https://open.spotify.com/track/76elLpOjKBJ23cdLqporLq) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/1FwtaKN4oXKnx9UGTFP0uH) | 4:21 | 2020-12-01 | 2024-04-19 |
-| [Go On Home](https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 4:21 | 2020-12-01 |  |
+| [Go On Home](https://open.spotify.com/track/4K9APmIfS2d1eojcx04aDp) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 4:21 | 2020-12-01 | 2026-06-27 |
 | [Good & Gone \- Original Mix](https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt) | [Good & Gone / The Observer](https://open.spotify.com/album/4kx8HQlzVqfPDZNIbk5F87) | 4:12 | 2020-12-01 |  |
 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 | 2022-07-29 |  |
 | [Guilty](https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Wolves](https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i) | 3:33 | 2020-12-01 |  |
@@ -95,6 +95,7 @@
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/3fxmPJD9uAhBmQLPqxsW3g) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/5ppQwO8UwO15NrEpDlVg88) | 3:11 | 2023-03-17 | 2024-04-11 |
 | [We'r Gonna Have \(a Good Time\)](https://open.spotify.com/track/4G9aIO19Bpmil8aOPmS1K1) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [We'r Gonna Have \(A Good Time\)](https://open.spotify.com/album/32t2T9nsxWEeJ8ZHLqHiba) | 3:11 | 2023-03-17 | 2024-04-19 |
 | [Why Not?](https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8) | [Akolo](https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J) | [Why Not?](https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY) | 3:33 | 2020-12-01 | 2026-04-18 |
+| [Woke Up This Morning \- Porij Remix](https://open.spotify.com/track/25FidA0PQJqJ7qEETyayCg) | [Alabama 3](https://open.spotify.com/artist/25zUD40u8M2kJmdcabBzrz), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Woke Up This Morning \(Porij Remix\)](https://open.spotify.com/album/0eOp7ABTFlhw2lxQNSYKvF) | 4:08 | 2026-06-26 |  |
 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 | 2020-12-01 |  |
 | [Xotic](https://open.spotify.com/track/5zT0oYIpruDMbverZ28esj) | [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Bluestronica EP nr 2](https://open.spotify.com/album/5CnJQvhMyM5qtHoRBjVvC3) | 4:05 | 2023-08-04 |  |
 

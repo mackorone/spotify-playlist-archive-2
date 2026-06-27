@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 56 | [Hombre Al Agua \- Remasterizado 2007](https://open.spotify.com/track/5X1QC3aBZxtICZvNg5yrsf) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 5:55 |
 | 57 | [Angel Electrico \- MTV Unplugged](https://open.spotify.com/track/7H8TNV5Vc6poupuNxaE6KG) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:45 |
 | 58 | [Perdonar Es Divino](https://open.spotify.com/track/2SL56OF774pYUz8cWN6Jg0) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:17 |
-| 59 | [Danza Rota \- Remasterizado 2007](https://open.spotify.com/track/6WB3ovHYXvhXfXQnAeE5qj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:31 |
-| 60 | [Tu Cicatriz En Mi](https://open.spotify.com/track/7gPVoEPs8iLkkq3DXPtAjj) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:17 |
+| 59 | [Tu Cicatriz En Mi](https://open.spotify.com/track/7gPVoEPs8iLkkq3DXPtAjj) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:17 |
+| 60 | [Danza Rota \- Remasterizado 2007](https://open.spotify.com/track/6WB3ovHYXvhXfXQnAeE5qj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Nada Personal \(Remastered\)](https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs) | 3:31 |
 | 61 | [Luna Roja \- Remasterizado 2007](https://open.spotify.com/track/0MHENKo7srNABaALyzrYlX) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 5:30 |
 | 62 | [Engaña](https://open.spotify.com/track/7BRwN1pRe3sn653D4oPPSR) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:11 |
 | 63 | [No Existes \- Remasterizado 2007](https://open.spotify.com/track/6MIDQPurdLJgq5Tg6wM6xy) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:43 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 118 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 119 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AcVMpgAAAADdOVy5FnQNIK0FrNULfUy+`
+Snapshot ID: `AcVSRgAAAACeot61y3naWB0tyXVfnlaf`

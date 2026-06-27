@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 98210,
+  "num_followers": 98221,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -195,18 +179,34 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Children Of The World",
         "url": "https://open.spotify.com/album/4V8z8vZUCyYUBlUI9CfSbY"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 256493,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Golden Earring Biggest Hits",
-        "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Back Home",
-      "url": "https://open.spotify.com/track/6lOyyZd5gxUObdq0h0ps5E"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Song Of The Marching Children",
         "url": "https://open.spotify.com/album/02TCJof1N14NB16zBOk6ds"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 385626,
       "name": "Storm And Thunder",
       "url": "https://open.spotify.com/track/7uzbAYvAnH49ld7ZH96jo2"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Golden Earring Biggest Hits",
+        "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/6lOyyZd5gxUObdq0h0ps5E"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Golden Earring Biggest Hits",
-        "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Weekend Love",
-      "url": "https://open.spotify.com/track/2XEZ7vNowkcxPDbehugy3Q"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "The Very Best Of Shocking Blue (Part One - The A Sides)",
         "url": "https://open.spotify.com/album/2UpjCnEO4XJ5F5PwKGFg8N"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 159000,
       "name": "Inkpot",
       "url": "https://open.spotify.com/track/7fKfIfnIuQaNrnvrRkF637"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Golden Earring Biggest Hits",
+        "url": "https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Weekend Love",
+      "url": "https://open.spotify.com/track/2XEZ7vNowkcxPDbehugy3Q"
     },
     {
       "added_at": "2024-08-28 19:18:25",

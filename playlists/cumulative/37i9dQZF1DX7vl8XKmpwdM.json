@@ -3251,6 +3251,36 @@
     },
     {
       "album": {
+        "name": "Con City [TAMIL]",
+        "url": "https://open.spotify.com/album/1wKwpbHYAV91DQxwnWZxE6"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Vangal Pulla Vicky",
+          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234061,
+      "name": "Korean Family",
+      "url": "https://open.spotify.com/track/5ClualSM6nK3AbkoVGljQ9"
+    },
+    {
+      "album": {
         "name": "Korean Family (From \"Con City\")",
         "url": "https://open.spotify.com/album/4npAtkDywTNwWaVHBRYb4R"
       },
@@ -3274,7 +3304,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 234061,
       "name": "Korean Family (From \"Con City\")",
       "url": "https://open.spotify.com/track/4oTaHQJrKi8bQMJ75mLjIO"
@@ -4058,6 +4088,36 @@
       "duration_ms": 203900,
       "name": "Naadodi Mannan",
       "url": "https://open.spotify.com/track/2Vf4t6mDApwQuWk9MAcZYM"
+    },
+    {
+      "album": {
+        "name": "Con City [TAMIL]",
+        "url": "https://open.spotify.com/album/1wKwpbHYAV91DQxwnWZxE6"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Lalitha Sudha",
+          "url": "https://open.spotify.com/artist/7zz7YQYYCQnZ7cnzHke7uc"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246085,
+      "name": "Naan Dhaan King",
+      "url": "https://open.spotify.com/track/3CV6vr5OcAkmPhWa0cCxrI"
     },
     {
       "album": {
@@ -5518,7 +5578,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 210041,
       "name": "Rise Of Dragon",
       "url": "https://open.spotify.com/track/5PH0e3NmMFUautnXDLT1N8"

@@ -4,7 +4,7 @@
 
 > The voices shaping R&B\. Cover: kwn
 
-641 songs - 1 day 10 hr 8 min
+642 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 | 2023-07-21 | 2024-02-28 |
 | [Is It A Crime? \- Unplugged](https://open.spotify.com/track/3DIJ3pP9lUSsYvZTGcdKK0) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [No Guidnce \- Unplugged](https://open.spotify.com/album/2GpbE6KxDwyCZgWnX2q7ue) | 3:02 | 2024-05-20 | 2024-10-11 |
 | [Is It Alright?](https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Is It Alright?](https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor) | 3:16 | 2025-12-12 | 2026-05-01 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-25 |  |
 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 | 2024-04-26 | 2024-09-20 |
 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 | 2023-03-02 | 2023-05-15 |
 | [IT'S OK](https://open.spotify.com/track/7uADhlog5IlihImt0ypJq6) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [IT'S OK](https://open.spotify.com/album/58ESrwQBQHLys9cC5qd6uE) | 2:19 | 2026-04-30 |  |

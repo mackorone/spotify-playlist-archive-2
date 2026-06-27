@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "American Made",
+        "url": "https://open.spotify.com/album/7zaEIu1zl48MlGggY5AtB6"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225466,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/2IKYEtPZLywTOt1F3Eb0fj"
+    },
+    {
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -1182,6 +1200,24 @@
       "duration_ms": 197041,
       "name": "Heart Of A Small Town",
       "url": "https://open.spotify.com/track/60pLGEx3J9wCqgFA3vrw5y"
+    },
+    {
+      "album": {
+        "name": "Heartbeat Of America",
+        "url": "https://open.spotify.com/album/3SArOU9rGqeg782YXuHJRb"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215417,
+      "name": "Heartbeat Of America",
+      "url": "https://open.spotify.com/track/4SCmbpuFJmU64l0O8ESjiw"
     },
     {
       "album": {

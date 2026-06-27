@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from feeble little horse",
+  "description": "Explore all things indie rock right now. Featuring music from This Is Lorelei",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 139159,
       "name": "2 C U",
       "url": "https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM"
@@ -2333,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/6A5kz0EFCFBf9gXNgddAOo"
+      },
+      "artists": [
+        {
+          "name": "Porch Light",
+          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/2JuuDTjgN7FkR6p0QxOuTw"
+    },
+    {
+      "album": {
         "name": "Are You Happy?",
         "url": "https://open.spotify.com/album/0XqYtsDMA5ORWlPLkc2LGF"
       },
@@ -4252,6 +4270,24 @@
       "duration_ms": 245251,
       "name": "Billy (Yeah Yeah Yeah)",
       "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
+    },
+    {
+      "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
     },
     {
       "album": {
@@ -15239,6 +15275,24 @@
     },
     {
       "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/7dRTgpXhKLpFfL3suMrwep"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213395,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/53oAPCPAZlaMGGKqDnrL5D"
+    },
+    {
+      "album": {
         "name": "Hammer",
         "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
       },
@@ -17280,7 +17334,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 214304,
       "name": "I Know!",
       "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
@@ -21514,6 +21568,24 @@
       "duration_ms": 160838,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/14RHVhgK4QxsOCQcu4R1Q3"
+    },
+    {
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "album": {
@@ -33087,6 +33159,24 @@
     },
     {
       "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+    },
+    {
+      "album": {
         "name": "Sunburn Fades",
         "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
       },
@@ -37524,6 +37614,24 @@
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
+    {
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "album": {

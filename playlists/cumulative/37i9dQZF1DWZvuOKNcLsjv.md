@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: sombr
 
-5,533 songs - 13 day 8 hr 54 min
+5,535 songs - 13 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1918,6 +1918,7 @@
 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 | 2024-03-14 | 2024-03-29 |
 | [iris](https://open.spotify.com/track/63mR8YjEoMajP2hlQMgCUu) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn), [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [iris / pray for peace](https://open.spotify.com/album/4SxRwAlnfZVpPF7DEVrvtZ) | 3:27 | 2024-02-04 | 2024-02-12 |
 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-10 | 2025-07-25 |
+| [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 | 2026-06-25 |  |
 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 | 2026-06-18 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-06-27 |
 | [Isshoukonomama](https://open.spotify.com/track/60cWyPsmoAicYR6UHQyqoI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Isshoukonomama](https://open.spotify.com/album/4HuZRJ6P8hZxYhQ7CsHfVh) | 4:43 | 2023-06-04 | 2023-06-19 |
@@ -4263,6 +4264,7 @@
 | [WINDY SUMMER \- Cover](https://open.spotify.com/track/1ABFXj7oofCvwD9bMQscaH) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/0o00b10zCAl7ucaAtFJMqy) | [WINDY SUMMER \(Cover\)](https://open.spotify.com/album/0WgQB8S1PHANF3wxeC5CAF) | 3:33 | 2023-06-11 | 2023-06-19 |
 | [Wings](https://open.spotify.com/track/4l61TlfmTwxt7PdzEe28rz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Wings](https://open.spotify.com/album/1gZbP4bJhkyyompPUyfAdj) | 1:58 | 2023-02-26 | 2023-03-20 |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-03-12 | 2023-03-20 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 |  |
 | [Winner](https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Winner](https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy) | 3:37 | 2023-08-27 | 2023-10-02 |
 | [Winter](https://open.spotify.com/track/40XyTJ777XE0bcJH4bcVcg) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Naked](https://open.spotify.com/album/4YEGqUeqECz2jcsENlcBSi) | 3:19 | 2023-02-19 | 2023-02-27 |
 | [Winter](https://open.spotify.com/track/3SH57H5UjRPxTjLcrwl0ZM) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Tear](https://open.spotify.com/album/4SYtl2IAxejT7pjvl8TFc4) | 4:06 | 2023-02-05 | 2023-02-20 |

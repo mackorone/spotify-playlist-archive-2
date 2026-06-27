@@ -381,6 +381,32 @@
     },
     {
       "album": {
+        "name": "R. Strauss: Eine Alpensinfonie: Gewitter und Sturm, Abstieg",
+        "url": "https://open.spotify.com/album/1nrPkpEThC5uWBv5cum6gT"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213773,
+      "name": "Eine Alpensinfonie: Gewitter und Sturm, Abstieg",
+      "url": "https://open.spotify.com/track/4Q7oYxLvMr7kOuCXDnZFue"
+    },
+    {
+      "album": {
         "name": "The Age of Extremes: W.F. Bach, G. Benda & C.P.E. Bach",
         "url": "https://open.spotify.com/album/666rWzJgsF6pZo9KyAZ27A"
       },

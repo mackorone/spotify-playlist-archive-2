@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,193 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,205 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 87 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 |
 | 88 | [Need You Tonight \- Spotify Singles](https://open.spotify.com/track/7HgqTzNm5MRVaesALaDz63) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Spotify Singles](https://open.spotify.com/album/1dP5gqcehoHp1lqAr8z2Yp) | 3:02 |
 | 89 | [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 |
-| 90 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 |
-| 91 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
+| 90 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
+| 91 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 |
 | 92 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
 | 93 | [Adam's Song \- triple j Like A Version](https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Adam's Song \(triple j Like A Version\)](https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX) | 4:16 |
 | 94 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |

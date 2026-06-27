@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Billy Came Back",
+        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189148,
+      "name": "Billy Came Back",
+      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "album": {
         "name": "Billy Elliot / Alone In Cologne",
         "url": "https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o"
       },
@@ -7088,6 +7106,24 @@
       "duration_ms": 211257,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L"
+    },
+    {
+      "album": {
+        "name": "Have You Tried Screaming?",
+        "url": "https://open.spotify.com/album/6zr8GKj1JUnErvkGtnVrhC"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183935,
+      "name": "Have You Tried Screaming?",
+      "url": "https://open.spotify.com/track/7Kv7D56uIcwuWQkqSuz1ut"
     },
     {
       "album": {
@@ -17257,24 +17293,6 @@
     },
     {
       "album": {
-        "name": "Have You Tried Screaming?",
-        "url": "https://open.spotify.com/album/6zr8GKj1JUnErvkGtnVrhC"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "date_added": "2026-06-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7Kv7D56uIcwuWQkqSuz1ut"
-    },
-    {
-      "album": {
         "name": "Tractor Beam",
         "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
       },
@@ -18588,6 +18606,24 @@
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "album": {
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "album": {

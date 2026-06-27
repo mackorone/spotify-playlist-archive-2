@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,062 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,072 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Holy Pressure](https://open.spotify.com/track/5y7Ok74m78xZLLkdgulUzb) | [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a) | [Holy Pressure](https://open.spotify.com/album/7IH7G3dtJBYnVh8H6F9z1n) | 2:30 |
 | 2 | [Your Love \(Acoustic\)](https://open.spotify.com/track/7FkJNeeZgyvt7ubqxReYfO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love \(Acoustic\)](https://open.spotify.com/album/660Sxw29q5Cohy30qjBBlz) | 4:38 |
-| 3 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/4zAIwqmbzqg6T8F0jfbcq6) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
+| 3 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
 | 4 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 |
 | 5 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 |
 | 6 | [Close](https://open.spotify.com/track/1JJJY7vww2I5Dvu42gWv16) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Close](https://open.spotify.com/album/6vWYmUpE4KNvMQQMihv4FQ) | 2:32 |

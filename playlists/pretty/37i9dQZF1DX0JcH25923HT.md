@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,095 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,204 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 83 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
 | 84 | [Dubai](https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Dubai](https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm) | 2:37 |
 | 85 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
-| 86 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |
-| 87 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |
+| 86 | [Perdóname](https://open.spotify.com/track/6jwcchNlcoMZFa0EwfKga6) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perdóname](https://open.spotify.com/album/4NKcodEVVaqancpvvNYkdU) | 2:43 |
+| 87 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |
 | 88 | [La Movie](https://open.spotify.com/track/4n6utGnsc8sxoRl1SIOPv7) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Movie](https://open.spotify.com/album/4C8ptlfZoKQfEWQrjr1GZh) | 5:29 |
 | 89 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
 | 90 | [Fresko](https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Fresko](https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia) | 3:21 |

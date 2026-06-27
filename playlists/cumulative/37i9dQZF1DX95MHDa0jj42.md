@@ -4,12 +4,13 @@
 
 > sunny bossa beats to chill, focus or study to.
 
-119 songs - 4 hr 25 min
+123 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Sunshade](https://open.spotify.com/track/0l5N4OsWDIM5kXI4lbrt3m) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1) | [A Sunshade](https://open.spotify.com/album/0GmXUHxoLYnBUYGQDYZCaD) | 1:50 | 2026-01-30 |  |
 | [Accomplish Nothing](https://open.spotify.com/track/0GFG9uDsjVq1rAO85e0Tpk) | [Monkey Lala](https://open.spotify.com/artist/0mjsKUEGeUkwWNQR9MLDJr) | [Accomplish Nothing](https://open.spotify.com/album/3jiwOp0Upby0MnbMjk02pg) | 2:20 | 2025-05-16 | 2026-06-10 |
+| [after 5](https://open.spotify.com/track/4YoWy5MGb7wQTBAMbJUwtl) | [fourth cloud](https://open.spotify.com/artist/06b1HoxjfHzwgkn9tiYpjy) | [after 5](https://open.spotify.com/album/36Qv1FkExqzZSIhoJkuBFC) | 2:02 | 2026-06-26 |  |
 | [Ajaccio](https://open.spotify.com/track/7rRrniiWIeC8B47oPZf3ha) | [Kylliart](https://open.spotify.com/artist/4KqNShjhsZJJjT5tbNMLyJ) | [Ajaccio](https://open.spotify.com/album/257lmxFBTrJeGiLuroEuEE) | 2:02 | 2025-05-16 | 2025-07-26 |
 | [Alegria Nao Tem Fim](https://open.spotify.com/track/4Nr9jTBMkZMn97SfOsIuI3) | [Mateus Vento](https://open.spotify.com/artist/1ad5CFJ1QWq0eFk61ORvl1) | [Alegria Nao Tem Fim](https://open.spotify.com/album/2Mcgcg85HiDo1fA5TVMyJE) | 2:46 | 2025-05-16 | 2025-09-27 |
 | [Amada latina](https://open.spotify.com/track/4AKAI5ps3IczTlNg9kgr2s) | [BrosZZ](https://open.spotify.com/artist/2jaKof3T1Hpcpdn7IaFEtn) | [Amada latina](https://open.spotify.com/album/23AWAns5JwYkA8XgwAeyl8) | 1:26 | 2025-06-13 |  |
@@ -68,6 +69,7 @@
 | [mango mood](https://open.spotify.com/track/0iDTZd1A7TNkqDPYtlFIjN) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [mango mood](https://open.spotify.com/album/5xorx447lCxYb2a2kdJxoQ) | 2:34 | 2025-09-26 |  |
 | [Maple](https://open.spotify.com/track/1Ijp0jqE8IEAo8LdRpGzEA) | [Mr\. Wout](https://open.spotify.com/artist/0DOB2GbxL5ZsObQHoAMes7) | [Maple](https://open.spotify.com/album/4rAymADuPKcrVZKh0oVdaU) | 2:27 | 2025-05-16 |  |
 | [Marsipan](https://open.spotify.com/track/5AUdoFudB73RrTFH4cFFKS) | [Onyx Value](https://open.spotify.com/artist/5Efar71Lbvxm2HjDpl45b4) | [Marsipan](https://open.spotify.com/album/6l6lSxtWuvg6O1J9zUIcjB) | 2:22 | 2025-05-16 |  |
+| [Mentirosa](https://open.spotify.com/track/5ti1iY6HUAiuiOB6FBkk4V) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Mentirosa](https://open.spotify.com/album/4tKR2Kgw6jVs98bjyMF987) | 1:50 | 2026-06-26 |  |
 | [Mi Casa, Su Casa](https://open.spotify.com/track/4KhfoWm7gFmJjzIlwZ6O92) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [Mi Casa, Su Casa](https://open.spotify.com/album/7byjLQfcdtLssyMjEWLXXa) | 2:10 | 2025-08-20 |  |
 | [Music Box](https://open.spotify.com/track/6TJGxhXOJ4lSqr4VvRoOhg) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Music Box](https://open.spotify.com/album/5IJpDXELNnPx0gieYnnKRm) | 2:16 | 2025-05-16 |  |
 | [Named](https://open.spotify.com/track/2EPBCYmhP2YZGBYNmq6nyI) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Named](https://open.spotify.com/album/7C8yR2oFp2nraVK2DiikQS) | 2:09 | 2025-05-16 |  |
@@ -98,6 +100,7 @@
 | [rosa](https://open.spotify.com/track/6IzOYkRHwRocgODPKQA6ln) | [cece lace](https://open.spotify.com/artist/24QzzwZteqjZM84UzNSCma) | [rosa](https://open.spotify.com/album/1xIwbjpAFRKHnmX3GASxZG) | 2:02 | 2025-05-16 |  |
 | [Sabai](https://open.spotify.com/track/44qql1ujljCnblwDQ6cI77) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Sabai](https://open.spotify.com/album/13l7e8BFiDueEXir67SEeD) | 2:00 | 2025-05-16 |  |
 | [Sea Breeze](https://open.spotify.com/track/0g4xca3uZFCN1bLqaIMr59) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [Sea Breeze](https://open.spotify.com/album/6UZGrg85MPz4wbeegsrNM9) | 2:00 | 2025-07-25 |  |
+| [Secret Sea Shells](https://open.spotify.com/track/7yo5qlT77yRsnJb6Q2JdWO) | [Eugene](https://open.spotify.com/artist/3x3xKaexL2yN0OoGDrLHxR), [mooneø](https://open.spotify.com/artist/4dTNv4gCIS09MPIU7am4jt), [Odd Panda](https://open.spotify.com/artist/0Sd0BsazzL4j7U88C3v2iB) | [Secret Sea Shells](https://open.spotify.com/album/0oJUMybTLlwYsAPIOscV1a) | 1:52 | 2026-06-26 |  |
 | [Serenade](https://open.spotify.com/track/3fOKEUwCDKYAhpxosJ2zYS) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [liid.](https://open.spotify.com/artist/1pajE7rKmzVHq2S6dLcgvG) | [Serenade](https://open.spotify.com/album/5crdRSF53XnioB0IJME6J5) | 1:58 | 2025-05-16 |  |
 | [Shimmering Sands](https://open.spotify.com/track/2K0vDLeF6a2xg7CaU2ijFj) | [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb), [Oso\-sa](https://open.spotify.com/artist/1SDLFni51QTye6GsxOv3hC) | [Shimmering Sands](https://open.spotify.com/album/07B6LT6IiqTVyuO45oYxbD) | 2:25 | 2025-05-16 |  |
 | [Sonhos Tropicais](https://open.spotify.com/track/2cZ6GFkNi4h4WnGhOaYcEG) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [shakambo](https://open.spotify.com/artist/3nSa4FPPtXIgPgS0OEyzdK) | [Sonhos Tropicais](https://open.spotify.com/album/3e5XfiZCN7JDX4YRtfXDe3) | 2:01 | 2025-06-13 |  |
@@ -115,6 +118,7 @@
 | [Sunset drive](https://open.spotify.com/track/3Am86ZaKb9IJfv0xqKFj1b) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [Sunset drive](https://open.spotify.com/album/7gtnDMIWbmUSwc4FA1Qbsl) | 2:13 | 2025-05-16 | 2025-07-11 |
 | [sunsets with you](https://open.spotify.com/track/3cSOWR5E6qeB03O10WYpju) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [sunsets with you](https://open.spotify.com/album/4QSQH1gECpn3TInkMSfCmE) | 2:04 | 2025-08-20 |  |
 | [Sunshine Meadows](https://open.spotify.com/track/6FgIPhlImS3eID7PrXS65L) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [blue wagon](https://open.spotify.com/artist/3oT3dWHRtMHnaLiZBkuZWK) | [Sunshine Meadows](https://open.spotify.com/album/1OnopfCbTck4NAT8Ck2eya) | 2:18 | 2025-05-16 | 2025-07-11 |
+| [Surfrider](https://open.spotify.com/track/4hj1WyB1ise5Z4nOPN7Q38) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Surfrider](https://open.spotify.com/album/5Z9k2VhtHsZgHlEnuCIkaj) | 2:28 | 2026-06-26 |  |
 | [sway](https://open.spotify.com/track/7rPYQvTUN5b6UmKaUmknCi) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [sway](https://open.spotify.com/album/0TZTPLyNUGSIJdzfU2B7EV) | 2:01 | 2025-05-16 | 2025-08-21 |
 | [Sway Away](https://open.spotify.com/track/0HAmT2Err55i2Zj5pO7mGF) | [Soul Siesta](https://open.spotify.com/artist/1RJwM6rGFTKka0YVoCrHn8) | [Sway Away](https://open.spotify.com/album/6vZKuraVHY5ro7mo3hxg49) | 1:29 | 2025-05-16 | 2026-06-10 |
 | [Swaying](https://open.spotify.com/track/6UADZ0D5NwibLNnz3XiIXj) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [Swaying](https://open.spotify.com/album/3teKKsv3mnR7griYcohtKN) | 2:07 | 2025-05-16 | 2025-07-11 |

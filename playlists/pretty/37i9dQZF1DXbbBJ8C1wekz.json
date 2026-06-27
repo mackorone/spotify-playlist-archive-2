@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 186792,
+  "num_followers": 186873,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -1259,34 +1259,6 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "O Cara Do Momento, Vol. 2",
-        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
-      },
-      "artists": [
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 168959,
-      "name": "Me Chama Pelo Meu Vulgo",
-      "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
         "name": "Paz Terr\u00edvel",
         "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
       },
@@ -1315,6 +1287,34 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "O Cara Do Momento, Vol. 2",
+        "url": "https://open.spotify.com/album/35C0UUdgV8mkuBaJrxbagf"
+      },
+      "artists": [
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 168959,
+      "name": "Me Chama Pelo Meu Vulgo",
+      "url": "https://open.spotify.com/track/31ruhXo3xWYJUfGk1uU77y"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
@@ -1331,26 +1331,6 @@
       "duration_ms": 202282,
       "name": "Mente Al\u00e9m",
       "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Filho da Noite",
-        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Filho da Noite",
-      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -1379,6 +1359,26 @@
       "duration_ms": 245987,
       "name": "INEF\u00c1VEL (feat. Leviano)",
       "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Filho da Noite",
+        "url": "https://open.spotify.com/album/63K61G3WTZrRUHZzAUPqHn"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Filho da Noite",
+      "url": "https://open.spotify.com/track/40IXmplKTcyWPr9HNCik7e"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
+        "name": "Nada \u00c9 do Nada",
+        "url": "https://open.spotify.com/album/3h0IJlTyH9xxnyrmYVhbDL"
+      },
+      "artists": [
+        {
+          "name": "ZackZin",
+          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
+        }
+      ],
+      "duration_ms": 115801,
+      "name": "Ref!",
+      "url": "https://open.spotify.com/track/7aPfhw5HVcha8xa4pQKRx6"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
         "name": "2 L3Trinha",
         "url": "https://open.spotify.com/album/4cbEBTjZqyqvjADtg2mgBN"
       },
@@ -2239,18 +2255,42 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Nada \u00c9 do Nada",
-        "url": "https://open.spotify.com/album/3h0IJlTyH9xxnyrmYVhbDL"
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
       },
       "artists": [
         {
-          "name": "ZackZin",
-          "url": "https://open.spotify.com/artist/6lrWmdRj2k37Hc5ugFNygs"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
         }
       ],
-      "duration_ms": 115801,
-      "name": "Ref!",
-      "url": "https://open.spotify.com/track/7aPfhw5HVcha8xa4pQKRx6"
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "MUNDO DO WIU",
+      "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2283,46 +2323,6 @@
       "duration_ms": 151982,
       "name": "Um Mano Discreto (feat. Mc Luanna)",
       "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "MUNDO DO WIU",
-      "url": "https://open.spotify.com/track/2M5dL30uouNRi8kwhI5QRD"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Cyberpunk",
-        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Cyberpunk",
-      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2415,26 +2415,22 @@
     {
       "added_at": "2026-06-08 19:39:35",
       "album": {
-        "name": "Empate T\u00e9cnico",
-        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
       },
       "artists": [
         {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         },
         {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Markin Avel",
-          "url": "https://open.spotify.com/artist/5u8ejmm6QtrNPZkCPF4DXl"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 188601,
-      "name": "A Comitiva",
-      "url": "https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX"
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2459,6 +2455,30 @@
       "duration_ms": 160000,
       "name": "Ra\u00fal",
       "url": "https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp"
+    },
+    {
+      "added_at": "2026-06-08 19:39:35",
+      "album": {
+        "name": "Empate T\u00e9cnico",
+        "url": "https://open.spotify.com/album/60PEgr3BmEjcGvM7u7cDF8"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Markin Avel",
+          "url": "https://open.spotify.com/artist/5u8ejmm6QtrNPZkCPF4DXl"
+        }
+      ],
+      "duration_ms": 188601,
+      "name": "A Comitiva",
+      "url": "https://open.spotify.com/track/4rqdcTkE0cVq2Xilp5wqeX"
     },
     {
       "added_at": "2026-06-08 19:39:35",
@@ -2527,22 +2547,6 @@
       "duration_ms": 127500,
       "name": "Rotina 2",
       "url": "https://open.spotify.com/track/0c5V12H7qQwmtjvMY9zxOY"
-    },
-    {
-      "added_at": "2026-06-08 19:39:35",
-      "album": {
-        "name": "Por Voc\u00ea...",
-        "url": "https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK"
-      },
-      "artists": [
-        {
-          "name": "Gapes",
-          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
-        }
-      ],
-      "duration_ms": 125375,
-      "name": "Tomara Que Caia",
-      "url": "https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI"
     },
     {
       "added_at": "2026-06-08 19:39:35",

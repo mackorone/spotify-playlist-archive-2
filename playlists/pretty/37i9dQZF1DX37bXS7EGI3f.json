@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 822881,
+  "num_followers": 822902,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Light And Shadow",
         "url": "https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 258146,
       "name": "Light And Shadow",
       "url": "https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Winds of Time",
+        "url": "https://open.spotify.com/album/2xZIU1PggMA6Pu9bpNfICG"
+      },
+      "artists": [
+        {
+          "name": "Wings of Steel",
+          "url": "https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "Saints and Sinners",
+      "url": "https://open.spotify.com/track/2uRNqiZTbAJih8VnfyAIWb"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Heavy Metal Viking",
         "url": "https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 290341,
       "name": "Wayfarer's Reverie",
       "url": "https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Winds of Time",
-        "url": "https://open.spotify.com/album/2xZIU1PggMA6Pu9bpNfICG"
-      },
-      "artists": [
-        {
-          "name": "Wings of Steel",
-          "url": "https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "Saints and Sinners",
-      "url": "https://open.spotify.com/track/2uRNqiZTbAJih8VnfyAIWb"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Kings of Ragnar\u00f6k",
-        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
+        "name": "Winter Storm Vigilantes",
+        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
       },
       "artists": [
         {
-          "name": "Warkings",
-          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Kings of Ragnar\u00f6k",
-      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
+      "duration_ms": 312426,
+      "name": "Winter Storm Vigilantes",
+      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Winter Storm Vigilantes",
-        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
+        "name": "Kings of Ragnar\u00f6k",
+        "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
       },
       "artists": [
         {
-          "name": "Ensiferum",
-          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+          "name": "Warkings",
+          "url": "https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E"
         }
       ],
-      "duration_ms": 312426,
-      "name": "Winter Storm Vigilantes",
-      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+      "duration_ms": 234560,
+      "name": "Kings of Ragnar\u00f6k",
+      "url": "https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "As Empires Fall",
-        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "As Empires Fall",
-      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
         "name": "Now Is the Time",
         "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
+        "name": "As Empires Fall",
+        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
       },
       "artists": [
         {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
         }
       ],
-      "duration_ms": 216957,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
+      "duration_ms": 234440,
+      "name": "As Empires Fall",
+      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas"
       },
       "artists": [
         {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+      "duration_ms": 216957,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 234790,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Steel And Gold",
+        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "duration_ms": 247978,
+      "name": "Steel And Gold",
+      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1683,22 +1699,6 @@
       "duration_ms": 242826,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/0bd3NFnDVgFZi25ktPoHHO"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Steel And Gold",
-        "url": "https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 247978,
-      "name": "Steel And Gold",
-      "url": "https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o"
     }
   ],
   "unique_name": "Epic & Melodic",

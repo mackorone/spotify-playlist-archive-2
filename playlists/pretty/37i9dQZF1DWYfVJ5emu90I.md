@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,217 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,227 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 12 | [ちゅだい \- Chxxai](https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 1:39 |
 | 13 | [HATERS](https://open.spotify.com/track/5fgglJEebJkxZ9K2WXl9n9) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [UNTIL](https://open.spotify.com/album/4fgxqE5qY4QFwtOiA4TaWJ) | 2:17 |
 | 14 | [Get Back \(feat\. JUMADIBA & Watson\)](https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back \(feat\. JUMADIBA & Watson\)](https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5) | 3:27 |
-| 15 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 |
-| 16 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
+| 15 | [GILA GILA](https://open.spotify.com/track/3LSALxSMhVUQoGN2zwxy1n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [GILA GILA](https://open.spotify.com/album/5v5FfoofCu2Ouflu1GusIN) | 4:11 |
+| 16 | [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 |
 | 17 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
 | 18 | [DOSHABURI \(feat\. JUMADIBA & ralph\) \- Remix](https://open.spotify.com/track/30iyDoqghH5gs3I7bAFT4a) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DOSHABURI \(Remix\)](https://open.spotify.com/album/1944sAOFXg8lgrYznJUKmD) | 4:00 |
 | 19 | [Red Bull 64 Bars](https://open.spotify.com/track/7MJL0Vc4D5ux4ZsHGFXjZ8) | [Reichi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D), [XLII](https://open.spotify.com/artist/08elIxCYp8IdFGvVs2CZIN) | [Red Bull 64 Bars](https://open.spotify.com/album/7cD1fMnf3CH70hNAYj57zX) | 3:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 46 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
 | 47 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
 | 48 | [TOKYO 卍 REVENGERS \(feat\. GNB AAlucarD & HAKU FiFTY\)](https://open.spotify.com/track/2aSDjN9urt9z3og8yCnhKC) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [GNB AAlucarD](https://open.spotify.com/artist/1xfVkn8HjymKn0leFMPWxK), [HAKU FiFTY](https://open.spotify.com/artist/6fJgIprinfVAfMtLuF1OX8) | [TOKYO 卍 REVENGERS \(feat\. GNB AAlucarD & HAKU FiFTY\)](https://open.spotify.com/album/4EMt8yLn821Oo8l0SwBvkl) | 2:33 |
-| 49 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
-| 50 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 49 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 50 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 
-Snapshot ID: `AAAAACxq+WvmYuXnxCtt63cm81xqCxdM`
+Snapshot ID: `AAAAAO+RPBZm0xZUuPb3T3tnLz4dkj0P`

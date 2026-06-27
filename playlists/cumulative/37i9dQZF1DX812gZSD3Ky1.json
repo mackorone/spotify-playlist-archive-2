@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e2d\u0e39\u0e42\u0e19\u0e48 \u0e2b\u0e25\u0e32\u0e27\u0e17\u0e2d\u0e07",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JAOKHUN",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 178603,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
@@ -3748,6 +3748,24 @@
       "duration_ms": 219287,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
+    },
+    {
+      "album": {
+        "name": "TAKE OFF",
+        "url": "https://open.spotify.com/album/4Xy0UoGykV7ATkSV0gslk5"
+      },
+      "artists": [
+        {
+          "name": "JAOKHUN",
+          "url": "https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/3R5a0BnfrASTZ5f2ronWt3"
     },
     {
       "album": {
@@ -6261,6 +6279,24 @@
     },
     {
       "album": {
+        "name": "give up, give in",
+        "url": "https://open.spotify.com/album/7dwfNeRTbXtV48lRsYBaWJ"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238946,
+      "name": "give up, give in",
+      "url": "https://open.spotify.com/track/55WNlLuVqXJM4DQRxXWSTh"
+    },
+    {
+      "album": {
         "name": "GM",
         "url": "https://open.spotify.com/album/6LGxkU1xC5qlrNmmNCk02Q"
       },
@@ -8107,7 +8143,7 @@
     },
     {
       "album": {
-        "name": "I Knew It, I Knew You",
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
       },
       "artists": [
@@ -8120,7 +8156,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178186,
-      "name": "I Knew It, I Knew You",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
@@ -20660,7 +20696,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 212307,
       "name": "WHY",
       "url": "https://open.spotify.com/track/2qbOKuUAeJs7MSqw2XRFBh"
@@ -21394,10 +21430,28 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 266813,
       "name": "\u0e04\u0e33\u0e22\u0e34\u0e19\u0e14\u0e35",
       "url": "https://open.spotify.com/track/1ur8R3ThdEg3BdD844G6Mw"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/3ZWAluCz0vtsq1ie2KlSJK"
+      },
+      "artists": [
+        {
+          "name": "Loso",
+          "url": "https://open.spotify.com/artist/68ASbzKA9iG2gd7JRfPD71"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "\u0e04\u0e37\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/5G9QIsPENzaSjyipcQQAqL"
     },
     {
       "album": {
@@ -21604,7 +21658,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 257000,
       "name": "\u0e14\u0e31\u0e48\u0e07\u0e43\u0e08\u0e1d\u0e31\u0e19 (daydream) - Ost. \u0e20\u0e1e\u0e40\u0e18\u0e2d Love Upon a Time Series",
       "url": "https://open.spotify.com/track/7a1qkCAWSXn1YKtLPh0pbE"
@@ -21720,7 +21774,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 226046,
       "name": "\u0e17\u0e31\u0e49\u0e07\u0e40\u0e08\u0e47\u0e1a\u0e17\u0e31\u0e49\u0e07\u0e23\u0e31\u0e01 - From \"\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\"",
       "url": "https://open.spotify.com/track/7Hxu6cvNRmScO7tbAKQr2E"
@@ -21760,7 +21814,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 241973,
       "name": "\u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/5XhAqG6dRhLYJb2QF6WhL4"
@@ -21782,6 +21836,24 @@
       "duration_ms": 211066,
       "name": "\u0e1c\u0e21\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46 (For The Girl...)",
       "url": "https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny"
+    },
+    {
+      "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e04\u0e23\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (Twilightship)",
+        "url": "https://open.spotify.com/album/4bqyh7GFefzovFkvbyqM6y"
+      },
+      "artists": [
+        {
+          "name": "Slapkiss",
+          "url": "https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241695,
+      "name": "\u0e1c\u0e39\u0e49\u0e04\u0e23\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (Twilightship)",
+      "url": "https://open.spotify.com/track/0qfBsD7SA7jqkmVvad5JbY"
     },
     {
       "album": {
@@ -21836,6 +21908,24 @@
       "duration_ms": 220000,
       "name": "\u0e22\u0e49\u0e32\u0e22\u0e48\u0e32\u0e22\u0e30",
       "url": "https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32?",
+        "url": "https://open.spotify.com/album/56BsyBSsRlxzfzc1vO5rYQ"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199088,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32?",
+      "url": "https://open.spotify.com/track/1mpANQ0OuSDz3yPvPQtvJK"
     },
     {
       "album": {
@@ -21926,7 +22016,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 175468,
       "name": "\u0e2a\u0e31\u0e21\u0e1c\u0e31\u0e2a\u0e23\u0e31\u0e01 (Touch my heart) - From \"\u0e27\u0e32\u0e14\u0e1d\u0e31\u0e19\u0e27\u0e31\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c\"",
       "url": "https://open.spotify.com/track/4TKVN3H2T9qWF3tZknQcxs"
@@ -22010,6 +22100,24 @@
       "duration_ms": 280384,
       "name": "\u0e2b\u0e19\u0e31\u0e07\u0e17\u0e38\u0e19\u0e15\u0e48\u0e33",
       "url": "https://open.spotify.com/track/0nQ3fky5NxECcuMv4GqFaO"
+    },
+    {
+      "album": {
+        "name": "ZAXLOVE",
+        "url": "https://open.spotify.com/album/3Aw1ZrgGL5RYJ3vngXbget"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297520,
+      "name": "\u0e2b\u0e21\u0e32\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/3e1XS4ew4iuS2EdMFEWr7D"
     },
     {
       "album": {
@@ -22125,6 +22233,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
+        "url": "https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8"
+      },
+      "artists": [
+        {
+          "name": "NUTDAN",
+          "url": "https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179433,
+      "name": "\u0e40\u0e17\u0e2a\u0e14\u0e35 (Tasty)",
+      "url": "https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e16\u0e39\u0e01\u0e04\u0e49\u0e19\u0e1e\u0e1a (Finally She Found.)",
         "url": "https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm"
       },
@@ -22161,6 +22287,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e14\u0e19\u0e08\u0e31\u0e07(\u0e2b)\u0e27\u0e30 | Your Swipe, your vibe",
+        "url": "https://open.spotify.com/album/6f7yZIoetcRFK05PYB8wDx"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "\u0e42\u0e14\u0e19\u0e08\u0e31\u0e07(\u0e2b)\u0e27\u0e30 | Your Swipe, your vibe",
+      "url": "https://open.spotify.com/track/7ni6qZVu5iABDqH2itlXwd"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e25\u0e01\u0e08\u0e33\u0e25\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/6l1llI25E2QNq8rYXImlPY"
       },
@@ -22172,10 +22316,32 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 230180,
       "name": "\u0e42\u0e25\u0e01\u0e08\u0e33\u0e25\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/0qcMrwso3fjyMT3NPV4QX9"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e2d\u0e40\u0e04\u0e4a\u0e30? (Okay) [feat. Ice Paris]",
+        "url": "https://open.spotify.com/album/62kXHw6LvPEPDqALmZ0mFb"
+      },
+      "artists": [
+        {
+          "name": "JAYLERR",
+          "url": "https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F"
+        },
+        {
+          "name": "Ice Paris",
+          "url": "https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190429,
+      "name": "\u0e42\u0e2d\u0e40\u0e04\u0e4a\u0e30? (Okay) [feat. Ice Paris]",
+      "url": "https://open.spotify.com/track/5RG9aMHwKfU8BWpuef6yW4"
     },
     {
       "album": {
@@ -22266,7 +22432,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 223760,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e25\u0e22\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (I CHOOSE ME)",
       "url": "https://open.spotify.com/track/6u50hUsJ7FAbSkIabXaQ5A"

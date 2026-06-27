@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 168455,
+  "num_followers": 168470,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAQV7smVdcy5kRFoCx9iY2a",
+  "snapshot_id": "ajxvgAAAAADQWDNUmYYjGJKyq8BDE6g+",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 246286,
-      "name": "West Savannah",
-      "url": "https://open.spotify.com/track/5yTQ7Vy6EwKwB64Vho90LI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 237160,
       "name": "Spaghetti Junction",
       "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 246286,
+      "name": "West Savannah",
+      "url": "https://open.spotify.com/track/5yTQ7Vy6EwKwB64Vho90LI"
     },
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Khujo Goodie",
+          "url": "https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Gasoline Dreams (with Khujo Goodie)",
+      "url": "https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Swag, Vol. 2",
         "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 200971,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Khujo Goodie",
-          "url": "https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Gasoline Dreams (with Khujo Goodie)",
-      "url": "https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9"
     },
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Humble Mumble (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beat'n Down Yo Block (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 294760,
       "name": "Walk It Out - Remix",
       "url": "https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Humble Mumble (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
     },
     {
       "added_at": null,

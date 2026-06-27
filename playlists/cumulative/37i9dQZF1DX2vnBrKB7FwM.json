@@ -163,6 +163,28 @@
     },
     {
       "album": {
+        "name": "Bluzz",
+        "url": "https://open.spotify.com/album/1rWBQLisHHWNCd9AMWsqEV"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Oblivion's Mighty Trash",
+          "url": "https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169887,
+      "name": "Bluzz",
+      "url": "https://open.spotify.com/track/7dhkR65sPVPYCEgtyPPbk8"
+    },
+    {
+      "album": {
         "name": "Antesala",
         "url": "https://open.spotify.com/album/3qGctkbUxZLVKsKaF1Co3P"
       },

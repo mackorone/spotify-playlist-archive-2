@@ -1,12 +1,12 @@
 {
   "description": "Lancez la playlist et jetez vous \u00e0 l'eau !",
-  "num_followers": 333807,
+  "num_followers": 516090,
   "original_name": "Sous la douche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5Bx3E+GvwtsJltbyBdzv3gkD36",
+  "snapshot_id": "AAAAAPRMXvBdcXdPJR4q6p2Vm8/ScWQp",
   "tracks": [
     {
       "added_at": "2026-04-10 14:59:17",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
@@ -635,8 +635,8 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Gone Gone Gone",
-        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
       "artists": [
         {
@@ -644,17 +644,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 198004,
-      "name": "Gone Gone Gone",
-      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -691,22 +687,6 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Mini World",
-        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
-      },
-      "artists": [
-        {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Derni\u00e8re danse",
-      "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
-    },
-    {
-      "added_at": "2026-04-10 14:59:17",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -727,8 +707,24 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+        "name": "Mini World",
+        "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+      },
+      "artists": [
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Derni\u00e8re danse",
+      "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
+    },
+    {
+      "added_at": "2026-04-10 14:59:17",
+      "album": {
+        "name": "Gone Gone Gone",
+        "url": "https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz"
       },
       "artists": [
         {
@@ -736,13 +732,17 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+      "duration_ms": 198004,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd"
     },
     {
       "added_at": "2026-04-10 14:59:17",

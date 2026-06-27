@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205914,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ"
+    },
+    {
+      "album": {
         "name": "The Vantages",
         "url": "https://open.spotify.com/album/2JHUDX78JZ6Cq7XAjW0Q2l"
       },
@@ -28155,7 +28173,7 @@
     },
     {
       "album": {
-        "name": "FRONTIER SNOW",
+        "name": "Frontier Snow",
         "url": "https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2"
       },
       "artists": [
@@ -28168,7 +28186,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199960,
-      "name": "FRONTIER SNOW",
+      "name": "Frontier Snow",
       "url": "https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl"
     },
     {
@@ -56908,6 +56926,24 @@
       "duration_ms": 200480,
       "name": "Rebel Heart (another)",
       "url": "https://open.spotify.com/track/6i0wkBGhCfOq1QLmtsAk2Y"
+    },
+    {
+      "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/6UkFPm3iask9d6xcxwVYN9"
+      },
+      "artists": [
+        {
+          "name": "Riiver Brukes",
+          "url": "https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/6JCO2Sp295DrQi5Mu5Ix0t"
     },
     {
       "album": {

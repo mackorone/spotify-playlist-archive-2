@@ -1389,6 +1389,32 @@
     },
     {
       "album": {
+        "name": "BARBIE",
+        "url": "https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "rodrii",
+          "url": "https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi"
+        },
+        {
+          "name": "Hillkidd",
+          "url": "https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "BARBIE",
+      "url": "https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy"
+    },
+    {
+      "album": {
         "name": "Francisca La Braza",
         "url": "https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS"
       },
@@ -2658,6 +2684,24 @@
       "duration_ms": 188841,
       "name": "costas de coral",
       "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
+    },
+    {
+      "album": {
+        "name": "Creaci\u00f3n del Universo",
+        "url": "https://open.spotify.com/album/4oJZVumWIrvin4vDjaPRDz"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235402,
+      "name": "Creaci\u00f3n del Universo",
+      "url": "https://open.spotify.com/track/47CA0YZt3iDzoReDZoaQnG"
     },
     {
       "album": {
@@ -4717,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Hurry Hurry",
+      "url": "https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG"
+    },
+    {
+      "album": {
         "name": "H\u00e1blame de ti",
         "url": "https://open.spotify.com/album/1Q8yrmkBNEMLQ7d8OgHOp2"
       },
@@ -5200,7 +5262,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
@@ -7086,6 +7148,24 @@
       "duration_ms": 183973,
       "name": "Ola Adi\u00f3s",
       "url": "https://open.spotify.com/track/4Ko9JaLUvf54PmluMaDCqm"
+    },
+    {
+      "album": {
+        "name": "Otra noche m\u00e1s",
+        "url": "https://open.spotify.com/album/1e4RrYdH5aVr61Hc6Fl3I7"
+      },
+      "artists": [
+        {
+          "name": "Santa Musa",
+          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234448,
+      "name": "Otra noche m\u00e1s",
+      "url": "https://open.spotify.com/track/0yhEI3nX6zMtXsqBDFinAC"
     },
     {
       "album": {
@@ -9018,7 +9098,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 217021,
       "name": "Somos Dos",
       "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
@@ -10138,7 +10218,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 208329,
       "name": "V\u00e1mono",
       "url": "https://open.spotify.com/track/623mI2F1iCO4cqGbv6WUVn"
@@ -10316,7 +10396,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 202066,
       "name": "Window Seat",
       "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"

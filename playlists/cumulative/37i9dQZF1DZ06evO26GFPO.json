@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 147089,
       "name": "Fora de Si - Ao Vivo",
       "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
@@ -1384,6 +1384,36 @@
       "duration_ms": 196039,
       "name": "Meu Defeito",
       "url": "https://open.spotify.com/track/6bIfEba9GxPRhIdRmFz8zv"
+    },
+    {
+      "album": {
+        "name": "Mostra Tua For\u00e7a, Brasil",
+        "url": "https://open.spotify.com/album/4ck4gcRP7KnA1cRZOqxDkV"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119843,
+      "name": "Mostra Tua For\u00e7a, Brasil",
+      "url": "https://open.spotify.com/track/1Z2CgJ3mxCRXnT4jacGxFf"
     },
     {
       "album": {

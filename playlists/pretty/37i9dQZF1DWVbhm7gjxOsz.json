@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 135855,
+  "num_followers": 135919,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "La La Means I Love You",
-        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 203873,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 194226,
       "name": "Sitting In The Park",
       "url": "https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "La La Means I Love You",
+        "url": "https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 203873,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "All the Hits and More",
-        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
-      },
-      "artists": [
-        {
-          "name": "Shep And The Limelites",
-          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Daddy's Home",
-      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Dedicated to the Ones I Love, Vol. 2",
         "url": "https://open.spotify.com/album/136641IlsqgJbCADEqlwqp"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 231360,
       "name": "Tell It Like It Is",
       "url": "https://open.spotify.com/track/1d9KuwEUyhp1rH7psfJhml"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "All the Hits and More",
+        "url": "https://open.spotify.com/album/4i54vVa9fnFTlGpFSh10Wc"
+      },
+      "artists": [
+        {
+          "name": "Shep And The Limelites",
+          "url": "https://open.spotify.com/artist/3xaiq6cHhYX5xclwRkT6Jf"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "Daddy's Home",
+      "url": "https://open.spotify.com/track/2Vr3XMnJyu60xBUUchWUrI"
     },
     {
       "added_at": "2025-05-23 07:54:59",

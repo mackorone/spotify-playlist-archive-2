@@ -1699,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+    },
+    {
+      "album": {
         "name": "Dead Inside (feat. David Draiman of Disturbed)",
         "url": "https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w"
       },

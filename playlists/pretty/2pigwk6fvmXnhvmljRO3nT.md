@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,459 songs - 21 day 13 hr 15 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,463 songs - 21 day 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8467,5 +8467,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8457 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 |
 | 8458 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
 | 8459 | [KISS KISS KISS \(Feat\. SUNWOO \(THE BOYZ\)\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/1alWuqrk1v7xzECNR8ovRo) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [SUNWOO](https://open.spotify.com/artist/27Uaxd3EmAW0Hl3Atpf74q) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:38 |
+| 8460 | [Pop this Heat](https://open.spotify.com/track/0U1uQvYa0FTXSadLoBe4tE) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EXPERIMENTAL RAP](https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22) | 1:56 |
+| 8461 | [¥ \(Yen\)](https://open.spotify.com/track/10D52Ymf8mtTvPPdQ5HIyS) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EXPERIMENTAL RAP](https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22) | 2:00 |
+| 8462 | [Burning Hammer](https://open.spotify.com/track/5C7TRctHokAGPz1JHAxgx7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EXPERIMENTAL RAP](https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22) | 3:13 |
+| 8463 | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/track/3jnYCrF7UpSYAwwy1URW8d) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 3:10 |
 
-Snapshot ID: `AAAMHWRnjZy5WY/uxFg0HOO+u3POTRHh`
+Snapshot ID: `AAAMIXaipTL6+sHlLVOf47dg+MrWdhK0`

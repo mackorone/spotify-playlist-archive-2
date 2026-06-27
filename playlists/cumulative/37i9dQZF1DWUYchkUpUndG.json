@@ -59591,6 +59591,24 @@
     },
     {
       "album": {
+        "name": "His Presence",
+        "url": "https://open.spotify.com/album/5ZnYVbZkzGgb9V1o3YXrqq"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 880486,
+      "name": "His Presence",
+      "url": "https://open.spotify.com/track/4l5FnTX9O8hUhWFB91EdqR"
+    },
+    {
+      "album": {
         "name": "His Presence My Dwelling Place",
         "url": "https://open.spotify.com/album/0ENwEX6tcPhDJiLg93Zq6y"
       },
@@ -70675,7 +70693,7 @@
         },
         {
           "name": "The Good Wine",
-          "url": "https://open.spotify.com/artist/4zAIwqmbzqg6T8F0jfbcq6"
+          "url": "https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj"
         }
       ],
       "date_added": "2026-06-26",
@@ -149047,24 +149065,6 @@
     },
     {
       "album": {
-        "name": "Intimacy (Worship Night Ottawa)",
-        "url": "https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ojo",
-          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -157040,6 +157040,28 @@
       "duration_ms": 1023503,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/5N9pjQ7A0Jb37wjAquMCYD"
+    },
+    {
+      "album": {
+        "name": "Intimacy (Worship Night Ottawa)",
+        "url": "https://open.spotify.com/album/33PF9ACY0xsHQv4y5xZR6r"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309473,
+      "name": "We Want More - Live",
+      "url": "https://open.spotify.com/track/29yiihojfcl5zkMWUrH86o"
     },
     {
       "album": {

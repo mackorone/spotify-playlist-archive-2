@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 202903,
       "name": "Little Black Cat",
       "url": "https://open.spotify.com/track/4xuiFs4ybA9EVHaNhUomsX"
@@ -1948,6 +1948,24 @@
       "duration_ms": 175342,
       "name": "Tempo (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
+    },
+    {
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190083,
+      "name": "That GRRRL",
+      "url": "https://open.spotify.com/track/0oHri1omd5Y4p394zQQiOs"
     },
     {
       "album": {

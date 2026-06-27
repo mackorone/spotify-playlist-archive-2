@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 252450,
+  "num_followers": 252496,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Los Remixes 2.0",
         "url": "https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Duelo de Sonoras",
         "url": "https://open.spotify.com/album/6cKW6XlgLPzuNM0f7emBjY"
       },
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Super Grupo Colombia - Aut\u00e9nticos Embajadores De La Cumbia",
+        "url": "https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg"
       },
       "artists": [
         {
@@ -568,25 +568,9 @@
           "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 248857,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Como un Dulce Poema, Vol. 3",
-        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
-      },
-      "artists": [
-        {
-          "name": "Rossy War y Su Banda Kaliente",
-          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
-        }
-      ],
-      "duration_ms": 249773,
-      "name": "Nunca Pense Llorar",
-      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
+      "duration_ms": 241083,
+      "name": "Cumbia De Los Estados",
+      "url": "https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -603,6 +587,22 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Como un Dulce Poema, Vol. 3",
+        "url": "https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY"
+      },
+      "artists": [
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        }
+      ],
+      "duration_ms": 249773,
+      "name": "Nunca Pense Llorar",
+      "url": "https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -639,8 +639,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Super Grupo Colombia - Aut\u00e9nticos Embajadores De La Cumbia",
-        "url": "https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg"
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 241083,
-      "name": "Cumbia De Los Estados",
-      "url": "https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D"
+      "duration_ms": 248857,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
-      },
-      "artists": [
-        {
-          "name": "Sonora Tropicana",
-          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
+        "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 244963,
+      "name": "Que Nadie Sepa Mi Sufrir",
+      "url": "https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "La Monjita Voladora - Cumbia Sonidera",
         "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
       },
@@ -1543,38 +1559,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "20 Exitos Originales 20",
-        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Que Nota",
-          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "El Amor de la Nena",
-      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "M\u00fasica Tropical de Colombia (Vol. 11)",
-        "url": "https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 244963,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Tus Jefes No Me Quieren",
         "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 224256,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "20 Exitos Originales 20",
+        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Que Nota",
+          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "El Amor de la Nena",
+      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Serie 20 Exitos Los Yes Yes",
         "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 313613,
       "name": "El Verde De Tus Ojos",
       "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "Con Musica Del Barrio y Para El Barrio",
+        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "El Baile De San Juan",
+      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Conga Y Timbal",
         "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 266866,
       "name": "El Diario De Un Borracho",
       "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Con Musica Del Barrio y Para El Barrio",
-        "url": "https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "El Baile De San Juan",
-      "url": "https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Disco De Oro Sonidero",
         "url": "https://open.spotify.com/album/7KLAFeMq5gDBHhl1mM8ur1"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 221610,
       "name": "Cumbia De Los Patos",
       "url": "https://open.spotify.com/track/1PWsrogVaU1Om4XHcCtrso"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Alma De Acero",
-      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/7Ibdi3zT6t4mmzCGsjxwN3"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Alma De Acero",
+      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
     },
     {
       "added_at": "2024-07-10 22:10:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,504 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,517 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 6 | [Les moutons](https://open.spotify.com/track/5qcHNtNeQWSEVTeIwBLwss) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:48 |
 | 7 | [Les hommes que j'aime](https://open.spotify.com/track/7ebyGGBvIus0ZgdbzcXweL) | [La Rue Kétanou](https://open.spotify.com/artist/5RJtcUSgNu7Y3X9YmZDci9) | [Y'a des cigales dans la fourmilière](https://open.spotify.com/album/5ojDgFtBuoqDYUky82np4Z) | 3:33 |
 | 8 | [J'veux du soleil](https://open.spotify.com/track/0L4JEAhghqIcwjVyMJv8Yw) | [Au P'Tit Bonheur](https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b) | [Le Mal De Vivre](https://open.spotify.com/album/2LE9YgAyu2SdcqsmXI6hgE) | 3:02 |
-| 9 | [Toujours \(Et Toujours\)](https://open.spotify.com/track/4CQl5fRLrMnYtqNhJQHrEm) | [Massilia Sound System](https://open.spotify.com/artist/6OQvEmzlyemB8CjQGgIKqr) | [Òai E Libertat](https://open.spotify.com/album/1pIVpF6nz2h15csekrsiAQ) | 4:35 |
-| 10 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
+| 9 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
+| 10 | [Toujours \(Et Toujours\)](https://open.spotify.com/track/4CQl5fRLrMnYtqNhJQHrEm) | [Massilia Sound System](https://open.spotify.com/artist/6OQvEmzlyemB8CjQGgIKqr) | [Òai E Libertat](https://open.spotify.com/album/1pIVpF6nz2h15csekrsiAQ) | 4:35 |
 | 11 | [À L'oreille De Ta Femme](https://open.spotify.com/track/4NTdqMKbZI1JPwces4RvTh) | [As De Trêfle](https://open.spotify.com/artist/1v1DtvaEK5hAu2B0quJPSz) | [Houlala](https://open.spotify.com/album/32KAnGJ6ZXdRMYf1lQTGMT) | 3:04 |
 | 12 | [Le capitaine de la barrique](https://open.spotify.com/track/68Mw9GeJ5pZHWKqeGtcIMu) | [La Rue Kétanou](https://open.spotify.com/artist/5RJtcUSgNu7Y3X9YmZDci9) | [Allons voir](https://open.spotify.com/album/6k0KTrq6hayLwdIQOfCtcq) | 3:37 |
 | 13 | [Mon amant de St Jean](https://open.spotify.com/track/14d5gJKVmRqhWw2HWNmWuW) | [Les Croquants](https://open.spotify.com/artist/44tWbf1N3hZlP5bswGsn3g) | [Ça sent la bière](https://open.spotify.com/album/4jiVmehxYLlZCjHHzK33wW) | 3:01 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 32 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 |
 | 33 | [Dimanche \(Caresse\-moi\)](https://open.spotify.com/track/0ZewOkbhf4HS0lVk264p0v) | [Yves Jamait](https://open.spotify.com/artist/1K1P7X1G6brqCjsZeKOMNR) | [De Verre En Vers](https://open.spotify.com/album/0xQjEocsjHDGBb4JbO0Q6z) | 5:36 |
 | 34 | [Don Diego 2000](https://open.spotify.com/track/5g9HzwqUa3kS1Vmi2kSpkD) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO) | [Western Sous La Neige](https://open.spotify.com/album/7n3bwYHPBrnRBb7jWYdySY) | 3:32 |
-| 35 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 |
-| 36 | [Léon](https://open.spotify.com/track/3DgehxFcYGW4kipAOat5Ri) | [Karpatt](https://open.spotify.com/artist/7qU5BoLb02tqeIwv5zUs0e), [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP) | [Dans le caillou](https://open.spotify.com/album/5wMUU2L9v1euXsqWLE4lgM) | 5:25 |
+| 35 | [Léon](https://open.spotify.com/track/3DgehxFcYGW4kipAOat5Ri) | [Karpatt](https://open.spotify.com/artist/7qU5BoLb02tqeIwv5zUs0e), [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP) | [Dans le caillou](https://open.spotify.com/album/5wMUU2L9v1euXsqWLE4lgM) | 5:25 |
+| 36 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 |
 | 37 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements d'Léo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 |
 | 38 | [Les embouteillages](https://open.spotify.com/track/0H1Ih7vJhcoU4yy6XPXvrF) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Tango Des Gens](https://open.spotify.com/album/14VGXNhq3B646I7GWaXo9D) | 3:08 |
 | 39 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |

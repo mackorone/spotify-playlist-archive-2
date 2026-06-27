@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Jenevieve",
+  "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Omarion",
   "name": "Channel-X",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 185939,
       "name": "**GOLIATH**",
       "url": "https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 158338,
       "name": "Baddest In The Room",
       "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
@@ -10455,6 +10455,28 @@
     },
     {
       "album": {
+        "name": "O2 - Part 1",
+        "url": "https://open.spotify.com/album/38fs18fUgnA1ESHegI7OXG"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212271,
+      "name": "I Could Do It",
+      "url": "https://open.spotify.com/track/7AEJOlZZamhM9I32JUsNnF"
+    },
+    {
+      "album": {
         "name": "I Did This To Myself",
         "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
       },
@@ -11272,6 +11294,28 @@
       "duration_ms": 164206,
       "name": "IS IT",
       "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
     },
     {
       "album": {
@@ -15422,7 +15466,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 132773,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
@@ -15810,6 +15854,24 @@
       "duration_ms": 177813,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
+    },
+    {
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/0Had0RbdGN44yC2zoYXA8Z"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176297,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8"
     },
     {
       "album": {
@@ -18742,6 +18804,24 @@
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "album": {
@@ -22850,7 +22930,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 168000,
       "name": "The One",
       "url": "https://open.spotify.com/track/0TswJg2ULEl2Otrfvqamri"

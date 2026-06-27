@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: リアナ・フローレス
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,237 likes - 109 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,264 likes - 109 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: sombr
 
-2,317 songs - 4 day 21 hr 49 min
+2,318 songs - 4 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 | 2025-11-06 | 2025-12-05 |
 | [Die Living](https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Die Living](https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl) | 2:50 | 2026-03-19 | 2026-04-18 |
 | [Die Maschine](https://open.spotify.com/track/1Q2uov0aJcwzcGbDr1aDT0) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Friedrich Liechtenstein](https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV) | [Die Maschine](https://open.spotify.com/album/6a0AmCr0hnHYZp9FzQMw2i) | 8:47 | 2024-09-05 | 2024-09-20 |
+| [Die Next To You](https://open.spotify.com/track/5gTLztYL2Mytq5EVPFeGxE) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Die Next To You](https://open.spotify.com/album/1KxbHOU842mZkbciseNI0i) | 3:33 | 2026-06-26 |  |
 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 | 2025-10-16 | 2025-11-14 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 | 2024-09-13 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-08 | 2024-09-06 |
@@ -1027,7 +1028,7 @@
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-08 | 2026-02-06 |
 | [I just wanna be happy](https://open.spotify.com/track/2aFPZQGmRmp3vUhiclA3r0) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [I just wanna be happy](https://open.spotify.com/album/32UHmeBh71WnfehWxbCS0g) | 2:34 | 2026-03-13 | 2026-04-10 |
 | [i kinda like how u know just how beautiful u are](https://open.spotify.com/track/4tjaq94p36aOoFwwdKhmGt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [getting up to no good](https://open.spotify.com/album/5CKpo0bDKwobUM6FzCqXVf) | 2:31 | 2026-03-26 | 2026-04-24 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I know love \(feat\. The Kid LAROI\)](https://open.spotify.com/track/4xvEn1vhrF9JbPFWqTXsH4) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:36 | 2025-02-20 | 2025-03-21 |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-03-26 | 2026-04-24 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 | 2024-08-30 |
@@ -2093,7 +2094,6 @@
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-12 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-31 | 2025-11-28 |
-| [Track 3](https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 0:00 | 2026-06-26 |  |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-10-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 | 2025-10-24 |
@@ -2257,6 +2257,7 @@
 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-10-10 | 2024-11-08 |
 | [Wish I Could Be Perfect](https://open.spotify.com/track/5ANfzVBhc558TemhWXAPEK) | [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Wish I Could Be Perfect](https://open.spotify.com/album/5Xo6kx0jNoAn8HjG7pSPUR) | 3:15 | 2025-04-17 | 2025-05-16 |
 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 | 2026-01-15 | 2026-02-13 |
+| [Wish Upon A Sun](https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 3:01 | 2026-06-26 |  |
 | [With Me](https://open.spotify.com/track/2suQhCn72hzEVDJjr88yr7) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [With Me](https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub) | 3:17 | 2025-02-20 | 2025-03-21 |
 | [With or Without Her](https://open.spotify.com/track/1uqpfYvgmiBbmEFeknLkxm) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [With or Without Her](https://open.spotify.com/album/1MsL1dBi7QIaPbmN9md0wA) | 3:55 | 2025-12-18 | 2026-01-23 |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 | 2025-02-07 |

@@ -1,13 +1,33 @@
 {
-  "description": "Turn this playlist all the way up! Featuring Fenix Flexin, Shaboozey, LUCKI &amp; more.",
-  "num_followers": 33489,
+  "description": "Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.",
+  "num_followers": 33478,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAcdiSU459USnir0kgEnWdOLaxzaJ1v",
+  "snapshot_id": "AAAceexSJwkgXAVYZzpw/PE+576Y3QvI",
   "tracks": [
+    {
+      "added_at": "2026-06-26 21:20:54",
+      "album": {
+        "name": "AND WON'T (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 194321,
+      "name": "AND WON'T (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB"
+    },
     {
       "added_at": "2026-06-08 23:36:08",
       "album": {

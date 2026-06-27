@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAs0g7sI34ZiiAmKIfhHZtF",
+  "snapshot_id": "ajxvgAAAAADvvhajVjGSGfhF2Agvkjz0",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a Bailar",
-        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 165098,
-      "name": "Vamos a Bailar",
-      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Calentura",
-        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
+        "name": "Vamos a Bailar",
+        "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184693,
-      "name": "La Calentura",
-      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+      "duration_ms": 165098,
+      "name": "Vamos a Bailar",
+      "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS!",
-        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "El cari\u00f1o que perd\u00ed",
-      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORRIDOS!",
+        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "El cari\u00f1o que perd\u00ed",
+      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
-        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "El se\u00f1or de las canas",
-      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Califas y Sus Cumbias Calientes, Vol. 1",
         "url": "https://open.spotify.com/album/5oPRkto48eDXdlHehBWY4I"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 181413,
       "name": "Mu\u00e9veme el Pollo",
       "url": "https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "El se\u00f1or de las canas",
+      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Banda",
-        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Lo Mejor Desde Durango",
         "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 252866,
       "name": "Si la Ves",
       "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Banda",
+        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100% Tropical, Vol. 6",
         "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 199160,
       "name": "Con la Manito Arriba",
       "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
     },
     {
       "added_at": null,

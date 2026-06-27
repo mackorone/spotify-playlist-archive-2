@@ -667,6 +667,28 @@
     },
     {
       "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/0L7dpG5vvfPxrhJnEZ5zg1"
+    },
+    {
+      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -682,7 +704,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 175506,
       "name": "How Far I'll Go - Alessia Cara Version",
       "url": "https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq"
@@ -1814,6 +1836,52 @@
       "duration_ms": 210320,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "John Tui",
+          "url": "https://open.spotify.com/artist/69XaatjV0JGyVVIkKmtqvT"
+        },
+        {
+          "name": "Frankie Adams",
+          "url": "https://open.spotify.com/artist/7DozgCTpdKqK21VvEJQK10"
+        },
+        {
+          "name": "Emma Puahi-Shapazian",
+          "url": "https://open.spotify.com/artist/1Cg0Dc174JaygDJJScdgpT"
+        },
+        {
+          "name": "Amaya Masoli",
+          "url": "https://open.spotify.com/artist/3LHR7wAU72aBQGn1F5tK3c"
+        },
+        {
+          "name": "Rena Owen",
+          "url": "https://open.spotify.com/artist/6Dafb6Wwn8a120IfghVSqe"
+        },
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221133,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/5B9NXrba4LAq1oaABEe9ML"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9fDcF6S4tuJ"

@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 367436,
+  "num_followers": 367595,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAADuTv/mxJlpK2IXAAjUav39",
+  "snapshot_id": "ajxvgAAAAACW8oUDMQWDJLft6aaWyhyc",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piedras a la Luna",
         "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 178252,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Primer D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 190876,
-      "name": "Mi Primer D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+      "duration_ms": 216765,
+      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
+      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-        "url": "https://open.spotify.com/album/1sOJ96Wht6Sejoi0YgajvP"
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 216765,
-      "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
-      "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 127186,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
+      "duration_ms": 181701,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 181701,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
+      "duration_ms": 204246,
+      "name": "Traigo Saldo y Ganas de Rogar",
+      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
     },
     {
       "added_at": null,
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
       },
       "artists": [
         {
@@ -820,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 204246,
-      "name": "Traigo Saldo y Ganas de Rogar",
-      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
+      "duration_ms": 244125,
+      "name": "Soy De La Calle - En Vivo",
+      "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 176382,
       "name": "todo me vale madre",
       "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 244125,
-      "name": "Soy De La Calle - En Vivo",
-      "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Nicole Sabouné
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,325 likes - 290 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,337 likes - 290 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

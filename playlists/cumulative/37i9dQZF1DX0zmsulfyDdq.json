@@ -3556,7 +3556,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 246566,
       "name": "Ronin's Theme",
       "url": "https://open.spotify.com/track/1jrDPGMuHm9MEDe8ooKD5N"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-27",
       "duration_ms": 144479,
       "name": "The Second Star to the Right",
       "url": "https://open.spotify.com/track/3gpIZfdsatptNlFaWezOME"
@@ -4424,6 +4424,24 @@
       "duration_ms": 110696,
       "name": "Trust in Me",
       "url": "https://open.spotify.com/track/7zQejxywqVxvAB56WVlJV6"
+    },
+    {
+      "album": {
+        "name": "Disney Ambient: Waves",
+        "url": "https://open.spotify.com/album/1ekSlGVIKdD4s13IRGtL3z"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280581,
+      "name": "Try Everything (Waves)",
+      "url": "https://open.spotify.com/track/4hlKeTPfUNk1VW55zrixF1"
     },
     {
       "album": {
@@ -4722,6 +4740,28 @@
       "duration_ms": 212631,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/3nveejcAcoLo0GbQ0meZ1K"
+    },
+    {
+      "album": {
+        "name": "Disney Ambient: Waves",
+        "url": "https://open.spotify.com/album/1ekSlGVIKdD4s13IRGtL3z"
+      },
+      "artists": [
+        {
+          "name": "Disney Ambient",
+          "url": "https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG"
+        },
+        {
+          "name": "Chantry Johnson",
+          "url": "https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "We Don't Talk About Bruno (Waves)",
+      "url": "https://open.spotify.com/track/7KiLMYFyaqqCrnSKLBnIL7"
     },
     {
       "album": {

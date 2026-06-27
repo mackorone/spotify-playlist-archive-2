@@ -2,9 +2,9 @@
 
 ### [No Cap \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWSq3HVpgrk0E)
 
-> The whole truth\. Cover: Latto
+> The whole truth\. Cover: Future
 
-85 songs - 4 hr 9 min
+87 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 | 2025-10-17 |  |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2025-10-17 | 2026-04-17 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-10-17 |  |
-| [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 | 2026-04-23 |  |
+| [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 | 2026-04-23 | 2026-06-27 |
 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 | 2026-04-09 |  |
 | [ORDER OF PROTECTION](https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:51 | 2026-01-16 |  |
 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-10-17 |  |
@@ -71,13 +71,15 @@
 | [Pattern](https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [\#FEDERAL++](https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU) | 2:33 | 2026-03-13 | 2026-04-17 |
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-10-17 | 2026-01-17 |
 | [PAYG](https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [PAYG](https://open.spotify.com/album/1auIHYagR2co2AFtmAKILv) | 2:38 | 2026-04-16 | 2026-05-13 |
-| [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-10-17 |  |
+| [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 | 2025-10-17 | 2026-06-27 |
 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 | 2025-10-17 |  |
+| [Radio](https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Radio](https://open.spotify.com/album/4Fdsn3xJZC7VwCsjzNz9jR) | 2:39 | 2026-06-26 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-10-17 |  |
 | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh) | 2:07 | 2025-10-17 | 2025-12-01 |
 | [Summertime](https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Summertime](https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk) | 1:49 | 2025-10-17 | 2025-12-06 |
 | [Tartan](https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Reekz MB](https://open.spotify.com/artist/4LZBcaTrA5ou6aW2OJzFza) | [Tartan](https://open.spotify.com/album/7lUojGh0Vop8CmHF69H7Ig) | 1:49 | 2025-10-17 | 2026-02-13 |
 | [Teenage Famous](https://open.spotify.com/track/4t8n6V5Lfl5ETENNmjqi9e) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz) | 2:09 | 2026-02-13 | 2026-02-28 |
+| [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 | 2026-06-26 |  |
 | [They Want To Be You \(feat\. Future\)](https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:47 | 2025-10-17 |  |
 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-10-17 |  |
 | [TOURMALINE](https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:53 | 2025-10-17 | 2026-03-10 |

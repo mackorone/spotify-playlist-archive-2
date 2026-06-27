@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11231,
+  "num_followers": 11234,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAAYHDHvKXwXtxbSA+G/HXOP",
+  "snapshot_id": "ajxvgAAAAAB3K1dictX52Sc1zdsI1JMW",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
+      "duration_ms": 252160,
+      "name": "Ever After",
+      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 252160,
-      "name": "Ever After",
-      "url": "https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB"
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 278750,
-      "name": "NATURE VIBRATION",
-      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+      "duration_ms": 278750,
+      "name": "NATURE VIBRATION",
+      "url": "https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY"
     },
     {
       "added_at": null,

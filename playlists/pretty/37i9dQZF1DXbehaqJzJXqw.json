@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 688908,
+  "num_followers": 689118,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-25 07:15:50",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
-      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
-    },
-    {
-      "added_at": "2026-06-25 07:15:50",
-      "album": {
         "name": "Little French Songs (Deluxe Version Without Videos)",
         "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 216282,
       "name": "Libert\u00e9",
       "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
+    },
+    {
+      "added_at": "2026-06-25 07:15:50",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "La chanson d'Orph\u00e9e (Manha Do Carnaval)",
+      "url": "https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf"
     },
     {
       "added_at": "2026-06-25 07:15:50",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-25 07:15:50",
       "album": {
-        "name": "Amourettes",
-        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
-      },
-      "artists": [
-        {
-          "name": "Les Chauds Lapins",
-          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Cette Nuit l\u00e0",
-      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
-    },
-    {
-      "added_at": "2026-06-25 07:15:50",
-      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 217880,
       "name": "Le Temps Qui Passe",
       "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
+    },
+    {
+      "added_at": "2026-06-25 07:15:50",
+      "album": {
+        "name": "Amourettes",
+        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
+      },
+      "artists": [
+        {
+          "name": "Les Chauds Lapins",
+          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
+        }
+      ],
+      "duration_ms": 150973,
+      "name": "Cette Nuit l\u00e0",
+      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2026-06-25 07:15:50",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-25 07:15:50",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
-      },
-      "artists": [
-        {
-          "name": "Leo Marjane",
-          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2026-06-25 07:15:50",
-      "album": {
         "name": "Venez donc chez moi",
         "url": "https://open.spotify.com/album/1yxOTyDqxGDFFPVBql7fHO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 180139,
       "name": "J\u2019aime Paris au mois de mai",
       "url": "https://open.spotify.com/track/1S9iKpZkOwa8DHfpf0I27l"
+    },
+    {
+      "added_at": "2026-06-25 07:15:50",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "Leo Marjane",
+          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2026-06-25 07:15:50",

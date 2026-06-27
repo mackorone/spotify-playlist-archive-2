@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 161 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 616 likes - 161 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 126 | [Porgy and Bess / Act 1: They pass by singin'](https://open.spotify.com/track/1QSZEQ3Gt2mDIUSWWrEucZ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Alvy Powell](https://open.spotify.com/artist/52MEZvMWG2WlE5xi0tkleP), [Nashville Symphony Orchestra](https://open.spotify.com/artist/5CmNgBR5IxvpiU5tQxc448), [John Mauceri](https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov) | [Gershwin: Porgy & Bess \- Original 1935 Production Version](https://open.spotify.com/album/2Yvy8qjOJFiiWb15ewp8bZ) | 1:46 |
 | 127 | [Hoping That Someday You'd Care](https://open.spotify.com/track/4jdQluOHX8m9z2VhMOVYrY) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/4jcSEGU3RShYe1XpvhPlBu) | [Strike Up the Band](https://open.spotify.com/album/0MqP11myzDu3b38z18Pz7y) | 2:56 |
 | 128 | [Ain't It Romantic?](https://open.spotify.com/track/5tL9zlMxfUfOL8cijwEDxe) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [George](https://open.spotify.com/artist/5ss7AB3vOyByi5PIcamf9t) | [George & Ira Gershwin's Oh, Kay!](https://open.spotify.com/album/0pMKrASsPZ2WZAfJGGr4TI) | 4:02 |
-| 129 | [Comes The Revolution](https://open.spotify.com/track/2cjbnAkDiwLnd3HwQlr9OT) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Michael & George: Feinstein Sings Gershwin](https://open.spotify.com/album/1P15fFRI4uK1OrkTWtqExH) | 0:57 |
-| 130 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 129 | [Beautiful](https://open.spotify.com/track/6RrNAmDgINN1Rlh4f4ZlME) | [Savanna Echo](https://open.spotify.com/artist/14X6fQ0syFLzFPEVw9hRiF) | [Popular Love](https://open.spotify.com/album/7JiHCf987tGaQP6FRyDWAz) | 4:43 |
+| 130 | [Comes The Revolution](https://open.spotify.com/track/2cjbnAkDiwLnd3HwQlr9OT) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Michael & George: Feinstein Sings Gershwin](https://open.spotify.com/album/1P15fFRI4uK1OrkTWtqExH) | 0:57 |
 | 131 | [Porgy & Bess Highlights](https://open.spotify.com/track/5jNJadfH3bwCA04RPBT1cx) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Veronica Dudarova](https://open.spotify.com/artist/2OH3nzQ3aq6YQfZLDnF5wN), [USSR State Symphony Orchestra](https://open.spotify.com/artist/1DMt4oqEDfdHBeoH3BD0bk) | [Gershwin: Porgy & Bess Highlights](https://open.spotify.com/album/0mJJzzmkTpnBSMcLVQ8vdY) | 16:47 |
 | 132 | [Put Me To The Test](https://open.spotify.com/track/35nR4t1rvjYOd6xoLsuCqg) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn Plays Jerome Kern](https://open.spotify.com/album/2VFVOgYzdHJk2TBeOg7SC9) | 3:31 |
 | 133 | [Anything For You](https://open.spotify.com/track/1XNuZQcbY6DSZYOp6O5lDm) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 2:45 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 160 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 161 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcVMxAAAAADkxMo0DDDopy3qEJxCbqGo`
+Snapshot ID: `AcVSKAAAAADgtCFgQpyvQqVOqmp8UEt0`

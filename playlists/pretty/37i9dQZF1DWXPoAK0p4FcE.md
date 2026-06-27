@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Uncle Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,328 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,333 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
 | 50 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 |
 
-Snapshot ID: `AAAAAMI//2y6uC15nNGYSLZJWQiXupR4`
+Snapshot ID: `AAAAAAYg+SeOiqdfhodfCDLDm+MNoJ1J`

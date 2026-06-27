@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,657 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,639 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 15 | [ganz oben](https://open.spotify.com/track/3xl8FXf7X8JRrhB3R9nvJa) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [kid kapri](https://open.spotify.com/artist/2fPTKvCZ1fEiDiuGFGMh2w), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L) | [ganz oben](https://open.spotify.com/album/1Ydrg8PZC2eSoUX2AnUuw7) | 2:18 |
 | 16 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 17 | [Odyssee](https://open.spotify.com/track/6N9keILCbcoWcstFBDrwND) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [nostalgia is killing me](https://open.spotify.com/album/5XTbH2tBeaNqTC4U9ABlW7) | 3:07 |
-| 18 | [Track 3](https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wofür es sich zu leben lohnt](https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E) | 0:00 |
+| 18 | [hausverbot](https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [wofür es sich zu leben lohnt](https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E) | 2:16 |
 | 19 | [Spring Luv / Pradatuch \(Live\) \| presented by OFFCULT](https://open.spotify.com/track/4oQVKXjMIIcVZEZyzsZCFb) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Spring Luv / Pradatuch \(Live\) \| presented by OFFCULT](https://open.spotify.com/album/4G4Ocozn4elLyQ08UKfzZB) | 2:28 |
 | 20 | [2x](https://open.spotify.com/track/6gY7aUuZ2vcWEB8ZLrrLrX) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs) | [2x](https://open.spotify.com/album/26k2itHEXCVgUnO38aFbz1) | 1:41 |
 | 21 | [LIEBE](https://open.spotify.com/track/5VSBmKQItts45sCFdW7Z7F) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [LIEBE](https://open.spotify.com/album/2lLTCsHzjPWvfVbe1bmV91) | 3:30 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 25 | [Halb 10 \(Wenn die Sonne untergeht\)](https://open.spotify.com/track/30QJipuagw0kQMaC3fDIof) | [Cesa](https://open.spotify.com/artist/18jpWyd82gxchhUrnZst8P) | [Halb 10 \(Wenn die Sonne untergeht\)](https://open.spotify.com/album/57UNtZU74cLXqqOr4bvbdV) | 1:56 |
 | 26 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
 | 27 | [HOLA PAPI](https://open.spotify.com/track/1rjLaNDKUzpMP8dvFvvIlo) | [Baran Kok](https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ) | [FAG LIFE](https://open.spotify.com/album/3ngAeljzM9FgIYl7K7cFgg) | 2:18 |
-| 28 | [Knutschen auf der Parkbank](https://open.spotify.com/track/4ykIk22caYVdMwa0u4hvHw) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Knutschen auf der Parkbank](https://open.spotify.com/album/0b0XGbnBxlOMaiXco0PIYQ) | 2:40 |
+| 28 | [Knutschen auf der Parkbank](https://open.spotify.com/track/4ykIk22caYVdMwa0u4hvHw) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A), [HugoBass303](https://open.spotify.com/artist/6XNqxmXgwyt8DMm3V5qJEe), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi), [boundxry](https://open.spotify.com/artist/1ptaodI1Jp1koSslcbGHEf) | [Knutschen auf der Parkbank](https://open.spotify.com/album/0b0XGbnBxlOMaiXco0PIYQ) | 2:40 |
 | 29 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 |
 | 30 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 | 31 | [So Abgefuckt](https://open.spotify.com/track/40T4YzVoD5w8OrKNwRgEn6) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [So Abgefuckt](https://open.spotify.com/album/4nqSKEz2mPuXrpK1O1ubGU) | 2:30 |

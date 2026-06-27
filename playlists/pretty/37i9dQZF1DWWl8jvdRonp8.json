@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 307061,
+  "num_followers": 307137,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -259,8 +259,8 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+        "name": "Quiereme",
+        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
+      "duration_ms": 247840,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -339,8 +339,8 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Quiereme",
-        "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 247840,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN"
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Como Tu Mujer - Banda",
-      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 227973,
       "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Como Tu Mujer - Banda",
+      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "Mi Eterno Amor Secreto (En Vivo)",
+        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 233728,
+      "name": "Mi Eterno Amor Secreto (En Vivo)",
+      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "Mi Eterno Amor Secreto (En Vivo)",
-        "url": "https://open.spotify.com/album/1uvg6zk4qCvm9oOrt73Dmi"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 233728,
-      "name": "Mi Eterno Amor Secreto (En Vivo)",
-      "url": "https://open.spotify.com/track/6u6d57Let06W838gmh7XKB"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Ya No Te Vayas",
-      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 196933,
       "name": "Mira Nomas",
       "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Ya No Te Vayas",
+      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Arrepentida Y Sola",
+      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 184840,
       "name": "Sigue Sin Mi",
       "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Arrepentida Y Sola",
-      "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Hablando Claro",
         "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 300013,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/4RliszqtnduxG1oafGlM7h"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 207293,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 183333,
       "name": "Si Ya No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/0EydsMxAQ1PufxYCApD48t"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Prefiero Ir Sola",
-      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "Nuestras Favoritas De Marco Antonio Solis",
         "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 162560,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Prefiero Ir Sola",
+      "url": "https://open.spotify.com/track/5volEhQzyrDIorTRnp4mrt"
     },
     {
       "added_at": "2026-03-10 01:21:38",

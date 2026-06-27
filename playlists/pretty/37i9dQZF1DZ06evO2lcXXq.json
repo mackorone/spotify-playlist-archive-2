@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 368954,
+  "num_followers": 368950,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajseAAAAAAA6iVmEi9VSu+h14+N1Dtsn",
+  "snapshot_id": "ajxvgAAAAAD/ldWt4iSFq53XYq3LGmG/",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 248386,
-      "name": "Still Rolling Stones",
-      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
+      "duration_ms": 254986,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 254986,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
+      "duration_ms": 248386,
+      "name": "Still Rolling Stones",
+      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
     },
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear (Live)",
-        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 308920,
-      "name": "Close - Live",
-      "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
+      "duration_ms": 179853,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },
       "artists": [
         {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+      "duration_ms": 308920,
+      "name": "Close - Live",
+      "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
     },
     {
       "added_at": null,

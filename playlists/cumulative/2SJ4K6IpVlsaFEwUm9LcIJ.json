@@ -15207,6 +15207,24 @@
     },
     {
       "album": {
+        "name": "The Acrobats",
+        "url": "https://open.spotify.com/album/5uzAsif3xMdnlwfaPNzfYx"
+      },
+      "artists": [
+        {
+          "name": "Helvetia",
+          "url": "https://open.spotify.com/artist/2nUbg56ljfs5oXyB1UNiY8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325213,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/2jUTmPJ6YU8197buZGWc5U"
+    },
+    {
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC"
       },
@@ -18162,6 +18180,24 @@
       "duration_ms": 218892,
       "name": "Whoops",
       "url": "https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q"
+    },
+    {
+      "album": {
+        "name": "Northern Classic",
+        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
+      },
+      "artists": [
+        {
+          "name": "Donna Regina",
+          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Why Do You Ask",
+      "url": "https://open.spotify.com/track/0LFoXRQ74Z8xksGA1z9EVB"
     },
     {
       "album": {

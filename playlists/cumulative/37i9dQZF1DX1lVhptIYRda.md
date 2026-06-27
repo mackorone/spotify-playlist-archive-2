@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Shaboozey
+> Today's top country hits\. Cover: Cody Johnson
 
-1,012 songs - 2 day 6 hr 43 min
+1,014 songs - 2 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [American Dream](https://open.spotify.com/track/2Pu8DFczCsqckVgnxMfjHM) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [American Dream](https://open.spotify.com/album/5iHyb1R0cvb4jJURcsMqvL) | 4:12 | 2021-01-23 | 2021-01-30 |
 | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels \(Don’t Always Have Wings\)](https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf) | 3:20 | 2023-03-03 | 2023-09-30 |
 | [Another](https://open.spotify.com/track/16ayXVtAftZYobyrNsZUQv) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another](https://open.spotify.com/album/34lbLOjW3ub1GbC6fW6bUh) | 3:08 | 2020-11-22 | 2021-06-12 |
+| [Another Drink](https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Another Drink](https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2) | 2:33 | 2026-06-26 |  |
 | [Another Round](https://open.spotify.com/track/11VDLa4XbXDIPC6rxbpAy1) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Another Round](https://open.spotify.com/album/1cziB9zkAdtab5TMnmJ8sH) | 3:13 | 2023-12-29 | 2024-03-09 |
 | [Anybody But You](https://open.spotify.com/track/12qLkwjMVp1eTvHfjl2M5g) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Introducing: Lauren Watkins](https://open.spotify.com/album/7xZb3Il98QIiag803YmofH) | 3:05 | 2024-01-05 | 2024-04-06 |
 | [Anything but Yellow](https://open.spotify.com/track/7HDpJlJj7OSJKsKXjllJeV) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Anything but Yellow](https://open.spotify.com/album/0sXFSZWJgiIheiygxFhnXv) | 3:00 | 2019-07-13 | 2019-08-10 |
@@ -76,7 +77,7 @@
 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 | 2021-07-04 | 2022-01-08 |
 | [Back To Life](https://open.spotify.com/track/7Lr4XaxGpkAwa37IVgg22k) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Back To Life](https://open.spotify.com/album/3f45YnvjJazhk0Ena7CASK) | 3:34 | 2019-08-04 | 2019-11-02 |
 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 | 2025-01-10 | 2025-06-28 |
-| [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 | 2025-05-02 |  |
+| [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 | 2025-05-02 | 2026-06-27 |
 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 | 2025-02-28 | 2025-06-21 |
 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 | 2024-12-13 | 2025-11-08 |
 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 | 2025-03-28 | 2026-02-07 |
@@ -446,7 +447,7 @@
 | [I Hope](https://open.spotify.com/track/2Hc4t9N2nt37oO4sF9BynI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I Hope](https://open.spotify.com/album/35SOQhniusum2ewU72jdBh) | 3:29 | 2019-10-19 | 2020-06-20 |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2020-06-20 | 2020-06-29 |
 | [I Hope You’re Happy Now](https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Hope You’re Happy Now](https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu) | 3:18 | 2019-10-26 | 2020-08-08 |
-| [I Knew It, I Knew You](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
+| [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 | 2026-06-05 |  |
 | [I Know I Know](https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [I Know I Know](https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA) | 2:39 | 2026-05-08 | 2026-06-06 |
 | [I Love My Country](https://open.spotify.com/track/16kqEZBfhhK8XlQpauKej1) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [I Love My Country](https://open.spotify.com/album/6HQLji6pkqG4guxd9YcFTP) | 3:04 | 2020-03-28 | 2020-09-26 |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2024-09-06 | 2025-10-18 |
@@ -762,6 +763,7 @@
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-04-29 | 2023-02-11 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2021-12-31 | 2022-10-01 |
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-06-23 | 2023-08-26 |
+| [Shoot The Bull](https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 3:04 | 2026-06-26 |  |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2022-03-11 | 2022-07-16 |
 | [Silverado](https://open.spotify.com/track/6jLDMzaH9pMs3JkMyS7BIj) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Silverado](https://open.spotify.com/album/7vwchn12FS7dWuaQ8N9peU) | 3:23 | 2020-11-07 | 2020-11-22 |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-05-17 | 2025-01-18 |
@@ -820,7 +822,7 @@
 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-09-23 | 2023-03-04 |
 | [Strangers](https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Strangers](https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq) | 3:31 | 2024-05-17 | 2024-10-12 |
 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 | 2022-01-28 | 2022-05-28 |
-| [String By](https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [String By](https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn) | 3:15 | 2026-02-20 |  |
+| [String By](https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [String By](https://open.spotify.com/album/1xyWDZIbW5NWpTGaSP6rYn) | 3:15 | 2026-02-20 | 2026-06-27 |
 | [Stutter](https://open.spotify.com/track/3ZvunC3FkxtVWhmiBGmlGM) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [When The Good Guys Win](https://open.spotify.com/album/4R6CBTblAXNOexIDEK4yNu) | 3:17 | 2019-05-26\* | 2019-06-30 |
 | [Summer In A Small Town](https://open.spotify.com/track/2WgY7GjYq1SLIgOLhqrczP) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Summer In A Small Town](https://open.spotify.com/album/0JubqhaKGIbLxtG8IUBG95) | 2:57 | 2021-09-18 | 2021-11-20 |
 | [Summer Time](https://open.spotify.com/track/7thHR3Kq23Djl0kED5GxEO) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Summer Time](https://open.spotify.com/album/3FSEnz3rAylZiOzasKGG5T) | 3:06 | 2020-06-21 | 2020-08-08 |
