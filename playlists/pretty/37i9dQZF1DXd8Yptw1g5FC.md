@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emir Can İğrek ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,003 likes - 139 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,033 likes - 139 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 105 | [I Don't Mind](https://open.spotify.com/track/2VKcDub5oYsu1oEn1jlCae) | [Lina Nikol](https://open.spotify.com/artist/7G3zlaTXtjBWn2hASxqLbg), [Baker Aaron](https://open.spotify.com/artist/0pffmnEZW76kNmoWm1hTYy) | [I Don't Mind](https://open.spotify.com/album/2zZkfyPENR6BsLK8bJ0Rz2) | 2:58 |
 | 106 | [Geri Ver](https://open.spotify.com/track/04IFNuEKPU3l6cUZcww6CA) | [Zai](https://open.spotify.com/artist/5URawBcnmJ9FkTqN44r5Hs) | [Geri Ver](https://open.spotify.com/album/7lNB08eWMVdBlgPpfY8qTS) | 1:52 |
 | 107 | [ARAYACAKSIN](https://open.spotify.com/track/14rWwiAyIcLqKIGV6W7IVQ) | [Vildan Demir](https://open.spotify.com/artist/4vVQT27AxqxfJG5CSo6q0l) | [ARAYACAKSIN](https://open.spotify.com/album/3mYwWHquOIgSdImlL5plny) | 2:40 |
-| 108 | [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 |
+| 108 | [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 |
 | 109 | [Senden Daha Güzel \(+1 Versiyon\)](https://open.spotify.com/track/1aU2VzUS72kdL0AymWWOta) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1), [Salih Korkut Peker](https://open.spotify.com/artist/0U06Mx18YYHYbjcrxvez2b), [Kaan Duzarat](https://open.spotify.com/artist/5mA77js8qqRbZqvmBo8uZy) | [Senden Daha Güzel \(+1 Versiyon\)](https://open.spotify.com/album/4u4TS39Uk4ibcqeNeVd1Ih) | 3:42 |
 | 110 | [Ka Mi İspadnala Moma Katerina](https://open.spotify.com/track/5gcIhQ6yFqHJXCB9PUn5E6) | [Gamze Matracı](https://open.spotify.com/artist/43ZcDzTBRLvZfp7K1yjBGY) | [Ka Mi İspadnala Moma Katerina](https://open.spotify.com/album/5nztOz1X6nlGM5opk2vo0i) | 3:16 |
 | 111 | [Tanrım Bana Bi' Şans](https://open.spotify.com/track/4RXRfeD0HN7JMD68MA97Jc) | [Umut Kaan Çakır](https://open.spotify.com/artist/6jHMgoD9shUnXLYjCvInAy) | [Tanrım Bana Bi' Şans](https://open.spotify.com/album/00Jd34h9CrXeODYblbFQEy) | 2:59 |

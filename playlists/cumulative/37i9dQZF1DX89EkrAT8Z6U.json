@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 141926,
       "name": "back in town!",
       "url": "https://open.spotify.com/track/3pEnjFkrJEgu6fi9NEYYsF"
@@ -5378,6 +5378,32 @@
       "duration_ms": 97188,
       "name": "Slump",
       "url": "https://open.spotify.com/track/7c3WeEXTZly72n38QzZdKL"
+    },
+    {
+      "album": {
+        "name": "SMOKE SZN",
+        "url": "https://open.spotify.com/album/2AWHfH57Lykf4pcaiQuRsF"
+      },
+      "artists": [
+        {
+          "name": "PACKGOD",
+          "url": "https://open.spotify.com/artist/4olRuzpHiCD9gG9B4QHEnr"
+        },
+        {
+          "name": "AVGOTDRIP",
+          "url": "https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06"
+        },
+        {
+          "name": "Softwilly",
+          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "SMOKE SZN",
+      "url": "https://open.spotify.com/track/0mRkCzt6l4eZV4HXTHB02Y"
     },
     {
       "album": {

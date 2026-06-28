@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Live Today, Love Tomorrow, Unite Forever 🫶🫶 It's the sound of Tomorrowland!
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,717 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,836 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -9089,6 +9089,24 @@
     },
     {
       "album": {
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/02bG1fDonGrUYyVlROGmUN"
+      },
+      "artists": [
+        {
+          "name": "Barrett Travis",
+          "url": "https://open.spotify.com/artist/0YcRbPdiHQpKPywZ6PlIXL"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/6AmJ4InbpIViUHKQZcOlLg"
+    },
+    {
+      "album": {
         "name": "Insamnia",
         "url": "https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL"
       },
@@ -13610,6 +13628,24 @@
       "duration_ms": 134803,
       "name": "No Kings",
       "url": "https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl"
+    },
+    {
+      "album": {
+        "name": "No Kisses",
+        "url": "https://open.spotify.com/album/6Igb7iyDgjzEtmFggFpGGR"
+      },
+      "artists": [
+        {
+          "name": "Un Rodo Cora",
+          "url": "https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119817,
+      "name": "No Kisses",
+      "url": "https://open.spotify.com/track/3g3gPeLfNB0V5qOLvQEaTK"
     },
     {
       "album": {

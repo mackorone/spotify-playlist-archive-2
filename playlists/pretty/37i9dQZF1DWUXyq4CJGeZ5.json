@@ -1,6 +1,6 @@
 {
   "description": "Piano music for fall vibes and autumnal moods.",
-  "num_followers": 82425,
+  "num_followers": 82421,
   "original_name": "Autumn Piano",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Little blue girl",
-        "url": "https://open.spotify.com/album/0XGqrSEMHcsJTSuhdn8IbA"
-      },
-      "artists": [
-        {
-          "name": "Luna Bauer",
-          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
-        }
-      ],
-      "duration_ms": 167647,
-      "name": "Little blue girl",
-      "url": "https://open.spotify.com/track/3pj9S5PnK0mEDIsjuCFr9U"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Infinity clouds",
         "url": "https://open.spotify.com/album/4G3fWb6LcxqeOo80HX9O8g"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 150705,
       "name": "Infinity clouds",
       "url": "https://open.spotify.com/track/3nWR11uRHUQ2aa6XqtPAfx"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Little blue girl",
+        "url": "https://open.spotify.com/album/0XGqrSEMHcsJTSuhdn8IbA"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "duration_ms": 167647,
+      "name": "Little blue girl",
+      "url": "https://open.spotify.com/track/3pj9S5PnK0mEDIsjuCFr9U"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Lightly",
-        "url": "https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2"
+        "name": "Volga",
+        "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
       },
       "artists": [
         {
-          "name": "Mika Chastain",
-          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+          "name": "Ivan Vladusic",
+          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
         }
       ],
-      "duration_ms": 127099,
-      "name": "Lightly",
-      "url": "https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN"
+      "duration_ms": 169374,
+      "name": "Volga",
+      "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Volga",
-        "url": "https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF"
+        "name": "Lightly",
+        "url": "https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2"
       },
       "artists": [
         {
-          "name": "Ivan Vladusic",
-          "url": "https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN"
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
         }
       ],
-      "duration_ms": 169374,
-      "name": "Volga",
-      "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
+      "duration_ms": 127099,
+      "name": "Lightly",
+      "url": "https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Better times",
-        "url": "https://open.spotify.com/album/0vXDqElEDfg9rc0PfA4VDb"
-      },
-      "artists": [
-        {
-          "name": "Delevski",
-          "url": "https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k"
-        }
-      ],
-      "duration_ms": 130808,
-      "name": "Better times",
-      "url": "https://open.spotify.com/track/18JB1Jm8SkaeVWn9a2P8fn"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "feels like home",
         "url": "https://open.spotify.com/album/6pN0ppTy0rliZ8OkoPBKmL"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 141252,
       "name": "feels like home",
       "url": "https://open.spotify.com/track/3v1M7kq2L1wgRKXgWuY3N3"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Better times",
+        "url": "https://open.spotify.com/album/0vXDqElEDfg9rc0PfA4VDb"
+      },
+      "artists": [
+        {
+          "name": "Delevski",
+          "url": "https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k"
+        }
+      ],
+      "duration_ms": 130808,
+      "name": "Better times",
+      "url": "https://open.spotify.com/track/18JB1Jm8SkaeVWn9a2P8fn"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
+        "name": "November Afternoon",
+        "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
+      },
+      "artists": [
+        {
+          "name": "Rudy Bloom",
+          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
+        }
+      ],
+      "duration_ms": 148549,
+      "name": "November Afternoon",
+      "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
         "name": "Mitternacht",
         "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
       },
@@ -1519,38 +1535,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "The Shades of Autumn",
-        "url": "https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh"
-      },
-      "artists": [
-        {
-          "name": "Emile Cerise",
-          "url": "https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS"
-        }
-      ],
-      "duration_ms": 128970,
-      "name": "The Shades of Autumn",
-      "url": "https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "November Afternoon",
-        "url": "https://open.spotify.com/album/3gnz8xSMPlA2lJxoPhb4oe"
-      },
-      "artists": [
-        {
-          "name": "Rudy Bloom",
-          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
-        }
-      ],
-      "duration_ms": 148549,
-      "name": "November Afternoon",
-      "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Sleeping Beauty",
         "url": "https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K"
       },
@@ -1567,50 +1551,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Yasashiku Genki",
-        "url": "https://open.spotify.com/album/7Juxx4SYSL1bLa1VrtRqCb"
+        "name": "The Shades of Autumn",
+        "url": "https://open.spotify.com/album/2W2E8WP1OYmuRQwGMvYZkh"
       },
       "artists": [
         {
-          "name": "Akane",
-          "url": "https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR"
+          "name": "Emile Cerise",
+          "url": "https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS"
         }
       ],
-      "duration_ms": 127000,
-      "name": "Yasashiku Genki",
-      "url": "https://open.spotify.com/track/3M9DFvDT781YoRODqwYCfh"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "A Silent Oath",
-        "url": "https://open.spotify.com/album/0qQ0rXO2B3i7OjevLUoMLC"
-      },
-      "artists": [
-        {
-          "name": "Oceane Bardot",
-          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "A Silent Oath",
-      "url": "https://open.spotify.com/track/11MlnFnD90ddpz50Pk5WND"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "Mourning Tree",
-        "url": "https://open.spotify.com/album/4fR5a9kZrhK34CpVDFD3WC"
-      },
-      "artists": [
-        {
-          "name": "Tom Kristiaan",
-          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "Mourning Tree",
-      "url": "https://open.spotify.com/track/58eofCGvNsWcSMxnjYZot7"
+      "duration_ms": 128970,
+      "name": "The Shades of Autumn",
+      "url": "https://open.spotify.com/track/7blT4n9pSyxii6V21KIJBB"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1631,6 +1583,54 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
+        "name": "A Silent Oath",
+        "url": "https://open.spotify.com/album/0qQ0rXO2B3i7OjevLUoMLC"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "A Silent Oath",
+      "url": "https://open.spotify.com/track/11MlnFnD90ddpz50Pk5WND"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Yasashiku Genki",
+        "url": "https://open.spotify.com/album/7Juxx4SYSL1bLa1VrtRqCb"
+      },
+      "artists": [
+        {
+          "name": "Akane",
+          "url": "https://open.spotify.com/artist/3cQWVFVI26yJH3HBVr25bR"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Yasashiku Genki",
+      "url": "https://open.spotify.com/track/3M9DFvDT781YoRODqwYCfh"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Mourning Tree",
+        "url": "https://open.spotify.com/album/4fR5a9kZrhK34CpVDFD3WC"
+      },
+      "artists": [
+        {
+          "name": "Tom Kristiaan",
+          "url": "https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Mourning Tree",
+      "url": "https://open.spotify.com/track/58eofCGvNsWcSMxnjYZot7"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
         "name": "Ce Qui Est Fait, Est Fait",
         "url": "https://open.spotify.com/album/4ef3Dcy5kkBykytirIsNDQ"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 176916,
       "name": "Ce Qui Est Fait, Est Fait",
       "url": "https://open.spotify.com/track/4ipUy1xohhoPajBFRQyPoT"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "Pourquoi",
-        "url": "https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z"
-      },
-      "artists": [
-        {
-          "name": "Hector Vall\u00c7e",
-          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Pourquoi",
-      "url": "https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Charleston",
-        "url": "https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG"
+        "name": "Pourquoi",
+        "url": "https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z"
       },
       "artists": [
         {
-          "name": "Tiny Rhino",
-          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
         }
       ],
-      "duration_ms": 142634,
-      "name": "Girandel",
-      "url": "https://open.spotify.com/track/4MMelETKhj2Da5bw2jgGe8"
+      "duration_ms": 178000,
+      "name": "Pourquoi",
+      "url": "https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1707,6 +1691,22 @@
       "duration_ms": 151000,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Charleston",
+        "url": "https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rhino",
+          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+        }
+      ],
+      "duration_ms": 142634,
+      "name": "Girandel",
+      "url": "https://open.spotify.com/track/4MMelETKhj2Da5bw2jgGe8"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Im L\u00e4rchenwald",
-        "url": "https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy"
-      },
-      "artists": [
-        {
-          "name": "Lev Monticelli",
-          "url": "https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0"
-        }
-      ],
-      "duration_ms": 167295,
-      "name": "Tagtraum",
-      "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Endurance",
         "url": "https://open.spotify.com/album/5wRG9WG9KDbZUQksAdD42N"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 143500,
       "name": "Endurance",
       "url": "https://open.spotify.com/track/5NTn9Mhu1xOh8jDGzhRNoP"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Im L\u00e4rchenwald",
+        "url": "https://open.spotify.com/album/6gzewSzvAZpe24mTDvmiNy"
+      },
+      "artists": [
+        {
+          "name": "Lev Monticelli",
+          "url": "https://open.spotify.com/artist/2PzaZCyLzfSqZN0Zy01Ys0"
+        }
+      ],
+      "duration_ms": 167295,
+      "name": "Tagtraum",
+      "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
+        "name": "Orangel",
+        "url": "https://open.spotify.com/album/4aoMGEzd9l0J16LZcd7pdb"
+      },
+      "artists": [
+        {
+          "name": "Biba Dupont",
+          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "Orangel",
+      "url": "https://open.spotify.com/track/6fAmI7T6PjgiMcandgJ6ab"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
         "name": "L'\u00e9t\u00e9 du C\u0153ur - La Petite Pluie d'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/1iszyfxF6bae0VNiXTVOWq"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 170193,
       "name": "L'\u00e9t\u00e9 du C\u0153ur - La Petite Pluie d'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/0REvq7uFumQghb3u2sRDp2"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
-        "name": "Orangel",
-        "url": "https://open.spotify.com/album/4aoMGEzd9l0J16LZcd7pdb"
-      },
-      "artists": [
-        {
-          "name": "Biba Dupont",
-          "url": "https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "Orangel",
-      "url": "https://open.spotify.com/track/6fAmI7T6PjgiMcandgJ6ab"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -1951,6 +1951,22 @@
       "duration_ms": 146054,
       "name": "L'autunno",
       "url": "https://open.spotify.com/track/34XblyhjvYRFtfaQQn0AnF"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "The Dancers",
+        "url": "https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bavota",
+          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
+        }
+      ],
+      "duration_ms": 157036,
+      "name": "The Dancers",
+      "url": "https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m"
     },
     {
       "added_at": "2026-05-22 10:12:36",
@@ -2003,22 +2019,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "The Dancers",
-        "url": "https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Bavota",
-          "url": "https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH"
-        }
-      ],
-      "duration_ms": 157036,
-      "name": "The Dancers",
-      "url": "https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Natsukashii",
         "url": "https://open.spotify.com/album/2pzip4UJYJKSM6FpptK3KR"
       },
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-05-22 10:12:36",
       "album": {
-        "name": "Fr\u00fchling",
-        "url": "https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb"
-      },
-      "artists": [
-        {
-          "name": "Auguste Blanc",
-          "url": "https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe"
-        }
-      ],
-      "duration_ms": 139663,
-      "name": "Fr\u00fchling",
-      "url": "https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf"
-    },
-    {
-      "added_at": "2026-05-22 10:12:36",
-      "album": {
         "name": "Ombre Claire",
         "url": "https://open.spotify.com/album/1xZLD1AQErKIbTunk21oOJ"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 133500,
       "name": "Ombre Claire",
       "url": "https://open.spotify.com/track/02QzPx82w6NYcj1XrBmDbY"
+    },
+    {
+      "added_at": "2026-05-22 10:12:36",
+      "album": {
+        "name": "Fr\u00fchling",
+        "url": "https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb"
+      },
+      "artists": [
+        {
+          "name": "Auguste Blanc",
+          "url": "https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Fr\u00fchling",
+      "url": "https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf"
     },
     {
       "added_at": "2026-05-22 10:12:36",

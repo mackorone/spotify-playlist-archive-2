@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 34439,
+  "num_followers": 34441,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAACEOpbl+HpBx0MM0msJtzyY",
+  "snapshot_id": "aj3BAAAAAAApQVG2L9o4fwqVIl+RDepS",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotionally Yours",
-        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "Emotionally Yours",
-      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 333133,
       "name": "You Got Your Hooks in Me",
       "url": "https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotionally Yours",
+        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "Emotionally Yours",
+      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message In The Music",
-        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 381013,
-      "name": "A Prayer",
-      "url": "https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 221600,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Message In The Music",
+        "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 381013,
+      "name": "A Prayer",
+      "url": "https://open.spotify.com/track/1Zmqt3nkQutv5X8ANO6YUE"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Identify Yourself",
-        "url": "https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 299933,
-      "name": "Sing A Happy Song",
-      "url": "https://open.spotify.com/track/3HsBtrErYQjxf4Pv2p05Oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Message In The Music",
         "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 380160,
       "name": "Message In Our Music",
       "url": "https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Identify Yourself",
+        "url": "https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 299933,
+      "name": "Sing A Happy Song",
+      "url": "https://open.spotify.com/track/3HsBtrErYQjxf4Pv2p05Oy"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelin' At The Speed Of Thought",
-        "url": "https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV"
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 268240,
-      "name": "Work on Me",
-      "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"
+      "duration_ms": 342826,
+      "name": "She's Only a Woman",
+      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+        "name": "Travelin' At The Speed Of Thought",
+        "url": "https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 342826,
-      "name": "She's Only a Woman",
-      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
+      "duration_ms": 268240,
+      "name": "Work on Me",
+      "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"
     },
     {
       "added_at": null,

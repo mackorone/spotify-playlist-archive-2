@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Bizarrap, Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,177 likes - 61 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,058 likes - 61 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [ROMO](https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [ROMO](https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci) | 2:51 |
 | 9 | [Intuición](https://open.spotify.com/track/47vYCMjh9YzQAvZSEFe7Uv) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr) | [Intuición](https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm) | 3:02 |
 | 10 | [Mas Mujeres](https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [La Casa Del Trap](https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi) | 4:20 |
-| 11 | [Ven Conmigo](https://open.spotify.com/track/1Iwb0Vf6uYL2Zys1SiTO6j) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Ven Conmigo](https://open.spotify.com/album/5SyoYI1kqC57pTJOvtaBxk) | 3:20 |
+| 11 | [Ven Conmigo](https://open.spotify.com/track/1Iwb0Vf6uYL2Zys1SiTO6j) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Ven Conmigo](https://open.spotify.com/album/5SyoYI1kqC57pTJOvtaBxk) | 3:20 |
 | 12 | [El Precio](https://open.spotify.com/track/1eJGR5UCd3a4Vur1Y6pfB0) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Loko Soñador](https://open.spotify.com/album/3n1583a5Lyd8sxiHCJYTWR) | 2:58 |
 | 13 | [VACAS FLACAS](https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [VACAS FLACAS](https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ) | 3:36 |
 | 14 | [SI SE ACABA EL MUNDO](https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [SI SE ACABA EL MUNDO](https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve) | 2:50 |

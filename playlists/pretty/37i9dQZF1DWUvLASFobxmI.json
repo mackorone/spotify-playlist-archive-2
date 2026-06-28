@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. ",
-  "num_followers": 530728,
+  "num_followers": 530755,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "El Peor De Mis Fracasos",
+        "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/1a6uJBZfQHnjZmVkmbCGqT"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 150440,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/7wAkHI64oZwGRY20OkaEX7"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "Por Mi Bien",
-        "url": "https://open.spotify.com/album/4aaPUnuOcSaF9nQqb1vyoP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 157705,
-      "name": "Por Mi Bien",
-      "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "El Peor De Mis Fracasos",
-        "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
+        "name": "Por Mi Bien",
+        "url": "https://open.spotify.com/album/4aaPUnuOcSaF9nQqb1vyoP"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 219733,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
+      "duration_ms": 157705,
+      "name": "Por Mi Bien",
+      "url": "https://open.spotify.com/track/7dy0dBzo5bvubzDwlaVhvm"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "TMS",
+        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Villegas",
+          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
+        }
+      ],
+      "duration_ms": 161824,
+      "name": "TMS",
+      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "Me Derrito",
         "url": "https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "TMS",
-        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Villegas",
-          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
-        }
-      ],
-      "duration_ms": 161824,
-      "name": "TMS",
-      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "Canelovers 2.0",
+        "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 138166,
+      "name": "Como Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "La Soluci\u00f3n",
         "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Canelovers 2.0",
-        "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 138166,
-      "name": "Como Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "Migajero",
         "url": "https://open.spotify.com/album/3NruGax4ExQKseJLZ9N2su"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "Necesito Amarte",
+        "url": "https://open.spotify.com/album/1ylx9NTc5rRkaBrY8XmJVD"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 176021,
+      "name": "Necesito Amarte",
+      "url": "https://open.spotify.com/track/02F1FWKWVEJfsJyXCgC645"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "TAN FACIL",
         "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
       },
@@ -955,38 +971,18 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Necesito Amarte",
-        "url": "https://open.spotify.com/album/1ylx9NTc5rRkaBrY8XmJVD"
+        "name": "Etapa Migajera",
+        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 176021,
-      "name": "Necesito Amarte",
-      "url": "https://open.spotify.com/track/02F1FWKWVEJfsJyXCgC645"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "Celos Enfermizos",
-        "url": "https://open.spotify.com/album/0qNnjHc7i5p5YoJhViSgAg"
-      },
-      "artists": [
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Celos Enfermizos",
-      "url": "https://open.spotify.com/track/7EqaHbY1uwWET2CwpCj1c2"
+      "duration_ms": 172202,
+      "name": "Etapa Migajera",
+      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1011,6 +1007,26 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "Celos Enfermizos",
+        "url": "https://open.spotify.com/album/0qNnjHc7i5p5YoJhViSgAg"
+      },
+      "artists": [
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Celos Enfermizos",
+      "url": "https://open.spotify.com/track/7EqaHbY1uwWET2CwpCj1c2"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "Etapa Migajera",
-        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "Etapa Migajera",
-      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "Fondo de Pantalla",
+        "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 148504,
+      "name": "Fondo de Pantalla",
+      "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "Con Los Ojos Cerrados",
         "url": "https://open.spotify.com/album/6IGg5yVMpBMZpgI02Ltb4f"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 189216,
       "name": "Todav\u00eda Te Siento",
       "url": "https://open.spotify.com/track/0b0XADKTOIv7Cz8um7WQ84"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "Fondo de Pantalla",
-        "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        },
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 148504,
-      "name": "Fondo de Pantalla",
-      "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "A Mi Padre",
+        "url": "https://open.spotify.com/album/6wBvh9HuwWLPor1djTnshv"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "A Mi Padre",
+      "url": "https://open.spotify.com/track/0fd4dNUudca1qMINEwSHm8"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "Lo Que He Vivido",
         "url": "https://open.spotify.com/album/0kuxo9eIeNjn0ONHSJMFPV"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 176120,
       "name": "Lo Que He Vivido",
       "url": "https://open.spotify.com/track/1m7H78jmbBzsXFrpIXfKL1"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "A Mi Padre",
-        "url": "https://open.spotify.com/album/6wBvh9HuwWLPor1djTnshv"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "A Mi Padre",
-      "url": "https://open.spotify.com/track/0fd4dNUudca1qMINEwSHm8"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Porte Fino",
-        "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fernandez",
-          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Porte Fino",
-      "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 171506,
       "name": "Gotas De Agua Dulce - Live",
       "url": "https://open.spotify.com/track/2GTj69Y6CI9UNjiFNRSb3C"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "Porte Fino",
+        "url": "https://open.spotify.com/album/3j4U4t9SGuYRL5RXg7FOGV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Porte Fino",
+      "url": "https://open.spotify.com/track/0HASNzmL0ZNhtqTuNqny9y"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Quiero Todo Contigo",
-        "url": "https://open.spotify.com/album/2TtszaHGbpbdZkXlEqZL3B"
-      },
-      "artists": [
-        {
-          "name": "5to Vuelo",
-          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
-        }
-      ],
-      "duration_ms": 153302,
-      "name": "Quiero Todo Contigo",
-      "url": "https://open.spotify.com/track/0edCp96eUKetRNogYSGg4d"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "Vivir con ella",
         "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 184960,
       "name": "Vivir con ella",
       "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "Quiero Todo Contigo",
+        "url": "https://open.spotify.com/album/2TtszaHGbpbdZkXlEqZL3B"
+      },
+      "artists": [
+        {
+          "name": "5to Vuelo",
+          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
+        }
+      ],
+      "duration_ms": 153302,
+      "name": "Quiero Todo Contigo",
+      "url": "https://open.spotify.com/track/0edCp96eUKetRNogYSGg4d"
     },
     {
       "added_at": "2026-06-26 06:59:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Guilherme e Benuto, Nattanzinho Lima com Xand Avião, Alok com Jennifer Lopez, DENNIS com MC Kevin o Chris e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,311,316 likes - 89 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,311,262 likes - 89 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Gemini\)
+> Trendy & Chill Korean R&B music\. \(Cover: Suen\(수엔\)\)
 
-921 songs - 2 day 0 hr 36 min
+922 songs - 2 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Dream](https://open.spotify.com/track/5J3tmPXDvzQfCMtYAmq6cy) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Dream](https://open.spotify.com/album/1lXV3YlEIxxyiP2AuG3LZB) | 3:43 | 2025-09-29 | 2025-10-18 |
 | [Dream](https://open.spotify.com/track/2QiqcWQBXB6PD14CvQHuIc) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Dream](https://open.spotify.com/album/6ySezBYVHuSk0eUqhiUYQD) | 3:49 | 2023-02-14 | 2023-02-25 |
 | [Dreaming of You \(Feat\. Sonny Zero\)](https://open.spotify.com/track/139QSany5ZxsIl7rtBXtDB) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Dreaming of You \(Feat\. Sonny Zero\)](https://open.spotify.com/album/2cpCpCjffiuk7NKYunIb81) | 3:40 | 2023-11-09 | 2023-11-18 |
-| [Dress Up](https://open.spotify.com/track/6XuKU63xHqFyNVfZ1BZWmQ) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Knight](https://open.spotify.com/album/3SrZkhjYp6FC0nGcLTYX24) | 2:14 | 2026-06-19 |  |
+| [Dress Up](https://open.spotify.com/track/6XuKU63xHqFyNVfZ1BZWmQ) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Knight](https://open.spotify.com/album/3SrZkhjYp6FC0nGcLTYX24) | 2:14 | 2026-06-19 | 2026-06-28 |
 | [DRIP](https://open.spotify.com/track/6TZDHtfAyLBrhS71qNofFG) | [Roydo](https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC) | [DRIP](https://open.spotify.com/album/6FRHKt7ZI6tmQOBle6EMPV) | 2:32 | 2023-02-14 | 2023-02-22 |
 | [DRIVE \(Feat\. Leellamarz\)](https://open.spotify.com/track/4fQZn3i96966kDpGotjvy1) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [DRIVE \(Feat\. Leellamarz\) \(Single Edition 2\)](https://open.spotify.com/album/6OVQlbKrHdQDJqzkxnj0oy) | 4:07 | 2022-05-09 | 2022-05-11 |
 | [Drunk at this night \(With noovv\)](https://open.spotify.com/track/5AcA1vakbQzFXq4HgbIsi9) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Noovv](https://open.spotify.com/artist/3ksWmDlBeF6Dnn3u36TUrT) | [Drunk at this night \(With noovv\)](https://open.spotify.com/album/3VfNUzMddAwX2yLp1b8HJO) | 3:06 | 2022-04-19 | 2022-04-28 |
@@ -316,6 +316,7 @@
 | [Gift \(feat\. Drake\)](https://open.spotify.com/track/4Kcb43AOZE71Wnk9ueVulW) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Gift](https://open.spotify.com/album/2AiGuLywlNPHz4O5iPvYY5) | 4:01 | 2025-12-18 | 2026-01-21 |
 | [Gifted \(Feat\. Diondre Jermaine\)](https://open.spotify.com/track/1QgBi0ZYvVbjK6b5oBrRUr) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Diondre Jermaine](https://open.spotify.com/artist/1P3N5YD2qetgv6uCz7l98P) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 2:40 | 2022-07-14 | 2022-07-25 |
 | [Gimme A Minute \(Feat\. CHUNG HA\)](https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:05 | 2024-10-08 | 2024-11-16 |
+| [Girlfriend \(with RAVI\)](https://open.spotify.com/track/2CcRyH6uzjyuGFDwpNfusO) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [Girlfriend](https://open.spotify.com/album/5UuEoJzmhcUiHSLhLwW5nB) | 2:32 | 2026-06-27 |  |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-04 | 2022-06-14 |
 | [Glow](https://open.spotify.com/track/0UEmje0mcVlqz1Cs2YloQl) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.6](https://open.spotify.com/album/6SUU76CAiFelXZCXITjoVC) | 2:40 | 2022-04-19 | 2022-04-21 |
 | [GMK \(feat\. CHANGMO\)](https://open.spotify.com/track/0vTiOnO5rVakyOhAskGO9J) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 2:40 | 2025-06-16 | 2025-07-09 |

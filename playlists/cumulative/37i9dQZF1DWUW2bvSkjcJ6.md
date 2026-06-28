@@ -4,7 +4,7 @@
 
 > Neue Musik von Esther Graf, Dani Lia, yola, reezy, Sam Smith, Juju & vielen mehr!
 
-9,595 songs - 19 day 13 hr 58 min
+9,595 songs - 19 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6807,6 +6807,7 @@
 | [RABBITHOLE](https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg) | 2:21 | 2024-08-22 | 2024-08-30 |
 | [Raccoons](https://open.spotify.com/track/5sLDF5I0lVyJmvVYZkIyyN) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Raccoons](https://open.spotify.com/album/1RxdlVSfOACHcfrwzOxQ5M) | 3:23 | 2026-05-21 | 2026-05-29 |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-06 | 2025-03-14 |
+| [Radio](https://open.spotify.com/track/5qvl2kV7sn1Y2wRJlJWjSO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:39 | 2026-06-26 |  |
 | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/track/5H38vBUsQxZcigRGIDeyv5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95), [KABU](https://open.spotify.com/artist/5PhcQriyzq4mSbzA1nPhFA) | [Radio \(feat\. Trippie Redd, Jessica Baio & KABU\)](https://open.spotify.com/album/7lG78BindCd8ADTzT3sADg) | 2:29 | 2025-02-27 | 2025-03-07 |
 | [Radio Silent](https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Radio Silent](https://open.spotify.com/album/5LOO5N92RXbd6Ch3PJ3qa3) | 2:31 | 2025-07-17 | 2025-07-25 |
 | [Ragazzo Solo Ragazza Sola](https://open.spotify.com/track/7zXcU8jaRcbeMJd0HyYTIr) | [Crucchi Gang](https://open.spotify.com/artist/3ArPx3d8MOwCmBx9UDkQig), [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV) | [Ombrelloni & Gru](https://open.spotify.com/album/6yN7FeLIP1PwbZq9fGku2f) | 4:02 | 2026-06-11 | 2026-06-19 |
@@ -8476,7 +8477,6 @@
 | [Toyota \(2016\)](https://open.spotify.com/track/6rdy1vGWSpfPxKnHujzMmY) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Toyota \(2016\)](https://open.spotify.com/album/6Wq84hoViqD2GBVqqVAaQJ) | 2:39 | 2025-01-02 | 2025-01-10 |
 | [TP](https://open.spotify.com/track/3rDYrvKA6bLhp6llXm9vOd) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [TP](https://open.spotify.com/album/32BZEkw7xTwB8zLnsm78ph) | 2:14 | 2025-01-23 | 2025-01-31 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-30 | 2025-11-07 |
-| [Track 11](https://open.spotify.com/track/5qvl2kV7sn1Y2wRJlJWjSO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 0:00 | 2026-06-26 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-07-19 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 | 2025-09-27 |

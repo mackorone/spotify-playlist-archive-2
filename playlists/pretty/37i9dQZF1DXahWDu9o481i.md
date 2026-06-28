@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Alvaro Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,770 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,784 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 53 | [2 C U](https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [2 C U](https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue) | 2:19 |
 | 54 | [BENJAMINS](https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [BENJAMINS](https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U) | 3:11 |
 | 55 | [Sekete](https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c) | [Sekete](https://open.spotify.com/album/1vFPEZJWV5hNVsaMORHPi1) | 3:04 |
-| 56 | [Stoner Music](https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Stoner Music](https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA) | 1:58 |
-| 57 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 |
+| 56 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 |
+| 57 | [Stoner Music](https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Stoner Music](https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA) | 1:58 |
 | 58 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
 | 59 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |
 | 60 | [Makwande](https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5) | [Loud Bloom](https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL) | 5:30 |

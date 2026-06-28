@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Juaduddanya",
+        "url": "https://open.spotify.com/album/1dSzUdVoMcAOnyAHUmMC4W"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247629,
+      "name": "Juaduddanya",
+      "url": "https://open.spotify.com/track/5ZzslTZYA6jDQ6bwjX4W6O"
+    },
+    {
+      "album": {
         "name": "Planetes",
         "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 185870,
       "name": "Lace",
       "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"

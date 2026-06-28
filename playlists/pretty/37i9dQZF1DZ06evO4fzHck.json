@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 607707,
+  "num_followers": 607925,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAAB3NLcHx4Wk3lZW4qeC92G1",
+  "snapshot_id": "aj3BAAAAAADSJoJKeTe6BhGW9uiAkYNP",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Head on the Door (Deluxed Edition)",
-        "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
+        "name": "Galore - The Singles 1987-1997",
+        "url": "https://open.spotify.com/album/3jRLyc2t1tExfVpdB88EUm"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Six Different Ways - 2006 Remaster",
-      "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+      "duration_ms": 362666,
+      "name": "Wrong Number",
+      "url": "https://open.spotify.com/track/3CL8XE5phBukwkjWqWQtEH"
     }
   ],
   "unique_name": "This Is The Cure",

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de junio 2026. Cover: Young Miko & Rauw Alejandro",
-  "num_followers": 1558964,
+  "num_followers": 1558985,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-06-25 19:56:26",
       "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
+    },
+    {
+      "added_at": "2026-06-25 19:56:26",
+      "album": {
         "name": "Euforia",
         "url": "https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2026-06-25 19:56:26",
       "album": {
-        "name": "amoureux",
-        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "amoureux",
-      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
-    },
-    {
-      "added_at": "2026-06-25 19:56:26",
-      "album": {
         "name": "Pa' la seca",
         "url": "https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ"
       },
@@ -359,6 +359,38 @@
       "duration_ms": 184961,
       "name": "Pa' la seca",
       "url": "https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll"
+    },
+    {
+      "added_at": "2026-06-25 19:56:26",
+      "album": {
+        "name": "Pu\u00f1aladas (Remix)",
+        "url": "https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz"
+      },
+      "artists": [
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Tote",
+          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Pu\u00f1aladas - Remix",
+      "url": "https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR"
     },
     {
       "added_at": "2026-06-25 19:56:26",
@@ -399,38 +431,6 @@
       "duration_ms": 162415,
       "name": "EA EA EA",
       "url": "https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak"
-    },
-    {
-      "added_at": "2026-06-25 19:56:26",
-      "album": {
-        "name": "Pu\u00f1aladas (Remix)",
-        "url": "https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz"
-      },
-      "artists": [
-        {
-          "name": "Lauta",
-          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        },
-        {
-          "name": "Tote",
-          "url": "https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Pu\u00f1aladas - Remix",
-      "url": "https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR"
     },
     {
       "added_at": "2026-06-25 19:56:26",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-06-25 19:56:26",
       "album": {
+        "name": "Ropa Cara",
+        "url": "https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB"
+      },
+      "artists": [
+        {
+          "name": "Yampi",
+          "url": "https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 193721,
+      "name": "Ropa Cara",
+      "url": "https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV"
+    },
+    {
+      "added_at": "2026-06-25 19:56:26",
+      "album": {
         "name": "No Quiero Que Se Acabe Este Bendito Verano",
         "url": "https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 138795,
       "name": "TUS AMIGAS",
       "url": "https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX"
-    },
-    {
-      "added_at": "2026-06-25 19:56:26",
-      "album": {
-        "name": "Ropa Cara",
-        "url": "https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB"
-      },
-      "artists": [
-        {
-          "name": "Yampi",
-          "url": "https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 193721,
-      "name": "Ropa Cara",
-      "url": "https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV"
     },
     {
       "added_at": "2026-06-25 19:56:26",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-25 19:56:26",
       "album": {
-        "name": "peque\u00f1ita!",
-        "url": "https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 159068,
-      "name": "peque\u00f1ita!",
-      "url": "https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC"
-    },
-    {
-      "added_at": "2026-06-25 19:56:26",
-      "album": {
         "name": "ANTES DE QUE SEA TARDE",
         "url": "https://open.spotify.com/album/7z513StymZaeATXNoCBeDr"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 175280,
       "name": "mientras pueDa",
       "url": "https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU"
+    },
+    {
+      "added_at": "2026-06-25 19:56:26",
+      "album": {
+        "name": "peque\u00f1ita!",
+        "url": "https://open.spotify.com/album/5lziRKWwHSbN8hFGfiNcXt"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 159068,
+      "name": "peque\u00f1ita!",
+      "url": "https://open.spotify.com/track/2O3SZqE5w9TPaI4PuH2rFC"
     },
     {
       "added_at": "2026-06-25 19:56:26",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-06-25 19:56:26",
       "album": {
-        "name": "Rojo Rub\u00ed",
-        "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Rojo Rub\u00ed",
-      "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
-    },
-    {
-      "added_at": "2026-06-25 19:56:26",
-      "album": {
         "name": "D\u00e9jame Entrar",
         "url": "https://open.spotify.com/album/256bVkeTRjNNDaZL1hOtUV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 250347,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/46kTKtI83CZZfGadbVe9Cu"
+    },
+    {
+      "added_at": "2026-06-25 19:56:26",
+      "album": {
+        "name": "Rojo Rub\u00ed",
+        "url": "https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Rojo Rub\u00ed",
+      "url": "https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI"
     },
     {
       "added_at": "2026-06-25 19:56:26",

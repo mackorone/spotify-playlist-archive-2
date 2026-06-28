@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 180000,
       "name": "ANASA",
       "url": "https://open.spotify.com/track/5prXcfHoW8nIij8nuc52kd"
@@ -12034,7 +12034,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 213750,
       "name": "CON CALMA",
       "url": "https://open.spotify.com/track/3vXDf3EBZ0gmz6rkMkM3po"
@@ -16208,7 +16208,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 243936,
       "name": "Eipes",
       "url": "https://open.spotify.com/track/1ibvHjnMqZZmayckoA4W5Y"
@@ -24028,7 +24028,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 188233,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4agkvRh2xfTlFPfJ5ZpRTQ"
@@ -30400,7 +30400,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 211200,
       "name": "KSANA",
       "url": "https://open.spotify.com/track/6NmGemgtgnXl8dzdZ5irAq"
@@ -31484,6 +31484,24 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
       "url": "https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX"
+    },
+    {
+      "album": {
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130093,
+      "name": "Lemonia",
+      "url": "https://open.spotify.com/track/3H30HSZsJIL6XK3a5bjQS6"
     },
     {
       "album": {
@@ -34894,7 +34912,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 174314,
       "name": "MATIA",
       "url": "https://open.spotify.com/track/6VpyXpen3OkhaNPjkMQhg3"
@@ -43376,7 +43394,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 208000,
       "name": "PARADISO",
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
@@ -48319,6 +48337,24 @@
     },
     {
       "album": {
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Rennsport",
+      "url": "https://open.spotify.com/track/3HV7UwjOdzxEmjw7kLRo5K"
+    },
+    {
+      "album": {
         "name": "CITY CENTER II",
         "url": "https://open.spotify.com/album/4Ro2IFgtV6FdHzC8bwmydk"
       },
@@ -52747,6 +52783,28 @@
     },
     {
       "album": {
+        "name": "Sta Kalitera Pou Elkontai (Agapate Katallilous)",
+        "url": "https://open.spotify.com/album/32QmrCVsuU8DqDaQNqw3Y2"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191379,
+      "name": "Sta Kalitera Pou Elkontai - Agapate Katallilous",
+      "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
+    },
+    {
+      "album": {
         "name": "STABA",
         "url": "https://open.spotify.com/album/48jUEMkqv3UVdWoxUsuDFb"
       },
@@ -56250,6 +56308,28 @@
       "duration_ms": 168875,
       "name": "Ti Leei?",
       "url": "https://open.spotify.com/track/34e66gxr3WH55OXLwqpsvi"
+    },
+    {
+      "album": {
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189700,
+      "name": "Ti Mou Menei",
+      "url": "https://open.spotify.com/track/7t72wsVlFwVn01ZcpVi7xs"
     },
     {
       "album": {
@@ -60694,6 +60774,28 @@
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "album": {
+        "name": "WHISKEY",
+        "url": "https://open.spotify.com/album/6oZZ68NrmgbxWbQJGJS2zo"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176843,
+      "name": "WHISKEY",
+      "url": "https://open.spotify.com/track/7y6Nl7g2lPJ3zP4RaN33DE"
     },
     {
       "album": {

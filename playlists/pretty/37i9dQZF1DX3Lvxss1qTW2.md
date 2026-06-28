@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Taves
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,059 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,127 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 17 | [Red Benz](https://open.spotify.com/track/4p1OLcAB4oDmhboqikTuHG) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Red Benz](https://open.spotify.com/album/4vqzeWLjVBjADTJT7wzERb) | 3:06 |
 | 18 | [Blasé](https://open.spotify.com/track/59wNMcbn0WWsQj5TnGEyrj) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Blasé](https://open.spotify.com/album/7B7V3zfuIULU6nXWmvgf6N) | 2:55 |
 | 19 | [Wish I Had a Girlfriend](https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Wish I Had a Girlfriend](https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw) | 2:48 |
-| 20 | [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 |
+| 20 | [GO GO!](https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [B4R&W TAPE](https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY) | 2:04 |
 | 21 | [Darkest Secrets](https://open.spotify.com/track/1Mqcx741E3t5MRLGRfMKA8) | [Uncle Bubu](https://open.spotify.com/artist/4gO0Opw7pQGFwqRXlsdEnY), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [telz](https://open.spotify.com/artist/44HiOLrR3zuZqBdTALvQa9) | [darkest secrets / CHAKAM](https://open.spotify.com/album/5bPOkxU0VV6Zs36F4xyKMk) | 3:21 |
 | 22 | [Ise Oluwa](https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Ise Oluwa](https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de) | 2:14 |
 | 23 | [SpaceFuji](https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [SpaceFuji](https://open.spotify.com/album/4RxCSlCAY89Xr8u3ad2OLP) | 3:19 |

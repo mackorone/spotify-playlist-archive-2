@@ -938,7 +938,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 127240,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
@@ -1628,10 +1628,32 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 195480,
       "name": "Joy Without Sound",
       "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "album": {
+        "name": "Joy Without Sound (Sam Binga Remix)",
+        "url": "https://open.spotify.com/album/1eEP9JSLS5XiSk4qciRKWm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292717,
+      "name": "Joy Without Sound - Sam Binga Remix",
+      "url": "https://open.spotify.com/track/1gRuebdmI6NTVTm4LhzCyY"
     },
     {
       "album": {
@@ -3476,7 +3498,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 113480,
       "name": "Warm Water (Interlude)",
       "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"

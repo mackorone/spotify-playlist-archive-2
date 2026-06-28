@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,893 likes - 67 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,022 likes - 67 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 66 | [Floating Through Solfeggio 852 Hz](https://open.spotify.com/track/4fNNIfCx89oWgl974GAWfH) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:11 |
 | 67 | [852hz Awaken your Intuition](https://open.spotify.com/track/0alIWUlJRDiiyOmq1y4uB1) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 4:50 |
 
-Snapshot ID: `AAAAAAukabIUFOFeRRt7z95xOKDLKP9Z`
+Snapshot ID: `AAAAAA6GMG/XiWE6wYH9sdxuNrhslNqo`

@@ -1,6 +1,6 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 59084,
+  "num_followers": 59130,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-06-24 14:14:02",
       "album": {
+        "name": "Tagde Karam",
+        "url": "https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Tagde Karam",
+      "url": "https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT"
+    },
+    {
+      "added_at": "2026-06-24 14:14:02",
+      "album": {
         "name": "ROAR",
         "url": "https://open.spotify.com/album/30WIZPazpfNErodEi7fulf"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 189032,
       "name": "Jaat Bagdo",
       "url": "https://open.spotify.com/track/5Ru5rYJwwQuj1iHEL0OWDK"
-    },
-    {
-      "added_at": "2026-06-24 14:14:02",
-      "album": {
-        "name": "Tagde Karam",
-        "url": "https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa"
-      },
-      "artists": [
-        {
-          "name": "Sumit Parta",
-          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Tagde Karam",
-      "url": "https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT"
     },
     {
       "added_at": "2026-06-24 14:14:02",
@@ -695,42 +695,6 @@
     {
       "added_at": "2026-06-24 14:14:02",
       "album": {
-        "name": "Whatcha Need?",
-        "url": "https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs"
-      },
-      "artists": [
-        {
-          "name": "Ndee Kundu",
-          "url": "https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "Whatcha Need?",
-      "url": "https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1"
-    },
-    {
-      "added_at": "2026-06-24 14:14:02",
-      "album": {
-        "name": "Convoy",
-        "url": "https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        },
-        {
-          "name": "KD DESIROCK",
-          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Convoy",
-      "url": "https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO"
-    },
-    {
-      "added_at": "2026-06-24 14:14:02",
-      "album": {
         "name": "Chore Haryane Aale",
         "url": "https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf"
       },
@@ -763,6 +727,42 @@
     {
       "added_at": "2026-06-24 14:14:02",
       "album": {
+        "name": "Convoy",
+        "url": "https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Convoy",
+      "url": "https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO"
+    },
+    {
+      "added_at": "2026-06-24 14:14:02",
+      "album": {
+        "name": "Whatcha Need?",
+        "url": "https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs"
+      },
+      "artists": [
+        {
+          "name": "Ndee Kundu",
+          "url": "https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "Whatcha Need?",
+      "url": "https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1"
+    },
+    {
+      "added_at": "2026-06-24 14:14:02",
+      "album": {
         "name": "Pistal Te Mehnga Lehnga",
         "url": "https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29"
       },
@@ -783,6 +783,30 @@
       "duration_ms": 162787,
       "name": "Pistal Te Mehnga Lehnga",
       "url": "https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB"
+    },
+    {
+      "added_at": "2026-06-24 14:14:02",
+      "album": {
+        "name": "2 Rani",
+        "url": "https://open.spotify.com/album/6tIzcQJVZUvgW97tss0LzY"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "2 Rani",
+      "url": "https://open.spotify.com/track/0AKpjnVt2TAVuR8OO5FJCV"
     },
     {
       "added_at": "2026-06-24 14:14:02",
@@ -811,30 +835,6 @@
       "duration_ms": 134032,
       "name": "GYM (feat. Vaishali Chaudhary)",
       "url": "https://open.spotify.com/track/2sLLBFHDmGVKfwt4zYKiKq"
-    },
-    {
-      "added_at": "2026-06-24 14:14:02",
-      "album": {
-        "name": "2 Rani",
-        "url": "https://open.spotify.com/album/6tIzcQJVZUvgW97tss0LzY"
-      },
-      "artists": [
-        {
-          "name": "Bintu Pabra",
-          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
-        },
-        {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
-        },
-        {
-          "name": "Pranjal Dahiya",
-          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "2 Rani",
-      "url": "https://open.spotify.com/track/0AKpjnVt2TAVuR8OO5FJCV"
     },
     {
       "added_at": "2026-06-24 14:14:02",
@@ -1007,22 +1007,22 @@
     {
       "added_at": "2026-06-24 14:14:02",
       "album": {
-        "name": "Albedi",
-        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
+        "name": "Gang Class",
+        "url": "https://open.spotify.com/album/05acw0SlIBMgeepm1Kk9uf"
       },
       "artists": [
         {
-          "name": "Sangam Vigyaanik",
-          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+          "name": "PANJETA",
+          "url": "https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR"
         },
         {
-          "name": "Elvish Yadav",
-          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+          "name": "Nonu Rana",
+          "url": "https://open.spotify.com/artist/5isqrCxXiPdl4FT4NfXZhQ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Albedi",
-      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
+      "duration_ms": 172666,
+      "name": "Gang Class",
+      "url": "https://open.spotify.com/track/1kUlCpqQ0oElAHdqTq9oRy"
     },
     {
       "added_at": "2026-06-24 14:14:02",

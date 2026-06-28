@@ -1,6 +1,6 @@
 {
   "description": "Timeless Salsa from your favorite legends.",
-  "num_followers": 1534175,
+  "num_followers": 1534471,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-03-07 05:00:25",
       "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 323683,
+      "name": "Oiga, Mire, Vea - Salsa",
+      "url": "https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ"
+    },
+    {
+      "added_at": "2025-03-07 05:00:25",
+      "album": {
         "name": "Rey Del Bajo",
         "url": "https://open.spotify.com/album/5rzT0uHrXsopbuWqYMeK1p"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 278871,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
-    },
-    {
-      "added_at": "2025-03-07 05:00:25",
-      "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 323683,
-      "name": "Oiga, Mire, Vea - Salsa",
-      "url": "https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ"
     },
     {
       "added_at": "2025-03-07 05:00:25",

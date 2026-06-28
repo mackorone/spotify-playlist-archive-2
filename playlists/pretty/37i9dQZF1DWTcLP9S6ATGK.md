@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Andien
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,961 likes - 96 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,960 likes - 96 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

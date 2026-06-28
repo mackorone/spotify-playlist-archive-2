@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168890,
+      "name": "AMIGOS CON DERECHOS",
+      "url": "https://open.spotify.com/track/3NYyi0nCnxhuChr6V5yaJn"
+    },
+    {
+      "album": {
         "name": "Corta Venas",
         "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
@@ -158,6 +180,28 @@
       "duration_ms": 227796,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/23yj2bGQbyXWUIME0fO3oL"
+    },
+    {
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210499,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/3KlTDGWYHS5usD0EYYDeDo"
     },
     {
       "album": {
@@ -527,6 +571,24 @@
     },
     {
       "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222281,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5Qsmx0ffKXwbLTUgeFC2Ce"
+    },
+    {
+      "album": {
         "name": "Vibras De Noche II",
         "url": "https://open.spotify.com/album/7wOBO3WCbLaCGsRWHuXpm0"
       },
@@ -794,7 +856,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 212213,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
@@ -834,7 +896,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 228000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/7F7hBGecl8FIkvHE7pCTGG"
@@ -1160,10 +1222,28 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 226568,
       "name": "NO VOY A ODIARTE",
       "url": "https://open.spotify.com/track/24pZpHXiVFiTdd3lNYUhiU"
+    },
+    {
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191155,
+      "name": "OJOS DE DIABLA",
+      "url": "https://open.spotify.com/track/57NeURKAnB5THfudz92bpT"
     },
     {
       "album": {
@@ -1544,7 +1624,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 216685,
       "name": "Tres de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB"

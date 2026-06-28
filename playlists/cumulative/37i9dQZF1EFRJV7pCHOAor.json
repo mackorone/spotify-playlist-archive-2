@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "What We Got",
+        "url": "https://open.spotify.com/album/72T1E70vH8a71qX2OwGwrl"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "What We Got",
+      "url": "https://open.spotify.com/track/3UeGo2iTVN98fWW96iRL5p"
+    },
+    {
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },

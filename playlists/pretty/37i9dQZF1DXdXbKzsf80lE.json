@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 282629,
+  "num_followers": 282649,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
-        "name": "Ao Vivo no Sert\u00e3o",
-        "url": "https://open.spotify.com/album/3GijMKhlZt53WEakYLukRs"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Iguinho e Lulinha",
-          "url": "https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Pra Que Fui Me Apaixonar",
-      "url": "https://open.spotify.com/track/5npAAiROGib00LdqxUoqRb"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
         "name": "SENTIMENTO (Ao Vivo Em Fortaleza)",
         "url": "https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 147575,
       "name": "Como \u00c9 Que Fala N\u00e3o - Ao Vivo em Fortaleza",
       "url": "https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
+        "name": "Ao Vivo no Sert\u00e3o",
+        "url": "https://open.spotify.com/album/3GijMKhlZt53WEakYLukRs"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Iguinho e Lulinha",
+          "url": "https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Pra Que Fui Me Apaixonar",
+      "url": "https://open.spotify.com/track/5npAAiROGib00LdqxUoqRb"
     },
     {
       "added_at": "2026-04-30 22:01:08",

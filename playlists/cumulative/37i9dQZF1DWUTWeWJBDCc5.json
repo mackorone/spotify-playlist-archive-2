@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "HAWWAH",
+        "url": "https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0"
+      },
+      "artists": [
+        {
+          "name": "dodree",
+          "url": "https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "HAWWAH",
+      "url": "https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx"
+    },
+    {
+      "album": {
         "name": "HEARTLESS DARLIN' !",
         "url": "https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr"
       },
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 201730,
       "name": "lemon",
       "url": "https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS"
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 184520,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/3dCdcURa0Kk5UWXRY00HQy"
@@ -4416,6 +4434,24 @@
       "duration_ms": 220520,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla"
+    },
+    {
+      "album": {
+        "name": "Album 0",
+        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "What Do I Steal?",
+      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
     },
     {
       "album": {

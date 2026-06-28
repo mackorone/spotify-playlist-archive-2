@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 177614,
+  "num_followers": 177710,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "homeless n*gga pop music",
-        "url": "https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        }
-      ],
-      "duration_ms": 119714,
-      "name": "mileys riddim",
-      "url": "https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 169228,
       "name": "vinland",
       "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "homeless n*gga pop music",
+        "url": "https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 119714,
+      "name": "mileys riddim",
+      "url": "https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "it all ends with us",
-        "url": "https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J"
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ"
       },
       "artists": [
         {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
         }
       ],
-      "duration_ms": 226000,
-      "name": "it all ends with us",
-      "url": "https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL"
+      "duration_ms": 226200,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey"
     }
   ],
   "unique_name": "dazed",

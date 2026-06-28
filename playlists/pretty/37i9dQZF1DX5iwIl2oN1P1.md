@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: PJ Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,671 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,706 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [What a Friend](https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [What a Friend](https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q) | 2:15 |
 | 100 | [Anybody Here \- Southern Soul Mix](https://open.spotify.com/track/1vU2zm3pq4ocC4Wh3YkHKn) | [Deitrick Haddon & Voices of Unity](https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Anybody Here \(Southern Soul Mix\)](https://open.spotify.com/album/6SmL9KNhqAVgeJSyIbqEaK) | 3:32 |
 
-Snapshot ID: `AAAAAOp0NypJekxJUGJMH3STV1Kd1+Bi`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

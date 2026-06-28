@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,463 songs - 21 day 13 hr 26 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,466 songs - 21 day 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8390,7 +8390,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8380 | [A song for You! You? You!!](https://open.spotify.com/track/1TLDe7LHaRGh3nxPl1cKHG) | [μ's](https://open.spotify.com/artist/2hYjPkmTry3LYVVSymws5i) | [A song for You! You? You!!](https://open.spotify.com/album/6QYnlFEi1gI9gXvOGwUK2J) | 5:50 |
 | 8381 | [Round ＆ Laundry](https://open.spotify.com/track/2iY4oU7WUKKfTXowEAVxsV) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:12 |
 | 8382 | [HAPPY PARTY TRAIN](https://open.spotify.com/track/79lPN4KsjswcqoKDUGn16h) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015～2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:37 |
-| 8383 | [soldier game](https://open.spotify.com/track/0xzwcaP8fD9rWgIBUM3BJ1) | [西木野真姫\(CV.Pile\)](https://open.spotify.com/artist/2OU9W3Nbb1UaIr9SmZuLdK), [園田海未\(CV.三森すずこ\)](https://open.spotify.com/artist/6U3OZAgzVyqqqz87z6mse7), [絢瀬絵里\(CV.南條愛乃\)](https://open.spotify.com/artist/1hH0U0CBUFUvzCw8xTJu1R) | [soldier game](https://open.spotify.com/album/7maP3nXdOuFwLlLwwcdQIM) | 3:41 |
+| 8383 | [soldier game](https://open.spotify.com/track/0xzwcaP8fD9rWgIBUM3BJ1) | [西木野真姫\(CV.Pile\)](https://open.spotify.com/artist/2OU9W3Nbb1UaIr9SmZuLdK) | [soldier game](https://open.spotify.com/album/7maP3nXdOuFwLlLwwcdQIM) | 3:41 |
 | 8384 | [A Sky Full Of Stars](https://open.spotify.com/track/2uAE3kSlanqv3U1KfdAhra) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 2:46 |
 | 8385 | [天使と悪魔](https://open.spotify.com/track/22y3zsYYYx4VisZMOwTFQA) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ENTERTAINMENT](https://open.spotify.com/album/7J9IuxWGge23Amv8msKGtF) | 4:30 |
 | 8386 | [CHEER UP](https://open.spotify.com/track/4CeE0LU1SkHshwHeMfPwqk) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/78YI3q126L1plYhXxn7rUL) | 3:28 |
@@ -8471,5 +8471,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8461 | [¥ \(Yen\)](https://open.spotify.com/track/10D52Ymf8mtTvPPdQ5HIyS) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EXPERIMENTAL RAP](https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22) | 2:00 |
 | 8462 | [Burning Hammer](https://open.spotify.com/track/5C7TRctHokAGPz1JHAxgx7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EXPERIMENTAL RAP](https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22) | 3:13 |
 | 8463 | [I Smoked Away My Brain \(I'm God x Demons Mashup\) \(feat\. Imogen Heap & Clams Casino\)](https://open.spotify.com/track/3jnYCrF7UpSYAwwy1URW8d) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 3:10 |
+| 8464 | [It Will Rain](https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:17 |
+| 8465 | [麻痺](https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:18 |
+| 8466 | [僕のこと](https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 5:21 |
 
-Snapshot ID: `AAAMIXaipTL6+sHlLVOf47dg+MrWdhK0`
+Snapshot ID: `AAAMJHKt+0bI+IvQMwYYFcUusywLwc5t`

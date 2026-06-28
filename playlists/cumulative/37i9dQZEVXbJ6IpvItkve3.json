@@ -6589,6 +6589,24 @@
     },
     {
       "album": {
+        "name": "low tide",
+        "url": "https://open.spotify.com/album/3ISoPFYWzrhqPcCX72nKXW"
+      },
+      "artists": [
+        {
+          "name": "Snir Yamin",
+          "url": "https://open.spotify.com/artist/1wBzEp67t7GCnhi3iSYtnD"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249476,
+      "name": "low tide",
+      "url": "https://open.spotify.com/track/1XjE7Y8Xfe13SeU2SBcIwJ"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -17436,7 +17454,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 211914,
       "name": "\u05d4\u05e9\u05dd \u05d9\u05e2\u05d6\u05d5\u05e8",
       "url": "https://open.spotify.com/track/1UruS1fpkhIXklaJnttSzA"
@@ -20480,7 +20498,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 165333,
       "name": "\u05dc\u05d5\u05e4 \u05e9\u05dc\u05d0 \u05e0\u05d2\u05de\u05e8",
       "url": "https://open.spotify.com/track/0XN0qo1SvJeiiV6yoPP85V"
@@ -23150,7 +23168,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 251028,
       "name": "\u05e0\u05d2\u05e0\u05d1 \u05de\u05de\u05da",
       "url": "https://open.spotify.com/track/05iw1Zb7Lp5DNUSvDhBRk6"
@@ -23396,7 +23414,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 179047,
       "name": "\u05e0\u05e9\u05de\u05d5\u05ea \u05e6\u05de\u05d0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW"
@@ -25050,7 +25068,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 218374,
       "name": "\u05e4\u05d9\u05e0\u05d4 \u05e9\u05dc \u05e9\u05e7\u05d8",
       "url": "https://open.spotify.com/track/59WiHC6djTa97XxqawF8SX"

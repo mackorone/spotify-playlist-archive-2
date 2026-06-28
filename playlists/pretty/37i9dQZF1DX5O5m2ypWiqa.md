@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Banda MS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,016,430 likes - 280 songs - 15 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016,622 likes - 280 songs - 15 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

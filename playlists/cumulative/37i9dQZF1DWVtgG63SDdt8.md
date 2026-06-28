@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Wordsplayed & Andy Mineo
 
-12,871 songs - 34 day 21 hr 48 min
+12,872 songs - 34 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2902,6 +2902,7 @@
 | [Fall In Love With The Light](https://open.spotify.com/track/16StXt03d3fgPTwku3vCbH) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1lslX7adoOFVX9DMGRpK49) | 3:59 | 2024-09-06 | 2024-09-21 |
 | [Fall In Love With The Light \(reimagined\)](https://open.spotify.com/track/7tHgrIXWaJ2EEYrDAbObPu) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Post Credits Scenes](https://open.spotify.com/album/5tcQGskQuzNu0UYoGHY7XP) | 4:33 | 2025-08-15 | 2025-08-23 |
 | [Fall Like Rain](https://open.spotify.com/track/2zLjIIGLlTtBo89Lri03e0) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [Fall Like Rain](https://open.spotify.com/album/4VdaT0D60MzywC3uId6TT8) | 5:54 | 2023-09-01 | 2023-09-16 |
+| [Fall Like Rain](https://open.spotify.com/track/31bMackwKjDiNqy65yOuSn) | [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Keep The Faith](https://open.spotify.com/album/5Up4E2RVBpgFkMYj4y20Ot) | 4:02 | 2026-06-26 |  |
 | [Fall Like Rain \- Live From LIFT: Creative Conference](https://open.spotify.com/track/6MK94qHfqRZBK1EDmlHEu9) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Rachel Halbach](https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn) | [Live From LIFT: Creative Conference](https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3) | 4:31 | 2023-07-28 | 2023-08-12 |
 | [Fall of Jericho](https://open.spotify.com/track/7hOYbrfXukER0EfR9qs2Nk) | [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE), [The Band Table](https://open.spotify.com/artist/67IX3oYVot7E779xGELk4L), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Fall of Jericho](https://open.spotify.com/album/4n4PdRG45xcXy5Ux88JmEU) | 5:14 | 2023-08-25 | 2023-09-09 |
 | [Fall On Me](https://open.spotify.com/track/6kpQBZ7uETmqfORy8YcgxP) | [Jay Manwell](https://open.spotify.com/artist/7MDy7SOqkdabf2wweldR0p) | [Fall On Me](https://open.spotify.com/album/4EryziXSq7ger3LrqLMlHf) | 2:36 | 2024-11-22 | 2024-12-14 |

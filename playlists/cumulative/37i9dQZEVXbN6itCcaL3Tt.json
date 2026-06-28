@@ -5773,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "Dzieciaki to robi\u0105",
+        "url": "https://open.spotify.com/album/76iVcirQoZunSkCKgcr14q"
+      },
+      "artists": [
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135944,
+      "name": "Bankroll",
+      "url": "https://open.spotify.com/track/0OCL11vsXg7a4Y8QlbzMhJ"
+    },
+    {
+      "album": {
         "name": "Bankroll",
         "url": "https://open.spotify.com/album/1FZq4UVsD0qkFwlVY1fnQV"
       },
@@ -7658,7 +7676,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 187199,
       "name": "bluza taty",
       "url": "https://open.spotify.com/track/1Lcyj6MiHG3oDttzwrFH9g"
@@ -12471,6 +12489,28 @@
     },
     {
       "album": {
+        "name": "CZEMPION 2",
+        "url": "https://open.spotify.com/album/23H2U3BatvcuciQaUF8hMX"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "CZEMPION 2",
+      "url": "https://open.spotify.com/track/1Ymguhxs4YAwklSsDUnUin"
+    },
+    {
+      "album": {
         "name": "TRAP OR DIE",
         "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
       },
@@ -17076,6 +17116,28 @@
       "duration_ms": 153191,
       "name": "Ezzz",
       "url": "https://open.spotify.com/track/38YbKuU3BlJJWo6VhHAOYG"
+    },
+    {
+      "album": {
+        "name": "FACECARD",
+        "url": "https://open.spotify.com/album/0N0UfBosLlvVl3ZFYIKaxZ"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1UO7IdCNDjkeZXIK2v1Wcp"
     },
     {
       "album": {
@@ -54372,7 +54434,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 194408,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb"
@@ -57528,7 +57590,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 161342,
       "name": "tylko kochaj mnie",
       "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"

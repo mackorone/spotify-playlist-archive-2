@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Carly Rae Jepsen, sombr, Gracie Abrams, Kanye West, Charli xcx, Shania Twain, and MICO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,657 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,661 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

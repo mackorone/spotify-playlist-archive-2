@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 235106,
       "name": "Aamun Kuiskaus",
       "url": "https://open.spotify.com/track/4WqsrF7TJMNcXpALt6amw6"
@@ -6972,7 +6972,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 149634,
       "name": "CEO (Rich Man)",
       "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
@@ -10513,6 +10513,28 @@
     },
     {
       "album": {
+        "name": "Ei rakastuta ikin\u00e4",
+        "url": "https://open.spotify.com/album/4PPaurLOAgdSJY08vbRQgn"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        },
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174416,
+      "name": "Ei rakastuta ikin\u00e4",
+      "url": "https://open.spotify.com/track/2dTtoCWrVhb8qDXcbavZ7J"
+    },
+    {
+      "album": {
         "name": "Ei riidell\u00e4 en\u00e4\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 12)",
         "url": "https://open.spotify.com/album/2xcOTUj6eItNMkaynNtN7b"
       },
@@ -10611,6 +10633,28 @@
     },
     {
       "album": {
+        "name": "Rakastavaiset (Deluxe)",
+        "url": "https://open.spotify.com/album/35ldyJaojUE7qODPJeRge7"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        },
+        {
+          "name": "VilleGalle",
+          "url": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Ei vittu m\u00e4 rakastuin taas",
+      "url": "https://open.spotify.com/track/5xRl9VP11lKk3Hn9G8aRz6"
+    },
+    {
+      "album": {
         "name": "Ei vitus (feat. Korelon)",
         "url": "https://open.spotify.com/album/4UVpjLpEkueNON2KcNkm8v"
       },
@@ -10706,6 +10750,28 @@
       "duration_ms": 167822,
       "name": "Eiks nii",
       "url": "https://open.spotify.com/track/4SO4dhImcKfojnyR9Naqo9"
+    },
+    {
+      "album": {
+        "name": "Eilinen",
+        "url": "https://open.spotify.com/album/6WkkWAkmMiUVyTnP5HlZw5"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Eilinen",
+      "url": "https://open.spotify.com/track/0aHcABXSM7RSlBCqo1xZ5m"
     },
     {
       "album": {
@@ -12562,7 +12628,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 185356,
       "name": "Everest",
       "url": "https://open.spotify.com/track/1LF1fGMaubONQUGWKFlP5v"
@@ -16826,6 +16892,24 @@
       "duration_ms": 193788,
       "name": "Herkkii koviksii",
       "url": "https://open.spotify.com/track/6tRVk2ln0ue5Eu15tsGfYg"
+    },
+    {
+      "album": {
+        "name": "Herkkisten liiga",
+        "url": "https://open.spotify.com/album/5xKaloO6TrGWYP4x8fPeE8"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185086,
+      "name": "Herkkisten liiga",
+      "url": "https://open.spotify.com/track/7vVfrEznUhDS3o4CND3QNb"
     },
     {
       "album": {
@@ -23328,7 +23412,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 184377,
       "name": "Kaikki viel edess\u00e4",
       "url": "https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j"
@@ -23597,6 +23681,28 @@
     },
     {
       "album": {
+        "name": "#YOLO",
+        "url": "https://open.spotify.com/album/6FyjnRVIhWbL36HfVaOkbX"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "KANSALLISAARRE",
+      "url": "https://open.spotify.com/track/1ImbeKk1kyn2Unt6ct55W3"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/73PQyEHSV06V1LJ2UlJctR"
       },
@@ -23674,6 +23780,24 @@
       "duration_ms": 163421,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9"
+    },
+    {
+      "album": {
+        "name": "Karisma",
+        "url": "https://open.spotify.com/album/68X6elCaVnVdy4tzyTZ9W3"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182992,
+      "name": "Karisma",
+      "url": "https://open.spotify.com/track/6RurMIPS6xFFkWfcizN6a0"
     },
     {
       "album": {
@@ -24760,7 +24884,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 237133,
       "name": "Kes\u00e4y\u00f6",
       "url": "https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA"
@@ -24826,6 +24950,24 @@
       "duration_ms": 184357,
       "name": "kev\u00e4t 22",
       "url": "https://open.spotify.com/track/0DEokAmDwO8LxRSXjHees7"
+    },
+    {
+      "album": {
+        "name": "kev\u00e4t tulee kun s\u00e4 palaat",
+        "url": "https://open.spotify.com/album/248ZLnQmHtO0hIGS65UH5t"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195744,
+      "name": "kev\u00e4t tulee kun s\u00e4 palaat",
+      "url": "https://open.spotify.com/track/66TVSQDoXHHW1P68EwTWcn"
     },
     {
       "album": {
@@ -26410,7 +26552,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 177726,
       "name": "Kuka hitto sen p\u00e4\u00e4tt\u00e4\u00e4",
       "url": "https://open.spotify.com/track/5SOhO09jdZcXWq1FEvHGwJ"
@@ -27398,6 +27540,24 @@
       "duration_ms": 179831,
       "name": "Kysyy (feat. Etta)",
       "url": "https://open.spotify.com/track/1nA3GnLZrwPh8iR6EgAu5E"
+    },
+    {
+      "album": {
+        "name": "Kyynel",
+        "url": "https://open.spotify.com/album/2L6UeAg7yY35n2fHktQzEC"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Kyynel",
+      "url": "https://open.spotify.com/track/4rbAqwCRlRdYViDrtN9ciT"
     },
     {
       "album": {
@@ -29282,6 +29442,24 @@
       "duration_ms": 146666,
       "name": "Lightskinboy (feat. Sexmane)",
       "url": "https://open.spotify.com/track/73kBsYMLlAQFcGym49f74g"
+    },
+    {
+      "album": {
+        "name": "Liian aikaista rakastaa",
+        "url": "https://open.spotify.com/album/4XgbMVaTk4PWLWU6WWGnAw"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Kulta",
+          "url": "https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221911,
+      "name": "Liian aikaista rakastaa",
+      "url": "https://open.spotify.com/track/0HODfDmGLHFGutvWCwNUlW"
     },
     {
       "album": {
@@ -34158,7 +34336,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 243160,
       "name": "Min\u00e4 (feat. Mariska)",
       "url": "https://open.spotify.com/track/3gYHMSi0QXprEALlsYDgF5"
@@ -35060,7 +35238,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 193578,
       "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
       "url": "https://open.spotify.com/track/5y08hzaQKn64LXde19zY5i"
@@ -39796,7 +39974,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 257386,
       "name": "Ollaanko t\u00e4m\u00e4 kes\u00e4 n\u00e4in?",
       "url": "https://open.spotify.com/track/45W3OW8VgBNjb8lOpPXWeT"
@@ -52825,6 +53003,28 @@
     },
     {
       "album": {
+        "name": "#YOLO",
+        "url": "https://open.spotify.com/album/6FyjnRVIhWbL36HfVaOkbX"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120833,
+      "name": "SWAG",
+      "url": "https://open.spotify.com/track/38fVwj5ltp4sfF7Lpby8Ud"
+    },
+    {
+      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -56298,7 +56498,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 203786,
       "name": "Todella kaunis",
       "url": "https://open.spotify.com/track/17v1ICGy3aGJC3C02Uz2ZQ"
@@ -57980,7 +58180,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 133301,
       "name": "Tyhj\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH"
@@ -62370,6 +62570,28 @@
       "duration_ms": 184000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt"
+    },
+    {
+      "album": {
+        "name": "Voidaaks rikkoo hiljaisuus",
+        "url": "https://open.spotify.com/album/37AvpNQzvi0OuJcdEWpb4E"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        },
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164717,
+      "name": "Voidaaks rikkoo hiljaisuus",
+      "url": "https://open.spotify.com/track/2g1bCHeYTpcL9mEUJ2Nm5v"
     },
     {
       "album": {

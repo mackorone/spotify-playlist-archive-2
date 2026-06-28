@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,362 likes - 41 songs - 2 hr 39 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,359 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 39 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 |
 | 40 | [Summer](https://open.spotify.com/track/2jUTmPJ6YU8197buZGWc5U) | [Helvetia](https://open.spotify.com/artist/2nUbg56ljfs5oXyB1UNiY8) | [The Acrobats](https://open.spotify.com/album/5uzAsif3xMdnlwfaPNzfYx) | 5:25 |
 | 41 | [Why Do You Ask](https://open.spotify.com/track/0LFoXRQ74Z8xksGA1z9EVB) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [Northern Classic](https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr) | 4:56 |
+| 42 | [Love Hurts \(feat\. Travis Scott\)](https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:00 |
 
-Snapshot ID: `AAAOeCiheMArCnmWS9d9JG+ePE7YxQMD`
+Snapshot ID: `AAAOeSam+eyny2QPqkBdvoFg/7Cy5Syl`

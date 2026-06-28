@@ -4,7 +4,7 @@
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 18 min
+71 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [believe…](https://open.spotify.com/track/4vxRmWifWimhV46sVrALWZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Disclosure Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu) | 3:35 | 2026-06-18 |  |
 | [Buckbeak's Flight](https://open.spotify.com/track/3fr220xo6nu5ysW16DjsXi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 2:08 | 2025-04-18 |  |
 | [Cantina Band](https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 2:44 | 2025-04-18 |  |
-| [dive…](https://open.spotify.com/track/0W7jTQS0yq88lV5hDbIRtC) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Disclosure Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu) | 4:37 | 2026-06-19 |  |
+| [dive…](https://open.spotify.com/track/0W7jTQS0yq88lV5hDbIRtC) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Disclosure Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu) | 4:37 | 2026-06-19 | 2026-06-28 |
 | [Double Trouble](https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:37 | 2025-04-23 |  |
 | [Duel of the Fates](https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 4:14 | 2025-04-18 |  |
 | [empathy…](https://open.spotify.com/track/1MTGaIAQ1SsxZEDuB15sjL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Disclosure Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu) | 2:24 | 2026-06-18 |  |
@@ -77,6 +77,7 @@
 | [Theme from Superman \- Concert Version](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 4:24 | 2025-06-23 | 2025-10-29 |
 | [Visit to the Zoo and Letters from Hogwarts](https://open.spotify.com/track/3u7lKn9dJFHyJDG2q06Pzv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:23 | 2026-04-25 | 2026-05-22 |
 | [Welcome To Jurassic Park](https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jurassic Park](https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf) | 7:54 | 2025-04-18 |  |
+| [With Malice Toward None from "Lincoln" \- Live at the John F\. Kennedy Center for the Performing Arts, 7/16/2023](https://open.spotify.com/track/3TdEc9eAXaBBfq7dpYr6E0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [United States Marine Band](https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM), [Thomas Hooten](https://open.spotify.com/artist/7um0HeeerdjKZiGD8kYxXO) | [With Malice Toward None \(from "Lincoln"\)](https://open.spotify.com/album/56hHmrrgVph0AhY9gxbw8x) | 5:25 | 2026-06-28 |  |
 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 | 2025-04-18 |  |
 
 \*This playlist was first scraped on 2025-04-18. Prior content cannot be recovered.

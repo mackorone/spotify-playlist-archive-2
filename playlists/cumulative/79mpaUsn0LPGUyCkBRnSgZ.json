@@ -13809,6 +13809,24 @@
     },
     {
       "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222547,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/6QmvvglistS1I0ZSuGKqcg"
+    },
+    {
+      "album": {
         "name": "Birdie",
         "url": "https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy"
       },

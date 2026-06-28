@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 151253,
       "name": "Alt Til Sin Tid",
       "url": "https://open.spotify.com/track/2jkrnxFFA2yobeqOcI98Aw"
@@ -10247,6 +10247,24 @@
     },
     {
       "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
+    },
+    {
+      "album": {
         "name": "Det Eneste (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/7hgXKEq6WwM7F1YP6WSYyy"
       },
@@ -11842,7 +11860,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 172352,
       "name": "Dr\u00f8mmer",
       "url": "https://open.spotify.com/track/3EP2PXtcM3NLO2R3QuRlRh"
@@ -24030,7 +24048,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 150938,
       "name": "Ipren",
       "url": "https://open.spotify.com/track/0EqRa0vczHSc4aTSAzsvRF"
@@ -24834,6 +24852,24 @@
       "duration_ms": 178146,
       "name": "Jorden Er Rund",
       "url": "https://open.spotify.com/track/5sjXD2g2awgtSJv61LI7by"
+    },
+    {
+      "album": {
+        "name": "Jordsk\u00e6lv",
+        "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "Jordsk\u00e6lv",
+      "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
     },
     {
       "album": {
@@ -33760,6 +33796,28 @@
       "duration_ms": 179232,
       "name": "n\u00e5r verden v\u00e6lter",
       "url": "https://open.spotify.com/track/366GW0RsHtjyGeJSg0u9Ux"
+    },
+    {
+      "album": {
+        "name": "N\u00e6stbedste L\u00f8sning",
+        "url": "https://open.spotify.com/album/0nAwuiOXIblgTGkgQ4Ddl0"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216044,
+      "name": "N\u00e6stbedste L\u00f8sning",
+      "url": "https://open.spotify.com/track/6lPBwjIed03HiyRroOcJTm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 367367,
+  "num_followers": 367397,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,26 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) [Piano Version]",
+        "url": "https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 234876,
+      "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) - Piano Version",
+      "url": "https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "abcdefu (chill)",
         "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 266840,
       "name": "City of Angels (Acoustic)",
       "url": "https://open.spotify.com/track/7Jw6Rs78eNe7PfnYz8lRII"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) [Piano Version]",
-        "url": "https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 234876,
-      "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) - Piano Version",
-      "url": "https://open.spotify.com/track/4oFkgWU2B7rPqQsU66E5MG"
     },
     {
       "added_at": "2024-07-05 19:40:49",

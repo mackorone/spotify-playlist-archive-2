@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425,468 likes - 69 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425,433 likes - 69 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -75,6 +75,38 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 232640,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Grey Hun",
+        "url": "https://open.spotify.com/album/3VUzrAnLKwA8YKPnThEwxp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 230001,
+      "name": "Grey Hun",
+      "url": "https://open.spotify.com/track/4z8huhqEYqfRwYTXrb8ZA3"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
         "name": "Hummer",
         "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
       },
@@ -111,18 +143,18 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/6UxKo8Gq4qeYXcIpJCGHfi"
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 213350,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6z7ymrkYp7wSHFxgfvVpy2"
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -147,6 +179,38 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 160468,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "hate that i made you love me - ari lyric draft from bed",
+      "url": "https://open.spotify.com/track/6i8bljDhS6MZtrvvvsDiWc"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
         "name": "KILL THE KING",
         "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
       },
@@ -167,50 +231,38 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
+        "name": "METAL FORTH (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dGonqdLdEtzwF4D8VVP9f"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 232640,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
+      "duration_ms": 271956,
+      "name": "from me to u (feat. Poppy) (LIVE FROM THE O2)",
+      "url": "https://open.spotify.com/track/58EmK4iuIt5l0MiV9exYRx"
     },
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "HUN",
-        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/6UxKo8Gq4qeYXcIpJCGHfi"
       },
       "artists": [
         {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 230001,
-      "name": "Grey Hun",
-      "url": "https://open.spotify.com/track/6kEQjf29V60z01HgcQA50U"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Phish: Live In Saratoga Springs 2025",
-        "url": "https://open.spotify.com/album/4BqXGMryy9kCGnEjr3KObE"
-      },
-      "artists": [
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
-        }
-      ],
-      "duration_ms": 279982,
-      "name": "Martian Monster - Live",
-      "url": "https://open.spotify.com/track/6Wyi0TWZOBxZNstaWcF7Ia"
+      "duration_ms": 213350,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6z7ymrkYp7wSHFxgfvVpy2"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -231,102 +283,6 @@
       "duration_ms": 332346,
       "name": "TR\u00d4NE",
       "url": "https://open.spotify.com/track/1F8R77gZKEA3eofyfTaWJ6"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 160468,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/6VRKLJ6ChUgn1PgJdpuMXS"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 239702,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5AHuqFy9cWw3yEYqSdEUgg"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "We're Having Good Church",
-        "url": "https://open.spotify.com/album/4FJJqLm5Dt0gCYBYnh3dTw"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Muvva Jeter",
-          "url": "https://open.spotify.com/artist/1hIqcE3hC9NjUtt7twOdIy"
-        }
-      ],
-      "duration_ms": 77500,
-      "name": "Good Church Benediction",
-      "url": "https://open.spotify.com/track/37Ci0k7d9pmDkuHRAmIJpu"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "HOTEL MUNI",
-        "url": "https://open.spotify.com/album/4YfL2Kfpmmvu405nF0qYM7"
-      },
-      "artists": [
-        {
-          "name": "MUNI",
-          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/1X8bDEYSurmaQxfuI1ieH5"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -359,6 +315,86 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
+        "name": "Phish: Live In Saratoga Springs 2025",
+        "url": "https://open.spotify.com/album/4BqXGMryy9kCGnEjr3KObE"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 385089,
+      "name": "About To Run - Live",
+      "url": "https://open.spotify.com/track/3WZW8BOO1PrM82cBC1pEWH"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "We're Having Good Church",
+        "url": "https://open.spotify.com/album/4FJJqLm5Dt0gCYBYnh3dTw"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Muvva Jeter",
+          "url": "https://open.spotify.com/artist/1hIqcE3hC9NjUtt7twOdIy"
+        }
+      ],
+      "duration_ms": 77500,
+      "name": "Good Church Benediction",
+      "url": "https://open.spotify.com/track/37Ci0k7d9pmDkuHRAmIJpu"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6VRKLJ6ChUgn1PgJdpuMXS"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 239702,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5AHuqFy9cWw3yEYqSdEUgg"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "HOTEL MUNI",
+        "url": "https://open.spotify.com/album/4YfL2Kfpmmvu405nF0qYM7"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/1X8bDEYSurmaQxfuI1ieH5"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
         "name": "Madness Reigns from the Gutter (1990)",
         "url": "https://open.spotify.com/album/2nNH0YufWccCKLWNnCfUm0"
       },
@@ -371,66 +407,6 @@
       "duration_ms": 294266,
       "name": "24 Hrs. Ago - Live",
       "url": "https://open.spotify.com/track/5mtQg4ZQrLw0gGp9GnLUZc"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Play Your Games",
-        "url": "https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 195966,
-      "name": "Play Your Games",
-      "url": "https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Highway Hotel",
-        "url": "https://open.spotify.com/album/6LqdPWY6y7fMgiK40mgDxq"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        },
-        {
-          "name": "Herbal T",
-          "url": "https://open.spotify.com/artist/14Re45nZLhVUv0Jl6RyAmf"
-        },
-        {
-          "name": "Jarv",
-          "url": "https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "BLAOW! (with Herbal T & Jarv)",
-      "url": "https://open.spotify.com/track/1CoNBUksmBuK6LV1lB7F5I"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -479,22 +455,30 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Every Single Weekend (feat. Jamie xx)",
-        "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
+        "name": "D12 Forever (Vol. 1)",
+        "url": "https://open.spotify.com/album/6EJpcUijwWlVtj0F1KEJEc"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "D12",
+          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
         },
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Sly Pyper",
+          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
         }
       ],
-      "duration_ms": 130133,
-      "name": "Every Single Weekend (feat. Jamie xx)",
-      "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
+      "duration_ms": 236160,
+      "name": "Still Hating",
+      "url": "https://open.spotify.com/track/3mTxj64B5yOta9TMmY9Xyh"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -527,82 +511,6 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "D12 Forever (Vol. 1)",
-        "url": "https://open.spotify.com/album/6EJpcUijwWlVtj0F1KEJEc"
-      },
-      "artists": [
-        {
-          "name": "D12",
-          "url": "https://open.spotify.com/artist/5Qi4Bb7a8C0a00NZcA77L0"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        },
-        {
-          "name": "King Iso",
-          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
-        },
-        {
-          "name": "Sly Pyper",
-          "url": "https://open.spotify.com/artist/7LzTBVNarOeaDXFdzOugAI"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Still Hating",
-      "url": "https://open.spotify.com/track/3mTxj64B5yOta9TMmY9Xyh"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Mudhole",
-        "url": "https://open.spotify.com/album/4aatg7AOKrwE2leUEcVf3x"
-      },
-      "artists": [
-        {
-          "name": "Captain Murphy",
-          "url": "https://open.spotify.com/artist/5fM1Cg1kWKvaLTboYdWERt"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Little Snake",
-          "url": "https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX"
-        }
-      ],
-      "duration_ms": 153655,
-      "name": "Mudhole",
-      "url": "https://open.spotify.com/track/6measgcwVZxbpSkySsQM93"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
-        "url": "https://open.spotify.com/album/7Hv0AkjrA5hbRzpjiJ4KDh"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        },
-        {
-          "name": "Jordan Fish",
-          "url": "https://open.spotify.com/artist/3vOyupBaHL4lL5SlT9tnzJ"
-        }
-      ],
-      "duration_ms": 210490,
-      "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
-      "url": "https://open.spotify.com/track/1krMOXBD0xI8kgc9uZkrSw"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
         "name": "Epic Summer, Pt. 1",
         "url": "https://open.spotify.com/album/6Pdm2Yy23yHJAUPmEd6Dh0"
       },
@@ -615,34 +523,6 @@
       "duration_ms": 245500,
       "name": "N\u00e4r vi gr\u00e4ver guld i USA",
       "url": "https://open.spotify.com/track/0FOA9hD0voZlYWbyzrybF7"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "High Stakes",
-        "url": "https://open.spotify.com/album/0aBVaGk7OmLVXJqecFbb5V"
-      },
-      "artists": [
-        {
-          "name": "Stylistic Murder",
-          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
-        },
-        {
-          "name": "Madmanleek",
-          "url": "https://open.spotify.com/artist/44d8nZvSESybJUtVYcaNNx"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        },
-        {
-          "name": "DJ Danetic",
-          "url": "https://open.spotify.com/artist/6viw4U9vWb74tsGcJHFPYd"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "High Stakes",
-      "url": "https://open.spotify.com/track/04Qx1EO5W2mAqO2ZjRngOl"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -703,82 +583,42 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn"
+        "name": "Highway Hotel",
+        "url": "https://open.spotify.com/album/6LqdPWY6y7fMgiK40mgDxq"
       },
       "artists": [
         {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
         }
       ],
-      "duration_ms": 293390,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6"
+      "duration_ms": 127058,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/6wRdTSUzkRxHZmP6ZW8S0o"
     },
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Lose My Mind (feat. Dale and the ZDubs)",
-        "url": "https://open.spotify.com/album/2BR91mmECdKDDcBRyktmRG"
+        "name": "Philip Glass: Strung Out",
+        "url": "https://open.spotify.com/album/7Elnmq73xA43BEUgcWY9Lx"
       },
       "artists": [
         {
-          "name": "Matt & Zack",
-          "url": "https://open.spotify.com/artist/5jS8ydFLc2MNjKu84wwdF4"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Zack Couron",
-          "url": "https://open.spotify.com/artist/1K1afdWJIXkztvyDEzpUL1"
-        },
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "Darragh Morgan",
+          "url": "https://open.spotify.com/artist/0dOUih419I3nCqHZqvk0YI"
         }
       ],
-      "duration_ms": 182696,
-      "name": "Lose My Mind (feat. Dale and the ZDubs)",
-      "url": "https://open.spotify.com/track/7dZgJV14mP4AS80yIc9LCC"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Taking a walk & calling a car home",
-        "url": "https://open.spotify.com/album/2ZGCYpRS0XyWEnffRpm8o9"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/3ih4AEujhm8Om0HyEzuPAB"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "Elipropperr",
-          "url": "https://open.spotify.com/artist/1jndwpUpE013s7zjx2gM1f"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "officeloop with t + e",
-      "url": "https://open.spotify.com/track/7BPjBOBG2Nh7aBgHISdkNu"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Es brennt...",
-        "url": "https://open.spotify.com/album/4OyxppfKyDPMAUzeFL59h6"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Es brennt... - Mixed by Stefan Glaumann at Hometown Studio",
-      "url": "https://open.spotify.com/track/2WKbOaoSskrSY0RxLzVdlr"
+      "duration_ms": 1062000,
+      "name": "Strung Out for Solo Amplified Violin",
+      "url": "https://open.spotify.com/track/3egnhhMRaeNbGzWKGA1xW7"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -803,22 +643,22 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Philip Glass: Strung Out",
-        "url": "https://open.spotify.com/album/7Elnmq73xA43BEUgcWY9Lx"
+        "name": "Sir Render",
+        "url": "https://open.spotify.com/album/49q1HNNngQn7A798rHU8rp"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
         },
         {
-          "name": "Darragh Morgan",
-          "url": "https://open.spotify.com/artist/0dOUih419I3nCqHZqvk0YI"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 1062000,
-      "name": "Strung Out for Solo Amplified Violin",
-      "url": "https://open.spotify.com/track/3egnhhMRaeNbGzWKGA1xW7"
+      "duration_ms": 157974,
+      "name": "Belladonna",
+      "url": "https://open.spotify.com/track/1ielrdn4NJvJPYcKSaSW1z"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -855,30 +695,6 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "DONT WORRY",
-        "url": "https://open.spotify.com/album/456voLlA49cyUQKtJznxsj"
-      },
-      "artists": [
-        {
-          "name": "Freddy Got Magic",
-          "url": "https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW"
-        },
-        {
-          "name": "Supa Bwe",
-          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 105432,
-      "name": "DONT WORRY",
-      "url": "https://open.spotify.com/track/2OepIzyiT13RBnDS5mj04P"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG"
       },
@@ -899,6 +715,30 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
+        "name": "IRREDEEMABLE",
+        "url": "https://open.spotify.com/album/1QIAVWTW8BWBwuIWRTY7St"
+      },
+      "artists": [
+        {
+          "name": "Freddy Got Magic",
+          "url": "https://open.spotify.com/artist/019TO0knm3TR0pRqesSPSW"
+        },
+        {
+          "name": "Supa Bwe",
+          "url": "https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 105432,
+      "name": "DONT WORRY",
+      "url": "https://open.spotify.com/track/3ORJwq7bnMCPRBDx4CrrF2"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
         "name": "Lucid",
         "url": "https://open.spotify.com/album/4soEzPHhvr4nWPzRGFtziE"
       },
@@ -911,26 +751,6 @@
       "duration_ms": 366613,
       "name": "spacetime",
       "url": "https://open.spotify.com/track/4zqIZAE6tIaMT8duNWOG6F"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Persefone on Audiotree Live",
-        "url": "https://open.spotify.com/album/0dn22nkIFQjrKRJDId0dTN"
-      },
-      "artists": [
-        {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
-        },
-        {
-          "name": "Audiotree",
-          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
-        }
-      ],
-      "duration_ms": 441209,
-      "name": "The Great Reality - Audiotree Live Version",
-      "url": "https://open.spotify.com/track/6cxpcsRYg4XODPHPr3XZgW"
     },
     {
       "added_at": "2026-06-26 04:00:00",

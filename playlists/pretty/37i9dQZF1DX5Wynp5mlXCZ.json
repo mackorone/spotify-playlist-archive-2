@@ -1,6 +1,6 @@
 {
   "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e & \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440 \u0414\u0430\u043d\u0442\u0435\u0441",
-  "num_followers": 15388,
+  "num_followers": 15394,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-06-25 21:00:41",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-06-25 21:00:41",
-      "album": {
         "name": "Midnight Sun: Girls Trip",
         "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 170346,
       "name": "Eurosummer - Girls Trip",
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
+    },
+    {
+      "added_at": "2026-06-25 21:00:41",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-06-25 21:00:41",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-06-25 21:00:41",
       "album": {
-        "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
-        "url": "https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o"
+        "name": "Romcom",
+        "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
       },
       "artists": [
         {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+          "name": "CHEEV",
+          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
         }
       ],
-      "duration_ms": 182035,
-      "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
-      "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"
+      "duration_ms": 193608,
+      "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
+      "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
     },
     {
       "added_at": "2026-06-25 21:00:41",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-06-25 21:00:41",
       "album": {
-        "name": "Romcom",
-        "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
+        "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
+        "url": "https://open.spotify.com/album/7a4jaPDUORkJUUXCU1X43o"
       },
       "artists": [
         {
-          "name": "CHEEV",
-          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 193608,
-      "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
-      "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
+      "duration_ms": 182035,
+      "name": "\u041f\u0440\u0438\u0432\u0456\u0442. Hello",
+      "url": "https://open.spotify.com/track/6hZJocUHCjpSmWOghwdHkL"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",

@@ -1,13 +1,37 @@
 {
   "description": "Viral, trending and taking off.",
-  "num_followers": 8327869,
+  "num_followers": 8327553,
   "original_name": "Viral Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3ALaUP94klNVHVQD4CwQH913I2",
+  "snapshot_id": "AAAAAEd/8Vy0H4FfOdZJLGnrEj2c7KJa",
   "tracks": [
+    {
+      "added_at": "2026-06-19 04:01:37",
+      "album": {
+        "name": "Gut Genug (mit Blumengarten & Shirin David)",
+        "url": "https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Gut Genug (mit Blumengarten & Shirin David)",
+      "url": "https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU"
+    },
     {
       "added_at": "2026-05-27 02:05:46",
       "album": {
@@ -239,30 +263,6 @@
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe"
-    },
-    {
-      "added_at": "2026-06-19 04:01:37",
-      "album": {
-        "name": "Gut Genug (mit Blumengarten & Shirin David)",
-        "url": "https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w"
-      },
-      "artists": [
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Gut Genug (mit Blumengarten & Shirin David)",
-      "url": "https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU"
     },
     {
       "added_at": "2026-02-20 05:00:54",

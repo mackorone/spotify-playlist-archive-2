@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,791 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,904 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Um Amor Gigante / Faz Falta \- Ao Vivo](https://open.spotify.com/track/1mm8CSHUkHL2xhRUHJgsLL) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Pagode no Parque, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/3tawlijdi362bde1fKEjn6) | 4:54 |
 | 75 | [Não Tem Hora Nem Lugar / Sonhos E Planos \- Ao Vivo](https://open.spotify.com/track/4OFO8OHAUQTMK0erId2pl8) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Não Tem Hora Nem Lugar / Sonhos E Planos \(Ao Vivo\)](https://open.spotify.com/album/7pvPERAaD1rmTZOuY25yCV) | 4:02 |
 
-Snapshot ID: `AAAAAFCaxNalaxYeENg7pQenng2n1AWA`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

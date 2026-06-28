@@ -647,6 +647,22 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2026-06-18 21:00:48",
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
-    },
-    {
-      "added_at": "2026-06-18 21:00:48",
-      "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
     },
     {
       "added_at": "2026-06-18 21:00:48",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "added_at": "2026-06-18 21:00:48",
+      "album": {
         "name": "Click Clack Symphony. (feat. Hans Zimmer)",
         "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
-    },
-    {
-      "added_at": "2026-06-18 21:00:48",
-      "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "added_at": "2026-06-18 21:00:48",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
-        "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F"
+        "name": "\u05d0\u05d9\u05e9 \u05d4\u05e4\u05dc\u05d0",
+        "url": "https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A"
       },
       "artists": [
         {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+          "name": "\u05d1\u05df \u05e6\u05d5\u05e8",
+          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
         }
       ],
-      "duration_ms": 210634,
-      "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE"
+      "duration_ms": 200491,
+      "name": "\u05d0\u05de\u05d0 \u05e9\u05dc\u05da",
+      "url": "https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6"
     },
     {
       "added_at": "2026-06-18 21:00:48",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
-        "name": "\u05d0\u05d9\u05e9 \u05d4\u05e4\u05dc\u05d0",
-        "url": "https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A"
+        "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F"
       },
       "artists": [
         {
-          "name": "\u05d1\u05df \u05e6\u05d5\u05e8",
-          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 200491,
-      "name": "\u05d0\u05de\u05d0 \u05e9\u05dc\u05da",
-      "url": "https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6"
+      "duration_ms": 210634,
+      "name": "\u05d0\u05d3\u05dd \u05e9\u05d1\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE"
     },
     {
       "added_at": "2026-06-18 21:00:48",

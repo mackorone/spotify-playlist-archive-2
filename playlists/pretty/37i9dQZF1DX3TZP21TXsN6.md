@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Maycash, C7, Xeno, Louis Pedro en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,831 likes - 83 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,829 likes - 83 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 179105,
+  "num_followers": 179149,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,34 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Nazia Hassan",
+          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+        }
+      ],
+      "duration_ms": 342093,
+      "name": "The Disco Song",
+      "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
         "url": "https://open.spotify.com/album/4B7opkgPTtlTieFAoJ22u6"
       },
@@ -1147,34 +1175,6 @@
       "duration_ms": 184171,
       "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
-      },
-      "artists": [
-        {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Nazia Hassan",
-          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
-        }
-      ],
-      "duration_ms": 342093,
-      "name": "The Disco Song",
-      "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1263,6 +1263,50 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Junooniyat",
+        "url": "https://open.spotify.com/album/3rOUlh3cVzmQBB8c7EAke1"
+      },
+      "artists": [
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 251513,
+      "name": "Nachange Saari Raat",
+      "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
@@ -1303,50 +1347,6 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
-        "name": "Junooniyat",
-        "url": "https://open.spotify.com/album/3rOUlh3cVzmQBB8c7EAke1"
-      },
-      "artists": [
-        {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-        },
-        {
-          "name": "Neeraj Shridhar",
-          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-        },
-        {
-          "name": "Meet Bros.",
-          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 251513,
-      "name": "Nachange Saari Raat",
-      "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Bad Newz",
-        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba",
-      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
         "name": "Dhadak (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
       },
@@ -1383,26 +1383,6 @@
       "duration_ms": 187099,
       "name": "Main Khiladi - From \"Selfiee\"",
       "url": "https://open.spotify.com/track/7E0A86Yhc0ZyOl6aAPE5wN"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Yo Yo Honey Singh Is Back",
-        "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Sunny Sunny (From \"Yaariyan\")",
-      "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1451,6 +1431,50 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Yo Yo Honey Singh Is Back",
+        "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Sunny Sunny (From \"Yaariyan\")",
+      "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 215075,
+      "name": "Let's Nacho",
+      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Gunday",
         "url": "https://open.spotify.com/album/77c6Pbrq6UtHXY2aroX2S1"
       },
@@ -1483,50 +1507,6 @@
       "duration_ms": 313364,
       "name": "Tune Maari Entriyaan",
       "url": "https://open.spotify.com/track/5kg1GacbhgQfLcbgOBRO9c"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
-      },
-      "artists": [
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 215075,
-      "name": "Let's Nacho",
-      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Sahil Kaushal",
-          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1587,6 +1567,26 @@
       "duration_ms": 240960,
       "name": "Panwadi - Best Wedding Dance Song 2026",
       "url": "https://open.spotify.com/track/6aMoxZbGxqRkyNKAlkzIpP"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Sahil Kaushal",
+          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
+        }
+      ],
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
     },
     {
       "added_at": "2026-03-19 09:40:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: Lavils
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,175 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,176 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 68 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
 | 69 | [PIJNSTILLER](https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [FANTASMA](https://open.spotify.com/album/49xZ7C5i8ZgLIavyn8E7It) | 2:58 |
 
-Snapshot ID: `AAAAALBVfSoRc+W0DAc0JMcMAcwDNQ/t`
+Snapshot ID: `AAAAAByPKMa7YgmfKGr6UFJVb654W85Y`

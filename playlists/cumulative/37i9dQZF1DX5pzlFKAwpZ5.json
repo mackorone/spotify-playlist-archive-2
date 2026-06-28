@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 191294,
       "name": "A Daybreak of Autumn",
       "url": "https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F"
@@ -290,6 +290,28 @@
       "duration_ms": 136008,
       "name": "after the mint light faded",
       "url": "https://open.spotify.com/track/6uJePe8gFAaGc3U2ueJObl"
+    },
+    {
+      "album": {
+        "name": "After the Silence",
+        "url": "https://open.spotify.com/album/6Vv3N7JnzTBBlwdxy3eb2E"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        },
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "After the Silence",
+      "url": "https://open.spotify.com/track/2cr0AJ48Xk94H0UNjJA1BQ"
     },
     {
       "album": {

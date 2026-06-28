@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132612,
+  "num_followers": 132607,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "SUOMI SOIMAAN",
-        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
-      },
-      "artists": [
-        {
-          "name": "Vesta",
-          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "Helmi",
-      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Suomi Finland perkele",
         "url": "https://open.spotify.com/album/3OEnpGBtLtzvP2kJWpnWcY"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 181893,
       "name": "Suomi Finland perkele",
       "url": "https://open.spotify.com/track/5VV9zMFwf0QMorDUKzPhZJ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "SUOMI SOIMAAN",
+        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "duration_ms": 218651,
+      "name": "Helmi",
+      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Satumaa",
-        "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
-      },
-      "artists": [
-        {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        },
-        {
-          "name": "Silja Kielo",
-          "url": "https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Satumaa",
-      "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Kipee",
         "url": "https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 188519,
       "name": "Kipee",
       "url": "https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Satumaa",
+        "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
+      },
+      "artists": [
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        },
+        {
+          "name": "Silja Kielo",
+          "url": "https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Satumaa",
+      "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Badabim (My Kind Of Terapiaa)",
         "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "T\u00e4\u00e4 tunne",
         "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 159000,
       "name": "T\u00e4\u00e4 tunne",
       "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Joku johon nojata",
+        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "Joku johon nojata",
+      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -967,34 +983,18 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Joku johon nojata",
-        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
       },
       "artists": [
         {
-          "name": "Jenni Vartiainen",
-          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
         }
       ],
-      "duration_ms": 201073,
-      "name": "Joku johon nojata",
-      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Maailma on mun",
-        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 182438,
-      "name": "Kaikki on mahollist",
-      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
       },
       "artists": [
         {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
+      "duration_ms": 182438,
+      "name": "Kaikki on mahollist",
+      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Jokaisen hymyn takana",
         "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 154247,
       "name": "Kaikki tahtoo taivaaseen",
       "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-06-25 21:00:30",

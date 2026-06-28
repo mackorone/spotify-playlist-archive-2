@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 202 songs - 11 hr 24 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 204 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 200 | [Even If It Ends](https://open.spotify.com/track/5uMjPEoWLYy76yf4pj9iLb) | [Youb Mens](https://open.spotify.com/artist/4g0hEdRRDZAtsWO9YgRJFT), [Samija](https://open.spotify.com/artist/46P7ib6U2AhkLntVpf6LUF) | [Even If It Ends](https://open.spotify.com/album/3FTi7jUWKe34h6n73MBYsW) | 2:55 |
 | 201 | [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 |
 | 202 | [It Slips Out](https://open.spotify.com/track/5czxTvjUblxfYTgu3uBFT2) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [It Slips Out](https://open.spotify.com/album/4ZxE206WS5pevYK2fARkpv) | 3:23 |
+| 203 | [No Kisses](https://open.spotify.com/track/3g3gPeLfNB0V5qOLvQEaTK) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [No Kisses](https://open.spotify.com/album/6Igb7iyDgjzEtmFggFpGGR) | 1:59 |
+| 204 | [Innocent](https://open.spotify.com/track/6AmJ4InbpIViUHKQZcOlLg) | [Barrett Travis](https://open.spotify.com/artist/0YcRbPdiHQpKPywZ6PlIXL) | [Innocent](https://open.spotify.com/album/02bG1fDonGrUYyVlROGmUN) | 4:27 |
 
-Snapshot ID: `AAAVTEbXd93wurQ65nEeWbCPa1QOJXhV`
+Snapshot ID: `AAAVTnXV2yjRpiqPYmXJUTL+7yacjCPD`

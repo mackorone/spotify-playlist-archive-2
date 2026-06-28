@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34672,
+  "num_followers": 34675,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "Step?",
-        "url": "https://open.spotify.com/album/0BZbR4rNEd6R5t73qhF90D"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Step?",
-      "url": "https://open.spotify.com/track/3fU8FWNIgHEOepLTidZWyq"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
         "name": "KEUNG",
         "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 191667,
       "name": "Leave",
       "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
+        "name": "Step?",
+        "url": "https://open.spotify.com/album/0BZbR4rNEd6R5t73qhF90D"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Step?",
+      "url": "https://open.spotify.com/track/3fU8FWNIgHEOepLTidZWyq"
     },
     {
       "added_at": "2026-04-17 03:26:41",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-04-17 03:26:41",
       "album": {
-        "name": "emoji",
-        "url": "https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Suen",
-          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "emoji",
-      "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
-    },
-    {
-      "added_at": "2026-04-17 03:26:41",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 143315,
       "name": "At Night (feat. Kuzi)",
       "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
+    },
+    {
+      "added_at": "2026-04-17 03:26:41",
+      "album": {
+        "name": "emoji",
+        "url": "https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "emoji",
+      "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
     },
     {
       "added_at": "2026-04-17 03:26:41",

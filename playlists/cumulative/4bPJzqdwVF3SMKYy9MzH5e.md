@@ -4,7 +4,7 @@
 
 > 
 
-2,418 songs - 5 day 10 hr 1 min
+2,419 songs - 5 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Dead!](https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:15 | 2021-08-05 |  |
 | [Deadlight](https://open.spotify.com/track/2fSDoNMqwAOm2iFzR5UMfp) | [Nfract](https://open.spotify.com/artist/7s9xvGsMjmPZmBYa6iEJTm) | [Deadlight](https://open.spotify.com/album/2UNfunoytWLcWlMX2u3BnN) | 4:37 | 2022-02-04 |  |
 | [Dealer](https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:34 | 2021-12-30 |  |
+| [Dealer](https://open.spotify.com/track/3FRIOB6cFdB6M1fREjXUAG) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Old Skool Masters \- S3RL](https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB) | 4:45 | 2026-06-27 |  |
 | [Dear Diary,](https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 2:44 | 2021-08-05 |  |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/51pgOXTzPasEdnIIUNAXlB) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right \(Deluxe Version\)](https://open.spotify.com/album/1AFqm29Q9IdjXcnZVCGrDj) | 3:02 | 2021-08-05 |  |
 | [Death by Dishonor](https://open.spotify.com/track/5VphpldmtVyZH6S8RpHWLT) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Death by Dishonor](https://open.spotify.com/album/5qRYOrYeEri6gV2PRFfn3H) | 3:12 | 2021-08-05 |  |

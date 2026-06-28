@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x bradeazy
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,148 likes - 264 songs - 13 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,143 likes - 264 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

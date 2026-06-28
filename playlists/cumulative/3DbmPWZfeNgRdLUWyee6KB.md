@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,227 songs - 2 day 23 hr 22 min
+1,229 songs - 2 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [In Your Dreams](https://open.spotify.com/track/1fmX0jToR2dVaY4fTWqM2B) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [In Your Dreams](https://open.spotify.com/album/5MclxDMknVlBLyhy1Fjx77) | 2:17 | 2026-04-02 | 2026-05-03 |
 | [Inconvenient](https://open.spotify.com/track/62RnRCieGskMs3LZVxnhGt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Inconvenient](https://open.spotify.com/album/2i60zAdbllRZnbCmO1atwM) | 4:03 | 2026-03-29 | 2026-05-03 |
 | [Indecisa Paixão](https://open.spotify.com/track/4JUfXNviaf7gAdOOEuRJha) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Indecisa Paixão](https://open.spotify.com/album/4q3DW5vcJpbum9LdU0tFST) | 3:18 | 2026-02-12 | 2026-03-15 |
+| [Innocent](https://open.spotify.com/track/6AmJ4InbpIViUHKQZcOlLg) | [Barrett Travis](https://open.spotify.com/artist/0YcRbPdiHQpKPywZ6PlIXL) | [Innocent](https://open.spotify.com/album/02bG1fDonGrUYyVlROGmUN) | 4:27 | 2026-06-27 |  |
 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 | 2026-02-21 | 2026-03-25 |
 | [inside](https://open.spotify.com/track/3lNti0aGSklKtAKjvBoPtf) | [CELESTE](https://open.spotify.com/artist/0n3Ta8t4LZ4JVMIwYDPs2n) | [inside](https://open.spotify.com/album/1kUCOrM4nDBUec21uEzRgG) | 2:58 | 2026-05-26 |  |
 | [Inside Out](https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Inside Out](https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi) | 2:30 | 2024-01-28 | 2025-12-28 |
@@ -720,6 +721,7 @@
 | [No Es para Ti](https://open.spotify.com/track/3KzdyeLHY03BGaflizEsUO) | [MDN](https://open.spotify.com/artist/6M7T1w0kGNqLrOdXbWZoNT), [mdn.beats](https://open.spotify.com/artist/1VFNIHRiKBm7BkpQdF2qUD) | [No Es para Ti](https://open.spotify.com/album/1VdO2ivmFAg6QyUo155F7N) | 3:10 | 2026-04-11 | 2026-05-14 |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-04-28 | 2026-06-05 |
 | [No Kings](https://open.spotify.com/track/15E5RPanamaDv4eW8nmkPl) | [Hariyono](https://open.spotify.com/artist/1mX3tMoN3V0gl2mUk79o5T) | [No Kings](https://open.spotify.com/album/5BOKRHvfad5v80hpna7T43) | 2:14 | 2026-04-10 | 2026-05-14 |
+| [No Kisses](https://open.spotify.com/track/3g3gPeLfNB0V5qOLvQEaTK) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [No Kisses](https://open.spotify.com/album/6Igb7iyDgjzEtmFggFpGGR) | 1:59 | 2026-06-27 |  |
 | [No More Chains to Hold Us \(From "Unliked"\)](https://open.spotify.com/track/52rXrALwA36lCsqEyjjwAc) | [Gonçal Perales](https://open.spotify.com/artist/66mfK9wH1pGIyiHG29aLtv), [Alex Flores](https://open.spotify.com/artist/6x1uNga2exZAAlQxMVHNUK) | [Short Films, Vol\. 3](https://open.spotify.com/album/08YDzbe8bNIgXORZt73VUB) | 2:29 | 2026-04-20 | 2026-06-05 |
 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 | 2026-06-01 |  |
 | [No One](https://open.spotify.com/track/4KaGZuhrSOGtiKcBqN6tZS) | [Alexandra Hesse](https://open.spotify.com/artist/754oVDQocIr6Vx7KI4SYLV) | [No One](https://open.spotify.com/album/22uHGLhI2IjNuwo0KO9G2n) | 3:36 | 2026-05-21 |  |

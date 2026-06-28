@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1443462,
+  "num_followers": 1443352,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -759,30 +759,6 @@
     {
       "added_at": "2026-06-17 15:55:30",
       "album": {
-        "name": "A Vida \u00e9 Um Freestyle",
-        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 200409,
-      "name": "Falsos Profetas",
-      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
-    },
-    {
-      "added_at": "2026-06-17 15:55:30",
-      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 159634,
       "name": "Solo Paulista",
       "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
+    },
+    {
+      "added_at": "2026-06-17 15:55:30",
+      "album": {
+        "name": "A Vida \u00e9 Um Freestyle",
+        "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 200409,
+      "name": "Falsos Profetas",
+      "url": "https://open.spotify.com/track/5PMhAIXjGZaj6SBqOIXmsJ"
     },
     {
       "added_at": "2026-06-17 15:55:30",

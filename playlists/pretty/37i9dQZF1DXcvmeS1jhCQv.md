@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Basht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,940 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,945 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 84 | [Pretty](https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Pretty](https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3) | 3:23 |
 | 85 | [Talk Of The Town](https://open.spotify.com/track/2IJjaUdTftzHm4CFZ8sLce) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35), [Lil Skag](https://open.spotify.com/artist/78Z3VDkltCPHMYFdx8AgIs), [owin](https://open.spotify.com/artist/5pMq3WIpbsmwB9VJ7HaN4g) | [Talk Of The Town](https://open.spotify.com/album/3OPhlsiLcE1mAfG8eVZ6LD) | 2:24 |
 
-Snapshot ID: `AAAAAGkOHgj99MloXALNHijTLMVqcgxE`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

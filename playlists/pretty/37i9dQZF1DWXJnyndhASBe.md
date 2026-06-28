@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Malik Montana, Kizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,266 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,275 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 5 | [TO COŚ](https://open.spotify.com/track/1taAzCQwQrChFXMmpbQ4rN) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt), [VVSimon](https://open.spotify.com/artist/4qKXfc0gl62ImELchh15HY), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [CALIFORNIA LOVE EP](https://open.spotify.com/album/2Mk6yP0Xpv0R4Ej9Pi89zd) | 3:00 |
 | 6 | [TO MY](https://open.spotify.com/track/4Zt8PvTXLw3S79g3QiSFob) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv), [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl) | [TO MY](https://open.spotify.com/album/1MO3Kx3uacH2ijqo9Wp9bG) | 2:37 |
 | 7 | [Latamy](https://open.spotify.com/track/0tC7avt8CixFIGIpR2uJaV) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [730 Huncho](https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [Latamy](https://open.spotify.com/album/69ieCyDQa2GGWgASkdDmCu) | 2:46 |
-| 8 | [Złe dziewczyny](https://open.spotify.com/track/7LPdazalDCXskxsnCbicQv) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3) | [Dzieciaki to robią](https://open.spotify.com/album/76iVcirQoZunSkCKgcr14q) | 3:14 |
+| 8 | [Złe dziewczyny](https://open.spotify.com/track/7LPdazalDCXskxsnCbicQv) | [Okekel](https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3), [Wenext](https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw) | [Dzieciaki to robią](https://open.spotify.com/album/76iVcirQoZunSkCKgcr14q) | 3:14 |
 | 9 | [Ty masz](https://open.spotify.com/track/4fQAVxaVQhkK8nyNZoPpeY) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Ty masz](https://open.spotify.com/album/1Js6zQtqdvpmoDEpvfuxiN) | 3:16 |
 | 10 | [FACECARD](https://open.spotify.com/track/1UO7IdCNDjkeZXIK2v1Wcp) | [Fagata](https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8), [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE) | [FACECARD](https://open.spotify.com/album/0N0UfBosLlvVl3ZFYIKaxZ) | 2:35 |
 | 11 | [bluza taty](https://open.spotify.com/track/1Lcyj6MiHG3oDttzwrFH9g) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [REKLAMACJA'47](https://open.spotify.com/album/5EA3ZymI8Vh9bv8DwUogNL) | 3:07 |

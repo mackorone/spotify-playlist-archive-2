@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-456 songs - 21 hr 31 min
+457 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2026-04-03 |  |
 | [Crystal Shore](https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Crystal Shore](https://open.spotify.com/album/1MzwRWG0fx48OoxyeuXqY8) | 2:40 | 2025-10-24 |  |
 | [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2023-04-28 | 2025-05-22 |
+| [Daylight](https://open.spotify.com/track/2hz7x71F69QH12R7wWxg6t) | [Ambiosis](https://open.spotify.com/artist/3Rg4fOMUW3gvG8qdIazNX1) | [Daylight](https://open.spotify.com/album/7xI2atqZ3yhx6P57R3m5as) | 2:26 | 2026-06-26 |  |
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 | 2024-06-04 |
 | [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 | 2024-04-02 |
 | [Deep Waves](https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog) | [Sink in Calm](https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX) | [Deep Waves](https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n) | 3:39 | 2023-04-28 | 2025-02-04 |
@@ -106,7 +107,7 @@
 | [Drift Away](https://open.spotify.com/track/1QqCc5tVFevjAk7WBJAxmv) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Drift Away](https://open.spotify.com/album/0b6E1am1qcZmD4bAobfDwc) | 2:52 | 2025-03-04 | 2025-04-12 |
 | [Drifted Roots](https://open.spotify.com/track/0bHg0FMaPM01Nfw7dc1JuH) | [Silent Glade](https://open.spotify.com/artist/5GiOdqnxL6AeEZMWR0b3cr) | [Drifted Roots](https://open.spotify.com/album/5qFw7xLFqM8smKkcSQAXbP) | 2:47 | 2026-04-03 |  |
 | [Drifter](https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Drifter](https://open.spotify.com/album/6zi83WWOy4rMmWK5hzCiMi) | 2:04 | 2025-02-18 | 2026-04-04 |
-| [Droplets](https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Droplets](https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O) | 2:36 | 2026-06-26 |  |
+| [Droplets](https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Droplets](https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O) | 2:36 | 2026-06-26 | 2026-06-28 |
 | [Dulcet](https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN) | [Mokusei](https://open.spotify.com/artist/65lB2N7RSIyYSkLyDiFGuu) | [Dulcet](https://open.spotify.com/album/3SOzzSfeGOHvDNla7w5zEN) | 2:15 | 2026-01-08 | 2026-04-04 |
 | [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-02 |  |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 |  |

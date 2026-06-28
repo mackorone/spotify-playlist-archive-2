@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 277600,
       "name": "dive\u2026",
       "url": "https://open.spotify.com/track/0W7jTQS0yq88lV5hDbIRtC"
@@ -1408,6 +1408,32 @@
       "duration_ms": 474933,
       "name": "Welcome To Jurassic Park",
       "url": "https://open.spotify.com/track/7MW1YzseA4CGfrZMBLqQWK"
+    },
+    {
+      "album": {
+        "name": "With Malice Toward None (from \"Lincoln\")",
+        "url": "https://open.spotify.com/album/56hHmrrgVph0AhY9gxbw8x"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        },
+        {
+          "name": "Thomas Hooten",
+          "url": "https://open.spotify.com/artist/7um0HeeerdjKZiGD8kYxXO"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325555,
+      "name": "With Malice Toward None from \"Lincoln\" - Live at the John F. Kennedy Center for the Performing Arts, 7/16/2023",
+      "url": "https://open.spotify.com/track/3TdEc9eAXaBBfq7dpYr6E0"
     },
     {
       "album": {

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/3KorkZ4PVhYd218hvElsgb"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "6 FEET UNDER",
+      "url": "https://open.spotify.com/track/2X1desrdxPyzUKrjlNpGom"
+    },
+    {
+      "album": {
         "name": "What's The Point",
         "url": "https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD"
       },
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 176326,
       "name": "glhf<3",
       "url": "https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A"
@@ -4683,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+    },
+    {
+      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
       },
@@ -6000,7 +6036,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 177104,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
@@ -6370,6 +6406,28 @@
       "duration_ms": 289080,
       "name": "Ride",
       "url": "https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB"
+    },
+    {
+      "album": {
+        "name": "Ride Lonesome (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264256,
+      "name": "Ride Lonesome (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
     },
     {
       "album": {
@@ -8886,7 +8944,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 197372,
       "name": "Venus in the Zinnia",
       "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"

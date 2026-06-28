@@ -15996,7 +15996,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -24201,6 +24201,24 @@
     },
     {
       "album": {
+        "name": "All My Demons Greeting Me as a Friend",
+        "url": "https://open.spotify.com/album/6ZdqA9XFChx8ewarmvrbg5"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
+    },
+    {
+      "album": {
         "name": "Runnin Ya Mouth",
         "url": "https://open.spotify.com/album/5B3LXedzAhL6Fn7IU4UfMg"
       },
@@ -27146,7 +27164,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -30768,7 +30786,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 247719,
       "name": "Wanet Mn Frkakom",
       "url": "https://open.spotify.com/track/6xG5Akfn6HIBexqV5RF22q"

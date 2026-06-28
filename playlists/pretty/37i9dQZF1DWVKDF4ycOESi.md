@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Peggy Gou e Ayra Starr, Gabry Ponte e Jovanotti,  Ele A, Emma e Fabri Fibra, Gracie Abrams e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,007 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,026 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

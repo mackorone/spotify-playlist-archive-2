@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 771817,
+  "num_followers": 771892,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "The Seldom Seen Kid",
-        "url": "https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE"
-      },
-      "artists": [
-        {
-          "name": "Elbow",
-          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
-        }
-      ],
-      "duration_ms": 394173,
-      "name": "One Day Like This",
-      "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Only Revolutions",
         "url": "https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 258573,
       "name": "Many of Horror",
       "url": "https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "The Seldom Seen Kid",
+        "url": "https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "duration_ms": 394173,
+      "name": "One Day Like This",
+      "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Everybody Wants to Love You",
-      "url": "https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "One Life Stand",
         "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm"
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 222426,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
+      "duration_ms": 132631,
+      "name": "Everybody Wants to Love You",
+      "url": "https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1159,6 +1143,22 @@
       "duration_ms": 259800,
       "name": "A Shot in the Arm",
       "url": "https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "From Eden",
+      "url": "https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7"
     },
     {
       "added_at": "2026-02-19 14:58:26",

@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 423968,
+  "num_followers": 424271,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-26 06:55:06",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2026-06-26 06:55:06",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 279040,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy"
+    },
+    {
+      "added_at": "2026-06-26 06:55:06",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
     },
     {
       "added_at": "2026-06-26 06:55:06",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-06-26 06:55:06",
       "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2026-06-26 06:55:06",
+      "album": {
         "name": "Love and Paragraphs",
         "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 256295,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
-    },
-    {
-      "added_at": "2026-06-26 06:55:06",
-      "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
     },
     {
       "added_at": "2026-06-26 06:55:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-26 06:55:06",
       "album": {
-        "name": "My One And Only One",
-        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
-      },
-      "artists": [
-        {
-          "name": "Jessy J",
-          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
-        }
-      ],
-      "duration_ms": 217843,
-      "name": "Una Mas",
-      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
-    },
-    {
-      "added_at": "2026-06-26 06:55:06",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 325800,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2026-06-26 06:55:06",
+      "album": {
+        "name": "My One And Only One",
+        "url": "https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "duration_ms": 217843,
+      "name": "Una Mas",
+      "url": "https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT"
     },
     {
       "added_at": "2026-06-26 06:55:06",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-06-26 06:55:06",
       "album": {
+        "name": "Southend Sunset",
+        "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
+      },
+      "artists": [
+        {
+          "name": "Afterglow Society",
+          "url": "https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g"
+        }
+      ],
+      "duration_ms": 261838,
+      "name": "Southend Sunset",
+      "url": "https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1"
+    },
+    {
+      "added_at": "2026-06-26 06:55:06",
+      "album": {
         "name": "astro turf",
         "url": "https://open.spotify.com/album/0JhHKbPRXA27WAv0zdsiMC"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-06-26 06:55:06",
       "album": {
-        "name": "Southend Sunset",
-        "url": "https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap"
-      },
-      "artists": [
-        {
-          "name": "Afterglow Society",
-          "url": "https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g"
-        }
-      ],
-      "duration_ms": 261838,
-      "name": "Southend Sunset",
-      "url": "https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1"
-    },
-    {
-      "added_at": "2026-06-26 06:55:06",
-      "album": {
         "name": "Down / Fade",
         "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-26 06:55:06",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2026-06-26 06:55:06",
-      "album": {
         "name": "Clover Club",
         "url": "https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 233076,
       "name": "Clover Club",
       "url": "https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47"
+    },
+    {
+      "added_at": "2026-06-26 06:55:06",
+      "album": {
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2026-06-26 06:55:06",

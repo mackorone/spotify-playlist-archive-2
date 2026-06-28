@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 187 | [I, U, Us](https://open.spotify.com/track/7FmfkLiqWAUEeHACWftK7j) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 2:54 |
 | 188 | [Lock You Up](https://open.spotify.com/track/2hWgzPIbK105mVUrEWR6PU) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:31 |
 | 189 | [Crazy Crazy \(feat\. Charli XCX & Kyary Pamyu Pamyu\)](https://open.spotify.com/track/69faP1Sc35RYhfaP3tNCjk) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Digital Native](https://open.spotify.com/album/6NVNEoqidz3c49nCCiYoUf) | 3:45 |
-| 190 | [So over You](https://open.spotify.com/track/1aO3rr3jxV3TvUQMiU2nJc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:08 |
-| 191 | [Burial](https://open.spotify.com/track/5tmtdhte0DNmEBBIi2QhdO) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Mother Mary: Greatest Hits](https://open.spotify.com/album/4Fwk57YUcfsa6EvZJSLwVq) | 3:09 |
+| 190 | [Burial](https://open.spotify.com/track/5tmtdhte0DNmEBBIi2QhdO) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Mother Mary: Greatest Hits](https://open.spotify.com/album/4Fwk57YUcfsa6EvZJSLwVq) | 3:09 |
+| 191 | [So over You](https://open.spotify.com/track/1aO3rr3jxV3TvUQMiU2nJc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:08 |
 | 192 | [Hanging Around](https://open.spotify.com/track/73gFV5HHqDa4pIk13LmkZ0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 3:18 |
 | 193 | [Caught in the Middle](https://open.spotify.com/track/1A2b8eLK2qaMCExzHhq8mF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:01 |
 | 194 | [Hand in the Fire \(feat\. Charli XCX\)](https://open.spotify.com/track/5QPRuZbi5lG1xb2j8vxP4v) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hand in the Fire](https://open.spotify.com/album/68m5OyVhf41Va2TYVBkwvA) | 2:59 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 216 | [Moonlight](https://open.spotify.com/track/5G1VHdOog0ZhnaURm9CoK3) | [Lil XanniK](https://open.spotify.com/artist/3ahjZbbalgCMwieFg3GrCu) | [S4D](https://open.spotify.com/album/4kgFAxFqpRmn5Qw69NwZTM) | 1:30 |
 | 217 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AcVSRgAAAAC34LBSAlTP5g8OlxFC0P7H`
+Snapshot ID: `AcVX5gAAAABIpeBhFjF2JRNbg5mZ2LTz`

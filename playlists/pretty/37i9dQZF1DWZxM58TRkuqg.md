@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,003 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,026 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 11 | [Pulang](https://open.spotify.com/track/7H9hNVHqO4y6IraXCPBVmi) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Pulang](https://open.spotify.com/album/1vPPunuBJElZtiha0nIUhK) | 3:28 |
 | 12 | [kota ini tak sama tanpamu](https://open.spotify.com/track/3lss7BQY3Kp4ixlZY3dK8d) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [kota ini tak sama tanpamu \(with Aziz Harun & Aisha Retno\)](https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR) | 4:39 |
 | 13 | [Jejak Langkah Yang Kau Tinggal](https://open.spotify.com/track/2OfmwwIsRFxanjPHbJtHi0) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Jejak Langkah Yang Kau Tinggal](https://open.spotify.com/album/3mjCGEqaYY2PZalqqfKO8R) | 4:22 |
-| 14 | [Otak Dimana?](https://open.spotify.com/track/4QC2ioah7KKMF5Rv57uusl) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v), [Juan Reza](https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY) | [Otak Dimana?](https://open.spotify.com/album/78VOHSfGUrTW2CnUdfS5Om) | 3:29 |
+| 14 | [Otak Dimana?](https://open.spotify.com/track/4QC2ioah7KKMF5Rv57uusl) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v), [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf) | [Otak Dimana?](https://open.spotify.com/album/78VOHSfGUrTW2CnUdfS5Om) | 3:29 |
 | 15 | [Ruang Riang](https://open.spotify.com/track/0FjJRVgpe3yBDdl2cPMqUH) | [The Changcuters](https://open.spotify.com/artist/1DZs8IjMvRQqB3i0uvgCc5) | [Wow Ma](https://open.spotify.com/album/29OKMlYdpG9ZqvSSAVdgat) | 4:26 |
 | 16 | [Aku Harus Pergi](https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Aku Harus Pergi](https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe) | 3:52 |
 | 17 | [Lagu Kenangan](https://open.spotify.com/track/0LZFpTfPDoiRHBFdvZzYaR) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Lagu Kenangan](https://open.spotify.com/album/04M40ppkeO8AXy9jc4oDGG) | 3:52 |

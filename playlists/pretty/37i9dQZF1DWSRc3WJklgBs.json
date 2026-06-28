@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1255796,
+  "num_followers": 1255757,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Sweet Release",
-        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
-      },
-      "artists": [
-        {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
-        }
-      ],
-      "duration_ms": 226101,
-      "name": "Sweet Release",
-      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Comes Back Around",
         "url": "https://open.spotify.com/album/2hDf71xnuci9i0ZdKLzPnl"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 227102,
       "name": "Comes Back Around",
       "url": "https://open.spotify.com/track/23axNcNwz5HwYauDa6Njy7"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Sweet Release",
+        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
+      },
+      "artists": [
+        {
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+        }
+      ],
+      "duration_ms": 226101,
+      "name": "Sweet Release",
+      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Love Is Kind",
-        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Love Is Kind",
-      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Come Find Me (with Clementine Douglas)",
         "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 207149,
       "name": "Come Find Me (with Clementine Douglas)",
       "url": "https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Love Is Kind",
+        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Love Is Kind",
+      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "White Wine & Adderall",
-        "url": "https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Beau Nox",
-          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "White Wine & Adderall",
-      "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Believe (Shooting Stars)",
         "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 154285,
       "name": "Believe (Shooting Stars)",
       "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "White Wine & Adderall",
+        "url": "https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Beau Nox",
+          "url": "https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "White Wine & Adderall",
+      "url": "https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "R U DOWN?",
+        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 139911,
+      "name": "R U DOWN?",
+      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "CAVE (with Tove Lo)",
         "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 180409,
       "name": "CAVE (with Tove Lo)",
       "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "R U DOWN?",
-        "url": "https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        }
-      ],
-      "duration_ms": 139911,
-      "name": "R U DOWN?",
-      "url": "https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Forever (with Kid Cudi)",
-        "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Forever (with Kid Cudi)",
-      "url": "https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Home In You",
         "url": "https://open.spotify.com/album/0fs8P8DYeSKbWSHRsWVcF5"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 224262,
       "name": "Home In You",
       "url": "https://open.spotify.com/track/2QOZeqFUMYHqFhVArYH8dA"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Forever (with Kid Cudi)",
+        "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Forever (with Kid Cudi)",
+      "url": "https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "Me & U (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 201199,
+      "name": "Me & U - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 211313,
       "name": "No Gravity (feat. Bava)",
       "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "Me & U (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 201199,
-      "name": "Me & U - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Everything U",
-        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 210294,
-      "name": "Everything U",
-      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 128142,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2079,6 +2079,30 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "Superstition EP",
+        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 318688,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "Postcard (All I Need Is You)",
         "url": "https://open.spotify.com/album/66Wb8qYgqeVHPrx9suY0Us"
       },
@@ -2111,30 +2135,6 @@
       "duration_ms": 202500,
       "name": "WAY YOU SMILE",
       "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "Superstition EP",
-        "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Syence",
-          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 318688,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2271,6 +2271,26 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "So Far Away",
+        "url": "https://open.spotify.com/album/5WmaGa5SFfVgCx6f9GJRim"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 248620,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/3Z1HQgIy5WJf4nl6GR5lTE"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "Coin Toss",
         "url": "https://open.spotify.com/album/54vTsluudqEoAOajxKoLwC"
       },
@@ -2303,26 +2323,6 @@
       "duration_ms": 172981,
       "name": "You & Me (Always Forever)",
       "url": "https://open.spotify.com/track/448c5dsSpQjL7bkRLNjocK"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "So Far Away",
-        "url": "https://open.spotify.com/album/5WmaGa5SFfVgCx6f9GJRim"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 248620,
-      "name": "So Far Away",
-      "url": "https://open.spotify.com/track/3Z1HQgIy5WJf4nl6GR5lTE"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2611,26 +2611,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/2B8YmT6sPzZk41N8WClBuo"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        },
-        {
-          "name": "Eloise Keeble",
-          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
-        }
-      ],
-      "duration_ms": 192700,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/3MhivhKf1CEfSFwD1ZwB5I"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
       },
@@ -2647,6 +2627,26 @@
       "duration_ms": 162786,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2B8YmT6sPzZk41N8WClBuo"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "duration_ms": 192700,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3MhivhKf1CEfSFwD1ZwB5I"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2735,6 +2735,26 @@
       "duration_ms": 209002,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/4aeGgjU2eaxHUKmTvtDyWp"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/096n8RC5KcjOmtqHbuBgb2"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2999,26 +3019,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/4aeGgjU2eaxHUKmTvtDyWp"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/096n8RC5KcjOmtqHbuBgb2"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ"
       },
@@ -3067,22 +3067,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Been Thinking About Us",
-        "url": "https://open.spotify.com/album/0In6fBr52SKOxr2eSHsLQu"
-      },
-      "artists": [
-        {
-          "name": "Fractures",
-          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
-        }
-      ],
-      "duration_ms": 222509,
-      "name": "Been Thinking About Us",
-      "url": "https://open.spotify.com/track/6dpkXuK9AXbPQvLZblYr7G"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Slapped By My Life",
         "url": "https://open.spotify.com/album/1RfbYCkmk9RUkG6sdEk2y9"
       },
@@ -3095,6 +3079,22 @@
       "duration_ms": 175826,
       "name": "Slapped By My Life",
       "url": "https://open.spotify.com/track/1fbbToCbUVyJ9GCCgqP5A1"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Been Thinking About Us",
+        "url": "https://open.spotify.com/album/0In6fBr52SKOxr2eSHsLQu"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "duration_ms": 222509,
+      "name": "Been Thinking About Us",
+      "url": "https://open.spotify.com/track/6dpkXuK9AXbPQvLZblYr7G"
     }
   ],
   "unique_name": "Heart Beats",

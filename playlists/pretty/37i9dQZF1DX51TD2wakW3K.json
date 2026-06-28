@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 19534,
+  "num_followers": 19702,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 199693,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Woman Driver",
         "url": "https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 124294,
       "name": "Woman Driver",
       "url": "https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Gato Negro",
-        "url": "https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3"
-      },
-      "artists": [
-        {
-          "name": "7 Year Bitch",
-          "url": "https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Stop Pretending",
         "url": "https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 172666,
       "name": "You're All Talk",
       "url": "https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Gato Negro",
+        "url": "https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3"
+      },
+      "artists": [
+        {
+          "name": "7 Year Bitch",
+          "url": "https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S"
     },
     {
       "added_at": "2026-03-05 23:16:41",

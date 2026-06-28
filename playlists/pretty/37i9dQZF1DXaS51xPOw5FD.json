@@ -1,6 +1,6 @@
 {
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
-  "num_followers": 78365,
+  "num_followers": 78379,
   "original_name": "Sunny dnb",
   "owner": {
     "name": "Spotify",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/3LNYuJynQywTxfWZskP9ex"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Caleb Virgo",
-          "url": "https://open.spotify.com/artist/5oOhMCLwSFyyyLpc80aUVd"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/2XhvLFOQZzmnm1bl5y5fsu"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/2HX3wYrMqUacbssXHi5G47"
       },
@@ -1043,22 +1023,22 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Arctic",
-        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/3LNYuJynQywTxfWZskP9ex"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
         },
         {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+          "name": "Caleb Virgo",
+          "url": "https://open.spotify.com/artist/5oOhMCLwSFyyyLpc80aUVd"
         }
       ],
-      "duration_ms": 146371,
-      "name": "Arctic",
-      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
+      "duration_ms": 222171,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/2XhvLFOQZzmnm1bl5y5fsu"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1095,6 +1075,26 @@
       "duration_ms": 198667,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/5FP1dR0ttFHQOCvrSiMsCo"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 146371,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "10FOOT",
-        "url": "https://open.spotify.com/album/2z8D6lR0gWhwhNKI8V0o5Y"
-      },
-      "artists": [
-        {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
-        },
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        }
-      ],
-      "duration_ms": 115813,
-      "name": "10FOOT",
-      "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Medellin",
         "url": "https://open.spotify.com/album/3NyhA71nl9UGHMUGzWUSCn"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 146210,
       "name": "Medell\u00edn",
       "url": "https://open.spotify.com/track/7BUPvz8RrNUtIsCtf6Kp7w"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "10FOOT",
+        "url": "https://open.spotify.com/album/2z8D6lR0gWhwhNKI8V0o5Y"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "duration_ms": 115813,
+      "name": "10FOOT",
+      "url": "https://open.spotify.com/track/3srphY2g3R6HwNnL9oNdC4"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Soundboy Johnny",
-        "url": "https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8"
-      },
-      "artists": [
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Soundboy Johnny",
-      "url": "https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF"
       },
@@ -1403,6 +1387,42 @@
       "duration_ms": 191303,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "What You Heard About Me",
+        "url": "https://open.spotify.com/album/5AiGxsokv0sJxw1IOYR1pV"
+      },
+      "artists": [
+        {
+          "name": "Posk",
+          "url": "https://open.spotify.com/artist/0Se9VSGYSzcS0QmxztSJxe"
+        },
+        {
+          "name": "Ekstatic",
+          "url": "https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD"
+        }
+      ],
+      "duration_ms": 159171,
+      "name": "What You Heard About Me",
+      "url": "https://open.spotify.com/track/1ErOaiF4mXvdhb5YQTG6vE"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "Soundboy Johnny",
+        "url": "https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8"
+      },
+      "artists": [
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Soundboy Johnny",
+      "url": "https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1427,26 +1447,6 @@
       "duration_ms": 193103,
       "name": "Alive Again",
       "url": "https://open.spotify.com/track/42lBoreMgKdUW9ugLVDvgg"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
-        "name": "What You Heard About Me",
-        "url": "https://open.spotify.com/album/5AiGxsokv0sJxw1IOYR1pV"
-      },
-      "artists": [
-        {
-          "name": "Posk",
-          "url": "https://open.spotify.com/artist/0Se9VSGYSzcS0QmxztSJxe"
-        },
-        {
-          "name": "Ekstatic",
-          "url": "https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD"
-        }
-      ],
-      "duration_ms": 159171,
-      "name": "What You Heard About Me",
-      "url": "https://open.spotify.com/track/1ErOaiF4mXvdhb5YQTG6vE"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
+        "name": "Elastic Soul",
+        "url": "https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU"
+      },
+      "artists": [
+        {
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        }
+      ],
+      "duration_ms": 290251,
+      "name": "Elastic Soul",
+      "url": "https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
         "name": "Rage Days",
         "url": "https://open.spotify.com/album/4KmpFnF9cHZInIXsVATOfP"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 245581,
       "name": "Rage Days",
       "url": "https://open.spotify.com/track/6h9ckbO36zzMJ2H5GdnV7S"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
-        "name": "Elastic Soul",
-        "url": "https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU"
-      },
-      "artists": [
-        {
-          "name": "Alix Perez",
-          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
-        }
-      ],
-      "duration_ms": 290251,
-      "name": "Elastic Soul",
-      "url": "https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Skanga Riddim",
-        "url": "https://open.spotify.com/album/10LM888Ma4mdLJKexUBQSI"
-      },
-      "artists": [
-        {
-          "name": "SHY FX",
-          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
-        }
-      ],
-      "duration_ms": 135313,
-      "name": "Skanga Riddim",
-      "url": "https://open.spotify.com/track/6adCQNHeSFlKBwUJu8F15Z"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Bleep Tune / Everyday",
         "url": "https://open.spotify.com/album/6TC324P1VoaFUsw773z9r5"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 176009,
       "name": "Bleep Tune",
       "url": "https://open.spotify.com/track/0ogSWd8QmVLZ3anKFB1Zjp"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "Skanga Riddim",
+        "url": "https://open.spotify.com/album/10LM888Ma4mdLJKexUBQSI"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "duration_ms": 135313,
+      "name": "Skanga Riddim",
+      "url": "https://open.spotify.com/track/6adCQNHeSFlKBwUJu8F15Z"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "stargirl",
-        "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "stargirl",
-      "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Falling 4 U",
         "url": "https://open.spotify.com/album/6XW53yYoCcc8nZCWAKLMF2"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 197142,
       "name": "Falling 4 U",
       "url": "https://open.spotify.com/track/7g041SdEW1CgvWxi5KT6rN"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "stargirl",
+        "url": "https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "stargirl",
+      "url": "https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "ellen",
-        "url": "https://open.spotify.com/album/2y2QxfED6sOXy7W4hBS0nQ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "ellen",
-      "url": "https://open.spotify.com/track/3U3zzmV6yzOBH7VXACj9Wv"
-    },
-    {
-      "added_at": "2026-06-18 23:00:26",
-      "album": {
         "name": "Raise Your Hands / Short Stuff",
         "url": "https://open.spotify.com/album/5IQvDz0gS7K9rsgiKCNqTH"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 195407,
       "name": "Raise Your Hands",
       "url": "https://open.spotify.com/track/5iv7beL5KjBbTsilr6pZpV"
+    },
+    {
+      "added_at": "2026-06-18 23:00:26",
+      "album": {
+        "name": "ellen",
+        "url": "https://open.spotify.com/album/2y2QxfED6sOXy7W4hBS0nQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "ellen",
+      "url": "https://open.spotify.com/track/3U3zzmV6yzOBH7VXACj9Wv"
     },
     {
       "added_at": "2026-06-18 23:00:26",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2026-06-18 23:00:26",
       "album": {
-        "name": "Amnesia (Bring It Back)",
-        "url": "https://open.spotify.com/album/4E5UQLD87nGuaEfrphtLVe"
+        "name": "whenever you're ready",
+        "url": "https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h"
       },
       "artists": [
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Amnesia (Bring It Back)",
-      "url": "https://open.spotify.com/track/2rtt376bLjO6W2XpvGVgcR"
+      "duration_ms": 207178,
+      "name": "whenever you're ready",
+      "url": "https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ"
     }
   ],
   "unique_name": "Sunny dnb",

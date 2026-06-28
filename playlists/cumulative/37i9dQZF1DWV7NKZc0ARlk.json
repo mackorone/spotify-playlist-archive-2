@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Arde El Cielo",
+        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271106,
+      "name": "Mariposa Traicionera - En Vivo",
+      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
+    },
+    {
+      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 329797,
       "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
       "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"

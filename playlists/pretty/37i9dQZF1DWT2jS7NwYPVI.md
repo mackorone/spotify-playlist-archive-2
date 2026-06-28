@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Power Snatch
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,814 likes - 128 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,808 likes - 128 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 102 | [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 |
 | 103 | [The Mud Never Dries](https://open.spotify.com/track/1X28Q4iqqoLunMSxRVm7ff) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [The Mud Never Dries](https://open.spotify.com/album/5Bl0eyoYZSa8VVWqvEy2xV) | 3:17 |
 | 104 | [white fur](https://open.spotify.com/track/7K7SGgOAdeJl4BRZDVP8mW) | [cherry pick](https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5) | [:3](https://open.spotify.com/album/4WboN07sQHgrVg6CGKukDT) | 3:35 |
-| 105 | [Opportunity Arising](https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/0X6XnhqszaIiNdhAWg1QHJ) | 3:41 |
+| 105 | [Opportunity Arising](https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/0X6XnhqszaIiNdhAWg1QHJ) | 3:41 |
 | 106 | [Baby Don't](https://open.spotify.com/track/66tbzPuNTAXPfmVsdJ9yBr) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Hoopla](https://open.spotify.com/album/4OmO1a6jKotWwguSeQzLBa) | 3:35 |
 | 107 | [Somehow](https://open.spotify.com/track/5bp3oHLfgQtWdveNnx0IyT) | [Mad Honey](https://open.spotify.com/artist/1ChYxmoAiT0FOTA0MPJ7DV) | [Bridge Over Cumberland](https://open.spotify.com/album/5tLlsp1872yR1NSVvGYR3B) | 2:33 |
 | 108 | [Pitch Boats](https://open.spotify.com/track/6HzOxqHnrluUQS4JVjnT3a) | [mildred](https://open.spotify.com/artist/3yKgN8NhQcYDi6CXDSYKM0) | [Pitch Boats](https://open.spotify.com/album/70O9VuLVmOTriNPq6kGh8a) | 3:31 |

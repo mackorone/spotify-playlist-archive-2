@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,398 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,407 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 40 | [Take Me I'm Yours](https://open.spotify.com/track/1lZV08zhFneKACPkVnjScM) | [Jobriath](https://open.spotify.com/artist/4FxPaLo3DIZCmKsYuhjkhA) | [Jobriath](https://open.spotify.com/album/2yQtSuU9flHpz4LbeNVfKT) | 4:18 |
 | 41 | [Let Us Dance](https://open.spotify.com/track/79eAhQg3DC770z8t1tzIPL) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:24 |
 | 42 | [Daniel](https://open.spotify.com/track/4SerjQeo3bR6As5BsR8liB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Crying on the Bathroom Floor](https://open.spotify.com/album/6LpOq2g6EKNdl07wo3qyWJ) | 4:37 |
-| 43 | [Tender Comrade](https://open.spotify.com/track/2Rdocl8BdYWOSMAyZgTh4v) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Workers Playtime](https://open.spotify.com/album/3IDRk9hZRyYpq8DzN6jOKT) | 2:50 |
-| 44 | [Power of Love](https://open.spotify.com/track/1KI50zrJFiJ8GgJMmi4EI8) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Call Me](https://open.spotify.com/album/4KKh9HkIgvLZWaMpsF200Y) | 5:25 |
+| 43 | [Power of Love](https://open.spotify.com/track/1KI50zrJFiJ8GgJMmi4EI8) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Call Me](https://open.spotify.com/album/4KKh9HkIgvLZWaMpsF200Y) | 5:25 |
+| 44 | [Tender Comrade](https://open.spotify.com/track/2Rdocl8BdYWOSMAyZgTh4v) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Workers Playtime](https://open.spotify.com/album/3IDRk9hZRyYpq8DzN6jOKT) | 2:50 |
 | 45 | [John & Joe](https://open.spotify.com/track/4WAC6mosPEmNANxBATKDdC) | [Paxton](https://open.spotify.com/artist/20s9zlqU2bhwkhfUQsKSik) | [Paxton](https://open.spotify.com/album/7aToO8WdlovzS8oAlLHqxy) | 4:46 |
 | 46 | [I Love You Madly](https://open.spotify.com/track/72HNKYCAqZMJ6ghiPbl9ss) | [Charlie & Ray](https://open.spotify.com/artist/3GVXGMy3vsCClPJQs6r3bS) | [I Love You Madly](https://open.spotify.com/album/1FRtpKS6cNTCf0tVPrxIMx) | 1:59 |
 | 47 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/3vCHmbyOgc6pgwLUWfU4pF) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(2011 Remaster\)](https://open.spotify.com/album/0QRlYlrBuP7eGpEMZvZiaQ) | 4:56 |

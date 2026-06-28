@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Quintino
 
-717 songs - 1 day 12 hr 14 min
+718 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Everything](https://open.spotify.com/track/5rMdkUncqN8Ge7FfsuQdY6) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kristianex](https://open.spotify.com/artist/4NInysVDJHz7PCE9PfRs31) | [Everything](https://open.spotify.com/album/4DcU5B0uENei4Ae6sOGkvw) | 2:22 | 2025-01-10 | 2025-01-29 |
 | [Ex To See](https://open.spotify.com/track/1rW9cOoilihOxsqn44kxOK) | [Avao](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Ex To See](https://open.spotify.com/album/1r6w79gBGcARsQdv6NTFaq) | 3:00 | 2023-03-16 | 2023-05-13 |
 | [Explode](https://open.spotify.com/track/0zyylgb6VTV6aduH28FKIa) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Adryx\-G](https://open.spotify.com/artist/63mWvZ3jLV9zCgN2Suy8UH) | [Explode](https://open.spotify.com/album/5sPKHuezdOwju1CHCUmaFa) | 3:21 | 2023-05-18 | 2023-07-02 |
-| [Eyes Open Wide \(feat\. The Melody Men\)](https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Eyes Open Wide \(feat\. The Melody Men\)](https://open.spotify.com/album/0KXYyWngj4Vx2bgHUGO2PG) | 3:41 | 2025-06-16 |  |
+| [Eyes Open Wide \(feat\. The Melody Men\)](https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Eyes Open Wide \(feat\. The Melody Men\)](https://open.spotify.com/album/0KXYyWngj4Vx2bgHUGO2PG) | 3:41 | 2025-06-16 | 2026-06-28 |
 | [F\#CK THE DJ](https://open.spotify.com/track/4S7ga0fgQ0Cblalhj4CdqY) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [F\#CK THE DJ](https://open.spotify.com/album/4rGHE3Gk5tecgfsattdKLC) | 2:25 | 2024-07-11 | 2025-04-26 |
 | [F\*CKING SOCIETY](https://open.spotify.com/track/00CsDW3I9XueUvaXnAvGMm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:39 | 2022-12-27 | 2023-01-03 |
 | [F\*CKING SOCIETY](https://open.spotify.com/track/45857Pj90KZO6U0hzjfLfT) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [F\*CKING SOCIETY](https://open.spotify.com/album/2q0daVPSG8ly1LK8MSrFfv) | 4:39 | 2022-04-14 | 2022-06-24 |
@@ -603,6 +603,7 @@
 | [Survivors](https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Survivors](https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H) | 2:44 | 2022-04-14 | 2022-06-24 |
 | [Switch Back](https://open.spotify.com/track/1M0hRg4ccFGMqi00ITrxNv) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Switch Back](https://open.spotify.com/album/5b6uOk8B0jOexZIOqOrt3x) | 2:45 | 2022-04-14 | 2023-02-17 |
 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 | 2023-04-13 | 2023-09-15 |
+| [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 | 2026-06-26 |  |
 | [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 | 2023-01-26 | 2024-01-05 |
 | [Take Me Back](https://open.spotify.com/track/7vvNxVTviMy2dwIhaziOab) | [NGD Project](https://open.spotify.com/artist/43ljqQ6a2nZ0VVjv3ocf9q), [Steeper](https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh) | [Take Me Back](https://open.spotify.com/album/4XCFFpSnvapubSs8rUcrkp) | 2:49 | 2024-03-21 | 2024-09-27 |
 | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx) | 3:06 | 2025-10-16 | 2026-06-27 |

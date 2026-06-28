@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Esther Graf, Dani Lia, yola, reezy, Sam Smith, Juju & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,316 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,332 likes - 99 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 39 | [Easier](https://open.spotify.com/track/11offQkhMqj88OxCXNPCWW) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Easier](https://open.spotify.com/album/1zLlTwN52fMQ1ljku2o5Lk) | 3:43 |
 | 40 | [Parkplatz](https://open.spotify.com/track/3GEx3i2JgQTxo51REr3Shb) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Parkplatz](https://open.spotify.com/album/5Gef8rZwVbuHuQGzE69pdb) | 2:15 |
 | 41 | [American Wedding](https://open.spotify.com/track/6XHYOwQyNOG3vKqTk0W7Q8) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I) | 3:10 |
-| 42 | [Track 11](https://open.spotify.com/track/5qvl2kV7sn1Y2wRJlJWjSO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 0:00 |
+| 42 | [Radio](https://open.spotify.com/track/5qvl2kV7sn1Y2wRJlJWjSO) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:39 |
 | 43 | [FATE](https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [FATE](https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p) | 3:08 |
 | 44 | [Sprite](https://open.spotify.com/track/4zfZUEILMB8Aw1KtP547ht) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [JUGGLERZ](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Sprite](https://open.spotify.com/album/6pAl2Dpsv0WaiIQF1KdK1Y) | 2:47 |
 | 45 | [30€](https://open.spotify.com/track/7goq3N6UAczMqNLU04ZkW1) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [30€](https://open.spotify.com/album/6yBTDP7DtuzlKaqtqMwcLg) | 2:45 |

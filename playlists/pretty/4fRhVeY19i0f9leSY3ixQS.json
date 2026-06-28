@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1423,
+  "num_followers": 1431,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQ9OfPJeKlH0UVKgq/yrp2gkJh8aPM",
+  "snapshot_id": "AAARC2W37q/3Tpa+L/hOjGZN89vBttqC",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -691,134 +691,6 @@
       "duration_ms": 141160,
       "name": "Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/09V6l1MHQIqEgMWSOOT4j4"
-    },
-    {
-      "added_at": "2026-05-27 14:10:01",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/48SsJ3r2Vf1ChF3Oc4c0GO"
-      },
-      "artists": [
-        {
-          "name": "As the City Sleeps",
-          "url": "https://open.spotify.com/artist/0zTxOCfgU0KKUT0HmA6VKn"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/4qlXnZia84mKCiuUcpBpxF"
-    },
-    {
-      "added_at": "2026-05-27 13:20:46",
-      "album": {
-        "name": "Took the Bait",
-        "url": "https://open.spotify.com/album/1nluHzvXwQA4OrpdTmYwzj"
-      },
-      "artists": [
-        {
-          "name": "March of Depravity",
-          "url": "https://open.spotify.com/artist/32m0Jdihrp564obb2hoS3C"
-        }
-      ],
-      "duration_ms": 183556,
-      "name": "Justice and Revenge",
-      "url": "https://open.spotify.com/track/0OazDxNNK47ZVkzpuvtc86"
-    },
-    {
-      "added_at": "2026-05-27 13:12:44",
-      "album": {
-        "name": "ONLY GOD KNOWS",
-        "url": "https://open.spotify.com/album/2GgTYAki4LQDQIAUwWawVM"
-      },
-      "artists": [
-        {
-          "name": "Deficit",
-          "url": "https://open.spotify.com/artist/2tMAaxsOEo9KCueEhtf2rp"
-        }
-      ],
-      "duration_ms": 177107,
-      "name": "ONLY GOD KNOWS",
-      "url": "https://open.spotify.com/track/6kDCKwJCMiTmWFc62BF6PT"
-    },
-    {
-      "added_at": "2026-05-27 13:04:53",
-      "album": {
-        "name": "Choke On Your Hate",
-        "url": "https://open.spotify.com/album/1fEhaDe7SpBThgpFt7scsp"
-      },
-      "artists": [
-        {
-          "name": "Liar's Fear",
-          "url": "https://open.spotify.com/artist/5IV3DCEhXvAZTwvCc0XpAn"
-        }
-      ],
-      "duration_ms": 248819,
-      "name": "Start A Riot",
-      "url": "https://open.spotify.com/track/6bDE6tsNmgBEdkNg4AmSzS"
-    },
-    {
-      "added_at": "2026-05-27 13:01:03",
-      "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/7w4LWf9BWRsPeznJGZnUqD"
-      },
-      "artists": [
-        {
-          "name": "Lunar Hijack",
-          "url": "https://open.spotify.com/artist/1z1Cq7Lb7RQRIFVkK9VORO"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Worlds Collide",
-      "url": "https://open.spotify.com/track/0UUbBveljdLmHmItyOEC0F"
-    },
-    {
-      "added_at": "2026-05-27 12:56:15",
-      "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/4yhWf284wIaajxUJphgkxc"
-      },
-      "artists": [
-        {
-          "name": "Boneripper",
-          "url": "https://open.spotify.com/artist/6N5IU9LkU4ogtq88WIwDYe"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/348sLULN7wJB1dIKrACj3L"
-    },
-    {
-      "added_at": "2026-05-27 12:15:07",
-      "album": {
-        "name": "Helionautilus",
-        "url": "https://open.spotify.com/album/6rq1vwPD6T9UTECtPGR8rY"
-      },
-      "artists": [
-        {
-          "name": "Superego",
-          "url": "https://open.spotify.com/artist/1Rxod01fKMlpYCY7Fw5oRu"
-        }
-      ],
-      "duration_ms": 200851,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1uqDvSyvoZNQi6gxPAYJJO"
-    },
-    {
-      "added_at": "2026-05-27 12:12:00",
-      "album": {
-        "name": "Drought (Far from Okay)",
-        "url": "https://open.spotify.com/album/01SVLSLLdRqfsPt7WdBHqr"
-      },
-      "artists": [
-        {
-          "name": "No Bueno!",
-          "url": "https://open.spotify.com/artist/4mRxfp17YnXhS8viGECbyb"
-        }
-      ],
-      "duration_ms": 204062,
-      "name": "Drought (Far from Okay)",
-      "url": "https://open.spotify.com/track/0vudEgIj5zDwXzyK61ycw9"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -4551,6 +4423,254 @@
       "duration_ms": 198529,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/7yERL9lG267wju2Ufue3ac"
+    },
+    {
+      "added_at": "2026-06-27 08:42:07",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/5YfK3R0g8e7uQZPDP93519"
+      },
+      "artists": [
+        {
+          "name": "Fate Envoy",
+          "url": "https://open.spotify.com/artist/0z9ceq1SavOBoASRKNmF4O"
+        }
+      ],
+      "duration_ms": 249968,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/683VF3xshojCMyQalawb3z"
+    },
+    {
+      "added_at": "2026-06-27 08:41:33",
+      "album": {
+        "name": "Void Side",
+        "url": "https://open.spotify.com/album/27qTc6V8t9S61yKKXk6les"
+      },
+      "artists": [
+        {
+          "name": "Rubber Block",
+          "url": "https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk"
+        }
+      ],
+      "duration_ms": 263178,
+      "name": "Void Side",
+      "url": "https://open.spotify.com/track/5h2qXbZScJHi1TDqdPfeCR"
+    },
+    {
+      "added_at": "2026-06-27 08:41:06",
+      "album": {
+        "name": "terra xehanort and my lingering will",
+        "url": "https://open.spotify.com/album/2hoclSBFK3T8bArUzBQSQ1"
+      },
+      "artists": [
+        {
+          "name": "weonlyspokeinellipses",
+          "url": "https://open.spotify.com/artist/7htluJ2LQrzi4ZrAcLBzXd"
+        }
+      ],
+      "duration_ms": 236629,
+      "name": "terra xehanort and my lingering will",
+      "url": "https://open.spotify.com/track/372WGcjNxlBhOUo0PP7iiP"
+    },
+    {
+      "added_at": "2026-06-27 08:40:49",
+      "album": {
+        "name": "Surf & Serotonin",
+        "url": "https://open.spotify.com/album/1JT3szhOm5x29AqSfjBDCF"
+      },
+      "artists": [
+        {
+          "name": "Dane & Em.",
+          "url": "https://open.spotify.com/artist/4A3nD66XVcMtub6fNuNoea"
+        }
+      ],
+      "duration_ms": 146803,
+      "name": "Surf & Serotonin",
+      "url": "https://open.spotify.com/track/0ul1KuEwnx2mLSys4eMVPs"
+    },
+    {
+      "added_at": "2026-06-27 08:40:32",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/5YfK3R0g8e7uQZPDP93519"
+      },
+      "artists": [
+        {
+          "name": "Fate Envoy",
+          "url": "https://open.spotify.com/artist/0z9ceq1SavOBoASRKNmF4O"
+        }
+      ],
+      "duration_ms": 171575,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/6ZWJ5yo2mjEC2JWZbjejbe"
+    },
+    {
+      "added_at": "2026-06-27 08:40:13",
+      "album": {
+        "name": "Best Friends",
+        "url": "https://open.spotify.com/album/5m2Am4RMYyibOJ7dONuPRj"
+      },
+      "artists": [
+        {
+          "name": "Danama",
+          "url": "https://open.spotify.com/artist/5kjg1V3FLw9FHcFKW5NaG3"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/3lgs9gHw7nWXM0pShdSsCp"
+    },
+    {
+      "added_at": "2026-06-27 08:43:57",
+      "album": {
+        "name": "I am alone again",
+        "url": "https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn"
+      },
+      "artists": [
+        {
+          "name": "VaterSon",
+          "url": "https://open.spotify.com/artist/3NqBT0IASKLOBA3yjWh7kl"
+        }
+      ],
+      "duration_ms": 179121,
+      "name": "I am alone again",
+      "url": "https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap"
+    },
+    {
+      "added_at": "2026-06-27 08:54:50",
+      "album": {
+        "name": "BALLET BILLY",
+        "url": "https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37"
+      },
+      "artists": [
+        {
+          "name": "Cut Manners",
+          "url": "https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT"
+        }
+      ],
+      "duration_ms": 106923,
+      "name": "BALLET BILLY",
+      "url": "https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC"
+    },
+    {
+      "added_at": "2026-06-27 15:59:59",
+      "album": {
+        "name": "Blood In My Margarita",
+        "url": "https://open.spotify.com/album/6edO6esJBfjew89feH2UL8"
+      },
+      "artists": [
+        {
+          "name": "Idle Hive",
+          "url": "https://open.spotify.com/artist/3bQIHJpzSqqXQJBhX3xW0K"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Blood In My Margarita",
+      "url": "https://open.spotify.com/track/7FnAZu16iYNzn1WrRbYFbp"
+    },
+    {
+      "added_at": "2026-06-27 15:59:48",
+      "album": {
+        "name": "Back to First Place",
+        "url": "https://open.spotify.com/album/3L3cHkldRssEqumJFVx3Rn"
+      },
+      "artists": [
+        {
+          "name": "FairPlay",
+          "url": "https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Back to First Place",
+      "url": "https://open.spotify.com/track/0whtoWSCHflwjvwjPgGMFi"
+    },
+    {
+      "added_at": "2026-06-27 08:55:14",
+      "album": {
+        "name": "BEAVER CREAM",
+        "url": "https://open.spotify.com/album/4Apcv9FIdOYf98cTBOjX3t"
+      },
+      "artists": [
+        {
+          "name": "Gunnar Gill",
+          "url": "https://open.spotify.com/artist/0c1Bw1PiVMLuH06XwPKzep"
+        }
+      ],
+      "duration_ms": 44000,
+      "name": "BEAVER CREAM",
+      "url": "https://open.spotify.com/track/294bk3KsT4gWATUjSKBnKM"
+    },
+    {
+      "added_at": "2026-06-27 09:09:54",
+      "album": {
+        "name": "Crave Me",
+        "url": "https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 151149,
+      "name": "Crave Me",
+      "url": "https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER"
+    },
+    {
+      "added_at": "2026-06-27 09:11:13",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/73tvnbBeRG7QORr7tGZ6gD"
+      },
+      "artists": [
+        {
+          "name": "Silent Deeps",
+          "url": "https://open.spotify.com/artist/5UiLIP6tDiC5wm7kTpnQDQ"
+        }
+      ],
+      "duration_ms": 211902,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5kWIyNYzoNMbjIpHOcxVzf"
+    },
+    {
+      "added_at": "2026-06-27 09:24:04",
+      "album": {
+        "name": "Little Prince Loves You (feat. Ryoma Maeda)",
+        "url": "https://open.spotify.com/album/2FgnNqn5YDDCrxOPHfh6xk"
+      },
+      "artists": [
+        {
+          "name": "EeL",
+          "url": "https://open.spotify.com/artist/6sZM3BuSUL6uSBp6lFKSwZ"
+        },
+        {
+          "name": "Ryoma Maeda",
+          "url": "https://open.spotify.com/artist/7Ep5uEh8liquhxBTAsK24s"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Little Prince Loves You (feat. Ryoma Maeda)",
+      "url": "https://open.spotify.com/track/4UOc6KD0MJjDKFtIPUAxMm"
+    },
+    {
+      "added_at": "2026-06-27 16:04:35",
+      "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/4IPKQsPdGmxg8wZyMGx9Tr"
+      },
+      "artists": [
+        {
+          "name": "Resurrected",
+          "url": "https://open.spotify.com/artist/4zLoT2IPhhxC6KFDyceuJS"
+        }
+      ],
+      "duration_ms": 253979,
+      "name": "Sanity Is Lost",
+      "url": "https://open.spotify.com/track/5ajH68UKzdDlzBf3nEdVBJ"
     }
   ],
   "unique_name": "Spotify Radio",

@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Wande Coal
 
-192 songs - 9 hr 23 min
+193 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ayaya](https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Ayaya](https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm) | 2:35 | 2026-02-13 | 2026-02-20 |
 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2025-10-24 | 2026-05-22 |
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2025-10-24 | 2026-05-22 |
-| [Backa](https://open.spotify.com/track/2IA463EQ4O1pHAGQx1d1U2) | [Offei](https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Afrolektra](https://open.spotify.com/artist/0qy73oup9yKKAO8TsRoS1g) | [Backa](https://open.spotify.com/album/7oBL7XYcmrLCZJpC7YEL9B) | 2:38 | 2026-06-26 |  |
+| [Backa](https://open.spotify.com/track/2IA463EQ4O1pHAGQx1d1U2) | [Offei](https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Afrolektra](https://open.spotify.com/artist/0qy73oup9yKKAO8TsRoS1g) | [Backa](https://open.spotify.com/album/7oBL7XYcmrLCZJpC7YEL9B) | 2:38 | 2026-06-26 | 2026-06-28 |
 | [Bad Guyz](https://open.spotify.com/track/2ldT01LXWYnfhqnwidnEgG) | [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68) | [Young Poet](https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q) | 2:35 | 2026-03-20 |  |
 | [Baddi Ah](https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Mega EJ](https://open.spotify.com/artist/0sac58AQB9s0LOKuzxZ4LO), [P.M.F](https://open.spotify.com/artist/4Q3f5yoExJeuxMn9ahhXDX) | [Baddi Ah](https://open.spotify.com/album/1WYAWx6W9tjCtzjiIsLkNV) | 3:48 | 2025-12-19 | 2026-03-17 |
 | [Bank Alert](https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Bank Alert](https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS) | 2:22 | 2026-04-17 |  |
@@ -45,6 +45,7 @@
 | [Color](https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [Color / Wulo](https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56) | 2:02 | 2026-06-19 |  |
 | [Dance for Jesus](https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dance for Jesus](https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp) | 3:20 | 2026-04-10 |  |
 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 | 2025-10-24 |  |
+| [Dantata](https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Dantata](https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR) | 2:55 | 2026-06-26 |  |
 | [Dejavu](https://open.spotify.com/track/5tyPv5ahgOfuXdH5vLaTQg) | [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [HOLD SOMETHING](https://open.spotify.com/album/1CtWOlo0iZ2J9j6UQxVGeG) | 2:55 | 2026-04-17 |  |
 | [Desperado](https://open.spotify.com/track/7eOLTVEwZIbtXudBAyYc66) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Desperado](https://open.spotify.com/album/3ZCDkSaPqC2jeawlCKFiOs) | 2:38 | 2025-11-21 | 2025-11-28 |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2026-03-16 | 2026-04-10 |

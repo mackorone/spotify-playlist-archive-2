@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1235102,
+  "num_followers": 1235179,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAAACl5PicyGsZ2ad2ruapQn2",
+  "snapshot_id": "aj3BAAAAAAAzg8Fek8kmVw2Z5ThesxWo",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pac's Life",
-        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Yaki Kadafi",
-          "url": "https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Soon As I Get Home",
-      "url": "https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Until The End Of Time",
         "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 266506,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pac's Life",
+        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Yaki Kadafi",
+          "url": "https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Soon As I Get Home",
+      "url": "https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 235333,
+      "name": "Letter 2 My Unborn",
+      "url": "https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Art of War: World War 2",
         "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 307986,
       "name": "Thug Luv (feat. 2pac)",
       "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until The End Of Time",
-        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 235333,
-      "name": "Letter 2 My Unborn",
-      "url": "https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gang Related (The Soundtrack)",
-        "url": "https://open.spotify.com/album/5iqST54O6TuS2703794jwj"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 313506,
-      "name": "Starin' Through My Rear View",
-      "url": "https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R U Still Down? [Remember Me]",
         "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 255000,
       "name": "Hellrazor",
       "url": "https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gang Related (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5iqST54O6TuS2703794jwj"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 313506,
+      "name": "Starin' Through My Rear View",
+      "url": "https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Different Me",
-        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 291240,
-      "name": "Playa Cardz Right",
-      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 274626,
       "name": "Pain",
       "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Different Me",
+        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 291240,
+      "name": "Playa Cardz Right",
+      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
     },
     {
       "added_at": null,

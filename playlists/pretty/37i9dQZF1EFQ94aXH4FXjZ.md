@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 80 | [Breakdown](https://open.spotify.com/track/5kF6Hk6XsRZfWH7AgEGRS3) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Stories We Could Tell](https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0) | 3:12 |
 | 81 | [Stallion](https://open.spotify.com/track/3LJ0XOmknFFAV9DCPTIyOF) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless...And Who's to Blame](https://open.spotify.com/album/2vde6ipQcJs8ejllLtqtgT) | 4:46 |
 | 82 | [The Year 2000 Minus 25](https://open.spotify.com/track/3inL2jS4p033tEAJrBRxdN) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless...And Who's to Blame](https://open.spotify.com/album/2vde6ipQcJs8ejllLtqtgT) | 3:39 |
-| 83 | [I Got a Life of My Own](https://open.spotify.com/track/1ZQECawcRdpT8G3jgs1p9q) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5tq8ZTX4xFRtStsQ1KNUgZ) | 3:38 |
-| 84 | [Jody a Kid](https://open.spotify.com/track/3nbYWZ9mc1EUmJLZpzaOJZ) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:43 |
+| 83 | [Jody a Kid](https://open.spotify.com/track/3nbYWZ9mc1EUmJLZpzaOJZ) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:43 |
+| 84 | [I Got a Life of My Own](https://open.spotify.com/track/1ZQECawcRdpT8G3jgs1p9q) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Surreal Thing](https://open.spotify.com/album/5tq8ZTX4xFRtStsQ1KNUgZ) | 3:38 |
 | 85 | [Nedělní ráno \(Sunday Morning Coming Down\)](https://open.spotify.com/track/5966S2MnaKG9n5JGIM5M4j) | [Pavel Bobek](https://open.spotify.com/artist/0ulIHeEFNTdyP8VIjGjq4O) | [Vic nehledam...](https://open.spotify.com/album/1P1o9btDCuonkTdng3hPso) | 3:49 |
 | 86 | [If It's All the Same to You](https://open.spotify.com/track/3xHQeTRZ4unwNJfvCnd7RP) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless...And Who's to Blame](https://open.spotify.com/album/2vde6ipQcJs8ejllLtqtgT) | 3:15 |
 | 87 | [Anybody That Don't Like Millie Jackson](https://open.spotify.com/track/5pRtWCKLb7W59TuBXlpwqZ) | [Millie Jackson](https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1) | [Just a Lil' Bit Country](https://open.spotify.com/album/3AQTEd13jucQFeaVVdwPQq) | 2:53 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcVSRgAAAACxML4KFssTa/OZuZCOfU3D`
+Snapshot ID: `AcVX5gAAAACxuWRuLbzA+AThFFiVC8y+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Shimza
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,000 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,082 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 49 | [Tropical Island \(feat\. Gee Skillz\)](https://open.spotify.com/track/5xHyRPe2muEv4qU3k76TEF) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Gee Skillz](https://open.spotify.com/artist/0Uz5ExTFA0c5xzW74CtgbQ) | [Tropical Island \(feat\. Gee Skillz\)](https://open.spotify.com/album/636jKpmnmefeRkI6Tjjnv0) | 3:14 |
 | 50 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/54XKdmJkyJjdLMSA5h1rNE), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
 
-Snapshot ID: `AAAAAIZ0NctI07WNDM+Lasr7Ri7v8UMX`
+Snapshot ID: `AAAAAMoHvqGrhG9ef7U6Z1a4lhlhj17s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni per un'estate non proprio felice 🥀 Oliver Tree in cover, in ricordo 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,381 likes - 119 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,389 likes - 119 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

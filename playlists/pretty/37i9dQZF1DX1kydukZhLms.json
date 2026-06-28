@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1558123,
+  "num_followers": 1558301,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Life Eternal",
-      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Chapter V",
         "url": "https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 251013,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Cherry Pie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
-      },
-      "artists": [
-        {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Blind Faith",
-      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Set The World On Fire",
         "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 228546,
       "name": "Phoenix Rising",
       "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Cherry Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Don't Cry (Original)",
-      "url": "https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 273200,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Don't Cry (Original)",
+      "url": "https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Deadly Sting: The Mercury Years",
-        "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
         }
       ],
-      "duration_ms": 313693,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV"
+      "duration_ms": 237920,
+      "name": "I Don't Care (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
+        "name": "Deadly Sting: The Mercury Years",
+        "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 237920,
-      "name": "I Don't Care (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
+      "duration_ms": 313693,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV"
     },
     {
       "added_at": "2026-01-09 05:00:22",

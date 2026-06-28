@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355442,
+  "num_followers": 355436,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,26 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Estrela Do Meu Show",
+        "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 246835,
+      "name": "Estrela Do Meu Show",
+      "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Nas Profundezas Da Onda",
         "url": "https://open.spotify.com/album/0zZ2e0o5U9dizYJip1Fcxc"
       },
@@ -551,6 +571,22 @@
       "duration_ms": 249798,
       "name": "Vila do Sossego",
       "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "Nome Luz",
+        "url": "https://open.spotify.com/album/3MCeNJCGMIYhQix7JqTnc9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Nome Luz",
+      "url": "https://open.spotify.com/track/5AvYzeedoC4hGnI7UTLF32"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -743,22 +779,6 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Depois do Breu",
-        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
-      },
-      "artists": [
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "Depois do Breu",
-      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
         "name": "Homem com H",
         "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
@@ -791,6 +811,22 @@
       "duration_ms": 138804,
       "name": "janeiro",
       "url": "https://open.spotify.com/track/0yeURxDXfCeHCkecSj8b4H"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "Depois do Breu",
+        "url": "https://open.spotify.com/album/2ZzOd4RWiJUBjRwsMoqsY7"
+      },
+      "artists": [
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "Depois do Breu",
+      "url": "https://open.spotify.com/track/1uGsuX9zgJPjRBmMN2u2pZ"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1011,6 +1047,22 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Tum Tum Tum",
         "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
       },
@@ -1023,6 +1075,26 @@
       "duration_ms": 250156,
       "name": "Tudo Que Se Tem",
       "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "Nua Ideia",
+        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "Nua Ideia",
+      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1067,22 +1139,26 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Pra Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
+        "name": "Garotos II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
       },
       "artists": [
         {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
         },
         {
-          "name": "Dudu Nobre",
-          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+          "name": "Outro Futuro",
+          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
         }
       ],
-      "duration_ms": 227066,
-      "name": "Pra Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
+      "duration_ms": 236061,
+      "name": "Garotos II - Ao Vivo",
+      "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1103,34 +1179,22 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+        "name": "Pra Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
       },
       "artists": [
         {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/0VLMPprvToCvNmrUeRlW43"
-      },
-      "artists": [
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        },
         {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
         }
       ],
-      "duration_ms": 191330,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
+      "duration_ms": 227066,
+      "name": "Pra Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1155,26 +1219,18 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Garotos II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7zY74hy1FpTWzsHo6zCVEw"
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/0VLMPprvToCvNmrUeRlW43"
       },
       "artists": [
         {
-          "name": "Leoni",
-          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
-        },
-        {
-          "name": "Outro Futuro",
-          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
-        },
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
         }
       ],
-      "duration_ms": 236061,
-      "name": "Garotos II - Ao Vivo",
-      "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+      "duration_ms": 191330,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/0nEs39xCUywoYfAHxzvCN8"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1215,6 +1271,26 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Charme Do Mundo",
+        "url": "https://open.spotify.com/album/5hZeK56neuhdhzune4QtYu"
+      },
+      "artists": [
+        {
+          "name": "Leoni",
+          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
+        },
+        {
+          "name": "Outro Futuro",
+          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
+        }
+      ],
+      "duration_ms": 241401,
+      "name": "Charme Do Mundo",
+      "url": "https://open.spotify.com/track/3NTNo2SvRGXarNeME5y1X4"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Pupillo",
         "url": "https://open.spotify.com/album/2oOKYjxPF5C3gvWDAugzqn"
       },
@@ -1239,6 +1315,30 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Vamos Combinar",
+        "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Patricia Alv\u00ed",
+          "url": "https://open.spotify.com/artist/5WGPMslRfLABPYtX32IAkb"
+        }
+      ],
+      "duration_ms": 216592,
+      "name": "Vamos Combinar",
+      "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Mandinga",
         "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
       },
@@ -1259,26 +1359,6 @@
       "duration_ms": 156000,
       "name": "Mandinga",
       "url": "https://open.spotify.com/track/3jEit8uxHNRvDwhHdMSE3H"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Charme Do Mundo",
-        "url": "https://open.spotify.com/album/5hZeK56neuhdhzune4QtYu"
-      },
-      "artists": [
-        {
-          "name": "Leoni",
-          "url": "https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL"
-        },
-        {
-          "name": "Outro Futuro",
-          "url": "https://open.spotify.com/artist/7IGi9K7nL5xNTXRS7c78QT"
-        }
-      ],
-      "duration_ms": 241401,
-      "name": "Charme Do Mundo",
-      "url": "https://open.spotify.com/track/3NTNo2SvRGXarNeME5y1X4"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1463,26 +1543,6 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Nua Ideia",
-        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "Nua Ideia",
-      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
         "name": "Nem Uma, Nem Duas, Nem Tr\u00eas",
         "url": "https://open.spotify.com/album/2hvJJexRYmnsXWBaLLukU2"
       },
@@ -1535,66 +1595,6 @@
       "duration_ms": 165543,
       "name": "Tua",
       "url": "https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Vamos Combinar",
-        "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "Patricia Alv\u00ed",
-          "url": "https://open.spotify.com/artist/5WGPMslRfLABPYtX32IAkb"
-        }
-      ],
-      "duration_ms": 216592,
-      "name": "Vamos Combinar",
-      "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Nome Luz",
-        "url": "https://open.spotify.com/album/3MCeNJCGMIYhQix7JqTnc9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Nome Luz",
-      "url": "https://open.spotify.com/track/5AvYzeedoC4hGnI7UTLF32"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Estrela Do Meu Show",
-        "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 246835,
-      "name": "Estrela Do Meu Show",
-      "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
     }
   ],
   "unique_name": "Divina MPB",

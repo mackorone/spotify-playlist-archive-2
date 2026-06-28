@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 92905,
+  "num_followers": 92959,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -247,46 +247,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "3some",
-        "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
-      },
-      "artists": [
-        {
-          "name": "Chzter",
-          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
-        },
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "angely2k",
-          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "3some",
-      "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "BRAZIL",
         "url": "https://open.spotify.com/album/7LNObuBTPKtOcm7ZF7GRRq"
       },
@@ -311,6 +271,46 @@
       "duration_ms": 124878,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/52jGzQHfgGrr6Y9hVaGM6R"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "3some",
+        "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
+      },
+      "artists": [
+        {
+          "name": "Chzter",
+          "url": "https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "angely2k",
+          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "3some",
+      "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "CAMINO",
-        "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        },
-        {
-          "name": "Xiuhtezcatl",
-          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
-        }
-      ],
-      "duration_ms": 184832,
-      "name": "CAMINO",
-      "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "DRAMATIKA!",
         "url": "https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 107437,
       "name": "DRAMATIKA!",
       "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "CAMINO",
+        "url": "https://open.spotify.com/album/0vUAfMyeqlXI2vHy22oKSw"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Xiuhtezcatl",
+          "url": "https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE"
+        }
+      ],
+      "duration_ms": 184832,
+      "name": "CAMINO",
+      "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 203276,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 147453,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/7Em8Ee0KGibwIr5smqk1TJ"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 203276,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "solo hoy",
-        "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
-      },
-      "artists": [
-        {
-          "name": "Absa G.",
-          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
-        }
-      ],
-      "duration_ms": 153903,
-      "name": "solo hoy",
-      "url": "https://open.spotify.com/track/1T9JFR187fKFVsP7NzDISW"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "En el sur//Flakita (REMIX)",
         "url": "https://open.spotify.com/album/77xAgVySzn76nQ2fNNYLac"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186639,
       "name": "En el sur - REMIX",
       "url": "https://open.spotify.com/track/7h31UFRcfMvKgBKIWDWVFg"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "solo hoy",
+        "url": "https://open.spotify.com/album/2qKpmJjujSv9fl4HzmyilR"
+      },
+      "artists": [
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "duration_ms": 153903,
+      "name": "solo hoy",
+      "url": "https://open.spotify.com/track/1T9JFR187fKFVsP7NzDISW"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "MONTAGEM BALENCI?",
-        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
-      },
-      "artists": [
-        {
-          "name": "BOWSY",
-          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
-        }
-      ],
-      "duration_ms": 96471,
-      "name": "MONTAGEM BALENCI?",
-      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "MBAPPE",
         "url": "https://open.spotify.com/album/6Lm5fhix3PtnS9dseMeYbM"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 144496,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/13PnQ2i53c540Ai5o0vY77"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "MONTAGEM BALENCI?",
+        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
+      },
+      "artists": [
+        {
+          "name": "BOWSY",
+          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
+        }
+      ],
+      "duration_ms": 96471,
+      "name": "MONTAGEM BALENCI?",
+      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
     },
     {
       "added_at": "2026-06-22 17:58:29",

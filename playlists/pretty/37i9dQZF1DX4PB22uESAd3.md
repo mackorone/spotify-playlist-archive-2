@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Little Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,986 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,998 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 31 | [Rock It For Me](https://open.spotify.com/track/0C0H0Drjxe9gnQtYz2f5b6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chick Webb](https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb) | [The Early Years \- Part 1 \(1935\-1938\)](https://open.spotify.com/album/24lKvz4OOlIWhpYxBnHBTR) | 3:09 |
 | 32 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 |
 | 33 | [How Many More Years](https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:43 |
-| 34 | [Hound Dog \- Single Version](https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:51 |
+| 34 | [Hound Dog](https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:51 |
 | 35 | [Rocket 88](https://open.spotify.com/track/2WODVps1PWm5KHCXlpe7Mw) | [Jackie Brenston](https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj) | [Presenting Jackie Brenston](https://open.spotify.com/album/0lGyLGmExgZq0spI3df0ow) | 2:46 |
 | 36 | [Whole Lotta Shakin' Goin' On](https://open.spotify.com/track/0hje5OrPK3XNbcuGzmZwDV) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [I've Got a Feelin' \- Okeh & Savoy Recordings 1952\-56](https://open.spotify.com/album/23TvdUPk9uACZuIROsADwL) | 2:56 |
 | 37 | [Kissing in the Dark](https://open.spotify.com/track/1gmD8S3i2TKBPxWbanoYJi) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Presenting Memphis Minnie](https://open.spotify.com/album/3dEooHBk6cpxW98yT25Z3T) | 2:31 |

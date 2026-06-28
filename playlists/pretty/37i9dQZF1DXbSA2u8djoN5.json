@@ -903,8 +903,8 @@
     {
       "added_at": "2026-06-25 21:00:51",
       "album": {
-        "name": "Auzeam, Gheorghe",
-        "url": "https://open.spotify.com/album/3xtGoVN6IHFt5JZQbReNsx"
+        "name": "Eu Beu / 3 Pahare",
+        "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
       },
       "artists": [
         {
@@ -914,31 +914,15 @@
         {
           "name": "Feoctist",
           "url": "https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Auzeam, Gheorghe",
-      "url": "https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x"
-    },
-    {
-      "added_at": "2026-06-25 21:00:51",
-      "album": {
-        "name": "Corina",
-        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
-      },
-      "artists": [
-        {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
         },
         {
-          "name": "Lexi Cali",
-          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
+          "name": "Pavel Stratan",
+          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Corina",
-      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
+      "duration_ms": 200100,
+      "name": "Eu Beu / 3 Pahare",
+      "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
     },
     {
       "added_at": "2026-06-25 21:00:51",
@@ -963,22 +947,38 @@
     {
       "added_at": "2026-06-25 21:00:51",
       "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr"
+        "name": "Corina",
+        "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
         },
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Lexi Cali",
+          "url": "https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Hustler",
-      "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
+      "duration_ms": 221250,
+      "name": "Corina",
+      "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
+    },
+    {
+      "added_at": "2026-06-25 21:00:51",
+      "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     }
   ],
   "unique_name": "Suflet + Sunet",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAABOtb097DOFfk9uFahxWT9u",
+  "snapshot_id": "aj3BAAAAAACWXEJWoEKCEBj8Hcm0VYzY",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 399720,
-      "name": "Symphonic Industry",
-      "url": "https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spectre",
         "url": "https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 450986,
       "name": "Blood Celebrants",
       "url": "https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 399720,
+      "name": "Symphonic Industry",
+      "url": "https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,215 likes - 160 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,236 likes - 160 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

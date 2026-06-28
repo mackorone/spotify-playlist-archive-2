@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Helena Gao✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,122 likes - 318 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,116 likes - 318 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

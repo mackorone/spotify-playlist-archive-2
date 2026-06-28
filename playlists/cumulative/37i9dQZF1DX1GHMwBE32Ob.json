@@ -3877,7 +3877,7 @@
     },
     {
       "album": {
-        "name": "B4R&W",
+        "name": "B4R&W TAPE",
         "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
       },
       "artists": [
@@ -8179,6 +8179,28 @@
     },
     {
       "album": {
+        "name": "Richard Mille",
+        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
+      },
+      "artists": [
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171707,
+      "name": "Richard Mille",
+      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
+    },
+    {
+      "album": {
         "name": "Rock Me Gentle",
         "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
       },
@@ -8874,7 +8896,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 172631,
       "name": "Stack",
       "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"

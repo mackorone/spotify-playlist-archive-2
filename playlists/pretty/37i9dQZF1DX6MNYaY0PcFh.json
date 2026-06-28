@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105718,
+  "num_followers": 105725,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP"
+        "name": "Right Before My Eyes",
+        "url": "https://open.spotify.com/album/4pQEJPHRmbnR31a6jL2KJf"
       },
       "artists": [
         {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX"
+      "duration_ms": 132535,
+      "name": "Right Before My Eyes",
+      "url": "https://open.spotify.com/track/0wqlrGYS9APVK8H7ELMsRv"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -603,18 +599,22 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "Right Before My Eyes",
-        "url": "https://open.spotify.com/album/4pQEJPHRmbnR31a6jL2KJf"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP"
       },
       "artists": [
         {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 132535,
-      "name": "Right Before My Eyes",
-      "url": "https://open.spotify.com/track/0wqlrGYS9APVK8H7ELMsRv"
+      "duration_ms": 154500,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -739,34 +739,18 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
-        "name": "SMOOTH",
-        "url": "https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV"
+        "name": "The Only Girl",
+        "url": "https://open.spotify.com/album/35f39zrLT2gOs0LdK9K7q1"
       },
       "artists": [
         {
-          "name": "Ben Gerrans",
-          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+          "name": "Faster Horses",
+          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
         }
       ],
-      "duration_ms": 204285,
-      "name": "SMOOTH",
-      "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
+      "duration_ms": 202285,
+      "name": "The Only Girl",
+      "url": "https://open.spotify.com/track/7dYAexcUcOmhxbPFvuqFRP"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -791,6 +775,38 @@
       "duration_ms": 199411,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "SMOOTH",
+        "url": "https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "SMOOTH",
+      "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -847,22 +863,6 @@
       "duration_ms": 123406,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "The Only Girl",
-        "url": "https://open.spotify.com/album/35f39zrLT2gOs0LdK9K7q1"
-      },
-      "artists": [
-        {
-          "name": "Faster Horses",
-          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "The Only Girl",
-      "url": "https://open.spotify.com/track/7dYAexcUcOmhxbPFvuqFRP"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-06-18 23:00:46",
       "album": {
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+      },
+      "artists": [
+        {
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
         "name": "XTZY",
         "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 167492,
       "name": "XTZY",
       "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
-      },
-      "artists": [
-        {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1143,6 +1143,30 @@
       "duration_ms": 170675,
       "name": "Something Something",
       "url": "https://open.spotify.com/track/3PnFGZAj3YvVLLCRYiEAaW"
+    },
+    {
+      "added_at": "2026-06-18 23:00:46",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Royal-T",
+          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
+        }
+      ],
+      "duration_ms": 193361,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY"
     },
     {
       "added_at": "2026-06-18 23:00:46",
@@ -1179,30 +1203,6 @@
       "duration_ms": 225865,
       "name": "10 HRS",
       "url": "https://open.spotify.com/track/5gPo2F7Swj0goIYl7i6ASQ"
-    },
-    {
-      "added_at": "2026-06-18 23:00:46",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Royal-T",
-          "url": "https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW"
-        }
-      ],
-      "duration_ms": 193361,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY"
     },
     {
       "added_at": "2026-06-18 23:00:46",

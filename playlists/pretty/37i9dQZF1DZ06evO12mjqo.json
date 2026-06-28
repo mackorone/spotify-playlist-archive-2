@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 479217,
+  "num_followers": 479232,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAAAMkG8ffQJyGTj5cOBXfPAS",
+  "snapshot_id": "aj3BAAAAAAAFGaFQvQ22cEhidiyDoNDl",
   "tracks": [
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+        "name": "Infestissumam",
+        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Missionary Man",
-      "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
+      "duration_ms": 449240,
+      "name": "Ghuleh / Zombie Queen",
+      "url": "https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infestissumam",
-        "url": "https://open.spotify.com/album/32CbQps06lUasiux6N8tP3"
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 449240,
-      "name": "Ghuleh / Zombie Queen",
-      "url": "https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH"
+      "duration_ms": 222840,
+      "name": "Missionary Man",
+      "url": "https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE"
     },
     {
       "added_at": null,

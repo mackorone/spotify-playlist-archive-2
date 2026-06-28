@@ -13769,6 +13769,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "G Party",
+      "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
+    },
+    {
+      "album": {
         "name": "G Party / V\u0161e co chci",
         "url": "https://open.spotify.com/album/0fpV73MJQpNyQPAdQQWQbu"
       },
@@ -14272,7 +14290,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/2K8HLQXU4EB3ZdpNqGN8um"
@@ -21007,6 +21025,24 @@
     },
     {
       "album": {
+        "name": "KOPRETINA",
+        "url": "https://open.spotify.com/album/3XxKczAhW9LhX1GJCGBvgB"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "KOPRETINA",
+      "url": "https://open.spotify.com/track/6pRO78el36tftyXnMDPRK7"
+    },
+    {
+      "album": {
         "name": "Kruhy & Vlny (217 Twins Edition)",
         "url": "https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK"
       },
@@ -26532,7 +26568,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 182466,
       "name": "M\u011bls m\u011b v\u016fbec r\u00e1d",
       "url": "https://open.spotify.com/track/1LQzySS3USmq6kOIEi2e4Z"
@@ -32288,7 +32324,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 163943,
       "name": "PODIVEJ MAMA",
       "url": "https://open.spotify.com/track/7osqbqyj4FoRSXiHiFofFQ"
@@ -32342,7 +32378,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 165653,
       "name": "POKOJ",
       "url": "https://open.spotify.com/track/4B58Cxz0NXtUEopsHNJWuP"
@@ -36382,7 +36418,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 178733,
       "name": "Sex & CITY",
       "url": "https://open.spotify.com/track/58U67wmp9c5i3ggIwh5SuN"
@@ -39576,7 +39612,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -40348,7 +40384,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 163209,
       "name": "Talk2me",
       "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
@@ -48804,7 +48840,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 205780,
       "name": "\u017dijeme len raz",
       "url": "https://open.spotify.com/track/3vjZjq1a1kCmt4FWuDIiOJ"

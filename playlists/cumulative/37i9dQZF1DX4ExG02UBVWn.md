@@ -4,7 +4,7 @@
 
 > for the late nights
 
-105 songs - 5 hr 44 min
+106 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [ALMOST LOST](https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [AND GOD SAID...](https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx) | 4:14 | 2025-08-07 |  |
 | [Another Life](https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Take Two](https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym) | 1:53 | 2025-08-07 |  |
 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 | 2025-08-07 |  |
-| [B P D](https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [B P D](https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3) | 2:35 | 2025-08-07 |  |
+| [B P D](https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [B P D](https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3) | 2:35 | 2025-08-07 | 2026-06-28 |
 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 | 2025-08-07 |  |
 | [Bad](https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [Bad](https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA) | 3:31 | 2025-08-07 |  |
 | [Be Afraid](https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy) | [Shanaz Dorsett](https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym) | [Be Afraid](https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1) | 3:19 | 2025-08-07 |  |
@@ -99,6 +99,7 @@
 | [Soapbox Soliloquy](https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Further Out Than The Edge](https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2) | 3:38 | 2025-08-07 |  |
 | [Someday](https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Someday](https://open.spotify.com/album/66xoAQqY1lhuXWsgxrOLmG) | 4:22 | 2025-08-07 |  |
 | [Stay](https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Stay](https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe) | 2:55 | 2025-08-07 |  |
+| [Stay Up](https://open.spotify.com/track/1j2nst74Fri33ZcEP3tbaP) | [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU) | [Stay Up](https://open.spotify.com/album/05iSw1a8uWIchW2ntRaEVE) | 2:14 | 2025-08-07 |  |
 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 | 2025-08-07 |  |
 | [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2025-08-07 |  |
 | [The Invisible Man](https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [The Invisible Man](https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ) | 6:05 | 2025-08-07 |  |

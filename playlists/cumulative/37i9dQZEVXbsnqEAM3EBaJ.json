@@ -740,7 +740,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 200000,
       "name": "4 Flowers",
       "url": "https://open.spotify.com/track/3wc2PoPGpb1vzM79AgitIh"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 264672,
       "name": "A Gentle Pause",
       "url": "https://open.spotify.com/track/7e0HdGBMVFYxJdW1pmfwWZ"
@@ -1422,10 +1422,28 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 402266,
       "name": "A Hard Lesson - Bright-Side Mix",
       "url": "https://open.spotify.com/track/1VIIFuDKNKytU7am8QCsHo"
+    },
+    {
+      "album": {
+        "name": "A Hard Lesson (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1BIjNpzkX3QJYq2p7xtIe5"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402266,
+      "name": "A Hard Lesson - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/5utOJmodZB4zaxbTeKm2mq"
     },
     {
       "album": {
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 195999,
       "name": "Ain't No Hard Feelings",
       "url": "https://open.spotify.com/track/1hyn89wn5K01dpyw1cmyhQ"
@@ -9942,7 +9960,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 188053,
       "name": "CANDY DOPAMINE",
       "url": "https://open.spotify.com/track/5P1yityyf84Xrr0f9iL451"
@@ -11512,7 +11530,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 303333,
       "name": "Colours",
       "url": "https://open.spotify.com/track/4YFNCDfkYNfML4lxmG5COc"
@@ -11566,7 +11584,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 193270,
       "name": "Come Inside",
       "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
@@ -12260,7 +12278,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 77531,
       "name": "Craxer",
       "url": "https://open.spotify.com/track/6eiCU5XFyEXyem2IdxyvE0"
@@ -13413,6 +13431,24 @@
     },
     {
       "album": {
+        "name": "De Oppresso Liber",
+        "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "De Oppresso Liber",
+      "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -13424,7 +13460,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 240208,
       "name": "De Oppresso Liber",
       "url": "https://open.spotify.com/track/57Q1xt7MDEGuN5My2ATEB2"
@@ -19272,7 +19308,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 222656,
       "name": "Fairy Spark in the Night",
       "url": "https://open.spotify.com/track/4BNVDJ8YoWGxeNzQfwGNyL"
@@ -21550,7 +21586,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 348533,
       "name": "Future Breed Machine - Remastered 2026",
       "url": "https://open.spotify.com/track/2LalwijfqunfEmhKWMSHW9"
@@ -21608,7 +21644,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 251137,
       "name": "Ganymede",
       "url": "https://open.spotify.com/track/38tbcn81NDdOxR35CSvHEG"
@@ -23212,6 +23248,24 @@
       "duration_ms": 285472,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
+    },
+    {
+      "album": {
+        "name": "Thread",
+        "url": "https://open.spotify.com/album/78Ymq0pnIrAt7O1ueJFLA9"
+      },
+      "artists": [
+        {
+          "name": "Ostraca",
+          "url": "https://open.spotify.com/artist/12QhXwxSPz6xu42dDkDuCV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503137,
+      "name": "Greater Darkness (Something Worse)",
+      "url": "https://open.spotify.com/track/1aC0phmSc14m6KAj73wrpI"
     },
     {
       "album": {
@@ -34782,7 +34836,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 260017,
       "name": "Looking Forward - Live",
       "url": "https://open.spotify.com/track/0Pm715CHMakXd986xWd2cq"
@@ -35452,7 +35506,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 188972,
       "name": "Love Reign O'er Me - Boomerang Remix",
       "url": "https://open.spotify.com/track/5ewg8NmWIOugU3qwHdPohA"
@@ -36176,8 +36230,8 @@
       },
       "artists": [
         {
-          "name": "Oceans On Other Planets",
-          "url": "https://open.spotify.com/artist/70MkfEbiq5nm0SI6LKjdT9"
+          "name": "Oceans on Other Planets",
+          "url": "https://open.spotify.com/artist/27C7v5494emvbPVLdV6Cnq"
         },
         {
           "name": "Jay Gordon",
@@ -38193,6 +38247,24 @@
     },
     {
       "album": {
+        "name": "Temptation's Gates",
+        "url": "https://open.spotify.com/album/5JVhnVrXFpSvFx5YZV1Kyg"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249037,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/01Ae1MOvqJi945XsZOyUVA"
+    },
+    {
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/0xzO3jyTptsZrDuQnYeH4E"
       },
@@ -38204,7 +38276,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 249037,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6ZIH0zSf83nqyuIQbzE1nq"
@@ -43758,7 +43830,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 202634,
       "name": "PERDERME OTRA VEZ",
       "url": "https://open.spotify.com/track/5pcCLRuTf0riIoBuZMYkBz"
@@ -44744,7 +44816,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 114529,
       "name": "Power Rangers Ninja Storm",
       "url": "https://open.spotify.com/track/1ryMM2FCH6Dy6Per8wtEqK"
@@ -47096,6 +47168,28 @@
     {
       "album": {
         "name": "Repeat It",
+        "url": "https://open.spotify.com/album/5uCUphHmsb2vwkIOKEbLjo"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/6TWWauThn6z8xOFpG4XF3O"
+    },
+    {
+      "album": {
+        "name": "Repeat It",
         "url": "https://open.spotify.com/album/26BIQtVx5tvol3HlUuhT1h"
       },
       "artists": [
@@ -47110,7 +47204,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/70uAgpGV19qA3TusjhP9no"
@@ -49516,7 +49610,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 203440,
       "name": "Schwarzer Engel",
       "url": "https://open.spotify.com/track/5RGrCElLWilhDedU13w54i"
@@ -52113,6 +52207,64 @@
     },
     {
       "album": {
+        "name": "Relaxing Sounds for Quiet Days",
+        "url": "https://open.spotify.com/album/6hvU6LT3Hvbfqkpw3QrJxq"
+      },
+      "artists": [
+        {
+          "name": "DVE",
+          "url": "https://open.spotify.com/artist/5mEsO7hgZjoJ8Wc6pIopHo"
+        },
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174623,
+      "name": "Soft Clouds Drifting Overhead",
+      "url": "https://open.spotify.com/track/5yKfz5cmZe7geZDeEtbyMC"
+    },
+    {
+      "album": {
         "name": "Relaxing Hours",
         "url": "https://open.spotify.com/album/1ey1xiKXx2nuqjnlk7lyrl"
       },
@@ -54004,7 +54156,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 187040,
       "name": "Stone",
       "url": "https://open.spotify.com/track/0cavHxQCIaWD859Th2AXyc"
@@ -57146,7 +57298,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 226987,
       "name": "THE DARK",
       "url": "https://open.spotify.com/track/2DaL7tD1NdsuoOJtOwW6tc"
@@ -58042,6 +58194,24 @@
       "duration_ms": 283800,
       "name": "The Lesson (.44 Magnum) [feat. Aaron Pauley]",
       "url": "https://open.spotify.com/track/7cWcJnDpRdfVGgbg56Z0No"
+    },
+    {
+      "album": {
+        "name": "THE LIGHT OF HOPE",
+        "url": "https://open.spotify.com/album/1T5XtRvClk58G7KpmEuDPc"
+      },
+      "artists": [
+        {
+          "name": "GALNERYUS",
+          "url": "https://open.spotify.com/artist/3BNDjSD67jJE4fhxX1b2OV"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527000,
+      "name": "THE LIGHT OF HOPE",
+      "url": "https://open.spotify.com/track/0xxnvxnMeoJtGoWCLocITz"
     },
     {
       "album": {
@@ -65456,7 +65626,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 155053,
       "name": "We Love To Boogie (Take 4) (Overdub)",
       "url": "https://open.spotify.com/track/2DRiQThrGAg32eHMYozrAQ"
@@ -65521,6 +65691,24 @@
     },
     {
       "album": {
+        "name": "We March",
+        "url": "https://open.spotify.com/album/4CFGQI4DQQPlzgAAJbc8QT"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339578,
+      "name": "We March",
+      "url": "https://open.spotify.com/track/2qmcGDZVRyl4tKAHyTe9U8"
+    },
+    {
+      "album": {
         "name": "We Might as Well Be Strangers (ft. Wednesday)",
         "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
       },
@@ -65536,7 +65724,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 214346,
       "name": "We Might as Well Be Strangers (ft. Wednesday)",
       "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
@@ -67140,7 +67328,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 186740,
       "name": "Wired For Chaos",
       "url": "https://open.spotify.com/track/6CpbTTPH4LyMiy18cl4295"
@@ -68884,7 +69072,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 275106,
       "name": "\u00bfNo ves?",
       "url": "https://open.spotify.com/track/7z598XmMJYKMG7U2OaifNY"

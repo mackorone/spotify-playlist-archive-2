@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60908,
+  "num_followers": 60930,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
+        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
+        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 126232,
+      "name": "Ab in den Urlaub",
+      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
         "name": "Ab zum Meer / \u041a\u044a\u043c \u043c\u043e\u0440\u0435\u0442\u043e",
         "url": "https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 119215,
       "name": "Idas Sommerlied",
       "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
-        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 126232,
-      "name": "Ab in den Urlaub",
-      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -659,6 +659,30 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
+        "name": "Mango, Kiwi, Banana",
+        "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
+      },
+      "artists": [
+        {
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        },
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Mango, Kiwi, Banana",
+      "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
         "name": "Schmetterlingskacke",
         "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
       },
@@ -675,22 +699,6 @@
       "duration_ms": 182213,
       "name": "Glitzer",
       "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -735,42 +743,18 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Mango, Kiwi, Banana",
-        "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
       },
       "artists": [
         {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
-        },
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        },
-        {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 142105,
-      "name": "Mango, Kiwi, Banana",
-      "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "Baller mit meinem Rad",
-      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
+      "duration_ms": 147374,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -795,6 +779,22 @@
       "duration_ms": 164165,
       "name": "Ferien / Vacanza",
       "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Baller mit meinem Rad",
+      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Das Sommertier",
-        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
-      },
-      "artists": [
-        {
-          "name": "Hurra Kinderlieder",
-          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
-        }
-      ],
-      "duration_ms": 147571,
-      "name": "Das Sommertier",
-      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Sommerkinder",
         "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 219760,
       "name": "Wir wollen Sonne (Verde e amarelo)",
       "url": "https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Das Sommertier",
+        "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
+      },
+      "artists": [
+        {
+          "name": "Hurra Kinderlieder",
+          "url": "https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a"
+        }
+      ],
+      "duration_ms": 147571,
+      "name": "Das Sommertier",
+      "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -947,6 +947,38 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 116826,
+      "name": "Das Lied Vom Sommer",
+      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Wenn ich den See seh'",
+        "url": "https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR"
+      },
+      "artists": [
+        {
+          "name": "3Berlin",
+          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Wenn ich den See seh'",
+      "url": "https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
         "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
         "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
@@ -959,38 +991,6 @@
       "duration_ms": 95173,
       "name": "Bl\u00fcht ein Bl\u00fcmlein",
       "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Die Biene Maja - Meine Lieder",
-        "url": "https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma"
-      },
-      "artists": [
-        {
-          "name": "Volker Rosin",
-          "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Jetzt kommt die Biene Maja",
-      "url": "https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
-        "name": "Zusammen sind wir doppelt stark-Unser Freundschaftsalbum",
-        "url": "https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS"
-      },
-      "artists": [
-        {
-          "name": "Die Lollipops",
-          "url": "https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Urlaub unter Freunden",
-      "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

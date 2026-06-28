@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 618673,
+  "num_followers": 619639,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAACdBfeOn9cflD92URQuOqI8",
+  "snapshot_id": "aj3BAAAAAADXoCV/aYYjuBmIflPCObbc",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
+        "name": "Be My Own Boyfriend",
+        "url": "https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8"
       },
       "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
         {
           "name": "Olivia Dean",
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 262306,
-      "name": "No One's Watching Me (feat. Olivia Dean)",
-      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V"
+      "duration_ms": 207960,
+      "name": "Be My Own Boyfriend",
+      "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be My Own Boyfriend",
-        "url": "https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8"
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
       "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
         {
           "name": "Olivia Dean",
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Be My Own Boyfriend",
-      "url": "https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG"
+      "duration_ms": 262306,
+      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V"
     },
     {
       "added_at": null,

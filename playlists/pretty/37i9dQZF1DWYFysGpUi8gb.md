@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring yhwh nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,280 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,272 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Falling Posture](https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Falling Posture](https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY) | 2:58 |
 | 80 | [Play Pretend](https://open.spotify.com/track/3LxPW6GwjZYEMwDQfqLHkE) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna) | [9Million](https://open.spotify.com/album/79py83N1md93QCNFPoSfQF) | 3:26 |
 
-Snapshot ID: `AAAAACrGa+yFuiUTjU+e8uwfLx7u3yDu`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

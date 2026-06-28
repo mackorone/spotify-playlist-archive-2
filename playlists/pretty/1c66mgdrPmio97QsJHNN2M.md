@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,699 likes - 265 songs - 14 hr 5 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,699 likes - 274 songs - 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,5 +273,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 263 | [Popcorn Swayze](https://open.spotify.com/track/5G8iOxPMUmcvuSM2oAee5l) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [Popcorn Swayze](https://open.spotify.com/album/6LMXitb3hdecSbNT8iKxhL) | 3:28 |
 | 264 | [Best Friends](https://open.spotify.com/track/3lgs9gHw7nWXM0pShdSsCp) | [Danama](https://open.spotify.com/artist/5kjg1V3FLw9FHcFKW5NaG3) | [Best Friends](https://open.spotify.com/album/5m2Am4RMYyibOJ7dONuPRj) | 3:46 |
 | 265 | [At the End, Now](https://open.spotify.com/track/2bYPWNOoKqLXe7MXOD2DZO) | [Julia Zerón](https://open.spotify.com/artist/361MtV4xe9d39TaJ3plq4L) | [At the End, Now](https://open.spotify.com/album/6qXJlWUprtavFaiKoSR1HG) | 3:05 |
+| 266 | [too deceiving](https://open.spotify.com/track/6tjjm5LYplPFWl2GJqNRg7) | [elyiz](https://open.spotify.com/artist/5fWnIsC9dKnStmF5glnqFn) | [too deceiving](https://open.spotify.com/album/4kSe3UXMDXC8a2VHYev2Q4) | 3:05 |
+| 267 | [No Space for a Part Time Love](https://open.spotify.com/track/1cTjzEiEskM3mFcbyknQMJ) | [Damian T\. Klimek](https://open.spotify.com/artist/6CQsLSZMHacrfp0LcIouDy) | [No Space for a Part Time Love](https://open.spotify.com/album/54KqR14BfgkAQGESpo3Xba) | 2:46 |
+| 268 | [Box Seat](https://open.spotify.com/track/3ZxLFrFt3SV0DDUsMji1I6) | [CC Creative Camps](https://open.spotify.com/artist/5INDdWVptWh9KQTajP3TWA), [1 OF A KAI](https://open.spotify.com/artist/0tsDsJLHoOIU3AhDosfPrQ), [Ao Tone](https://open.spotify.com/artist/4dBA1mNWcKy9npXicTyHCb) | [Varsity Szn](https://open.spotify.com/album/3YQk3ILe5yDMHo0HLvkfbk) | 2:13 |
+| 269 | [I wish you stayed](https://open.spotify.com/track/4MX1Q3Ei03EF5DxcW9kdyU) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [I wish you stayed](https://open.spotify.com/album/45np5eq9SrGD3UmAyy2uiL) | 2:32 |
+| 270 | [Good Things](https://open.spotify.com/track/1hPXsaiOkjCtgyGG7dW0ps) | [OKTOBER](https://open.spotify.com/artist/48VeIyp9SXzCpiRpLQt30W) | [Good Things](https://open.spotify.com/album/2wEBaBRp5p0hYGgowkQMcb) | 1:51 |
+| 271 | [A Moment in Eternity](https://open.spotify.com/track/4ci1iy5l4lLM4ULGBqPg0C) | [Fate Envoy](https://open.spotify.com/artist/0z9ceq1SavOBoASRKNmF4O) | [The Tower](https://open.spotify.com/album/5YfK3R0g8e7uQZPDP93519) | 3:11 |
+| 272 | [Neon Heartbeat](https://open.spotify.com/track/78ce7bOGmRMBoqh92Z9Vne) | [Glitch CT](https://open.spotify.com/artist/31462OWixSRK8v6UxstsnE) | [Neon Heart Riot](https://open.spotify.com/album/1C7uOyNgZhKlRRhtPo4md7) | 5:27 |
+| 273 | [Cardinal](https://open.spotify.com/track/2FQTh0b2MOFAdsXiNQ4RWF) | [Matty Ram](https://open.spotify.com/artist/7okMGHsN4e4C6EMzepEqHy) | [Cardinal](https://open.spotify.com/album/788x4d1plhsMl6LrGRlTkV) | 3:58 |
+| 274 | [Back to First Place](https://open.spotify.com/track/0whtoWSCHflwjvwjPgGMFi) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Back to First Place](https://open.spotify.com/album/3L3cHkldRssEqumJFVx3Rn) | 2:52 |
 
-Snapshot ID: `AAA53GNrY4CnDF/QEG4HFK1xvzW9kI4V`
+Snapshot ID: `AAA55R3bRXsKzc8A+LIr0IViitRy0KNx`

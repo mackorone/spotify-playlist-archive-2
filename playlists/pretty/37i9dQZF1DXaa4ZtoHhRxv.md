@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,943 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,085 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 5 | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/album/3TFX3h1hQwlkMoQ0ZCH16W) | 2:19 |
 | 6 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 |
 | 7 | [Mama Said](https://open.spotify.com/track/4bR85fyG1N5zcAuSFM56Kc) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Kenley](https://open.spotify.com/artist/1SinB4B9WOu3GmKti284cW) | [Mama Said](https://open.spotify.com/album/7Dq4rtNPbrixPRzZr7UfHt) | 3:06 |
-| 8 | [Two Dozen Roses](https://open.spotify.com/track/4a9ZZEO0wrkxbRxjTCoVHW) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3) | [Two Dozen Roses](https://open.spotify.com/album/1ODVSyhYS32Qt1xFyroJup) | 2:42 |
+| 8 | [Two Dozen Roses](https://open.spotify.com/track/4a9ZZEO0wrkxbRxjTCoVHW) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [The Bush Friends](https://open.spotify.com/artist/69eQUdbAemAW9AZ0gK4VdS), [Willie Pake](https://open.spotify.com/artist/3eD5eETjU63YGXRgyJAQbF) | [Two Dozen Roses](https://open.spotify.com/album/1ODVSyhYS32Qt1xFyroJup) | 2:42 |
 | 9 | [Getaway Car](https://open.spotify.com/track/5BWK5cxevhraRUxNtdnTNH) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Getaway Car](https://open.spotify.com/album/64uplmfT0JPURVHJp4r3eS) | 2:35 |
 | 10 | [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 |
 | 11 | [HONKY TONK BADONKADONK](https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [HONKY TONK BADONKADONK](https://open.spotify.com/album/1OzaeXfWl2R0ncz727BPQs) | 1:54 |

@@ -2101,6 +2101,28 @@
     },
     {
       "album": {
+        "name": "Yee (Dr Phunk Remix)",
+        "url": "https://open.spotify.com/album/3I5E3G7S5ygMDuuAExLVIk"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135959,
+      "name": "Yee - Dr Phunk Remix",
+      "url": "https://open.spotify.com/track/4jZQvhKDhvd4RmATRYCech"
+    },
+    {
+      "album": {
         "name": "Yee",
         "url": "https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF"
       },
@@ -2112,7 +2134,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 210000,
       "name": "Yee - Extended Mix",
       "url": "https://open.spotify.com/track/1lofV3iAo223CsbUz5uKGq"

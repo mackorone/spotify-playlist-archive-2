@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,391 songs - 5 day 8 hr 20 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,392 songs - 5 day 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2399,5 +2399,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2389 | [Gore Louvre](https://open.spotify.com/track/2WY1UCJb21XDNztuSEK4Em) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Gore Louvre](https://open.spotify.com/album/1u208a9J6Nl9LLgAs0oHXJ) | 3:00 |
 | 2390 | [Sambassim \- DJ Patife Remix](https://open.spotify.com/track/0IP9U6sTH3BBbmczskyxvm) | [DJ Patife](https://open.spotify.com/artist/1IUEwhqDbKPL95uG68ccyt) | [Cool Steps Drum 'n' Bass Grooves](https://open.spotify.com/album/5soek6ip4VnvULdCFgQT4U) | 3:36 |
 | 2391 | [White Neighbor \- remastered 2007](https://open.spotify.com/track/28dKLbA1nqWRVOmweQteP0) | [Eyehategod](https://open.spotify.com/artist/3BRjxpDVT56Y2G5dS3xYZS) | [Take As Needed for Pain \(Remastered Re\-issue + Bonus Tracks\)](https://open.spotify.com/album/0KGUACvQup4NDOhumQGa3V) | 3:54 |
+| 2392 | [Dealer](https://open.spotify.com/track/3FRIOB6cFdB6M1fREjXUAG) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Old Skool Masters \- S3RL](https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB) | 4:45 |
 
-Snapshot ID: `AAAFXbaB12qn+n3UZXXC4QQHFDxQgsRx`
+Snapshot ID: `AAAFXr6ve9ItY4SC4ISk0wb42EOmBecU`

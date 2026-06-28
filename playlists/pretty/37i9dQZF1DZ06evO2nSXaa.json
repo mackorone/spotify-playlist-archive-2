@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 425853,
+  "num_followers": 425898,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAAAIeinz8iJ5UTMkDPXTx1wF",
+  "snapshot_id": "aj3BAAAAAADqLmHsPuMSpjlf5oT4XZbs",
   "tracks": [
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 213616,
-      "name": "go away",
-      "url": "https://open.spotify.com/track/40yVW4Ywyxz8xkNcuLbP1N"
+      "duration_ms": 167366,
+      "name": "what's your problem?",
+      "url": "https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 167366,
-      "name": "what's your problem?",
-      "url": "https://open.spotify.com/track/3yoIliXhnorEdfTZ93W2YL"
+      "duration_ms": 213616,
+      "name": "go away",
+      "url": "https://open.spotify.com/track/40yVW4Ywyxz8xkNcuLbP1N"
     },
     {
       "added_at": null,

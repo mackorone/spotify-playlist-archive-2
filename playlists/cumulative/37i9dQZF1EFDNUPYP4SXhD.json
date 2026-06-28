@@ -3267,6 +3267,32 @@
     },
     {
       "album": {
+        "name": "NETFLIX AND CHILL",
+        "url": "https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "NETFLIX AND CHILL",
+      "url": "https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV"
+    },
+    {
+      "album": {
         "name": "No More Tears",
         "url": "https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J"
       },

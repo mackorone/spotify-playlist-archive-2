@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
@@ -1508,6 +1508,28 @@
       "duration_ms": 143173,
       "name": "Si T\u00fa Quisieras",
       "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
+    },
+    {
+      "album": {
+        "name": "Sigo Buscando",
+        "url": "https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143996,
+      "name": "Sigo Buscando",
+      "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
     },
     {
       "album": {

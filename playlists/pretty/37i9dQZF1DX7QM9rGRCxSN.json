@@ -1,6 +1,6 @@
 {
   "description": "Tristeza latina ",
-  "num_followers": 38913,
+  "num_followers": 38916,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
+        "name": "Muchas Formas de Decir Casa",
+        "url": "https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u"
+      },
+      "artists": [
+        {
+          "name": "recuerdo acariciar con miedo las alas de un ave herida",
+          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Jard\u00edn de Plastilina",
+      "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
         "name": "respirar en cuadro",
         "url": "https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 373184,
       "name": "respirar en cuadro",
       "url": "https://open.spotify.com/track/5FH5wUNZEMJQRyYL4Fc6fg"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
-        "name": "Muchas Formas de Decir Casa",
-        "url": "https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u"
-      },
-      "artists": [
-        {
-          "name": "recuerdo acariciar con miedo las alas de un ave herida",
-          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Jard\u00edn de Plastilina",
-      "url": "https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9"
     },
     {
       "added_at": "2026-06-19 06:00:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-19 06:00:24",
       "album": {
-        "name": "Nimio",
-        "url": "https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm"
-      },
-      "artists": [
-        {
-          "name": "Diente de Oro",
-          "url": "https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM"
-        }
-      ],
-      "duration_ms": 218016,
-      "name": "24:00",
-      "url": "https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW"
-    },
-    {
-      "added_at": "2026-06-19 06:00:24",
-      "album": {
         "name": "Fuseimyaku",
         "url": "https://open.spotify.com/album/7KNyE8ipPRD7FStCbJbzRL"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 253022,
       "name": "Sabado en Alem\u00e1n",
       "url": "https://open.spotify.com/track/1Ly47nLecje8VHxml8eB9X"
+    },
+    {
+      "added_at": "2026-06-19 06:00:24",
+      "album": {
+        "name": "Nimio",
+        "url": "https://open.spotify.com/album/4nZopQiqBny5EWs3sZMZYm"
+      },
+      "artists": [
+        {
+          "name": "Diente de Oro",
+          "url": "https://open.spotify.com/artist/6o7Yqv4imhW4Jz4Y1v20YM"
+        }
+      ],
+      "duration_ms": 218016,
+      "name": "24:00",
+      "url": "https://open.spotify.com/track/6ZZMJsKZavEzmXSgHT0TIW"
     }
   ],
   "unique_name": "Emo En Tu Idioma",

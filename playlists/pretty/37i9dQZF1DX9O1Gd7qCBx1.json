@@ -1,6 +1,6 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 227395,
+  "num_followers": 227390,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Joyas De Dos Siglos",
+        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Boda Negra (El Enterrador)",
+      "url": "https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Joyas De Dos Siglos",
-        "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Boda Negra (El Enterrador)",
-      "url": "https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "El Diablito Loco",
-        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
-      },
-      "artists": [
-        {
-          "name": "Leda Moreno",
-          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "El Diablito Loco",
-      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Flor de Biznaga",
         "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 370120,
       "name": "Colores",
       "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "El Diablito Loco",
+        "url": "https://open.spotify.com/album/3IYh2snfaDTZY9GO0UKnWP"
+      },
+      "artists": [
+        {
+          "name": "Leda Moreno",
+          "url": "https://open.spotify.com/artist/5zwnyjAYKiyVoXPMtfdcXd"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "El Diablito Loco",
+      "url": "https://open.spotify.com/track/1VrjnASRwJ4MTHz5HtyGAq"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Banda de los Muertos",
-        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
-      },
-      "artists": [
-        {
-          "name": "Banda de los Muertos",
-          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Ay Mexicanita",
-      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Timoneki",
         "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 276970,
       "name": "Mictl\u00e1n",
       "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Banda de los Muertos",
+        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+      },
+      "artists": [
+        {
+          "name": "Banda de los Muertos",
+          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Ay Mexicanita",
+      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Chicavasco",
-        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
-      },
-      "artists": [
-        {
-          "name": "Rana Santacruz",
-          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "El Funeral De Tacho",
-      "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Sabung",
         "url": "https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Desarrollo de Personaje",
-        "url": "https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl"
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
       },
       "artists": [
         {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
         }
       ],
-      "duration_ms": 185814,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj"
+      "duration_ms": 238280,
+      "name": "D\u00e9cimas a La Muerte",
+      "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1191,18 +1175,34 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+        "name": "Desarrollo de Personaje",
+        "url": "https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl"
       },
       "artists": [
         {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
         }
       ],
-      "duration_ms": 238280,
-      "name": "D\u00e9cimas a La Muerte",
-      "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
+      "duration_ms": 185814,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Chicavasco",
+        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
+      },
+      "artists": [
+        {
+          "name": "Rana Santacruz",
+          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "El Funeral De Tacho",
+      "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1227,6 +1227,22 @@
       "duration_ms": 133266,
       "name": "Danza de la Muerte - M\u00fasica f\u00fanebre Yokot'anob o Chontal, Tucta, Tabasco",
       "url": "https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 244813,
+      "name": "A Mi Me Mat\u00f3 La Vida",
+      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1275,22 +1291,6 @@
       "duration_ms": 156306,
       "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
       "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "A Mi Me Mat\u00f3 La Vida",
-      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Los Versos de la Catrina",
+        "url": "https://open.spotify.com/album/6g1URZ8B37vkNlBcyIqRAy"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Los Versos de la Catrina",
+      "url": "https://open.spotify.com/track/6lWHsxRKV13KVilUNbbOIN"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Monarcas las mariposas",
         "url": "https://open.spotify.com/album/4WoQTaFnjAO1XnTsWiuynG"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 292000,
       "name": "Monarcas las mariposas",
       "url": "https://open.spotify.com/track/3WSbWkNV3Jjtuu5xbh6enm"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Los Versos de la Catrina",
-        "url": "https://open.spotify.com/album/6g1URZ8B37vkNlBcyIqRAy"
-      },
-      "artists": [
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Los Versos de la Catrina",
-      "url": "https://open.spotify.com/track/6lWHsxRKV13KVilUNbbOIN"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1507,8 +1507,8 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Quema Quema Quema",
-        "url": "https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh"
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
       },
       "artists": [
         {
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
         }
       ],
-      "duration_ms": 232386,
-      "name": "Si Te Mueres Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor"
+      "duration_ms": 145484,
+      "name": "El Funeral",
+      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 220684,
       "name": "Ruego",
       "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 145484,
-      "name": "El Funeral",
-      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
     },
     {
       "added_at": "2026-06-24 20:03:44",

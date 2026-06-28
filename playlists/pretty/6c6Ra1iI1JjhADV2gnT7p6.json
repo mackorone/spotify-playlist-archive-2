@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60290,
+  "num_followers": 60291,
   "original_name": "Compact Cassette (Spring 2026)",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABIUKqju48ZtL115oscuUHgzmKPrTXO",
+  "snapshot_id": "AABIU71lLMIROG9g3nnw2dIBnGMEGmjG",
   "tracks": [
     {
       "added_at": "2026-06-21 08:55:18",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
+        "name": "1010: Time Has Nothing To Do With What You Choose...",
+        "url": "https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN"
+      },
+      "artists": [
+        {
+          "name": "1010benja",
+          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "Semiramis' Dream",
+      "url": "https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63"
+    },
+    {
+      "added_at": "2026-06-21 08:55:18",
+      "album": {
         "name": "Go Have A Dream",
         "url": "https://open.spotify.com/album/0ILIb13FPRKMYAHoFmyz91"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 172052,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "1010: Time Has Nothing To Do With What You Choose...",
-        "url": "https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN"
-      },
-      "artists": [
-        {
-          "name": "1010benja",
-          "url": "https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Semiramis' Dream",
-      "url": "https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63"
     },
     {
       "added_at": "2026-06-21 08:55:18",
@@ -2907,6 +2907,38 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z"
+      },
+      "artists": [
+        {
+          "name": "Trimmo",
+          "url": "https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW"
+        }
+      ],
+      "duration_ms": 204456,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/1TqrTGETvJKUcynPVX73Mo"
+    },
+    {
+      "added_at": "2026-06-21 08:55:18",
+      "album": {
+        "name": "Dean",
+        "url": "https://open.spotify.com/album/2fY5hzEXnlwYLG53Lf9ubc"
+      },
+      "artists": [
+        {
+          "name": "Myra Lee",
+          "url": "https://open.spotify.com/artist/2KRSBSMYMc8oNLYOqgPxm4"
+        }
+      ],
+      "duration_ms": 259008,
+      "name": "Dean",
+      "url": "https://open.spotify.com/track/1oK5V8q9uG0XAlMP2BXWSg"
+    },
+    {
+      "added_at": "2026-06-21 08:55:18",
+      "album": {
         "name": "Simulacra",
         "url": "https://open.spotify.com/album/5RdpwUfIvh0hrydpclVlLI"
       },
@@ -2951,38 +2983,6 @@
       "duration_ms": 209205,
       "name": "I went to jump in front of a train but a couple was making out and I didn't want to ruin the mood so I went home",
       "url": "https://open.spotify.com/track/6LFdOvCod5TiepcU1OuvEz"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Dean",
-        "url": "https://open.spotify.com/album/2fY5hzEXnlwYLG53Lf9ubc"
-      },
-      "artists": [
-        {
-          "name": "Myra Lee",
-          "url": "https://open.spotify.com/artist/2KRSBSMYMc8oNLYOqgPxm4"
-        }
-      ],
-      "duration_ms": 259008,
-      "name": "Dean",
-      "url": "https://open.spotify.com/track/1oK5V8q9uG0XAlMP2BXWSg"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z"
-      },
-      "artists": [
-        {
-          "name": "Trimmo",
-          "url": "https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW"
-        }
-      ],
-      "duration_ms": 204456,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/1TqrTGETvJKUcynPVX73Mo"
     },
     {
       "added_at": "2026-06-21 08:55:18",

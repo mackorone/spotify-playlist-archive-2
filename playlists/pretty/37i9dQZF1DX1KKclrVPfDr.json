@@ -1,6 +1,6 @@
 {
   "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
-  "num_followers": 11567,
+  "num_followers": 11569,
   "original_name": "Bhojpuri Vivah Geet",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,18 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Angna Ke Namwa Haswala Ho",
-        "url": "https://open.spotify.com/album/3GflOnKP9A3g4y0HRjU7jL"
+        "name": "Dacait (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2iL6AoCQ6oZYsLibMz49nz"
       },
       "artists": [
         {
-          "name": "KUMARI SONAL",
-          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
-        },
-        {
-          "name": "Ananyya Singhh",
-          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Angna Ke Namwa Haswala Ho",
-      "url": "https://open.spotify.com/track/5J7zaSnySIRsjE1msEFuSw"
+      "duration_ms": 248543,
+      "name": "Chal Jayie Sasural",
+      "url": "https://open.spotify.com/track/5kfAtenoVSfYjavPReU68R"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -343,18 +339,22 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Dacait (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2iL6AoCQ6oZYsLibMz49nz"
+        "name": "Angna Ke Namwa Haswala Ho",
+        "url": "https://open.spotify.com/album/3GflOnKP9A3g4y0HRjU7jL"
       },
       "artists": [
         {
-          "name": "Pawan Singh",
-          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+          "name": "KUMARI SONAL",
+          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
+        },
+        {
+          "name": "Ananyya Singhh",
+          "url": "https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA"
         }
       ],
-      "duration_ms": 248543,
-      "name": "Chal Jayie Sasural",
-      "url": "https://open.spotify.com/track/5kfAtenoVSfYjavPReU68R"
+      "duration_ms": 192000,
+      "name": "Angna Ke Namwa Haswala Ho",
+      "url": "https://open.spotify.com/track/5J7zaSnySIRsjE1msEFuSw"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -624,26 +624,6 @@
       },
       "artists": [
         {
-          "name": "Rajnish Mishra",
-          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
-        },
-        {
-          "name": "Rajesh Jha",
-          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
-        }
-      ],
-      "duration_ms": 271694,
-      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
-      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
           "name": "Deepa Narayan Jha",
           "url": "https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx"
         },
@@ -659,6 +639,26 @@
       "duration_ms": 278816,
       "name": "Banno Ke Hardi Lagaav Re (From \"Ho Gayini Diwana Tohra Pyar Mein\")",
       "url": "https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Rajnish Mishra",
+          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
+        },
+        {
+          "name": "Rajesh Jha",
+          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
+        }
+      ],
+      "duration_ms": 271694,
+      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
+      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Samdhi Bhukhal Baade Ho",
-        "url": "https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m"
-      },
-      "artists": [
-        {
-          "name": "KUMARI SONAL",
-          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
-        },
-        {
-          "name": "Ashkandani",
-          "url": "https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Samdhi Bhukhal Baade Ho",
-      "url": "https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
         "name": "MEHANDI LAGAI KE",
         "url": "https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 190000,
       "name": "MEHANDI LAGAI KE",
       "url": "https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
+        "name": "Samdhi Bhukhal Baade Ho",
+        "url": "https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m"
+      },
+      "artists": [
+        {
+          "name": "KUMARI SONAL",
+          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
+        },
+        {
+          "name": "Ashkandani",
+          "url": "https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Samdhi Bhukhal Baade Ho",
+      "url": "https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP"
     },
     {
       "added_at": "2026-05-22 10:52:14",

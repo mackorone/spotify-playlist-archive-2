@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,576 likes - 137 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,570 likes - 137 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 66 | [Break the Wave](https://open.spotify.com/track/3thKw76bRJpaxXRIUKeOZC) | [REXORIA](https://open.spotify.com/artist/5oMfYeXrlGFv6DgrQ6zCtK) | [Break the Wave](https://open.spotify.com/album/7DHJqbCkx5NYj7Ane25jug) | 3:13 |
 | 67 | [Satanized](https://open.spotify.com/track/2EBZGiYYeIvoaAIHfVsPpn) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/37a1ehu3HGYPA07QFvWIsL) | 3:56 |
 | 68 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 |
-| 69 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
+| 69 | [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 |
 | 70 | [Someone Has to Pay](https://open.spotify.com/track/7vxoiWDRJvivul9JOlrMWy) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Someone Has to Pay](https://open.spotify.com/album/05On1IxfDvhu78R1jYw8Tm) | 4:59 |
 | 71 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 |
 | 72 | [King Of Rock ’n’ Roll](https://open.spotify.com/track/6FyxfxtSlNobcVL2IbHZWq) | [Korslagda](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [King Of Rock ’n’ Roll](https://open.spotify.com/album/05KhsNVV9DRIy5yku5r35t) | 2:39 |

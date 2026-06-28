@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Personal Trainer
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,829 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,831 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 49 | [The Payoff](https://open.spotify.com/track/3jPynNG4zK7VbbWrnbQYib) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Payoff](https://open.spotify.com/album/5w0KujrYWAir96O9ZhCW1Q) | 5:51 |
 | 50 | [Cross My Heart](https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Maybe Not Tonight](https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC) | 2:40 |
 | 51 | [Run away with me](https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Run away with me](https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof) | 3:58 |
-| 52 | [Opportunity Arising](https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/0X6XnhqszaIiNdhAWg1QHJ) | 3:41 |
+| 52 | [Opportunity Arising](https://open.spotify.com/track/4XQmgpVjo7mgZu68ACPQoJ) | [Villanelle](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Measly Means](https://open.spotify.com/album/0X6XnhqszaIiNdhAWg1QHJ) | 3:41 |
 | 53 | [Punch Drunk Love](https://open.spotify.com/track/4Wjkr8CJNktlfHz3iA2Dwu) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Punch Drunk Love](https://open.spotify.com/album/3gdjfeujw5iMPpPfIN8Ryw) | 3:22 |
 | 54 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 |
 | 55 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |

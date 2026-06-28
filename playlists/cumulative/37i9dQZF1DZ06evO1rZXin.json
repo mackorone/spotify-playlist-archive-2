@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Mi Sierre\u00f1a",
+        "url": "https://open.spotify.com/album/2rr4e80bcGLcZvJq0ndGYP"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160682,
+      "name": "Mi Sierre\u00f1a",
+      "url": "https://open.spotify.com/track/2hCQSPkhyxdLzIvJvgoBtx"
+    },
+    {
+      "album": {
         "name": "Esa Chica Me Vacila",
         "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },

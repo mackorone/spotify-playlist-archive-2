@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 617023,
+  "num_followers": 617059,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "Unreleased (EP)",
+        "url": "https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td"
+      },
+      "artists": [
+        {
+          "name": "Maddi Jane",
+          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Breakeven (Acoustic)",
+      "url": "https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi) [Acoustic]",
         "url": "https://open.spotify.com/album/1v4bQwWWnsdfMhlHHKZumi"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 218049,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi) - Acoustic",
       "url": "https://open.spotify.com/track/7kStxK6rzxka5SRlg1lzhz"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "Unreleased (EP)",
-        "url": "https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td"
-      },
-      "artists": [
-        {
-          "name": "Maddi Jane",
-          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Breakeven (Acoustic)",
-      "url": "https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
+      },
+      "artists": [
+        {
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+        }
+      ],
+      "duration_ms": 233377,
+      "name": "Set Fire To The Rain",
+      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "There's Nothing Holdin' Me Back (Acoustic)",
         "url": "https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
-      },
-      "artists": [
-        {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
-        }
-      ],
-      "duration_ms": 233377,
-      "name": "Set Fire To The Rain",
-      "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
     },
     {
       "added_at": "2026-01-26 17:25:39",

@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 233500,
+  "num_followers": 233556,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 275083,
-      "name": "Psychotic",
-      "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "El Sue\u00f1o (feat. Tru-Skool)",
         "url": "https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 234435,
       "name": "El Sue\u00f1o (feat. Tru-Skool)",
       "url": "https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 275083,
+      "name": "Psychotic",
+      "url": "https://open.spotify.com/track/45IjJhFxThn3MhC4NQsLpz"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 161061,
-      "name": "Sahnewal",
-      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
+      "duration_ms": 191113,
+      "name": "Mel Gel",
+      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 191113,
-      "name": "Mel Gel",
-      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
+      "duration_ms": 161061,
+      "name": "Sahnewal",
+      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
     },
     {
       "added_at": "2026-06-12 05:30:19",

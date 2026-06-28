@@ -9259,6 +9259,24 @@
     },
     {
       "album": {
+        "name": "Going Blind",
+        "url": "https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR"
+      },
+      "artists": [
+        {
+          "name": "The Sway",
+          "url": "https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399822,
+      "name": "The Death of Venus",
+      "url": "https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN"
+    },
+    {
+      "album": {
         "name": "The Endless Line",
         "url": "https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup"
       },

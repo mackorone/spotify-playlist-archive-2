@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 
 > Be changed for good with the official playlist to Wicked: For Good\. Now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,013 likes - 24 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,997 likes - 24 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

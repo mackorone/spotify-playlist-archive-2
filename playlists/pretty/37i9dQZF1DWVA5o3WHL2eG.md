@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: BROCKHOFF
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,870 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,876 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Wieso](https://open.spotify.com/track/5EVTMTPMNTyKQg55hVOhqF) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Wieso](https://open.spotify.com/album/6K1nYULYod3v6ffOKwp5ei) | 3:45 |
 | 18 | [sweat](https://open.spotify.com/track/2JIgWVEv6LVmYJlmpLAwlU) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [sweat](https://open.spotify.com/album/6KqdZh2q1SVJVXj8zl1IYx) | 2:22 |
 | 19 | [Kein Schlaf](https://open.spotify.com/track/0ir69oQMkmI4lVG1WbFDjD) | [Lilli](https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK) | [Kein Schlaf](https://open.spotify.com/album/0ZeogoFDzxA5RofVsYxOOd) | 2:54 |
-| 20 | [2015](https://open.spotify.com/track/7zC8YOfVCC2e7kmlfB9zOI) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [2015](https://open.spotify.com/album/77CV9vMRQjWMLc7yTB3Rlr) | 2:48 |
-| 21 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 |
+| 20 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 |
+| 21 | [2015](https://open.spotify.com/track/7zC8YOfVCC2e7kmlfB9zOI) | [Mieze](https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU) | [2015](https://open.spotify.com/album/77CV9vMRQjWMLc7yTB3Rlr) | 2:48 |
 | 22 | [Kein Ponyhof](https://open.spotify.com/track/17RvndgsVO7lqqfGyQ10rA) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [Kein Ponyhof](https://open.spotify.com/album/40XDSJnsxmultAZzOo5Jid) | 2:05 |
 | 23 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
 | 24 | [Keinen Mann](https://open.spotify.com/track/4mV3ZcdxZ5b3PlLSdZ1Vai) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Keinen Mann](https://open.spotify.com/album/0wEqD5eJYMo8HF8RbsCnDn) | 2:20 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Where Do Lost Dreams Go?](https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8) | [Solong](https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v) | [Where Do Lost Dreams Go?](https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7) | 5:29 |
 | 36 | [AT THE SAME TIME](https://open.spotify.com/track/0BsxJRdxV9iF34IP2gdbF0) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [Y2K](https://open.spotify.com/album/3fXg00eCmBXvbDSbH6AmqL) | 2:13 |
 | 37 | [Mascara](https://open.spotify.com/track/23jeo9x3nDuXSBBp8A4RTo) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Mascara](https://open.spotify.com/album/3h7k7XEpZ4wxGyfzO3Eyvk) | 2:31 |
-| 38 | [Sin miedo](https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN) | [Sin miedo](https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ) | 2:38 |
-| 39 | [HDF](https://open.spotify.com/track/2CF2N0jsterp8EL3pt8Xz7) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN) | [OKAY?! Vol.1](https://open.spotify.com/album/7kSWLDJJXWzyDnRr2QLWNO) | 2:08 |
-| 40 | [Ring am Finger](https://open.spotify.com/track/6TaFKeYCCcsIHO4I71kJjW) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [Ring am Finger](https://open.spotify.com/album/1K6Eo6d8XJJx7sK87c4OyA) | 2:30 |
+| 38 | [Ring am Finger](https://open.spotify.com/track/6TaFKeYCCcsIHO4I71kJjW) | [DEVADO](https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL) | [Ring am Finger](https://open.spotify.com/album/1K6Eo6d8XJJx7sK87c4OyA) | 2:30 |
+| 39 | [Sin miedo](https://open.spotify.com/track/0mkUD2LmmaMQA0H6LQvs1I) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN), [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN) | [Sin miedo](https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ) | 2:38 |
+| 40 | [HDF](https://open.spotify.com/track/2CF2N0jsterp8EL3pt8Xz7) | [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN) | [OKAY?! Vol.1](https://open.spotify.com/album/7kSWLDJJXWzyDnRr2QLWNO) | 2:08 |
 | 41 | [Halbe Wahrheit](https://open.spotify.com/track/09ro7ihMGccFtQDWATIF8f) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Nicht mehr traurig](https://open.spotify.com/album/6FtYUdzSfqNCsAVmR3BsmM) | 1:58 |
 | 42 | [Pinke Plüschjacke](https://open.spotify.com/track/1MReIAYdZntiYppjxWXZiC) | [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [Pinke Plüschjacke](https://open.spotify.com/album/15SiaPrp8mY7IFu6FjRBIx) | 2:51 |
 | 43 | [AFTERPARTY](https://open.spotify.com/track/7cXaKAI2HThRDSWPETLJZq) | [BAEZY](https://open.spotify.com/artist/4T640jDRFxkIBiWHwIPrKY) | [AFTERPARTY](https://open.spotify.com/album/6NleuMGkvZtoMuxFHpIrmv) | 2:04 |

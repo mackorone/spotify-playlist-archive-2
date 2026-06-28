@@ -3717,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380813,
+      "name": "Tattoo'd Lady (Live)",
+      "url": "https://open.spotify.com/track/7nc64A9ajEu1SbEImwgQce"
+    },
+    {
+      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -4902,7 +4920,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 506946,
       "name": "Who's That Coming? (Live)",
       "url": "https://open.spotify.com/track/7aGg87LWSYJmZoYxqldF11"

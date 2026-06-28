@@ -710,10 +710,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 331293,
       "name": "Escap\u00e9monos - Salsa Version",
       "url": "https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg"
+    },
+    {
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164076,
+      "name": "Everything's Fine (AM)",
+      "url": "https://open.spotify.com/track/4PxjVb9tdVXCSVZ8B0MCS0"
     },
     {
       "album": {

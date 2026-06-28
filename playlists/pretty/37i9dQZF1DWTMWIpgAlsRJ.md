@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Germany Playlist: bringing together the sounds of Germany in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,702 likes - 39 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,661 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 10 | [Drama](https://open.spotify.com/track/7ekwVcE1f7aWi7ZUBRbhZW) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa) | [They Might've Even Loved Me](https://open.spotify.com/album/17lrjQt4jEcU3YN41qocce) | 3:38 |
 | 11 | [Gute Laune feat\. Tweed](https://open.spotify.com/track/1m5AAIjn6qwDa7eqTUVfBn) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Dehli 9](https://open.spotify.com/album/7gKiWmCIkf7ID3k9fnOWHh) | 4:56 |
 | 12 | [Pressure](https://open.spotify.com/track/4Iaj6S75mnpxIM3mUlto8F) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [THABO](https://open.spotify.com/artist/0Xby6OpjBTxkbiGyhJU8RA) | [Glow](https://open.spotify.com/album/6lp3jWrAdZwPwkwih20qzX) | 2:54 |
-| 13 | [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 |
-| 14 | [Release](https://open.spotify.com/track/1ONYfnVyrmuf4D29hTbKTk) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [Music Monks \(Limited Edition\)](https://open.spotify.com/album/2RXNaqJGqHUntHve09bKZ9) | 3:45 |
+| 13 | [Release](https://open.spotify.com/track/1ONYfnVyrmuf4D29hTbKTk) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [Music Monks \(Limited Edition\)](https://open.spotify.com/album/2RXNaqJGqHUntHve09bKZ9) | 3:45 |
+| 14 | [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 |
 | 15 | [Am Ende](https://open.spotify.com/track/3Xxy7Mt3QsnjOESgVp2uDO) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [OK KID](https://open.spotify.com/album/0oK1glMIKcHmAsDzhnxNpO) | 3:33 |
 | 16 | [Fado](https://open.spotify.com/track/3q60anlR9Oaygq2JyzE5JC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J) | 4:10 |
 | 17 | [Verstrahlt](https://open.spotify.com/track/3FPodJpdg8fO5549WBcBIC) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Yasha](https://open.spotify.com/artist/3tmjMu5zfLOTVJ8YX5FDpU) | [Zum Glück in die Zukunft \(Premium Version\)](https://open.spotify.com/album/0UQKjFvWFL1FLA32Dc8BXp) | 3:54 |

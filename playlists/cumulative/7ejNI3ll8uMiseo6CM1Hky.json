@@ -2497,6 +2497,28 @@
     },
     {
       "album": {
+        "name": "Merman",
+        "url": "https://open.spotify.com/album/1gr9CAu7nz0qa0pSNPmTJ8"
+      },
+      "artists": [
+        {
+          "name": "JT Music",
+          "url": "https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk"
+        },
+        {
+          "name": "Andrea Storm Kaden",
+          "url": "https://open.spotify.com/artist/2suYQj2pv0J5xZdNNqzDaU"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238821,
+      "name": "Merman",
+      "url": "https://open.spotify.com/track/2H8yBt6msiXnVlMHYrkVb8"
+    },
+    {
+      "album": {
         "name": "Minecraft: Lava Chicken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/41A9LlTh3wWwS4JjolfaBZ"
       },

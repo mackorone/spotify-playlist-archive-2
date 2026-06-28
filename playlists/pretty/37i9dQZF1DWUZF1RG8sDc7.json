@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 165497,
+  "num_followers": 165526,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Pisando Fuerte",
+        "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 268042,
+      "name": "Acu\u00e9rdate",
+      "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 246506,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "La Historia Continua",
+        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Martin Elias & Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "10 Razones para Amarte",
+      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 306280,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Pisando Fuerte",
-        "url": "https://open.spotify.com/album/56hoX6VhwzxM2fknWj9JGB"
-      },
-      "artists": [
-        {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 268042,
-      "name": "Acu\u00e9rdate",
-      "url": "https://open.spotify.com/track/7sjRnSohHSVBK6Ii3hrvd7"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Uniendo Corazones",
-        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 259920,
-      "name": "Novios Cruzados",
-      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "De Primera",
         "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 307304,
       "name": "Se Me Salen las Lagrimas",
       "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Uniendo Corazones",
+        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Novios Cruzados",
+      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Marca Registrada del Binomio de Oro",
-        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Me Sobran las Palabras",
-      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Siempre Gigantes",
         "url": "https://open.spotify.com/album/4zKI0c9MaYbIiuwctHedOe"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 246909,
       "name": "Dejando Huellas",
       "url": "https://open.spotify.com/track/215HJm2MLqkzfnQ69O5iC2"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: Kierra Sheard
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,969 likes - 79 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,018 likes - 79 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 78 | [Time for You](https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Time for You](https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0) | 3:39 |
 | 79 | [Teach Me How To Wait](https://open.spotify.com/track/0utx4J2JDyOiExE0i0TOzR) | [Samantha Howard](https://open.spotify.com/artist/1xVJbLzjmb2cidpt7jZvmR) | [Teach Me How To Wait](https://open.spotify.com/album/04cOW9hx1KEr0ezsKwM7gE) | 2:30 |
 
-Snapshot ID: `AAAAAMKfCj50Xeqzz4kQib7XnByIV2HC`
+Snapshot ID: `AAAAANAUIxQrFgvSxv5RM+Gi9mwJtcv7`

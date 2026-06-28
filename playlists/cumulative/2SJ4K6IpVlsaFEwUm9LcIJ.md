@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,025 songs - 2 day 14 hr 20 min
+1,026 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Lorelei](https://open.spotify.com/track/5f1pCciS3t1hdQnSn6jVF5) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/2rMHZAlbmZuIsr8iWR7oZX) | 1:55 | 2025-03-31 | 2025-05-09 |
 | [Lost Paraiso](https://open.spotify.com/track/1i3kyHie9qNn1NR81cDNUH) | [Kolumbo](https://open.spotify.com/artist/4tLuFVweKpKhn9Ar89NT0x) | [Gung Ho](https://open.spotify.com/album/4HNUTsTtOdbLJJlQ81RRAf) | 8:06 | 2025-07-03 | 2025-09-11 |
 | [Louisiana](https://open.spotify.com/track/7dvpMd2PhxFzlpyp8Ru308) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 4:11 | 2025-07-18 | 2025-09-11 |
+| [Love Hurts \(feat\. Travis Scott\)](https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:00 | 2026-06-27 |  |
 | [Love Is How Y Make It \- Remastered 2018](https://open.spotify.com/track/6nC2RbASFMkcc6PxQPfEhj) | [Gong](https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3) | [Angel's Egg \(Deluxe Edition\)](https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy) | 3:27 | 2025-07-28 | 2025-09-11 |
 | [LOVE ME, HATE ME](https://open.spotify.com/track/0qtODBXCDFVwrMFNes78TU) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [FAST TRAX 3](https://open.spotify.com/album/4Wu3A2zAzOPrws6F9QLxqq) | 3:45 | 2025-06-15 | 2025-07-04 |
 | [Love Ridden](https://open.spotify.com/track/0eRw1thpWDU7tFt6NfVU4C) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:22 | 2026-01-09 | 2026-03-13 |

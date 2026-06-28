@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,917 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,922 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 46 | [Piece en forme de habanera: Vocalise\-etude en forme de habanera \(Arr\. For theremin and piano\)](https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Rachmaninov, S.: Vocalise / Saint\-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody \(The Art of the Theremin\)](https://open.spotify.com/album/4m0wpnl7Db40DawENitc78) | 2:45 |
 | 47 | [Theremin Sonata No\. 1: I\. Moderato](https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz) | [Christopher Tarnow](https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Tarnow: Theremin Sonatas](https://open.spotify.com/album/70enQr7njOjNNd08lKp72H) | 7:42 |
 | 48 | [It is ok to be sad and dark](https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [It is ok to be sad and dark](https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW) | 2:36 |
-| 49 | [Theremin Concerto, Acht Jahreszeiten: VIII\. Mitternachtssonne \(8 Seasons: Midnight Sun\)](https://open.spotify.com/track/7JYmeyuFHxrjyhqEvcj7jr) | [Kalevi Aho](https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Lapin Kamariorkesteri](https://open.spotify.com/artist/58KjEYGktAvgFTcXJg4Rfm), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Aho: Theremin Concerto & Horn Concerto](https://open.spotify.com/album/7h7n0YHNk9vbzw8II0SaE3) | 7:10 |
-| 50 | [Lost in the Stars](https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE) | 2:23 |
+| 49 | [Lost in the Stars](https://open.spotify.com/track/1aieHIIr4qHQ2Rfk7g9ITv) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/5ngZXMhfjJSzBb2VqJAQYE) | 2:23 |
+| 50 | [Theremin Concerto, Acht Jahreszeiten: VIII\. Mitternachtssonne \(8 Seasons: Midnight Sun\)](https://open.spotify.com/track/7JYmeyuFHxrjyhqEvcj7jr) | [Kalevi Aho](https://open.spotify.com/artist/2H8D4ju7R16n4IZD8TwUv9), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Lapin Kamariorkesteri](https://open.spotify.com/artist/58KjEYGktAvgFTcXJg4Rfm), [John Storgårds](https://open.spotify.com/artist/2TizFx4bl9T8efWXNuxWor) | [Aho: Theremin Concerto & Horn Concerto](https://open.spotify.com/album/7h7n0YHNk9vbzw8II0SaE3) | 7:10 |
 
 Snapshot ID: `AAAAANSTlkcQBuXrm6mZWVUmIBQOUrnT`

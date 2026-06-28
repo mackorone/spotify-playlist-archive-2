@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Ryan Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,361 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,360 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 99 | [Gone With You](https://open.spotify.com/track/5f8CabVpyhXG7kNJ22zlWO) | [tentonELEPHANT.](https://open.spotify.com/artist/44ErpCyytvC0njkKSe5GsM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Gone With You](https://open.spotify.com/album/1XSGRFJe4rnQcwQZzPNaxh) | 2:09 |
 | 100 | [always will be \- acoustic](https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [the unknown](https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI) | 2:58 |
 
-Snapshot ID: `AAAAAINXl/mdYegVrqub+er1nZFZmwVC`
+Snapshot ID: `AAAAAGee+mNtELCmHz+bQXy0eFul+hhh`

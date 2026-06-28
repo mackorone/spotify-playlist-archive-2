@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Modest Chabari
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,926 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,929 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 59 | [Up Burukanga](https://open.spotify.com/track/3uZPjeBJ0PJbU4RBAcjQ1L) | [Collo Blue](https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3), [ADDEH PRINCE](https://open.spotify.com/artist/1sieF11qgHWWtegoskP98m) | [Up Burukanga](https://open.spotify.com/album/3rDiAqSlUu4b7yEb7aa4l9) | 2:01 |
 | 60 | [Slow Whine](https://open.spotify.com/track/7jr5QDAJqpaW9oDqwidSE8) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO) | [Slow Whine](https://open.spotify.com/album/6m13yXh8EChK75Na2JADN6) | 2:58 |
 
-Snapshot ID: `AAAAAJLoDigh/7PpRUt/EZ3X2avSt6hm`
+Snapshot ID: `AAAAALhLipapqkiz+K+BIVEFW1z7y1ah`

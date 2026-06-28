@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
+        "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
+      },
+      "artists": [
+        {
+          "name": "milo",
+          "url": "https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179312,
+      "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
+      "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
       },
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 357000,
       "name": "Going about my day",
       "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"

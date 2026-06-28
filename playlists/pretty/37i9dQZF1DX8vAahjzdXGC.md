@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bernadya, Rony Parulian, Tenxi, Tyler, The Creator, Sombr, Gracie Abrams, Charli xcx, Stray Kids, Heart2Hearts dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,408 likes - 109 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,438 likes - 109 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 96 | [Bersama Kamu](https://open.spotify.com/track/6IVktFPrHKE0RKkVmZwNBO) | [8 Ball](https://open.spotify.com/artist/4JV6JFLPTf2eDCJ7fFcdNh), [Calla](https://open.spotify.com/artist/3aJy8lPmiyOOe0hYU1WFPi) | [Bersama Kamu \(From "Ketok Mejik"\)](https://open.spotify.com/album/4hMlhDqBQKuUW11Y3UEXOC) | 3:13 |
 | 97 | [Mars Poorta dan Poorti](https://open.spotify.com/track/7zvcCB888g2M7I58uIWHIG) | [Poor Too Geez](https://open.spotify.com/artist/14AeNguwkEe71AvXYVmyeo) | [Studi Komparatif atas Harapan Finansial, Tekanan Ekonomi, dan Imajinasi Kemapanan pada Kelas Menengah Produktif dalam Perspektif Irama Kemiskinan Modern](https://open.spotify.com/album/5JGztGcsjlofyawPk5mFnN) | 1:24 |
 | 98 | [Jam 7](https://open.spotify.com/track/0n1ubTdXNGocfQnxPAy7cr) | [nahumlogo](https://open.spotify.com/artist/4OqnEEb9fFHPGlNmZL92Vr) | [Senandung Pekerja](https://open.spotify.com/album/0SUxEY7bUCi6VhpWs4M3lP) | 3:04 |
-| 99 | [Teka Teki](https://open.spotify.com/track/6JjQJH2cT9Rt5c9Eu0doLP) | [The AXN](https://open.spotify.com/artist/5XjQVtM85fBNqcE9pSOzhs) | [Teka Teki](https://open.spotify.com/album/6CDPzpoTcfR8VnUOcgvIDs) | 4:29 |
+| 99 | [Teka Teki](https://open.spotify.com/track/6JjQJH2cT9Rt5c9Eu0doLP) | [THE AXN](https://open.spotify.com/artist/1M72rSXYJa7eFxhjvmAs5z) | [Teka Teki](https://open.spotify.com/album/6CDPzpoTcfR8VnUOcgvIDs) | 4:29 |
 | 100 | [Deja Vu Slider](https://open.spotify.com/track/6e06Ala73WWWXRzyqkUeE0) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Deja Vu Slider](https://open.spotify.com/album/5xOe6UdMimY5RUvjcdiMMj) | 3:30 |
 | 101 | [Not Supposed to Fall in Love](https://open.spotify.com/track/3nWB3idMOE2CL35TkXZKgO) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Not Supposed to Fall in Love](https://open.spotify.com/album/24nCZmBgDboPaeoCV6Mou2) | 3:44 |
 | 102 | [GROW UP!](https://open.spotify.com/track/7nc0JzDG6sXmUBk2YBPLVk) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [GROW UP!](https://open.spotify.com/album/1k10s68Se0uxzj62RE9QMN) | 3:33 |

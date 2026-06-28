@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Tenxi
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,343 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,365 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 38 | [Mungkin di Depan Buram](https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mungkin di Depan Buram](https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo) | 2:37 |
 | 39 | [Pulang](https://open.spotify.com/track/7H9hNVHqO4y6IraXCPBVmi) | [Jemimah Cita](https://open.spotify.com/artist/6RqIuEKCU9X9SBjEkCZjgg) | [Pulang](https://open.spotify.com/album/1vPPunuBJElZtiha0nIUhK) | 3:28 |
 | 40 | [Keliling](https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Keliling](https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx) | 2:59 |
-| 41 | [Otak Dimana?](https://open.spotify.com/track/4QC2ioah7KKMF5Rv57uusl) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v), [Juan Reza](https://open.spotify.com/artist/0eYCIajsbVsMjVUIkcomIY) | [Otak Dimana?](https://open.spotify.com/album/78VOHSfGUrTW2CnUdfS5Om) | 3:29 |
+| 41 | [Otak Dimana?](https://open.spotify.com/track/4QC2ioah7KKMF5Rv57uusl) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v), [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf) | [Otak Dimana?](https://open.spotify.com/album/78VOHSfGUrTW2CnUdfS5Om) | 3:29 |
 | 42 | [Salah Apa Aku](https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 3:47 |
 | 43 | [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 |
 | 44 | [Sembuh Tanpaku](https://open.spotify.com/track/77cyLF8OxRJxbdQ5Pb9lST) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sembuh Tanpaku](https://open.spotify.com/album/6AmdOHPpZxhdo4ob7Ehkf6) | 4:37 |

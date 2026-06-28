@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from TEEKS,  sombr,  FISHER, Florence Arman, Phoebe Bridges, Gracie Abrhams + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,736 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,721 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

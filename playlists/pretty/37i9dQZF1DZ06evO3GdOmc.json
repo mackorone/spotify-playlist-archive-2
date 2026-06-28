@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 46659,
+  "num_followers": 46663,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAABbyu4ZP4GyKzr1d3PtgZlv",
+  "snapshot_id": "aj3BAAAAAACpIIln7m324JsyDo9Cz6sU",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "God of All My Days",
-      "url": "https://open.spotify.com/track/2zqbu8PfKMlNHKBXUvLvWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 238960,
       "name": "If We Are The Body",
       "url": "https://open.spotify.com/track/0IpYDPNzFWxcLgZDkkrc5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "God of All My Days",
+      "url": "https://open.spotify.com/track/2zqbu8PfKMlNHKBXUvLvWi"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "One Step Away",
-      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 316720,
       "name": "Lifesong",
       "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "One Step Away",
+      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
     },
     {
       "added_at": null,

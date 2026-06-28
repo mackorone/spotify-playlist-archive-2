@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover:  The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,494 likes - 176 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,580 likes - 176 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Theodora, La Mano 1.9 et Charli xcx au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,044 likes - 111 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,038 likes - 111 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

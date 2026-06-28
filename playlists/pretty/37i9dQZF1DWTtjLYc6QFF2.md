@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Українські виконавиць на повну гучність! Добірка створена спільно з YUVI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,691 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,692 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 12 | [тут там](https://open.spotify.com/track/4DQGcN326v52qQxIFclcc2) | [Moann](https://open.spotify.com/artist/2nrmzxrpM4czHiwaQbfxhQ), [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [Alex Silakov](https://open.spotify.com/artist/4onFhnZzfEog4oXThDtkZC), [Муха Мухич](https://open.spotify.com/artist/5hp0Ayk22pO8y8igz897Ii), [Caronlil](https://open.spotify.com/artist/3nFkLMCgrZe6ZSVqR501zf) | [тут там](https://open.spotify.com/album/5Tq45X8sRhoX0mh0ckV0SW) | 2:56 |
 | 13 | [Східний експрес](https://open.spotify.com/track/4TV5ElrAiEYSsppsKiEWQS) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Фата](https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L) | 2:50 |
 | 14 | [Тебе\-себе](https://open.spotify.com/track/23vnEYRBxsgniSbqJZw3pp) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Тебе\-себе](https://open.spotify.com/album/1jFFUtzmG9QIb0P4mCQSJY) | 2:59 |
-| 15 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
+| 15 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [ін8ерсія](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
 | 16 | [сльозка](https://open.spotify.com/track/2GGCks7uW1AKEZ3usmyGFv) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [сльозка](https://open.spotify.com/album/0qVEXvhfFHHPSgIwBlrBbQ) | 3:21 |
 | 17 | [Bite](https://open.spotify.com/track/6gLFzRgV1RhvqRoZHlc8x8) | [Nikita](https://open.spotify.com/artist/0pwlotVpchkMNPglJS6EOv) | [Bite](https://open.spotify.com/album/6W7AXYM7o7ysPPIgzfYf7k) | 3:22 |
 | 18 | [Голограма](https://open.spotify.com/track/6Znk95xsZ3d4zxSg12nMzK) | [TENDITNA](https://open.spotify.com/artist/4astXOaSlmzra789FKiaie), [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [Голограма](https://open.spotify.com/album/2FiNJqMUb5QMmvRxTr6mfS) | 3:12 |

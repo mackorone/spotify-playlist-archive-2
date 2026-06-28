@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-398 songs - 1 day 4 hr 42 min
+399 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [514](https://open.spotify.com/track/2vECXvQoLABMxEPMogaERm) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Sleep Box vol.51](https://open.spotify.com/album/24sSd5811YMvEOXmfjYs9s) | 3:02 | 2022-01-07 | 2023-09-23 |
 | [727](https://open.spotify.com/track/0suUEHQAFjinEWzHCmOnf5) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [727](https://open.spotify.com/album/7gglMpd2CByh9qlty0Doja) | 3:29 | 2025-05-02 |  |
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-12-30 |  |
-| [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 |  |
+| [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 | 2026-06-28 |
 | [A Dream Floating Like a Goldfish](https://open.spotify.com/track/3U1ec2jSAJzZMDOO5nRMsI) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [A Dream Floating Like a Goldfish](https://open.spotify.com/album/1E9415IbHBoQ52mdZ4w5F5) | 2:08 | 2026-03-25 | 2026-04-16 |
 | [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 |  |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
@@ -24,6 +24,7 @@
 | [A Tale](https://open.spotify.com/track/0RwP29TYIWlQh6uvkyGT9y) | [Synergetic Voice Orchestra](https://open.spotify.com/artist/5shpMTYrRn3zNZsbvG5i3p) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/1HQaShZnkACQiXjJRaUzWi) | 5:35 | 2022-12-30 | 2024-04-19 |
 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2022-01-07 | 2022-10-01 |
 | [after the mint light faded](https://open.spotify.com/track/6uJePe8gFAaGc3U2ueJObl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [after the mint light faded](https://open.spotify.com/album/1jxyOd6xoAsBAJYGZskLHA) | 2:16 | 2026-01-23 | 2026-02-26 |
+| [After the Silence](https://open.spotify.com/track/2cr0AJ48Xk94H0UNjJA1BQ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [After the Silence](https://open.spotify.com/album/6Vv3N7JnzTBBlwdxy3eb2E) | 3:36 | 2026-06-26 |  |
 | [After the Thaw, We All Breathe Again \- aus Version](https://open.spotify.com/track/3hgxAPcAiVzMjF3i4DpFcy) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [After the Thaw, We All Breath Again \(aus Version\)](https://open.spotify.com/album/0eLhy4Im7QxnJmYqPwyaAV) | 5:17 | 2026-01-09 | 2026-02-26 |
 | [Afternoon Coastline](https://open.spotify.com/track/2DJzac0etyt8fnN0X7xUh7) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [slowdance​,​lowtide](https://open.spotify.com/album/7xomRNjiLs0yWQ6qemwMMA) | 6:08 | 2022-01-07 |  |
 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-06 | 2023-04-22 |

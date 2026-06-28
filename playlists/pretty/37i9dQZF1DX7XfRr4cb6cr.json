@@ -1,6 +1,6 @@
 {
   "description": "Hymns for darker hours.",
-  "num_followers": 269836,
+  "num_followers": 269883,
   "original_name": "Dark Ambient",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Jonasson",
-          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
-        }
-      ],
-      "duration_ms": 260250,
-      "name": "Time Dilation",
-      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 304000,
       "name": "Chasing Shadows, Pt. 1",
       "url": "https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Jonasson",
+          "url": "https://open.spotify.com/artist/03XDTtBcCjJVSDrvs322wd"
+        }
+      ],
+      "duration_ms": 260250,
+      "name": "Time Dilation",
+      "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "is this nature escape",
-        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
-      },
-      "artists": [
-        {
-          "name": "Katharine Petkovski",
-          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
-        }
-      ],
-      "duration_ms": 212848,
-      "name": "is this nature escape",
-      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "Natthall",
         "url": "https://open.spotify.com/album/7u22N4Jgi0wp8Qb2B6FtxI"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 309461,
       "name": "Woods of Admittance",
       "url": "https://open.spotify.com/track/7BEizNL6QesTGhUY7znR1B"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "is this nature escape",
+        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
+      },
+      "artists": [
+        {
+          "name": "Katharine Petkovski",
+          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
+        }
+      ],
+      "duration_ms": 212848,
+      "name": "is this nature escape",
+      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/7s5eowxjxvNsyob3EuiHUM"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 326693,
       "name": "Call For Winter II",
       "url": "https://open.spotify.com/track/3NkPGvXhZLgia4crLVNSuW"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Where Shadows Cross",
-        "url": "https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        },
-        {
-          "name": "Fionnlagh",
-          "url": "https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh"
-        }
-      ],
-      "duration_ms": 156879,
-      "name": "Where Shadows Cross",
-      "url": "https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "and moonlit shadows",
         "url": "https://open.spotify.com/album/6fpxGFnmnCQc5BbyfJGcxr"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 178750,
       "name": "and moonlit shadows",
       "url": "https://open.spotify.com/track/6MlTTPe72TiBYWmJgl23Vw"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "Where Shadows Cross",
+        "url": "https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        },
+        {
+          "name": "Fionnlagh",
+          "url": "https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh"
+        }
+      ],
+      "duration_ms": 156879,
+      "name": "Where Shadows Cross",
+      "url": "https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/4VutvadT8VMWlf8a9PV3D7"
-      },
-      "artists": [
-        {
-          "name": "AG Sintonia Project",
-          "url": "https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/0UoWeHekRpGzxWl9URL9VK"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "Far Within Reach",
         "url": "https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Building Reflections",
-        "url": "https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G"
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/4VutvadT8VMWlf8a9PV3D7"
       },
       "artists": [
         {
-          "name": "Nature of Wires",
-          "url": "https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi"
+          "name": "AG Sintonia Project",
+          "url": "https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
+      "duration_ms": 196363,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/0UoWeHekRpGzxWl9URL9VK"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -1111,6 +1095,22 @@
       "duration_ms": 344000,
       "name": "Snow Path",
       "url": "https://open.spotify.com/track/2LbQFXXIL6JRJodBGTJcXZ"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "Building Reflections",
+        "url": "https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G"
+      },
+      "artists": [
+        {
+          "name": "Nature of Wires",
+          "url": "https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "A/B (moments bleus la nuit)",
-        "url": "https://open.spotify.com/album/3OOiHyGZA02nQCVxdM6pLE"
-      },
-      "artists": [
-        {
-          "name": "Passa Tempo",
-          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "pour le po\u00e8me (flou v)",
-      "url": "https://open.spotify.com/track/5abIAZR04R2tdeASvQxcQN"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "Ambavi",
         "url": "https://open.spotify.com/album/1M6QRkZzYvIYZ97f15zwBl"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 141864,
       "name": "Ambavi",
       "url": "https://open.spotify.com/track/255kpkW8fGXGGrAwjfWGdp"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "A/B (moments bleus la nuit)",
+        "url": "https://open.spotify.com/album/3OOiHyGZA02nQCVxdM6pLE"
+      },
+      "artists": [
+        {
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "pour le po\u00e8me (flou v)",
+      "url": "https://open.spotify.com/track/5abIAZR04R2tdeASvQxcQN"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
+        "name": "Sometimes underwater (feels like home)",
+        "url": "https://open.spotify.com/album/4ub2LzKfuW0gKMItp5ZFNp"
+      },
+      "artists": [
+        {
+          "name": "A Space for Sound",
+          "url": "https://open.spotify.com/artist/0tB57d7NG95iMYhPjbGZdg"
+        }
+      ],
+      "duration_ms": 296406,
+      "name": "Sometimes underwater (feels like home) (Part 2)",
+      "url": "https://open.spotify.com/track/375WScoEe0HawG4gcfLAyi"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
         "name": "Awake in a Dream",
         "url": "https://open.spotify.com/album/46fn8hZbIDG3ZUy2ErKlJk"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 233727,
       "name": "Awake in a Dream",
       "url": "https://open.spotify.com/track/5j7F86E3n8QRhcp6utovjJ"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
-        "name": "Sometimes underwater (feels like home)",
-        "url": "https://open.spotify.com/album/4ub2LzKfuW0gKMItp5ZFNp"
-      },
-      "artists": [
-        {
-          "name": "A Space for Sound",
-          "url": "https://open.spotify.com/artist/0tB57d7NG95iMYhPjbGZdg"
-        }
-      ],
-      "duration_ms": 296406,
-      "name": "Sometimes underwater (feels like home) (Part 2)",
-      "url": "https://open.spotify.com/track/375WScoEe0HawG4gcfLAyi"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
+        "name": "Sans Visage",
+        "url": "https://open.spotify.com/album/7q2bJTCpr1TkJCOBXn1mRq"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 353936,
+      "name": "Sans Visage I",
+      "url": "https://open.spotify.com/track/0eUfgZjADPkVXDw39awxzT"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Toimetonna",
-        "url": "https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6r Alltid",
-          "url": "https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "Toimetonna",
-      "url": "https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
         "name": "octa",
         "url": "https://open.spotify.com/album/6x3uXGSNTmlnOg0EcIH2Ee"
       },
@@ -1419,34 +1419,18 @@
     {
       "added_at": "2026-06-26 04:00:05",
       "album": {
-        "name": "Sans Visage",
-        "url": "https://open.spotify.com/album/7q2bJTCpr1TkJCOBXn1mRq"
+        "name": "Toimetonna",
+        "url": "https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI"
       },
       "artists": [
         {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+          "name": "F\u00f6r Alltid",
+          "url": "https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu"
         }
       ],
-      "duration_ms": 353936,
-      "name": "Sans Visage I",
-      "url": "https://open.spotify.com/track/0eUfgZjADPkVXDw39awxzT"
-    },
-    {
-      "added_at": "2026-06-26 04:00:05",
-      "album": {
-        "name": "Good Earth",
-        "url": "https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih"
-      },
-      "artists": [
-        {
-          "name": "Carl Borg",
-          "url": "https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX"
-        }
-      ],
-      "duration_ms": 135130,
-      "name": "Good Earth",
-      "url": "https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY"
+      "duration_ms": 188906,
+      "name": "Toimetonna",
+      "url": "https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq"
     },
     {
       "added_at": "2026-06-26 04:00:05",
@@ -1463,6 +1447,22 @@
       "duration_ms": 199384,
       "name": "wanderer",
       "url": "https://open.spotify.com/track/0wPIdtz4u48lVCZif28Hbv"
+    },
+    {
+      "added_at": "2026-06-26 04:00:05",
+      "album": {
+        "name": "Good Earth",
+        "url": "https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih"
+      },
+      "artists": [
+        {
+          "name": "Carl Borg",
+          "url": "https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX"
+        }
+      ],
+      "duration_ms": 135130,
+      "name": "Good Earth",
+      "url": "https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY"
     },
     {
       "added_at": "2026-06-26 04:00:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,303 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,299 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 23 | [IYA \(In Your Arms\)](https://open.spotify.com/track/37lDsKatjqAxlTXb9ZGpFO) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [IYA \(In Your Arms\)](https://open.spotify.com/album/0y35B7RSVegNOiOXy2MLVx) | 2:32 |
 | 24 | [Drown In Your Love](https://open.spotify.com/track/4bY2GvE2w4L4R283b3JbwT) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj), [RVLE](https://open.spotify.com/artist/3NuBjDTnxJ5OHh0Xz3hzxy) | [Drown In Your Love](https://open.spotify.com/album/5pSr0pullqIfBjoIyws2Rl) | 2:04 |
 | 25 | [Back On Ibiza](https://open.spotify.com/track/7FR94d3PgJXnDkSaU2o9PP) | [Vogel](https://open.spotify.com/artist/3E1WT25XSYZkSdw2FLEaCB), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Back On Ibiza](https://open.spotify.com/album/3ExNuYLS0KtuM1OJdXQwEj) | 2:14 |
-| 26 | [Pull Me Away](https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pull Me Away](https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo) | 2:33 |
-| 27 | [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 |
+| 26 | [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 |
+| 27 | [Pull Me Away](https://open.spotify.com/track/6Tee5H62YsZdE7tBIH3Nql) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pull Me Away](https://open.spotify.com/album/59br7b2e3MO4Lw8ClkdjKo) | 2:33 |
 | 28 | [Wait No More](https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Wait No More](https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg) | 2:22 |
 | 29 | [Young Folks](https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Young Folks](https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT) | 3:15 |
 | 30 | [Lately](https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Lately](https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY) | 2:25 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 57 | [Iajo](https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Beats & Pieces II](https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac) | 4:38 |
 | 58 | [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 |
 | 59 | [Someday](https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Someday](https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE) | 2:24 |
-| 60 | [Full Speed](https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ) | [Bella Who](https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Full Speed](https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq) | 4:11 |
+| 60 | [Magic](https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Magic](https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn) | 3:00 |
 
 Snapshot ID: `AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n`

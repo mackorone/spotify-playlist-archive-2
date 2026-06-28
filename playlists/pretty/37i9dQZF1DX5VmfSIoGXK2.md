@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the glorious sounds of Jazz House, from Montreal, Lagos, & beyond 🌎 featuring KALLITECHNIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,818 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,888 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 |
 | 100 | [TTT](https://open.spotify.com/track/6gDDaGM8zIscNdtbWESvWl) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y) | [TTT](https://open.spotify.com/album/1q280272UJuxhZHwk7hqEs) | 3:21 |
 
-Snapshot ID: `AAAAAB+5genzb/q33iJGqnDHsFrKfQb7`
+Snapshot ID: `AAAAAFvvszk7zeQagIHunzSFwtdh9hyR`

@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-172 songs - 7 hr 53 min
+173 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [All Life Began in the Deep Blue Sea](https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:19 | 2025-05-10 |  |
 | [All Life Here Is Waiting](https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [One Planet \(Episode 1 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC) | 1:46 | 2023-11-10 | 2023-12-25 |
 | [An Ingenious Technique \- From "Our Planet"](https://open.spotify.com/track/7FlyYZlURvk8MsSkcYKWlS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 2:49 | 2023-08-04 | 2026-05-31 |
+| [An Unknown World](https://open.spotify.com/track/3Hb2SUJtYjk2tTlRWGgAPi) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:47 | 2026-06-28 |  |
 | [Aningaaq](https://open.spotify.com/track/5QLoJobHVOWEdodeWghQmS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 5:08 | 2023-08-04 |  |
 | [At First It's a Game](https://open.spotify.com/track/3xfbR8A3Ftw2Jc6j2YgxKS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 2:12 | 2024-09-25 | 2024-09-27 |
 | [Aurora Borealis](https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:43 | 2023-08-04 |  |
@@ -36,7 +37,7 @@
 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 | 2024-11-17 |  |
 | [Debris](https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:24 | 2025-02-17 | 2026-05-21 |
 | [Did It Feel Wrong](https://open.spotify.com/track/2B4vzBBaPYY1FzqCBUjtE4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 2:16 | 2023-09-09 | 2024-08-10 |
-| [Distant](https://open.spotify.com/track/0eGcFW6HVT77di3EXbl99t) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 4:57 | 2026-02-02 |  |
+| [Distant](https://open.spotify.com/track/0eGcFW6HVT77di3EXbl99t) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 4:57 | 2026-02-02 | 2026-06-28 |
 | [Echo Fires Up Another](https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:50 | 2023-08-04 |  |
 | [Emma](https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:35 | 2023-08-04 |  |
 | [Eternal Energies Of Nature](https://open.spotify.com/track/1UCmBSiJpN1keDLfWQXP0R) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:01 | 2026-01-17 | 2026-05-28 |

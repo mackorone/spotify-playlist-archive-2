@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Elephant Gym",
-  "num_followers": 221881,
+  "num_followers": 221911,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "First CD",
-        "url": "https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L"
-      },
-      "artists": [
-        {
-          "name": "pennines",
-          "url": "https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y"
-        }
-      ],
-      "duration_ms": 266344,
-      "name": "Open Closed Open",
-      "url": "https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
         "name": "Ghost City",
         "url": "https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 286116,
       "name": "Sultans of Ping",
       "url": "https://open.spotify.com/track/4F89IseMV1ILFfE8d9coyR"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
+        "name": "First CD",
+        "url": "https://open.spotify.com/album/1PMqOoj1Z3A4F6bOvHU20L"
+      },
+      "artists": [
+        {
+          "name": "pennines",
+          "url": "https://open.spotify.com/artist/2ngVUQofGnl0VfpvM0uE0y"
+        }
+      ],
+      "duration_ms": 266344,
+      "name": "Open Closed Open",
+      "url": "https://open.spotify.com/track/6DTCPf9Etdq5tPnU58mzGK"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "Gagarin",
-        "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
-      },
-      "artists": [
-        {
-          "name": "Katana Koala Kiwi",
-          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
-        }
-      ],
-      "duration_ms": 188485,
-      "name": "Gagarin",
-      "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
-    },
-    {
-      "added_at": "2026-06-25 22:02:40",
-      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "Kiev",
-        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
+        "name": "Gagarin",
+        "url": "https://open.spotify.com/album/2xzQosacFq29224Y7Ruz7t"
       },
       "artists": [
         {
-          "name": "The Polar Dream",
-          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
+          "name": "Katana Koala Kiwi",
+          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
         }
       ],
-      "duration_ms": 303516,
-      "name": "Caballos (Horses)",
-      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
+      "duration_ms": 188485,
+      "name": "Gagarin",
+      "url": "https://open.spotify.com/track/5yY29OtZoi8LoGS2HAv5dO"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-06-25 22:02:40",
       "album": {
-        "name": "Gamba Tesa",
-        "url": "https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG"
+        "name": "Kiev",
+        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
       },
       "artists": [
         {
-          "name": "Scumma do Mar",
-          "url": "https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH"
+          "name": "The Polar Dream",
+          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
         }
       ],
-      "duration_ms": 112616,
-      "name": "x Maria Violenza",
-      "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"
+      "duration_ms": 303516,
+      "name": "Caballos (Horses)",
+      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
     },
     {
       "added_at": "2026-06-25 22:02:40",
@@ -1571,6 +1555,22 @@
       "duration_ms": 247426,
       "name": "You can go again",
       "url": "https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs"
+    },
+    {
+      "added_at": "2026-06-25 22:02:40",
+      "album": {
+        "name": "Gamba Tesa",
+        "url": "https://open.spotify.com/album/33mx3VUpMKOqFEjSirUPcG"
+      },
+      "artists": [
+        {
+          "name": "Scumma do Mar",
+          "url": "https://open.spotify.com/artist/6ebpYhUiGhoc4cXeEHTpjH"
+        }
+      ],
+      "duration_ms": 112616,
+      "name": "x Maria Violenza",
+      "url": "https://open.spotify.com/track/3I2SPI12BIfal418Rz2NtB"
     },
     {
       "added_at": "2026-06-25 22:02:40",

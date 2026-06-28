@@ -1,13 +1,37 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 231966,
+  "num_followers": 231978,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAABRpSTbm8Ly2UaBnmGDDmDU",
+  "snapshot_id": "aj3BAAAAAAAdsX5bPOm9MwVjvw8BgpQH",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "With Malice Toward None (from \"Lincoln\")",
+        "url": "https://open.spotify.com/album/56hHmrrgVph0AhY9gxbw8x"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        },
+        {
+          "name": "Thomas Hooten",
+          "url": "https://open.spotify.com/artist/7um0HeeerdjKZiGD8kYxXO"
+        }
+      ],
+      "duration_ms": 325555,
+      "name": "With Malice Toward None from \"Lincoln\" - Live at the John F. Kennedy Center for the Performing Arts, 7/16/2023",
+      "url": "https://open.spotify.com/track/3TdEc9eAXaBBfq7dpYr6E0"
+    },
     {
       "added_at": null,
       "album": {
@@ -363,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 305640,
+      "name": "Raiders March",
+      "url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
       },
@@ -379,22 +419,6 @@
       "duration_ms": 164306,
       "name": "Cantina Band",
       "url": "https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Indiana Jones and the Kingdom of the Crystal Skull (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 305640,
-      "name": "Raiders March",
-      "url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG"
     },
     {
       "added_at": null,
@@ -903,22 +927,6 @@
       "duration_ms": 532706,
       "name": "Journey To The Island",
       "url": "https://open.spotify.com/track/0QCvok3TPhk7JhQF0gYmBw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disclosure Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KUEZUv5r736E70poNm7Eu"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "dive\u2026",
-      "url": "https://open.spotify.com/track/0W7jTQS0yq88lV5hDbIRtC"
     }
   ],
   "unique_name": "This Is John Williams",

@@ -1,6 +1,6 @@
 {
   "description": "Big rooms and big sounds. Cover: Quintino",
-  "num_followers": 643270,
+  "num_followers": 643374,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-06-26 08:00:08",
       "album": {
-        "name": "Higher When I Rise",
-        "url": "https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Higher When I Rise",
-      "url": "https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT"
-    },
-    {
-      "added_at": "2026-06-26 08:00:08",
-      "album": {
         "name": "Outside World",
         "url": "https://open.spotify.com/album/05TsKnWBmFFER3b0K5VnW3"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 149600,
       "name": "Outside World",
       "url": "https://open.spotify.com/track/5FriNJpgR0DT1p3ypBPhR9"
+    },
+    {
+      "added_at": "2026-06-26 08:00:08",
+      "album": {
+        "name": "Higher When I Rise",
+        "url": "https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Higher When I Rise",
+      "url": "https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT"
     },
     {
       "added_at": "2026-06-26 08:00:08",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-06-26 08:00:08",
       "album": {
+        "name": "Right Here, Right Now",
+        "url": "https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Right Here, Right Now",
+      "url": "https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu"
+    },
+    {
+      "added_at": "2026-06-26 08:00:08",
+      "album": {
         "name": "It Ain't Safe (FENRIP)",
         "url": "https://open.spotify.com/album/6UgNBTBU36IulNvfUrrHIk"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 151945,
       "name": "It Ain't Safe (FENRIP)",
       "url": "https://open.spotify.com/track/2uvchqTMwW7gAgjuGVI2pj"
-    },
-    {
-      "added_at": "2026-06-26 08:00:08",
-      "album": {
-        "name": "Right Here, Right Now",
-        "url": "https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Right Here, Right Now",
-      "url": "https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu"
     },
     {
       "added_at": "2026-06-26 08:00:08",
@@ -1635,26 +1635,22 @@
     {
       "added_at": "2026-06-26 08:00:08",
       "album": {
-        "name": "Eyes Open Wide (feat. The Melody Men)",
-        "url": "https://open.spotify.com/album/0KXYyWngj4Vx2bgHUGO2PG"
+        "name": "Synthetic Heart",
+        "url": "https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
         },
         {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "The Melody Men",
-          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+          "name": "Crooked Bangs",
+          "url": "https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu"
         }
       ],
-      "duration_ms": 221818,
-      "name": "Eyes Open Wide (feat. The Melody Men)",
-      "url": "https://open.spotify.com/track/3lNB6AIzIndg6zUzWH8Wql"
+      "duration_ms": 202816,
+      "name": "Synthetic Heart (feat. Crooked Bangs)",
+      "url": "https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1"
     }
   ],
   "unique_name": "Big Room Dance",

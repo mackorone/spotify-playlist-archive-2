@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 273423,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/3JXzauo7MlrtGocUdOTtdw"
@@ -4502,7 +4502,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -4684,7 +4684,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 131250,
       "name": "Bo de Bo de Bo",
       "url": "https://open.spotify.com/track/2zVbERV91MhiijUwQVLK3k"
@@ -6012,7 +6012,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 56737,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/2Nwn3xBDa8YxhYCtPd1QXe"
@@ -6412,7 +6412,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 122363,
       "name": "Chica Baila",
       "url": "https://open.spotify.com/track/0ayDGpeamuHKkx4H8qhJcX"
@@ -6980,7 +6980,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 143813,
       "name": "Colegiala - Afro House",
       "url": "https://open.spotify.com/track/2e1q4XTspTR4nGl4DykxA3"
@@ -11072,7 +11072,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 175007,
       "name": "DIGITAL15",
       "url": "https://open.spotify.com/track/3N9nK8rqqZEYG1MtMdl49l"
@@ -12688,7 +12688,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 330919,
       "name": "El Jard\u00edn Prohibido",
       "url": "https://open.spotify.com/track/45LErG3Sq9sRdzQC8WSq3x"
@@ -16048,7 +16048,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 170665,
       "name": "GAS",
       "url": "https://open.spotify.com/track/3WTXH5x3AityZVCYoJfSMw"
@@ -25682,7 +25682,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 134032,
       "name": "Me Va, Me Va - Afro House",
       "url": "https://open.spotify.com/track/1bARDHcdYvvuG2DVMMFcUC"
@@ -27160,7 +27160,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "MONTALE FT GANGGY",
       "url": "https://open.spotify.com/track/5Q05qXJPxDgKEmNQfnFVeI"
@@ -28398,7 +28398,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 151546,
       "name": "No me dejes ir",
       "url": "https://open.spotify.com/track/6R73o8VuP84xvaewDiRGER"
@@ -32127,6 +32127,28 @@
     },
     {
       "album": {
+        "name": "PISAO PISAO",
+        "url": "https://open.spotify.com/album/1RkhiemjyhF7E22vXt5V1k"
+      },
+      "artists": [
+        {
+          "name": "TRAPPSTARS TS",
+          "url": "https://open.spotify.com/artist/43cWxMn47HxNLmfP53TyWb"
+        },
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "PISAO PISAO",
+      "url": "https://open.spotify.com/track/49xazS2eVuaNXYfXAX2StF"
+    },
+    {
+      "album": {
         "name": "LO MISMO DE SIEMPRE",
         "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
@@ -34388,7 +34410,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 162142,
       "name": "Qu\u00e9 Cara M\u00e1s Bonita - Remix",
       "url": "https://open.spotify.com/track/2zUYLO4815vdU9m3obyBM7"
@@ -34862,7 +34884,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 112941,
       "name": "Real",
       "url": "https://open.spotify.com/track/6ISYUzUuZlUpKkVHNHfUOV"
@@ -41264,7 +41286,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"

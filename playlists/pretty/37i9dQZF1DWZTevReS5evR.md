@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,641 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,644 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 99 | [Tanpa Bicara](https://open.spotify.com/track/32dPiJIrbKTUEPaELjxbgQ) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Tanpa Bicara](https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4) | 3:32 |
 | 100 | [Ingin Mencintai & Dicintai](https://open.spotify.com/track/5l4g0R0SsOmkCmnsQz4DHz) | [Leya Princy](https://open.spotify.com/artist/2O3HjLfKHefXk85dOpAr9x) | [Ingin Mencintai & Dicintai](https://open.spotify.com/album/25HMMZyrb6ivb9C2Th9MCc) | 3:05 |
 
-Snapshot ID: `AAAAAHlX2ccjoAwHFITgXj3VnCi10W4P`
+Snapshot ID: `AAAAADSq+7KYLJjhFroVv0S6eywk4DOX`

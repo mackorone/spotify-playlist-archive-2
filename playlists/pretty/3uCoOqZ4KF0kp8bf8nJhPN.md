@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 277 songs - 11 hr 11 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 278 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,5 +285,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 275 | [Bedrott \- Instrumental Slowed](https://open.spotify.com/track/7q7StxVzHQ5LimdZLQV8xH) | [ForceTx](https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN) | [Bedrott \(Instrumental Slowed\)](https://open.spotify.com/album/3O2WCH1HaNyxLNW8KlIJnz) | 2:22 |
 | 276 | [TRISH!](https://open.spotify.com/track/0MQB4JqltuT3QoE3bbMqDc) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT! \(B SIDE\)](https://open.spotify.com/album/0ebnfu4hXifVFCgrAv6l3Y) | 1:57 |
 | 277 | [stephanie.](https://open.spotify.com/track/3OJIyyskAs0fqv9FyJe5T8) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [are you lonely?](https://open.spotify.com/album/1magMsVGcV4r6K3fUCRMIo) | 3:03 |
+| 278 | [hansen](https://open.spotify.com/track/4XMsiHDG56BUh0wsv78ns4) | [wokeups](https://open.spotify.com/artist/75jGEe1tQWMKVs5xXsSLZb) | [hansen](https://open.spotify.com/album/4xkyQBzm00NXFn9rUfJUo3) | 2:00 |
 
-Snapshot ID: `AAAGqMrJyRJ3Gq7BIWxAqDd5TvLwczj3`
+Snapshot ID: `AAAGqRu6g4kClpte7I0k6R8aGNsy6Ls7`

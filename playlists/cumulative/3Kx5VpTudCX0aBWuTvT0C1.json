@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Deep Cut EP",
+        "url": "https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd"
+      },
+      "artists": [
+        {
+          "name": "Southern States",
+          "url": "https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146478,
+      "name": "Deep Cut",
+      "url": "https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7"
+    },
+    {
+      "album": {
         "name": "EQUINOCCIO",
         "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
       },

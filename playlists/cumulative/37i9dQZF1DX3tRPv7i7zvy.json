@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Koto Na Gye (Bend & Take)",
+        "url": "https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Koto Na Gye (Bend & Take)",
+      "url": "https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam"
+    },
+    {
+      "album": {
         "name": "Kyekyere Me",
         "url": "https://open.spotify.com/album/4mYhORV8LXSMUw7jW1WUiy"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 219310,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3CZgDqy9Tmt0LOyfKX6Qqt"

@@ -9545,6 +9545,28 @@
     },
     {
       "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180560,
+      "name": "Love Hurts (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX"
+    },
+    {
+      "album": {
         "name": "Angel's Egg (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0el78UTVnWvLJ9JTQxWQFy"
       },

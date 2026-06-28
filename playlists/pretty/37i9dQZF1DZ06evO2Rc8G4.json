@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 174396,
+  "num_followers": 174429,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAADZC/E+ppcRxDVGC8zeS7L/",
+  "snapshot_id": "aj3BAAAAAABTgHqkddPYp6qgH93LcGBE",
   "tracks": [
     {
       "added_at": null,
@@ -614,11 +614,15 @@
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "A Guevara",
+          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Red Blooded Woman",
-      "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
+      "duration_ms": 300666,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
     },
     {
       "added_at": null,
@@ -678,31 +682,11 @@
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "A Guevara",
-          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
         }
       ],
-      "duration_ms": 300666,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
+      "duration_ms": 260133,
+      "name": "Red Blooded Woman",
+      "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 181146,
       "name": "My Oh My - with Bebe Rexha & Tove Lo",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
     },
     {
       "added_at": null,

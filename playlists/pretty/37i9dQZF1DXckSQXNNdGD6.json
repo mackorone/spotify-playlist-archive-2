@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 22306,
+  "num_followers": 22308,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "Odio La M\u00fasica",
         "url": "https://open.spotify.com/album/74Gc5B8FkQovbqX622XFIj"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 230000,
       "name": "Odio La M\u00fasica",
       "url": "https://open.spotify.com/track/79NTnQdxMd9FmUIHaq0tfr"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "coraz\u00f3n distante",
-        "url": "https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Delalvz",
-          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "coraz\u00f3n distante",
-      "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "TKM CNT XFA",
         "url": "https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 214545,
       "name": "Omaigach",
       "url": "https://open.spotify.com/track/0CUf3C7SNW7y4PyWgWFFK6"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "coraz\u00f3n distante",
+        "url": "https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Delalvz",
+          "url": "https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "coraz\u00f3n distante",
+      "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
     },
     {
       "added_at": "2026-06-08 07:44:23",

@@ -10173,6 +10173,24 @@
     },
     {
       "album": {
+        "name": "Old Skool Masters - S3RL",
+        "url": "https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB"
+      },
+      "artists": [
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285257,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/3FRIOB6cFdB6M1fREjXUAG"
+    },
+    {
+      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },

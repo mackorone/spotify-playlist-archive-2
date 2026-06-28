@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18713,
+  "num_followers": 18716,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAACChgItCOheeU5pgkDkGKsS",
+  "snapshot_id": "aj3BAAAAAADdwuGaPcsiP65ekYjane3X",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "The Walking Dead",
-      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 193925,
       "name": "Mental Health",
       "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "The Walking Dead",
+      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
     },
     {
       "added_at": null,

@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Back to First Place",
+        "url": "https://open.spotify.com/album/3L3cHkldRssEqumJFVx3Rn"
+      },
+      "artists": [
+        {
+          "name": "FairPlay",
+          "url": "https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "Back to First Place",
+      "url": "https://open.spotify.com/track/0whtoWSCHflwjvwjPgGMFi"
+    },
+    {
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/2hMtwB5CvVyY0Xf3EAJNId"
       },
@@ -1966,6 +1984,24 @@
       "duration_ms": 302625,
       "name": "Bald",
       "url": "https://open.spotify.com/track/0mkFpp2s4X5FX0VgpXW7KZ"
+    },
+    {
+      "album": {
+        "name": "BALLET BILLY",
+        "url": "https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37"
+      },
+      "artists": [
+        {
+          "name": "Cut Manners",
+          "url": "https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106923,
+      "name": "BALLET BILLY",
+      "url": "https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC"
     },
     {
       "album": {
@@ -2226,7 +2262,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 44000,
       "name": "BEAVER CREAM",
       "url": "https://open.spotify.com/track/294bk3KsT4gWATUjSKBnKM"
@@ -2396,6 +2432,24 @@
       "duration_ms": 205687,
       "name": "BESIDED",
       "url": "https://open.spotify.com/track/2A8Q23wkcnV9cek1rFTSos"
+    },
+    {
+      "album": {
+        "name": "Best Friends",
+        "url": "https://open.spotify.com/album/5m2Am4RMYyibOJ7dONuPRj"
+      },
+      "artists": [
+        {
+          "name": "Danama",
+          "url": "https://open.spotify.com/artist/5kjg1V3FLw9FHcFKW5NaG3"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226153,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/3lgs9gHw7nWXM0pShdSsCp"
     },
     {
       "album": {
@@ -2970,6 +3024,24 @@
       "duration_ms": 192000,
       "name": "Blood Full of Metal",
       "url": "https://open.spotify.com/track/248ljP84krXywsN09x4F4E"
+    },
+    {
+      "album": {
+        "name": "Blood In My Margarita",
+        "url": "https://open.spotify.com/album/6edO6esJBfjew89feH2UL8"
+      },
+      "artists": [
+        {
+          "name": "Idle Hive",
+          "url": "https://open.spotify.com/artist/3bQIHJpzSqqXQJBhX3xW0K"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227018,
+      "name": "Blood In My Margarita",
+      "url": "https://open.spotify.com/track/7FnAZu16iYNzn1WrRbYFbp"
     },
     {
       "album": {
@@ -5529,6 +5601,28 @@
     },
     {
       "album": {
+        "name": "Crave Me",
+        "url": "https://open.spotify.com/album/0KocF2JEya9AGF7RD9VAJK"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151149,
+      "name": "Crave Me",
+      "url": "https://open.spotify.com/track/57RNSA7UvxIV13b5HvqVER"
+    },
+    {
+      "album": {
         "name": "[REDACTED]",
         "url": "https://open.spotify.com/album/0IDJI4Wfx1jPBiYOdyV9GG"
       },
@@ -6416,6 +6510,24 @@
       "duration_ms": 192000,
       "name": "Demon In The Desert",
       "url": "https://open.spotify.com/track/70ngqDC25LCmoyqumFw4uz"
+    },
+    {
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/73tvnbBeRG7QORr7tGZ6gD"
+      },
+      "artists": [
+        {
+          "name": "Silent Deeps",
+          "url": "https://open.spotify.com/artist/5UiLIP6tDiC5wm7kTpnQDQ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211902,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/5kWIyNYzoNMbjIpHOcxVzf"
     },
     {
       "album": {
@@ -7718,7 +7830,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 204062,
       "name": "Drought (Far from Okay)",
       "url": "https://open.spotify.com/track/0vudEgIj5zDwXzyK61ycw9"
@@ -11726,7 +11838,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 200851,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1uqDvSyvoZNQi6gxPAYJJO"
@@ -12486,7 +12598,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 179121,
       "name": "I am alone again",
       "url": "https://open.spotify.com/track/1QXmCsed9NThwEo4LfO4ap"
@@ -14440,7 +14552,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 183556,
       "name": "Justice and Revenge",
       "url": "https://open.spotify.com/track/0OazDxNNK47ZVkzpuvtc86"
@@ -15279,6 +15391,24 @@
     },
     {
       "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/5YfK3R0g8e7uQZPDP93519"
+      },
+      "artists": [
+        {
+          "name": "Fate Envoy",
+          "url": "https://open.spotify.com/artist/0z9ceq1SavOBoASRKNmF4O"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171575,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/6ZWJ5yo2mjEC2JWZbjejbe"
+    },
+    {
+      "album": {
         "name": "pax humana (remaster)",
         "url": "https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8"
       },
@@ -15544,6 +15674,28 @@
       "duration_ms": 302802,
       "name": "Litany of Your Name",
       "url": "https://open.spotify.com/track/2Alk9YqpSZMeVMm3sC23I0"
+    },
+    {
+      "album": {
+        "name": "Little Prince Loves You (feat. Ryoma Maeda)",
+        "url": "https://open.spotify.com/album/2FgnNqn5YDDCrxOPHfh6xk"
+      },
+      "artists": [
+        {
+          "name": "EeL",
+          "url": "https://open.spotify.com/artist/6sZM3BuSUL6uSBp6lFKSwZ"
+        },
+        {
+          "name": "Ryoma Maeda",
+          "url": "https://open.spotify.com/artist/7Ep5uEh8liquhxBTAsK24s"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290973,
+      "name": "Little Prince Loves You (feat. Ryoma Maeda)",
+      "url": "https://open.spotify.com/track/4UOc6KD0MJjDKFtIPUAxMm"
     },
     {
       "album": {
@@ -19212,7 +19364,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 177107,
       "name": "ONLY GOD KNOWS",
       "url": "https://open.spotify.com/track/6kDCKwJCMiTmWFc62BF6PT"
@@ -22335,6 +22487,24 @@
     },
     {
       "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/4IPKQsPdGmxg8wZyMGx9Tr"
+      },
+      "artists": [
+        {
+          "name": "Resurrected",
+          "url": "https://open.spotify.com/artist/4zLoT2IPhhxC6KFDyceuJS"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253979,
+      "name": "Sanity Is Lost",
+      "url": "https://open.spotify.com/track/5ajH68UKzdDlzBf3nEdVBJ"
+    },
+    {
+      "album": {
         "name": "Save The Oak (radio edit)",
         "url": "https://open.spotify.com/album/2ruA6ZT202HOXckvTcPXO7"
       },
@@ -24862,7 +25032,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 248819,
       "name": "Start A Riot",
       "url": "https://open.spotify.com/track/6bDE6tsNmgBEdkNg4AmSzS"
@@ -24898,7 +25068,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 146293,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/348sLULN7wJB1dIKrACj3L"
@@ -25633,6 +25803,24 @@
     },
     {
       "album": {
+        "name": "Surf & Serotonin",
+        "url": "https://open.spotify.com/album/1JT3szhOm5x29AqSfjBDCF"
+      },
+      "artists": [
+        {
+          "name": "Dane & Em.",
+          "url": "https://open.spotify.com/artist/4A3nD66XVcMtub6fNuNoea"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146803,
+      "name": "Surf & Serotonin",
+      "url": "https://open.spotify.com/track/0ul1KuEwnx2mLSys4eMVPs"
+    },
+    {
+      "album": {
         "name": "Surface Tension",
         "url": "https://open.spotify.com/album/5OwVt7UNBROLRM51st1mzl"
       },
@@ -26246,6 +26434,24 @@
       "duration_ms": 217500,
       "name": "Terra Firma",
       "url": "https://open.spotify.com/track/0msuAwC5xHYfjlJsHLPSD2"
+    },
+    {
+      "album": {
+        "name": "terra xehanort and my lingering will",
+        "url": "https://open.spotify.com/album/2hoclSBFK3T8bArUzBQSQ1"
+      },
+      "artists": [
+        {
+          "name": "weonlyspokeinellipses",
+          "url": "https://open.spotify.com/artist/7htluJ2LQrzi4ZrAcLBzXd"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236629,
+      "name": "terra xehanort and my lingering will",
+      "url": "https://open.spotify.com/track/372WGcjNxlBhOUo0PP7iiP"
     },
     {
       "album": {
@@ -27534,6 +27740,24 @@
       "duration_ms": 123653,
       "name": "The The Empty",
       "url": "https://open.spotify.com/track/5GnkMchKInhIyzqo86KQRi"
+    },
+    {
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/5YfK3R0g8e7uQZPDP93519"
+      },
+      "artists": [
+        {
+          "name": "Fate Envoy",
+          "url": "https://open.spotify.com/artist/0z9ceq1SavOBoASRKNmF4O"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249968,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/683VF3xshojCMyQalawb3z"
     },
     {
       "album": {
@@ -29299,6 +29523,24 @@
     },
     {
       "album": {
+        "name": "Void Side",
+        "url": "https://open.spotify.com/album/27qTc6V8t9S61yKKXk6les"
+      },
+      "artists": [
+        {
+          "name": "Rubber Block",
+          "url": "https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263178,
+      "name": "Void Side",
+      "url": "https://open.spotify.com/track/5h2qXbZScJHi1TDqdPfeCR"
+    },
+    {
+      "album": {
         "name": "Voidware",
         "url": "https://open.spotify.com/album/4gUash0IAx1TO9KMTu7tU5"
       },
@@ -30868,7 +31110,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 225600,
       "name": "Worlds Collide",
       "url": "https://open.spotify.com/track/0UUbBveljdLmHmItyOEC0F"
@@ -30904,7 +31146,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 187666,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/4qlXnZia84mKCiuUcpBpxF"

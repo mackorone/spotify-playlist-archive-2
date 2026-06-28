@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajwzoQAAAACtNNcmeitnQgMlxzJu/5xv",
+  "snapshot_id": "aj/sQwAAAAAdwIQcKRRr10JFEiLNgU36",
   "tracks": [
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "REVAMPED",
         "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3L3IJAp60VshAFFDjdJ2FE"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Physical (feat. Troye Sivan)",
         "url": "https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "JALLA",
         "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/3lYR2Jima3NVUu3wAtczj4"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
-      "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 212289,
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
-    },
-    {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "The Maine",
         "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
@@ -161,39 +145,7 @@
       "url": "https://open.spotify.com/track/7e61iFzE2MvK1gJ276XXmX"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
-      "album": {
-        "name": "Feed The Beast",
-        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Minute",
-      "url": "https://open.spotify.com/track/5T9oCNxslGlodgZd282juI"
-    },
-    {
-      "added_at": "2026-06-24 19:44:33",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "my way",
-      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
@@ -209,7 +161,39 @@
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
+      "album": {
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 212289,
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
+    },
+    {
+      "added_at": "2026-06-27 15:29:07",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
+    },
+    {
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
@@ -225,7 +209,7 @@
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "PINKY UP",
         "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "The Maine",
         "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
@@ -257,43 +241,39 @@
       "url": "https://open.spotify.com/track/5usGOGw57VNPPsr6qyFFxn"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
-        "name": "Opalite (BUNT. Remix)",
-        "url": "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi"
+        "name": "Feed The Beast",
+        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Minute",
+      "url": "https://open.spotify.com/track/5T9oCNxslGlodgZd282juI"
+    },
+    {
+      "added_at": "2026-06-27 15:29:07",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 212766,
-      "name": "Opalite - BUNT. Remix",
-      "url": "https://open.spotify.com/track/0E3Vtmgzk067KASoo0HwzV"
+      "duration_ms": 208186,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 135703,
-      "name": "COPYCAT",
-      "url": "https://open.spotify.com/track/57aMyrC1ts3HlTSwBk2BIZ"
-    },
-    {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
@@ -309,7 +289,7 @@
       "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Confident (Rock Version)",
         "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
@@ -325,7 +305,7 @@
       "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
@@ -345,23 +325,27 @@
       "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
-        "name": "Samurai Swords (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6SwPIxfYwDHpBjgumnPdip"
+        "name": "Opalite (BUNT. Remix)",
+        "url": "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi"
       },
       "artists": [
         {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 228733,
-      "name": "Samurai Swords (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6Lq3so9twcIAyF1vLMaDwb"
+      "duration_ms": 212766,
+      "name": "Opalite - BUNT. Remix",
+      "url": "https://open.spotify.com/track/0E3Vtmgzk067KASoo0HwzV"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
@@ -377,43 +361,75 @@
       "url": "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         },
         {
-          "name": "robbietheused",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+          "name": "UCB (Uncalled 4 Band)",
+          "url": "https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF"
         }
       ],
-      "duration_ms": 200154,
-      "name": "Give Your Heart A Break (with robbietheused) - Rock Version",
-      "url": "https://open.spotify.com/track/4ktgVQZCBvSMfHGzC8UVYz"
+      "duration_ms": 170760,
+      "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
+      "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
-        "name": "Bitters\u00fc\u00df",
-        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
       },
       "artists": [
         {
-          "name": "Abor & Tynna",
-          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
+    },
+    {
+      "added_at": "2026-06-27 15:29:07",
+      "album": {
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "no tears left to cry",
+      "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
@@ -449,23 +465,31 @@
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
-        "name": "Midnights (3am Edition)",
-        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
           "name": "Taylor Swift",
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/4g2c7NoTWAOSYDy44l9nub"
+      "duration_ms": 244826,
+      "name": "End Game",
+      "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
@@ -485,7 +509,7 @@
       "url": "https://open.spotify.com/track/6phyrxHcUpQ1BRZ8yXCUWB"
     },
     {
-      "added_at": "2026-06-24 19:44:33",
+      "added_at": "2026-06-27 15:29:07",
       "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
@@ -499,26 +523,6 @@
       "duration_ms": 143940,
       "name": "run for the hills",
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
-    },
-    {
-      "added_at": "2026-06-24 19:44:33",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 193262,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2"
     }
   ],
   "unique_name": "On Repeat",

@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu sedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1209638,
+  "num_followers": 1209650,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-05-01 01:20:26",
       "album": {
-        "name": "Setengah Mati Merindu",
-        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
-      },
-      "artists": [
-        {
-          "name": "Judika",
-          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Aku Yang Tersakiti",
-      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
-    },
-    {
-      "added_at": "2026-05-01 01:20:26",
-      "album": {
         "name": "Cintailah Cinta",
         "url": "https://open.spotify.com/album/6ifjItwHx7S2mhoX6tWSlK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 305906,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/7ADK1rnMzP6PGWhoqWirBJ"
+    },
+    {
+      "added_at": "2026-05-01 01:20:26",
+      "album": {
+        "name": "Setengah Mati Merindu",
+        "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
+      },
+      "artists": [
+        {
+          "name": "Judika",
+          "url": "https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Aku Yang Tersakiti",
+      "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
     },
     {
       "added_at": "2026-05-01 01:20:26",

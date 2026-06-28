@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4001603,
+  "num_followers": 4002235,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
+        "name": "Pura Playa",
+        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 218506,
       "name": "Sexo Seguro",
       "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
-        "name": "Pura Playa",
-        "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/07hNUXX5QqXgOAbcst7CPP"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -1642,11 +1642,15 @@
         {
           "name": "Flex",
           "url": "https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN"
+        },
+        {
+          "name": "Duende",
+          "url": "https://open.spotify.com/artist/2E3tmoNU7fIzncQ9DUI9Eh"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/5CxTmO3ri43RrwK1CZ8HTW"
+      "duration_ms": 214746,
+      "name": "D\u00e9jala (feat. Duende)",
+      "url": "https://open.spotify.com/track/0k4UXBC9700xNV7P0bZgTR"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -1723,6 +1727,22 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1751,38 +1771,6 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
-        "name": "Top Of The Line",
-        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -1819,6 +1807,22 @@
       "duration_ms": 164693,
       "name": "El Tiburon",
       "url": "https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "Motivando a la Yal",
+        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -1883,6 +1887,22 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
+        "name": "Los Reyes del Perreo",
+        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Me Quiere Besar",
+      "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
         "name": "Toby Love",
         "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
@@ -1903,22 +1923,6 @@
       "duration_ms": 260293,
       "name": "Tengo Un Amor (feat. Rakim & Ken-Y) - Remix Version",
       "url": "https://open.spotify.com/track/4mDWapOAzoFsHu8TPcP2R0"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
-        "name": "Los Reyes del Perreo",
-        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Me Quiere Besar",
-      "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -3643,26 +3647,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "Los Bacatranes",
-        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
-      },
-      "artists": [
-        {
-          "name": "Trebol Clan",
-          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
-        },
-        {
-          "name": "Joan",
-          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Gata Fiera (feat. Joan)",
-      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "Te Pintaron Pajaritos",
         "url": "https://open.spotify.com/album/3DQCcUo4IlRoSAMo8MPl9m"
       },
@@ -3679,6 +3663,26 @@
       "duration_ms": 172374,
       "name": "Te Pintaron Pajaritos",
       "url": "https://open.spotify.com/track/419w8oZaqevgyZfdvFZEHa"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "Joan",
+          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Gata Fiera (feat. Joan)",
+      "url": "https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs"
     },
     {
       "added_at": "2026-05-13 18:21:10",
@@ -3767,22 +3771,6 @@
     {
       "added_at": "2026-05-13 18:21:10",
       "album": {
-        "name": "e5",
-        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP"
-    },
-    {
-      "added_at": "2026-05-13 18:21:10",
-      "album": {
         "name": "Los Vaqueros Wild Wild Mixes",
         "url": "https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn"
       },
@@ -3799,6 +3787,22 @@
       "duration_ms": 240200,
       "name": "Quizas - Remix",
       "url": "https://open.spotify.com/track/5lSASgj3h5dWTK7pr4vkBq"
+    },
+    {
+      "added_at": "2026-05-13 18:21:10",
+      "album": {
+        "name": "e5",
+        "url": "https://open.spotify.com/album/50m6CwGzwKsAcVPz9SCMrp"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/4HNlRF6Nux7jU68kTpX7CP"
     }
   ],
   "unique_name": "Reggaet\u00f3n Viejito",

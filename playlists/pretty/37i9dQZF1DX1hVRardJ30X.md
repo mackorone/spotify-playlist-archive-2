@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Bizarrap & Myke Towers, Becky G, Eslabon Armado & Peso Pluma, Paloma Mami &  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,016 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,120 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 22 | [Tijuana](https://open.spotify.com/track/5JVlAB1QMmef065auOCIXC) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Tijuana](https://open.spotify.com/album/6wFZn5EBvLkzHHqgKljTvk) | 2:58 |
 | 23 | [Mas Mujeres](https://open.spotify.com/track/0nlCZbgwYS4DM2DIBKIOJV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [La Casa Del Trap](https://open.spotify.com/album/4c6x92vxqC9HAp9E0ZSWAi) | 4:20 |
 | 24 | [Lento](https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Lento](https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL) | 2:26 |
-| 25 | [Ven Conmigo](https://open.spotify.com/track/1Iwb0Vf6uYL2Zys1SiTO6j) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Ven Conmigo](https://open.spotify.com/album/5SyoYI1kqC57pTJOvtaBxk) | 3:20 |
+| 25 | [Ven Conmigo](https://open.spotify.com/track/1Iwb0Vf6uYL2Zys1SiTO6j) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Ven Conmigo](https://open.spotify.com/album/5SyoYI1kqC57pTJOvtaBxk) | 3:20 |
 | 26 | [One of one](https://open.spotify.com/track/2SbW55BxrOhsJ6PwUqOTBW) | [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy) | [One of one](https://open.spotify.com/album/4wBo89khdniTZDqfenQLBu) | 1:46 |
 | 27 | [ROMANCE MARGINAL](https://open.spotify.com/track/3jBMYfGQyqSCUxiYwVNKeb) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [ROMANCE MARGINAL](https://open.spotify.com/album/2u8OvKylkt2cMw0PvUQi4a) | 3:13 |
 | 28 | [Lokera](https://open.spotify.com/track/7K23Te3utCfxBPwqzq8g7U) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Intuición](https://open.spotify.com/album/28bPKJ84oK7VV8xZz4yUPm) | 3:00 |

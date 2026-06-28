@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 551967,
+  "num_followers": 552010,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAADFcmQxZuDq+bk5ZflWWxHU",
+  "snapshot_id": "aj3BAAAAAACYKXZapVGooNrXlL5/KB8v",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,26 @@
       "duration_ms": 338040,
       "name": "Desecrate Through Reverence",
       "url": "https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CANDY DOPAMINE",
+        "url": "https://open.spotify.com/album/1O0ioUh8VAINx6kBd8DWQ2"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "CANDY DOPAMINE",
+      "url": "https://open.spotify.com/track/6CJXVlZ1kApaGVH5vMyQQ8"
     },
     {
       "added_at": null,

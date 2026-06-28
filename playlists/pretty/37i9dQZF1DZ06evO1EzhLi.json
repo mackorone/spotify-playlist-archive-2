@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 181278,
+  "num_followers": 181296,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAAD/DumE+CbLTGuxZEh77ynk",
+  "snapshot_id": "aj3BAAAAAAAN/V4RC0dFP0dWoytHCd3M",
   "tracks": [
     {
       "added_at": null,
@@ -556,70 +556,6 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seventeen Days",
-        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Here By Me",
-      "url": "https://open.spotify.com/track/4WuuMrsyFVUciCMCpVjFrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Long Day",
-      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "The Broken",
-      "url": "https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
       "duration_ms": 190586,
       "name": "Train",
       "url": "https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT"
@@ -636,9 +572,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 194266,
-      "name": "It's Not Me",
-      "url": "https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH"
+      "duration_ms": 227933,
+      "name": "Here By Me",
+      "url": "https://open.spotify.com/track/4WuuMrsyFVUciCMCpVjFrM"
     },
     {
       "added_at": null,
@@ -668,9 +604,41 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Pieces Of Me",
-      "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
+      "duration_ms": 166813,
+      "name": "The Broken",
+      "url": "https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seventeen Days",
+        "url": "https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "It's Not Me",
+      "url": "https://open.spotify.com/track/4Ade7jYfOfh7T9Bag0THDH"
     },
     {
       "added_at": null,
@@ -684,9 +652,41 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Something In My Mind",
-      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
+      "duration_ms": 218066,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Pieces Of Me",
+      "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "When It's Over",
+      "url": "https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 256666,
-      "name": "When It's Over",
-      "url": "https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1"
+      "duration_ms": 198653,
+      "name": "Something In My Mind",
+      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
     },
     {
       "added_at": null,

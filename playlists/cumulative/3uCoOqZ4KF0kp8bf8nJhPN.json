@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "hansen",
+        "url": "https://open.spotify.com/album/4xkyQBzm00NXFn9rUfJUo3"
+      },
+      "artists": [
+        {
+          "name": "wokeups",
+          "url": "https://open.spotify.com/artist/75jGEe1tQWMKVs5xXsSLZb"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120357,
+      "name": "hansen",
+      "url": "https://open.spotify.com/track/4XMsiHDG56BUh0wsv78ns4"
+    },
+    {
+      "album": {
         "name": "Has To Be",
         "url": "https://open.spotify.com/album/4m0K0hcRBcLIdI9FuiGS7U"
       },

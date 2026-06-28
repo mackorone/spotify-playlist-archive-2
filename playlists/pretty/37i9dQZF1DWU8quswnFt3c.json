@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Sunidhi Chauhan",
-  "num_followers": 1034049,
+  "num_followers": 1033938,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "Diamonds in the Sky",
-        "url": "https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 185031,
-      "name": "Diamonds in the Sky",
-      "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
         "name": "Izinja Zam: Vol. I",
         "url": "https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 425084,
       "name": "Guqa (My Prayer)",
       "url": "https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
+        "name": "Diamonds in the Sky",
+        "url": "https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 185031,
+      "name": "Diamonds in the Sky",
+      "url": "https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC"
     },
     {
       "added_at": "2026-06-05 05:06:12",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "THIS IS HOW I AM",
-        "url": "https://open.spotify.com/album/4GIIgSveSyls13q824SdUy"
+        "name": "Sigui",
+        "url": "https://open.spotify.com/album/4kiBVxzxHqE0FccC8JIxJD"
       },
       "artists": [
         {
-          "name": "SHINJIRO ATAE",
-          "url": "https://open.spotify.com/artist/6xQSB9lW2fMbXEP0thTSEF"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 182490,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/71WYq0Dq4VWatUIFDW0jvz"
+      "duration_ms": 197960,
+      "name": "Sigui",
+      "url": "https://open.spotify.com/track/5i0JVsQOIwqn9LKP29YXh3"
     }
   ],
   "unique_name": "EQUAL",

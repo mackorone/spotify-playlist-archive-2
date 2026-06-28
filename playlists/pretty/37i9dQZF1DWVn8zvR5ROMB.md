@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Dan + Shay, Cody Johnson, Marshmello with Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,003 likes - 107 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,106 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

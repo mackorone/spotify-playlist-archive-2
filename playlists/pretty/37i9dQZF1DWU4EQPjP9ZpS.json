@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 345160,
+  "num_followers": 345222,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "so be it",
-        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
-      },
-      "artists": [
-        {
-          "name": "glhf",
-          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
-        }
-      ],
-      "duration_ms": 388732,
-      "name": "so be it",
-      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Dawn Rest",
         "url": "https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 221888,
       "name": "Dawn Rest",
       "url": "https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "so be it",
+        "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
+      },
+      "artists": [
+        {
+          "name": "glhf",
+          "url": "https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te"
+        }
+      ],
+      "duration_ms": 388732,
+      "name": "so be it",
+      "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
-      },
-      "artists": [
-        {
-          "name": "NNTYTUU",
-          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
-        }
-      ],
-      "duration_ms": 156230,
-      "name": "Entrust",
-      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182190,
       "name": "made in taiwan",
       "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "NNTYTUU",
+          "url": "https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD"
+        }
+      ],
+      "duration_ms": 156230,
+      "name": "Entrust",
+      "url": "https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "You Got The Groove",
+        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "You Got The Groove - slow + reverbed",
+      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Polygon Paradise",
         "url": "https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "You Got The Groove",
-        "url": "https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI"
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
       "artists": [
         {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
         }
       ],
-      "duration_ms": 237333,
-      "name": "You Got The Groove - slow + reverbed",
-      "url": "https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w"
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1419,22 +1435,6 @@
       "duration_ms": 197500,
       "name": "Fire Magic",
       "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "\u264d\ufe0e\u2752\ufe0e\u2353\ufe0e\u2b27\ufe0e\u29eb\ufe0e\u264b\ufe0e\u25cf\ufe0e \u264c\ufe0e\u264b\ufe0e\u25cf\ufe0e\u25cf\ufe0e",
         "url": "https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 219428,
       "name": "Glass Mind",
       "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dxys Xff",
-        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
-      },
-      "artists": [
-        {
-          "name": "Teams",
-          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
-        }
-      ],
-      "duration_ms": 326373,
-      "name": "Stunts",
-      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Tropics 1",
         "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 215930,
       "name": "Spring Water",
       "url": "https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dxys Xff",
+        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
+      },
+      "artists": [
+        {
+          "name": "Teams",
+          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
+        }
+      ],
+      "duration_ms": 326373,
+      "name": "Stunts",
+      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Touched By an Angle, Vol. 2",
-        "url": "https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO"
+        "name": "Leisure",
+        "url": "https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA"
       },
       "artists": [
         {
-          "name": "Deadmalls",
-          "url": "https://open.spotify.com/artist/2qFdnNDKLAb4RDfijF9gKt"
+          "name": "Duett",
+          "url": "https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Dillards",
-      "url": "https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW"
+      "duration_ms": 222958,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL"
     }
   ],
   "unique_name": "vaporwave",

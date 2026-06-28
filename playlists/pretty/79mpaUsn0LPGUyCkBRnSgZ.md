@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 733 songs - 1 day 23 hr 11 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 734 songs - 1 day 23 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -741,5 +741,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 731 | [Erotica](https://open.spotify.com/track/1dBS4iejXWbLZyGpMejc1A) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Erotica Veronica](https://open.spotify.com/album/4qhA5QaHjGtDptQf2DMXTQ) | 3:13 |
 | 732 | [Eureka 378\-B](https://open.spotify.com/track/04G8S4DhyfpsmwWbFmc4fY) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV), [Nina Guo](https://open.spotify.com/artist/1dS1OQtTGCVmkaJanOpRA0), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Madison Greenstone](https://open.spotify.com/artist/5PkPi1lRFf74AC9dpr8fNI), [Weston Olencki](https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR) | [Demand to Be Taken to Heaven Alive!](https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk) | 0:56 |
 | 733 | [Big Day Coming](https://open.spotify.com/track/0azh8Cxn6sUDdyXDBE9qUk) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Painful](https://open.spotify.com/album/7a4l81UqmFYs13351IyOSc) | 7:05 |
+| 734 | [Phantom](https://open.spotify.com/track/6QmvvglistS1I0ZSuGKqcg) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:42 |
 
-Snapshot ID: `AAAJNhDzz7iqAS3FbFrubKkgF99XxEIc`
+Snapshot ID: `AAAJNxNjFxt3Zdtye8bhHBZTDxq68Ugw`

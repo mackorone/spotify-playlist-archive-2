@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Tem Que Haver Mais",
+        "url": "https://open.spotify.com/album/6vnoBJ5LAM8CQMNKrqPC96"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359040,
+      "name": "Tem Que Haver Mais",
+      "url": "https://open.spotify.com/track/3W3ZsM73DdsgCUcIpMCtXe"
+    },
+    {
+      "album": {
         "name": "Vivo Est\u00e1s",
         "url": "https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc"
       },
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 239294,
       "name": "Yo S\u00e9 Quien Soy",
       "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"

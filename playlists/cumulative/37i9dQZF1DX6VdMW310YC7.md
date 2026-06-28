@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,909 songs - 5 day 9 hr 37 min
+1,910 songs - 5 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,7 @@
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-07-01 | 2023-05-13 |
 | [Hear Me Now](https://open.spotify.com/track/6OnYQKTc5fbSGbIpaH4KxL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/5ev8miwRafJ3DeXNaAVzBZ) | 3:12 | 2020-05-22 | 2020-07-03 |
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2020-03-16 | 2020-06-12 |
-| [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-10-01 |  |
+| [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 | 2024-10-01 | 2026-06-28 |
 | [Heart Of Mine](https://open.spotify.com/track/7xsEMen9ISL49UPbeJ72RK) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Heart Of Mine](https://open.spotify.com/album/4BhGd2bPD1gqn0V7P4RVvx) | 3:50 | 2020-07-03 | 2020-10-10 |
 | [Heart To Heart](https://open.spotify.com/track/2RsBPnEUWSDEkheThXHbIq) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Heart To Heart](https://open.spotify.com/album/7u2vHbfkcGaRIfDH91Bl4h) | 4:24 | 2022-09-09 | 2022-12-13 |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-09-10 | 2023-07-08 |
@@ -1499,6 +1499,7 @@
 | [Sleepy Kids](https://open.spotify.com/track/1u5XvdhVGonnrkpPrtgzKF) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Sleepy Kids](https://open.spotify.com/album/7xJ3FrBDiqshPpbq8ecsAK) | 2:43 | 2020-05-18 | 2020-07-18 |
 | [Slow Bloom](https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Slow Bloom](https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN) | 3:16 | 2025-08-15 | 2025-11-28 |
 | [Slow Down](https://open.spotify.com/track/69iN7CpUdg6w7ivHAWZ4Zr) | [Belle Envie](https://open.spotify.com/artist/2mETKGsiS3YslsdbyX32Nv) | [Slow Down](https://open.spotify.com/album/3a5ukvh0q48ui5MZ7pJ6Ox) | 4:04 | 2020-03-20 | 2020-07-18 |
+| [Slow Motion](https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Slow Motion](https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G) | 2:46 | 2026-06-26 |  |
 | [Smalltalk \- Four Tet Remix](https://open.spotify.com/track/0MCkGXxEcvsPc7HrncVlsZ) | [Ultraísta](https://open.spotify.com/artist/2f88S1uYsEwP0n4x36wvG7), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Ultraísta \(Deluxe\)](https://open.spotify.com/album/66bXdFrMf6H8zxRyrUVSzu) | 6:03 | 2020-02-29\* | 2020-03-16 |
 | [Smile](https://open.spotify.com/track/3cQ2pYZrrqTUVqrzPMDRoX) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Smile](https://open.spotify.com/album/3afhlf6KXIwOd9U4wGsolV) | 3:57 | 2021-06-18 | 2022-12-29 |
 | [Snow Angel](https://open.spotify.com/track/7JLNp2nsXCLYACqHKgBkY5) | [Robotaki](https://open.spotify.com/artist/5ar4zFgUQG1RsH8nhmjOeM) | [Anachronism](https://open.spotify.com/album/2v02y2pzpKkc6Y00LfjJ6W) | 3:48 | 2020-03-17 | 2022-04-20 |

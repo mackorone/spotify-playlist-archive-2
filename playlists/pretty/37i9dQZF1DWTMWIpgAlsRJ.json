@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC Germany Playlist: bringing together the sounds of Germany in celebration of The World's Game. Curated specially for you.",
-  "num_followers": 394702,
+  "num_followers": 394661,
   "original_name": "EA SPORTS FC Ultimate Mix: Germany",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-06-26 11:00:09",
       "album": {
+        "name": "Music Monks (Limited Edition)",
+        "url": "https://open.spotify.com/album/2RXNaqJGqHUntHve09bKZ9"
+      },
+      "artists": [
+        {
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1ONYfnVyrmuf4D29hTbKTk"
+    },
+    {
+      "added_at": "2026-06-26 11:00:09",
+      "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 168000,
       "name": "Killa",
       "url": "https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN"
-    },
-    {
-      "added_at": "2026-06-26 11:00:09",
-      "album": {
-        "name": "Music Monks (Limited Edition)",
-        "url": "https://open.spotify.com/album/2RXNaqJGqHUntHve09bKZ9"
-      },
-      "artists": [
-        {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1ONYfnVyrmuf4D29hTbKTk"
     },
     {
       "added_at": "2026-06-26 11:00:09",

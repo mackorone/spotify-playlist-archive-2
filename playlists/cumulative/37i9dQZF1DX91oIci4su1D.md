@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Armin van Buuren & Hannah Laing
 
-1,316 songs - 3 day 6 hr 33 min
+1,317 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Breath of Life](https://open.spotify.com/track/7pkVmfzwkugvPTNVQLQU1i) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Breath of Life](https://open.spotify.com/album/4CVY7Jj9BQDoStDHY1if64) | 3:09 | 2023-08-04 | 2024-10-26 |
 | [Breath Of The Wild](https://open.spotify.com/track/08ikdgOu28YP4bFKAq44wL) | [Alex Sonata & TheRio](https://open.spotify.com/artist/0R3Imkf3vLjMsdx46OC2Ej) | [Breath Of The Wild](https://open.spotify.com/album/5KPwjMCZyCXLWltnBnewor) | 3:30 | 2022-10-07 | 2023-12-09 |
 | [Breathe](https://open.spotify.com/track/3k5OdriAcdZklJxzpx8EGM) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Breathe](https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH) | 2:48 | 2026-06-11 |  |
-| [Breathe](https://open.spotify.com/track/1dws9VNYuR8s2bdPIft626) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic), [Midnite Amity](https://open.spotify.com/artist/3pXdaLTNU9FMCIVDr7Cz64) | [Breathe](https://open.spotify.com/album/391dou0sf3aAeqXzfSrMHW) | 3:11 | 2025-03-07 |  |
+| [Breathe](https://open.spotify.com/track/1dws9VNYuR8s2bdPIft626) | [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic), [Midnite Amity](https://open.spotify.com/artist/3pXdaLTNU9FMCIVDr7Cz64) | [Breathe](https://open.spotify.com/album/391dou0sf3aAeqXzfSrMHW) | 3:11 | 2025-03-07 | 2026-06-28 |
 | [Breathe](https://open.spotify.com/track/3W6kvOOFOe2Br9X1TCfR7G) | [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Breathe](https://open.spotify.com/album/3mhjrFINMjUNpVcNOBMFRf) | 3:43 | 2023-02-24 | 2023-06-10 |
 | [Breathing](https://open.spotify.com/track/37bZneyU8dqpl2TAiSe0pw) | [Boom Jinx](https://open.spotify.com/artist/6Qt0hC59vdinaimdZkin1Y), [Nitrous Oxide](https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR), [Einar K](https://open.spotify.com/artist/3bupuvTQ70NllkKaZtwC1c), [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [Breathing](https://open.spotify.com/album/2iriCUVPYMoO4w0fYz5CPH) | 3:12 | 2023-05-26 | 2024-05-18 |
 | [Breathing](https://open.spotify.com/track/5DctWqRCrlKMEJIGf9qyPI) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW), [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Breathing](https://open.spotify.com/album/79u2PGSaf5daLBomIJsAYI) | 2:55 | 2025-08-29 | 2025-11-16 |
@@ -889,6 +889,7 @@
 | [Protect Your Mind \(braveheart\)](https://open.spotify.com/track/4c6E9EwMfjwkO0s6c8WCFt) | [DJ Sakin](https://open.spotify.com/artist/65uIFYle2lbINwH5llwFM4), [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/2rBqSVxocN92JcOvmdxxdq) | 3:21 | 2022-12-02 | 2023-07-08 |
 | [Pulse](https://open.spotify.com/track/7ueZoo33QOSi6sZwa1YeEZ) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Pulse](https://open.spotify.com/album/3ml9r73gbPyYY4P9n0BVnz) | 3:04 | 2023-10-27 | 2024-08-31 |
 | [Pulstar](https://open.spotify.com/track/6XMiI90qhXlBXsupK4xIx1) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Pulstar](https://open.spotify.com/album/1x27Yb4yP62zbSWALlp443) | 3:18 | 2024-09-27 | 2025-02-01 |
+| [Pumpin](https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pumpin](https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM) | 3:31 | 2026-06-25 |  |
 | [Punk](https://open.spotify.com/track/6BHmPhVY82P4KWzJ8ILSgK) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Punk](https://open.spotify.com/album/55hG4P4koARi43ElNKq0TP) | 3:59 | 2025-03-14 | 2025-08-02 |
 | [Purity](https://open.spotify.com/track/2LTBpFEkzqscPglQdy9zhk) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE) | [Purity](https://open.spotify.com/album/5S1Qx1iDLUZhw1A1IYgZRo) | 2:57 | 2025-09-05 | 2025-09-27 |
 | [Purity \- Ferry Tayle & Tonks present Mirage Remix](https://open.spotify.com/track/2JKNSdKvtN4eCCFSBhp8bi) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7), [Mirage](https://open.spotify.com/artist/3BDRFQafIEwLD8CLBo8mv9), [Ferry Tayle](https://open.spotify.com/artist/6duWCqMhaEvKA0P0MVs0zQ), [Tonks](https://open.spotify.com/artist/29uLSGwUNqBFGS02mLVDJL) | [Purity \(Ferry Tayle & Tonks present Mirage Remix\)](https://open.spotify.com/album/4wkN2hlAEr6JlJJ5iCi81u) | 3:05 | 2023-04-07 | 2023-06-10 |

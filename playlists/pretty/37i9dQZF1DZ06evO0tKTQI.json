@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13992,
+  "num_followers": 13994,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAAA8O9VTCmXi3kOnkwEBC1I7",
+  "snapshot_id": "aj3BAAAAAADjaYkeN3gs8K9Tlesc3I6W",
   "tracks": [
     {
       "added_at": null,
@@ -230,15 +230,11 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 227738,
-      "name": "no queda nada ft. Julieta Venegas",
-      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
+      "duration_ms": 211819,
+      "name": "tu nombre",
+      "url": "https://open.spotify.com/track/1VKlScFeMN3j1PGjvq3ZDN"
     },
     {
       "added_at": null,
@@ -279,42 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "el silencio",
-        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 218217,
-      "name": "el silencio",
-      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "tu nombre",
-      "url": "https://open.spotify.com/track/1VKlScFeMN3j1PGjvq3ZDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soft Error",
         "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
       },
@@ -331,6 +291,26 @@
       "duration_ms": 141000,
       "name": "Aibo (feat. Bratty)",
       "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 227738,
+      "name": "no queda nada ft. Julieta Venegas",
+      "url": "https://open.spotify.com/track/0A6PRSdC2aCbjSClWyp88x"
     },
     {
       "added_at": null,
@@ -367,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 146176,
-      "name": "otro d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/7f5SAz6gixQq0ULfJamBg6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aroma A Nostalgia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
@@ -403,6 +363,26 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 146176,
+      "name": "otro d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/7f5SAz6gixQq0ULfJamBg6"
     },
     {
       "added_at": null,
@@ -439,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 204762,
-      "name": "m\u00eda",
-      "url": "https://open.spotify.com/track/3fKqUZ7vrRDCckDrFRvfcL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u307e\u305f\u540c\u3058\u65e5",
         "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
       },
@@ -471,6 +435,26 @@
       "duration_ms": 145705,
       "name": "\u307e\u305f\u540c\u3058\u65e5",
       "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/3GYzURynXdhJjIU0JknWxy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-563 songs - 1 day 5 hr 36 min
+564 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [Open Up The Door](https://open.spotify.com/track/3ar20lJHzjL873uKthoQc6) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/1NJxF1Nz8KJerri0pJJI9b) | 2:14 | 2024-05-24 | 2024-06-17 |
 | [Open Up The Door](https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n) | 2:14 | 2024-06-14 | 2025-03-24 |
 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 | 2022-05-10 | 2024-06-14 |
-| [Over You](https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Over You](https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe) | 2:42 | 2025-05-29 |  |
+| [Over You](https://open.spotify.com/track/0GWpFejiwi53OSfiyXyIDJ) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Over You](https://open.spotify.com/album/5HajT51f4NCbAIANcVrlIe) | 2:42 | 2025-05-29 | 2026-06-28 |
 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 | 2022-05-10 | 2023-09-12 |
 | [Packs and Potions \(feat\. M1llionz, Digga D & Unknown T\) \- Remix](https://open.spotify.com/track/09nPy5k6stAMSmnYqrTaqv) | [HAZEY](https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Packs and Potions \(feat\. M1llionz, Digga D & Unknown T\) \[Remix\]](https://open.spotify.com/album/6KMYCz8o1hv068w8Fyb7mt) | 2:53 | 2022-05-10 | 2023-09-12 |
 | [Paradise](https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Paradise](https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl) | 2:37 | 2024-06-14 | 2025-05-09 |
@@ -513,6 +513,7 @@
 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 | 2024-08-02 | 2025-05-09 |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-05-10 | 2024-06-14 |
 | [The Nighttrain](https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Maitland](https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL) | [The Nighttrain](https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v) | 3:06 | 2024-05-24 | 2024-09-01 |
+| [The One](https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [The One](https://open.spotify.com/album/3FgU348qPgRlGCAWKvAyZI) | 2:42 | 2026-06-25 |  |
 | [The Parade](https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW) | [The Parade](https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa) | 2:38 | 2022-05-10 | 2023-09-12 |
 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 | 2021-07-09 | 2023-09-12 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-06-14 | 2026-04-15 |

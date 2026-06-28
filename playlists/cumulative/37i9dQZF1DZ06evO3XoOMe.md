@@ -4,7 +4,7 @@
 
 > This is Chxrry\. The essential tracks, all in one playlist.
 
-24 songs - 1 hr 6 min
+25 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [Around](https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 1:02 | 2026-06-16 |  |
 | [Badness](https://open.spotify.com/track/3TxgHlJngpKLYAQUq2IQ5W) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:49 | 2026-06-16 |  |
 | [Bible](https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:53 | 2026-06-16 |  |
-| [Blockstar](https://open.spotify.com/track/21kF1UzbKfKTNIiRjTgTCT) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:23 | 2026-06-16 |  |
+| [Blockstar](https://open.spotify.com/track/21kF1UzbKfKTNIiRjTgTCT) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:23 | 2026-06-16 | 2026-06-28 |
 | [Boring](https://open.spotify.com/track/0inNzeehKp63mKOqEMSHL3) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:17 | 2026-06-16 |  |
 | [Bottles & Lights](https://open.spotify.com/track/1it6w7qVrXo10od5OMjn7H) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Bottles & Lights](https://open.spotify.com/album/5Wvm7Co0vhdyPk5Ac0uZk6) | 3:25 | 2026-06-16 |  |
 | [Call Me](https://open.spotify.com/track/2wErarH3yGvuJtbBRc1858) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 3:06 | 2026-06-16 |  |
-| [Call Security](https://open.spotify.com/track/5lROXxAziyXVaTJRd1Qb7s) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/2Wbpa6QVRhorVM4AzUCJSa) | 3:22 | 2026-06-16 |  |
+| [Call Security](https://open.spotify.com/track/4guaicBZF35p1P5IQHheAV) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:22 | 2026-06-28 |  |
+| [Call Security](https://open.spotify.com/track/5lROXxAziyXVaTJRd1Qb7s) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/2Wbpa6QVRhorVM4AzUCJSa) | 3:22 | 2026-06-16 | 2026-06-28 |
 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 | 2026-06-16 |  |
 | [Do it Again](https://open.spotify.com/track/5xRbBn3nl20OjhZK7IQYky) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 1:49 | 2026-06-16 |  |
 | [Favorite Girl \(feat\. Offset\)](https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:03 | 2026-06-16 |  |

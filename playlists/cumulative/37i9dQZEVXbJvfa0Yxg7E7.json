@@ -2322,6 +2322,24 @@
     {
       "album": {
         "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151352,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW"
+    },
+    {
+      "album": {
+        "name": "Alt For Norge",
         "url": "https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ"
       },
       "artists": [
@@ -7324,6 +7342,24 @@
       "duration_ms": 164127,
       "name": "B\u00f8gda",
       "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+    },
+    {
+      "album": {
+        "name": "B\u00f8nda 2026",
+        "url": "https://open.spotify.com/album/2vUIjtcElQzpfsY0WZK8BL"
+      },
+      "artists": [
+        {
+          "name": "Racer",
+          "url": "https://open.spotify.com/artist/5mGxur8Tn9si7x9p58aaeF"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "B\u00f8nda 2026",
+      "url": "https://open.spotify.com/track/25mKSMVAh49s4xmrK1mBcQ"
     },
     {
       "album": {
@@ -14119,6 +14155,28 @@
     },
     {
       "album": {
+        "name": "FRI II",
+        "url": "https://open.spotify.com/album/173idF7MhMEJSD3oixjCj0"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204065,
+      "name": "Evig sommer",
+      "url": "https://open.spotify.com/track/6c3ql70d6n0uuwdQepDgNI"
+    },
+    {
+      "album": {
         "name": "Evighet (feat. Molly Hammar)",
         "url": "https://open.spotify.com/album/4kpBAjYFH85VWZHJ3jMxk0"
       },
@@ -20604,7 +20662,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 162346,
       "name": "Himmelen brenner",
       "url": "https://open.spotify.com/track/4Qum8f3WWh9iNCbKzXLsAK"
@@ -21588,6 +21646,28 @@
       "duration_ms": 143573,
       "name": "Hot Boy Summer (Daydream 2022)",
       "url": "https://open.spotify.com/track/4rU71m6Drus4eG3S4AQu3e"
+    },
+    {
+      "album": {
+        "name": "HOT GUYS CLUB",
+        "url": "https://open.spotify.com/album/5x3SlwkpARzdDLE0T9AVF5"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "HOT GUYS REMIX",
+      "url": "https://open.spotify.com/track/0IXyxOOKBffunTOpgpkenA"
     },
     {
       "album": {
@@ -26408,7 +26488,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 174857,
       "name": "Juniregnet",
       "url": "https://open.spotify.com/track/7iZHA1WIBbDER2YvheX0kP"
@@ -34797,6 +34877,32 @@
     },
     {
       "album": {
+        "name": "Norge sk\u00e5rte m\u00e5l",
+        "url": "https://open.spotify.com/album/41JyMkkffGt09pkVnmI19w"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+        },
+        {
+          "name": "Andr\u00e9 Jensen",
+          "url": "https://open.spotify.com/artist/23FJYGygLXgiEHgVhzye71"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113606,
+      "name": "Norge sk\u00e5rte m\u00e5l",
+      "url": "https://open.spotify.com/track/57A2AQ1FjfAItYUIzhs4E6"
+    },
+    {
+      "album": {
         "name": "Northern Lights",
         "url": "https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU"
       },
@@ -35630,6 +35736,24 @@
       "duration_ms": 174857,
       "name": "Oliver Twist",
       "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
+    },
+    {
+      "album": {
+        "name": "Ol\u00e9, Ol\u00e9, Ol\u00e9 (Det G\u00e5r Ned)",
+        "url": "https://open.spotify.com/album/2LMh7xESdJd4kzcxaoc0SS"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174134,
+      "name": "Ol\u00e9, Ol\u00e9, Ol\u00e9 (Det G\u00e5r Ned)",
+      "url": "https://open.spotify.com/track/4VY17vIWTYqCGxRqGSUW99"
     },
     {
       "album": {
@@ -36834,6 +36958,24 @@
       "duration_ms": 178623,
       "name": "Papi\u2019s Home",
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "Pappa",
+        "url": "https://open.spotify.com/album/6jNuuA7jYxbOCmOuAmmZvu"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291769,
+      "name": "Pappa",
+      "url": "https://open.spotify.com/track/5l6motPyFOsw6O0bw4Bvpk"
     },
     {
       "album": {
@@ -39424,7 +39566,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -42374,7 +42516,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 175632,
       "name": "Sista ordet",
       "url": "https://open.spotify.com/track/0mgPv3ztwniPW0Nw3pom60"
@@ -45490,7 +45632,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -51212,7 +51354,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 181945,
       "name": "VARM",
       "url": "https://open.spotify.com/track/5gZXbsB11UHQI75UqABgzq"
@@ -51420,7 +51562,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 139875,
       "name": "VI SKAL ALDRI G\u00c5 HJEM F\u00d8R SOLOPPGANG",
       "url": "https://open.spotify.com/track/24lr0kqxMnxNf4CZMC2Mf2"

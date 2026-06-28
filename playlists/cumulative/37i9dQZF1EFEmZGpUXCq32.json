@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192582,
+      "name": "Living Alone",
+      "url": "https://open.spotify.com/track/6f4umZL8qLZeY2p9Qc3iGy"
+    },
+    {
+      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8"
       },
@@ -1407,6 +1425,28 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54671,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a"
+    },
+    {
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
       },
@@ -1426,6 +1466,24 @@
       "duration_ms": 188296,
       "name": "Musicians Praise",
       "url": "https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195588,
+      "name": "My Winter",
+      "url": "https://open.spotify.com/track/0IxV9BTN4mFo7LBO4hP5se"
     },
     {
       "album": {
@@ -2170,6 +2228,24 @@
       "duration_ms": 410333,
       "name": "Trade It All",
       "url": "https://open.spotify.com/track/3OZqqgl3jpCodZrMCJuZBK"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638687,
+  "num_followers": 1638689,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ajxvgAAAAABfbSlrLQLuWTZX+GTLrJaw",
+  "snapshot_id": "aj3BAAAAAAAnFxtUSut0eD04/UN4hShZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 152328,
       "name": "The Sting Within Me",
       "url": "https://open.spotify.com/track/1ORAf04NWqfo4yZv07yJLg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATE",
+        "url": "https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "FATE",
+      "url": "https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE"
     },
     {
       "added_at": null,
@@ -267,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
       },
       "artists": [
         {
@@ -276,13 +296,21 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "SEUNGRI",
+          "url": "https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/7rFuXulG4qi129VYAREBf2"
+      "duration_ms": 210288,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
     },
     {
       "added_at": null,
@@ -311,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1"
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
       "artists": [
         {
@@ -320,21 +348,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "SEUNGRI",
-          "url": "https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 210288,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58"
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/7rFuXulG4qi129VYAREBf2"
     },
     {
       "added_at": null,
@@ -443,22 +463,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
       },
       "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+          "name": "Ahrix",
+          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
         }
       ],
-      "duration_ms": 158798,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX"
+      "duration_ms": 187560,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
     },
     {
       "added_at": null,
@@ -491,26 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy"
       },
       "artists": [
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Ahrix",
-          "url": "https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa"
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
         }
       ],
-      "duration_ms": 187560,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
+      "duration_ms": 158798,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX"
     },
     {
       "added_at": null,
@@ -683,34 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Habits (From Delta Force Game)",
-        "url": "https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Delta Force",
-          "url": "https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 190926,
-      "name": "Old Habits (From Delta Force Game)",
-      "url": "https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
@@ -747,6 +739,34 @@
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Habits (From Delta Force Game)",
+        "url": "https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Delta Force",
+          "url": "https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 190926,
+      "name": "Old Habits (From Delta Force Game)",
+      "url": "https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3"
     },
     {
       "added_at": null,
@@ -799,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/04uFoSw7ap9Jv8P9PoZls4"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/1ANHFjW6Z4akC9aDlBC4zY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -819,22 +855,6 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/04uFoSw7ap9Jv8P9PoZls4"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/1ANHFjW6Z4akC9aDlBC4zY"
     },
     {
       "added_at": null,
@@ -995,6 +1015,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 240005,
+      "name": "Force",
+      "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A World I Don't Know",
         "url": "https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE"
       },
@@ -1019,22 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/42Ea8EqPulXUcaO9tFPyyT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 240005,
-      "name": "Force",
-      "url": "https://open.spotify.com/track/0s39RvP5001kPC7L0SM0gg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World of Walker, Season One: Rise of the Drones",
         "url": "https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd"
       },
@@ -1051,34 +1071,6 @@
       "duration_ms": 173000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space Melody (Edward Artemyev) (feat. Leony)",
-        "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Edward Artemyev",
-          "url": "https://open.spotify.com/artist/097u8n1F4JjTzmOR9VUVEK"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Space Melody (Edward Artemyev) (feat. Leony)",
-      "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
     }
   ],
   "unique_name": "This Is Alan Walker",

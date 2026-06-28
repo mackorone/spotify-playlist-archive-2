@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: BROCKHOFF",
-  "num_followers": 49870,
+  "num_followers": 49876,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-06-02 22:00:33",
       "album": {
-        "name": "2015",
-        "url": "https://open.spotify.com/album/77CV9vMRQjWMLc7yTB3Rlr"
-      },
-      "artists": [
-        {
-          "name": "Mieze",
-          "url": "https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU"
-        }
-      ],
-      "duration_ms": 168030,
-      "name": "2015",
-      "url": "https://open.spotify.com/track/7zC8YOfVCC2e7kmlfB9zOI"
-    },
-    {
-      "added_at": "2026-06-02 22:00:33",
-      "album": {
         "name": "m\u00fcde tr\u00e4ume",
         "url": "https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 152209,
       "name": "m\u00fcde tr\u00e4ume",
       "url": "https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI"
+    },
+    {
+      "added_at": "2026-06-02 22:00:33",
+      "album": {
+        "name": "2015",
+        "url": "https://open.spotify.com/album/77CV9vMRQjWMLc7yTB3Rlr"
+      },
+      "artists": [
+        {
+          "name": "Mieze",
+          "url": "https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU"
+        }
+      ],
+      "duration_ms": 168030,
+      "name": "2015",
+      "url": "https://open.spotify.com/track/7zC8YOfVCC2e7kmlfB9zOI"
     },
     {
       "added_at": "2026-06-02 22:00:33",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-06-02 22:00:33",
       "album": {
+        "name": "Ring am Finger",
+        "url": "https://open.spotify.com/album/1K6Eo6d8XJJx7sK87c4OyA"
+      },
+      "artists": [
+        {
+          "name": "DEVADO",
+          "url": "https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL"
+        }
+      ],
+      "duration_ms": 150109,
+      "name": "Ring am Finger",
+      "url": "https://open.spotify.com/track/6TaFKeYCCcsIHO4I71kJjW"
+    },
+    {
+      "added_at": "2026-06-02 22:00:33",
+      "album": {
         "name": "Sin miedo",
         "url": "https://open.spotify.com/album/6lckoOEGdRo7qirCBzgdaQ"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 128120,
       "name": "HDF",
       "url": "https://open.spotify.com/track/2CF2N0jsterp8EL3pt8Xz7"
-    },
-    {
-      "added_at": "2026-06-02 22:00:33",
-      "album": {
-        "name": "Ring am Finger",
-        "url": "https://open.spotify.com/album/1K6Eo6d8XJJx7sK87c4OyA"
-      },
-      "artists": [
-        {
-          "name": "DEVADO",
-          "url": "https://open.spotify.com/artist/6PKF4fIUipCe45VN6iVbsL"
-        }
-      ],
-      "duration_ms": 150109,
-      "name": "Ring am Finger",
-      "url": "https://open.spotify.com/track/6TaFKeYCCcsIHO4I71kJjW"
     },
     {
       "added_at": "2026-06-02 22:00:33",

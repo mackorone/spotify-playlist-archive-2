@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,666 likes - 100 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,685 likes - 100 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 36 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 |
 | 37 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
 | 38 | [Montego Bay](https://open.spotify.com/track/5eQV0AvbqNHJnpcjCwMRfx) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:12 |
-| 39 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
-| 40 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 |
+| 39 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 |
+| 40 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
 | 41 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
 | 42 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 |
 | 43 | [Aether](https://open.spotify.com/track/24wWZAHUvMPIG9h7zjq0yQ) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 6:13 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 46 | [Lucrezia](https://open.spotify.com/track/5fQrCXdKizySUZDgd0htNB) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 9:45 |
 | 47 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
 | 48 | [Reverberation](https://open.spotify.com/track/5xHKk5E3IV8QR9pTfaIhFm) | [Substance](https://open.spotify.com/artist/2OhRlg8iJc0v8XeRiXRr4H), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reverberation](https://open.spotify.com/album/1LuJs9bcsMfRsgOBiHoZ7l) | 9:46 |
-| 49 | [quiet street](https://open.spotify.com/track/5Lk5PhQ1WH9anaaFygScEh) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Treasure](https://open.spotify.com/album/6LPOlnyIQhAsJsfoCwCGlm) | 6:18 |
-| 50 | [Quadrant Dub I \- Edit](https://open.spotify.com/track/66I6gDEjkZZyVFfyRTtKPx) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:56 |
+| 49 | [Quadrant Dub I \- Edit](https://open.spotify.com/track/66I6gDEjkZZyVFfyRTtKPx) | [Basic Channel](https://open.spotify.com/artist/37um1uxI92g4ll61LzrtB5) | [Bcd](https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d) | 6:56 |
+| 50 | [quiet street](https://open.spotify.com/track/5Lk5PhQ1WH9anaaFygScEh) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Treasure](https://open.spotify.com/album/6LPOlnyIQhAsJsfoCwCGlm) | 6:18 |
 | 51 | [Nospheratu \- Echospace Reduction](https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv) | [Pulshar](https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA) | [Nospheratu](https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS) | 11:17 |
 | 52 | [Rigning Tvö](https://open.spotify.com/track/2F5teMdMoSdbij9pOlnIuv) | [Yagya](https://open.spotify.com/artist/2r01Y1iNjVr8W88RuseQLf) | [Rigning \(2018\)](https://open.spotify.com/album/50u0AJ0W0NAZpPF0Waikl3) | 6:35 |
 | 53 | [T'Raenon \- Version](https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [T'Raenon \(Remastered Edition\)](https://open.spotify.com/album/68H34x36go49MEHBTbpeyi) | 8:57 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 67 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
 | 68 | [Never Tell You \- 1](https://open.spotify.com/track/7iScEp6dZvGy8ZwJjb7xxh) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM) | [Showcase](https://open.spotify.com/album/4G11Lr35wOYhRwV0j5h3UM) | 6:20 |
 | 69 | [Machine Food](https://open.spotify.com/track/2pwd3D0xp09vaQLLerDMfW) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Machine Food](https://open.spotify.com/album/2RPmQRsg1A9vMhnpwdiV08) | 4:26 |
-| 70 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
-| 71 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
+| 70 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
+| 71 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
 | 72 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 |
 | 73 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
 | 74 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |

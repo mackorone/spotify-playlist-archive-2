@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > vuelve quiero estar contigo, ven y calma está ansiedad 🥺🇲🇽💔 X100PRE Francisco Guillermo Ochoa Magaña 🫡
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,805 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,986 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

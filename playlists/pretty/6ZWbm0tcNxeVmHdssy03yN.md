@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,455 likes - 97 songs - 4 hr 51 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,453 likes - 97 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 26 | [Don't Miss](https://open.spotify.com/track/79CQVkmqdlF2uaq65WBdhr) | [Izzar](https://open.spotify.com/artist/0vKgFYlm0P3REMbXf57Zqq), [Smithy](https://open.spotify.com/artist/2aEPsNACE72sP3abkMx9g1) | [Don't Miss](https://open.spotify.com/album/6ZuoXCGcnpZBulPFecm5il) | 3:05 |
 | 27 | [CHANEL](https://open.spotify.com/track/3wekPxMjifdAkidkajJ9BN) | [kayeonwun](https://open.spotify.com/artist/2LWuiriYyZn5yvg4ejXEBc) | [CHANEL](https://open.spotify.com/album/6xjsOYbfwBCrvtjFtribjY) | 1:20 |
 | 28 | [Mapula](https://open.spotify.com/track/43oOzlw1bWcNvT9lOE1nN6) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Mapula](https://open.spotify.com/album/27ParTPlMyDMJaKIzIrYDd) | 2:33 |
-| 29 | [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp), [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 |
+| 29 | [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 |
 | 30 | [One Step Greater](https://open.spotify.com/track/1P2ILmVL9eMmJ3ds0NifWr) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [One Step Greater](https://open.spotify.com/album/7DR8PvvUAUQG7474olAaGU) | 2:17 |
 | 31 | [Need My Children](https://open.spotify.com/track/0u4xG8ztFdJOJuHHIgD7aP) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [Need My Children](https://open.spotify.com/album/7zhxNH4ct8OGxg1z7zZAE6) | 2:51 |
 | 32 | [Green Light \(feat\. Brazy & Maleigh Zan\)](https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G), [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Green Light \(feat\. Brazy & Maleigh Zan\)](https://open.spotify.com/album/4K5dyyoPwTGgeMiTDIj3lO) | 2:34 |

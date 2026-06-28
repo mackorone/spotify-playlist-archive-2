@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Eat 'Em Up",
+        "url": "https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF"
+      },
+      "artists": [
+        {
+          "name": "Reese's Puffs",
+          "url": "https://open.spotify.com/artist/2QFZNaEkhZ7tXUU2W3QSQl"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79223,
+      "name": "Eat 'Em Up",
+      "url": "https://open.spotify.com/track/77vHCGBBmOiu8gQFsHBXdc"
+    },
+    {
+      "album": {
         "name": "Foxes Only",
         "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
       },
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 196040,
       "name": "Leave My Baby Tonight (feat. GloRilla)",
       "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
@@ -1416,6 +1438,28 @@
       "duration_ms": 179666,
       "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
       "url": "https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG"
+    },
+    {
+      "album": {
+        "name": "MANE",
+        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "MANE",
+      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
     },
     {
       "album": {
@@ -2354,7 +2398,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 151048,
       "name": "Special",
       "url": "https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL"

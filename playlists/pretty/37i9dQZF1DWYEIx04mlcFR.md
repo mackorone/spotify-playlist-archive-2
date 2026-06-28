@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Gonzalo Genek en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,848 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,852 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 14 | [1besito](https://open.spotify.com/track/72lBhSO5SN6GqtTsmUXok5) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [1besito](https://open.spotify.com/album/2MAE8PDl00gJyO1AlCRW9b) | 3:25 |
 | 15 | [CUANTAS VECES](https://open.spotify.com/track/4riLOnDVSgH1Dy4LqqVKxQ) | [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi) | [EP\_1](https://open.spotify.com/album/0gwHh6zlMBeWNINANcz6bQ) | 2:18 |
 | 16 | [Noche](https://open.spotify.com/track/42AStJYmglTAHAgER92gxv) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Noche](https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l) | 2:35 |
-| 17 | [Mía](https://open.spotify.com/track/2K6ImJaiJdi74PIepR1ZTD) | [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE), [Zac Brugan](https://open.spotify.com/artist/7j2igMc6hBqjLkordKoBzo) | [Mía](https://open.spotify.com/album/5qax6lkHYCH8v6I7EanAG0) | 3:32 |
+| 17 | [Mía](https://open.spotify.com/track/2K6ImJaiJdi74PIepR1ZTD) | [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE), [Zach Sorgen](https://open.spotify.com/artist/2YNsq8GNCQdXpFmoMbVEat) | [Mía](https://open.spotify.com/album/5qax6lkHYCH8v6I7EanAG0) | 3:32 |
 | 18 | [ENCONTREMOS UNA MANERA](https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [ENCONTREMOS UNA MANERA](https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC) | 2:14 |
 | 19 | [2AM](https://open.spotify.com/track/4gwq02otWY8yTP0dLGT7yz) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Imperfecta](https://open.spotify.com/album/0yIg9tDCNzGC4CKHK8WMM7) | 2:41 |
 | 20 | [raxets](https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [raxets](https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z) | 1:54 |

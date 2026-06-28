@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 186181,
       "name": "A Lo Pelotero",
       "url": "https://open.spotify.com/track/4jlqh6oibHdBwBlCVKCB0q"
@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 220346,
       "name": "Cucha Cucha",
       "url": "https://open.spotify.com/track/0tfnr6uxQYwenPZE4vyfbC"
@@ -6960,7 +6960,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7152,7 +7152,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 209529,
       "name": "Ecuador, Si Se Puede",
       "url": "https://open.spotify.com/track/7c0tCFpbpD3QLs1Gr9mabP"
@@ -11092,7 +11092,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -13736,7 +13736,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 163636,
       "name": "Llamemos Las Pre",
       "url": "https://open.spotify.com/track/316SwvGLXugBuebPkwE2Kq"
@@ -15512,7 +15512,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-05",
+      "date_removed": null,
       "duration_ms": 256640,
       "name": "Melissa & Julissa",
       "url": "https://open.spotify.com/track/0QMnlDSfdLaSaEVdgAtthL"
@@ -17460,6 +17460,24 @@
       "duration_ms": 265386,
       "name": "Nuestra Canci\u00f3n (feat. Vicente Garc\u00eda)",
       "url": "https://open.spotify.com/track/0qP9Kt3gmpDFoDUzl3REGs"
+    },
+    {
+      "album": {
+        "name": "Idilio Ecuatoriano",
+        "url": "https://open.spotify.com/album/65BnMZ2MVnwwdn26h9q5Dx"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191726,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/2EyQocj24oihpKjgDj5cg9"
     },
     {
       "album": {
@@ -21040,7 +21058,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 259265,
       "name": "Ras Tas Tas Full Hd",
       "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
@@ -22616,7 +22634,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -25654,7 +25672,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 302253,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/7DcJXd2xxVcohwehWahFJJ"
@@ -28162,7 +28180,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Wande Coal",
-  "num_followers": 92865,
+  "num_followers": 92916,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
+        "name": "I Can't Look Away",
+        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
+      },
+      "artists": [
+        {
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "I Can't Look Away",
+      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 215384,
       "name": "Fire in your Eyes",
       "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
-        "name": "I Can't Look Away",
-        "url": "https://open.spotify.com/album/2HEGk0UAA3nUK0SEOoj53T"
-      },
-      "artists": [
-        {
-          "name": "Mr. P",
-          "url": "https://open.spotify.com/artist/4JiEictrOAo2rWNEiPwruJ"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "I Can't Look Away",
-      "url": "https://open.spotify.com/track/3MOyzHlWaBeOj1PmA2mI9k"
     },
     {
       "added_at": "2026-06-26 00:01:55",
@@ -943,30 +943,6 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
-        "name": "Pepper Me",
-        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
-      },
-      "artists": [
-        {
-          "name": "KFMD",
-          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 155309,
-      "name": "Pepper Me",
-      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
         "name": "Na So",
         "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 175714,
       "name": "ENJOYMENT",
       "url": "https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
+        "name": "Pepper Me",
+        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "Pepper Me",
+      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
     },
     {
       "added_at": "2026-06-26 00:01:55",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
-        "name": "BOBO",
-        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
-      },
-      "artists": [
-        {
-          "name": "Zarion Uti",
-          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
-        },
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "BOBO",
-      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
         "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
         "url": "https://open.spotify.com/album/6KH9tRewOOHORoyJanRN0e"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 129231,
       "name": "Jujupiano",
       "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/66gCIlSy7wrGshPZAp0dLK"
+      },
+      "artists": [
+        {
+          "name": "Zarion Uti",
+          "url": "https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg"
+        },
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
     },
     {
       "added_at": "2026-06-26 00:01:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-06-26 00:01:55",
       "album": {
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
+    },
+    {
+      "added_at": "2026-06-26 00:01:55",
+      "album": {
         "name": "Color / Wulo",
         "url": "https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56"
       },
@@ -1619,30 +1635,6 @@
       "duration_ms": 122142,
       "name": "Color",
       "url": "https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b"
-    },
-    {
-      "added_at": "2026-06-26 00:01:55",
-      "album": {
-        "name": "Backa",
-        "url": "https://open.spotify.com/album/7oBL7XYcmrLCZJpC7YEL9B"
-      },
-      "artists": [
-        {
-          "name": "Offei",
-          "url": "https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr"
-        },
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        },
-        {
-          "name": "Afrolektra",
-          "url": "https://open.spotify.com/artist/0qy73oup9yKKAO8TsRoS1g"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Backa",
-      "url": "https://open.spotify.com/track/2IA463EQ4O1pHAGQx1d1U2"
     }
   ],
   "unique_name": "afro-piano",

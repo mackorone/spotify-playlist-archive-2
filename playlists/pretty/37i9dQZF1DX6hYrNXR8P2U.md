@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Trashu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,771 likes - 105 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,763 likes - 105 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Max Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,378 likes - 215 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,444 likes - 215 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

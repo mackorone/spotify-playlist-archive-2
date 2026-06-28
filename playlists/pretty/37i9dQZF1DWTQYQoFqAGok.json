@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65537,
+  "num_followers": 65536,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Groove Zone",
         "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
       },
@@ -651,18 +635,46 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Orquesta Moderna",
+        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
+      },
+      "artists": [
+        {
+          "name": "Rosino Serrano",
+          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
+        },
+        {
+          "name": "Orquesta Moderna",
+          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
+        },
+        {
+          "name": "Gianluca Littera",
+          "url": "https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo"
+        },
+        {
+          "name": "Alex Mercado",
+          "url": "https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1"
+        }
+      ],
+      "duration_ms": 285508,
+      "name": "Guapanguito",
+      "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -699,30 +711,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Orquesta Moderna",
-        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
       "artists": [
         {
-          "name": "Rosino Serrano",
-          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
-        },
-        {
-          "name": "Orquesta Moderna",
-          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
-        },
-        {
-          "name": "Gianluca Littera",
-          "url": "https://open.spotify.com/artist/3FQJWyPvR00JAfEL8TAsFo"
-        },
-        {
-          "name": "Alex Mercado",
-          "url": "https://open.spotify.com/artist/7oVhQ1IHY6U2VfSqJl5cu1"
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
         }
       ],
-      "duration_ms": 285508,
-      "name": "Guapanguito",
-      "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2021-07-28 16:44:28",

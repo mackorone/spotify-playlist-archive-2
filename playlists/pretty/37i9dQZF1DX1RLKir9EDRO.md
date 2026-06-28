@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Flu Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,985 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,980 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 48 | [Durduramazlar Beni](https://open.spotify.com/track/2oYiPBraeMp804JzYkTjoG) | [Kafamda Kurduklarım](https://open.spotify.com/artist/7HQGBCT4R0yguqLR6IZvQj) | [Durduramazlar Beni](https://open.spotify.com/album/5MOwy3ehZmpdwSRIBsaL36) | 2:32 |
 | 49 | [Böcek](https://open.spotify.com/track/6Kkkx7L3uW0i9FqXrG9lVn) | [Efe Küçükçınar](https://open.spotify.com/artist/7tpkTXSLdIrAiLvLfqRsPS) | [Yarat Kendini](https://open.spotify.com/album/0puTkYacefYMF6xb17eKM2) | 2:50 |
 
-Snapshot ID: `AAAAAJ/VcxynJ43b4UZLfwU3eL5k19FW`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

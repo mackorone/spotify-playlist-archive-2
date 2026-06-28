@@ -1143,6 +1143,36 @@
     },
     {
       "album": {
+        "name": "There Will Never Be Another You (Remix)",
+        "url": "https://open.spotify.com/album/1d6m1lVZcYuHcdmjO4CNkJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Henry Wine",
+          "url": "https://open.spotify.com/artist/6gGsoX1w8DIPHyXb08YLeY"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "There Will Never Be Another You - Remix",
+      "url": "https://open.spotify.com/track/3t3shoqk3pJlAaRC37iZR7"
+    },
+    {
+      "album": {
         "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
         "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },

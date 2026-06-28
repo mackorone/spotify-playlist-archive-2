@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,290 likes - 1,400 songs - 3 day 5 hr 47 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,291 likes - 1,400 songs - 3 day 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 84 | [Breathe](https://open.spotify.com/track/2iJ36oE7tZqSL8A4Md0mWU) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Breathe](https://open.spotify.com/album/3pWZJXOudRfL2qtYKmUf8H) | 4:18 |
 | 85 | [Horizons](https://open.spotify.com/track/59XRz7aCtcDeiflLMmhK6r) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Horizons](https://open.spotify.com/album/0cAySOEIMyKfe6Sbt1DJy5) | 3:54 |
 | 86 | [bully](https://open.spotify.com/track/5niNO4UrNIxVciV65OK5oG) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [plum](https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG) | 5:23 |
-| 87 | [Go Have A Dream](https://open.spotify.com/track/3RX8Pk2vyYWfLiuYhlCRKX) | [Strange Lot](https://open.spotify.com/artist/3IqWV1jEfJHTg9WosOQOeg) | [Go Have A Dream](https://open.spotify.com/album/0ILIb13FPRKMYAHoFmyz91) | 3:08 |
-| 88 | [bike song](https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo) | [frank](https://open.spotify.com/artist/0pCAo4FBQbbOARjAspt9uQ) | [bike song](https://open.spotify.com/album/0fbu9vTPsH04jlqaOXmVVj) | 2:43 |
-| 89 | [baseball bat](https://open.spotify.com/track/0rrkD4WGzDMIb3YFSUVgQj) | [madamestarlet](https://open.spotify.com/artist/5gz0PsGyJT53vqv8TGjY7l) | [baseball bat](https://open.spotify.com/album/1FtB8GZCGyb2ssMCyjRLg9) | 2:47 |
-| 90 | [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 |
-| 91 | [Semiramis' Dream](https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [1010: Time Has Nothing To Do With What You Choose...](https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN) | 2:02 |
+| 87 | [Semiramis' Dream](https://open.spotify.com/track/1kNcSc6x2qyEI8B1cyFZ63) | [1010benja](https://open.spotify.com/artist/7xBrMNV9UKo2THKIk9xpBK) | [1010: Time Has Nothing To Do With What You Choose...](https://open.spotify.com/album/1b1IAEoRQ8jzj9QjJKBggN) | 2:02 |
+| 88 | [Go Have A Dream](https://open.spotify.com/track/3RX8Pk2vyYWfLiuYhlCRKX) | [Strange Lot](https://open.spotify.com/artist/3IqWV1jEfJHTg9WosOQOeg) | [Go Have A Dream](https://open.spotify.com/album/0ILIb13FPRKMYAHoFmyz91) | 3:08 |
+| 89 | [bike song](https://open.spotify.com/track/03uUSZQFMxWp1Q9lvSRTLo) | [frank](https://open.spotify.com/artist/0pCAo4FBQbbOARjAspt9uQ) | [bike song](https://open.spotify.com/album/0fbu9vTPsH04jlqaOXmVVj) | 2:43 |
+| 90 | [baseball bat](https://open.spotify.com/track/0rrkD4WGzDMIb3YFSUVgQj) | [madamestarlet](https://open.spotify.com/artist/5gz0PsGyJT53vqv8TGjY7l) | [baseball bat](https://open.spotify.com/album/1FtB8GZCGyb2ssMCyjRLg9) | 2:47 |
+| 91 | [Stars](https://open.spotify.com/track/4s42j4BhFmaeQtRrOSC6bP) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Stars](https://open.spotify.com/album/1olpLgv7x6PoATBnNmNxjQ) | 2:52 |
 | 92 | [Glimpse of You](https://open.spotify.com/track/5aG3m3zlmU91HoYJJU2IaA) | [16 Underground](https://open.spotify.com/artist/5Cs7NKdiqiINBKZnYWrBqS) | [Glimpse of You](https://open.spotify.com/album/16q3EQQeVBuU9atAZn0GyI) | 3:35 |
 | 93 | [HIT ME FEAT JENNA PASCALE](https://open.spotify.com/track/3l8tl8zICc9aPN7MoT6dYy) | [\_BY.ALEXANDER](https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw), [Jenna Pascale](https://open.spotify.com/artist/2dJ9kBaf6P5ZUTltKgevu6) | [HIT ME FEAT JENNA PASCALE / IF SHE LAUGHS](https://open.spotify.com/album/25FeGeybR03qRhmNjTGPpb) | 2:24 |
 | 94 | [home2hide](https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [home2hide](https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE) | 4:00 |
@@ -186,11 +186,11 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 176 | [Home](https://open.spotify.com/track/4f4CPphvi7sjYKdUD3rxbN) | [Piu](https://open.spotify.com/artist/4sQ9Aom1nsWfJHmdf6yWrY) | [Home](https://open.spotify.com/album/7kSloKKn8BkFF4ixNSNaDP) | 5:51 |
 | 177 | [Caretaker](https://open.spotify.com/track/3dxyObqUcYjk5gEuyjSHlp) | [Mallory Hawk](https://open.spotify.com/artist/54v01c74ZMDG5AsKmVQcvD) | [Caretaker](https://open.spotify.com/album/16Mgb30h4hRGmw5ZJ2qmkj) | 2:46 |
 | 178 | [Slowing to a Walk](https://open.spotify.com/track/4fI6j6mwerO1QKnnF6kTnr) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Prime Corner](https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn) | 3:27 |
-| 179 | [Hau](https://open.spotify.com/track/67NQmdOFSPcLcYrK0VvWcI) | [Eric Demuro](https://open.spotify.com/artist/7LyTuBEf2GcMkptZDzWlbj) | [Simulacra](https://open.spotify.com/album/5RdpwUfIvh0hrydpclVlLI) | 4:10 |
-| 180 | [Lonely](https://open.spotify.com/track/6fCNBG2r0hspxgQ2Z2Om4m) | [ideasforconversations](https://open.spotify.com/artist/6cxOz8rz1Gk492H9DDbVtD) | [Ideas for Branching in United States](https://open.spotify.com/album/27rwJHxBRU1NEpEwCjipwg) | 2:46 |
-| 181 | [I went to jump in front of a train but a couple was making out and I didn't want to ruin the mood so I went home](https://open.spotify.com/track/6LFdOvCod5TiepcU1OuvEz) | [BendreTheGiant](https://open.spotify.com/artist/0shIMtgnKC8fYwBUPyXUiw) | [Swollen Eyes](https://open.spotify.com/album/4xDLx9frxvwTTTL3sau12V) | 3:29 |
-| 182 | [Dean](https://open.spotify.com/track/1oK5V8q9uG0XAlMP2BXWSg) | [Myra Lee](https://open.spotify.com/artist/2KRSBSMYMc8oNLYOqgPxm4) | [Dean](https://open.spotify.com/album/2fY5hzEXnlwYLG53Lf9ubc) | 4:19 |
-| 183 | [Flood](https://open.spotify.com/track/1TqrTGETvJKUcynPVX73Mo) | [Trimmo](https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW) | [Arizona](https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z) | 3:24 |
+| 179 | [Flood](https://open.spotify.com/track/1TqrTGETvJKUcynPVX73Mo) | [Trimmo](https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW) | [Arizona](https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z) | 3:24 |
+| 180 | [Dean](https://open.spotify.com/track/1oK5V8q9uG0XAlMP2BXWSg) | [Myra Lee](https://open.spotify.com/artist/2KRSBSMYMc8oNLYOqgPxm4) | [Dean](https://open.spotify.com/album/2fY5hzEXnlwYLG53Lf9ubc) | 4:19 |
+| 181 | [Hau](https://open.spotify.com/track/67NQmdOFSPcLcYrK0VvWcI) | [Eric Demuro](https://open.spotify.com/artist/7LyTuBEf2GcMkptZDzWlbj) | [Simulacra](https://open.spotify.com/album/5RdpwUfIvh0hrydpclVlLI) | 4:10 |
+| 182 | [Lonely](https://open.spotify.com/track/6fCNBG2r0hspxgQ2Z2Om4m) | [ideasforconversations](https://open.spotify.com/artist/6cxOz8rz1Gk492H9DDbVtD) | [Ideas for Branching in United States](https://open.spotify.com/album/27rwJHxBRU1NEpEwCjipwg) | 2:46 |
+| 183 | [I went to jump in front of a train but a couple was making out and I didn't want to ruin the mood so I went home](https://open.spotify.com/track/6LFdOvCod5TiepcU1OuvEz) | [BendreTheGiant](https://open.spotify.com/artist/0shIMtgnKC8fYwBUPyXUiw) | [Swollen Eyes](https://open.spotify.com/album/4xDLx9frxvwTTTL3sau12V) | 3:29 |
 | 184 | [Sequoia](https://open.spotify.com/track/6dlHRdAcDqFoEiCzALEHkz) | [Plum](https://open.spotify.com/artist/6z2TH0bDd1rp016ZajDkKN) | [Sequoia / Far Beyond](https://open.spotify.com/album/2ZToEGAiiIvS78XSMDmu8K) | 4:39 |
 | 185 | [Walling up the Train](https://open.spotify.com/track/6GPXAhWuOWChlVul8bWcPo) | [miscellaneous owl](https://open.spotify.com/artist/305iwXOZ4wwlnWnrr3jfuh) | [The Wanting Chemical](https://open.spotify.com/album/5YdZYf2h7mQcu7vjYY3CCj) | 3:44 |
 | 186 | [Gasoline \- Intro](https://open.spotify.com/track/3XnDN635iLgLKJe8eFjmTq) | [Alpine](https://open.spotify.com/artist/4tKUoNubW02udXOh7SLtXV) | [A Is For Alpine](https://open.spotify.com/album/7xTmTXPCff563xlitrR99r) | 3:23 |
@@ -1409,4 +1409,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1399 | [Everyone Loves You \- Radio Edit](https://open.spotify.com/track/10Gj5oUXE50NgsU2sc22Qd) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 3:37 |
 | 1400 | [New ADHD](https://open.spotify.com/track/3B6vRouUzwrdQsVnyAtqZa) | [33](https://open.spotify.com/artist/4lY7e5NKMLIIQGi5WdrKkq), [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [New ADHD](https://open.spotify.com/album/2yXJmY5B1iozAXIsOaM6T9) | 4:04 |
 
-Snapshot ID: `AABIUKqju48ZtL115oscuUHgzmKPrTXO`
+Snapshot ID: `AABIU71lLMIROG9g3nnw2dIBnGMEGmjG`

@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 142006,
+  "num_followers": 142032,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Dil Ko Kya Ho Gaya",
-        "url": "https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ"
-      },
-      "artists": [
-        {
-          "name": "Gayatri Asokan",
-          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
-        },
-        {
-          "name": "Shom Chaterjjee",
-          "url": "https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf"
-        }
-      ],
-      "duration_ms": 320975,
-      "name": "Dil Ko Kya Ho Gaya",
-      "url": "https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx"
-    },
-    {
-      "added_at": "2026-06-16 03:42:16",
-      "album": {
         "name": "Koi Umeed",
         "url": "https://open.spotify.com/album/5YQT8LdcOc0smqplylj0jD"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Soulful Ghazals",
-        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
+        "name": "Dil Ko Kya Ho Gaya",
+        "url": "https://open.spotify.com/album/1UGjatglbosswJpDv9DnLQ"
       },
       "artists": [
         {
-          "name": "Pankaj Udhas",
-          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
+          "name": "Gayatri Asokan",
+          "url": "https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK"
+        },
+        {
+          "name": "Shom Chaterjjee",
+          "url": "https://open.spotify.com/artist/6FUKjekkN5Fr9BjlJFaiwf"
         }
       ],
-      "duration_ms": 364346,
-      "name": "Sharab Cheez Hi Aisi",
-      "url": "https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o"
+      "duration_ms": 320975,
+      "name": "Dil Ko Kya Ho Gaya",
+      "url": "https://open.spotify.com/track/1bJmJAHwZJYnM3N1ZiFUmx"
     },
     {
       "added_at": "2026-06-16 03:42:16",
@@ -867,6 +851,22 @@
       "duration_ms": 46293,
       "name": "Gulzar Speaks - Tarkieb",
       "url": "https://open.spotify.com/track/5OsYSM0LuBtYxJk2DqpZPn"
+    },
+    {
+      "added_at": "2026-06-16 03:42:16",
+      "album": {
+        "name": "Soulful Ghazals",
+        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
+      },
+      "artists": [
+        {
+          "name": "Pankaj Udhas",
+          "url": "https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw"
+        }
+      ],
+      "duration_ms": 364346,
+      "name": "Sharab Cheez Hi Aisi",
+      "url": "https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o"
     },
     {
       "added_at": "2026-06-16 03:42:16",
@@ -951,26 +951,6 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Wo Baat Kahan",
-        "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
-      },
-      "artists": [
-        {
-          "name": "Arhaan Hussain",
-          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Wo Baat Kahan",
-      "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
-    },
-    {
-      "added_at": "2026-06-16 03:42:16",
-      "album": {
         "name": "Rooh",
         "url": "https://open.spotify.com/album/7p6PpWdahXJb6XQaR8ly2e"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 317636,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/7zCpzTtENhE68RFR6IqMEK"
+    },
+    {
+      "added_at": "2026-06-16 03:42:16",
+      "album": {
+        "name": "Wo Baat Kahan",
+        "url": "https://open.spotify.com/album/2slESqhptAlh3jIB9KtExS"
+      },
+      "artists": [
+        {
+          "name": "Arhaan Hussain",
+          "url": "https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Wo Baat Kahan",
+      "url": "https://open.spotify.com/track/4P2ye5Ocy41bUThs9r96Kz"
     },
     {
       "added_at": "2026-06-16 03:42:16",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Dil Pareshan Karta Hai",
-        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
+        "name": "Soulful Ghazals",
+        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
       },
       "artists": [
         {
-          "name": "Sumeet Tappoo",
-          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
+          "name": "Ashok Khosla",
+          "url": "https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb"
         }
       ],
-      "duration_ms": 276136,
-      "name": "Ikhtiyar",
-      "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"
+      "duration_ms": 393160,
+      "name": "Ajnabi Shehar Mein",
+      "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
     },
     {
       "added_at": "2026-06-16 03:42:16",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Soulful Ghazals",
-        "url": "https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe"
+        "name": "Dil Pareshan Karta Hai",
+        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
       },
       "artists": [
         {
-          "name": "Ashok Khosla",
-          "url": "https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb"
+          "name": "Sumeet Tappoo",
+          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
         }
       ],
-      "duration_ms": 393160,
-      "name": "Ajnabi Shehar Mein",
-      "url": "https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp"
+      "duration_ms": 276136,
+      "name": "Ikhtiyar",
+      "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"
     },
     {
       "added_at": "2026-06-16 03:42:16",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Dil Pareshan Karta Hai",
-        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
-      },
-      "artists": [
-        {
-          "name": "Sumeet Tappoo",
-          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        }
-      ],
-      "duration_ms": 339376,
-      "name": "Samandar",
-      "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
-    },
-    {
-      "added_at": "2026-06-16 03:42:16",
-      "album": {
         "name": "Dil Ke Behlane Ki",
         "url": "https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 416640,
       "name": "Muddat Hui Hai",
       "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
+    },
+    {
+      "added_at": "2026-06-16 03:42:16",
+      "album": {
+        "name": "Dil Pareshan Karta Hai",
+        "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
+      },
+      "artists": [
+        {
+          "name": "Sumeet Tappoo",
+          "url": "https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 339376,
+      "name": "Samandar",
+      "url": "https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG"
     },
     {
       "added_at": "2026-06-16 03:42:16",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-06-16 03:42:16",
       "album": {
-        "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
-        "url": "https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83"
-      },
-      "artists": [
-        {
-          "name": "Hemant Brijwasi",
-          "url": "https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX"
-        }
-      ],
-      "duration_ms": 343360,
-      "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
-      "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
-    },
-    {
-      "added_at": "2026-06-16 03:42:16",
-      "album": {
         "name": "Guzra Hua Ye Waqt",
         "url": "https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 286657,
       "name": "Guzra Hua Ye Waqt",
       "url": "https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG"
+    },
+    {
+      "added_at": "2026-06-16 03:42:16",
+      "album": {
+        "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
+        "url": "https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83"
+      },
+      "artists": [
+        {
+          "name": "Hemant Brijwasi",
+          "url": "https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX"
+        }
+      ],
+      "duration_ms": 343360,
+      "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
+      "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
     },
     {
       "added_at": "2026-06-16 03:42:16",

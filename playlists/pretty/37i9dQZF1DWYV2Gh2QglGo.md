@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: James Barker Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,068 likes - 184 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,071 likes - 184 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

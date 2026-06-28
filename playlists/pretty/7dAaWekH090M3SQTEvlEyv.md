@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/7dAaWekH090M3SQTEvlEyv.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ハーモニー feat\. 原口沙輔, 初音ミク](https://open.spotify.com/track/0Hu6nUJMqkoOmHY0FVBSYk) | [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ハーモニー](https://open.spotify.com/album/15yQuoMzlJb4vpSuBr52NR) | 3:00 |
-| 2 | [ヤラララ\(YARARARA\)](https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf) | [AnythingBecomeMoe](https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK) | [ヤラララ\(YARARARA\)](https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz) | 2:27 |
+| 2 | [ヤラララ](https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf) | [AnythingBecomeMoe](https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK) | [ヤラララ](https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz) | 2:27 |
 | 3 | [君死にたまえ](https://open.spotify.com/track/6pFQNtwIPWZyUXrZw1j3Wu) | [otone](https://open.spotify.com/artist/3wAkigvqDNoqdSP7goV3aC) | [君死にたまえ](https://open.spotify.com/album/5JiVqHXlGMEOErHa0Xcd49) | 1:28 |
 | 4 | [デロスサントス](https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv) | [山本](https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU) | [デロスサントス](https://open.spotify.com/album/7aQIYdwuQ2eVhqM19FO5X5) | 3:21 |
 | 5 | [ミュージック \(feat\. 可不\)](https://open.spotify.com/track/20izQWOsvLql59j6x6l0B5) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ミュージック \(feat\. 可不\)](https://open.spotify.com/album/1BLYYtqyHLBzkgH5ckh7X6) | 2:31 |

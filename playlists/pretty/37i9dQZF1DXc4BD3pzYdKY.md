@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,759 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,806 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 74 | [City on His Back](https://open.spotify.com/track/6AlQ5HtGrPQO7M20pTtsf5) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [City on His Back](https://open.spotify.com/album/4S9IdV7Lua5EHkNZ2zlGH5) | 3:23 |
 | 75 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
 
-Snapshot ID: `AAAAAA+rUcmTOJ9xvSX5V/NcFHBWWmX2`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

@@ -4,7 +4,7 @@
 
 > This is Sebastian Esquivel\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 33 min
+51 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Si No Te Hubieras Ido](https://open.spotify.com/track/5nBm7OCqQS0emmG9hqfpJl) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Si No Te Hubieras Ido](https://open.spotify.com/album/0LhmgbjrVqhWZhJLByEy5S) | 3:41 | 2026-06-07 |  |
 | [Sobra y Falta](https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Sobra y Falta](https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU) | 3:10 | 2025-03-16 |  |
 | [Sueños de la Clika](https://open.spotify.com/track/5cI2CcuDA9ZOpXgg30eBIo) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Sueños de la Clika](https://open.spotify.com/artist/0xCOz1dwDmhGoy8xDstkoD), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Sueños de la Clika](https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ) | 2:08 | 2024-08-08 |  |
+| [Sólo Quédate En Silencio](https://open.spotify.com/track/1CufANCImsdinwKJHgROkO) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Sólo Quédate En Silencio](https://open.spotify.com/album/3rzb50l98jMMGriN7naWwJ) | 3:01 | 2026-06-28 |  |
 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1r8mlloMCnHwy40TPrV1U0) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/5nS3MisEg8pZROaMSQLyqy) | 3:07 | 2024-08-08 | 2025-02-23 |
 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [TFS](https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx) | 3:07 | 2025-02-23 |  |
 | [Trokita Tumbada](https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Trokita Tumbada](https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5) | 2:46 | 2024-08-08 |  |

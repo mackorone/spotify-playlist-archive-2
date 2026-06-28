@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,305 songs - 4 day 23 hr 35 min
+2,306 songs - 4 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-11 |
 | [Ge mig allt du har](https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Ge mig allt du har](https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB) | 3:13 | 2025-10-23 | 2025-11-26 |
 | [Ge mig ett tecken](https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ge mig ett tecken](https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza) | 2:54 | 2022-03-10 | 2022-07-29 |
+| [Gelateria](https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Gelateria](https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq) | 3:08 | 2026-06-25 |  |
 | [Gemini](https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/28hLStD389vh57mwsDykXg) | 4:45 | 2024-09-26 | 2025-04-11 |
 | [Gemini](https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Gemini](https://open.spotify.com/album/7GD6EPBfQtoZddrwvQTkmL) | 3:12 | 2022-04-01 | 2022-07-28 |
 | [Generational Love](https://open.spotify.com/track/2qK0gymuVZPpwzA4IeV7mt) | [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [PoP Poetry](https://open.spotify.com/album/37Xup1418QGS4CEFVpsaYu) | 3:18 | 2022-09-22 | 2022-10-07 |
@@ -1245,7 +1246,7 @@
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-11 |
 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 | 2023-10-05 | 2023-10-20 |
 | [Lurad](https://open.spotify.com/track/2BFbYXnJ6ap6yhwhX0xlYr) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Lurad](https://open.spotify.com/album/4KKf4zubsgMdQJYN2Yyoiu) | 2:05 | 2024-05-16 | 2024-06-14 |
-| [Lust](https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lust // Tigeröga](https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w) | 3:57 | 2026-04-16 |  |
+| [Lust](https://open.spotify.com/track/52Gd1OK0WZS13KZgPleUiD) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lust // Tigeröga](https://open.spotify.com/album/2Q1C8ASSUHdI7si0nSFy1w) | 3:57 | 2026-04-16 | 2026-06-28 |
 | [Lyckligt slut](https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Lyckligt slut](https://open.spotify.com/album/5v523vH6jETswE88qO1I79) | 3:03 | 2022-02-26 | 2022-09-16 |
 | [LYNX](https://open.spotify.com/track/4frKt8mxwdrn1j5ZjmUYzI) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [LYNX I](https://open.spotify.com/album/2fC3UHh9KvXH9trmadGlCE) | 4:34 | 2026-01-08 | 2026-02-27 |
 | [Lägenhet](https://open.spotify.com/track/2D8g7zq3FJJABDoDOyjzgE) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Lägenhet](https://open.spotify.com/album/42DgTQe0SAFvMOsSAYCYTV) | 2:40 | 2025-09-04 | 2026-02-13 |

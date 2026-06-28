@@ -1485,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/7xI2atqZ3yhx6P57R3m5as"
+      },
+      "artists": [
+        {
+          "name": "Ambiosis",
+          "url": "https://open.spotify.com/artist/3Rg4fOMUW3gvG8qdIazNX1"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2hz7x71F69QH12R7wWxg6t"
+    },
+    {
+      "album": {
         "name": "Dedication To Calm",
         "url": "https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA"
       },
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 156500,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS"

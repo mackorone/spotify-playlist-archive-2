@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with PEGGY",
-  "num_followers": 2394473,
+  "num_followers": 2394400,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 240139,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "rosie",
@@ -575,6 +559,22 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 240139,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9"
     },
     {
-      "added_at": "2025-09-29 15:49:30",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Inner Monologue Part 1",
@@ -823,6 +807,22 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
+    },
+    {
+      "added_at": "2025-09-29 15:49:30",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
     },
     {
-      "added_at": "2026-04-24 04:01:27",
-      "album": {
-        "name": "Birthday Makeup",
-        "url": "https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t"
-      },
-      "artists": [
-        {
-          "name": "Mulaa Joans",
-          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
-        }
-      ],
-      "duration_ms": 174945,
-      "name": "Birthday Makeup",
-      "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "Hold the Rhythm",
@@ -1127,6 +1111,22 @@
       "duration_ms": 198573,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/0aIW3ekrhK1eh3BYCh11op"
+    },
+    {
+      "added_at": "2026-04-24 04:01:27",
+      "album": {
+        "name": "Birthday Makeup",
+        "url": "https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "duration_ms": 174945,
+      "name": "Birthday Makeup",
+      "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
     },
     {
       "added_at": "2025-04-11 04:08:48",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "something to remember",
-        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 162224,
-      "name": "something to remember",
-      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Before You Leave Me",
         "url": "https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 191519,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "something to remember",
+        "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 162224,
+      "name": "something to remember",
+      "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
     },
     {
       "added_at": "2025-08-22 04:00:20",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
-      "added_at": "2026-05-29 04:19:53",
-      "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 220510,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw"
-    },
-    {
       "added_at": "2026-06-12 13:45:51",
       "album": {
         "name": "Come Down",
@@ -1471,6 +1455,22 @@
       "duration_ms": 175747,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
+    },
+    {
+      "added_at": "2026-05-29 04:19:53",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 220510,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw"
     },
     {
       "added_at": "2026-05-15 04:16:24",
@@ -1701,22 +1701,6 @@
       "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
     },
     {
-      "added_at": "2026-04-24 04:01:27",
-      "album": {
-        "name": "Wishbone Deluxe",
-        "url": "https://open.spotify.com/album/18BxfsH93SUb77MlISUt60"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 234015,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
-    },
-    {
       "added_at": "2025-08-01 04:00:33",
       "album": {
         "name": "Parking Lot",
@@ -1731,6 +1715,22 @@
       "duration_ms": 212092,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
+    },
+    {
+      "added_at": "2026-04-24 04:01:27",
+      "album": {
+        "name": "Wishbone Deluxe",
+        "url": "https://open.spotify.com/album/18BxfsH93SUb77MlISUt60"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 234015,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2017,22 +2017,6 @@
       "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
-      "album": {
-        "name": "Out of Water",
-        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Out of Water",
-      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
-    },
-    {
       "added_at": "2026-04-10 04:36:33",
       "album": {
         "name": "Never Know Love",
@@ -2063,6 +2047,22 @@
       "duration_ms": 157054,
       "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
+    },
+    {
+      "added_at": "2026-05-15 04:16:24",
+      "album": {
+        "name": "Out of Water",
+        "url": "https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Out of Water",
+      "url": "https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Heather - Spotify Singles",
-      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
-    },
-    {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB"
       },
@@ -2185,20 +2169,20 @@
       "url": "https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
+      "added_at": "2024-09-13 04:05:55",
       "album": {
-        "name": "Growing Pains (Deluxe)",
-        "url": "https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 167523,
-      "name": "Where Did You Go",
-      "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
+      "duration_ms": 190652,
+      "name": "Heather - Spotify Singles",
+      "url": "https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI"
     },
     {
       "added_at": "2026-02-13 05:00:48",
@@ -2215,6 +2199,22 @@
       "duration_ms": 231724,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
+    },
+    {
+      "added_at": "2026-05-15 04:16:24",
+      "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/4ZSJ4RcSnjccnx3LhZ35uA"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 167523,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/1N54JSlyPD0YriuRhantnh"
     },
     {
       "added_at": "2026-02-20 05:13:45",
@@ -2425,20 +2425,20 @@
       "url": "https://open.spotify.com/track/2VYIeZGLDsSn8wubtWuT1V"
     },
     {
-      "added_at": "2026-02-27 05:19:15",
+      "added_at": "2026-02-20 05:13:45",
       "album": {
-        "name": "Flowers - Spotify Singles",
-        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
+        "name": "The Summer I Turned Pretty",
+        "url": "https://open.spotify.com/album/6tL6m2hNIeWTf4JD3PyTnC"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
         }
       ],
-      "duration_ms": 236167,
-      "name": "Flowers - Spotify Singles",
-      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
+      "duration_ms": 193040,
+      "name": "The Summer I Turned Pretty",
+      "url": "https://open.spotify.com/track/105SJWvzj7LVZt0AuQD2tf"
     },
     {
       "added_at": "2026-01-23 05:58:48",
@@ -2457,20 +2457,20 @@
       "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
+      "added_at": "2026-02-27 05:19:15",
       "album": {
-        "name": "Happy Again",
-        "url": "https://open.spotify.com/album/6FWbNITIxlsMMbYKY0Rf4X"
+        "name": "Flowers - Spotify Singles",
+        "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 175066,
-      "name": "Happy Again",
-      "url": "https://open.spotify.com/track/65v5jCRK3Pgac5GSlIRbzx"
+      "duration_ms": 236167,
+      "name": "Flowers - Spotify Singles",
+      "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
     }
   ],
   "unique_name": "sad hour",

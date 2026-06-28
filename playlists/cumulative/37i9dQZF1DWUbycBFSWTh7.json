@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 375610,
       "name": "Always",
       "url": "https://open.spotify.com/track/0FCearcuYcEehLr43UfETP"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 440984,
       "name": "Back in the Dark",
       "url": "https://open.spotify.com/track/5DPhSMlsjOWTHK2b2XLZ3V"
@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Can't Wait",
+        "url": "https://open.spotify.com/album/20C6twRQZC89GzXbyQLBAl"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307679,
+      "name": "Can't Wait",
+      "url": "https://open.spotify.com/track/3BVl2qpU0EWUvLxYAZpdDy"
+    },
+    {
+      "album": {
         "name": "Caramba EP",
         "url": "https://open.spotify.com/album/2BIfqIGmk2G2nVypSyh76K"
       },
@@ -1438,6 +1456,32 @@
       "duration_ms": 466397,
       "name": "Caramba - Lex Wolf Technobloco Mix",
       "url": "https://open.spotify.com/track/3rXvghrQrRV68UX51USvcS"
+    },
+    {
+      "album": {
+        "name": "Carioca Flute (The Checkup Remix)",
+        "url": "https://open.spotify.com/album/5GzQuxB15NdBrWhEuewoY2"
+      },
+      "artists": [
+        {
+          "name": "Leo Janeiro",
+          "url": "https://open.spotify.com/artist/0WmI1dw6gD0yBHeoqjjYQJ"
+        },
+        {
+          "name": "Nathan 'Flutebox' Lee",
+          "url": "https://open.spotify.com/artist/56Q3zYJbYdR5VKqDgVoVzs"
+        },
+        {
+          "name": "The Checkup",
+          "url": "https://open.spotify.com/artist/2W6wcKjaQ6LbOAEOvGnTwv"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196001,
+      "name": "Carioca Flute - The Checkup Remix - Edit",
+      "url": "https://open.spotify.com/track/4LXaDJuqGPNamNIwsObFgt"
     },
     {
       "album": {
@@ -1850,7 +1894,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 350000,
       "name": "Composition X",
       "url": "https://open.spotify.com/track/1TIuMI3kVlNhkS1hTzWxDg"
@@ -1966,7 +2010,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 194268,
       "name": "Dances Of The Red Planet - Club Edit",
       "url": "https://open.spotify.com/track/6tGNknjOFHVblkRuUMmttW"
@@ -2046,7 +2090,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 343680,
       "name": "Deep Acceleration",
       "url": "https://open.spotify.com/track/78OJ8qCBtQ2mhZVHJZGsfc"
@@ -2246,7 +2290,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 328000,
       "name": "Detroit Love Letter",
       "url": "https://open.spotify.com/track/7o4eexpKJTYYOYKmq7ky5K"
@@ -3832,7 +3876,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 291840,
       "name": "Fukai",
       "url": "https://open.spotify.com/track/3KuwKWY8mdqjp7qX6lNb3d"
@@ -5639,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "Jump In",
+        "url": "https://open.spotify.com/album/4cm2KFHpfbVfXYblR8irAa"
+      },
+      "artists": [
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409756,
+      "name": "Jump In",
+      "url": "https://open.spotify.com/track/2IWNkomKAlwS8COtBQt1X1"
+    },
+    {
+      "album": {
         "name": "Just Because (LYMA Remix)",
         "url": "https://open.spotify.com/album/6t3CPMmQadfjSfyk98vM39"
       },
@@ -5818,6 +5880,24 @@
       "duration_ms": 318401,
       "name": "Keepin' it Jazz",
       "url": "https://open.spotify.com/track/5qnVn76yokvGLRcUNCSZ90"
+    },
+    {
+      "album": {
+        "name": "Kerriousity",
+        "url": "https://open.spotify.com/album/1DRDvdXVJgByKpoa4vxqcu"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289488,
+      "name": "Kerriousity",
+      "url": "https://open.spotify.com/track/0UD514lKUYatjWSWhBhmcd"
     },
     {
       "album": {
@@ -6277,6 +6357,28 @@
     },
     {
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/17d8Q4YLnxv0TMyDL91aCG"
+      },
+      "artists": [
+        {
+          "name": "Groovecat",
+          "url": "https://open.spotify.com/artist/1VxKJAvOBKElo9EGaQI46G"
+        },
+        {
+          "name": "Miguel Migs",
+          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362459,
+      "name": "Live Your Life (Miguel Migs Piano Love Dub)",
+      "url": "https://open.spotify.com/track/4Gb79xDPd1qUu6Rm8YCTbB"
+    },
+    {
+      "album": {
         "name": "Oliver Deutschmann presents Futureworld",
         "url": "https://open.spotify.com/album/6XOhMv7PBvHkmGrcttFq0i"
       },
@@ -6717,6 +6819,24 @@
     },
     {
       "album": {
+        "name": "Man Of Soul, Pt. 2",
+        "url": "https://open.spotify.com/album/4crgRfwrpOelhXRiLzRsYG"
+      },
+      "artists": [
+        {
+          "name": "Saison",
+          "url": "https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192313,
+      "name": "Man Of Soul, Pt. 2",
+      "url": "https://open.spotify.com/track/03M4l3mt1lbNJvStjEAGuz"
+    },
+    {
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/5ARU30fyKwQHgo21ELyPAF"
       },
@@ -7051,6 +7171,24 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/7GoHOv6OdZgBObc5SNnrp7"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318688,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/4k4b3dlB5BLD7gqqsYYscq"
+    },
+    {
+      "album": {
         "name": "Ritmo Freak",
         "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
       },
@@ -7146,6 +7284,28 @@
       "duration_ms": 290340,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5BQbR0EiZtA9YvfSsDCOuF"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/6O24kgAGNbAMA0MPzYZ7JO"
+      },
+      "artists": [
+        {
+          "name": "Stephane Attias",
+          "url": "https://open.spotify.com/artist/0UNgPo63vrE0ZBlLNYanA5"
+        },
+        {
+          "name": "Trinidadian Deep",
+          "url": "https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410806,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/4VxG7wDT7QU2TbZXxUGd08"
     },
     {
       "album": {
@@ -7440,6 +7600,24 @@
       "duration_ms": 387889,
       "name": "My Illusions - Vocal Mix",
       "url": "https://open.spotify.com/track/0UmJt8ShgeonEa0DZTIhqI"
+    },
+    {
+      "album": {
+        "name": "My Love For U",
+        "url": "https://open.spotify.com/album/6hKvCj2vJYO0S49cPBHx2N"
+      },
+      "artists": [
+        {
+          "name": "Trinidadian Deep",
+          "url": "https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404032,
+      "name": "My Love For U",
+      "url": "https://open.spotify.com/track/20R0cc4I8NybkdLvoSWkve"
     },
     {
       "album": {
@@ -7866,7 +8044,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 338106,
       "name": "Nobody Like U - Marli Remix",
       "url": "https://open.spotify.com/track/3HoPw7F1GaGzor3LQlO4qD"
@@ -8022,6 +8200,32 @@
       "duration_ms": 195360,
       "name": "Oakland",
       "url": "https://open.spotify.com/track/3chhbeaNkSKltKv6Nl41BF"
+    },
+    {
+      "album": {
+        "name": "Ocean Rain",
+        "url": "https://open.spotify.com/album/66oupr9p00VULKBIdoOBZO"
+      },
+      "artists": [
+        {
+          "name": "Willem Mulder",
+          "url": "https://open.spotify.com/artist/5KfTEKEODVvVzbF0IJ8ZaM"
+        },
+        {
+          "name": "Grover Duvall",
+          "url": "https://open.spotify.com/artist/3fLTSG96gpT6UqhqdgnS5a"
+        },
+        {
+          "name": "Javonntte",
+          "url": "https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292404,
+      "name": "Ocean Rain",
+      "url": "https://open.spotify.com/track/0rdImQ91udz6mZACg7LJXI"
     },
     {
       "album": {
@@ -8391,6 +8595,28 @@
     },
     {
       "album": {
+        "name": "One Chance EP",
+        "url": "https://open.spotify.com/album/47IfSkxyOWCxNVcJd8aOCS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/1hUmQiJrHSEnGyQfrpbwi3"
+    },
+    {
+      "album": {
         "name": "Palace Of Time",
         "url": "https://open.spotify.com/album/68lR3oUhPa9PEG1dnPEIHr"
       },
@@ -8406,6 +8632,24 @@
       "duration_ms": 266070,
       "name": "Palace Of Time",
       "url": "https://open.spotify.com/track/7xkOtOMV1cJmIE7OXJIdYo"
+    },
+    {
+      "album": {
+        "name": "Traxx 4 Daze",
+        "url": "https://open.spotify.com/album/6HqP5VDXBgTGlqY542mbgB"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340183,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/1HGCAqRk6OModmAidTCANp"
     },
     {
       "album": {
@@ -9559,6 +9803,24 @@
     },
     {
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/35OFfysjnAGfaL41YJ7HjR"
+      },
+      "artists": [
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416595,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1OFNWGDW7FDHZuJAXN7qgq"
+    },
+    {
+      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/55NADInZR3P0WdgcEBWoDE"
       },
@@ -10408,7 +10670,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 385846,
       "name": "Sunstream",
       "url": "https://open.spotify.com/track/6RtFGvUHlA6TbbRDVwNmbs"
@@ -10466,7 +10728,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-28",
       "duration_ms": 403680,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/4PDFK7wHjlyTy6uRZXVW4l"
@@ -11715,6 +11977,32 @@
     },
     {
       "album": {
+        "name": "Time Goes (Tuccillo Remix)",
+        "url": "https://open.spotify.com/album/2Bct2cPo4khmmotW1Rvgha"
+      },
+      "artists": [
+        {
+          "name": "Leo Janeiro",
+          "url": "https://open.spotify.com/artist/0WmI1dw6gD0yBHeoqjjYQJ"
+        },
+        {
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
+        },
+        {
+          "name": "Tuccillo",
+          "url": "https://open.spotify.com/artist/6EIy9BdHGGzEPbasqwMabi"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281154,
+      "name": "Time Goes - Tuccillo House Mix - Edit",
+      "url": "https://open.spotify.com/track/37CNNWZdG6LCpzu1PeACgQ"
+    },
+    {
+      "album": {
         "name": "Time To Change",
         "url": "https://open.spotify.com/album/69PCHhaAFYa6Y5bReDqwQX"
       },
@@ -12288,6 +12576,28 @@
       "duration_ms": 512250,
       "name": "Unfolding (Momentum 73) - Ron Trent Remix",
       "url": "https://open.spotify.com/track/5eSKAYrvRTXpLxGrAirVZ5"
+    },
+    {
+      "album": {
+        "name": "30 Years of Freerange Volume Two",
+        "url": "https://open.spotify.com/album/4MudP1fTlwPtI1ImXjRQTa"
+      },
+      "artists": [
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        },
+        {
+          "name": "Rawb Boss",
+          "url": "https://open.spotify.com/artist/1CGgLRMyrQ5POtzYjeLKcC"
+        }
+      ],
+      "date_added": "2026-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337920,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/2Q42hoIxs61HrYXPuhwUJ6"
     },
     {
       "album": {

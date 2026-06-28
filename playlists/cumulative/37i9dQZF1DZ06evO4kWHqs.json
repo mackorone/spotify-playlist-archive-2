@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "feels",
+        "url": "https://open.spotify.com/album/3bZ1hel9VzJZSe7tZ0P9NR"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201264,
+      "name": "feels",
+      "url": "https://open.spotify.com/track/6k87vClVnH5LZnUSDjZYIG"
+    },
+    {
+      "album": {
         "name": "Give Me 10's",
         "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
       },

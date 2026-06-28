@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Paco Pecado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,065 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,077 likes - 102 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 101 | [Sin decir adiós \(BSO Después de Kim\)](https://open.spotify.com/track/4f4EeMfjsckRzjiwmcxm6A) | [Christina Rosenvinge](https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp) | [Sin decir adiós \(BSO Después de Kim\)](https://open.spotify.com/album/1mXw5HrMCLV31KT355eitc) | 2:46 |
 | 102 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 |
 
-Snapshot ID: `AAAAAFo0e8I2bZ3cgMs5OkVc1ucqkfzP`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

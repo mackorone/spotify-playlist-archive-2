@@ -4,7 +4,7 @@
 
 > 
 
-326 songs - 12 hr 57 min
+327 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [grey.](https://open.spotify.com/track/5IGCyJsxjhC3Y050ONc9Kx) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 3:39 | 2024-11-28 |  |
 | [GROW TF UP!](https://open.spotify.com/track/6yh7Qr1PkuQxhCg7JsDMC2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [>:3](https://open.spotify.com/album/1CydpQKd0rdcmUpYI2WqYT) | 2:08 | 2025-01-16 | 2025-04-10 |
 | [Gushin' Blood](https://open.spotify.com/track/3AQzefqzIKZFzzIZEtBXIj) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:29 | 2025-09-06 |  |
+| [hansen](https://open.spotify.com/track/4XMsiHDG56BUh0wsv78ns4) | [wokeups](https://open.spotify.com/artist/75jGEe1tQWMKVs5xXsSLZb) | [hansen](https://open.spotify.com/album/4xkyQBzm00NXFn9rUfJUo3) | 2:00 | 2026-06-27 |  |
 | [Has To Be](https://open.spotify.com/track/29Iqky207Y14lJip5DkFiN) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Has To Be](https://open.spotify.com/album/4m0K0hcRBcLIdI9FuiGS7U) | 1:55 | 2025-05-22 |  |
 | [hbo.](https://open.spotify.com/track/341d4xN6OfiZxCNe55f19K) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:22 | 2025-04-12 |  |
 | [HEXXED HER LOVE <3 xoxo](https://open.spotify.com/track/2AzBJlFNFTMRD0OW0HV3Ap) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [HEXXED HER LOVE <3 xoxo](https://open.spotify.com/album/6KDz4xWdrYSczS5xSMiX4F) | 1:56 | 2025-04-10 |  |

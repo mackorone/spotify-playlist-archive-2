@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2026 (previous playlists archived on my profile)",
-  "num_followers": 24362,
+  "num_followers": 24359,
   "original_name": "life is sweet",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOeCiheMArCnmWS9d9JG+ePE7YxQMD",
+  "snapshot_id": "AAAOeSam+eyny2QPqkBdvoFg/7Cy5Syl",
   "tracks": [
     {
       "added_at": "2026-05-06 18:37:50",
@@ -663,6 +663,26 @@
       "duration_ms": 296240,
       "name": "Why Do You Ask",
       "url": "https://open.spotify.com/track/0LFoXRQ74Z8xksGA1z9EVB"
+    },
+    {
+      "added_at": "2026-06-27 16:59:05",
+      "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Love Hurts (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX"
     }
   ],
   "unique_name": "life is sweet",
