@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 743637,
+  "num_followers": 743600,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "ingydar",
-      "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "ingydar",
+      "url": "https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "cold/mess",
-        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 281218,
-      "name": "cold/mess",
-      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Sticky Thumb",
-        "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 194398,
-      "name": "Twinkle",
-      "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 205525,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Sticky Thumb",
+        "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 194398,
+      "name": "Twinkle",
+      "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1639,18 +1639,22 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "patching",
-        "url": "https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
       "artists": [
         {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 191662,
-      "name": "Lemon Garland",
-      "url": "https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3"
+      "duration_ms": 289964,
+      "name": "Change (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
     }
   ],
   "unique_name": "Stay in Bed",

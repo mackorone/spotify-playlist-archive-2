@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Grace Ives",
-  "num_followers": 628800,
+  "num_followers": 628844,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Nothing's About to Happen to Me",
-        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Shelly",
         "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 163764,
       "name": "Natural",
       "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "WILLOW",
-        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Female Energy, Part 2",
-      "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Days Are Gone",
         "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 245786,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Female Energy, Part 2",
+      "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 280213,
       "name": "circle the drain",
       "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 198337,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
-    },
-    {
-      "added_at": "2026-05-01 04:02:29",
-      "album": {
         "name": "What Happened To The Heart?",
         "url": "https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+      "duration_ms": 198337,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
     },
     {
       "added_at": "2026-05-01 04:02:29",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-05-01 04:02:29",
+      "album": {
         "name": "All My Girls Like To Fight",
         "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-05-01 04:02:29",
       "album": {
-        "name": "No Driver",
-        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+        "name": "Grey Mullet / Scup",
+        "url": "https://open.spotify.com/album/0fI1dJtiVGbRA38kN3NHHZ"
       },
       "artists": [
         {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
         }
       ],
-      "duration_ms": 228840,
-      "name": "No Driver",
-      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
+      "duration_ms": 147272,
+      "name": "Grey Mullet",
+      "url": "https://open.spotify.com/track/717tRuYfcGM29jDCzDt2hy"
     }
   ],
   "unique_name": "Women of Indie",

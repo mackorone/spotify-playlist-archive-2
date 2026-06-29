@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21273,
+  "num_followers": 21277,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABAwRuyHNLAP8CAZqrdBspf3KPrN",
+  "snapshot_id": "AAAAAOuQnwinK32VJmxrZzzG/ItM+KXV",
   "tracks": [
     {
       "added_at": "2026-06-20 05:27:51",
@@ -263,18 +263,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -303,22 +307,18 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "added_at": "2026-06-20 05:27:51",
+      "album": {
         "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
         "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 238726,
       "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
       "url": "https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G"
-    },
-    {
-      "added_at": "2026-06-20 05:27:51",
-      "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
-      },
-      "artists": [
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -1987,18 +1987,22 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "POP IS CRYIN'",
-        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
       },
       "artists": [
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 164000,
-      "name": "STIGMATA",
-      "url": "https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh"
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
     },
     {
       "added_at": "2026-06-20 05:27:51",
@@ -2023,22 +2027,18 @@
     {
       "added_at": "2026-06-20 05:27:51",
       "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+        "name": "POP IS CRYIN'",
+        "url": "https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB"
       },
       "artists": [
         {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
         }
       ],
-      "duration_ms": 189373,
-      "name": "LAW (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
+      "duration_ms": 164000,
+      "name": "STIGMATA",
+      "url": "https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh"
     },
     {
       "added_at": "2026-06-20 05:27:51",

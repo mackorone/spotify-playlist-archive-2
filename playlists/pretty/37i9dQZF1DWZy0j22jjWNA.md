@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,673 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,701 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 22 | [A Thousand Times](https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [A Thousand Times](https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr) | 3:39 |
 | 23 | [Meant To Live \(Jon Bellion Version\)](https://open.spotify.com/track/3ClVeAl8mEEptUXDJConMo) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Meant To Live \(Jon Bellion Version\)](https://open.spotify.com/album/4AGGUyfm3rGKn3exjLUhRt) | 3:33 |
 | 24 | [YES BE YES](https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [YES BE YES](https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj) | 2:45 |
-| 25 | [Day The Lord Has Made](https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Day The Lord Has Made](https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta) | 5:04 |
-| 26 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 |
+| 25 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 |
+| 26 | [Day The Lord Has Made](https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Day The Lord Has Made](https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta) | 5:04 |
 | 27 | [Sun Rises](https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Sun Rises](https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha) | 2:54 |
 | 28 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
 | 29 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 57 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
 | 58 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 59 | [Pure Gold](https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Pure Gold](https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ) | 2:17 |
-| 60 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
-| 61 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
+| 60 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
+| 61 | [Morning Psalm \(feat\. Ben Cruse\)](https://open.spotify.com/track/3X1lam7uHad3F3sMuvFp0l) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV), [Ben Cruse](https://open.spotify.com/artist/3WOiJEhXDFffYyUDKo8isf) | [First Light / Last Word](https://open.spotify.com/album/4PxxW2zfSOhoysKPLZMLII) | 5:33 |
 | 62 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 |
 | 63 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
 | 64 | [Hope Builds \- Live](https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD) | 5:43 |

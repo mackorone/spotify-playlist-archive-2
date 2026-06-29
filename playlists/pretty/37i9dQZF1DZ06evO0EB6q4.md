@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,161 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,186 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 38 | [Te Hice Llorar](https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:34 |
 | 39 | [Volvernos a Amar](https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Contra Todo Pronóstico](https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO) | 3:09 |
 | 40 | [Buen Viaje](https://open.spotify.com/track/41GJeh48o98ThqCvxUgkoX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:25 |
-| 41 | [Verte Cerquita](https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 3:52 |
-| 42 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 41 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 |
+| 42 | [Verte Cerquita](https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 3:52 |
 | 43 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 44 | [Te va a Doler](https://open.spotify.com/track/6m35uri0H0L9ZccW6PRchX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:24 |
 | 45 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Hace Tanto Tiempo](https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:39 |
 | 50 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 |
 
-Snapshot ID: `aj3BAAAAAAC0AJRDylgoPxBOBR42vgj6`
+Snapshot ID: `aj8SgAAAAADEGMFybOCFuJyev0rP2gBZ`

@@ -1847,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Est\u00e1 na Hora",
+        "url": "https://open.spotify.com/album/35ysxYJz1e8TAfAwFKXbqq"
+      },
+      "artists": [
+        {
+          "name": "Percivais",
+          "url": "https://open.spotify.com/artist/3ctSG1qg916RpEUCXlO1rc"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258947,
+      "name": "Est\u00e1 na Hora",
+      "url": "https://open.spotify.com/track/6WrxIMkY6e661lGed0vDUo"
+    },
+    {
+      "album": {
         "name": "Fairy Wings",
         "url": "https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd"
       },

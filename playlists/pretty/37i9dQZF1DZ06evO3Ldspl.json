@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACuwHSVs/NpLMulsgdsU/lD",
+  "snapshot_id": "aj8SgAAAAAD8+iHESUn75ZkXO2CsSWLH",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 288040,
+      "name": "Voz de Acordeones",
+      "url": "https://open.spotify.com/track/1ynlh10fcaVkkHg27N0X1w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Siempre Rafael Orozco Binomio De Oro",
         "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 259707,
       "name": "Cien A\u00f1os De Ausencia",
       "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 288040,
-      "name": "Voz de Acordeones",
-      "url": "https://open.spotify.com/track/1ynlh10fcaVkkHg27N0X1w"
     },
     {
       "added_at": null,

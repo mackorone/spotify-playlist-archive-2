@@ -4,7 +4,7 @@
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-348 songs - 17 hr 35 min
+349 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,7 @@
 | [WARUNORI](https://open.spotify.com/track/2D1NcVffFzsLqNFbz5Xdkx) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WARUNORI](https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz) | 4:19 | 2023-11-23 | 2024-01-17 |
 | [Wasuretaine](https://open.spotify.com/track/5w4d06Q4w1l9gN2AztlELL) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Wasuretaine](https://open.spotify.com/album/1RSmwBjok3O8hmpMdX2Rmx) | 3:30 | 2023-11-23 | 2024-01-17 |
 | [Waterfall](https://open.spotify.com/track/180UE30SYVQfYU02UzcyHT) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Waterfall](https://open.spotify.com/album/0w9NEJmBHrCvWewrujlOgt) | 2:53 | 2024-01-30 | 2024-02-21 |
-| [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2025-10-02 |  |
+| [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2025-10-02 | 2026-06-29 |
 | [What Makes You Beautiful](https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:19 | 2023-11-23 | 2024-04-19 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-05-16 | 2025-07-11 |
 | [When I'm With You](https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 3:31 | 2024-11-14 | 2025-07-11 |
@@ -335,6 +335,7 @@
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-03-06 | 2025-04-04 |
 | [Will](https://open.spotify.com/track/27ld38UdmopEXofm96uAqt) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Will](https://open.spotify.com/album/5hr8FCRbxJYqhFVFP0I1wU) | 3:11 | 2024-04-12 | 2024-04-19 |
 | [Will](https://open.spotify.com/track/4T6ZOGt9c250Xz1CpZColk) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Will](https://open.spotify.com/album/7z126i4CmGjrKKtcHSm8ir) | 3:11 | 2024-04-12 | 2024-05-25 |
+| [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 | 2026-06-25 |  |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-24 | 2024-10-30 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-09-25 |
 | [WOW](https://open.spotify.com/track/4lZI7bshbcxNAtg7SlSK3Q) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [WOW](https://open.spotify.com/album/51PBeHxPU3xKSHR3ay3iFO) | 3:42 | 2024-10-03 | 2024-11-15 |

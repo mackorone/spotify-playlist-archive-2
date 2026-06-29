@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Justus Eichhorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,731 likes - 90 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,786 likes - 90 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

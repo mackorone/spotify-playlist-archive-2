@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Ste Milano
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,904 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,977 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CASSE TES REINS](https://open.spotify.com/track/0cugMiKuEQqHj4faaNMR8h) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [CASSE TES REINS](https://open.spotify.com/album/1Kcy09lwfBd5SRzP427GvQ) | 2:38 |
-| 2 | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/track/6myxZn56qXV2JBDWZkCqJe) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/album/3j4tdBgUxLNwYJVw0KYfOW) | 2:30 |
-| 3 | [1,2,3](https://open.spotify.com/track/6txbsYVebObIzfd26oFFfj) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [1,2,3](https://open.spotify.com/album/5njqGM1k9rh0z7B3JwYtKR) | 3:01 |
+| 1 | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/track/6myxZn56qXV2JBDWZkCqJe) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/album/3j4tdBgUxLNwYJVw0KYfOW) | 2:30 |
+| 2 | [1,2,3](https://open.spotify.com/track/6txbsYVebObIzfd26oFFfj) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [1,2,3](https://open.spotify.com/album/5njqGM1k9rh0z7B3JwYtKR) | 3:01 |
+| 3 | [CASSE TES REINS](https://open.spotify.com/track/0cugMiKuEQqHj4faaNMR8h) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [CASSE TES REINS](https://open.spotify.com/album/1Kcy09lwfBd5SRzP427GvQ) | 2:38 |
 | 4 | [Biama Yacouba](https://open.spotify.com/track/5IsiQqDyhpvqIDuehfKpfl) | [Daoudi le Kirikou](https://open.spotify.com/artist/1GVBIJDTEKCVfHLwbcevz7) | [Biama Yacouba](https://open.spotify.com/album/2LezrIZ0etl4wgUorwYExu) | 2:17 |
 | 5 | [Changer de côté](https://open.spotify.com/track/3CiJTm2KpuIi9SCA4pzsw6) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Changer de côté](https://open.spotify.com/album/78hiKUxmKL9yefF86CBx3F) | 2:28 |
 | 6 | [MAISON B](https://open.spotify.com/track/2oKg3xtRJGNhFqpUux1u8G) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Team 2 poy](https://open.spotify.com/artist/4dqGz3Bm6XlgOUNXWSeuox), [Maison B](https://open.spotify.com/artist/1Qy0G8x4jcOS1XjupM5jse) | [MAISON B](https://open.spotify.com/album/1IP3m7sFLwnEZrlYQlEODo) | 2:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Eusseu toi tu me connais](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO), [Le Grand Homme](https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 2:35 |
 | 40 | [Kolo Kolo](https://open.spotify.com/track/7AfXxreayzJaxxXAADKZkW) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Kolo Kolo](https://open.spotify.com/album/1aakaROZQUBca5tPJUAyXl) | 2:18 |
 
-Snapshot ID: `AAAAAG23k0XiA0AILMgZJ6UtiZWHyoaP`
+Snapshot ID: `AAAAAJru3ATRtlSD7R68l8H6SLUTJfzs`

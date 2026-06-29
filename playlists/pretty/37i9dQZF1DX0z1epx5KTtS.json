@@ -1,29 +1,13 @@
 {
   "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Ste Milano",
-  "num_followers": 132904,
+  "num_followers": 132977,
   "original_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG23k0XiA0AILMgZJ6UtiZWHyoaP",
+  "snapshot_id": "AAAAAJru3ATRtlSD7R68l8H6SLUTJfzs",
   "tracks": [
-    {
-      "added_at": "2026-06-25 22:01:46",
-      "album": {
-        "name": "CASSE TES REINS",
-        "url": "https://open.spotify.com/album/1Kcy09lwfBd5SRzP427GvQ"
-      },
-      "artists": [
-        {
-          "name": "Dydy Yeman",
-          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "CASSE TES REINS",
-      "url": "https://open.spotify.com/track/0cugMiKuEQqHj4faaNMR8h"
-    },
     {
       "added_at": "2026-06-25 22:01:46",
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 181620,
       "name": "1,2,3",
       "url": "https://open.spotify.com/track/6txbsYVebObIzfd26oFFfj"
+    },
+    {
+      "added_at": "2026-06-25 22:01:46",
+      "album": {
+        "name": "CASSE TES REINS",
+        "url": "https://open.spotify.com/album/1Kcy09lwfBd5SRzP427GvQ"
+      },
+      "artists": [
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "CASSE TES REINS",
+      "url": "https://open.spotify.com/track/0cugMiKuEQqHj4faaNMR8h"
     },
     {
       "added_at": "2026-06-25 22:01:46",

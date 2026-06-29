@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. DANNA y El Malilla en portada ",
-  "num_followers": 853431,
+  "num_followers": 853551,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "LINAJE",
+        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 336026,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "LINAJE",
-        "url": "https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 336026,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "King of Watches",
+      "url": "https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "PASE Y PASE",
         "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 165949,
       "name": "ganga",
       "url": "https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "Nunca Voy a Morir",
-        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "King of Watches",
-      "url": "https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "Al Final Del D\u00eda",
+        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 208484,
+      "name": "Al Final Del D\u00eda",
+      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "66 am",
         "url": "https://open.spotify.com/album/295kpcatqizxstrU8Dx2RX"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 240000,
       "name": "66 am",
       "url": "https://open.spotify.com/track/4QlKoM0Oxt5I6UvvkDT3MG"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "Al Final Del D\u00eda",
-        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 208484,
-      "name": "Al Final Del D\u00eda",
-      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "La Magia de Conectar",
+        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "La Magia de Conectar",
+      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "Las Dos Me Duelen",
         "url": "https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb"
       },
@@ -571,26 +587,6 @@
       "duration_ms": 224706,
       "name": "Las Dos Me Duelen",
       "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "T\u00fa Ni En Cuenta",
-        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "T\u00fa Ni En Cuenta",
-      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -611,18 +607,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "La Magia de Conectar",
-        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 160979,
-      "name": "La Magia de Conectar",
-      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -667,22 +667,18 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "Agu\u00e1ntame",
-        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+        "name": "C Y Medio",
+        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 128409,
-      "name": "Agu\u00e1ntame",
-      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+      "duration_ms": 166500,
+      "name": "C Y Medio",
+      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -707,6 +703,26 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "Agu\u00e1ntame",
+        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 128409,
+      "name": "Agu\u00e1ntame",
+      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "Todos nos Shipean",
         "url": "https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 136588,
       "name": "Todos nos Shipean",
       "url": "https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "C Y Medio",
-        "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "C Y Medio",
-      "url": "https://open.spotify.com/track/4U13UQFjLoB8heUDkGx7lB"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
         "name": "Lun\u00e1tico",
         "url": "https://open.spotify.com/album/02BPiYExX59wG1pR0ZPGHP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 178200,
       "name": "Lun\u00e1tico",
       "url": "https://open.spotify.com/track/39ygkwmco9bC9czuEmOAC0"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 172997,
+      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
         "url": "https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9"
       },
@@ -1263,6 +1283,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "WhyWhyWhy",
+        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159178,
+      "name": "WhyWhyWhy",
+      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "Ni\u00f1a Bien (SLS-007)",
         "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
       },
@@ -1323,18 +1359,18 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "WhyWhyWhy",
-        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
+        "name": "MISI\u00d3N IMPOSIBLE",
+        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 159178,
-      "name": "WhyWhyWhy",
-      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
+      "duration_ms": 166693,
+      "name": "MISI\u00d3N IMPOSIBLE",
+      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1355,42 +1391,6 @@
       "duration_ms": 192649,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "MISI\u00d3N IMPOSIBLE",
-        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "MISI\u00d3N IMPOSIBLE",
-      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        }
-      ],
-      "duration_ms": 172997,
-      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "So Bella",
-        "url": "https://open.spotify.com/album/0tv13YomQup9PY9b7qOGNN"
+        "name": "Bandido Estrella",
+        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
       },
       "artists": [
         {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 142339,
-      "name": "So Bella",
-      "url": "https://open.spotify.com/track/1Qyahi07wLW6g1IMIs1xR4"
+      "duration_ms": 188273,
+      "name": "Bandido Estrella",
+      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
     }
   ],
   "unique_name": "Top M\u00e9xico",

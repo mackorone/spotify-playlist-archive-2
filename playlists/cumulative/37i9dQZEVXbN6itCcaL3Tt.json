@@ -5784,7 +5784,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 135944,
       "name": "Bankroll",
       "url": "https://open.spotify.com/track/0OCL11vsXg7a4Y8QlbzMhJ"
@@ -6710,7 +6710,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 122763,
       "name": "Bez pokoju",
       "url": "https://open.spotify.com/track/2n5ZbIp73chEOuXOJrfkOX"
@@ -13028,7 +13028,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -18824,7 +18824,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 177402,
       "name": "FRISBEE",
       "url": "https://open.spotify.com/track/5EGovmaLtWsZq5ZF9tTDuj"
@@ -48792,7 +48792,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 136838,
       "name": "R\u00f3\u017ce",
       "url": "https://open.spotify.com/track/2iQpHZw3cPGz7C7qMGqN3Y"
@@ -54051,6 +54051,28 @@
     },
     {
       "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -54434,7 +54456,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 194408,
       "name": "Ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb"
@@ -62560,7 +62582,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 140000,
       "name": "ZA KOGO MNIE MASZ?",
       "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"

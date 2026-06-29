@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,686 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,697 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 | 67 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 68 | [Dream On](https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 4:26 |
 | 69 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO) | 5:54 |
-| 70 | [Sweet Home Alabama](https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping](https://open.spotify.com/album/5rtOJsiDDjA9V5306cyTRS) | 4:41 |
+| 70 | [I Was Made For Lovin' You](https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty \(Remastered Version\)](https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL) | 4:31 |
 
 Snapshot ID: `AAAAAIJukwNBRQHeZjrifpCelXeOutwZ`

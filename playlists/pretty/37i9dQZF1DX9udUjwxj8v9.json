@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 154587,
+  "num_followers": 154584,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
+        "name": "Minha Voz",
+        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Pegando Fogo",
+      "url": "https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
         "name": "Chico Buarque & Maria Bethania",
         "url": "https://open.spotify.com/album/2ep81BixWok1HCvSfdmGNJ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 131773,
       "name": "Noite Dos Mascarados - Ao Vivo",
       "url": "https://open.spotify.com/track/3nPiFgKyT8C3D65DH1n4FT"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
-        "name": "Minha Voz",
-        "url": "https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Pegando Fogo",
-      "url": "https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR"
     },
     {
       "added_at": "2025-07-11 03:00:07",

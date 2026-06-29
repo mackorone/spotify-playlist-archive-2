@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,060 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,083 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 8 | [Sweet Dreams](https://open.spotify.com/track/3dzRwqd1L3HqxmViUJt20A) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:53 |
 | 9 | [Ragweed](https://open.spotify.com/track/3MxWqiFH3s8Mll4CljGLfa) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 4:12 |
 | 10 | [February 28, 2016](https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:53 |
-| 11 | [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 |
-| 12 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
+| 11 | [Drunk Driving](https://open.spotify.com/track/3ERb3f5nGNwRcNLNoN3KRg) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:58 |
+| 12 | [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 |
 | 13 | [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 |
 | 14 | [Fuss and Fight](https://open.spotify.com/track/663iLprLvjr0JatL4IVqUH) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 4:00 |
 | 15 | [Circus](https://open.spotify.com/track/4NLqlM8fFk69g63HsuWS8q) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 49 | [Lonesome Dove](https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:47 |
 | 50 | [Gravedigger](https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:00 |
 
-Snapshot ID: `aj3BAAAAAABxboULioEUryDJht9ICwaO`
+Snapshot ID: `aj8SgAAAAAAUqUJTbobAGN9/8UyG8Xt+`

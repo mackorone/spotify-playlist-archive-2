@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAAfm13AIcyO/f7BZOqyriQ2",
+  "snapshot_id": "aj8SgAAAAAC/YzvnOysROvfxkwQWvic3",
   "tracks": [
     {
       "added_at": null,
@@ -567,30 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recebi Meu Salario",
-        "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
-      },
-      "artists": [
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Mr. Bim",
-          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
-        }
-      ],
-      "duration_ms": 147691,
-      "name": "Recebi Meu Salario",
-      "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Veneno do Escorpi\u00e3o V.2",
         "url": "https://open.spotify.com/album/6pm74umdTVp42BxkbDJbu4"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 236330,
       "name": "Maresias",
       "url": "https://open.spotify.com/track/7ucgou5K8ab9WjMzJnvImn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recebi Meu Salario",
+        "url": "https://open.spotify.com/album/5Uj1bMfxDFULotXlrGE77D"
+      },
+      "artists": [
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Mr. Bim",
+          "url": "https://open.spotify.com/artist/0Lhk5DBsN2N0HGUZ0TmUq2"
+        }
+      ],
+      "duration_ms": 147691,
+      "name": "Recebi Meu Salario",
+      "url": "https://open.spotify.com/track/2fwkty1uxIo4Qpu1w1QzAZ"
     },
     {
       "added_at": null,
@@ -682,35 +682,11 @@
         {
           "name": "Pepito",
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        },
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 159428,
-      "name": "Tropa Das On\u00e7a",
-      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 193052,
-      "name": "S\u00f3 Lamento",
-      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
+      "duration_ms": 103111,
+      "name": "Eles Podem Dizer Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4qJtDrIKM3Mk74irjqDih0"
     },
     {
       "added_at": null,
@@ -739,6 +715,26 @@
       "duration_ms": 176250,
       "name": "Se T\u00e1 Solteira - Breaking Beattz Remix",
       "url": "https://open.spotify.com/track/4kbSJZw0uFzBAECxQLE4x9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 193052,
+      "name": "S\u00f3 Lamento",
+      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
     },
     {
       "added_at": null,
@@ -786,11 +782,15 @@
         {
           "name": "Pepito",
           "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         }
       ],
-      "duration_ms": 103111,
-      "name": "Eles Podem Dizer Que N\u00e3o",
-      "url": "https://open.spotify.com/track/4qJtDrIKM3Mk74irjqDih0"
+      "duration_ms": 159428,
+      "name": "Tropa Das On\u00e7a",
+      "url": "https://open.spotify.com/track/0HgptFHLQfgE4auvN31Gr5"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
-      },
-      "artists": [
-        {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sextape: Love Me Two Times",
         "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
       },
@@ -1027,26 +1007,6 @@
       "duration_ms": 120000,
       "name": "Dona On\u00e7a",
       "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,
@@ -1075,6 +1035,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beijo na Boca",
         "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
       },
@@ -1095,6 +1095,30 @@
       "duration_ms": 125307,
       "name": "Beijo na Boca",
       "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Safada Gostosa",
+        "url": "https://open.spotify.com/album/7H5ttQp4QcDWGxIJCEiAOt"
+      },
+      "artists": [
+        {
+          "name": "DJ ABAYOMI",
+          "url": "https://open.spotify.com/artist/2Wf0Gz4zVtlWYHAUsNmXte"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        }
+      ],
+      "duration_ms": 121850,
+      "name": "Safada Gostosa",
+      "url": "https://open.spotify.com/track/30WGmP9ckeTdCBbDz1OaE0"
     },
     {
       "added_at": null,
@@ -1247,26 +1271,6 @@
       "duration_ms": 124984,
       "name": "Unha Curtinha",
       "url": "https://open.spotify.com/track/46aU21eAWMOQN6RpP7kLkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
-        }
-      ],
-      "duration_ms": 134206,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
     }
   ],
   "unique_name": "This Is Mac J\u00falia",

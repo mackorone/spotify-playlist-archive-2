@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 113701,
+  "num_followers": 113710,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABkOFQ90jQLJ3ZVDfyQxBhr",
+  "snapshot_id": "aj8SgAAAAACUaxZaevNEhw38qNsT52pR",
   "tracks": [
     {
       "added_at": null,
@@ -611,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "No Apologies",
+          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
         }
       ],
-      "duration_ms": 211733,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7"
+      "duration_ms": 201653,
+      "name": "Dead Man's Chest",
+      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
     },
     {
       "added_at": null,
@@ -643,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "No Apologies",
-          "url": "https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Dead Man's Chest",
-      "url": "https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW"
+      "duration_ms": 211733,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "Dream Run",
-      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 48560,
       "name": "Begin",
       "url": "https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "Dream Run",
+      "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 193770,
-      "name": "Mutiny",
-      "url": "https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9"
+      "duration_ms": 211106,
+      "name": "Gimme a D",
+      "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
     }
   ],
   "unique_name": "This Is Parkway Drive",

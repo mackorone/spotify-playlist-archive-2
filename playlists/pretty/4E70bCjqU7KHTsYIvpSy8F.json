@@ -6,7 +6,7 @@
     "name": "Biggie Cheese",
     "url": "https://open.spotify.com/user/tch._.worthless._.brat"
   },
-  "snapshot_id": "AAAAO5bm/L718hjsKr71c1JcTBgC4l/p",
+  "snapshot_id": "AAAAPPcWRjoJ3GRBkKzDdgnBz7BFPWk0",
   "tracks": [
     {
       "added_at": "2025-03-13 01:03:03",
@@ -1270,6 +1270,22 @@
     },
     {
       "added_at": "2026-06-10 17:50:14",
+      "album": {
+        "name": "Pokedance",
+        "url": "https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd"
+      },
+      "artists": [
+        {
+          "name": "Anya Forger",
+          "url": "https://open.spotify.com/artist/5FYzLgVpScfNAOgOcmRWL2"
+        }
+      ],
+      "duration_ms": 75483,
+      "name": "Pokedance",
+      "url": "https://open.spotify.com/track/4OCrTRAYKTOUIeuCy4fuXJ"
+    },
+    {
+      "added_at": "2026-06-29 02:57:27",
       "album": {
         "name": "Pokedance",
         "url": "https://open.spotify.com/album/6juwrPAxZ0xFi1qVoueJBd"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAAvNCUHyw9Gqz4jkcV1E5s5",
+  "snapshot_id": "aj8SgAAAAAA1zA0WjdFZdaPvEbxI/XZf",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
+        "name": "Plano Perfeito",
+        "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         }
       ],
-      "duration_ms": 208576,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
+      "duration_ms": 191129,
+      "name": "Plano Perfeito",
+      "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
     },
     {
       "added_at": null,
@@ -859,26 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Perfeito",
-        "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
       },
       "artists": [
         {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
         }
       ],
-      "duration_ms": 191129,
-      "name": "Plano Perfeito",
-      "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
+      "duration_ms": 208576,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
     },
     {
       "added_at": null,

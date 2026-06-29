@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
+    },
+    {
+      "album": {
         "name": "Labor Of Love",
         "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
       },

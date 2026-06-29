@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAAuMlNZg8Q4xxEdaJspbwqi",
+  "snapshot_id": "aj8SgAAAAACEhkGrqK2wX5u3sYGKxG7A",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Summer Playlist: Season 1",
         "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 126225,
       "name": "Talkin' Bout (feat. Saweetie)",
       "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pretty Bitch Freestyle",
+        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 129379,
+      "name": "Pretty Bitch Freestyle",
+      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 214536,
       "name": "Move (feat. Saweetie)",
       "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Bitch Freestyle",
-        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 129379,
-      "name": "Pretty Bitch Freestyle",
-      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUAVO HUNCHO",
-        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "GIVE IT TO EM (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,230 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,233 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 37 | [Labels\. \(ft\. Moneybagg Yo, BIA\)](https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [KIKI](https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh) | 2:35 |
 | 38 | [jaded \(feat\. BIA\)](https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [moo](https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat) | 3:07 |
 | 39 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 |
-| 40 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
-| 41 | [a woman is a god \(BIA Remix\)](https://open.spotify.com/track/2hHaYh7P2cbuvuNBZK6brg) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [a woman is a god \(BIA Remix\)](https://open.spotify.com/album/6H3o2TGF69uezBCpFzcooK) | 2:58 |
+| 40 | [a woman is a god \(BIA Remix\)](https://open.spotify.com/track/2hHaYh7P2cbuvuNBZK6brg) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [a woman is a god \(BIA Remix\)](https://open.spotify.com/album/6H3o2TGF69uezBCpFzcooK) | 2:58 |
+| 41 | [HARD WAY \(feat\. Becky G\)](https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:21 |
 | 42 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
 | 43 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
 | 44 | [back it up](https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 2:17 |
-| 45 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
-| 46 | [Vamos](https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Distrito Federal](https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt) | 2:52 |
+| 45 | [Vamos](https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Distrito Federal](https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt) | 2:52 |
+| 46 | [FALLBACK](https://open.spotify.com/track/7hnxhq0SI3FWYJtsRnWroM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 2:31 |
 | 47 | [SAME HANDS \(feat\. Lil Durk\)](https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 3:26 |
 | 48 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 49 | [Buy What U Want](https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Buy What U Want](https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h) | 3:47 |
 | 50 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
 
-Snapshot ID: `aj3BAAAAAAAXSmAEH+eUF9BU+s5hdj5+`
+Snapshot ID: `aj8SgAAAAADvu21d30cy9VToinHcTEwc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This is Carolina Ross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,966 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,964 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 45 | [Menos Mal Que Me Querías](https://open.spotify.com/track/16faE40K81K0I9WvK5GAbc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/5YMd1AtLDukRoXaGmhGHjk) | 2:37 |
 | 46 | [Para No Pensar En Ti](https://open.spotify.com/track/1cOetj4g4wbYZu6wSe2bJK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:29 |
 | 47 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
-| 48 | [Pena Negra](https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Pena Negra](https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U) | 3:00 |
-| 49 | [Perro Culazo](https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puro Chanela](https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G) | 2:52 |
+| 48 | [Perro Culazo](https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Puro Chanela](https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G) | 2:52 |
+| 49 | [Pena Negra](https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Pena Negra](https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U) | 3:00 |
 | 50 | [Coleccionando Corazones](https://open.spotify.com/track/1VscAOiu0sBu2pr1Sw5i5Y) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/3XWYL4mP1CtFAiX5EwXxJL) | 2:35 |
 
-Snapshot ID: `aj3BAAAAAAChoKO4cLUbNTdtSjYiHXKf`
+Snapshot ID: `aj8SgAAAAAAVmW/0CFEmRAq0uR0WZNiz`

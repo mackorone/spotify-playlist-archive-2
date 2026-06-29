@@ -4,7 +4,7 @@
 
 > This is Lia Kohl\. The essential tracks, all in one playlist.
 
-92 songs - 6 hr 4 min
+93 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Home, Portland](https://open.spotify.com/track/63Lk95iGnAj650GzFLpxL3) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Steve Rosborough](https://open.spotify.com/artist/5W75o99frVpwQHuZkrGFK5) | [Various Small Whistles and a Song](https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk) | 1:00 | 2026-03-27 | 2026-06-28 |
 | [I Forget How To Remember My Dreams](https://open.spotify.com/track/7FaEjzCuO5f5a7HNWUYsNq) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [When the Distance is Blue](https://open.spotify.com/album/4ufirvAH08AI9kQaeMt0aR) | 6:07 | 2026-03-27 | 2026-06-13 |
 | [I Forget How To Remember My Dreams \(ft\. Lia Kohl\)](https://open.spotify.com/track/6nD3PR4C7MwktelphQI8AD) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [When the Distance is Blue](https://open.spotify.com/album/0YCz0QWFzM0bgpEyjJTsTn) | 6:07 | 2026-05-23 |  |
-| [Ice Cream Truck, Tornado Siren](https://open.spotify.com/track/2bYRcPeNTvUgapnBD9z5An) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 5:23 | 2026-03-27 |  |
+| [Ice Cream Truck, Tornado Siren](https://open.spotify.com/track/2bYRcPeNTvUgapnBD9z5An) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 5:23 | 2026-03-27 | 2026-06-29 |
 | [Ignition, Sneakers](https://open.spotify.com/track/5fq1yRS0J3pZp2mNfY0Pq0) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 4:49 | 2026-03-27 |  |
 | [in a specific room](https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Ceiling Reposes](https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz) | 4:28 | 2026-03-27 |  |
 | [In the taxi](https://open.spotify.com/track/2EVdsYRs43sr6Y0ohqQyqH) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [In Transit](https://open.spotify.com/album/1kIPPJHupfJboNly1npS7a) | 5:03 | 2026-05-24 | 2026-06-07 |
@@ -52,6 +52,7 @@
 | [It's Impossible Not to Wonder Why](https://open.spotify.com/track/7HB3LBNipi4w9NFP3q4HKs) | [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [No One Notices the Fly](https://open.spotify.com/album/794bh1FbfMmqSj0kUXKg0i) | 3:06 | 2026-03-27 |  |
 | [It's lily season](https://open.spotify.com/track/5r40hmtw9mfP70543u7euP) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [In Transit](https://open.spotify.com/album/1kIPPJHupfJboNly1npS7a) | 3:52 | 2026-03-27 | 2026-06-22 |
 | [It's lily season](https://open.spotify.com/track/5ushVu2JxvqgOZNbRNDsnM) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [In Transit](https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj) | 3:52 | 2026-06-25 | 2026-06-26 |
+| [Jeane](https://open.spotify.com/track/0Ejd05Q8oDpxATeklhyGhp) | [Nature's Neighbor](https://open.spotify.com/artist/73nzqAz3ln9xPe39dYcx7g), [Redpk](https://open.spotify.com/artist/1K8DRpnkV6QkAKNcaOZUD7), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [The Glass Album](https://open.spotify.com/album/4QMDYnbHfqRi8p4FHvRkYo) | 4:13 | 2026-06-29 |  |
 | [Join Me, Everybody](https://open.spotify.com/track/0XR9ygnw0WFLPVzwSiejsx) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Too Small to be a Plain](https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14) | 6:13 | 2026-03-27 | 2026-05-31 |
 | [Later](https://open.spotify.com/track/2QER9scLlKbXs7FykeWWfb) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [In Transit](https://open.spotify.com/album/1kIPPJHupfJboNly1npS7a) | 3:32 | 2026-03-27 | 2026-06-17 |
 | [Later](https://open.spotify.com/track/6YMSfXwRpWXvNIwgocjf0x) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s), [Zander Raymond](https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw) | [In Transit](https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj) | 3:32 | 2026-06-17 |  |

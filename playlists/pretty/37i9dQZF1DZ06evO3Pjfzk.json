@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 114368,
+  "num_followers": 114429,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADe3SbRG9SEbC4/rtUR+Pdt",
+  "snapshot_id": "aj8SgAAAAADuBgBrpeTtocBNnJ4BjafZ",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Jesus I Know Now",
-        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 213771,
-      "name": "The Jesus I Know Now",
-      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
+      "duration_ms": 196306,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
+        "name": "The Jesus I Know Now",
+        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
       },
       "artists": [
         {
-          "name": "Muscadine Bloodline",
-          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
+      "duration_ms": 213771,
+      "name": "The Jesus I Know Now",
+      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 192733,
-      "name": "King Ranch, King George, King James",
-      "url": "https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq"
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Tougher",
-      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+      "duration_ms": 192733,
+      "name": "King Ranch, King George, King James",
+      "url": "https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq"
     },
     {
       "added_at": null,

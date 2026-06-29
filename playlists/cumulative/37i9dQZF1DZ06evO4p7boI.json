@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 185316,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
@@ -290,6 +290,32 @@
       "duration_ms": 195053,
       "name": "Champion (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
+      },
+      "artists": [
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "Chosen Ones",
+      "url": "https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8"
     },
     {
       "album": {

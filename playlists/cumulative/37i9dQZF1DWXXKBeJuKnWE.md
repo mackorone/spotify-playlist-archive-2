@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Holding Absence
 
-783 songs - 1 day 23 hr 2 min
+784 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 | 2026-01-30 |  |
 | [Echoes](https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Echoes](https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV) | 4:29 | 2025-10-10 | 2026-01-19 |
 | [Ego \(Maniac\)](https://open.spotify.com/track/4FpAkBPkcL2U2jvdnQwUdL) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Shadowlight](https://open.spotify.com/album/68dh3KwPvAvRVpuG0Jx7u4) | 3:37 | 2024-11-08 | 2025-09-12 |
-| [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 | 2026-01-30 |  |
+| [Ego Death](https://open.spotify.com/track/2JJfPd80KcUu4IMD6ZjAkz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Ego Death](https://open.spotify.com/album/4N7E4CwLMu8iaANPPT2Twx) | 2:12 | 2026-01-30 | 2026-06-29 |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 | 2023-10-13 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-05 |  |
 | [Enemy](https://open.spotify.com/track/6uw93PQ8gHcceraxPfCFUp) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Enemy](https://open.spotify.com/album/5kiallXslLnp6hxZRFhDkp) | 2:24 | 2023-07-25 | 2024-01-12 |
@@ -476,6 +476,7 @@
 | [n/A](https://open.spotify.com/track/0lKUFDN6EFpbg5bnUfkkrl) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:20 | 2024-05-23 | 2025-10-24 |
 | [Negative Space](https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Negative Space](https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh) | 3:18 | 2025-05-02 | 2025-10-01 |
 | [Nerve](https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Nerve](https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE) | 5:52 | 2025-10-23 |  |
+| [NETWORK](https://open.spotify.com/track/26bUHwjwSidCORMzLXFf3F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [NETWORK](https://open.spotify.com/album/6gMcQzQGSD2j83ZBIDpA3i) | 2:59 | 2026-06-26 |  |
 | [Neurotic](https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [What I'll Leave Behind](https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b) | 3:06 | 2024-09-20 | 2025-09-12 |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 | 2022-11-10 | 2023-07-26 |
 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 | 2022-11-10 | 2023-03-03 |

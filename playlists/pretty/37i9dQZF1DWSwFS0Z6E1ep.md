@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,046 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,092 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 73 | [Love Potion No.9](https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Love Potion No\. 9](https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q) | 1:52 |
 | 74 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |
 | 75 | [Ain't Got No Home \- Remastered](https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [The King of Rhythm & Blues \(Remastered\)](https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2) | 2:18 |
-| 76 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
-| 77 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
+| 76 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
+| 77 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
 | 78 | [Hey Baby Doll](https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly 50](https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx) | 1:57 |
 | 79 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 |
 | 80 | [Ooby Dooby](https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [At the Rock House](https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm) | 2:10 |

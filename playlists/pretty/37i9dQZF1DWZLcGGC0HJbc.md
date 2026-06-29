@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Voor boslucht, koffie en kalmte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,100 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,100 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 8 | [AWARDS SEASON](https://open.spotify.com/track/0QOs67pGVjeCdUpzato35p) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 9 | [Reaper](https://open.spotify.com/track/2P0qa2otcQdjrnypyueuJl) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 2:39 |
 | 10 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
-| 11 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
-| 12 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
-| 13 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
-| 14 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 11 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
+| 12 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
+| 13 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 14 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
 | 15 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 |
 | 16 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
 | 17 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 42 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
 | 43 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 44 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
-| 45 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
+| 45 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 46 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
-| 47 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
+| 47 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 48 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
 | 49 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 |
-| 50 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
+| 50 | [Stolen Valor](https://open.spotify.com/track/0BTAdEtKSG7qtaeXqBBJTQ) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Stolen Valor / Leash](https://open.spotify.com/album/0bZNmJamdgaE43DEou6ms0) | 2:33 |
 
 Snapshot ID: `AAAAANxBvRt5Kj//Y/GBY7YjMOrOuJzH`

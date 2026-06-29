@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
-  "num_followers": 105300,
+  "num_followers": 105347,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,50 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Deepali Sahay",
+          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
+        }
+      ],
+      "duration_ms": 244647,
+      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "Baby Do Die Do - Title Track",
+        "url": "https://open.spotify.com/album/1cWo4wBkod68TKq8DvrKs2"
+      },
+      "artists": [
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Arjun Iyer",
+          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "Baby Do Die Do - Title Track",
+      "url": "https://open.spotify.com/track/4OkexLok7lP8X9H635fKrQ"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Omkara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CdkDorcfkSaGbnjUsz884"
       },
@@ -339,50 +383,6 @@
       "duration_ms": 350160,
       "name": "Beedi",
       "url": "https://open.spotify.com/track/2YMM8URWpyGIrT0sKBLtD3"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Baby Do Die Do - Title Track",
-        "url": "https://open.spotify.com/album/1cWo4wBkod68TKq8DvrKs2"
-      },
-      "artists": [
-        {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Arjun Iyer",
-          "url": "https://open.spotify.com/artist/5cJfXcI6GTlvjvebwaLEL0"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "Baby Do Die Do - Title Track",
-      "url": "https://open.spotify.com/track/4OkexLok7lP8X9H635fKrQ"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Main Vaapas Aaunga (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JZBsPrhhT1qYdEzZfSsog"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Deepali Sahay",
-          "url": "https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q"
-        }
-      ],
-      "duration_ms": 244647,
-      "name": "Tere Paas Main - Female Version (From \"Main Vaapas Aaunga\")",
-      "url": "https://open.spotify.com/track/50EDY0zGZteoBy3hORXSba"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -443,6 +443,34 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Maskara (From \"Main Vaapas Aaunga\")",
+        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vedang Raina",
+          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
+        },
+        {
+          "name": "Nilanjana Ghosh",
+          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 233741,
+      "name": "Maskara (From \"Main Vaapas Aaunga\")",
+      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
         "url": "https://open.spotify.com/album/0FIAu4n2sm21shBPtooJBe"
       },
@@ -487,34 +515,6 @@
       "duration_ms": 204041,
       "name": "Haan Ke Haan",
       "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Maskara (From \"Main Vaapas Aaunga\")",
-        "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vedang Raina",
-          "url": "https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB"
-        },
-        {
-          "name": "Nilanjana Ghosh",
-          "url": "https://open.spotify.com/artist/3CElBT0gzSRhujhhTm8gRC"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 233741,
-      "name": "Maskara (From \"Main Vaapas Aaunga\")",
-      "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -599,34 +599,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Saathiya",
         "url": "https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p"
       },
@@ -655,6 +627,34 @@
       "duration_ms": 364408,
       "name": "Chupke Se",
       "url": "https://open.spotify.com/track/2F3MfkMgCaUypuEKyvbUzq"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -723,30 +723,6 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
-        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 255584,
-      "name": "Chand Mera Dil - Shreya Ghoshal",
-      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
         "name": "Na Lage Nazar",
         "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
       },
@@ -771,6 +747,30 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Feeka",
         "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 163500,
       "name": "Feeka",
       "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "BIGGER",
-      "url": "https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -827,6 +811,22 @@
       "duration_ms": 153124,
       "name": "Tum Yun Mile Ho",
       "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "BIGGER",
+      "url": "https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1131,6 +1131,42 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Jindua",
+        "url": "https://open.spotify.com/album/4g2sRBNskak775SL1Qidoo"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Rabica Wadhawan",
+          "url": "https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk"
+        },
+        {
+          "name": "Jaidev Kumar",
+          "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
+        },
+        {
+          "name": "Monewala",
+          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
+        },
+        {
+          "name": "Prince Saggu",
+          "url": "https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Jindua",
+      "url": "https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Leta Jaijo Re | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
       },
@@ -1203,42 +1239,6 @@
       "duration_ms": 228631,
       "name": "Churaaiyaan - From \"Call Me Bae\"",
       "url": "https://open.spotify.com/track/2PXTtT8rFOzODvpXwscGdJ"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Jindua",
-        "url": "https://open.spotify.com/album/4g2sRBNskak775SL1Qidoo"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "Rabica Wadhawan",
-          "url": "https://open.spotify.com/artist/7JvI3rxourVbaMmZT382fk"
-        },
-        {
-          "name": "Jaidev Kumar",
-          "url": "https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8"
-        },
-        {
-          "name": "Monewala",
-          "url": "https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe"
-        },
-        {
-          "name": "Prince Saggu",
-          "url": "https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Jindua",
-      "url": "https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Gal Dil Di",
+        "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        }
+      ],
+      "duration_ms": 149662,
+      "name": "Gal Dil Di",
+      "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "Sazaa",
         "url": "https://open.spotify.com/album/0wgbkFpah3MUJwBzGDADnZ"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 193124,
       "name": "Aye Kyon The",
       "url": "https://open.spotify.com/track/7xg20yggdJbh63cJYqwmO8"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Gal Dil Di",
-        "url": "https://open.spotify.com/album/0zDrspwWjcoS5F4qirkutB"
-      },
-      "artists": [
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Daddy Beats",
-          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
-        }
-      ],
-      "duration_ms": 149662,
-      "name": "Gal Dil Di",
-      "url": "https://open.spotify.com/track/2YUcDEr4ahw1bXFFKGWErC"
     },
     {
       "added_at": "2026-06-23 04:05:06",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2026-06-23 04:05:06",
       "album": {
+        "name": "Mohabbat Kisi Aur Se",
+        "url": "https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Mohabbat Kisi Aur Se",
+      "url": "https://open.spotify.com/track/5UDqd1spTXBqEai60mjyGK"
+    },
+    {
+      "added_at": "2026-06-23 04:05:06",
+      "album": {
         "name": "TERMINAL 2",
         "url": "https://open.spotify.com/album/7cHBjPv8ndxvqB3coYrPx5"
       },
@@ -1663,26 +1679,6 @@
       "duration_ms": 192000,
       "name": "HIGHER",
       "url": "https://open.spotify.com/track/33VAfRjgStvGDJAo7mFNsw"
-    },
-    {
-      "added_at": "2026-06-23 04:05:06",
-      "album": {
-        "name": "Grahan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0XT5UGA9FR1wgj8JKJH8VA"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Jolly Mukherjee",
-          "url": "https://open.spotify.com/artist/1k86nyDLibfGQYpps8NKO0"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Yeh Sochta Hai Kya",
-      "url": "https://open.spotify.com/track/2W95748exVmOX72IAjS5eC"
     }
   ],
   "unique_name": "EQUAL India",

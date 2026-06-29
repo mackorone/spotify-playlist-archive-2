@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 458157,
+  "num_followers": 458500,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -629,22 +629,6 @@
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
-      "added_at": "2024-02-02 04:40:19",
-      "album": {
-        "name": "intentos",
-        "url": "https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu"
-      },
-      "artists": [
-        {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
-        }
-      ],
-      "duration_ms": 122331,
-      "name": "quiz\u00e1s en otra vida",
-      "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
-    },
-    {
       "added_at": "2022-08-19 01:51:18",
       "album": {
         "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
@@ -659,6 +643,22 @@
       "duration_ms": 266401,
       "name": "Ain't Nobody - 12\" Mix",
       "url": "https://open.spotify.com/track/6RJp9ofpbFw1HCZ2gW3YrU"
+    },
+    {
+      "added_at": "2024-02-02 04:40:19",
+      "album": {
+        "name": "intentos",
+        "url": "https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 122331,
+      "name": "quiz\u00e1s en otra vida",
+      "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-20 14:57:35",
       "album": {
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 234182,
+      "name": "Euphoric Avenue",
+      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
+    },
+    {
+      "added_at": "2024-07-20 14:57:35",
+      "album": {
         "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
         "url": "https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 157503,
       "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
-    },
-    {
-      "added_at": "2024-07-20 14:57:35",
-      "album": {
-        "name": "Macro",
-        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 234182,
-      "name": "Euphoric Avenue",
-      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Hybridism",
-        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 308813,
-      "name": "Aima",
-      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
-    },
-    {
       "added_at": "2023-10-10 03:31:09",
       "album": {
         "name": "Switched-On",
@@ -915,6 +899,22 @@
       "duration_ms": 182533,
       "name": "Trago Coqueto",
       "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Hybridism",
+        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 308813,
+      "name": "Aima",
+      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
     },
     {
       "added_at": "2023-03-24 19:15:37",
@@ -1029,6 +1029,26 @@
       "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
+      "added_at": "2025-07-07 22:24:21",
+      "album": {
+        "name": "The Way That I Found You",
+        "url": "https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        },
+        {
+          "name": "Val Fritz",
+          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
+        }
+      ],
+      "duration_ms": 170163,
+      "name": "The Way That I Found You",
+      "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
+    },
+    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Clandestino",
@@ -1051,26 +1071,6 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
-    },
-    {
-      "added_at": "2025-07-07 22:24:21",
-      "album": {
-        "name": "The Way That I Found You",
-        "url": "https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        },
-        {
-          "name": "Val Fritz",
-          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
-        }
-      ],
-      "duration_ms": 170163,
-      "name": "The Way That I Found You",
-      "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1229,30 +1229,6 @@
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
-      "added_at": "2023-07-21 19:49:45",
-      "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 260585,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Dubamerica",
@@ -1267,6 +1243,22 @@
       "duration_ms": 336341,
       "name": "Se\u00f1ora Chichera",
       "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     }
   ],
   "unique_name": "Tulum Vibes",

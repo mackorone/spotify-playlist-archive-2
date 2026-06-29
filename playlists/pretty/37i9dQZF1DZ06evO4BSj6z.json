@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADsY0UVvyv70drES1jkKLK2",
+  "snapshot_id": "aj8SgAAAAABfifJBzQ7Sr6fgWgYcVJcS",
   "tracks": [
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruin",
-        "url": "https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg"
+        "name": "Labor Of Love",
+        "url": "https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st"
       },
       "artists": [
         {
@@ -82,7 +82,7 @@
       ],
       "duration_ms": 199200,
       "name": "Ruin",
-      "url": "https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q"
+      "url": "https://open.spotify.com/track/65KLw7hjgDH8rfxkMDIOvT"
     },
     {
       "added_at": null,
@@ -119,6 +119,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 260629,
+      "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
+      "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUCTION",
         "url": "https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU"
       },
@@ -151,34 +179,6 @@
       "duration_ms": 148750,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GENTLEMEN'S CLUB",
-        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 260629,
-      "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
-      "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' in The Way - Spotify Singles",
-        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 192425,
-      "name": "Gettin' in The Way - Spotify Singles",
-      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAN",
         "url": "https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 285986,
       "name": "Under Your Skin",
       "url": "https://open.spotify.com/track/5Qg23yGJ9l20JMCRXhIcCD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' in The Way - Spotify Singles",
+        "url": "https://open.spotify.com/album/4QfiL5vhb5B662mPJRko5d"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 192425,
+      "name": "Gettin' in The Way - Spotify Singles",
+      "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's the Shit",
-        "url": "https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "That's the Shit",
-      "url": "https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAN",
         "url": "https://open.spotify.com/album/46Bvrf0vtjTYqgtA6Cwlde"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 226080,
       "name": "Mr Always Impatient",
       "url": "https://open.spotify.com/track/5nrp9PophCkuzDLAcB6gz5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's the Shit",
+        "url": "https://open.spotify.com/album/2oAse00yR0sZoTByqVvmxn"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "That's the Shit",
+      "url": "https://open.spotify.com/track/4yV3QkskfPf2dRJMBbVTqk"
     },
     {
       "added_at": null,

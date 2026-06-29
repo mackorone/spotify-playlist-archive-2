@@ -4,7 +4,7 @@
 
 > youngs soundss 🥞 Klara Vibe på forsiden
 
-446 songs - 22 hr 55 min
+447 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Don't Go](https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Don't Go](https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD) | 3:09 | 2025-01-30 | 2025-05-02 |
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-23 |
 | [Dopamin](https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Dopamin](https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs) | 2:28 | 2024-06-27 | 2025-08-01 |
-| [Dreams](https://open.spotify.com/track/2GSY5xLQQdgBcbf04nlNm3) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Dreams](https://open.spotify.com/album/6YBO3bVKIZgS2R6AE9eSby) | 2:29 | 2026-06-11 |  |
+| [Dreams](https://open.spotify.com/track/2GSY5xLQQdgBcbf04nlNm3) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Dreams](https://open.spotify.com/album/6YBO3bVKIZgS2R6AE9eSby) | 2:29 | 2026-06-11 | 2026-06-29 |
 | [drikker med mig selv](https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [vågner](https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w) | 2:30 | 2025-02-20 |  |
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2026-02-27 |
 | [Drømmer](https://open.spotify.com/track/0LygyTQgwgub7hlSnxniKJ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 2:32 | 2025-03-20 | 2025-03-22 |
@@ -280,6 +280,7 @@
 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 | 2025-02-20 | 2025-04-21 |
 | [New hair, New me](https://open.spotify.com/track/0jlIGGHaXmdagLgGNsYQRk) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [New hair, New me](https://open.spotify.com/album/0dMh0YdW5h2e0uGLFxLAEs) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 | 2026-03-20 |  |
+| [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 | 2026-06-26 |  |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-09-05 | 2024-10-17 |
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
 | [North](https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [shortcuts](https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371) | 2:52 | 2026-02-05 | 2026-03-03 |

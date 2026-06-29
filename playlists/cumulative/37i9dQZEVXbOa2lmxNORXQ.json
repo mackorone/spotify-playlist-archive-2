@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 244642,
       "name": "50 MIL PIEX",
       "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -8356,7 +8356,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 173154,
       "name": "Destino Final",
       "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
@@ -8750,7 +8750,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -10324,7 +10324,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 189795,
       "name": "EL RITMO QUE NOS UNE - feat. Selecci\u00f3n Colombia",
       "url": "https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp"
@@ -11408,7 +11408,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -17517,6 +17517,32 @@
     },
     {
       "album": {
+        "name": "Las Mu\u00f1equitas (Remix)",
+        "url": "https://open.spotify.com/album/4nbP74VOG2T2FrBtckNIk4"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Las Mu\u00f1equitas - Remix",
+      "url": "https://open.spotify.com/track/4JZq1NlpsXqpqYra43QNEG"
+    },
+    {
+      "album": {
         "name": "Las Piponas (Remix)",
         "url": "https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb"
       },
@@ -18730,7 +18756,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 183000,
       "name": "LUBRIDERM (feat. Kris R.)",
       "url": "https://open.spotify.com/track/5ZdDuDQDcVo4raB1z8dYZo"
@@ -19028,7 +19054,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 161935,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm"
@@ -25882,7 +25908,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 177528,
       "name": "Por Qu\u00e9 la Envidia",
       "url": "https://open.spotify.com/track/433eYQkvCgJKXh1o7LtplV"
@@ -28550,7 +28576,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 155265,
       "name": "SANKA",
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
@@ -33150,7 +33176,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 257333,
       "name": "Ultra Complicado (feat. Sebas) - Remix",
       "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"

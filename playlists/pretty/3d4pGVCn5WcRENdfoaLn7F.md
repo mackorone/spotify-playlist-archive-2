@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 752 likes - 71 songs - 4 hr 10 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 754 likes - 72 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 69 | [Let You Go](https://open.spotify.com/track/1fpxd2RNpar9ICN3JyckXW) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:28 |
 | 70 | [Too Close To The Headlights](https://open.spotify.com/track/1FvzRpndnImsgnoEXxm6ce) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Too Close To The Headlights](https://open.spotify.com/album/01McrIbaakCYoirVvaeqKQ) | 3:47 |
 | 71 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 |
+| 72 | [Está na Hora](https://open.spotify.com/track/6WrxIMkY6e661lGed0vDUo) | [Percivais](https://open.spotify.com/artist/3ctSG1qg916RpEUCXlO1rc) | [Está na Hora](https://open.spotify.com/album/35ysxYJz1e8TAfAwFKXbqq) | 4:18 |
 
-Snapshot ID: `AAADwBaNb6LdGzn5YY+co5STlVUzgZ0s`
+Snapshot ID: `AAADwX9dJROPo/l1N3AO+xmVpMGdhR8c`

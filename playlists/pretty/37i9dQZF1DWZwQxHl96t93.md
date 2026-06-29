@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwQxHl96t93.md) - [plain]
 
 > Global pop tracks that absorbed and reshaped local sounds in the last 20 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,895 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

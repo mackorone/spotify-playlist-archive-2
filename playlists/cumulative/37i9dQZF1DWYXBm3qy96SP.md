@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Beabadoobee
 
-2,125 songs - 5 day 3 hr 45 min
+2,126 songs - 5 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [De Selby \(Part 2\)](https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [De Selby \(Part 2\)](https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM) | 3:47 | 2023-07-20 | 2023-08-21 |
 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 | 2026-01-29 | 2026-04-11 |
 | [Dead End Road](https://open.spotify.com/track/1unTSILv272aGjufNBJjQj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:32 | 2024-07-18 | 2025-01-31 |
-| [Dead Man Walking](https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Dead Man Walking](https://open.spotify.com/album/6ikKNy64oat903y40BvADC) | 3:02 | 2026-06-04 |  |
+| [Dead Man Walking](https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Dead Man Walking](https://open.spotify.com/album/6ikKNy64oat903y40BvADC) | 3:02 | 2026-06-04 | 2026-06-29 |
 | [Dead To Me](https://open.spotify.com/track/5BxC04q61icn0SHinQCBeR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dead To Me](https://open.spotify.com/album/3wwd2L3ATRhjkbmnGUhsJG) | 3:49 | 2023-11-30 | 2023-12-08 |
 | [Dead To The World](https://open.spotify.com/track/1HuR4jf1BdzTIba7raFsPR) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Dead To The World](https://open.spotify.com/album/3SVwQmt2Eu8Hr63m3rT3zn) | 4:13 | 2023-03-23 | 2023-04-21 |
 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-22 | 2025-01-17 |
@@ -707,6 +707,7 @@
 | [Gangstalker](https://open.spotify.com/track/6C0qKH9p82UgaubxH7R9nn) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Gangstalker](https://open.spotify.com/album/2kjHcBgQxQ0bvUlJVOz5g0) | 2:34 | 2026-05-28 | 2026-06-26 |
 | [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-06-06 | 2024-06-21 |
 | [gauche](https://open.spotify.com/track/1BQpylIOzyQqlQb08nhjmF) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [gauche](https://open.spotify.com/album/6ymHFX28InwLHNnEgY7EGh) | 2:56 | 2023-10-19 | 2023-10-27 |
+| [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-26 |  |
 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 | 2024-02-01 | 2024-02-09 |
 | [Get Down](https://open.spotify.com/track/1MLmbcfBbPVAaCgga9UceV) | [Mando Diao](https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND) | [Get Down](https://open.spotify.com/album/3uwx1wJtNgNNIeu7mzdU3r) | 3:36 | 2023-11-09 | 2023-12-01 |
 | [Get Free](https://open.spotify.com/track/0agVVzbyorgegkwR8lVvMN) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Get Free](https://open.spotify.com/album/5xFCERL28FPqxpbyqbSHwz) | 1:33 | 2023-10-26 | 2023-11-10 |

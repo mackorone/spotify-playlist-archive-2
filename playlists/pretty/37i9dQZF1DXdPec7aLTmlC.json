@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6334163,
+  "num_followers": 6333956,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 342612,
       "name": "Jerusalema (feat. Nomcebo Zikode)",
       "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+      },
+      "artists": [
+        {
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
+        {
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Way Back Home (feat. Conor Maynard) [Sam Feldt Edit]",
         "url": "https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 192452,
       "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Edit",
       "url": "https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Iko Iko (My Bestie)",
-        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
-      },
-      "artists": [
-        {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
-        },
-        {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Iko Iko (My Bestie)",
-      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Jalebi Baby (Tesher x Jason Derulo)",
+        "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 169154,
+      "name": "Jalebi Baby (Tesher x Jason Derulo)",
+      "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Summer Of Love",
         "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Jalebi Baby (Tesher x Jason Derulo)",
-        "url": "https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd"
-      },
-      "artists": [
-        {
-          "name": "Tesher",
-          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 169154,
-      "name": "Jalebi Baby (Tesher x Jason Derulo)",
-      "url": "https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Tick Tock (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 178373,
       "name": "Tick Tock (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 158899,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/57BhVBJbVPfIbwLANO5fSe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 158899,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/0mjAU3yKR1QnXnHtjGJqTM"
     },
     {
       "added_at": "2024-06-13 22:00:00",

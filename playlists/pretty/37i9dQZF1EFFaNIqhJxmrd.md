@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 62 | [Pressure](https://open.spotify.com/track/4qDekoPFfXrRIH1PIsYWyE) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Pressure](https://open.spotify.com/album/6ipET7sXel899YvB1PZHqZ) | 2:57 |
 | 63 | [Better](https://open.spotify.com/track/3L3zoAIlgI3G0mKbDjppf0) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Better](https://open.spotify.com/album/4QGeDA46o8dtZFbzytt0FE) | 3:24 |
 | 64 | [Dark Waters \(feat\. HOLT\)](https://open.spotify.com/track/2j4bCIxx7IReA1d1gGw4hF) | [Axel Johansson](https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Dark Waters \(feat\. HOLT\)](https://open.spotify.com/album/03dBnxknCp96kyY1rMavoV) | 2:32 |
-| 65 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 |
-| 66 | [Regn över Zinken](https://open.spotify.com/track/6snN3n9UpZrQlvJfKHXgfD) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 4:04 |
+| 65 | [Regn över Zinken](https://open.spotify.com/track/6snN3n9UpZrQlvJfKHXgfD) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 4:04 |
+| 66 | [Come Back](https://open.spotify.com/track/6TUzJcKYHYiOrDeZJAzrhk) | [Heidi Musum](https://open.spotify.com/artist/1Qa6Sji9xtimBJOkZ2CgmL) | [Come Back](https://open.spotify.com/album/5rGM8WIGIYcJoqcGjVZ3LY) | 3:29 |
 | 67 | [Now That I Found You](https://open.spotify.com/track/1HqlMQsDtVUUJnf24eZLRC) | [MARI](https://open.spotify.com/artist/6Qda4oVRMWJl7Ri8ZTCgfq) | [Now That I Found You](https://open.spotify.com/album/5MJwGNYvUTFfCNkL2ZPEtb) | 3:09 |
 | 68 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/04yovA3Awq1PhEuSRgPXFi) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:44 |
 | 69 | [Rathana](https://open.spotify.com/track/4sdQxjTvfxY9KkvQDAcDYt) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Halva vägen fri](https://open.spotify.com/album/1dHZzTTbt6vpGRej48y8BL) | 3:40 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 116 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 117 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AcVX5gAAAAChtTCgh5v91DJ3ZXcUQKlf`
+Snapshot ID: `AcVdhgAAAADCdqDaC3Mn6Xqf8mQ9FKWl`

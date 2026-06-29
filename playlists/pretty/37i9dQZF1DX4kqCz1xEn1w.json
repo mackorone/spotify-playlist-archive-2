@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78584,
+  "num_followers": 78579,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "How Great",
+        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Praise the King",
+      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Calvary",
         "url": "https://open.spotify.com/album/2LFpbMOEZnJDFwNvAboRLg"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 265688,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "How Great",
-        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Praise the King",
-      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+        "name": "Jesus Song (Live)",
+        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
         }
       ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+      "duration_ms": 380713,
+      "name": "Jesus Song - Live",
+      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1243,6 +1247,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 350386,
       "name": "Come Holy Spirit - Live",
       "url": "https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Jesus Song (Live)",
-        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Taylor Gall",
-          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
-        }
-      ],
-      "duration_ms": 380713,
-      "name": "Jesus Song - Live",
-      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Faithful Now",
-        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Faithful Now",
-      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 323384,
       "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
       "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Faithful Now",
+        "url": "https://open.spotify.com/album/17o5VCUDkU1hw7bQWeXaFF"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Faithful Now",
+      "url": "https://open.spotify.com/track/1f4wycX7nuTGPow6UN1Ct6"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 383293,
-      "name": "Exalted Over All - Live",
-      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 383293,
+      "name": "Exalted Over All - Live",
+      "url": "https://open.spotify.com/track/16b3DajNe0LzMGSEV2ZQP6"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 343813,
-      "name": "This We Know - Live",
-      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Savior Of The World",
         "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
       },
@@ -1539,22 +1523,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Yes He Lives",
-        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY"
       },
       "artists": [
         {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
         }
       ],
-      "duration_ms": 285773,
-      "name": "Yes He Lives - Live",
-      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
+      "duration_ms": 343813,
+      "name": "This We Know - Live",
+      "url": "https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1575,6 +1555,26 @@
       "duration_ms": 279266,
       "name": "Thank The Lord",
       "url": "https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Yes He Lives",
+        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "Yes He Lives - Live",
+      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1763,18 +1763,26 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Nothing But The Blood (Live)",
-        "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/2YhG64spQTzW1fh4viu37j"
       },
       "artists": [
         {
-          "name": "Journey Worship Co.",
-          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
+          "name": "The Church Will Sing",
+          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
+        },
+        {
+          "name": "Josh Farro",
+          "url": "https://open.spotify.com/artist/4WT10NZoQlPGzXc74kvLZQ"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 305454,
-      "name": "Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
+      "duration_ms": 399622,
+      "name": "Name Above The Grave",
+      "url": "https://open.spotify.com/track/4HfdA1C25uACbHoHTNBB7M"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1799,26 +1807,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Volume 2",
-        "url": "https://open.spotify.com/album/2YhG64spQTzW1fh4viu37j"
+        "name": "Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
       },
       "artists": [
         {
-          "name": "The Church Will Sing",
-          "url": "https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige"
-        },
-        {
-          "name": "Josh Farro",
-          "url": "https://open.spotify.com/artist/4WT10NZoQlPGzXc74kvLZQ"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Journey Worship Co.",
+          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
         }
       ],
-      "duration_ms": 399622,
-      "name": "Name Above The Grave",
-      "url": "https://open.spotify.com/track/4HfdA1C25uACbHoHTNBB7M"
+      "duration_ms": 305454,
+      "name": "Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "It is Finished (Acoustic)",
-        "url": "https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "It is Finished - Acoustic",
-      "url": "https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Kingdom Come (Live)",
         "url": "https://open.spotify.com/album/4i91anP2DihutCCgI2lyhv"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 216962,
       "name": "Kingdom Come (Live)",
       "url": "https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "It is Finished (Acoustic)",
+        "url": "https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "It is Finished - Acoustic",
+      "url": "https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma"
     },
     {
       "added_at": "2026-04-04 06:11:10",

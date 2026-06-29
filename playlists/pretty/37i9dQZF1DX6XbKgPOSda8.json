@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 252555,
+  "num_followers": 252603,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -403,8 +403,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Prometiendo Amor",
-        "url": "https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu"
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 206346,
-      "name": "Vuela Mariposa",
-      "url": "https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2"
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -487,8 +487,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+        "name": "Prometiendo Amor",
+        "url": "https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+      "duration_ms": 206346,
+      "name": "Vuela Mariposa",
+      "url": "https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "Joe Rodriguez Y Su Grupo Latino",
-          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
-        }
-      ],
-      "duration_ms": 199447,
-      "name": "Cumbia de los Pobres",
-      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -1495,22 +1479,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "20 Exitos Originales 20",
-        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Que Nota",
-          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "El Amor de la Nena",
-      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
       },
@@ -1523,6 +1491,38 @@
       "duration_ms": 254883,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "duration_ms": 199447,
+      "name": "Cumbia de los Pobres",
+      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "20 Exitos Originales 20",
+        "url": "https://open.spotify.com/album/4Xgd2qnCo2yu3dQEbMdvXA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Que Nota",
+          "url": "https://open.spotify.com/artist/3mJJNmthWhmdkuyfzYDsGv"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "El Amor de la Nena",
+      "url": "https://open.spotify.com/track/4B0wSQuEJDmpKyYBtkxqxw"
     },
     {
       "added_at": "2024-07-10 22:10:17",

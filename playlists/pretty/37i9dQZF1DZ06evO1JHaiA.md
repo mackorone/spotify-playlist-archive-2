@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,122 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,123 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 11 | [I'm Calling](https://open.spotify.com/track/3RjcNNuyAWYXmrulaD21CF) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Rare Doo Wop, Vol\. 4](https://open.spotify.com/album/5VP0K1yc9SneXKF6KAnZd3) | 2:20 |
 | 12 | [Memories are Here to Stay](https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:17 |
 | 13 | [\(Love Is Like A\) Baseball Game](https://open.spotify.com/track/4Lg5z4lC7u1GPSeYvHPPi6) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:48 |
-| 14 | [Gonna Be Strong](https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:46 |
+| 14 | [Slow Drag](https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:25 |
 | 15 | [When We Get Married](https://open.spotify.com/track/577wJybDQlVQ4qrT8nogLk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:21 |
 | 16 | [Be Thankful for What You Got](https://open.spotify.com/track/2OSzYtChSdgPfWcgsIqBoQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:12 |
 | 17 | [\(So Glad I'm\) Yours](https://open.spotify.com/track/717Mself5i3vyfmsLkIkbC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:47 |
-| 18 | [Slow Drag](https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:25 |
+| 18 | [Gonna Be Strong](https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:46 |
 | 19 | [Hang on in There](https://open.spotify.com/track/1TiOhjk5WfR30VXbDplcdr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:22 |
 | 20 | [A Nice Girl Like You](https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:28 |
 | 21 | [Turn the Hands of Time](https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:34 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 34 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
 | 35 | [Guess Who Loves Me](https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:37 |
 | 36 | [What's Easy for Two Is so Hard for One](https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:17 |
-| 37 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
+| 37 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 |
 | 38 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 |
-| 39 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
-| 40 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
-| 41 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 |
+| 39 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
+| 40 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
+| 41 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 |
 | 42 | [I'm Glad Your're My Girl](https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:45 |
 | 43 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
 | 44 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
 | 45 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 |
 
-Snapshot ID: `aj3BAAAAAAD1qSW40Qr0km5qME7kBplI`
+Snapshot ID: `aj8SgAAAAAC9tI7i4D3bjdZ6BfXv6wlH`

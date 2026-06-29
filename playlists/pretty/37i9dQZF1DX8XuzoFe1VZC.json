@@ -1,6 +1,6 @@
 {
   "description": "Una inyecci\u00f3n de alegr\u00eda para tus ma\u00f1anas \ud83c\udf51",
-  "num_followers": 541728,
+  "num_followers": 541708,
   "original_name": "Buen D\u00eda :)",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-06-25 21:24:00",
       "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
-    },
-    {
-      "added_at": "2026-06-25 21:24:00",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2026-06-25 21:24:00",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
       "added_at": "2026-06-25 21:24:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-25 21:24:00",
       "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "Te hacen falta dos",
-      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
-    },
-    {
-      "added_at": "2026-06-25 21:24:00",
-      "album": {
         "name": "mi refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
+    },
+    {
+      "added_at": "2026-06-25 21:24:00",
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Te hacen falta dos",
+      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
     },
     {
       "added_at": "2026-06-25 21:24:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-06-25 21:24:00",
       "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
+    },
+    {
+      "added_at": "2026-06-25 21:24:00",
+      "album": {
         "name": "SOLEAO",
         "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 207746,
       "name": "SORRY 4 THAT MUCH",
       "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
-    },
-    {
-      "added_at": "2026-06-25 21:24:00",
-      "album": {
-        "name": "amoureux",
-        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "amoureux",
-      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
     },
     {
       "added_at": "2026-06-25 21:24:00",
@@ -1319,26 +1319,18 @@
     {
       "added_at": "2026-06-25 21:24:00",
       "album": {
-        "name": "QUIMERA",
-        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
       },
       "artists": [
         {
           "name": "Maria Becerra",
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "XROSS",
-          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
         }
       ],
-      "duration_ms": 180881,
-      "name": "HASTA QUE ME ENAMORO",
-      "url": "https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW"
+      "duration_ms": 160856,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
     },
     {
       "added_at": "2026-06-25 21:24:00",
@@ -1415,18 +1407,26 @@
     {
       "added_at": "2026-06-25 21:24:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "QUIMERA",
+        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
       "artists": [
         {
           "name": "Maria Becerra",
           "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
         }
       ],
-      "duration_ms": 160856,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN"
+      "duration_ms": 180881,
+      "name": "HASTA QUE ME ENAMORO",
+      "url": "https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW"
     },
     {
       "added_at": "2026-06-25 21:24:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-06-25 21:24:00",
       "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 134586,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
+    },
+    {
+      "added_at": "2026-06-25 21:24:00",
+      "album": {
         "name": "PROVENZA (Sistek Remix)",
         "url": "https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 228200,
       "name": "PROVENZA - Sistek Remix",
       "url": "https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto"
-    },
-    {
-      "added_at": "2026-06-25 21:24:00",
-      "album": {
-        "name": "PALOMINO",
-        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 134586,
-      "name": "PALOMINO",
-      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
     },
     {
       "added_at": "2026-06-25 21:24:00",

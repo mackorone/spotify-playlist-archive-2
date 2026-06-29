@@ -11753,6 +11753,24 @@
     },
     {
       "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+    },
+    {
+      "album": {
         "name": "Good Girls Finish Last",
         "url": "https://open.spotify.com/album/7q4DF1pfa9zlm77xg9uJg1"
       },
@@ -13276,7 +13294,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 183692,
       "name": "hopeless romantic",
       "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"

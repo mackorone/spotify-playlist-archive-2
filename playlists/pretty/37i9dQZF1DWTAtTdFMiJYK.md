@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,874 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,898 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 39 | [TERA PATA](https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [TERA PATA](https://open.spotify.com/album/0k7htvhIMVL4pz8Q8wRt4Z) | 2:46 |
 | 40 | [Aas](https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Aaghaz](https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA) | [Aas](https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV) | 3:10 |
 | 41 | [Bolo Bolo](https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Bolo Bolo](https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD) | 3:57 |
-| 42 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
-| 43 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
+| 42 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
+| 43 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
 | 44 | [Woh](https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Sthiti](https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw), [Shruti Prakash Dash](https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj) | [Woh](https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x) | 3:14 |
 | 45 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
 | 46 | [Paatha Edathila](https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ) | [808Krshna](https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Adesh Krishna](https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK) | [Paatha Edathila](https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya) | 3:12 |

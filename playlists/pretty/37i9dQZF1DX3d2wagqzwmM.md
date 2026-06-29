@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,374 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,449 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 76 | [Luvstruck](https://open.spotify.com/track/0ZxYJrCv0Kq2ONqgFWw5SM) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/1TS5PmnWKa6vr5qBV4dq46) | 2:41 |
 | 77 | [Logical Song](https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [BFOUR](https://open.spotify.com/artist/1si4hfpqtwNJ1Kw6xFpl97) | [Logical Song](https://open.spotify.com/album/570jP3tEVJ2wUuxXMr0vso) | 3:10 |
 | 78 | [No Sleep \- VIVID Remix](https://open.spotify.com/track/7LRwqpDlu44yDlJFuFL4j7) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [No Sleep \(VIVID Remix\)](https://open.spotify.com/album/3BC9NG2WazaS7Dcivjs9rF) | 2:23 |
-| 79 | [I Can See It](https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [I Can See It](https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm) | 2:52 |
-| 80 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
+| 79 | [Synthetic Heart \(feat\. Crooked Bangs\)](https://open.spotify.com/track/2Nst0zL893iIcg4cHiQ0B1) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Synthetic Heart](https://open.spotify.com/album/1q0lGZ0rl34hR3vEMOZWcx) | 3:22 |
+| 80 | [I Can See It](https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [I Can See It](https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm) | 2:52 |
 
 Snapshot ID: `AAAAANXowjY7fhxKmS4s3Mnyzy7Y3aIP`

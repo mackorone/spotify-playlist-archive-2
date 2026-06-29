@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,336 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,343 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 75 | [Join Together](https://open.spotify.com/track/6JNVCUi0TUeNFVLvyXFJfN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [20th Century Masters: The Millennium Collection: Best Of The Who](https://open.spotify.com/album/1SCBhdgoRZDnGNyUafyNJC) | 4:24 |
 | 76 | [Sunday Girl](https://open.spotify.com/track/23yv078f5kc08Kj6DMpO0t) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Mike Chapman](https://open.spotify.com/artist/7dXUks6yUrIy5IYKFn45iq) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:05 |
 | 77 | [Do Anything You Want To](https://open.spotify.com/track/2lAbLCbTklfVd0YqeM3hSI) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Black Rose \(Deluxe Edition\)](https://open.spotify.com/album/74J4goYLcEur0WFYZeu4Js) | 3:51 |
-| 78 | [Mystery Song \- Single Edit](https://open.spotify.com/track/4CBl3UE5CkP1b1JhFziGUI) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Blue For You](https://open.spotify.com/album/16MjanaRhBF4JEP9Tn5sho) | 4:01 |
-| 79 | [Brown Sugar \- 2005 Digital Remaster](https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Made In The Shade](https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI) | 3:49 |
+| 78 | [Brown Sugar \- 2005 Digital Remaster](https://open.spotify.com/track/7bdBuquSmLkOR81YMSuRV5) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Made In The Shade](https://open.spotify.com/album/2IP71ETmY8bjS3VYYXcidI) | 3:49 |
+| 79 | [Mystery Song \- Single Edit](https://open.spotify.com/track/4CBl3UE5CkP1b1JhFziGUI) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Blue For You](https://open.spotify.com/album/16MjanaRhBF4JEP9Tn5sho) | 4:01 |
 | 80 | [The Six Teens](https://open.spotify.com/track/46xrHRC88Cg7DquXDvafzw) | [Sweet](https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz) | [Action! The Ultimate Story](https://open.spotify.com/album/1jEk0k3VNGLcezveTCUFfU) | 4:01 |
 | 81 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 |
 | 82 | [Moonshine Sally](https://open.spotify.com/track/68AHScwgPtIxHOZnljOTZ3) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [15 Classic Tracks: Mud](https://open.spotify.com/album/3LLikLI6t1Wh8zXiQ56OvU) | 3:21 |

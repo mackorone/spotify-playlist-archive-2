@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAC74VFnVlgM/WwErDhwy/l4",
+  "snapshot_id": "aj8SgAAAAABTgILZde3tk2Q3Ig/bAHOO",
   "tracks": [
     {
       "added_at": null,
@@ -319,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pardal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
-      },
-      "artists": [
-        {
-          "name": "Drops INA",
-          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Paulo Vicente",
-          "url": "https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO"
-        }
-      ],
-      "duration_ms": 415099,
-      "name": "Pardal - Ao Vivo",
-      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 384876,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pardal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1g1EUJuOcJ0poZGVMQ8Z2G"
+      },
+      "artists": [
+        {
+          "name": "Drops INA",
+          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Paulo Vicente",
+          "url": "https://open.spotify.com/artist/1kKEkCw8fhGuPOWI2JYDFO"
+        }
+      ],
+      "duration_ms": 415099,
+      "name": "Pardal - Ao Vivo",
+      "url": "https://open.spotify.com/track/3S3LO7mpg0vuMH9gfCwoHC"
     },
     {
       "added_at": null,
@@ -763,22 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
+        "name": "Ao Rei",
+        "url": "https://open.spotify.com/album/1IN28y3send51GKeLuJnEs"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         },
         {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 352037,
-      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
+      "duration_ms": 244720,
+      "name": "Eu Cantarei",
+      "url": "https://open.spotify.com/track/71wmdhwrGHhlvqxP3ERD9i"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Rei",
-        "url": "https://open.spotify.com/album/1IN28y3send51GKeLuJnEs"
+        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
       },
       "artists": [
         {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        },
-        {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Eu Cantarei",
-      "url": "https://open.spotify.com/track/71wmdhwrGHhlvqxP3ERD9i"
+      "duration_ms": 352037,
+      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
     },
     {
       "added_at": null,

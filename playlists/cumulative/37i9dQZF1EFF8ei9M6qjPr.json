@@ -2784,10 +2784,28 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 146759,
       "name": "Loverman",
       "url": "https://open.spotify.com/track/28a3nxyz0TcqhH05HoVZQ0"
+    },
+    {
+      "album": {
+        "name": "The Go-Jo Variety Show",
+        "url": "https://open.spotify.com/album/6ZpHwjt6bs5h8RJCvP2ATL"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146759,
+      "name": "Loverman",
+      "url": "https://open.spotify.com/track/3pJfgDK2R33leJbEJgcmLS"
     },
     {
       "album": {
@@ -3736,6 +3754,24 @@
       "duration_ms": 208106,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2Tb9VdP35jbF4GJmC869uu"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160468,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
     },
     {
       "album": {

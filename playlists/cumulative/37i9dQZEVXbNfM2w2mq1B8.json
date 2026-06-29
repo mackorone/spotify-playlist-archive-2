@@ -12587,6 +12587,28 @@
     },
     {
       "album": {
+        "name": "KRUV I SOS",
+        "url": "https://open.spotify.com/album/1An80XHzcu4NOV6FsTEiuI"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "FILMA MI",
+      "url": "https://open.spotify.com/track/5GTVdt5L5Krjsghnm9D2D9"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -19929,6 +19951,28 @@
     },
     {
       "album": {
+        "name": "KRUV I SOS",
+        "url": "https://open.spotify.com/album/1An80XHzcu4NOV6FsTEiuI"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Garjoka",
+          "url": "https://open.spotify.com/artist/2HB7K5UdSuYXmdxsPkK8Tm"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "KVARTALA",
+      "url": "https://open.spotify.com/track/1eiLhg7YvZWZhSU0a1E4XP"
+    },
+    {
+      "album": {
         "name": "\u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435",
         "url": "https://open.spotify.com/album/5P3xJCz47lWC68NCERYADj"
       },
@@ -23296,7 +23340,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 198000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
@@ -24466,7 +24510,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -24842,7 +24886,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 265405,
       "name": "MUZIKALNATA KAZARMA",
       "url": "https://open.spotify.com/track/26vinvuUSZ6QQDqbYSLVcz"
@@ -25476,7 +25520,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/4apCbBmGlsVy3VM2EeN2t6"
@@ -25534,7 +25578,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -29340,6 +29384,32 @@
       "duration_ms": 168034,
       "name": "POUKA",
       "url": "https://open.spotify.com/track/1ZwDrKCIpDk3yWHno9dykB"
+    },
+    {
+      "album": {
+        "name": "KRUV I SOS",
+        "url": "https://open.spotify.com/album/1An80XHzcu4NOV6FsTEiuI"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Emil TRF",
+          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
+        },
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/0hagtXEv3AXDszIgoWytMi"
     },
     {
       "album": {
@@ -43632,7 +43702,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -43990,7 +44060,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 205102,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL"
@@ -44778,7 +44848,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 171219,
       "name": "\u0417\u0430\u0432\u044a\u0440\u0442\u0438 \u0413\u043e",
       "url": "https://open.spotify.com/track/0ab61cb0WJ0FUITu81Is4g"
@@ -48826,7 +48896,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 200000,
       "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/0HhOMHYqSbjz9SO2mnYyMS"
@@ -48906,6 +48976,24 @@
       "duration_ms": 203982,
       "name": "\u0420\u043e\u0434\u0435\u043d\u0430 \u0442\u0430\u043a\u0430\u0432\u0430",
       "url": "https://open.spotify.com/track/4ec0NkFmxhJfEUQKj4WXNU"
+    },
+    {
+      "album": {
+        "name": "\u0420\u043e\u0437\u043e\u0432\u0438\u0442\u0435 \u043e\u0447\u0438\u043b\u0430",
+        "url": "https://open.spotify.com/album/6lQmr1mm0mvLMjuLG2ghNL"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "\u0420\u043e\u0437\u043e\u0432\u0438\u0442\u0435 \u043e\u0447\u0438\u043b\u0430",
+      "url": "https://open.spotify.com/track/4rTcYzlAsuNwzbd1NnwK4w"
     },
     {
       "album": {
@@ -50228,7 +50316,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 230123,
       "name": "\u0425\u043e\u0442\u0435\u043b",
       "url": "https://open.spotify.com/track/0JLwDgYbf88hOMIf3S0kqv"

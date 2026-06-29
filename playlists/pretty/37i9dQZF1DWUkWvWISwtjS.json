@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 430581,
+  "num_followers": 430509,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -259,8 +259,8 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
+        "name": "Realidade (Ao Vivo Em Manaus)",
+        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 173152,
-      "name": "Sil\u00eancio - Ao Vivo",
-      "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
+      "duration_ms": 171626,
+      "name": "Perto de Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/0cSIHvOAL4LqBpZnib5Ne5"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -339,8 +339,8 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Realidade (Ao Vivo Em Manaus)",
-        "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
+        "name": "Mar\u00edlia Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qy6yZjgoZ2cGGk9joy8E4"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Perto de Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/0cSIHvOAL4LqBpZnib5Ne5"
+      "duration_ms": 173152,
+      "name": "Sil\u00eancio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0snqnBbzkmkHPEdkUIdxIu"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 190619,
-      "name": "Duvido Voc\u00ea N\u00e3o Tomar Uma - Ao Vivo",
-      "url": "https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Sigilo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 165366,
       "name": "Sigilo - Ao Vivo",
       "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 190619,
+      "name": "Duvido Voc\u00ea N\u00e3o Tomar Uma - Ao Vivo",
+      "url": "https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Amoreco",
+        "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 151262,
+      "name": "Amoreco",
+      "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Amoreco",
-        "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "Amoreco",
-      "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Do Jeito que N\u00f3is Gosta 2",
-        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
+        "name": "Em Sintonia (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
       "artists": [
         {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 161529,
-      "name": "Se Eu Te Procurar",
-      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+      "duration_ms": 163450,
+      "name": "Rapariga N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Em Sintonia (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
+        "name": "Do Jeito que N\u00f3is Gosta 2",
+        "url": "https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        },
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
         }
       ],
-      "duration_ms": 163450,
-      "name": "Rapariga N\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22"
+      "duration_ms": 161529,
+      "name": "Se Eu Te Procurar",
+      "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Aperte O Play! (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 201669,
+      "name": "Aperte O Play - Ao Vivo",
+      "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Continua, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 147826,
       "name": "Ponto Final - Ao Vivo",
       "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Aperte O Play! (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 201669,
-      "name": "Aperte O Play - Ao Vivo",
-      "url": "https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Sou do Interior (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 176835,
       "name": "Terapinga - Ao Vivo",
       "url": "https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Noites Frustradas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
+      },
+      "artists": [
+        {
+          "name": "Jads & Jadson",
+          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 196662,
+      "name": "Noites Frustradas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1487,22 +1507,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Noites Frustradas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
+        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
       },
       "artists": [
         {
-          "name": "Jads & Jadson",
-          "url": "https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov"
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
         },
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 196662,
-      "name": "Noites Frustradas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+      "duration_ms": 234592,
+      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1527,26 +1547,6 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 234592,
-      "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Alguns Defeitos",
-        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "Alguns Defeitos",
-      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Pronta pra Trair",
         "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 177144,
       "name": "Pronta pra Trair",
       "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Alguns Defeitos",
+        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
     },
     {
       "added_at": "2026-01-16 03:03:24",

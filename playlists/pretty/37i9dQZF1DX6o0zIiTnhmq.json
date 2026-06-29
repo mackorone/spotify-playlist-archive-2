@@ -1,6 +1,6 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 234707,
+  "num_followers": 234764,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
+        "name": "Sita Ram Naam Jaap",
+        "url": "https://open.spotify.com/album/5015Vr53j5FIC2FEDcgdjj"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2oDxi7hbA7bAhHlKTiRl2J"
+        }
+      ],
+      "duration_ms": 3617115,
+      "name": "Sita Ram Naam Jaap",
+      "url": "https://open.spotify.com/track/6uqwnPgwgiN54ccBFNK8UU"
+    },
+    {
+      "added_at": "2026-06-15 04:35:42",
+      "album": {
         "name": "Ram Naam Dhun",
         "url": "https://open.spotify.com/album/0FRE9Itrx229lhTOZjrc3V"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 838750,
       "name": "Ram Naam Dhun",
       "url": "https://open.spotify.com/track/2wxvn5ytbAFgc4aEJdixDs"
-    },
-    {
-      "added_at": "2026-06-15 04:35:42",
-      "album": {
-        "name": "Sita Ram Naam Jaap",
-        "url": "https://open.spotify.com/album/5015Vr53j5FIC2FEDcgdjj"
-      },
-      "artists": [
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2oDxi7hbA7bAhHlKTiRl2J"
-        }
-      ],
-      "duration_ms": 3617115,
-      "name": "Sita Ram Naam Jaap",
-      "url": "https://open.spotify.com/track/6uqwnPgwgiN54ccBFNK8UU"
     },
     {
       "added_at": "2026-06-15 04:35:42",
@@ -783,18 +783,26 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
-        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
-        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
+        "name": "Tvameva Mata Cha Pita Tvameva",
+        "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
       },
       "artists": [
         {
-          "name": "Om Voices",
-          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
+          "name": "Sanatana Bharat",
+          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
+        },
+        {
+          "name": "Upadhyay",
+          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
+        },
+        {
+          "name": "Amrita Chaturvedi",
+          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
         }
       ],
-      "duration_ms": 380437,
-      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
-      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
+      "duration_ms": 806844,
+      "name": "Tvameva Mata Cha Pita Tvameva",
+      "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
     },
     {
       "added_at": "2026-06-15 04:35:42",
@@ -823,26 +831,18 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
-        "name": "Tvameva Mata Cha Pita Tvameva",
-        "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
+        "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+        "url": "https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF"
       },
       "artists": [
         {
-          "name": "Sanatana Bharat",
-          "url": "https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW"
-        },
-        {
-          "name": "Upadhyay",
-          "url": "https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6"
-        },
-        {
-          "name": "Amrita Chaturvedi",
-          "url": "https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze"
+          "name": "Om Voices",
+          "url": "https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK"
         }
       ],
-      "duration_ms": 806844,
-      "name": "Tvameva Mata Cha Pita Tvameva",
-      "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
+      "duration_ms": 380437,
+      "name": "Shiv Tandav Stotra (Hindi Adaptation)",
+      "url": "https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn"
     },
     {
       "added_at": "2026-06-15 04:35:42",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
+        "name": "Namami Shamishan (Rudrashtakam) - at 432 Hz",
+        "url": "https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd"
+      },
+      "artists": [
+        {
+          "name": "Abdhesh Goswami",
+          "url": "https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Namami Shamishan (Rudrashtakam) - at 432 Hz",
+      "url": "https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5"
+    },
+    {
+      "added_at": "2026-06-15 04:35:42",
+      "album": {
         "name": "Om Namoh Hanumate Rudravataraya Mantra",
         "url": "https://open.spotify.com/album/5mohdfYe1g23futO6cTwra"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 305454,
       "name": "Om Namoh Hanumate Rudravataraya Mantra",
       "url": "https://open.spotify.com/track/5oOVQSeZ7Ju2n3Db7mlmkn"
-    },
-    {
-      "added_at": "2026-06-15 04:35:42",
-      "album": {
-        "name": "Namami Shamishan (Rudrashtakam) - at 432 Hz",
-        "url": "https://open.spotify.com/album/138BGFqBjODTBthMLxLzjd"
-      },
-      "artists": [
-        {
-          "name": "Abdhesh Goswami",
-          "url": "https://open.spotify.com/artist/7rZPDmbzGNoO9N0PJvimgh"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Namami Shamishan (Rudrashtakam) - at 432 Hz",
-      "url": "https://open.spotify.com/track/1dU4ZqrFn9yQUV3lPIAPj5"
     },
     {
       "added_at": "2026-06-15 04:35:42",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
-        "name": "Vishnu Mantra (Om Vishnave Namah 108 Time)",
-        "url": "https://open.spotify.com/album/22JKOBpVrTWDkie5mWsxBs"
-      },
-      "artists": [
-        {
-          "name": "Suresh Wadkar",
-          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
-        },
-        {
-          "name": "Sanjayraj Gaurinandan",
-          "url": "https://open.spotify.com/artist/364SUutxNBI1jqUp4DBqZB"
-        }
-      ],
-      "duration_ms": 765000,
-      "name": "Vishnu Mantra (Om Vishnave Namah 108 Time)",
-      "url": "https://open.spotify.com/track/35ZpbFnsQEvc2JU3HJ1Dly"
-    },
-    {
-      "added_at": "2026-06-15 04:35:42",
-      "album": {
         "name": "Karpur Gauram Chanting 108 Times",
         "url": "https://open.spotify.com/album/7urtg5ZTDaNiElnzQ7OgXY"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 893142,
       "name": "Karpur Gauram Chanting 108 Times",
       "url": "https://open.spotify.com/track/3FUBurDzveME3uR9Opji58"
+    },
+    {
+      "added_at": "2026-06-15 04:35:42",
+      "album": {
+        "name": "Vishnu Mantra (Om Vishnave Namah 108 Time)",
+        "url": "https://open.spotify.com/album/22JKOBpVrTWDkie5mWsxBs"
+      },
+      "artists": [
+        {
+          "name": "Suresh Wadkar",
+          "url": "https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe"
+        },
+        {
+          "name": "Sanjayraj Gaurinandan",
+          "url": "https://open.spotify.com/artist/364SUutxNBI1jqUp4DBqZB"
+        }
+      ],
+      "duration_ms": 765000,
+      "name": "Vishnu Mantra (Om Vishnave Namah 108 Time)",
+      "url": "https://open.spotify.com/track/35ZpbFnsQEvc2JU3HJ1Dly"
     },
     {
       "added_at": "2026-06-15 04:35:42",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
-        "name": "Vishnu Gayatri Mantra",
-        "url": "https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps"
-      },
-      "artists": [
-        {
-          "name": "Shagun Sodhi",
-          "url": "https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB"
-        }
-      ],
-      "duration_ms": 323999,
-      "name": "Vishnu Gayatri Mantra",
-      "url": "https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif"
-    },
-    {
-      "added_at": "2026-06-15 04:35:42",
-      "album": {
         "name": "Ancient Chakra Healing Meditation Mantras",
         "url": "https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
+        "name": "Vishnu Gayatri Mantra",
+        "url": "https://open.spotify.com/album/1LmlEbvxq3XUHaz8K6u1Ps"
+      },
+      "artists": [
+        {
+          "name": "Shagun Sodhi",
+          "url": "https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB"
+        }
+      ],
+      "duration_ms": 323999,
+      "name": "Vishnu Gayatri Mantra",
+      "url": "https://open.spotify.com/track/51PK0fvqPAP0FlxSZ8szif"
+    },
+    {
+      "added_at": "2026-06-15 04:35:42",
+      "album": {
         "name": "Om Namah Shivay",
         "url": "https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
-        "name": "Durga",
-        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
+        "name": "O Radhe Radhe - LoFi",
+        "url": "https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P"
       },
       "artists": [
         {
-          "name": "Pandit Jasraj",
-          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+          "name": "Srijita Mitra",
+          "url": "https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb"
         }
       ],
-      "duration_ms": 249230,
-      "name": "Shloka",
-      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
+      "duration_ms": 138000,
+      "name": "O Radhe Radhe - LoFi",
+      "url": "https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19"
     },
     {
       "added_at": "2026-06-15 04:35:42",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-06-15 04:35:42",
       "album": {
-        "name": "O Radhe Radhe - LoFi",
-        "url": "https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P"
-      },
-      "artists": [
-        {
-          "name": "Srijita Mitra",
-          "url": "https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "O Radhe Radhe - LoFi",
-      "url": "https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19"
-    },
-    {
-      "added_at": "2026-06-15 04:35:42",
-      "album": {
         "name": "Ram Naam Chanting",
         "url": "https://open.spotify.com/album/2a3szoALUteejLabQS39M1"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 1081463,
       "name": "Ram Naam Chanting",
       "url": "https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2"
+    },
+    {
+      "added_at": "2026-06-15 04:35:42",
+      "album": {
+        "name": "Durga",
+        "url": "https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg"
+      },
+      "artists": [
+        {
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+        }
+      ],
+      "duration_ms": 249230,
+      "name": "Shloka",
+      "url": "https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS"
     }
   ],
   "unique_name": "Magical Mantras",

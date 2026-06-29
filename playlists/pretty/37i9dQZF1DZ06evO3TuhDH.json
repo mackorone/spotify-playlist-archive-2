@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19481,
+  "num_followers": 19483,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAC71UpiSpbU0DIK7ylLuL3u",
+  "snapshot_id": "aj8SgAAAAABpc3BTcq9xyCKoqvI6eFMY",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "B.I.B.L.E.",
+        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 201398,
+      "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
+      "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALL THAT A$$",
         "url": "https://open.spotify.com/album/5xeFd90zKWinkCA3vKLVAg"
       },
@@ -275,30 +299,6 @@
       "duration_ms": 184252,
       "name": "ALL THAT A$$",
       "url": "https://open.spotify.com/track/2uTKGIYyTDtzl4foXm2qb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.I.B.L.E.",
-        "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201398,
-      "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
-      "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
-      },
-      "artists": [
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 208822,
       "name": "Slide (with Gunna)",
       "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Sleep? (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 119715,
-      "name": "2055 (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 135253,
       "name": "Make My Day (with David Guetta)",
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Sleep? (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 119715,
+      "name": "2055 (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
     },
     {
       "added_at": null,

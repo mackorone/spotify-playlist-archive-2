@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-686 songs - 1 day 13 hr 39 min
+687 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 | 2026-02-25 |  |
 | [Celebration](https://open.spotify.com/track/14CuAx9KIrVXC0O4ac91uH) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [In Trap We Trust, Vol\. 1](https://open.spotify.com/album/4lU2rIbaKMUbwnN4FQj8Hu) | 4:22 | 2024-02-27 | 2025-07-10 |
 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 | 2024-02-27 |  |
-| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 | 2026-06-28 |
+| [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-02-27 |  |
 | [Centuries \- Gazzo Remix](https://open.spotify.com/track/4ZzbcSm6MxnC15BcDqEYyK) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Gazzo](https://open.spotify.com/artist/5st4KKihmnSMLRsxWOs2x3) | [Centuries \(Gazzo Remix\)](https://open.spotify.com/album/4dFub54EO7uoweA7OYoZd7) | 4:19 | 2025-05-29 |  |
 | [Centuries \- Remix](https://open.spotify.com/track/4LutIwQfcpXjVs7mIySYCD) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Jonathan "JR" Rotem](https://open.spotify.com/artist/0td8n3WZG9kptG9UsmYfc9) | [Make America Psycho Again](https://open.spotify.com/album/4vfQ7uk37WT80Ed8JeIdNO) | 3:22 | 2025-05-29 |  |
 | [Change Your Mind \(No Seas Cortes\)](https://open.spotify.com/track/51zZkW3FSCS9N5MjWOyJJU) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 2:59 | 2024-02-27 |  |
@@ -654,6 +654,7 @@
 | [War Paint](https://open.spotify.com/track/7FzMcPwWshq9KvSJCgycHv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:44 | 2024-02-27 |  |
 | [Waste My Time](https://open.spotify.com/track/5P0E8KZB5Yo69j90RgEwo5) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:36 | 2024-08-23 |  |
 | [Wasteland](https://open.spotify.com/track/1ODKNzRaEnhpwBhlHrv348) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 2:53 | 2024-02-27 |  |
+| [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-06-28 |  |
 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 | 2024-02-27 |  |
 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 | 2024-02-27 |  |
 | [We](https://open.spotify.com/track/1SBCIiI483ojCyUIm0wWN7) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Music is Universal: Sing, Dance, Pride!](https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0) | 2:47 | 2024-02-27 | 2025-02-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 177146,
+  "num_followers": 177166,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Canta Trovador",
-        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 222476,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Canta Trovador",
+        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Como Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 180511,
       "name": "Veinticinco Rosas",
       "url": "https://open.spotify.com/track/5ZsKEtkOiiPe5h87OEusdM"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Como Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 2 - Mexico)",
-        "url": "https://open.spotify.com/album/3BiU9Rlr6rLAAUPoaCMt8n"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 225586,
-      "name": "Dos Enamorados",
-      "url": "https://open.spotify.com/track/4PfMg0efe5q1104vAWyRMT"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Castillos en el aire",
         "url": "https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 198106,
       "name": "Castillos en el aire",
       "url": "https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 2 - Mexico)",
+        "url": "https://open.spotify.com/album/3BiU9Rlr6rLAAUPoaCMt8n"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Dos Enamorados",
+      "url": "https://open.spotify.com/track/4PfMg0efe5q1104vAWyRMT"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/6kmo9ICrHMtTWTr6AghTa2"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 135520,
       "name": "Amor En El Aire",
       "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Un Poco M\u00e1s",
-        "url": "https://open.spotify.com/album/54eZ7WGtIsuFSiSSYWykrv"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/3T5SA8XE5zulRr3TVYek0L"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "La Sonora Santanera Y La Inspiraci\u00f3n de Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8"
       },
@@ -2243,8 +2227,24 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "P\u00f3kar De Ases -4 Grandes Favoritos De Argentina",
-        "url": "https://open.spotify.com/album/7laIVs28MIpyeT80M4Nzkz"
+        "name": "Un Poco M\u00e1s",
+        "url": "https://open.spotify.com/album/54eZ7WGtIsuFSiSSYWykrv"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/3T5SA8XE5zulRr3TVYek0L"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
+        "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
       },
       "artists": [
         {
@@ -2252,9 +2252,9 @@
           "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 194040,
-      "name": "Ni\u00f1a Qu\u00e9 Tienen Tus Ojos",
-      "url": "https://open.spotify.com/track/4U4HYzNWCl3PljsIFId8YR"
+      "duration_ms": 192546,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2271,6 +2271,22 @@
       "duration_ms": 131120,
       "name": "Tu Nombre Me Sabe A Yerba - Remasterizado",
       "url": "https://open.spotify.com/track/6IzGkgxvQUxwqlNv15VOeb"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/3ZZ58IiyV1tioHIkvhYAlu"
+      },
+      "artists": [
+        {
+          "name": "Nydia Caro",
+          "url": "https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Por Si el Amor",
+      "url": "https://open.spotify.com/track/6I8M7biJ2PouHIIOnQfK09"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2307,24 +2323,8 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor De",
-        "url": "https://open.spotify.com/album/3ZZ58IiyV1tioHIkvhYAlu"
-      },
-      "artists": [
-        {
-          "name": "Nydia Caro",
-          "url": "https://open.spotify.com/artist/7GP8u0rf1IMKqhaBvjOgzo"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Por Si el Amor",
-      "url": "https://open.spotify.com/track/6I8M7biJ2PouHIIOnQfK09"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
-        "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
+        "name": "P\u00f3kar De Ases -4 Grandes Favoritos De Argentina",
+        "url": "https://open.spotify.com/album/7laIVs28MIpyeT80M4Nzkz"
       },
       "artists": [
         {
@@ -2332,9 +2332,9 @@
           "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m"
+      "duration_ms": 194040,
+      "name": "Ni\u00f1a Qu\u00e9 Tienen Tus Ojos",
+      "url": "https://open.spotify.com/track/4U4HYzNWCl3PljsIFId8YR"
     },
     {
       "added_at": "2024-07-11 01:42:53",

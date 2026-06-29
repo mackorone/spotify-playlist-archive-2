@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 377584,
+  "num_followers": 377587,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAC13cM3wTriyPlaK98kxc/u",
+  "snapshot_id": "aj8SgAAAAAAXyvFFzpN3A9dc5GTgOgbk",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 289026,
-      "name": "Layla - Acoustic Live",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slowhand 35th Anniversary",
         "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 221640,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 289026,
+      "name": "Layla - Acoustic Live",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 186534,
-      "name": "They Call Me The Breeze",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 301266,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 186534,
+      "name": "They Call Me The Breeze",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "It's in the Way That You Use It",
-      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "August",
+        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic Live",
-      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
+      "duration_ms": 251453,
+      "name": "It's in the Way That You Use It",
+      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 219960,
       "name": "Key to the Highway",
       "url": "https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 390893,
+      "name": "Running on Faith - Acoustic Live",
+      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 327760,
-      "name": "Lonely Stranger - Acoustic Live",
-      "url": "https://open.spotify.com/track/09wkXiaJ2KJYX9M3SmToF8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 442133,
-      "name": "River of Tears",
-      "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
+      "duration_ms": 327760,
+      "name": "Lonely Stranger - Acoustic Live",
+      "url": "https://open.spotify.com/track/09wkXiaJ2KJYX9M3SmToF8"
     },
     {
       "added_at": null,
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 208693,
-      "name": "San Francisco Bay Blues - Acoustic Live",
-      "url": "https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1"
+      "duration_ms": 442133,
+      "name": "River of Tears",
+      "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 283280,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "San Francisco Bay Blues - Acoustic Live",
+      "url": "https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1"
     },
     {
       "added_at": null,

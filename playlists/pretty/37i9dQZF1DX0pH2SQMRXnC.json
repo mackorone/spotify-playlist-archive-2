@@ -1,6 +1,6 @@
 {
   "description": "Takeover by Defqon.1! Stay strong warriors \ud83d\udcaa See you next year! ",
-  "num_followers": 1550049,
+  "num_followers": 1550232,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3iWdy72nCyap8AzWfOmQfr"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6c5w5NWAAcxTXUXTRvhBsT"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
         "name": "Don't Stop Believin' (Felix Harrer Remix)",
         "url": "https://open.spotify.com/album/5hvmoQj2imO3EQBwVaK3gN"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 207061,
       "name": "Don't Stop Believin' - Felix Harrer Remix",
       "url": "https://open.spotify.com/track/1RQAXREowlYVIu5T7t5cQb"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3iWdy72nCyap8AzWfOmQfr"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6c5w5NWAAcxTXUXTRvhBsT"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
+      },
+      "artists": [
+        {
+          "name": "Frequencerz",
+          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
         "name": "STOP CRYING",
         "url": "https://open.spotify.com/album/3qws9ZZxPn9JAP1yfBWm0H"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 173070,
       "name": "OG Raver",
       "url": "https://open.spotify.com/track/022updRO7JlJd8CczURSqU"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5iAXhh4YQQHZ4CKPvqye36"
-      },
-      "artists": [
-        {
-          "name": "Frequencerz",
-          "url": "https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7fF76vvWwpgilCXwIqA19p"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "Can Can",
-        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
-      },
-      "artists": [
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 128812,
-      "name": "Can Can",
-      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
         "name": "FTS (Sub Zero Project Rework)",
         "url": "https://open.spotify.com/album/5BlmCpKeXPlP15bP0GY2bg"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 203862,
       "name": "FTS - Sub Zero Project Rework",
       "url": "https://open.spotify.com/track/2L5VhTmqlsGTt9daVXxbWC"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
+        "name": "Can Can",
+        "url": "https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi"
+      },
+      "artists": [
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 128812,
+      "name": "Can Can",
+      "url": "https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "Filthy Rave",
-        "url": "https://open.spotify.com/album/7hxKX4sSm6q1QMxgKzqr7s"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 181503,
-      "name": "Filthy Rave",
-      "url": "https://open.spotify.com/track/4JaRupx6zn14ogukDrpDBT"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
         "name": "Miss You (Remix)",
         "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 171034,
       "name": "Miss You - Remix",
       "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
+        "name": "Filthy Rave",
+        "url": "https://open.spotify.com/album/7hxKX4sSm6q1QMxgKzqr7s"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 181503,
+      "name": "Filthy Rave",
+      "url": "https://open.spotify.com/track/4JaRupx6zn14ogukDrpDBT"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "The Next Dimension (APEX 2026 OST)",
-        "url": "https://open.spotify.com/album/5bduYz1o0snS4jo4ZvoPOZ"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 230355,
-      "name": "The Next Dimension - APEX 2026 OST",
-      "url": "https://open.spotify.com/track/4GtxTKlRiO3Hr7t3bWpdtT"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
         "name": "Million Dreams",
         "url": "https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z"
       },
@@ -1719,6 +1703,38 @@
       "duration_ms": 187355,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
+        "name": "The Next Dimension (APEX 2026 OST)",
+        "url": "https://open.spotify.com/album/5bduYz1o0snS4jo4ZvoPOZ"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 230355,
+      "name": "The Next Dimension - APEX 2026 OST",
+      "url": "https://open.spotify.com/track/4GtxTKlRiO3Hr7t3bWpdtT"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
+        "name": "Dia De Los Muertos",
+        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "duration_ms": 215590,
+      "name": "Dia De Los Muertos",
+      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1743,18 +1759,22 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "Dia De Los Muertos",
-        "url": "https://open.spotify.com/album/5VvNMLeMWPdGKhDj8fr5VY"
+        "name": "Captain Jack (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo"
       },
       "artists": [
         {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        },
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
         }
       ],
-      "duration_ms": 215590,
-      "name": "Dia De Los Muertos",
-      "url": "https://open.spotify.com/track/50nwmMcvFwPpbTU85WZC7h"
+      "duration_ms": 184596,
+      "name": "Captain Jack (Hardstyle Remix)",
+      "url": "https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1775,26 +1795,6 @@
       "duration_ms": 158181,
       "name": "Land Of Tomorrow",
       "url": "https://open.spotify.com/track/182zhPsYh5NbaOeernQ3jV"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "Captain Jack (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/5MKishj8Fi7UJDDr2EucMo"
-      },
-      "artists": [
-        {
-          "name": "Captain Jack",
-          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
-        },
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        }
-      ],
-      "duration_ms": 184596,
-      "name": "Captain Jack (Hardstyle Remix)",
-      "url": "https://open.spotify.com/track/5ZrZAYgSzp1vU6shfbrbPz"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 191153,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
         "name": "Love Generation",
         "url": "https://open.spotify.com/album/0ctgLGBpK2eLGlg1Fsm2hP"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 163776,
       "name": "Love Generation",
       "url": "https://open.spotify.com/track/3kxH84wDmwYJQQIs9e6bCN"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0Jtp3OvYVQQtB8sFOZrtRA"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 191153,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/7xQwPes4zbdJNjKqwtshgd"
     },
     {
       "added_at": "2026-06-20 16:52:37",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2026-06-20 16:52:37",
       "album": {
-        "name": "DON'T FKN NEED U",
-        "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Stratisphere",
-          "url": "https://open.spotify.com/artist/1LfbVm2aPZrE45sBGO34MO"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "DON'T FKN NEED U",
-      "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
-    },
-    {
-      "added_at": "2026-06-20 16:52:37",
-      "album": {
         "name": "It Must Have Been Love (feat. Charla K)",
         "url": "https://open.spotify.com/album/2L5EXh101zt0yB67o2SYWy"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 176000,
       "name": "It Must Have Been Love (feat. Charla K)",
       "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
+    },
+    {
+      "added_at": "2026-06-20 16:52:37",
+      "album": {
+        "name": "DON'T FKN NEED U",
+        "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Stratisphere",
+          "url": "https://open.spotify.com/artist/1LfbVm2aPZrE45sBGO34MO"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "DON'T FKN NEED U",
+      "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
     },
     {
       "added_at": "2026-06-20 16:52:37",

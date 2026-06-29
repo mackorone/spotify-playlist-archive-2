@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
-  "num_followers": 34045,
+  "num_followers": 34051,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-25 21:00:49",
       "album": {
-        "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
-        "url": "https://open.spotify.com/album/0eW2EEjQ6cJmaHVtN51SB2"
-      },
-      "artists": [
-        {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
-      "url": "https://open.spotify.com/track/2PMkkZI0FjriSzdqHxuDAR"
-    },
-    {
-      "added_at": "2026-06-25 21:00:49",
-      "album": {
         "name": "African Coast",
         "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
@@ -695,6 +679,38 @@
       "duration_ms": 182638,
       "name": "African Coast",
       "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
+    },
+    {
+      "added_at": "2026-06-25 21:00:49",
+      "album": {
+        "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+        "url": "https://open.spotify.com/album/0eW2EEjQ6cJmaHVtN51SB2"
+      },
+      "artists": [
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "\u05db\u05d7\u05d5\u05dc \u05dc\u05d1\u05df",
+      "url": "https://open.spotify.com/track/2PMkkZI0FjriSzdqHxuDAR"
+    },
+    {
+      "added_at": "2026-06-25 21:00:49",
+      "album": {
+        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
+        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "duration_ms": 340387,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
     },
     {
       "added_at": "2026-06-25 21:00:49",
@@ -731,22 +747,6 @@
       "duration_ms": 237169,
       "name": "\u05d4\u05ea\u05d9\u05d9\u05d0\u05e9\u05ea\u05d9 \u05de\u05d4\u05d7\u05d5\u05dd",
       "url": "https://open.spotify.com/track/7nMTSGSMOQlAmnPanQqAE5"
-    },
-    {
-      "added_at": "2026-06-25 21:00:49",
-      "album": {
-        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
-        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
-      },
-      "artists": [
-        {
-          "name": "Hila Ruach",
-          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
-        }
-      ],
-      "duration_ms": 340387,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
-      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
     },
     {
       "added_at": "2026-06-25 21:00:49",

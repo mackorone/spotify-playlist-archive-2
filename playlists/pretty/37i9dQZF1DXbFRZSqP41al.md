@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,522,889 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,522,964 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 22 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 |
 | 23 | [Pretty Handsome Awkward](https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:35 |
 | 24 | [Who Will You Follow](https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:55 |
-| 25 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 |
-| 26 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
+| 25 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
+| 26 | [Bottoms Up](https://open.spotify.com/track/0FnugIN4Slm0weQqL8OXEM) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:37 |
 | 27 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 |
 | 28 | [Running In Circles](https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:53 |
 | 29 | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX) | 4:23 |

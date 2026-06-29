@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1474441,
+  "num_followers": 1474598,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABYCibJSKw7qpcRgEj5rIgk",
+  "snapshot_id": "aj8SgAAAAACXPyCepeQs8mlUyHBEugpK",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 188238,
       "name": "FourFiveSeconds",
       "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
     },
     {
       "added_at": null,
@@ -339,6 +339,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 158193,
+      "name": "OK (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ye",
         "url": "https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe"
       },
@@ -351,6 +375,22 @@
       "duration_ms": 215320,
       "name": "Violent Crimes",
       "url": "https://open.spotify.com/track/3s7MCdXyWmwjdcWh7GWXas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
       "added_at": null,
@@ -379,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 207000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BULLY - DELUXE",
-        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 158193,
-      "name": "OK (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI SEASON",
-        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 106500,
-      "name": "GEMINI SEASON",
-      "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BULLY - DELUXE",
         "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 137142,
       "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GEMINI SEASON",
+        "url": "https://open.spotify.com/album/7b0IgeQsv81fenJwQ6DNpc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "duration_ms": 106500,
+      "name": "GEMINI SEASON",
+      "url": "https://open.spotify.com/track/46qZ2dq0jsXHtwsLaI9tl1"
     },
     {
       "added_at": null,

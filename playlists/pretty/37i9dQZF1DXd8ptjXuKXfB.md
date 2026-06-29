@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,531 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,543 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 29 | [SHOW ME WHAT YOU GOT](https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [JOJO](https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [SHOW ME WHAT YOU GOT](https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC) | 4:22 |
 | 30 | [Dada](https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Dada](https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN) | 3:40 |
 | 31 | [vrumm](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [vrumm](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 |
-| 32 | [Always be mine](https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Always be mine](https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2) | 2:32 |
-| 33 | [JÓZANOK](https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [VINNER DELUXE](https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni) | 2:14 |
+| 32 | [JÓZANOK](https://open.spotify.com/track/0x6mKqNfslxlNxlkIroTK8) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [VINNER DELUXE](https://open.spotify.com/album/3dj07tLV6pPxW4YGzF21Ni) | 2:14 |
+| 33 | [Always be mine](https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Always be mine](https://open.spotify.com/album/3Y1seqGP7erq5ZL1HqBGJ2) | 2:32 |
 | 34 | [BOSZORKÁNY](https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1) | [SZABADSÁG, SZERELEM](https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq) | 2:51 |
 | 35 | [WAZZUP](https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [WAZZUP](https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp) | 2:38 |
 | 36 | [utema](https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [utema](https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF) | 3:56 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 67 | [STARBOY](https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [STARBOY](https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE) | 2:36 |
 | 68 | [STRESSZ](https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [STRESSZ](https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ) | 2:48 |
 | 69 | [xXx](https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [xXx](https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX) | 3:49 |
-| 70 | [SZAR AZ ÉLET](https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZAR AZ ÉLET](https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc) | 3:11 |
-| 71 | [Passenger Princess](https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Playboy](https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R) | 2:17 |
+| 70 | [Passenger Princess](https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Playboy](https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R) | 2:17 |
+| 71 | [SZAR AZ ÉLET](https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [BALKAN VIP](https://open.spotify.com/artist/4BsLUhw1OJirbGZrIyd1GN), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZAR AZ ÉLET](https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc) | 3:11 |
 | 72 | [Brazil Fánk](https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Felszálló Ág](https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c) | 2:43 |
 | 73 | [Estelente](https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [SZÉTHULLIKAVILÁG](https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8) | 3:17 |
 | 74 | [BOTRÁNY](https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [BOTRÁNY](https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU) | 2:26 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [SZÉTSZEDLEK](https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [SZÉTSZEDLEK](https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae) | 2:31 |
 | 78 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
 | 79 | [SZEPTEMBER VÉGÉN \- STRESSZ](https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZEPTEMBER VÉGÉN \(STRESSZ\)](https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4) | 3:35 |
-| 80 | [BETON.HOF1](https://open.spotify.com/track/4eBj6JtbOR8kQ3Lcx2YKxO) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:42 |
+| 80 | [SeanPaul](https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Goore](https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [SeanPaul](https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK) | 3:57 |
 
 Snapshot ID: `AAAAALIZ1vfWB42eRI/mRYwrD4wxw5Q3`

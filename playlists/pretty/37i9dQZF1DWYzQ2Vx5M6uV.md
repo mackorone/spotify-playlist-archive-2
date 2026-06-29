@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Ysa C
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,806 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,809 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 92 | [Mesera](https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Mesera](https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G) | 2:43 |
 | 93 | [cuLE viaJE](https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0) | [Till High](https://open.spotify.com/artist/1nRwDiTn0eJVP7GYxPD2ie) | [cuLE viaJE](https://open.spotify.com/album/71MHoEjzYbnLcY2DzNvOnA) | 2:38 |
 | 94 | [Cafecito](https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Cafecito](https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh) | 2:43 |
-| 95 | [Coco Loco](https://open.spotify.com/track/5LouRP1pMKrgPuiJJiW75G) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u) | [La Liga Femenina](https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR) | 2:53 |
-| 96 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
+| 95 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
+| 96 | [Coco Loco](https://open.spotify.com/track/5LouRP1pMKrgPuiJJiW75G) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u) | [La Liga Femenina](https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR) | 2:53 |
 | 97 | [Ese Habladito](https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p) | [Ese Habladito](https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru) | 3:12 |
 | 98 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
 | 99 | [Dolares](https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Dolares](https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE) | 2:36 |

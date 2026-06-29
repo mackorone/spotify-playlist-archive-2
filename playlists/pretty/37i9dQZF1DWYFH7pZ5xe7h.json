@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 60355,
+  "num_followers": 60366,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -223,34 +223,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Mahler: Orchestral Songs",
-        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Kent Nagano",
-          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
-      "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/3VHp7AHPIHyGpvMxTzJKGF"
       },
@@ -287,6 +259,54 @@
       "duration_ms": 95493,
       "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": I. Teil. Hymnus. Veni, creator spiritus!",
       "url": "https://open.spotify.com/track/6vtHsZ6rrJvcoUy2tmNpkt"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
+      "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 1324586,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
+      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -359,26 +379,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Mahler: Symphony No. 2",
-        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        }
-      ],
-      "duration_ms": 1324586,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
-      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
         "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
       },
@@ -427,30 +427,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Mahler Symphony No. 5",
-        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Gyeonggi Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
-        },
-        {
-          "name": "Shi-Yeon Sung",
-          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
-        }
-      ],
-      "duration_ms": 761280,
-      "name": "Symphony No. 5 In C Sharp Minor: 1. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)",
-      "url": "https://open.spotify.com/track/6NkqiE2wqfCz0mhjcV0WXj"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
         "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 1352400,
       "name": "Totenfeier",
       "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "duration_ms": 761280,
+      "name": "Symphony No. 5 In C Sharp Minor: 1. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)",
+      "url": "https://open.spotify.com/track/6NkqiE2wqfCz0mhjcV0WXj"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Mahler: Symphony No. 6",
-        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 763373,
-      "name": "Symphony No. 6 in A Minor: III. Scherzo. Wuchtig - Live at Philharmonie, Berlin, 2004",
-      "url": "https://open.spotify.com/track/25hGqLbUdyUIYNZrEsQDDU"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Mahler: Symphonies Nos. 4 & 8 \"Symphony of a Thousand\"",
         "url": "https://open.spotify.com/album/3Ng7S1REbWUwDRMrwU7GWi"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 347866,
       "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\", Pt. 2 \"Final Scene from Faust\": XII. Alles Verg\u00e4ngliche",
       "url": "https://open.spotify.com/track/0QOPz0LWC8R2rqDgPSWOqC"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "duration_ms": 763373,
+      "name": "Symphony No. 6 in A Minor: III. Scherzo. Wuchtig - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/25hGqLbUdyUIYNZrEsQDDU"
     },
     {
       "added_at": "2025-12-22 11:25:43",

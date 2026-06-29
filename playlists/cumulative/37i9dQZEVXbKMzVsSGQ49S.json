@@ -976,7 +976,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 163035,
       "name": "4 Life",
       "url": "https://open.spotify.com/track/3HZ9DJ38ER8z2rylXKcS1c"
@@ -11749,6 +11749,28 @@
     },
     {
       "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -15030,7 +15052,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -15872,6 +15894,24 @@
       "duration_ms": 166497,
       "name": "Ekkert anna\u00f0",
       "url": "https://open.spotify.com/track/2cFFOz7PgM2cwjK9rtXsAl"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
+        "url": "https://open.spotify.com/album/6ITCrAPFT2rL2Ohec9vOWr"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
+          "url": "https://open.spotify.com/artist/2l19aqbqP2H5aKEUYCVM9h"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224676,
+      "name": "Ekkert breytir \u00fev\u00ed",
+      "url": "https://open.spotify.com/track/6en2xcGpI4aVQk4duxeC51"
     },
     {
       "album": {
@@ -37062,7 +37102,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -37120,7 +37160,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -52992,7 +53032,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -65598,7 +65638,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"
@@ -66832,7 +66872,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 286348,
       "name": "\u00dea\u00f0 er gott a\u00f0 elska",
       "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"
@@ -67372,6 +67412,24 @@
       "duration_ms": 282772,
       "name": "\u00de\u00fa ert m\u00edn",
       "url": "https://open.spotify.com/track/5IHbiWtWk5WTuN1moesh2m"
+    },
+    {
+      "album": {
+        "name": "H\u00e9r er draumurinn",
+        "url": "https://open.spotify.com/album/6PFjA9TZpnrVO6boLupCli"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
+          "url": "https://open.spotify.com/artist/2l19aqbqP2H5aKEUYCVM9h"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264521,
+      "name": "\u00de\u00fa fullkomnar mig",
+      "url": "https://open.spotify.com/track/1IBkfIT43LQuCDEq3beW7J"
     },
     {
       "album": {

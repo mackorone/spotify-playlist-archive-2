@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,667 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,703 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 9 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 |
 | 10 | [Chandelier](https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Chandelier](https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH) | 3:32 |
 | 11 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
-| 12 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
-| 13 | [How Deep is Your Love](https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f), [Glambeats Corp.](https://open.spotify.com/artist/2OfhO7rFJyxPWi4zqy9HxJ) | [How Deep is Your Love](https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK) | 3:38 |
+| 12 | [How Deep is Your Love](https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Klub Rider](https://open.spotify.com/artist/16qQcoH29BgfLJtFqSPT2f), [Glambeats Corp.](https://open.spotify.com/artist/2OfhO7rFJyxPWi4zqy9HxJ) | [How Deep is Your Love](https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK) | 3:38 |
+| 13 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 14 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
 | 15 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 |
 | 16 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |

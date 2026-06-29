@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1436050,
+  "num_followers": 1436218,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAC11L+XZT7AeyxdZTe/0BtY",
+  "snapshot_id": "aj8SgAAAAAC/RNL4wqNWSIHctun2plne",
   "tracks": [
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 144957,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
+      "duration_ms": 235226,
+      "name": "Ahora Me Llama",
+      "url": "https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Ahora Me Llama",
-      "url": "https://open.spotify.com/track/0alSPoUfrGb0RdVVG4Lf3n"
+      "duration_ms": 144957,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
     },
     {
       "added_at": null,

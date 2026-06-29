@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,094 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,127 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 58 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 |
 | 59 | [Counting Sheep](https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:59 |
 | 60 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
-| 61 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
-| 62 | [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 |
+| 61 | [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 |
+| 62 | [Shine](https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Shine](https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG) | 3:02 |
 | 63 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 64 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 |
 | 65 | [Wait on You](https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Notes from a Quiet Life](https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue) | 2:56 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 91 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 | 92 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
 | 93 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
-| 94 | [Virtual U](https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Virtual U](https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj) | 5:02 |
-| 95 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
+| 94 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
+| 95 | [Virtual U](https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Virtual U](https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj) | 5:02 |
 | 96 | [B.P.E](https://open.spotify.com/track/0AvHKpI768IrIR6QC6Irue) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Grupo Cosmo](https://open.spotify.com/artist/3Nscxt04XZeBcr4FhQhXeO) | [anaiis & Grupo Cosmo](https://open.spotify.com/album/3cGl99a7vbyNmsgGIoJtKi) | 3:40 |
 | 97 | [Quisiera](https://open.spotify.com/track/1LnI60IAPvOw6NJvjYL52b) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Quisiera](https://open.spotify.com/album/4VBBhnahuowTQtwJPm4aqv) | 2:15 |
 | 98 | [The Moon Above](https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF) | [Soul Goodman](https://open.spotify.com/artist/3tgq4OwTuVZOpeipKDMpgi), [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [Patrizia Ferrara](https://open.spotify.com/artist/6ZkbsY4MO4EahWrRQBRKLM) | [20 Years Dope Noir \- Oranje Album](https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6) | 3:05 |

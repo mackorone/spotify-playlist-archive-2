@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-351 songs - 22 hr 23 min
+352 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 | 2023-02-13 |  |
 | [Piece Of My Heart](https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Piece Of My Heart](https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x) | 3:09 | 2023-02-13 |  |
 | [Qalby Ertah](https://open.spotify.com/track/4wo3x8RiCShFhuABw71uxE) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Qalby Ertah](https://open.spotify.com/album/3vsZQu0Z4fOa3FrzQToHmA) | 3:45 | 2023-09-08 | 2023-09-15 |
+| [Qusad Einy](https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Lealy Nahary](https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg) | 4:24 | 2026-06-17 |  |
 | [Rabe3 Fengan Ahwa](https://open.spotify.com/track/7arsxgfPgULHOa5rsENcZI) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Rabe3 Fengan Ahwa](https://open.spotify.com/album/0KpM26FhOZpln9EQeJ4OBm) | 3:30 | 2023-02-13 | 2023-09-15 |
 | [Ragel Mesaly](https://open.spotify.com/track/4Wxp3iwiT4XJZ3lEA9A7Ok) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 4:32 | 2023-10-05 | 2024-02-08 |
 | [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 | 2023-09-29 | 2024-09-06 |
@@ -258,7 +259,7 @@
 | [Yaretak Fahemni](https://open.spotify.com/track/4rwFKwkUgiavWjJlHBlr4J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Hala Khasa Gedan](https://open.spotify.com/album/0MA5maRPOVZeQDw78MDadR) | 5:32 | 2024-04-10 | 2025-07-01 |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2023-02-13 | 2023-05-23 |
 | [Zay El Wara2](https://open.spotify.com/track/2J1NzFZ91MgX6Mexv2K6Si) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Zay El Wara2](https://open.spotify.com/album/0ySeeh7VlH8uItqVKroo34) | 2:59 | 2023-08-17 | 2023-10-04 |
-| [Zay Manty](https://open.spotify.com/track/1s48CUcei5Rlt8103DTQcu) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/3DMfCdII2G5codB2vqbWZv) | 3:23 | 2024-10-31 |  |
+| [Zay Manty](https://open.spotify.com/track/1s48CUcei5Rlt8103DTQcu) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Sahran](https://open.spotify.com/album/3DMfCdII2G5codB2vqbWZv) | 3:23 | 2024-10-31 | 2026-06-29 |
 | [Zayaha Meen](https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:24 | 2023-09-08 | 2023-09-15 |
 | [Zayyo Tani](https://open.spotify.com/track/6QcRW2RF2qAix4a1GT11V5) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [Zayyo Tani](https://open.spotify.com/album/11WjHbnypl5Se90ozg0RoE) | 3:25 | 2024-04-10 | 2025-07-01 |
 | [أتعدي حدودي](https://open.spotify.com/track/4KSLhwP4wUyGoSe2Wj2p0v) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [أتعدي حدودي](https://open.spotify.com/album/6GIKO9KvzuF4njYBJIYNot) | 4:21 | 2023-02-13 | 2023-05-23 |

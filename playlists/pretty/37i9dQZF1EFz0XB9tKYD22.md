@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 352 songs - 20 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 352 songs - 20 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 107 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 |
 | 108 | [Ghosts On The Stereo](https://open.spotify.com/track/0aoT1B6jxuaxPh1RQ2Cank) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:13 |
 | 109 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 |
-| 110 | [She Don’t Know](https://open.spotify.com/track/0pQoXJI5v3Nb9Nv2sr7Llk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:29 |
-| 111 | [Plain Jane](https://open.spotify.com/track/1vooH2ubQm33QhksSPLFGY) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 3:28 |
+| 110 | [Plain Jane](https://open.spotify.com/track/1vooH2ubQm33QhksSPLFGY) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 3:28 |
+| 111 | [She Don’t Know](https://open.spotify.com/track/0pQoXJI5v3Nb9Nv2sr7Llk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:29 |
 | 112 | [Broken](https://open.spotify.com/track/65VulgoHJGsL7l3eRIXzRC) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype Broken](https://open.spotify.com/album/0rsIuMdNjcwbnS9kL4DKAf) | 2:57 |
 | 113 | [Hate Me](https://open.spotify.com/track/4QNlHIYv4JreNLZM78w3Eo) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Side A](https://open.spotify.com/album/0xgvbBQI2RDnw0q6kVllKH) | 3:50 |
 | 114 | [Runnin’ Away From Home](https://open.spotify.com/track/3S1ml6NqVkVBjYNB8QgXE7) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Ticket To L.A.](https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik) | 3:08 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 131 | [Don't Ask Me](https://open.spotify.com/track/0a46w1TylFFpaFVVfoYaO9) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Don't Ask Me](https://open.spotify.com/album/5ASOGXccuPZ6uxIBrjatme) | 3:14 |
 | 132 | [1x1](https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T) | 3:12 |
 | 133 | [All the Love You Left Me](https://open.spotify.com/track/53oKQO2Ag8A4ylOQTkdXDf) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Words](https://open.spotify.com/album/4IzQueTW4TG1V6hxEAtvcr) | 4:17 |
-| 134 | [Somebody's Been Drinking](https://open.spotify.com/track/3QRcYRETj4mxyxzlsSsry3) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
-| 135 | [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 |
+| 134 | [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 |
+| 135 | [Somebody's Been Drinking](https://open.spotify.com/track/3QRcYRETj4mxyxzlsSsry3) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [I Don't Dance \(Deluxe Edition\)](https://open.spotify.com/album/2XIhZ9IjqoIN5V6dfKHzCn) | 3:41 |
 | 136 | [Water Rising](https://open.spotify.com/track/7Bx0HkGCT6WD7fHiHYT1oQ) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Hayden Panettiere](https://open.spotify.com/artist/4lujXse2GVoN3RoTG3ZxZC) | [The Music Of Nashville Original Soundtrack Season 5 Volume 3](https://open.spotify.com/album/3BpnYIhKpIdtu9DWcupT0z) | 3:31 |
 | 137 | [Women Ain’t Whiskey](https://open.spotify.com/track/3axBDZmJLbGw61413B8XIS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 2:46 |
 | 138 | [Velvet Heartbreak](https://open.spotify.com/track/2MvjNZWNBKX7VWkYUxRBTJ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 190 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 |
 | 191 | [On A Night Like This](https://open.spotify.com/track/2JDn5eXcun0P7Cbl3BpU5v) | [Sanne Salomonsen](https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb) | [The Album](https://open.spotify.com/album/5fgADiYWrrEGTuG2o0k4PV) | 4:06 |
 | 192 | [The Faker](https://open.spotify.com/track/4puoCLTBJlX4007xQLf1Am) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:49 |
-| 193 | [Getaway Car](https://open.spotify.com/track/15cLsxeItpUKOIXXJVjYaW) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 4:26 |
-| 194 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 193 | [True North](https://open.spotify.com/track/21nd6ZeppvtuHs227hLUZB) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [True North / Parking Lot](https://open.spotify.com/album/5QibA1qQVY2lxcJdFZLrWV) | 3:13 |
+| 194 | [Getaway Car](https://open.spotify.com/track/15cLsxeItpUKOIXXJVjYaW) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 4:26 |
 | 195 | [I Know A Girl](https://open.spotify.com/track/5NDTTkIxKkg4WrhoMGqFCV) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:15 |
 | 196 | [Sundown \- Live At Rexall Place, Edmonton, AB / March 10, 2017](https://open.spotify.com/track/7jT2OzvDIynmMKxK0F83Zk) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 2](https://open.spotify.com/album/0X9HgPFjXaILVtIhhD1zRp) | 3:54 |
 | 197 | [Flesh And Blood](https://open.spotify.com/track/2YP1SmJb1tHQkgyp2dMfHH) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Shine On](https://open.spotify.com/album/3NH5k5p2RjQepg0nM61scP) | 4:18 |
@@ -361,4 +361,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 351 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 352 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcVX5gAAAACU802LnJkDgHwMZvqgYMvy`
+Snapshot ID: `AcVdhgAAAADyPN1FLr6OG730xu1LU/WG`

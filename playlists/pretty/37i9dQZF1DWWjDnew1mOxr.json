@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: overpass",
-  "num_followers": 131253,
+  "num_followers": 131263,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+        "name": "Dog Dribble",
+        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Leader of the Pack",
-      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+      "duration_ms": 255000,
+      "name": "Dog Dribble",
+      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Dog Dribble",
-        "url": "https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23"
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
       "artists": [
         {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Dog Dribble",
-      "url": "https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B"
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Shaking Hips and Crashing Cars",
         "url": "https://open.spotify.com/album/2njNFU26P0YiMlqzO77SH5"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194059,
       "name": "This Place",
       "url": "https://open.spotify.com/track/3ikQWoaMOYK0NztKM1MM0R"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Right Time",
         "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 240214,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Got You On My Mind",
         "url": "https://open.spotify.com/album/4yGedLZjTca9Tke2G364gH"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
       },
       "artists": [
         {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
         }
       ],
-      "duration_ms": 211119,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
+      "duration_ms": 225426,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -747,6 +731,22 @@
       "duration_ms": 181870,
       "name": "Don't Throw Rocks",
       "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Fuck Me (I Didn\u2019t Know How To Say)",
-        "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 186786,
-      "name": "Fuck Me (I Didn\u2019t Know How To Say)",
-      "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Defibrillator",
         "url": "https://open.spotify.com/album/2BQMRPHCjPK4WN2ZtkJKTJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 161186,
       "name": "Defibrillator",
       "url": "https://open.spotify.com/track/71zdTsKVOPKvEQjUWRiHvO"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Fuck Me (I Didn\u2019t Know How To Say)",
+        "url": "https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 186786,
+      "name": "Fuck Me (I Didn\u2019t Know How To Say)",
+      "url": "https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
+        "name": "Keira Knightley",
+        "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 205554,
+      "name": "Keira Knightley",
+      "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
         "name": "So Much Country \u2018Till We Get There",
         "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 235666,
       "name": "The Old Style Raiders",
       "url": "https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
-        "name": "Keira Knightley",
-        "url": "https://open.spotify.com/album/6hP36kS9qD7sLDZml4OFyl"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 205554,
-      "name": "Keira Knightley",
-      "url": "https://open.spotify.com/track/5nl7E1Mp7gXhizBse0fR5Y"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1039,38 +1039,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Can\u2019t See",
-        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "Can't See",
-      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
-        "name": "From the Night",
-        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 251821,
-      "name": "From the Night",
-      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Dirty White Lies",
         "url": "https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0"
       },
@@ -1087,6 +1055,22 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "From the Night",
+        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 251821,
+      "name": "From the Night",
+      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/390sc3M8CrlN3VtCk3ay5N"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 243280,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/0kJCaJv3ghYfRss2vI0r9K"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Get Away from the Feeling",
         "url": "https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 201279,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/390sc3M8CrlN3VtCk3ay5N"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 243280,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0kJCaJv3ghYfRss2vI0r9K"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Put On A Record Tommy",
-        "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
-      },
-      "artists": [
-        {
-          "name": "Tom A. Smith",
-          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
-        }
-      ],
-      "duration_ms": 188287,
-      "name": "Put On A Record Tommy",
-      "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Yay! Saturday",
         "url": "https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 195363,
       "name": "Yay! Saturday",
       "url": "https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Put On A Record Tommy",
+        "url": "https://open.spotify.com/album/505GPhLVVEmbneKz9dewvW"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "duration_ms": 188287,
+      "name": "Put On A Record Tommy",
+      "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
+        "name": "Breadline",
+        "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "duration_ms": 194652,
+      "name": "Breadline",
+      "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/3l0RUrCJPrULbRb6BDjETu"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Breadline",
-        "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7"
       },
       "artists": [
         {
-          "name": "JAMIE WEBSTER",
-          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
         }
       ],
-      "duration_ms": 194652,
-      "name": "Breadline",
-      "url": "https://open.spotify.com/track/6MSuabY3lmqyNCUhcCgQ5n"
+      "duration_ms": 264266,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/7mMWTrcGwJPbl4WdRjWLT7"
-      },
-      "artists": [
-        {
-          "name": "The Royston Club",
-          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Mind Metro",
         "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Love Me Please",
-        "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
+        "name": "Can't Say No",
+        "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
       },
       "artists": [
         {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 158667,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+      "duration_ms": 192706,
+      "name": "Can't Say No",
+      "url": "https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU"
     }
   ],
   "unique_name": "Proper Belters",

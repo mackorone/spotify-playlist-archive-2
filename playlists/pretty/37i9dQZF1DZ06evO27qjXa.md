@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,251 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,329 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Wiggle Dance](https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Wiggle Dance](https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ) | 3:04 |
-| 2 | [Chug Like a Train!](https://open.spotify.com/track/6xkSfdfDrw7RLT5DPRNxMF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Chug Like a Train!](https://open.spotify.com/album/21YOTP8L3omVBhdv31YjNq) | 4:02 |
+| 1 | [Chug Like a Train!](https://open.spotify.com/track/6xkSfdfDrw7RLT5DPRNxMF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Chug Like a Train!](https://open.spotify.com/album/21YOTP8L3omVBhdv31YjNq) | 4:02 |
+| 2 | [The Wiggle Dance](https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Wiggle Dance](https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ) | 3:04 |
 | 3 | [Sharks In The Water](https://open.spotify.com/track/4aKvFOdwJIaPgThgWZdZi8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Sharks In The Water](https://open.spotify.com/album/2VsIoGKJLRHxcIw2B8oPEB) | 3:13 |
 | 4 | [Candy Cane Crush!](https://open.spotify.com/track/0jmbMP78lyWbm6XrHsys2U) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Candy Cane Crush!](https://open.spotify.com/album/2hYLyrESl8sozgPKE0j9s4) | 3:29 |
 | 5 | [The Robot Dance](https://open.spotify.com/track/6fwNk2mnS6TWcoY6JgQWxG) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Robot Dance](https://open.spotify.com/album/6OGrBu7bIicfKwsbTSvXGQ) | 3:12 |
@@ -37,20 +37,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 27 | [Brand New Day \- Good Morning Dance](https://open.spotify.com/track/5W5nJROpttNmn8Ols7HoSr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Brand New Day \(Good Morning Dance\)](https://open.spotify.com/album/2ZqxJ0m0mJVw6KyA0hJYQb) | 2:56 |
 | 28 | [Night Night Parade Lullaby](https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:01 |
 | 29 | [Drive Drive Vehicle Dance](https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Drive Drive Vehicle Dance](https://open.spotify.com/album/70eYeeYN9cYHSYKoMxLzaY) | 3:17 |
-| 30 | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI) | 3:33 |
+| 30 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 |
 | 31 | [The Monkey Dance](https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Monkey Dance](https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9) | 2:22 |
-| 32 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 |
+| 32 | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI) | 3:33 |
 | 33 | [Package Pop!](https://open.spotify.com/track/01sDJ03maWvaItz8DzP4hK) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Package Pop!](https://open.spotify.com/album/3tdfxKVXO5V7YnFaSYShS3) | 5:08 |
 | 34 | [Happy Moon](https://open.spotify.com/track/0h4XnULY4rpmAid4bNKiIQ) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Happy Moon](https://open.spotify.com/album/2uoegB0rfYELLyLU65qQwF) | 3:58 |
 | 35 | [Don't Stop Digging](https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Don't Stop Digging](https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy) | 4:05 |
 | 36 | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t) | 7:34 |
-| 37 | [The Floor is Quicksand \- Pyramid Adventure](https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Quicksand \(Pyramid Adventure\)](https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n) | 3:57 |
-| 38 | [The Stomp Clap Dance Song](https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Stomp Clap Dance Song](https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK) | 3:47 |
+| 37 | [The Stomp Clap Dance Song](https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Stomp Clap Dance Song](https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK) | 3:47 |
+| 38 | [The Floor is Quicksand \- Pyramid Adventure](https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Quicksand \(Pyramid Adventure\)](https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n) | 3:57 |
 | 39 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
 | 40 | [The Space Race Planet Dance](https://open.spotify.com/track/5jvTizDVo08steVEiqXMbh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Space Race Planet Dance](https://open.spotify.com/album/6d8g23NRnlaL3DJylM8x8w) | 4:00 |
 | 41 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
-| 42 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
-| 43 | [The Ice King Freeze Dance](https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance](https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0) | 3:23 |
+| 42 | [The Ice King Freeze Dance](https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance](https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0) | 3:23 |
+| 43 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
 | 44 | [The Floor is Lava 2 \- Into the Volcano](https://open.spotify.com/track/09zBhV6REwERPc3LDy1xx0) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Lava 2 \(Into the Volcano\)](https://open.spotify.com/album/5c5cttrxHIfk0MVYuXvx78) | 3:46 |
 | 45 | [The Creepy Crawl](https://open.spotify.com/track/3sjwPrNmCYwkGMvAm8wlS2) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Creepy Crawl](https://open.spotify.com/album/53kXMqX4i6E0kJwwbAxkNn) | 2:42 |
 | 46 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 49 | [Math Whiz \- Addition Version](https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Math Whiz](https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt) | 3:34 |
 | 50 | [Drive Drive \- Lullaby Version](https://open.spotify.com/track/1vyjaKy596iNHSMw6jrBJM) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music, Vol\. 2 \(Lullaby Version\)](https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe) | 6:01 |
 
-Snapshot ID: `aj3BAAAAAADZ9JCIm+t4mVMRW6LiDLaL`
+Snapshot ID: `aj8SgAAAAACv3Nzte5aFJwKuXozWWtdu`

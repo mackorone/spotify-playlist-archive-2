@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,547 songs - 10 day 3 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,548 songs - 10 day 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4379,7 +4379,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4369 | [Espectador](https://open.spotify.com/track/1aTD8dSp3ZVaCWnQbr2rM1) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Espectador](https://open.spotify.com/album/0zigtsUnrrMDHrk5a7OpMx) | 3:33 |
 | 4370 | [She \- Radio Mix](https://open.spotify.com/track/7ssoU0Q2YLQpYfVSFodiU3) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [She](https://open.spotify.com/album/3K0S7jq6J4YZeOuB9at0J0) | 2:48 |
 | 4371 | [Lying](https://open.spotify.com/track/3NQ352T1u3Zn389Io8EmF5) | [Unlucky Empathy](https://open.spotify.com/artist/3stdHKfwcRB3Vmj7KQOsYl) | [Lying](https://open.spotify.com/album/6qdZO3ebPEZhVxx0BRDU6h) | 5:12 |
-| 4372 | [La cantina de poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 |
+| 4372 | [La cantina del poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 |
 | 4373 | [Serenada](https://open.spotify.com/track/4ZnDI6bbOt3GzZbCHRKXKR) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 2:48 |
 | 4374 | [さよならの未来](https://open.spotify.com/track/4PoXSOjk9cljdE5IQQOxxi) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [さよならの未来](https://open.spotify.com/album/1MKezfwB56g6N6FNfr9Quu) | 4:22 |
 | 4375 | [Sakê De Binks](https://open.spotify.com/track/4D6ZaYG8xUp8tJ24A52wp3) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc), [Casão Rennó](https://open.spotify.com/artist/3A7hlyVNvg5AEqwIF4HXtm) | [Sakê De Binks](https://open.spotify.com/album/1HNvSEkybDOV743FV9qYdq) | 3:50 |
@@ -4555,5 +4555,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4545 | [Musicando](https://open.spotify.com/track/57kXi1yuNUN7lnZzJTMgyz) | [Banda Brie](https://open.spotify.com/artist/6Lo7AVZ4XTvgTtutMlUg7v) | [Musicando](https://open.spotify.com/album/3EPkpCdVBnl7tNHLeIW9ZS) | 1:56 |
 | 4546 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
 | 4547 | [Rebel Soul](https://open.spotify.com/track/6JCO2Sp295DrQi5Mu5Ix0t) | [Riiver Brukes](https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS) | [Rebel Soul](https://open.spotify.com/album/6UkFPm3iask9d6xcxwVYN9) | 3:55 |
+| 4548 | [Mirrors](https://open.spotify.com/track/7v5DOwsOWG6cf8hk9Mw8KH) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Mirrors](https://open.spotify.com/album/3Oq2PLLDnEFGIwzkMW43w2) | 4:47 |
 
-Snapshot ID: `AAAI/HCNs88doYdMQXFy2u6pXSA6AuqJ`
+Snapshot ID: `AAAI/VAmXj1TwG3IWaCDdq+W9aISS+sI`

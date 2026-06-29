@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,272 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,321 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 28 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 29 | [Be Ever Wonderful](https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:08 |
 | 30 | [Spend the Night](https://open.spotify.com/track/0HaRWfC7s1oKaUnBSwcK03) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Millennium](https://open.spotify.com/album/3iIn06BOVJL8Hf7JEa0UfB) | 4:23 |
-| 31 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
-| 32 | [Star](https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:25 |
+| 31 | [Star](https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:25 |
+| 32 | [And Love Goes On](https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Faces](https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6) | 4:05 |
 | 33 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 |
 | 34 | [Saturday Nite](https://open.spotify.com/track/1XCt27nKEY66dBkvBWBmnV) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:02 |
 | 35 | [Fall in Love with Me](https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 49 | [All About Love \(First Impression\)](https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 6:35 |
 | 50 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 |
 
-Snapshot ID: `aj3BAAAAAACBMpyesJ4JMj9yT5F89Hdk`
+Snapshot ID: `aj8SgAAAAADXxeKe/zA4H1VkzkrXNc5Y`

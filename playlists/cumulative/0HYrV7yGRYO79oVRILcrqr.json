@@ -5943,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "MIRROR MAZE",
+        "url": "https://open.spotify.com/album/6dH2T4qLjozTTG6OKceUo1"
+      },
+      "artists": [
+        {
+          "name": "MARYLANE",
+          "url": "https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265493,
+      "name": "MIRROR MAZE",
+      "url": "https://open.spotify.com/track/7osshrygoODrSdnKQWn60r"
+    },
+    {
+      "album": {
         "name": "Miss Reaper",
         "url": "https://open.spotify.com/album/1Y8qZkQo1yJk6f28WINpTr"
       },

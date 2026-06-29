@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,480 songs - 9 day 23 hr 47 min
+4,481 songs - 9 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2103,7 +2103,7 @@
 | [La Barca di Carta](https://open.spotify.com/track/2wlov7eejGYcFolQYkNjNF) | [Cow Lee](https://open.spotify.com/artist/3WM2c0I49ITR5o3BeXeBQe) | [La Barca di Carta](https://open.spotify.com/album/3nwwk9sgPJtnAyPEZL8qIq) | 4:26 | 2025-07-03 |  |
 | [LA CADUTA DI ICARO](https://open.spotify.com/track/0CutG7jNSXkTeowjtHBDN7) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 6:53 | 2026-02-01 |  |
 | [LA CADUTA DI ICARO \- 2023 Remastered Version](https://open.spotify.com/track/5oF8sAXwyjaTQvTlv9syvM) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [LA CADUTA DI ICARO \(2023 Remastered Version\)](https://open.spotify.com/album/6RjZtdBul4rmXNABVmX2eJ) | 6:53 | 2026-02-01 |  |
-| [La cantina de poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 | 2026-04-20 |  |
+| [La cantina del poder](https://open.spotify.com/track/5htd2qienkY0cQlQ0gubu9) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Derrocar Dictadores](https://open.spotify.com/album/13fsYnLV2C6CUlI1nsfvET) | 4:02 | 2026-04-20 |  |
 | [La casa che brucia](https://open.spotify.com/track/56amweBM3xpdIBFpVsCm5P) | [Lityo](https://open.spotify.com/artist/2trwqCdfVqrWrY0TXfwIsJ) | [La casa che brucia](https://open.spotify.com/album/5wiqYkyVPgB65Be60yY23O) | 3:56 | 2025-07-24 |  |
 | [La chiave della libertà](https://open.spotify.com/track/1AwsZCXa1YfjlZOGVFXLSR) | [Dish\-Is\-Nein](https://open.spotify.com/artist/3AuDLNWhza3Pf8d1WdjSGS) | [Dish\-Is\-Nein](https://open.spotify.com/album/4myiiWfZU2YyXm8dTcjiV9) | 4:57 | 2025-11-12 |  |
 | [La Danza del Caos](https://open.spotify.com/track/7H948UlyJmrjGFrYxNYIIV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica pop in italiano 2025](https://open.spotify.com/album/28rwBadApgcQzz4GIG0fLX) | 2:14 | 2025-09-17 |  |
@@ -2474,6 +2474,7 @@
 | [MIRACOLO \(RIP\)](https://open.spotify.com/track/39I8mcs3nMG7ctWyk3GM70) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [RAGIONE e SENTIMENTO](https://open.spotify.com/album/70wL7Os7BJR41xUZtpKbWv) | 3:10 | 2026-02-13 |  |
 | [Mirror Souls](https://open.spotify.com/track/1SZdPi4H7lo09CfU7E6YzY) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:36 | 2026-04-13 |  |
 | [Mirror Souls \(fomo mode\)](https://open.spotify.com/track/5Hr2bIswIe1jshBzLEU6wv) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:49 | 2026-04-13 |  |
+| [Mirrors](https://open.spotify.com/track/7v5DOwsOWG6cf8hk9Mw8KH) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Mirrors](https://open.spotify.com/album/3Oq2PLLDnEFGIwzkMW43w2) | 4:47 | 2026-06-28 |  |
 | [Misonzi Mbwee](https://open.spotify.com/track/6ag6oI8gvsRRLnjts6U43R) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [Misonzi Mbwee](https://open.spotify.com/album/5bZtNoEOO7q73ellDvr6VG) | 2:20 | 2025-06-05 |  |
 | [Miss & Mister](https://open.spotify.com/track/5olQqq0SKbmBwnYtm1ULwx) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Miss & Mister](https://open.spotify.com/album/7KksWeTZuUnkUtZtgtjOSG) | 2:40 | 2025-05-26 |  |
 | [MISS ME?](https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [MISS ME?](https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9) | 2:06 | 2025-07-28 |  |

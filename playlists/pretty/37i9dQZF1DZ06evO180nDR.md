@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,335 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,425 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 23 | [Tommy Vercetti](https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:22 |
 | 24 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
 | 25 | [Cocaine](https://open.spotify.com/track/6d0EpYdqnZlfbbaDqgGA8A) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:32 |
-| 26 | [WHISKEY DE PIÑA](https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:00 |
+| 26 | [DESCONTROL](https://open.spotify.com/track/2NZrkRaHrptJ3PxLOror7V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:09 |
 | 27 | [Dinero Infinito](https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:59 |
 | 28 | [F\*%K U Baby](https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [F\*%K U Baby](https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg) | 2:33 |
 | 29 | [Polvo de Hadas](https://open.spotify.com/track/1BeJcPh87ayQXulFU5FPD3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:53 |
-| 30 | [DESCONTROL](https://open.spotify.com/track/2NZrkRaHrptJ3PxLOror7V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:09 |
-| 31 | [La Pobreza Buena](https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Pobreza Buena](https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI) | 3:29 |
-| 32 | [Play Mode](https://open.spotify.com/track/69yPXq8mqM7jf8tROVVaU2) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Agua y Jabón + Play Mode](https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4) | 3:12 |
+| 30 | [WHISKEY DE PIÑA](https://open.spotify.com/track/5cjJ5r52UvOaDaJ0dClY5B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 3:00 |
+| 31 | [Play Mode](https://open.spotify.com/track/69yPXq8mqM7jf8tROVVaU2) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Agua y Jabón + Play Mode](https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4) | 3:12 |
+| 32 | [La Pobreza Buena](https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Pobreza Buena](https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI) | 3:29 |
 | 33 | [Plata](https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:54 |
 | 34 | [MALDITO INFIERNO](https://open.spotify.com/track/1uYLOi3hMy6eMBY2SCCYRT) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [SABIA](https://open.spotify.com/album/12122EVhwBiU1EyE92VSQe) | 2:50 |
 | 35 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 48 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 |
 | 49 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 |
 
-Snapshot ID: `aj3BAAAAAAC65T7YgSu3bvfShSFkU9yQ`
+Snapshot ID: `aj8SgAAAAACgfcs/w53NVrcF5cY+jaye`

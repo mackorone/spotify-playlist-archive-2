@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208299,
+  "num_followers": 208297,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACpk3elGPFK7DkZHU3gRD5k",
+  "snapshot_id": "aj8SgAAAAAD6WqlvG9zAUsFUmCRYIDNL",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Victory (Live)",
         "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 304813,
       "name": "Living Hope (Live)",
       "url": "https://open.spotify.com/track/54vnh4BHgSlzMkNnWhK2Sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love (Radio Version)",
-      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
       },
       "artists": [
         {
@@ -632,13 +632,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        },
+        {
+          "name": "Raquel Vega",
+          "url": "https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM"
         }
       ],
-      "duration_ms": 298681,
-      "name": "In Over My Head (Crash Over Me) [Live]",
-      "url": "https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl"
+      "duration_ms": 312426,
+      "name": "Ten Fe Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
     },
     {
       "added_at": null,
@@ -663,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
       "artists": [
         {
@@ -672,17 +676,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        },
-        {
-          "name": "Raquel Vega",
-          "url": "https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 312426,
-      "name": "Ten Fe Coraz\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
+      "duration_ms": 298681,
+      "name": "In Over My Head (Crash Over Me) [Live]",
+      "url": "https://open.spotify.com/track/13myOXIfOSldZ7GVz7LqQl"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+      "duration_ms": 299906,
+      "name": "This Is a Move",
+      "url": "https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N"
     },
     {
       "added_at": null,
@@ -867,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Genesis",
-        "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 299906,
-      "name": "This Is a Move",
-      "url": "https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N"
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -912,17 +912,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 385052,
-      "name": "Made For More - Live",
-      "url": "https://open.spotify.com/track/1eCgbIxafpKPWH5on8N02j"
+      "duration_ms": 616159,
+      "name": "Another Like You - Live",
+      "url": "https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw"
     },
     {
       "added_at": null,
@@ -1008,13 +1004,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 616159,
-      "name": "Another Like You - Live",
-      "url": "https://open.spotify.com/track/6cJ2Kbbbe5AT6M1SjZefqw"
+      "duration_ms": 385052,
+      "name": "Made For More - Live",
+      "url": "https://open.spotify.com/track/1eCgbIxafpKPWH5on8N02j"
     },
     {
       "added_at": null,

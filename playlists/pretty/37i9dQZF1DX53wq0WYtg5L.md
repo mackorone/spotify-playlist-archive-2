@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,236 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,230 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 14 | [100% Mexicano](https://open.spotify.com/track/7id0jK0SZ9xPe7ZyGzS8Y0) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [100% Mexicano](https://open.spotify.com/album/0MVg257ivlIlol0VnBWtD9) | 3:20 |
 | 15 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 16 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
-| 17 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 |
+| 17 | [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 |
 | 18 | [El Son de Mi Tierra](https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa) | [Mariachi Jalisco](https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O) | [Canta a su tierra](https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1) | 2:56 |
 | 19 | [Mi Jalisco](https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE) | 3:36 |
 | 20 | [La culebra](https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:48 |
 | 21 | [El siete mares](https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:38 |
-| 22 | [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 |
+| 22 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 |
 | 23 | [Pica Que Pica](https://open.spotify.com/track/1ruaLnFk2kciAKa68DLggN) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 3:05 |
 | 24 | [El Sauce y la Palma](https://open.spotify.com/track/446ICnUdS1UE59barZ0lcX) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [30 Exitos Inmortales](https://open.spotify.com/album/2xCm0V7sVyMZJITnKagCuz) | 2:29 |
 | 25 | [La Malagueña](https://open.spotify.com/track/1XB5aqI6iacCG4bXJSVb0j) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 4:54 |

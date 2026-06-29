@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1783405,
+  "num_followers": 1783166,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Fantasias (Unplugged)",
-        "url": "https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G"
+        "name": "MTV Unplugged (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/6zOdCUTG8ZWOfB7EyZWytq"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 200593,
-      "name": "Fantasias - Unplugged",
-      "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
+      "duration_ms": 300786,
+      "name": "Rayando el Sol - Unplugged; 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/7890ZEgCAUFHYL7h6vUfEU"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -319,18 +315,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "MTV Unplugged (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/6zOdCUTG8ZWOfB7EyZWytq"
+        "name": "Fantasias (Unplugged)",
+        "url": "https://open.spotify.com/album/2NQINd10CuEMzd7wBMZc7G"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 300786,
-      "name": "Rayando el Sol - Unplugged; 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/7890ZEgCAUFHYL7h6vUfEU"
+      "duration_ms": 200593,
+      "name": "Fantasias - Unplugged",
+      "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -387,26 +387,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "So\u00f1\u00e9 Contigo",
-        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 185806,
       "name": "Amapolas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "So\u00f1\u00e9 Contigo",
+        "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Afuera Del Planeta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 261376,
-      "name": "Afuera Del Planeta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 182373,
       "name": "Dulcito e Coco - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Afuera Del Planeta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 261376,
+      "name": "Afuera Del Planeta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "Solo M\u00eda",
         "url": "https://open.spotify.com/album/6BLn7cwwQkJbvjWFxLNmzc"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 255669,
       "name": "Solo M\u00eda",
       "url": "https://open.spotify.com/track/7bLfGfZ8FQ7uZ3iLJIQISf"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Mocca",
+        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Mocca",
+      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "Acoustic Sessions #1",
         "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 184000,
       "name": "Maquillaje (Acoustic)",
       "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Mocca",
-        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Mocca",
-      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 212773,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Covers II",
+        "url": "https://open.spotify.com/album/1FzhLun9l0Z3gSrk00nUhQ"
+      },
+      "artists": [
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/1Jdvv5TBIaS4cqvwgISvc2"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "La Canci\u00f3n",
         "url": "https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ"
       },
@@ -1715,34 +1731,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Covers II",
-        "url": "https://open.spotify.com/album/1FzhLun9l0Z3gSrk00nUhQ"
+        "name": "La Parte Buena",
+        "url": "https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc"
       },
       "artists": [
         {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/1Jdvv5TBIaS4cqvwgISvc2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
-      },
-      "artists": [
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        },
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Fase",
+          "url": "https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW"
         }
       ],
-      "duration_ms": 247213,
-      "name": "En Medio De Este Ruido",
-      "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
+      "duration_ms": 223634,
+      "name": "La Parte Buena",
+      "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
     }
   ],
   "unique_name": "Ac\u00fasticas",

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163511,
+  "num_followers": 163512,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Encontro",
         "url": "https://open.spotify.com/album/5xxHuhQzVrlAvZqR0W3c9t"
       },
@@ -231,18 +247,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+        "name": "Hamilton de Holanda Trio - Live in NYC",
+        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
       },
       "artists": [
         {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
         }
       ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+      "duration_ms": 315110,
+      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
+      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -267,26 +287,6 @@
       "duration_ms": 349525,
       "name": "Emori\u00f4 - Live",
       "url": "https://open.spotify.com/track/4e8HAVbyiqpBs2MbCOwoyc"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Hamilton de Holanda Trio - Live in NYC",
-        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 315110,
-      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
-      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -395,26 +395,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
-        "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Neves",
-          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
-        },
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "Lamento de um Perplexo",
-      "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Dom Salvador JID024",
         "url": "https://open.spotify.com/album/6uFBKSXZAJTDcYODdkMqum"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 246379,
       "name": "As Esta\u00e7\u014des",
       "url": "https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
+        "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Neves",
+          "url": "https://open.spotify.com/artist/1or8OkrZ48T6BW0OpeN683"
+        },
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        }
+      ],
+      "duration_ms": 303750,
+      "name": "Lamento de um Perplexo",
+      "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Varanda",
-        "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
-      },
-      "artists": [
-        {
-          "name": "Noa Stroeter",
-          "url": "https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg"
-        }
-      ],
-      "duration_ms": 345319,
-      "name": "Varanda",
-      "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Mister Am\u00e9rico / Bolero de M\u00e3e (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/3v7S75Lv2e02tUHWQpbV6f"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 237675,
       "name": "Mister Am\u00e9rico (feat. Thiago Rabello & Salom\u00e3o Soares)",
       "url": "https://open.spotify.com/track/4r3tvfkc2r0gawvdtvBtIV"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Varanda",
+        "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
+      },
+      "artists": [
+        {
+          "name": "Noa Stroeter",
+          "url": "https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg"
+        }
+      ],
+      "duration_ms": 345319,
+      "name": "Varanda",
+      "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Sol e Luz (feat. Thiago Rabello & Salom\u00e3o Soares)",
         "url": "https://open.spotify.com/album/6HPwMeV7txYMEWmNo6By8e"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Chico Macedo 4teto",
         "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
       },
@@ -983,34 +983,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7HjEJgEOH5yFNPLERzLOMg"
       },
@@ -1047,6 +1019,34 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
+      },
+      "artists": [
+        {
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        }
+      ],
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "From Rio",
         "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
       },
@@ -1059,22 +1059,6 @@
       "duration_ms": 126647,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1131,6 +1115,22 @@
       "duration_ms": 266226,
       "name": "Novidade",
       "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "M\u00fasica Disfar\u00e7ada de Gente",
         "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 313880,
       "name": "Francamente",
       "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Posl\u00fadio",
         "url": "https://open.spotify.com/album/32uDP9IjPLeSn6E6ozeeOP"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 451777,
       "name": "Posl\u00fadio",
       "url": "https://open.spotify.com/track/6az1hCHoNmfyx5RjfNqiY2"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Fugindo do Sete",
-        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
-      },
-      "artists": [
-        {
-          "name": "Pedro Gomes",
-          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
-        },
-        {
-          "name": "Alexandre Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
-        },
-        {
-          "name": "Augusto Cordeiro",
-          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
-        }
-      ],
-      "duration_ms": 300659,
-      "name": "Fugindo do Sete",
-      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 259320,
       "name": "Sete Coisas",
       "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Fugindo do Sete",
+        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
+      },
+      "artists": [
+        {
+          "name": "Pedro Gomes",
+          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
+        },
+        {
+          "name": "Alexandre Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
+        },
+        {
+          "name": "Augusto Cordeiro",
+          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
+        }
+      ],
+      "duration_ms": 300659,
+      "name": "Fugindo do Sete",
+      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
-      },
-      "artists": [
-        {
-          "name": "Henrique Mota",
-          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
-        }
-      ],
-      "duration_ms": 407033,
-      "name": "Influ\u00eancia",
-      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Rosi",
         "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 239992,
       "name": "Rosi",
       "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3o5Z7YO1rwBzAT04rvVdtV"
+      },
+      "artists": [
+        {
+          "name": "Henrique Mota",
+          "url": "https://open.spotify.com/artist/44Rvh9A69zR6MtWxx3UGhI"
+        }
+      ],
+      "duration_ms": 407033,
+      "name": "Influ\u00eancia",
+      "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
     },
     {
       "added_at": "2025-09-19 14:12:16",

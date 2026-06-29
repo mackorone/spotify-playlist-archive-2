@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 151120,
+  "num_followers": 151185,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHuT78vkVZcaAx8apyoU5NPytq8Y",
+  "snapshot_id": "AAAAAJ3/5jnYOdv4SlquiHj52joKrn6F",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:50",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-19 04:01:50",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Talk Down",
-      "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO"
-    },
-    {
-      "added_at": "2026-06-19 04:01:50",
-      "album": {
         "name": "Caravelle",
         "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 276293,
       "name": "Canop\u00e9e",
       "url": "https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa"
+    },
+    {
+      "added_at": "2026-06-19 04:01:50",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "Talk Down",
+      "url": "https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO"
     },
     {
       "added_at": "2026-06-19 04:01:50",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-19 04:01:50",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2026-06-19 04:01:50",
-      "album": {
         "name": "Go for Your Guns",
         "url": "https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 306422,
       "name": "Footsteps in the Dark, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9"
+    },
+    {
+      "added_at": "2026-06-19 04:01:50",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2026-06-19 04:01:50",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-06-19 04:01:50",
       "album": {
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+    },
+    {
+      "added_at": "2026-06-19 04:01:50",
+      "album": {
         "name": "Lou's Tune",
         "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
-    },
-    {
-      "added_at": "2026-06-19 04:01:50",
-      "album": {
-        "name": "Back on 74 (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 174233,
-      "name": "Back On 74 - Full Crate Remix",
-      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
       "added_at": "2026-06-19 04:01:50",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-06-19 04:01:50",
       "album": {
-        "name": "Superclean, Vol. I",
-        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 176599,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
-    },
-    {
-      "added_at": "2026-06-19 04:01:50",
-      "album": {
         "name": "Lotus 72 D",
         "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 180490,
       "name": "Lotus 72 D - Fast Version",
       "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
+    },
+    {
+      "added_at": "2026-06-19 04:01:50",
+      "album": {
+        "name": "Superclean, Vol. I",
+        "url": "https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 176599,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
     },
     {
       "added_at": "2026-06-19 04:01:50",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-06-19 04:01:50",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2026-06-19 04:01:50",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 305776,
       "name": "Cheer Up, My Brother",
       "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
+    },
+    {
+      "added_at": "2026-06-19 04:01:50",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2026-06-19 04:01:50",

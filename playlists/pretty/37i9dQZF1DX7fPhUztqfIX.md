@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Charles Weems
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,530 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,540 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 99 | [Tasted & Seen](https://open.spotify.com/track/22FACNj9JLZ127zlYPMRWW) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Ivana Kamalani](https://open.spotify.com/artist/3FXgpP5d0fe8LKQjoBMEbx) | [Tasted & Seen](https://open.spotify.com/album/3Qhj15zhsBlPwrpl5PAdKi) | 3:38 |
 | 100 | [All Because You're Worthy](https://open.spotify.com/track/6OXtSu3IzUXs2EyjQgE6Me) | [Rolling Hills Worship](https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M), [Jennifer Akers](https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U) | [All Because You're Worthy](https://open.spotify.com/album/0ak1XoNUnnJYzPslbn5w76) | 5:45 |
 
-Snapshot ID: `AAAAAGZX0WpS52dI23XTis04rvTkA3Zh`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

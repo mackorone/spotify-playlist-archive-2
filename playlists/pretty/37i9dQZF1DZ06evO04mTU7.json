@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 16146,
+  "num_followers": 16157,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACSpD2NPZWJD7Q+2j07ZsSb",
+  "snapshot_id": "aj8SgAAAAACpjvd7Lxh7oJYQm40gT4S0",
   "tracks": [
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
         "url": "https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 343373,
       "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
       "url": "https://open.spotify.com/track/6alaU0cNbfd67sjJqjAXG2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
     },
     {
       "added_at": null,
@@ -1035,22 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 120893,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 165454,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 120893,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/1igM92WF0d1rmSTya2Vsep"
     },
     {
       "added_at": null,

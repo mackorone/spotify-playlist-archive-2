@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 385089,
       "name": "About To Run - Live",
       "url": "https://open.spotify.com/track/3WZW8BOO1PrM82cBC1pEWH"
@@ -21025,6 +21025,32 @@
     },
     {
       "album": {
+        "name": "Lucille Talks Back 50th Anniversary",
+        "url": "https://open.spotify.com/album/1Bib3OB01eN8EUVVUOdJGm"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209295,
+      "name": "Everybody Lies A Little",
+      "url": "https://open.spotify.com/track/1dasu8Qw1WLdsIKHtzmF0F"
+    },
+    {
+      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/6uElxqrldoTj8WjASR24xD"
       },
@@ -24616,7 +24642,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 271956,
       "name": "from me to u (feat. Poppy) (LIVE FROM THE O2)",
       "url": "https://open.spotify.com/track/58EmK4iuIt5l0MiV9exYRx"
@@ -27646,7 +27672,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 77500,
       "name": "Good Church Benediction",
       "url": "https://open.spotify.com/track/37Ci0k7d9pmDkuHRAmIJpu"
@@ -61936,6 +61962,24 @@
       "duration_ms": 185864,
       "name": "Soy un Marsupial",
       "url": "https://open.spotify.com/track/1O2vi41QZ358Rf50NOFjBv"
+    },
+    {
+      "album": {
+        "name": "Phish: Live In Saratoga Springs 2025",
+        "url": "https://open.spotify.com/album/4BqXGMryy9kCGnEjr3KObE"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1498478,
+      "name": "SPAC3 Soundcheck Jam - Live",
+      "url": "https://open.spotify.com/track/27jbvTiWMxzJoag9pgYN12"
     },
     {
       "album": {

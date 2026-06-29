@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Noa Sainz en portada \u2728",
-  "num_followers": 95116,
+  "num_followers": 95121,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 184654,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -319,18 +319,18 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 184654,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-04-17 06:00:54",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 160575,
       "name": "saman\u00e1",
       "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
-        "name": "ella brilla",
-        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        },
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "ella brilla",
-      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
     },
     {
       "added_at": "2026-04-10 16:15:50",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-04-10 16:15:50",
       "album": {
-        "name": "CORAZON PESAO",
-        "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
-      },
-      "artists": [
-        {
-          "name": "Lua Lacruz",
-          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "CORAZON PESAO",
-      "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
-    },
-    {
-      "added_at": "2026-04-10 16:15:50",
-      "album": {
         "name": "Al Mismo Kbrn (De Siempre)",
         "url": "https://open.spotify.com/album/090ET0e1hTQLnCvnc5X9yN"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 201694,
       "name": "Al Mismo Kbrn (De Siempre)",
       "url": "https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z"
+    },
+    {
+      "added_at": "2026-04-10 16:15:50",
+      "album": {
+        "name": "CORAZON PESAO",
+        "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
+      },
+      "artists": [
+        {
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "CORAZON PESAO",
+      "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
     },
     {
       "added_at": "2026-04-10 16:15:50",

@@ -4,7 +4,7 @@
 
 > Chill r&b\. Cover: BOY SODA
 
-1,692 songs - 3 day 20 hr 53 min
+1,693 songs - 3 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 | 2020-07-22 | 2021-03-26 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2021-03-19 | 2023-08-12 |
 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 | 2023-09-15 | 2024-07-13 |
+| [good girl](https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:01 | 2026-06-29 |  |
 | [Good Girls Finish Last](https://open.spotify.com/track/3j8hlB1QSlKvWgDAym77x4) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Good Girls Finish Last](https://open.spotify.com/album/7q4DF1pfa9zlm77xg9uJg1) | 3:02 | 2024-09-06 | 2025-01-18 |
 | [Good Love](https://open.spotify.com/track/6DzraB0QNT0e3ZjcAMTf3t) | [Joey XL](https://open.spotify.com/artist/0OQOwTGju6MADakqECMNoV) | [Good Love](https://open.spotify.com/album/3Idj13qAmwJNOvF9QPLxUn) | 3:01 | 2022-09-30 | 2023-04-01 |
 | [Good Love](https://open.spotify.com/track/7z5mythpa4M2WDXZR2bgtg) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 4:23 | 2024-08-09 | 2025-07-05 |
@@ -684,7 +685,7 @@
 | [Honey Dew](https://open.spotify.com/track/5IQzzrwxQ3tFNOf1Ixnwft) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Cosmic Wind](https://open.spotify.com/album/61daGwqgh0MGK2MigtyVfv) | 3:13 | 2019-07-10\* | 2019-11-05 |
 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 | 2026-02-27 | 2026-06-13 |
 | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/track/6hVfkxD7h8aQtmSgmPlMM5) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/album/4wuPuMG4g7JHwhTopjBPwG) | 4:11 | 2026-05-01 |  |
-| [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 | 2026-02-20 |  |
+| [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 | 2026-02-20 | 2026-06-29 |
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-08-15 |  |
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-08-25 | 2024-09-28 |
 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 | 2026-03-20 |  |

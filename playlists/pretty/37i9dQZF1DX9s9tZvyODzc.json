@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 220704,
+  "num_followers": 220739,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,22 @@
     {
       "added_at": "2026-06-25 21:21:12",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+        "name": "ily (i love you baby) (feat. Emilee)",
+        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
         },
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
         }
       ],
-      "duration_ms": 231532,
-      "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+      "duration_ms": 176546,
+      "name": "ily (i love you baby) (feat. Emilee)",
+      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
       "added_at": "2026-06-25 21:21:12",
@@ -527,22 +527,22 @@
     {
       "added_at": "2026-06-25 21:21:12",
       "album": {
-        "name": "ily (i love you baby) (feat. Emilee)",
-        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         },
         {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 176546,
-      "name": "ily (i love you baby) (feat. Emilee)",
-      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+      "duration_ms": 231532,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
     },
     {
       "added_at": "2026-06-25 21:21:12",
@@ -631,22 +631,18 @@
     {
       "added_at": "2026-06-25 21:21:12",
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 340920,
-      "name": "Clint Eastwood",
-      "url": "https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT"
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2026-06-25 21:21:12",
@@ -671,18 +667,22 @@
     {
       "added_at": "2026-06-25 21:21:12",
       "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
         }
       ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+      "duration_ms": 340920,
+      "name": "Clint Eastwood",
+      "url": "https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT"
     },
     {
       "added_at": "2026-06-25 21:21:12",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-06-25 21:21:12",
       "album": {
+        "name": "Simply the Best",
+        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 255936,
+      "name": "The Best - Edit",
+      "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
+    },
+    {
+      "added_at": "2026-06-25 21:21:12",
+      "album": {
         "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 258937,
       "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
       "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
-    },
-    {
-      "added_at": "2026-06-25 21:21:12",
-      "album": {
-        "name": "Simply the Best",
-        "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 255936,
-      "name": "The Best - Edit",
-      "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
     },
     {
       "added_at": "2026-06-25 21:21:12",

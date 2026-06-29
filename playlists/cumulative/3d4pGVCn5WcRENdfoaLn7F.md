@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-389 songs - 23 hr 27 min
+390 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-11 | 2026-03-05 |
 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 | 2025-12-03 | 2026-01-05 |
 | [Erinnerungen](https://open.spotify.com/track/5AKMbE3VUKTQcaHPsb16k6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Erinnerungen](https://open.spotify.com/album/0bd8FyoYz7sC0zZl911zya) | 3:06 | 2026-01-15 | 2026-02-25 |
+| [Está na Hora](https://open.spotify.com/track/6WrxIMkY6e661lGed0vDUo) | [Percivais](https://open.spotify.com/artist/3ctSG1qg916RpEUCXlO1rc) | [Está na Hora](https://open.spotify.com/album/35ysxYJz1e8TAfAwFKXbqq) | 4:18 | 2026-06-28 |  |
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-05-26 |  |
 | [Fake](https://open.spotify.com/track/6ZiqkmLK7iMUwp4XrrmjMh) | [Tina Debs](https://open.spotify.com/artist/48c3LCh0VFH0nMeFnbyaMe) | [Fake](https://open.spotify.com/album/0uVwgFrjKFF0UVPFTtyltL) | 3:46 | 2026-02-16 | 2026-03-27 |
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-23 |  |

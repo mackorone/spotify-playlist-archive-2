@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 139732,
+  "num_followers": 139741,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABwmi+ceZmDFSwGA/Y2h8ki",
+  "snapshot_id": "aj8SgAAAAADciz3lsaUwO1ifPtx7FYIU",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
+      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 385506,
       "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
       "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
-      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
     },
     {
       "added_at": null,

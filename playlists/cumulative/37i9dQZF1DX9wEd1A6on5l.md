@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-896 songs - 1 day 18 hr 17 min
+897 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Gin & Juice](https://open.spotify.com/track/68ywjjGuJD3uzJDKJpXQB5) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Another Style](https://open.spotify.com/album/0z3KhLC6yItBrFzYvHOe8y) | 2:36 | 2024-06-14 | 2024-07-29 |
 | [GIN & JUICE](https://open.spotify.com/track/2ep6Y3iyiI8wcoNWdt6vSf) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [TMX002: X & The Machine.](https://open.spotify.com/album/5u2601naE6IiDYi7C8JBtO) | 3:21 | 2023-07-28 | 2023-08-11 |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2023-05-11 | 2023-09-28 |
-| [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-18 |  |
+| [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-18 | 2026-06-29 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 | 2023-09-28 |
 | [Give U](https://open.spotify.com/track/5wjTaDHumqCrhhZVK1ign5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [King Carsley](https://open.spotify.com/artist/7fj63M0dam8Ydp9TUrXrkZ) | [Give U](https://open.spotify.com/album/2mxQrdagZVtcd1RDWJF0fb) | 2:32 | 2025-12-19 | 2026-01-15 |
 | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 | 2025-05-30 | 2025-06-07 |
@@ -633,6 +633,7 @@
 | [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 | 2026-05-22 | 2026-06-09 |
 | [Omoge](https://open.spotify.com/track/3w7hEOANXes1IKKbOWywli) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [Omoge](https://open.spotify.com/album/5M9f0y4j7cOd85CV1lo3V6) | 2:32 | 2026-03-20 | 2026-04-17 |
 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 | 2025-12-05 | 2026-03-03 |
+| [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-06-25 |  |
 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 | 2025-08-01 | 2025-10-25 |
 | [One Bottle](https://open.spotify.com/track/3pGKYh5u196Dtbrt5nVEvF) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [One Bottle](https://open.spotify.com/album/2FCsHS2kTAoAkoxIG7tMxU) | 2:10 | 2024-06-28 | 2024-07-18 |
 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-07-19 | 2025-04-01 |

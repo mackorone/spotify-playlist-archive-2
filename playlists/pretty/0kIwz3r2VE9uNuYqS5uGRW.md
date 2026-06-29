@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 255 songs - 13 hr 21 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 256 songs - 13 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,5 +263,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 253 | [3P3](https://open.spotify.com/track/6IHH0LmthFLpXLAbrYkUlw) | [Bastyann](https://open.spotify.com/artist/34Ufkh4lTUvCJpGspVsd8d), [Danche](https://open.spotify.com/artist/3dQx0MvP6u0nA6SfY38V5j), [Danncray](https://open.spotify.com/artist/5VD7tAqlMjgCRCBhs3xjTZ) | [RITUALES](https://open.spotify.com/album/7IBdexOx4VYxhfGr9X5QuR) | 2:19 |
 | 254 | [Let them](https://open.spotify.com/track/6LH4XRb1VsDfqb2KvznJwG) | [Merla](https://open.spotify.com/artist/1GgYEBhQle66sXg6jOdA8K) | [Let them](https://open.spotify.com/album/5S8Yuc25oFb8PAZNm2USLr) | 2:52 |
 | 255 | [You're not alone](https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [You're not alone](https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99) | 3:23 |
+| 256 | [Arugula](https://open.spotify.com/track/42HTRKIBaIFeqwUcTzVOKK) | [Liz Kennedy](https://open.spotify.com/artist/0vkGqBr3YSlwElXPx6XKtz) | [Speed Bump](https://open.spotify.com/album/364p81aJ3JmdyFPruE73Zi) | 3:04 |
 
-Snapshot ID: `AAAWBVklAp4ERTD/FY1lh9Liys0vQRnR`
+Snapshot ID: `AAAWBruixOQyAfyIpAaWr1s+TRGuRg20`

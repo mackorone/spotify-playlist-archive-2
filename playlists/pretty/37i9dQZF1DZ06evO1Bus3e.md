@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,717 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,716 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 8 | [Cambios De La Vida](https://open.spotify.com/track/5zUnUk1y44LsP8YonntRfw) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:31 |
 | 9 | [Arsenal Efectivo](https://open.spotify.com/track/4YPQl10RZ6mvcU4eybZ4Hu) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di) | 2:07 |
 | 10 | [Soy De Ambiente](https://open.spotify.com/track/0Zu3mHd7Oq5tCTctYlmBwJ) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:46 |
-| 11 | [DIOSA](https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [DIOSA](https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ) | 3:34 |
-| 12 | [XIX](https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Trap Romantix](https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7) | 2:34 |
+| 11 | [XIX](https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Trap Romantix](https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7) | 2:34 |
+| 12 | [DIOSA](https://open.spotify.com/track/25Hpxra07AbkK4l3SzwKyt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [DIOSA](https://open.spotify.com/album/2peVeEknLSziqoRn6OY6bZ) | 3:34 |
 | 13 | [FIONA](https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [FIONA](https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ) | 3:08 |
 | 14 | [Recio Andamos](https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:56 |
 | 15 | [Seguiremos Trabajando](https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:02 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 34 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 |
 | 35 | [Platicame De Ti \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Sol De Mi Tierra\- mariacheño](https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platicame De Ti \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 |
 
-Snapshot ID: `aj3BAAAAAACWHxwNTqj9pP6nXUrPzR9u`
+Snapshot ID: `aj8SgAAAAADOYrau41R0HcC4vTFynWre`

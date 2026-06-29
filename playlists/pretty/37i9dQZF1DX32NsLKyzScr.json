@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2596287,
+  "num_followers": 2596189,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 170270,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -935,26 +935,6 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
-        "name": "FADE",
-        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "FADE",
-      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
+        "name": "FADE",
+        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "FADE",
+      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
         "name": "Flames (feat. Bandit)",
         "url": "https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 193500,
       "name": "GIRLBOSS",
       "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 218978,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
         "name": "All My Life (feat. John Martin)",
         "url": "https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 172941,
       "name": "All My Life (feat. John Martin)",
       "url": "https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "Eyes On Me",
-        "url": "https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU"
-      },
-      "artists": [
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 218978,
-      "name": "Eyes On Me",
-      "url": "https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
+        "name": "Can't Stop Loving You",
+        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 205106,
+      "name": "Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
-        "name": "Can't Stop Loving You",
-        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -1663,6 +1663,26 @@
       "duration_ms": 172615,
       "name": "Turn Up The Dose",
       "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
+        "name": "Whatever Turns You On (ft. Bonn)",
+        "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 195727,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1699,6 +1719,26 @@
       "duration_ms": 227091,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "No Mercy",
+      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1819,22 +1859,26 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
+        "name": "Roses (feat. Richard Judge)",
+        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Richard Judge",
+          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
         }
       ],
-      "duration_ms": 198190,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
+      "duration_ms": 164307,
+      "name": "Roses (feat. Richard Judge)",
+      "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1863,22 +1907,22 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
-        "name": "No Mercy",
-        "url": "https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         },
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 155666,
-      "name": "No Mercy",
-      "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
+      "duration_ms": 198190,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -1899,46 +1943,6 @@
       "duration_ms": 200000,
       "name": "Enjoy the Silence - Don Diablo Version",
       "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "Whatever Turns You On (ft. Bonn)",
-        "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 195727,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 172900,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -2007,6 +2011,26 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 172900,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
+    },
+    {
+      "added_at": "2026-06-26 04:00:09",
+      "album": {
         "name": "Turbo Speed",
         "url": "https://open.spotify.com/album/0K72EPIuZhMavGaAjIvuUX"
       },
@@ -2019,30 +2043,6 @@
       "duration_ms": 168275,
       "name": "Turbo Speed",
       "url": "https://open.spotify.com/track/0j5CaQ9881LxFM8Cwh9JuH"
-    },
-    {
-      "added_at": "2026-06-26 04:00:09",
-      "album": {
-        "name": "Roses (feat. Richard Judge)",
-        "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Richard Judge",
-          "url": "https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Roses (feat. Richard Judge)",
-      "url": "https://open.spotify.com/track/2l0uDfDDdz1cGLvAzw474o"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -2155,26 +2155,18 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
-        "name": "Sun Goes Down (feat. Camden Cox)",
-        "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
         }
       ],
-      "duration_ms": 346904,
-      "name": "Sun Goes Down (feat. Camden Cox)",
-      "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
+      "duration_ms": 107076,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/1nPlHQEL4IeM1mDGjseodk"
     },
     {
       "added_at": "2026-06-26 04:00:09",
@@ -2215,18 +2207,26 @@
     {
       "added_at": "2026-06-26 04:00:09",
       "album": {
-        "name": "Listen To Me",
-        "url": "https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8"
+        "name": "Sun Goes Down (feat. Camden Cox)",
+        "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
       },
       "artists": [
         {
-          "name": "Mesto",
-          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 107076,
-      "name": "Listen To Me",
-      "url": "https://open.spotify.com/track/1nPlHQEL4IeM1mDGjseodk"
+      "duration_ms": 346904,
+      "name": "Sun Goes Down (feat. Camden Cox)",
+      "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
     },
     {
       "added_at": "2026-06-26 04:00:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,377 likes - 107 songs - 6 hr 20 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,379 likes - 109 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 105 | [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 |
 | 106 | [The World's Fairytale](https://open.spotify.com/track/3967kWoIKt352K1STgnNtS) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 2:57 |
 | 107 | [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 |
+| 108 | [A Message From Your CEO](https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [A Message From Your CEO](https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N) | 2:59 |
+| 109 | [My Second City](https://open.spotify.com/track/6JQWtSGeYlM3Op0AxmlWrl) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Firefly](https://open.spotify.com/album/1bMDCSdzHHfO9z0qkHZKpw) | 4:10 |
 
-Snapshot ID: `AAB8JUmwl2QwMQOiMsmIq+7TIhWhWDEL`
+Snapshot ID: `AAB8KIWPbeaxOGHU5hBvnL6VM7tMsWIy`

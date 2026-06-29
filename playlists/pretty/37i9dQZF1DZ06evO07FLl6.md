@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,786 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,803 likes - 49 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 46 | [Julien dans l'ascenseur \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:09 |
 | 47 | [The Duke](https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:34 |
 | 48 | [The Pan Piper](https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Sketches of Spain](https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD) | 3:56 |
-| 49 | [It Never Entered My Mind \- From The Album Workin' With The Miles Davis Quintet](https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [INTEGRAL MILES DAVIS 1951\-1956](https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH) | 5:23 |
-| 50 | [Yesterdays](https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 3:46 |
+| 49 | [Yesterdays](https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 3:46 |
 
-Snapshot ID: `aj3BAAAAAADGO8pZgUh7FDlta6bD4mVS`
+Snapshot ID: `aj8SgAAAAABRa/ENNvf3ggb+euSQwhTk`

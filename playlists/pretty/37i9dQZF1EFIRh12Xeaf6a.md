@@ -232,8 +232,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 222 | [Labyrinth](https://open.spotify.com/track/0oPJAmXNC5IkH2XLz82yEe) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:03 |
 | 223 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
 | 224 | [Welcome Home](https://open.spotify.com/track/4cVFBWl1vyZYWHOtzw7psB) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:20 |
-| 225 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
-| 226 | [My Blue Angel](https://open.spotify.com/track/0Z2tzoKSVUKO6U0a0bIyWT) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Promises](https://open.spotify.com/album/2f70c1KMEzQVzfw3H80Joy) | 2:55 |
+| 225 | [My Blue Angel](https://open.spotify.com/track/0Z2tzoKSVUKO6U0a0bIyWT) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Promises](https://open.spotify.com/album/2f70c1KMEzQVzfw3H80Joy) | 2:55 |
+| 226 | [Good Mountain People](https://open.spotify.com/track/7oFn8J65n3wwrALSVXpDEE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:38 |
 | 227 | [Victim Of Circumstance](https://open.spotify.com/track/7jEQx0Bfy3aQF98m1PISHS) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:36 |
 | 228 | [Why Are You Leaving](https://open.spotify.com/track/4P9rAdHYFnYNbrISPudQx3) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 3:38 |
 | 229 | [Alabaster Lady](https://open.spotify.com/track/4we4nCRG5FpRxntNscoQIs) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 5:38 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 286 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 287 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcVYBAAAAAAN41e1zgMYvgE56vcrmWDj`
+Snapshot ID: `AcVdpAAAAAATl6cbjYHZBJc+VNIuoLQQ`

@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 186042,
+  "num_followers": 186114,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "I Want You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "I Want You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "One Hundred Ways",
-      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "One Hundred Ways",
+      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 371701,
+      "name": "Summer Breeze, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 268173,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "3+3",
-        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 371701,
-      "name": "Summer Breeze, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
         "name": "Silky Soul",
         "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 177786,
       "name": "Stop, Look, Listen (To Your Heart)",
       "url": "https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2025-06-03 20:18:35",

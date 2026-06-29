@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "BAD LOVE",
+        "url": "https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "date_added": "2026-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185437,
+      "name": "BAD LOVE",
+      "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
+    },
+    {
+      "album": {
         "name": "Bestie Baby",
         "url": "https://open.spotify.com/album/4HtiqIahZ2XUr6pXu6hqKo"
       },
@@ -742,7 +760,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 146204,
       "name": "MEXE",
       "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 203296,
       "name": "My Body",
       "url": "https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs"

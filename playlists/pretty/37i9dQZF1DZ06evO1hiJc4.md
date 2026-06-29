@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,359 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,366 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 44 | [Angel in Your Eyes \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:06 |
 | 45 | [Orchestra](https://open.spotify.com/track/3DHIw47UndWh5vcjGN0eJM) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:54 |
 | 46 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
-| 47 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
-| 48 | [Titans](https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 3:19 |
-| 49 | [To Be Human \(feat\. Labrinth\)](https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Wonder Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd) | 4:00 |
-| 50 | [Benji Puts His Mum To Rest](https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:09 |
+| 47 | [Benji Puts His Mum To Rest](https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:09 |
+| 48 | [Frisky \(feat\. Labrinth\)](https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Disc\-Overy](https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr) | 4:55 |
+| 49 | [Titans](https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is the Weapon \(Reloaded\)](https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih) | 3:19 |
+| 50 | [To Be Human \(feat\. Labrinth\)](https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Wonder Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd) | 4:00 |
 
-Snapshot ID: `aj3BAAAAAACc8+5tDhrlO0cfO+qq7e/v`
+Snapshot ID: `aj8SgAAAAAC+SRUyJAOWkKW9CyspKF5+`

@@ -3953,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "First and Last",
+        "url": "https://open.spotify.com/album/2L9UxgoDgpQcOKlbkkztzB"
+      },
+      "artists": [
+        {
+          "name": "Kainos Music",
+          "url": "https://open.spotify.com/artist/0fe4LUoWX5oSySWjoN54YG"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495157,
+      "name": "First and Last",
+      "url": "https://open.spotify.com/track/0DkQE2DHIbCqMqdN4r28KF"
+    },
+    {
+      "album": {
         "name": "For My Life",
         "url": "https://open.spotify.com/album/7FV57y7NS0WIMwvk7dHjhq"
       },
@@ -6060,7 +6082,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 211831,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"

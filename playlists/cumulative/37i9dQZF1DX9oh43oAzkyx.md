@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-463 songs - 23 hr 13 min
+464 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Grey Area](https://open.spotify.com/track/6jzW19SQaLj1kLArvipGQZ) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 2:51 | 2021-01-04 | 2022-07-14 |
 | [GTA 6](https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [GTA 6](https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us) | 2:48 | 2026-03-13 |  |
 | [Gucci Flow](https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Gucci Flow](https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q) | 2:11 | 2022-12-09 | 2022-12-18 |
+| [HAAVIN](https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HAAVIN](https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm) | 2:30 | 2026-06-26 |  |
 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 | 2022-07-29 | 2023-02-04 |
 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2022-12-09 |  |
 | [Headshot \(feat\. Polo G & Fivio Foreign\)](https://open.spotify.com/track/4eNOLmx8r2IJAVKvBBL1jv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:24 | 2021-03-26 | 2022-12-10 |
@@ -418,7 +419,7 @@
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-23 | 2022-12-03 |
 | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Much \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj) | 3:08 | 2022-12-09 | 2023-02-18 |
 | [Toolie](https://open.spotify.com/track/05KKOI0SXutMpliFutgwOx) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Toolie](https://open.spotify.com/album/3ikkmlZKMLbi0JCPzRysJN) | 2:17 | 2021-10-29 | 2022-04-20 |
-| [TRAUMA BOND \(feat\. Marching Crimson Pipers\)](https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Marching Crimson Pipers](https://open.spotify.com/artist/24D3dDW0nd3SlK3YEpltJR) | [TRAUMA BOND \(feat\. Marching Crimson Pipers\)](https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80) | 2:43 | 2026-03-23 |  |
+| [TRAUMA BOND \(feat\. Marching Crimson Pipers\)](https://open.spotify.com/track/4FBweKWPMAJyqjOqwlaxN9) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Marching Crimson Pipers](https://open.spotify.com/artist/24D3dDW0nd3SlK3YEpltJR) | [TRAUMA BOND \(feat\. Marching Crimson Pipers\)](https://open.spotify.com/album/6svobbo5wMTqnZX9D62c80) | 2:43 | 2026-03-23 | 2026-06-29 |
 | [Trophies](https://open.spotify.com/track/1T0iAFb7dgP0hajkmYstFu) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:02 | 2025-09-19 | 2026-04-25 |
 | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B) | 3:43 | 2025-08-15 |  |
 | [TRYNA MAKE SURE](https://open.spotify.com/track/64SQ4g8uLSe7YPWm726yjG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [TRYNA MAKE SURE](https://open.spotify.com/album/6DkSEULcpf8LkbUUCVskIW) | 2:46 | 2024-05-05 | 2025-06-03 |

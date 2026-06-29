@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 730 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 17 | [Interlude III](https://open.spotify.com/track/2gKFOjYqtJpSsIXdRxZQfH) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 2:49 |
 | 18 | [Honest](https://open.spotify.com/track/6VJo03UtC1uXfdk93NvfMb) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 4:12 |
 | 19 | [Prelude](https://open.spotify.com/track/2ZgFgrxaenAAcsbdO7hE5M) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Bad Ideas](https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl) | 1:03 |
-| 20 | [Just Right](https://open.spotify.com/track/66dqk0qO4EXnMPINSLKf6O) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Sunshine \(Just Right\) \- Geometry Dash](https://open.spotify.com/album/74shlt8UzFHfaZsjKmyHrZ) | 3:22 |
-| 21 | [Games \- The Punk AF Matt Squire Mix](https://open.spotify.com/track/712WvUxCO6Boj4Rl919hRG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [Games \(The Punk AF Matt Squire Mix\)](https://open.spotify.com/album/5Zn9eH8IXs4bK10nfBoJQF) | 3:31 |
-| 22 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/7lti7VdGyzUC8qTlVnslwR) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 |
-| 23 | [I Like \(the idea of\) You \- Viceroy Remix](https://open.spotify.com/track/4O51wvfqAA5TJ1AmabHzjN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Bad Ideas \- THE REMIXES](https://open.spotify.com/album/4CbwvCybB8QqbbFpFF3jmP) | 3:40 |
+| 20 | [Just Right](https://open.spotify.com/track/6KlYPhqlhONvLlJspJjbYT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:22 |
+| 21 | [Make Me A Robot](https://open.spotify.com/track/7H1qbyVlnjkwTSKb6Kovs4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:57 |
+| 22 | [Games \- The Punk AF Matt Squire Mix](https://open.spotify.com/track/712WvUxCO6Boj4Rl919hRG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp), [Matt Squire](https://open.spotify.com/artist/3Pk9L2rUT7wj7queJvrlp5) | [Games \(The Punk AF Matt Squire Mix\)](https://open.spotify.com/album/5Zn9eH8IXs4bK10nfBoJQF) | 3:31 |
+| 23 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4SwltcKHPkCVrvBSOrO0Er) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:48 |
+| 24 | [Broken Record](https://open.spotify.com/track/1wLlBbOu8hXNKMVSbUYAxE) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:06 |
+| 25 | [Small](https://open.spotify.com/track/1OssFHKP8AZlj1ouoQ9vcN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:47 |
+| 26 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/7lti7VdGyzUC8qTlVnslwR) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 |
+| 27 | [Tennessee](https://open.spotify.com/track/7ITbMtDH8ieA1Wb51SrYNn) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:16 |
+| 28 | [I Like \(the idea of\) You \- Viceroy Remix](https://open.spotify.com/track/4O51wvfqAA5TJ1AmabHzjN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Bad Ideas \- THE REMIXES](https://open.spotify.com/album/4CbwvCybB8QqbbFpFF3jmP) | 3:40 |
+| 29 | [Like You Used To](https://open.spotify.com/track/0011BdwcmGqa32l56KOgsS) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:40 |
+| 30 | [Spend Some Time](https://open.spotify.com/track/2jHq8QIir2nXNxfLyMBqos) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
+| 31 | [The Things I Do](https://open.spotify.com/track/1QsQe24ee2HP1xR9zuL39z) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:01 |
+| 32 | [Now That We're Done](https://open.spotify.com/track/7lMiwAH0WuFDoqPtved0P4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 1:56 |
+| 33 | [This I Pray For You](https://open.spotify.com/track/4hxvSOSi7kAgVf3wPmhKWT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
 
-Snapshot ID: `AcVX5gAAAADIzOPDJ3jHPaiW1RwpvxLq`
+Snapshot ID: `AcVdhgAAAAD1cYeVUev5Lki8r+SennXV`

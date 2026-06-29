@@ -53,6 +53,32 @@
     },
     {
       "album": {
+        "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/26K33hslhLjbLD7BUpNsyd"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "Nova Tropics",
+          "url": "https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK"
+        },
+        {
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191465,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/0pe9W1mVrqdjrXhJTDQjUK"
+    },
+    {
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm"
       },
@@ -2650,6 +2676,32 @@
       "duration_ms": 213387,
       "name": "When Your Heart Breaks",
       "url": "https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP"
+    },
+    {
+      "album": {
+        "name": "Whenever You're Alone",
+        "url": "https://open.spotify.com/album/59rfxnXMiVnODBUpxeUZPt"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "WUKONG",
+          "url": "https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T"
+        },
+        {
+          "name": "Chuanzi",
+          "url": "https://open.spotify.com/artist/2RAzRjAZmbbdeX8eUJ8ckF"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220491,
+      "name": "Whenever You're Alone",
+      "url": "https://open.spotify.com/track/3zMS4PvOg0fUFgCOaFTOg1"
     },
     {
       "album": {

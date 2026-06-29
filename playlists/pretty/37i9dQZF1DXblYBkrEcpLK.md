@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,720 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,734 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 47 | [Petals](https://open.spotify.com/track/1OslJG115ssBaUScyGVopF) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [Petals \(feat\. 夏背\)](https://open.spotify.com/album/4MPJBkBa0Ewh17yWjOLC9D) | 2:52 |
 | 48 | [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 |
 | 49 | [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 |
-| 50 | [BABY](https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [BABY](https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG) | 3:50 |
+| 50 | [月に向かって撃て](https://open.spotify.com/track/2aQpmTVc26tkNVChUYzZcS) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [月に向かって撃て](https://open.spotify.com/album/5aZz8n89Y0VpdCEioB05NS) | 3:13 |
 
 Snapshot ID: `AAAAAPkxJUF5tes3WId7ZNMswZhioN/t`

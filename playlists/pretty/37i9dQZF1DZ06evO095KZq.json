@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 449234,
+  "num_followers": 449264,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAB38sWO4bgwtHaYShIVnK+c",
+  "snapshot_id": "aj8SgAAAAADpBLCdj+oBtB/AzNrj17jv",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Equipo Armado",
+        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 151903,
+      "name": "Mi 45",
+      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Gato",
         "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 199462,
       "name": "El Gato",
       "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Equipo Armado",
-        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 151903,
-      "name": "Mi 45",
-      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 104746,
-      "name": "Ser\u00e9 un Borracho",
-      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 152762,
-      "name": "Catarino y los Rurales",
-      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+      "duration_ms": 104746,
+      "name": "Ser\u00e9 un Borracho",
+      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Selectivo",
+        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 187743,
+      "name": "El Selectivo",
+      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Selectivo",
-        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 187743,
-      "name": "El Selectivo",
-      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
     },
     {
       "added_at": null,

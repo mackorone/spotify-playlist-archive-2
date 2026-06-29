@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,269 likes - 50 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,282 likes - 50 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 24 | [Ram Ram Ram Theme \(From "HanuMan"\)](https://open.spotify.com/track/2x3zExs91f1xC862CTRcUI) | [Saicharan and Chorus](https://open.spotify.com/artist/3DoPWHwSbHThFQV2u0vJvt), [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Ram Ram Theme \(From "HanuMan"\)](https://open.spotify.com/album/6UmuhgdVEvhHw3crgrV4PR) | 0:55 |
 | 25 | [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 |
 | 26 | [And the Saturdays Continue](https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:28 |
-| 27 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
+| 27 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
 | 28 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 |
 | 29 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
 | 30 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
 | 31 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |
-| 32 | [Goodachari Main Theme](https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 2:57 |
+| 32 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
 | 33 | [Nenu Na Rakshasi\(Theme\)](https://open.spotify.com/track/01uskjjgcPpm4gUgfe3CuP) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 1:55 |
 | 34 | [The Raid](https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Game Changer \(Telugu\)](https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO) | 1:22 |
 | 35 | [Pushpa To Be Continued](https://open.spotify.com/track/4FAExsUfyPhBWZh40fIyrJ) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:52 |

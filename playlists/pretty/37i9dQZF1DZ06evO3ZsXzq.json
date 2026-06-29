@@ -1,12 +1,12 @@
 {
   "description": "This is Harry Styles. The essential tracks, all in one playlist.",
-  "num_followers": 13033,
+  "num_followers": 13032,
   "original_name": "This Is Harry Styles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAD/zh8OJI9KVX0QyRy9QsMu",
+  "snapshot_id": "aj8SgAAAAADshuNL/1sHQBVKkZwd1czQ",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 211954,
-      "name": "From the Dining Table",
-      "url": "https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6"
+      "duration_ms": 176386,
+      "name": "Kiwi",
+      "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 176386,
-      "name": "Kiwi",
-      "url": "https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW"
+      "duration_ms": 211954,
+      "name": "From the Dining Table",
+      "url": "https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6"
     },
     {
       "added_at": null,

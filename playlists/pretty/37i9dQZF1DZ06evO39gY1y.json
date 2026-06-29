@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 258756,
+  "num_followers": 258788,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAB5yJVfIiaVAcCLgUUIOTDC",
+  "snapshot_id": "aj8SgAAAAACMbkyImW3ksL6EUdR0ypqg",
   "tracks": [
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El \u00daltimo Tango",
         "url": "https://open.spotify.com/album/7uvZ0u4gg8xAm8b9lps07W"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 250382,
       "name": "El \u00daltimo Tango",
       "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,

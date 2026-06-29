@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136499,
+  "num_followers": 136498,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "Here For The Party (feat. Ella Langley)",
+        "url": "https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 210148,
+      "name": "Here For The Party (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -839,22 +859,6 @@
       "duration_ms": 216194,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -911,6 +915,22 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "Take Me as I Am",
         "url": "https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 246152,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "Here For The Party (feat. Ella Langley)",
-        "url": "https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 210148,
-      "name": "Here For The Party (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "Blinding Lights (Country Version)",
+        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 186008,
+      "name": "Blinding Lights - Country Version",
+      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "Footlights",
         "url": "https://open.spotify.com/album/1nTo7j2BBoHrr60jz56mVp"
       },
@@ -1095,18 +1111,34 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "Blinding Lights (Country Version)",
-        "url": "https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt"
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
       },
       "artists": [
         {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 186008,
-      "name": "Blinding Lights - Country Version",
-      "url": "https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG"
+      "duration_ms": 232640,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
+        "name": "When A Man Loves A Woman",
+        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 197885,
+      "name": "When A Man Loves A Woman",
+      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "When A Man Loves A Woman",
-        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 197885,
-      "name": "When A Man Loves A Woman",
-      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 149659,
-      "name": "Depression & Obsession",
-      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
         "name": "Someone Like You/Run",
         "url": "https://open.spotify.com/album/6xkhaMcs6Esu7gfHW1TGK5"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 255016,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1DjDt7ngqk7r1vpcV7d9sx"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
+        "name": "9 Lives",
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 149659,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1243,6 +1259,26 @@
       "duration_ms": 231750,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
+        "name": "Feelin' Good Again",
+        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 216502,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1311,22 +1347,6 @@
       "duration_ms": 257733,
       "name": "Walking In Memphis",
       "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1423,26 +1443,6 @@
       "duration_ms": 191949,
       "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "Feelin' Good Again",
-        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 216502,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
     },
     {
       "added_at": "2026-06-26 04:02:10",

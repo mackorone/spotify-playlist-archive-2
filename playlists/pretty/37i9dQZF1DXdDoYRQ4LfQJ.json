@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Rey Quinto & the hottest corridos in the U.S.",
-  "num_followers": 343040,
+  "num_followers": 343067,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -247,46 +247,6 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
-        "name": "Pacas",
-        "url": "https://open.spotify.com/album/6roohFaJt4zSikTAwN9N23"
-      },
-      "artists": [
-        {
-          "name": "Rutazz",
-          "url": "https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh"
-        },
-        {
-          "name": "Sintapia",
-          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
-        }
-      ],
-      "duration_ms": 209726,
-      "name": "Pacas",
-      "url": "https://open.spotify.com/track/5Nw18lTAxikcxe7ejez64Q"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -311,6 +271,46 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
+        "name": "Pacas",
+        "url": "https://open.spotify.com/album/6roohFaJt4zSikTAwN9N23"
+      },
+      "artists": [
+        {
+          "name": "Rutazz",
+          "url": "https://open.spotify.com/artist/0oiBm0uEsAcSnIEZUHxDsh"
+        },
+        {
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
+        }
+      ],
+      "duration_ms": 209726,
+      "name": "Pacas",
+      "url": "https://open.spotify.com/track/5Nw18lTAxikcxe7ejez64Q"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
         "name": "PUES QUE LE HAGO ?",
         "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -343,22 +359,6 @@
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/5t2uZtcH5UyXkCWYy5oxGo"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
         "name": "Si No Quieres No",
         "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 147011,
       "name": "Si No Quieres No",
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "Chiclona",
-        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
-      },
-      "artists": [
-        {
-          "name": "LENCHO",
-          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
-        }
-      ],
-      "duration_ms": 160165,
-      "name": "Chiclona",
-      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 237826,
       "name": "La Ultima Sombra",
       "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "Chiclona",
+        "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "duration_ms": 160165,
+      "name": "Chiclona",
+      "url": "https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
         "name": "S\u00faper Snake",
         "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
       },
@@ -915,38 +931,22 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55/66",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
-        "name": "El Chore",
-        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 170259,
-      "name": "El Chore",
-      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55/66",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -967,22 +967,22 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55/66",
-        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
+        "name": "El Chore",
+        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
         }
       ],
-      "duration_ms": 188361,
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55/66",
-      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+      "duration_ms": 170259,
+      "name": "El Chore",
+      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 160714,
       "name": "NO SON DORITOS",
       "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "R\u00e1pido Soy",
-        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 114125,
-      "name": "R\u00e1pido Soy",
-      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 174272,
       "name": "El Fat Tony",
       "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "R\u00e1pido Soy",
+        "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 114125,
+      "name": "R\u00e1pido Soy",
+      "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
-    },
-    {
-      "added_at": "2026-06-19 20:22:05",
-      "album": {
         "name": "Dinero No Tenia (En Vivo)",
         "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 208107,
       "name": "Dinero No Tenia - En Vivo",
       "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
+    },
+    {
+      "added_at": "2026-06-19 20:22:05",
+      "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2026-06-19 20:22:05",
@@ -1867,18 +1867,22 @@
     {
       "added_at": "2026-06-19 20:22:05",
       "album": {
-        "name": "EFECTO BARBAS",
-        "url": "https://open.spotify.com/album/1OjDgmLtS4ZC8HiMtSjvgP"
+        "name": "Los Brothers",
+        "url": "https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH"
       },
       "artists": [
         {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
         }
       ],
-      "duration_ms": 143738,
-      "name": "EFECTO BARBAS",
-      "url": "https://open.spotify.com/track/4RlkwTCQZoAbztnXMJ2tcF"
+      "duration_ms": 213442,
+      "name": "Los Brothers",
+      "url": "https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J"
     }
   ],
   "unique_name": "La Privada",

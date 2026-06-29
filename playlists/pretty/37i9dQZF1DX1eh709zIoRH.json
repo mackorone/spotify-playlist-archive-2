@@ -1,6 +1,6 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296530,
+  "num_followers": 296546,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Pink Lemonade (Str8 Reload)",
-        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Str8 Reload",
-          "url": "https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY"
-        }
-      ],
-      "duration_ms": 122208,
-      "name": "Pink Lemonade (Str8 Reload)",
-      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Str8 Reload",
+          "url": "https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY"
+        }
+      ],
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
       "added_at": "2025-11-14 00:00:23",

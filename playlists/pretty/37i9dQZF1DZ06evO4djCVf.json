@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 103079,
+  "num_followers": 103095,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAClwLyu5KJaMWk6BoVTzqqX",
+  "snapshot_id": "aj8SgAAAAACaQ/6lTXBt/7b8mUZtuig3",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
-        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
       },
       "artists": [
         {
           "name": "Suzan & Freek",
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
         }
       ],
-      "duration_ms": 204154,
-      "name": "Hou Vol Hou Vast",
-      "url": "https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8"
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
     },
     {
       "added_at": null,
@@ -247,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
         "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
       },
@@ -270,11 +250,31 @@
         {
           "name": "Suzan & Freek",
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
         }
       ],
-      "duration_ms": 197845,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl"
+      "duration_ms": 204154,
+      "name": "Hou Vol Hou Vast",
+      "url": "https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beste Zangers Seizoen 2020 (Suzan & Freek)",
+        "url": "https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 197845,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Batterij",
         "url": "https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 148965,
       "name": "Batterij",
       "url": "https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 232666,
-      "name": "Op Deze Dag - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
+      "duration_ms": 191666,
+      "name": "Elke Keer - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 191666,
-      "name": "Elke Keer - uit Liefde Voor Muziek",
-      "url": "https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im"
+      "duration_ms": 232666,
+      "name": "Op Deze Dag - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH"
     }
   ],
   "unique_name": "This Is Suzan & Freek",

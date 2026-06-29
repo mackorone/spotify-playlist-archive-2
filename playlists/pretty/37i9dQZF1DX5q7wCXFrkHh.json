@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 149999,
+  "num_followers": 150046,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The New Classic Trio",
-        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+        "name": "A Jazz Portrait Of Frank Sinatra",
+        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
       },
       "artists": [
         {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 408600,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
+      "duration_ms": 202133,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -115,18 +115,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "A Jazz Portrait Of Frank Sinatra",
-        "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
+        "name": "The New Classic Trio",
+        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
       "artists": [
         {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
         }
       ],
-      "duration_ms": 202133,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
+      "duration_ms": 408600,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Ellington Suites",
-        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "The Single Petal Of A Rose - The Queen's Suite",
-      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Explorations",
         "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 349493,
       "name": "Nardis",
       "url": "https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "The Ellington Suites",
+        "url": "https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "The Single Petal Of A Rose - The Queen's Suite",
+      "url": "https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Ready Take One",
-        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 227323,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 391426,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/7CYu93j5AsYDEhY7apdKvw"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Ready Take One",
+        "url": "https://open.spotify.com/album/2wWuVfDOvITHUmb0KDzbrM"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 227323,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/5L8yfDH7MIE7jWidHZPwBX"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
-        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
+        "name": "Piano Starts Here",
+        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
       },
       "artists": [
         {
@@ -1300,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
+      "duration_ms": 195000,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Piano Starts Here",
-        "url": "https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr"
+        "name": "The Art Tatum Solo Masterpieces, Vol. 7",
+        "url": "https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx"
+      "duration_ms": 235093,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
+        "name": "Made Possible",
+        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 370133,
+      "name": "Pound For Pound",
+      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
         "name": "Duke's Dream",
         "url": "https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
-        "name": "Made Possible",
-        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 370133,
-      "name": "Pound For Pound",
-      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
-      },
-      "artists": [
-        {
-          "name": "Shelly Berg Trio",
-          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
-        }
-      ],
-      "duration_ms": 494213,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Duke Jordan Trio & Quintet",
         "url": "https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 274560,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio"
+      },
+      "artists": [
+        {
+          "name": "Shelly Berg Trio",
+          "url": "https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3"
+        }
+      ],
+      "duration_ms": 494213,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f"
     }
   ],
   "unique_name": "Jazz Piano Classics",

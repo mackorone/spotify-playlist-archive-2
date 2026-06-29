@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-164 songs - 8 hr 32 min
+165 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Crying in the Swimming Pool](https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Crying in the Swimming Pool](https://open.spotify.com/album/0Y8zDzAD669zCOi5vur5kE) | 3:12 | 2024-01-29 |  |
 | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s) | 3:34 | 2024-01-29 |  |
 | [Dance To My Heartbeat](https://open.spotify.com/track/0G76SXZghtnNuDyoggumuO) | [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Dance To My Heartbeat](https://open.spotify.com/album/5dxhrW4edw8rhQKwmkE00X) | 2:25 | 2024-01-29 |  |
+| [dear death](https://open.spotify.com/track/7uvLrTprWHVo1uqIMoTCzf) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:52 | 2026-06-28 |  |
 | [Details](https://open.spotify.com/track/614LE31TKBoN2y5sRspHyr) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [1200 Beats Per Minute](https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm) | 3:21 | 2024-09-19 |  |
 | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dive Into The Ocean](https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA) | 3:38 | 2026-05-23 | 2026-06-04 |
 | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/track/7MXeXcaXXx1r5DIvrEwTLY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dive Into The Ocean](https://open.spotify.com/album/1sZf1OTaUqmqgcLOuFLSW4) | 3:38 | 2026-06-03 |  |

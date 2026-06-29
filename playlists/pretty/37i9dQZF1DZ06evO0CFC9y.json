@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38944,
+  "num_followers": 38942,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADPYat5MmB9o2bKrLP2STxF",
+  "snapshot_id": "aj8SgAAAAAAuY5R0xUdnKx3aSr7X+np/",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Miseria Cantare - The Beginning",
-      "url": "https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi"
+      "duration_ms": 250706,
+      "name": "Silver And Cold",
+      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Silver And Cold",
-      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
+      "duration_ms": 176506,
+      "name": "Miseria Cantare - The Beginning",
+      "url": "https://open.spotify.com/track/5unomAZop0VloK8vwwuPpi"
     },
     {
       "added_at": null,
@@ -612,41 +612,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 168573,
-      "name": "Exsanguination",
-      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 72560,
-      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
-      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silver Bleeds the Black Sun...",
-        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 198003,
-      "name": "Ash Speck in a Green Eye",
-      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
+      "duration_ms": 149906,
+      "name": "Narrative Of Soul Against Soul",
+      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
     },
     {
       "added_at": null,
@@ -667,6 +635,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silver Bleeds the Black Sun...",
+        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 198003,
+      "name": "Ash Speck in a Green Eye",
+      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 72560,
+      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
+      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sails In The Sunset",
         "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 149906,
-      "name": "Narrative Of Soul Against Soul",
-      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
+      "duration_ms": 168573,
+      "name": "Exsanguination",
+      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
     },
     {
       "added_at": null,

@@ -13958,7 +13958,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 294267,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/1INNUCqzlfdGAVKutAdbHJ"
@@ -18072,7 +18072,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 235368,
       "name": "Maool",
       "url": "https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ"
@@ -24201,6 +24201,24 @@
     },
     {
       "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/24CyXZHXgFPncdizaeTnSq"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/285h6lwIoEfKPpf1zJYzqL"
+    },
+    {
+      "album": {
         "name": "All My Demons Greeting Me as a Friend",
         "url": "https://open.spotify.com/album/6ZdqA9XFChx8ewarmvrbg5"
       },
@@ -24212,7 +24230,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
@@ -28848,7 +28866,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -28866,7 +28884,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -29678,7 +29696,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 277707,
       "name": "TQBL Kol",
       "url": "https://open.spotify.com/track/7b4B5ACH9ZxnDnUVi2USqV"
@@ -37568,7 +37586,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 301055,
       "name": "\u064a\u0627 \u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/0w5rkuD14HJGWmoXu60WgN"

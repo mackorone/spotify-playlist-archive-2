@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 361454,
+  "num_followers": 361676,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "Meets Gustav Lundgren",
-        "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
-      },
-      "artists": [
-        {
-          "name": "Carl Bagge Trio",
-          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "Fotografia",
-      "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
         "name": "Meu Tempo",
         "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
       },
@@ -411,38 +395,18 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "Sunset over Recife",
-        "url": "https://open.spotify.com/album/17O83pna4zn9zjWai235PZ"
+        "name": "Meets Gustav Lundgren",
+        "url": "https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt"
       },
       "artists": [
         {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
         }
       ],
-      "duration_ms": 165250,
-      "name": "Sunset over Recife",
-      "url": "https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
-      },
-      "artists": [
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        },
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 324520,
-      "name": "O Que Sera?",
-      "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
+      "duration_ms": 230624,
+      "name": "Fotografia",
+      "url": "https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -483,6 +447,26 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 324520,
+      "name": "O Que Sera?",
+      "url": "https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 226906,
       "name": "You've Changed - Studio Rio Version",
       "url": "https://open.spotify.com/track/6au6zu7SJAbqf4a6RDqySc"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
+        "name": "Sunset over Recife",
+        "url": "https://open.spotify.com/album/17O83pna4zn9zjWai235PZ"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Sunset over Recife",
+      "url": "https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 304826,
       "name": "Para Machuchar Meu Coracao",
       "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Trio",
-          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
-        }
-      ],
-      "duration_ms": 232261,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/16ucl1JzaaDVmMXFqeYnWP"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186000,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4iOqSgvp753MBixwpuQFtn"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+        }
+      ],
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
         "name": "Sinal Vermelho",
         "url": "https://open.spotify.com/album/7qESWTcIuiswvipqVknDEF"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 267374,
       "name": "Sinal Vermelho",
       "url": "https://open.spotify.com/track/3jy9B0kZMpIuTCU8wIn5dC"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "Double Rainbow",
-        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+        "name": "Braziliana",
+        "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 284133,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+      "duration_ms": 133093,
+      "name": "Cavaquinho",
+      "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -1319,22 +1335,6 @@
       "duration_ms": 248448,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3bwnEib4SFS3W3wAVCEbaJ"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
-        "name": "Braziliana",
-        "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
-      },
-      "artists": [
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
-        }
-      ],
-      "duration_ms": 133093,
-      "name": "Cavaquinho",
-      "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
+        "name": "Diavola",
+        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Bossy Nova",
+      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 297653,
       "name": "Effortlessly",
       "url": "https://open.spotify.com/track/75VrNlO6GbJJHByrwJkpgr"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
-        "name": "Diavola",
-        "url": "https://open.spotify.com/album/4lQriMCxFMyor9TIJlvOxU"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Bossy Nova",
-      "url": "https://open.spotify.com/track/6Ol78Z5mqB1bIcNmfqupIn"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
-        }
-      ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
         "name": "Telecoteco",
         "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
+        "name": "That\u2019s your heart",
+        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 195830,
+      "name": "That\u2019s your heart",
+      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
+    },
+    {
+      "added_at": "2026-06-25 09:14:25",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2026-06-25 09:14:25",
       "album": {
-        "name": "That\u2019s your heart",
-        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
+        "name": "Light My Fire",
+        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
       },
       "artists": [
         {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
         }
       ],
-      "duration_ms": 195830,
-      "name": "That\u2019s your heart",
-      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
+      "duration_ms": 240146,
+      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
+      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
     },
     {
       "added_at": "2026-06-25 09:14:25",
@@ -1615,22 +1631,6 @@
       "duration_ms": 211037,
       "name": "The Milky Way",
       "url": "https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs"
-    },
-    {
-      "added_at": "2026-06-25 09:14:25",
-      "album": {
-        "name": "Light My Fire",
-        "url": "https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Isto Aqui O Que \u00c9 (Silver Sandal)",
-      "url": "https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV"
     },
     {
       "added_at": "2026-06-25 09:14:25",

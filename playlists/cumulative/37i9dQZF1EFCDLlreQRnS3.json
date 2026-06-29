@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "heartcore",
+        "url": "https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "dear death",
+      "url": "https://open.spotify.com/track/7uvLrTprWHVo1uqIMoTCzf"
+    },
+    {
+      "album": {
         "name": "1200 Beats Per Minute",
         "url": "https://open.spotify.com/album/2MBuopPjLjPdM2eIsznKlm"
       },

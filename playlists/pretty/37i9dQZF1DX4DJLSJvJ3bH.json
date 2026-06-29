@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 142831,
+  "num_followers": 142822,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "I Wish You A Merry Christmas - Remastered 2006",
+      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "My Favourite Time of Year",
         "url": "https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 177215,
       "name": "The Gift of Joy",
       "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "I Wish You A Merry Christmas - Remastered 2006",
-      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Do you hear what I hear",
-        "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
-      },
-      "artists": [
-        {
-          "name": "Norberg",
-          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
-        }
-      ],
-      "duration_ms": 128886,
-      "name": "Do you hear what I hear",
-      "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Winter Serenade",
         "url": "https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "Do you hear what I hear",
+        "url": "https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5"
+      },
+      "artists": [
+        {
+          "name": "Norberg",
+          "url": "https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy"
+        }
+      ],
+      "duration_ms": 128886,
+      "name": "Do you hear what I hear",
+      "url": "https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "Winter Blessings",
         "url": "https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 250713,
       "name": "Winter Blessings",
       "url": "https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "When You Wish Upon a Star",
-        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
-      },
-      "artists": [
-        {
-          "name": "Erik Moreau",
-          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
-        }
-      ],
-      "duration_ms": 167725,
-      "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1123,6 +1107,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "When You Wish Upon a Star",
+        "url": "https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "duration_ms": 167725,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "a cozy christmas",
-        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 200222,
-      "name": "mistletoe and holly",
-      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 264360,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "a cozy christmas",
+        "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 200222,
+      "name": "mistletoe and holly",
+      "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 101102,
       "name": "I Saw Mommy Kissing Santa Claus",
       "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
     },
     {
       "added_at": "2025-12-19 14:00:54",

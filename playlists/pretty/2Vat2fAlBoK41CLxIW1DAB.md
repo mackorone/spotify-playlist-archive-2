@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,591 likes - 1,054 songs - 2 day 18 hr 28 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,590 likes - 1,061 songs - 2 day 18 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1062,5 +1062,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1052 | [SOMEBODY ELSE // \(REPRISE\)](https://open.spotify.com/track/6FxHiKVeXuLDA4mc4BPCqR) | [The 508](https://open.spotify.com/artist/7aQxyxGdTVk0NvKqtyjMxB), [KIDD EXOTIKK](https://open.spotify.com/artist/6UFmeJ08DUDW8rzD8JdONe) | [SOMEBODY ELSE // \(REPRISE\)](https://open.spotify.com/album/12FRSQImYN5ExYLDMmOUvI) | 5:38 |
 | 1053 | [I See You](https://open.spotify.com/track/4121pSeIc1sxqnH4i3nEvi) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [I See You](https://open.spotify.com/album/3Ba69of6UprDdYXUFqi7Kx) | 3:37 |
 | 1054 | [Catching Matches](https://open.spotify.com/track/6E6mN52PjtMl9I0fEtPdLL) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [The End Is Always Nigh, The End Is Never Now](https://open.spotify.com/album/7azdUfeULBd4TBHO1NKoUy) | 3:28 |
+| 1055 | [Locked In](https://open.spotify.com/track/4DpS7c7m00o2wrtwwZz1LW) | [ZenZation](https://open.spotify.com/artist/3oXhjf1DB5LQjs0FK6QVpv) | [Locked In](https://open.spotify.com/album/1DkNLAmWUfxrTs8qSp3CdK) | 4:53 |
+| 1056 | [Faith](https://open.spotify.com/track/5rxxCShjsfENHyTEFxm2LX) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 4:57 |
+| 1057 | [Bida](https://open.spotify.com/track/3070l6V0u8ByDFlnHxbTjl) | [Over the Under](https://open.spotify.com/artist/1MT3LvLXDZRTpZCqoFITVz) | [Red Album](https://open.spotify.com/album/54uhFe5GcvRKg3xoN7QqEX) | 5:41 |
+| 1058 | [No Way, No How.](https://open.spotify.com/track/2DOIBpZ3WbyCLGcWAB2h7K) | [Taylor Youngbauer](https://open.spotify.com/artist/4UeB4cZPyYIaC0VYRsaFiZ) | [No Way, No How.](https://open.spotify.com/album/5Uq5g0fs9BQzIssJzb8K5R) | 2:40 |
+| 1059 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 |
+| 1060 | [Ona Na](https://open.spotify.com/track/7eI6QVRXPEUytmItubRHVJ) | [Palocoman & Elkeike](https://open.spotify.com/artist/6bcBCvk3tT6JMLaMMPqNLD) | [Ona Na](https://open.spotify.com/album/47jda06wUBpfhG608J6FgV) | 3:26 |
+| 1061 | [I Love the NiteTime \- Instrumental](https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Love the NiteTime \(Instrumental\)](https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC) | 2:30 |
 
-Snapshot ID: `AAAERTX8AopiL0JlgrW22oRAFEpRpoE7`
+Snapshot ID: `AAAETTXr0Y+qVLYqTX4p0kfbJ0ew7M7H`

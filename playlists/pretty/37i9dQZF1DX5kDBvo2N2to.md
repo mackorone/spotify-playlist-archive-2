@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,116 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,119 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 53 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
 | 54 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
 | 55 | [Barfotabarn](https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:45 |
-| 56 | [Kaprifol](https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sverige](https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ) | 3:51 |
-| 57 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
+| 56 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 |
+| 57 | [Kaprifol](https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sverige](https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ) | 3:51 |
 | 58 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
 | 59 | [Dansa med mig själv](https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Dansa med mig själv](https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc) | 3:30 |
 | 60 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 |

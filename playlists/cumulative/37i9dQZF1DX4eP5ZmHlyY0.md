@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ATEEZ
 
-1,028 songs - 2 day 7 hr 49 min
+1,030 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 | 2025-03-06 | 2025-04-15 |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-04-10 |
 | [Mirror](https://open.spotify.com/track/3wPyVF4kPX2kWr4nksweko) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Mirror](https://open.spotify.com/album/0QJi6vK7a0WVVqSD8w3yvZ) | 2:51 | 2026-03-25 | 2026-06-17 |
+| [Missing](https://open.spotify.com/track/5vnFENiK0q4cmtAKJymZWS) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Missing](https://open.spotify.com/album/17H78zuMexl1wkkYBhzsKa) | 2:52 | 2026-06-29 |  |
 | [Mmchk](https://open.spotify.com/track/4wmr3icyGK9zDgV4iq3gWT) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Mmchk](https://open.spotify.com/album/0jjf6Q9c7lxYlITEyT1Je2) | 2:38 | 2026-04-27 |  |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-20 | 2025-06-13 |
 | [MONEYBAG 7ver.](https://open.spotify.com/track/001j2dUGwEkNV7k8eGeor0) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [MONEYBAG 7ver.](https://open.spotify.com/album/0I2e0pluTkgdurceUwWuSD) | 4:46 | 2024-04-23 | 2024-05-08 |
@@ -674,7 +675,7 @@
 | [Rocketeer](https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [A \(Special Edition\)](https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2) | 3:07 | 2023-11-23 | 2024-02-01 |
 | [Romance Number 110](https://open.spotify.com/track/1lPE1UFRuNk2NGCz575o3Q) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [XTLIKE](https://open.spotify.com/album/1dOvMsQgN6LOjmsuaaeVR5) | 3:10 | 2024-09-03 | 2024-09-18 |
 | [ROMEO](https://open.spotify.com/track/3Jc052vtE8uAG1CTN3XPJv) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva) | [ROMEO](https://open.spotify.com/album/0Eg9hyiDMMVRrIdIk4cDF9) | 3:02 | 2026-04-27 | 2026-05-27 |
-| [Rondo](https://open.spotify.com/track/5PDZPRoCGjL9cJq7ERHWSh) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Rondo](https://open.spotify.com/album/7jti6ClhLE00owOqdpERjN) | 3:20 | 2026-05-04 |  |
+| [Rondo](https://open.spotify.com/track/5PDZPRoCGjL9cJq7ERHWSh) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Rondo](https://open.spotify.com/album/7jti6ClhLE00owOqdpERjN) | 3:20 | 2026-05-04 | 2026-06-29 |
 | [ROOMBADOOMBA](https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [FIRST:DELIVERY](https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6) | 2:28 | 2026-02-24 |  |
 | [ROSES](https://open.spotify.com/track/6N4bKr0NJtNad2aPl0KAqm) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/0QqZQlP3TnrGvWpxKzOV96) | 2:21 | 2026-01-23 | 2026-02-03 |
 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 | 2024-09-03 | 2025-03-07 |
@@ -870,6 +871,7 @@
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2025-01-04 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
 | [We on Fire](https://open.spotify.com/track/2kTUvehmbBMYky7r29uylJ) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [We on Fire](https://open.spotify.com/album/3hSeGtxUOFxbXM9NwRWIHO) | 2:34 | 2026-04-13 |  |
+| [We'll Be Fine](https://open.spotify.com/track/59BPHsLyDIPNGq3ZibyQI8) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [We'll Be Fine](https://open.spotify.com/album/4CDFwKCQeTLzEetCoKwrjG) | 2:54 | 2026-06-29 |  |
 | [Welcome To Our Show Tonight](https://open.spotify.com/track/0bqPmSjWUysmjTwEuYnV7u) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [’s travelers](https://open.spotify.com/album/1RNh6f6HMQ2woD5KHr0Rbo) | 3:57 | 2025-12-02 | 2026-01-22 |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
 | [What Is Your Secret?](https://open.spotify.com/track/7GSDi90nphdPZfkieyuZGe) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [What Is Your Secret?](https://open.spotify.com/album/3X0CLXVrz3teE9SQQShyeS) | 3:36 | 2025-02-25 | 2025-04-21 |
@@ -989,7 +991,7 @@
 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 | 2024-04-30 | 2024-12-16 |
 | [君の隣で目覚めたい](https://open.spotify.com/track/3013b05l5UUrFdBfy0f04N) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [F.O.R\-変わりゆく時代の中で、輝く君と踊りたい。](https://open.spotify.com/album/1YdLFo1kUoXsEehVBYuMFq) | 4:24 | 2024-08-22 | 2024-08-28 |
 | [四葉のクローバー](https://open.spotify.com/track/7ouTzUXzdIUv0WJwcw6mEN) | [Natural Lag](https://open.spotify.com/artist/56imRTaCuJwSxQDveltEVU) | [4 leaves](https://open.spotify.com/album/5yJXsy71UayvFZ4nZi3Ohc) | 3:35 | 2024-05-28 | 2024-06-05 |
-| [声 \(feat\. JUNGWON of ENHYPEN\)](https://open.spotify.com/track/5Jx5qf07BJaYHU66shP9At) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [JUNGWON](https://open.spotify.com/artist/7EdcoPac2uNwICfR9glXLF) | [声 \(feat\. JUNGWON of ENHYPEN\)](https://open.spotify.com/album/1j0jrnxDckx7jm9fLxPyHf) | 3:18 | 2026-05-19 |  |
+| [声 \(feat\. JUNGWON of ENHYPEN\)](https://open.spotify.com/track/5Jx5qf07BJaYHU66shP9At) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [JUNGWON](https://open.spotify.com/artist/7EdcoPac2uNwICfR9glXLF) | [声 \(feat\. JUNGWON of ENHYPEN\)](https://open.spotify.com/album/1j0jrnxDckx7jm9fLxPyHf) | 3:18 | 2026-05-19 | 2026-06-29 |
 | [夜の向こうへ](https://open.spotify.com/track/4YxDwgG492w6OMbNn0Pdjc) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [夜の向こうへ](https://open.spotify.com/album/7Giy7zVNBC6O6mNRO6Ucsv) | 3:33 | 2026-04-27 | 2026-05-19 |
 | [夢中](https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [夢中](https://open.spotify.com/album/78HCbdRoQpbPL0eZaTk4mS) | 3:09 | 2025-04-24 | 2025-08-20 |
 | [大人になんてなりたくない](https://open.spotify.com/track/0xHpdLczstT3UOhLa55wq9) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [大人になんてなりたくない](https://open.spotify.com/album/49gaiZ330hLAEQUAosnirV) | 2:19 | 2025-03-06 | 2025-03-12 |

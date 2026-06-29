@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > it's a chanel beads summer bby 🫦
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,685 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,659 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 48 | [DIZZY](https://open.spotify.com/track/63ISdAY2JQqFgh2rETvPyK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 3:27 |
 | 49 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 50 | [Bitches Talk Shit](https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Bitches Talk Shit](https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq) | 3:39 |
-| 51 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
+| 51 | [Spring summer](https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:08 |
 | 52 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 53 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
 | 54 | [Kitten](https://open.spotify.com/track/1bEYQp9eT55EmNzMXXFWEY) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 3:56 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 78 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 79 | [Better Angels](https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc) | [Better Angels](https://open.spotify.com/album/5oZuk5EIEG4licuoLSpgrz) | 2:40 |
 | 80 | [2000s Pop Punk Rnb](https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [Still Loiteringgg / 2000s Pop Punk Rnb](https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF) | 2:56 |
-| 81 | [WHAT IS FOREVER FOR \(The Dare Remix\)](https://open.spotify.com/track/4hVmWazZwKIyl4VwjTuU54) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [SISTER \(remixed\)](https://open.spotify.com/album/6i7XKcdzE3AVIWqh5DchaQ) | 3:00 |
+| 81 | [WHAT IS FOREVER FOR \(The Dare Remix\)](https://open.spotify.com/track/3HDkSH8L08t0B5jcJ4Fbid) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [WHAT IS FOREVER FOR \(The Dare Remix\)](https://open.spotify.com/album/33rlqZi54QBIvbjg7hdrM8) | 3:00 |
 | 82 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 83 | [Star v](https://open.spotify.com/track/3Wo5cXSG9DdFkbYruZgBmh) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Something is a shell .](https://open.spotify.com/album/2QlGlvLUEon9SaUGNj78cy) | 3:47 |
 | 84 | [Memory Be a Blade](https://open.spotify.com/track/35P80VDIPyFqmoBcMuL4Li) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:41 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 113 | [BFF \(After Remix\)](https://open.spotify.com/track/3fJ8pA7mHQNaS6JuT9MuKu) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye), [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [BFF \(After Remix\)](https://open.spotify.com/album/4FPpAFg8Ge4xS7aAstX3w1) | 4:53 |
 | 114 | [high me raise](https://open.spotify.com/track/5Twl9IMecWukJB5FPPeo28) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [high me raise / bullet caught in a spiders web](https://open.spotify.com/album/0EYMggfIHnSwm8JjsTTLyO) | 2:14 |
 | 115 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 |
-| 116 | [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 |
+| 116 | [So What](https://open.spotify.com/track/1JLOoLimYd0O1KSyBxdAGw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 4:31 |
 | 117 | [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 |
 | 118 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 |
 | 119 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 127 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
 | 128 | [where did everybody go after the show](https://open.spotify.com/track/3TQNYcQpNk68ANvFCkodeM) | [svn4vr](https://open.spotify.com/artist/44Y2zfqpUrMwFWSnP37a4B) | [herts on fire](https://open.spotify.com/album/04G4D5LWqd7hmTIiAUHxEs) | 1:59 |
 | 129 | [Manmade Manmaid](https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Manmade Manmaid](https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA) | 2:40 |
-| 130 | [Sisters](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 |
-| 131 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 |
+| 130 | [Sisters](https://open.spotify.com/track/0PQUWGye04Bi41EAW7D14z) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters](https://open.spotify.com/album/2ipn1JHd37tCfN5ZxedABF) | 3:44 |
+| 131 | [be the girl!](https://open.spotify.com/track/1jHNzk2mWZ8VnGcVewl4Nn) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/3td33YbrUND8jvdarSmgmR) | 5:33 |
 | 132 | [do your best nicholas](https://open.spotify.com/track/5PWeF1kZWTklD9GiXq3FJL) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [do your best nicholas](https://open.spotify.com/album/67Du2l80pIHE1ZqvGmACxn) | 2:18 |
 | 133 | [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 |
 | 134 | [Sometimes I believe in God \(Sometimes I believe in Me\)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [?](https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H) | 3:40 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 146 | [On Your Way Home](https://open.spotify.com/track/5AJF0UyyLgIlrDXhlf1FxF) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Rockie Rode](https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE) | [On Your Way Home](https://open.spotify.com/album/4nt4Ng4ywgycSV3fcbbQWD) | 3:12 |
 | 147 | [Wall of Sound](https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wall of Sound](https://open.spotify.com/album/5xQarRykqfONyHrL792y8z) | 2:24 |
 | 148 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |
-| 149 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
+| 149 | [Alesis](https://open.spotify.com/track/1fAaC0BVOACO5hmyiwIqAG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8) | 3:18 |
 | 150 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 
 Snapshot ID: `AAAAAIq88VnMPRIPJOwaP/nTCvZwS43d`

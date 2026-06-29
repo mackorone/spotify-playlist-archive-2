@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Arkangel Musical de Tierra Caliente en portada. ",
-  "num_followers": 95923,
+  "num_followers": 95973,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+      "duration_ms": 128333,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 128333,
-      "name": "Morenita Labios Rojos",
-      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
+      "duration_ms": 179146,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Rolonononas Pa la Raza",
-        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
-      },
-      "artists": [
-        {
-          "name": "Raza Obrera",
-          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "El Albanil",
-      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "De California Te Escribo",
         "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
@@ -1179,34 +1163,18 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
+        "name": "Rolonononas Pa la Raza",
+        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
       },
       "artists": [
         {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+          "name": "Raza Obrera",
+          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
-        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Preso Me Llevan",
-      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
+      "duration_ms": 177866,
+      "name": "El Albanil",
+      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1227,6 +1195,38 @@
       "duration_ms": 500235,
       "name": "Brebaje / Recuerdos De Una Noche (En Vivo)",
       "url": "https://open.spotify.com/track/3b5H0MyNMs7wtijEgnBl1M"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Preso Me Llevan",
+      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
+        "name": "Los De Tierra Caliente (En Vivo)",
+        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 580430,
+      "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos (En Vivo)",
+      "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
         "name": "A Donde Vas Chiquilla",
         "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 174706,
       "name": "Vida de Rancho (Zapateado)",
       "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
-        "name": "Los De Tierra Caliente (En Vivo)",
-        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 580430,
-      "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos (En Vivo)",
-      "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
     },
     {
       "added_at": "2026-03-27 06:00:15",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-27 06:00:15",
       "album": {
-        "name": "Te Ves Fatal",
-        "url": "https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"
-    },
-    {
-      "added_at": "2026-03-27 06:00:15",
-      "album": {
         "name": "Se Equivoco Tu Corazon",
         "url": "https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 149693,
       "name": "Lo Descubri En Tus Brazos",
       "url": "https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7"
+    },
+    {
+      "added_at": "2026-03-27 06:00:15",
+      "album": {
+        "name": "Te Ves Fatal",
+        "url": "https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO"
     },
     {
       "added_at": "2026-03-27 06:00:15",

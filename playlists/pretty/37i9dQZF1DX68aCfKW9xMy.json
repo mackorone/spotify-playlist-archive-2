@@ -1,6 +1,6 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1666411,
+  "num_followers": 1666466,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -487,26 +503,6 @@
       "duration_ms": 225581,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
-        "name": "La Sinverg\u00fcenza",
-        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198529,
-      "name": "La Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -527,18 +523,22 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Lo Que Hay X Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Lo Que Hay X Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Amor Enfermo",
-        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+        "name": "Lo Que Hay X Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 218093,
-      "name": "Mi Olvido",
-      "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
+      "duration_ms": 158545,
+      "name": "Lo Que Hay X Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -859,18 +843,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 178252,
-      "name": "Lejos Estamos Mejor",
-      "url": "https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH"
+      "duration_ms": 218093,
+      "name": "Mi Olvido",
+      "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -887,6 +871,22 @@
       "duration_ms": 183653,
       "name": "Sentimientos De Cart\u00f3n",
       "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 178252,
+      "name": "Lejos Estamos Mejor",
+      "url": "https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
+        "name": "En El Area De Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Le Dije Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
         "name": "Migajero",
         "url": "https://open.spotify.com/album/0YliaYKdHWQ5EKmjNgBABI"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 267066,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/7DKnuyS5fAoUkLGoaLCTUR"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
-        "name": "En El Area De Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Le Dije Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
     },
     {
       "added_at": "2026-02-27 19:49:52",

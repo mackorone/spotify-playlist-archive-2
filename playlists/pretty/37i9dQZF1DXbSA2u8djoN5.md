@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: RAVA, Antonia
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,294 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,302 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 9 | [Tot Ce E Frumos](https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Tot Ce E Frumos](https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE) | 3:41 |
 | 10 | [BACCARAT](https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [BACCARAT](https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2) | 2:41 |
 | 11 | [Interes](https://open.spotify.com/track/3KZoTu5JGe5QtK97DrBLAi) | [GYXBaby](https://open.spotify.com/artist/1XWVFUESxCqRo0TkyIamEv), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Interes](https://open.spotify.com/album/6k8yGq5Ra4fyhQ4egdooMO) | 2:31 |
-| 12 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 |
+| 12 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
 | 13 | [Am auzit 2](https://open.spotify.com/track/1Z2NEXeVl89jUm3XBuiu5c) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Carusel](https://open.spotify.com/album/0kaKXinSDpzWxnK0cEcXOR) | 2:27 |
 | 14 | [FURAM CURENT](https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Radu Guran](https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9) | [FURAM CURENT](https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw) | 3:31 |
-| 15 | [SCRISOARE DE CARTIER](https://open.spotify.com/track/2sU6IJD04FX2bWwH5MAH6c) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [SCRISOARE DE CARTIER](https://open.spotify.com/album/5Oozk0jQPOXmIP309aDwgP) | 1:41 |
+| 15 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 |
 | 16 | [Kilian](https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Kilian](https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3) | 2:05 |
 | 17 | [Pana la ultimul suflu](https://open.spotify.com/track/22H8GavQmDeMXiXfoR4FZe) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Pana la ultimul suflu](https://open.spotify.com/album/2wLwyvUpe56h74qMdVZf5s) | 2:36 |
 | 18 | [⁠⁠SENZATIONAL](https://open.spotify.com/track/2jnsQRzRymjTxHhQ24jhx6) | [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [D.D\. CASA \- Departe de Casă](https://open.spotify.com/album/2rkLG6FeDKLHf9Gzs2wYFD) | 2:52 |

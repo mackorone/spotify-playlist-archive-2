@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,785 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,782 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 69 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
 | 70 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
 | 71 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 |
-| 72 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
-| 73 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 72 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 73 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 | 74 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 |
 | 75 | [Bittersweet](https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Bittersweet](https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp) | 3:57 |
 | 76 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 85 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 |
 | 86 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
 | 87 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
-| 88 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
-| 89 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
+| 88 | [Tormenta](https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [East My Love](https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg) | 3:51 |
+| 89 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
 | 90 | [Killer](https://open.spotify.com/track/0fc2aV1nOvTsSAA1ghGu0d) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [I Blow Out Big Candles](https://open.spotify.com/album/0zd0dbI6jBG4lVYatitkCT) | 3:03 |
 | 91 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
 | 92 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 |
 | 93 | [Frontrunner](https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 2:52 |
 | 94 | [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 |
 | 95 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
-| 96 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 |
-| 97 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
+| 96 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
+| 97 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 |
 | 98 | [steamroller](https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [steamroller](https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP) | 3:10 |
 | 99 | [Girls Are God’s Machines](https://open.spotify.com/track/3qq1DyClNrvBdaMK4QOXrw) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls Are God’s Machines](https://open.spotify.com/album/4O4KojyFZOemy3xyW1ACB5) | 2:45 |
 | 100 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 |

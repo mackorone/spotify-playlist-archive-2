@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 112990,
+  "num_followers": 113002,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 286253,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -215,18 +215,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Dirty Paws",
-      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+      "duration_ms": 286253,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3zzZVLdBKRW8JH7GhFPyvu"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Beacon",
         "url": "https://open.spotify.com/album/1I1ZFdY9LI6kxPANmduRcN"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 218586,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3zzZVLdBKRW8JH7GhFPyvu"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Coexist",
-        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 276720,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Coexist",
+        "url": "https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 255320,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Shields",
-        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 318423,
-      "name": "Yet Again",
-      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 251266,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 318423,
+      "name": "Yet Again",
+      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
     },
     {
       "added_at": "2025-03-14 12:16:12",

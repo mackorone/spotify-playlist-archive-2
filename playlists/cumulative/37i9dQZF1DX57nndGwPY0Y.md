@@ -4,7 +4,7 @@
 
 > Today's R&B hits only\. Music videos only available on Premium.
 
-49 songs - 2 hr 35 min
+50 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Non Negotiables](https://open.spotify.com/track/3HUhrokD6jm8EH8qK1gIuZ) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Fuck, Marry, Kill](https://open.spotify.com/album/1xIWjruzzPXUWWZ9q20FVG) | 2:37 | 2026-05-20 |  |
 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 | 2026-05-20 |  |
 | [Reclusive](https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:06 | 2026-05-20 |  |
+| [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 | 2026-06-28 |  |
 | [Ruin](https://open.spotify.com/track/65KLw7hjgDH8rfxkMDIOvT) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Labor Of Love](https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st) | 3:19 | 2026-06-21 |  |
 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 | 2026-05-20 | 2026-06-22 |
 | [Safety](https://open.spotify.com/track/3imanCE92X8HlLyFKMy3cT) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:18 | 2026-06-21 |  |

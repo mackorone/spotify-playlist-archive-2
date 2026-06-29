@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,587 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,584 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 35 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
 | 36 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |
 | 37 | [Pedra De Responsa](https://open.spotify.com/track/6nNfJTbmDbFFEsc8yxBqxV) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Cuscuz Clã](https://open.spotify.com/album/5wPTwkTaWBJWnOGhhcPNAd) | 3:55 |
-| 38 | [Noite Dos Mascarados \- Ao Vivo](https://open.spotify.com/track/3nPiFgKyT8C3D65DH1n4FT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Chico Buarque & Maria Bethania](https://open.spotify.com/album/2ep81BixWok1HCvSfdmGNJ) | 2:11 |
-| 39 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
+| 38 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
+| 39 | [Noite Dos Mascarados \- Ao Vivo](https://open.spotify.com/track/3nPiFgKyT8C3D65DH1n4FT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Chico Buarque & Maria Bethania](https://open.spotify.com/album/2ep81BixWok1HCvSfdmGNJ) | 2:11 |
 | 40 | [Chamego](https://open.spotify.com/track/6kReftEapjOZjVbFcqTIy2) | [Chiclete Com Banana](https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL) | [É Festa](https://open.spotify.com/album/3QUIw5JpCkGk4I7CoYo93N) | 3:40 |
 | 41 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 | 42 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |

@@ -8750,7 +8750,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 182348,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6"
@@ -13120,6 +13120,24 @@
       "duration_ms": 176562,
       "name": "gauche",
       "url": "https://open.spotify.com/track/1BQpylIOzyQqlQb08nhjmF"
+    },
+    {
+      "album": {
+        "name": "Get Away From Me (I Think I'll Love You Soon)",
+        "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168523,
+      "name": "Get Away From Me (I Think I'll Love You Soon)",
+      "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
     },
     {
       "album": {

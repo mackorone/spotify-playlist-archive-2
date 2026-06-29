@@ -1,6 +1,6 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 9084454,
+  "num_followers": 9084159,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
-        "name": "Good Days",
-        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 279203,
-      "name": "Good Days",
-      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 279203,
+      "name": "Good Days",
+      "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
     },
     {
       "added_at": "2026-03-31 14:27:16",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-03-31 14:27:16",
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
+    },
+    {
+      "added_at": "2026-03-31 14:27:16",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 178994,
       "name": "Monster (Shawn Mendes & Justin Bieber)",
       "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
-    },
-    {
-      "added_at": "2026-03-31 14:27:16",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
     },
     {
       "added_at": "2026-03-31 14:27:16",

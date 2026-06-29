@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40715,
+  "num_followers": 40719,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABQLRyGIHLGXOyGuH1AOYqs",
+  "snapshot_id": "aj8SgAAAAACEYjGxHujm9yA6zss8/PzX",
   "tracks": [
     {
       "added_at": null,
@@ -590,15 +590,11 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 193631,
-      "name": "Like I (with Andra Day)",
-      "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
+      "duration_ms": 128157,
+      "name": "Conundrum",
+      "url": "https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb"
     },
     {
       "added_at": null,

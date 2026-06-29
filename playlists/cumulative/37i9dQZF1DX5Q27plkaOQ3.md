@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 featuring Zingara and Steller
 
-1,494 songs - 3 day 8 hr 39 min
+1,495 songs - 3 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1131,7 +1131,7 @@
 | [Say It](https://open.spotify.com/track/2N8bcxtfN6hMxPVnTCnJxQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Say It](https://open.spotify.com/album/1EfgitaTG6dtXI5vR8fuhP) | 3:04 | 2022-11-11 | 2023-06-11 |
 | [SCARLET](https://open.spotify.com/track/6E5RVFOh6StqqrDQx4k9ag) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [SCARLET](https://open.spotify.com/album/1VRnZdDB3kdYZikoMo0lLj) | 3:26 | 2023-12-08 | 2024-01-27 |
 | [Scouts Honor](https://open.spotify.com/track/1LD0tIZELqjVcgoIvltR5V) | [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Scouts Honor](https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI) | 3:34 | 2022-03-11 | 2022-08-20 |
-| [Screen Time](https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Screen Time](https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy) | 2:39 | 2026-04-03 |  |
+| [Screen Time](https://open.spotify.com/track/3ov53bBru8D5qoSi6bYylL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Screen Time](https://open.spotify.com/album/691JxW4iN7wupY8GAWJsOy) | 2:39 | 2026-04-03 | 2026-06-29 |
 | [Screwface](https://open.spotify.com/track/0G1fEa6TnotzEx0qkQ373Q) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Screwface](https://open.spotify.com/album/7lYpECzfqUQ7U4elNfPFSf) | 3:30 | 2024-12-06 | 2025-01-25 |
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 | 2023-10-04 |
 | [SECRET PATH](https://open.spotify.com/track/69nLcRc9tayTkZyMsN55TE) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [SECRET PATH](https://open.spotify.com/album/2L92b3VkrWat4yBEtTIs7E) | 3:10 | 2025-06-20 | 2025-07-05 |
@@ -1424,6 +1424,7 @@
 | [VEGGIE ANTHEM](https://open.spotify.com/track/3VAv9QvDTpwwZ9xFaiYjFO) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE ANTHEM](https://open.spotify.com/album/5tAjdKtBhhWxDo0lDn5wQM) | 2:42 | 2025-07-18 | 2025-08-30 |
 | [VIBE CHECK](https://open.spotify.com/track/6MPx7PvWFVYVN0jeJNZeHX) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE CARGO LP](https://open.spotify.com/album/1IjZxOh69KTNXKDs5B7kwA) | 2:42 | 2025-09-05 | 2025-11-08 |
 | [Vibrations](https://open.spotify.com/track/0ufc66j3DMgC36BRV4lDwY) | [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Vibrations](https://open.spotify.com/album/3lTrsqe1chZBQqXNHi3xu8) | 3:30 | 2025-04-18 | 2025-05-19 |
+| [VIII](https://open.spotify.com/track/2ZTcGAcBHL1hg0LIU9TVgX) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [VIII](https://open.spotify.com/album/1FCE4HI0Whq3FGKOXdpIXf) | 2:21 | 2026-06-26 |  |
 | [VILE](https://open.spotify.com/track/4lOT4a0TZ4GadFXgbWJgTe) | [Wayve](https://open.spotify.com/artist/1CKoF03RH4nWWojXEUdCOI) | [VILE](https://open.spotify.com/album/5jWgxujczXNgWesEbeG7Y0) | 3:18 | 2026-03-13 | 2026-03-21 |
 | [Violence](https://open.spotify.com/track/6AlYpMXEouVUY5H8INU1R6) | [HVDES](https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq), [AFK](https://open.spotify.com/artist/3eIM4tCQTGJXb0RDPfF2wL) | [Violence](https://open.spotify.com/album/4M6JU8duRj9BSYwD36DGZr) | 2:37 | 2025-10-17 | 2025-12-09 |
 | [Visualize](https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Finnuh](https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA) | [Visualize](https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz) | 3:18 | 2026-05-01 |  |

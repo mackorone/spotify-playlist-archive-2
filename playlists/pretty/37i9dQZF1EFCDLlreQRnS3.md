@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 140 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 141 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 136 | [Coming Undone](https://open.spotify.com/track/4XlLl2TbccBar21aXWYly1) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Coming Undone](https://open.spotify.com/album/0hcTfNkmraI6zarvF4XtWR) | 3:08 |
 | 137 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 138 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
-| 139 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
-| 140 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
+| 139 | [dear death](https://open.spotify.com/track/7uvLrTprWHVo1uqIMoTCzf) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [heartcore](https://open.spotify.com/album/7dWWVgDy4S6L06l3skL3EN) | 3:52 |
+| 140 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
+| 141 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcVX5gAAAADMiYjOmcFL60eWviHZnsJW`
+Snapshot ID: `AcVdhgAAAADf6ycMqOtRi5YquCI7uPhk`

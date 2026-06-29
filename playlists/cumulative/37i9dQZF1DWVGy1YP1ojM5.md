@@ -4,11 +4,11 @@
 
 > Silky sounds for the sheets.
 
-305 songs - 17 hr 25 min
+306 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['til the room stinks \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 2:30 | 2026-06-26 |  |
+| ['til the room stinks \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 2:30 | 2026-06-26 | 2026-06-29 |
 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 | 2025-04-25 | 2026-02-02 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-12-02 |  |
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-03-17 |  |
@@ -119,6 +119,7 @@
 | [Gold Mine](https://open.spotify.com/track/4DbJoCosBqn8ydLYmusWkG) | [Savannah Cristina](https://open.spotify.com/artist/7EsWLpczyTXU6zyfWt7ZkN) | [Gold Mine](https://open.spotify.com/album/4an7MG3Pyon67w5DiT0Zin) | 3:01 | 2021-08-13 | 2022-07-28 |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-08-13 | 2022-10-04 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2021-08-13 |  |
+| [good girl](https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:01 | 2026-06-28 |  |
 | [Good Girls](https://open.spotify.com/track/5VXVxRXBV2SPJ4VPRrSxG3) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Private Suite 5](https://open.spotify.com/album/5S2uSH1FUZYlKd6MBQeNgG) | 2:42 | 2024-04-26 | 2024-08-10 |
 | [Grip Tight](https://open.spotify.com/track/79oMfwG1PoLKOXmFkvKI4Z) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 3:59 | 2024-08-09 | 2024-09-07 |
 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 | 2023-02-03 |  |

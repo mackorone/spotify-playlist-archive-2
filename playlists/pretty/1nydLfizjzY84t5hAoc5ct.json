@@ -1,12 +1,12 @@
 {
   "description": "OffAxisGigs.com | Indie | Folk | Electro | Rock | Pop ",
-  "num_followers": 1377,
+  "num_followers": 1379,
   "original_name": "Off Axis Gigs . com",
   "owner": {
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AAB8JUmwl2QwMQOiMsmIq+7TIhWhWDEL",
+  "snapshot_id": "AAB8KIWPbeaxOGHU5hBvnL6VM7tMsWIy",
   "tracks": [
     {
       "added_at": "2026-06-18 23:47:10",
@@ -1739,6 +1739,38 @@
       "duration_ms": 224888,
       "name": "Fish & Chips",
       "url": "https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA"
+    },
+    {
+      "added_at": "2026-06-28 13:42:43",
+      "album": {
+        "name": "A Message From Your CEO",
+        "url": "https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "duration_ms": 179728,
+      "name": "A Message From Your CEO",
+      "url": "https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU"
+    },
+    {
+      "added_at": "2026-06-28 13:43:18",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/1bMDCSdzHHfO9z0qkHZKpw"
+      },
+      "artists": [
+        {
+          "name": "Hickory",
+          "url": "https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg"
+        }
+      ],
+      "duration_ms": 250624,
+      "name": "My Second City",
+      "url": "https://open.spotify.com/track/6JQWtSGeYlM3Op0AxmlWrl"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

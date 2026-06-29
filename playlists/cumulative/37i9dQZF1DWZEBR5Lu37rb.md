@@ -4,13 +4,14 @@
 
 > If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
-325 songs - 21 hr 30 min
+326 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bob](https://open.spotify.com/track/1gWk3Nj3bDPlRLBUlmoEco) | [Malaika](https://open.spotify.com/artist/4MGdpmr2NJjQdJYkkimg7b) | [The Essential](https://open.spotify.com/album/3jVO6qDEwzKmcA7RWvAIlL) | 6:20 | 2022-02-10 | 2024-02-14 |
 | [4 Nothin'](https://open.spotify.com/track/6oqdO9TLmLOv7dt7GIq0R4) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/42PYBhtsi4gxaHHKKXk4WB) | 3:29 | 2026-02-12 |  |
 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 | 2025-02-11 | 2026-02-13 |
+| [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 | 2026-02-12 |  |
 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 | 2022-02-10 | 2024-02-14 |
 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 | 2022-02-10 | 2024-02-14 |
 | [Aiyana](https://open.spotify.com/track/3ZfTPhtcI8mK94oA3I19Dp) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Aiyana](https://open.spotify.com/album/4fxMTrsf8jOeZKqajiElcL) | 3:04 | 2022-02-10 | 2024-02-14 |
@@ -228,7 +229,7 @@
 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 | 2022-02-10 | 2023-05-23 |
 | [Olufunmi](https://open.spotify.com/track/2Aru7mwfefCVJfIKxaLGhb) | [Style Plus](https://open.spotify.com/artist/0kry1f3JHXoCXGuATGnipZ) | [Bump & Grind, Vol\. 23](https://open.spotify.com/album/6W6nTXZ18y9Ns4I9alg5aL) | 5:09 | 2022-02-10 | 2022-11-13 |
 | [One Naira \(feat\. Waje\)](https://open.spotify.com/track/0bLZL4todDFcGFxMDUIb4d) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Waje](https://open.spotify.com/artist/5GmW6T8IndFL45lifEqpEv) | [MI 2: The Movie](https://open.spotify.com/album/59TsiGBCbEeGOkKSkifF4m) | 4:32 | 2022-02-10 | 2024-02-14 |
-| [Only You](https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The African Gentleman](https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz) | 3:40 | 2024-03-20 |  |
+| [Only You](https://open.spotify.com/track/4rjETY9SigSOwoIXYRQJUR) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The African Gentleman](https://open.spotify.com/album/3eqKQSThIM4NZYeVdJFDnz) | 3:40 | 2024-03-20 | 2026-06-29 |
 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 | 2022-02-10 | 2024-02-14 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2026-02-12 |  |
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-04-17 | 2026-02-13 |

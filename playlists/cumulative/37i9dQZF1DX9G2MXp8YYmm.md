@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ceylan Ertem
 
-625 songs - 1 day 7 hr 44 min
+626 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Aslanlar Doğuyor](https://open.spotify.com/track/0rPoprDkgdgkvAZUh3TuXD) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Aslanlar Doğuyor](https://open.spotify.com/album/17ZefKozwdfiSqzi0qG8w3) | 3:01 | 2026-05-22 | 2026-06-19 |
 | [Atarım İçime](https://open.spotify.com/track/1HovJ3kMsjzaLkJouZrEf6) | [Can Atayılmaz](https://open.spotify.com/artist/1qkPyuqp2GFBWcRK1HT4rp), [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Atarım İçime](https://open.spotify.com/album/0dotujYsMv8gxkz3Nz0cjK) | 2:43 | 2026-03-26 | 2026-04-10 |
 | [Atlantis](https://open.spotify.com/track/5McJm018JxLoTC54fInvWo) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atlantis](https://open.spotify.com/album/0aIg40DUdyBKSRXkBQ3iUI) | 2:08 | 2024-07-25 | 2024-08-01 |
+| [Atlatırım](https://open.spotify.com/track/3tg7LFUyNJa9KN28lr6J73) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Atlatırım](https://open.spotify.com/album/0w5E8Zfy7QXcvHl7ocMeC9) | 3:43 | 2026-06-26 |  |
 | [Atmıyor Nabzım](https://open.spotify.com/track/4jkWK59V3EqLbxYh4aDPtS) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Atmıyor Nabzım](https://open.spotify.com/album/6hxfB48Sxt5XVZOvJhleEG) | 2:37 | 2024-06-27 | 2024-07-29 |
 | [Ayay](https://open.spotify.com/track/06EsIRH0uVkxvyITqcK5Ok) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Ayay](https://open.spotify.com/album/3GrQZDphUsU1PyEBdICyDR) | 2:28 | 2026-02-12 |  |
 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 | 2025-01-23 | 2025-07-18 |
@@ -331,7 +332,7 @@
 | [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 | 2024-12-18 |
 | [Kasım Yağmurları](https://open.spotify.com/track/0ZWcAIUTkccr5aPVDUwXeB) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kasım Yağmurları](https://open.spotify.com/album/3kfJ6gODA7UPqZqc8Fz8Mi) | 3:51 | 2025-11-13 | 2025-12-04 |
 | [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 | 2025-04-03 | 2025-06-15 |
-| [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-05-29 |  |
+| [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-05-29 | 2026-06-29 |
 | [Kaybolsam](https://open.spotify.com/track/3Qr4C2suSijySxbehezuNB) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Kaybolsam](https://open.spotify.com/album/6Yo1LuAKJTzBZJxNdPQ4dv) | 1:40 | 2025-09-25 | 2025-10-10 |
 | [Kaç Kez Öldüm?](https://open.spotify.com/track/4tXNPXBd4nzSi99XDqSjA8) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Kaç Kez Öldüm?](https://open.spotify.com/album/0sPKsSl0p5igQFbppBng3t) | 3:34 | 2025-10-09 | 2025-10-24 |
 | [Kaçak Göçek](https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Kaçak Göçek](https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5) | 3:43 | 2024-09-05 | 2025-07-29 |

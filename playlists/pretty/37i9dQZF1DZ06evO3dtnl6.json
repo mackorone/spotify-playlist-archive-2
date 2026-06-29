@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 80648,
+  "num_followers": 80695,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABgjtPeWJW32xoI5AvzpNTv",
+  "snapshot_id": "aj8SgAAAAADbvPvOxWHHGTT94GLhY14g",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "That Moon Song",
+      "url": "https://open.spotify.com/track/3lw0CSMQ88LcN0ZMP6DlWi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fade Into You",
         "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 269875,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "That Moon Song",
-      "url": "https://open.spotify.com/track/3lw0CSMQ88LcN0ZMP6DlWi"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "Appaloosa Bones",
-      "url": "https://open.spotify.com/track/5oWey6pj5PX80AFVuNWBrS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 241626,
       "name": "Words",
       "url": "https://open.spotify.com/track/01Dc5vTMc9axpkvDUy0yiD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Appaloosa Bones",
+      "url": "https://open.spotify.com/track/5oWey6pj5PX80AFVuNWBrS"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 184906,
       "name": "Dandelion Wine",
       "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 139240,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "Wings In All Black",
-      "url": "https://open.spotify.com/track/6dW2GBClQt23WtOctmEp4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 182333,
       "name": "Master & A Hound",
       "url": "https://open.spotify.com/track/7KxlQrTePk82UyI1Daz2Cr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "Wings In All Black",
+      "url": "https://open.spotify.com/track/6dW2GBClQt23WtOctmEp4S"
     },
     {
       "added_at": null,

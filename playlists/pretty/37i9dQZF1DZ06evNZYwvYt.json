@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 20468,
+  "num_followers": 20469,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABTtM7f33d2HP6oYJda6tC0",
+  "snapshot_id": "aj8SgAAAAABrr5JyOEQ+O/yUj6GptVf6",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Mar de nubes",
-      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
+      "duration_ms": 350986,
+      "name": "Hazme Algo",
+      "url": "https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 350986,
-      "name": "Hazme Algo",
-      "url": "https://open.spotify.com/track/3BDlSvSJRJE2YtVP2RAu2P"
+      "duration_ms": 244000,
+      "name": "Mar de nubes",
+      "url": "https://open.spotify.com/track/5yGkfRMygHAcygGKrHgR9N"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
       "duration_ms": 235613,
       "name": "Delicada Violencia",
       "url": "https://open.spotify.com/track/7D0wYJazZXiHzCza7yMhqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 286106,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 286106,
-      "name": "Verdad",
-      "url": "https://open.spotify.com/track/07jQohp4cfhXkaKHAErPh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 242000,
       "name": "Virtual",
       "url": "https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5lolOJpZVQx4m7ubu9m3Zd"
     },
     {
       "added_at": null,

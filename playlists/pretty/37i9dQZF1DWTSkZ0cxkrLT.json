@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 429384,
+  "num_followers": 429381,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-12 03:00:46",
       "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
-    },
-    {
-      "added_at": "2026-06-12 03:00:46",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:46",
+      "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2026-06-12 03:00:46",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-12 03:00:46",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2026-06-12 03:00:46",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
+    },
+    {
+      "added_at": "2026-06-12 03:00:46",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2026-06-12 03:00:46",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-06-12 03:00:46",
       "album": {
+        "name": "Algo Es Mejor",
+        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Algo Es Mejor",
+      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "added_at": "2026-06-12 03:00:46",
+      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
-    },
-    {
-      "added_at": "2026-06-12 03:00:46",
-      "album": {
-        "name": "Algo Es Mejor",
-        "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Algo Es Mejor",
-      "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
     },
     {
       "added_at": "2026-06-12 03:00:46",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2026-06-12 03:00:46",
       "album": {
+        "name": "No me Arrepiento de este Amor",
+        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "No me Arrepiento de este Amor",
+      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
+    },
+    {
+      "added_at": "2026-06-12 03:00:46",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 225130,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6NHLDaBJR7QZd7Q8iS8VO0"
-    },
-    {
-      "added_at": "2026-06-12 03:00:46",
-      "album": {
-        "name": "No me Arrepiento de este Amor",
-        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "No me Arrepiento de este Amor",
-      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
     },
     {
       "added_at": "2026-06-12 03:00:46",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-06-12 03:00:46",
       "album": {
-        "name": "Me Entrego",
-        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
-      },
-      "artists": [
-        {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Me Entrego",
-      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
-    },
-    {
-      "added_at": "2026-06-12 03:00:46",
-      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
+    },
+    {
+      "added_at": "2026-06-12 03:00:46",
+      "album": {
+        "name": "Me Entrego",
+        "url": "https://open.spotify.com/album/2jhUW0bDLjyfORs3KGiuS4"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Me Entrego",
+      "url": "https://open.spotify.com/track/2lft7FPs5Js1tYbwZ99wvc"
     },
     {
       "added_at": "2026-06-12 03:00:46",

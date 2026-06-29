@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 35 likes - 11 songs - 51 min 3 sec
+[royva06](https://open.spotify.com/user/royva06) - 35 likes - 11 songs - 48 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Here I Am](https://open.spotify.com/track/343maiZvmnpCQEZC2nw66F) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:20 |
-| 2 | [Dove](https://open.spotify.com/track/4xnyBIfiVgT7ZjrHGdrHtw) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/06vHyS1KFTcMIyxKzuRAbK) | 10:55 |
-| 3 | [Nikes on My Feet](https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:44 |
-| 4 | [Can't Win](https://open.spotify.com/track/2gD9pi3P3Op5Otd3yy5GEg) | [LABRYS](https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9) | [10:10](https://open.spotify.com/album/3pyL2DyrsM2GrzAjrUwPYj) | 2:54 |
-| 5 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
-| 6 | [We Gonna Make It](https://open.spotify.com/track/3FYSNSTUCqAZGfwEd8ui4l) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Kiss Tha Game Goodbye](https://open.spotify.com/album/0w0pkKJYucpsDacKMKZ3SR) | 3:33 |
-| 7 | [State of the Art \- A.E.I.O.U.](https://open.spotify.com/track/1YNypCDoTnQ7ZrvrPeT1ho) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God](https://open.spotify.com/album/0SosoEP92yAyaEr56FQEXW) | 5:17 |
-| 8 | [This Town](https://open.spotify.com/track/59Fhvzw9T3dcxTbGzbNvg2) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 3:20 |
-| 9 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
-| 10 | [\#34](https://open.spotify.com/track/3mMqk2MAWy2pT1E73nYauu) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Under the Table and Dreaming \(Expanded Edition\)](https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ) | 5:00 |
-| 11 | [This Is Not A Prayer](https://open.spotify.com/track/2j1t9b81HJp6fqYwmtDaaq) | [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [American Standard](https://open.spotify.com/album/2i6NKvLSPRQVyBwmq7ASGG) | 6:39 |
+| 1 | [New Threats From The Soul](https://open.spotify.com/track/2waAug1IePTKYs2KhTCYlc) | [Ryan Davis & the Roadhouse Band](https://open.spotify.com/artist/7Ah0xZVyWfAL3Vd7OVvKuo) | [New Threats From The Soul](https://open.spotify.com/album/1hXKcCv9VsWMFZNjbjv5XU) | 9:21 |
+| 2 | [Yellow Brick Road](https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:37 |
+| 3 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 3:58 |
+| 4 | [Green River](https://open.spotify.com/track/1ckVrHITCk9BMhyRcsnblh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(40th Anniversary Edition\)](https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI) | 2:34 |
+| 5 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
+| 6 | [Jackpot](https://open.spotify.com/track/7d3vlZE6v7rRULhwgknEBK) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3) | 3:33 |
+| 7 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 |
+| 8 | [Ragtime](https://open.spotify.com/track/2vG2fsLHqP9tNORtyYszyW) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You \(Deluxe Edition\)](https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5) | 5:14 |
+| 9 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 |
+| 10 | [Long Pond Lily](https://open.spotify.com/track/47yRyhwrCVXkrjmTXye7Ot) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [I'll Be Waving As You Drive Away](https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe) | 4:26 |
+| 11 | [Cool Yourself](https://open.spotify.com/track/0BZmAQV9oA9j9TRYZ1jQj4) | [THAO](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG) | [Know Better Learn Faster](https://open.spotify.com/album/1AkgsMneGDu0rLVeB4Gnwn) | 2:34 |
 
-Snapshot ID: `AAALIs5OXI0yipBIYwI3Chgw60x/nxvX`
+Snapshot ID: `AAALOFFPGfa6WBTz6NP5oe9jhqmMeBpy`

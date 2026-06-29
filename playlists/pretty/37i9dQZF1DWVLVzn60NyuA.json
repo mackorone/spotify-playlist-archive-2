@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 502206,
+  "num_followers": 502248,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Asiwaju",
+      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Asiwaju",
-      "url": "https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
         "name": "The Lion King: The Gift",
         "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
@@ -1103,26 +1127,6 @@
       "duration_ms": 222529,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
-        "name": "Baddies",
-        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 207403,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -1151,26 +1155,22 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
-        "name": "TATTUU",
-        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 194734,
-      "name": "TATTUU",
-      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+      "duration_ms": 207403,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
-        "name": "FIYAH",
-        "url": "https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm"
-      },
-      "artists": [
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 192783,
-      "name": "FIYAH",
-      "url": "https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 140166,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
+        "name": "FIYAH",
+        "url": "https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 192783,
+      "name": "FIYAH",
+      "url": "https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -2119,6 +2119,30 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Kohsea",
+          "url": "https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
         "name": "Aye Kan (Are You Coming Back?) [feat. Ayra Starr]",
         "url": "https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9"
       },
@@ -2155,46 +2179,6 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
-        "name": "Rhythm",
-        "url": "https://open.spotify.com/album/1VClpB03Mt37rl0ShE07Zf"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Kohsea",
-          "url": "https://open.spotify.com/artist/14iYghNFfyq3pVyoG3Nb8C"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Rhythm",
-      "url": "https://open.spotify.com/track/33a1uLQRtgOGJDU7DqNsFt"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
-        "name": "COMMAS",
-        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 172053,
-      "name": "COMMAS",
-      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
+        "name": "COMMAS",
+        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 172053,
+      "name": "COMMAS",
+      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
-        "name": "Tadow (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "Tadow - Full Crate Remix",
-      "url": "https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
+        "name": "Tadow (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "Tadow - Full Crate Remix",
+      "url": "https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -2483,6 +2483,22 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
+        "name": "Ojoro",
+        "url": "https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ"
+      },
+      "artists": [
+        {
+          "name": "Terri",
+          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Ojoro",
+      "url": "https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
         "name": "N\u00e3o Deixa",
         "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 196948,
       "name": "N\u00e3o Deixa",
       "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
-        "name": "Ojoro",
-        "url": "https://open.spotify.com/album/6fqizoVW8XujliAOvGuNjQ"
-      },
-      "artists": [
-        {
-          "name": "Terri",
-          "url": "https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Ojoro",
-      "url": "https://open.spotify.com/track/7HM3WyOHG3Nm6Ck5aZaFKF"
     },
     {
       "added_at": "2026-06-24 22:00:04",
@@ -2835,6 +2835,22 @@
     {
       "added_at": "2026-06-24 22:00:04",
       "album": {
+        "name": "Yes Man",
+        "url": "https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Yes Man",
+      "url": "https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo"
+    },
+    {
+      "added_at": "2026-06-24 22:00:04",
+      "album": {
         "name": "I'll Be Fire",
         "url": "https://open.spotify.com/album/1WzDlgKUTA7XyTbMkKiSE7"
       },
@@ -2851,22 +2867,6 @@
       "duration_ms": 190378,
       "name": "I'll Be Fire",
       "url": "https://open.spotify.com/track/7EtpoRV2VHzrCGRhcyd2He"
-    },
-    {
-      "added_at": "2026-06-24 22:00:04",
-      "album": {
-        "name": "Yes Man",
-        "url": "https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1"
-      },
-      "artists": [
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Yes Man",
-      "url": "https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo"
     },
     {
       "added_at": "2026-06-24 22:00:04",

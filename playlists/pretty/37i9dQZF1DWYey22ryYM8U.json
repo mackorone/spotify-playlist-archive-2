@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s pegadas. Cover: Ricky Martin, Los \u00c1ngeles Azules & TINI",
-  "num_followers": 692945,
+  "num_followers": 692934,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-04-03 04:02:51",
       "album": {
-        "name": "GOTTI A",
-        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 167315,
-      "name": "De Vuelta",
-      "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
-    },
-    {
-      "added_at": "2026-04-03 04:02:51",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/20o8eVLMPNGaa5Lp5W2a51"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 287893,
       "name": "Rebeli\u00f3n",
       "url": "https://open.spotify.com/track/3v32VtMTRZbIQJUFsQpeJD"
+    },
+    {
+      "added_at": "2026-04-03 04:02:51",
+      "album": {
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 167315,
+      "name": "De Vuelta",
+      "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
     },
     {
       "added_at": "2026-04-03 04:02:51",

@@ -1,6 +1,6 @@
 {
   "description": "a strictly smooth mood...cover: Tems",
-  "num_followers": 207878,
+  "num_followers": 207901,
   "original_name": "Raw Silk ",
   "owner": {
     "name": "Spotify",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/1vB4QfgNHdfwD2qRL0B7PI"
     },
     {
+      "added_at": "2026-06-11 14:00:36",
+      "album": {
+        "name": "FRE$H",
+        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "FRE$H",
+      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
+    },
+    {
       "added_at": "2026-03-06 05:47:45",
       "album": {
         "name": "REAL, Vol. 1",
@@ -371,22 +387,6 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
-    },
-    {
-      "added_at": "2026-06-11 14:00:36",
-      "album": {
-        "name": "FRE$H",
-        "url": "https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "FRE$H",
-      "url": "https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
         "name": "New World Depression",
         "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
       "added_at": "2026-03-06 05:47:45",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-03-06 05:47:45",
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2026-03-06 05:47:45",
+      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
-    },
-    {
-      "added_at": "2026-03-06 05:47:45",
-      "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2026-03-06 05:47:45",

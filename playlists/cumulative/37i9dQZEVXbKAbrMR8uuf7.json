@@ -6412,7 +6412,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 122363,
       "name": "Chica Baila",
       "url": "https://open.spotify.com/track/0ayDGpeamuHKkx4H8qhJcX"
@@ -11214,7 +11214,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -12450,7 +12450,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 186122,
       "name": "El Caribe",
       "url": "https://open.spotify.com/track/79ZzzqjxczfxAY0YeNKwb7"
@@ -14020,7 +14020,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 84272,
       "name": "Esa Nena",
       "url": "https://open.spotify.com/track/5TNT6NWOMALO1XIMhtthAe"
@@ -21916,6 +21916,24 @@
       "duration_ms": 221044,
       "name": "Las Lagrimas de Mi Ex",
       "url": "https://open.spotify.com/track/488TWqPr8nDI5dpv8N3UgK"
+    },
+    {
+      "album": {
+        "name": "Las mas bonitas son p#tas",
+        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Las mas bonitas son p#tas",
+      "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
     },
     {
       "album": {
@@ -32142,7 +32160,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 161053,
       "name": "PISAO PISAO",
       "url": "https://open.spotify.com/track/49xazS2eVuaNXYfXAX2StF"
@@ -35238,7 +35256,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
@@ -40402,7 +40420,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 124866,
       "name": "SWAGGER",
       "url": "https://open.spotify.com/track/4FEPcLJAyz0MI5J20Y5Y3C"

@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234270,
+  "num_followers": 234268,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 271106,
       "name": "Heart Is A Drum",
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Accidental Tattoo",
         "url": "https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 195862,
       "name": "Accidental Tattoo",
       "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "flame",
+      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "yeti",
         "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "For Melancholy Brunettes (& sad women)",
         "url": "https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES"
       },
@@ -963,38 +963,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "a leith ross song",
-        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
-      },
-      "artists": [
-        {
-          "name": "Kayla Grace",
-          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
-        }
-      ],
-      "duration_ms": 147133,
-      "name": "a leith ross song",
-      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "I Expect Better",
-        "url": "https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 139784,
-      "name": "I Expect Better",
-      "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "I Don't Think of Kissing You",
         "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
       },
@@ -1007,6 +975,22 @@
       "duration_ms": 169124,
       "name": "I Don't Think of Kissing You",
       "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "a leith ross song",
+        "url": "https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "a leith ross song",
+      "url": "https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 182624,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Expect Better",
+        "url": "https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a"
+      },
+      "artists": [
+        {
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
+        }
+      ],
+      "duration_ms": 139784,
+      "name": "I Expect Better",
+      "url": "https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Look Out!",
         "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Minnie",
-      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Prime Corner",
         "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 236866,
       "name": "Futures",
       "url": "https://open.spotify.com/track/79G3uzyNnNUXKW5u5GUWjA"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Minnie",
+      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "is that all there is?",
         "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "My Own Party",
-        "url": "https://open.spotify.com/album/4LjjX3O5EYmMOgIAoM8ALg"
+        "name": "Today",
+        "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
       },
       "artists": [
         {
-          "name": "Dea Matrona",
-          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
         }
       ],
-      "duration_ms": 227089,
-      "name": "My Own Party",
-      "url": "https://open.spotify.com/track/1Vd8sqJhukmdwAZo2f0OSE"
+      "duration_ms": 166413,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 263320,
       "name": "So Unimportant",
       "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "My Own Party",
+        "url": "https://open.spotify.com/album/4LjjX3O5EYmMOgIAoM8ALg"
+      },
+      "artists": [
+        {
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+        }
+      ],
+      "duration_ms": 227089,
+      "name": "My Own Party",
+      "url": "https://open.spotify.com/track/1Vd8sqJhukmdwAZo2f0OSE"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Pushing Away",
         "url": "https://open.spotify.com/album/7fRtWwMStVuMJxAi0BbkP1"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "What Are We Doing?",
-        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
       },
       "artists": [
         {
-          "name": "EGOISM",
-          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
         }
       ],
-      "duration_ms": 193780,
-      "name": "What Are We Doing?",
-      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 173259,
       "name": "Stay And Rest For A While",
       "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "What Are We Doing?",
+        "url": "https://open.spotify.com/album/7a7F4c26kIxxnk1kWWk2jC"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "duration_ms": 193780,
+      "name": "What Are We Doing?",
+      "url": "https://open.spotify.com/track/4iQJp5EJLeaegXK51bxenr"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1643,22 +1643,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Fantasneeze (feat. Matilda Mann)",
-        "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
       "artists": [
         {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fantasneeze (feat. Matilda Mann)",
-      "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
+      "duration_ms": 253200,
+      "name": "You Are The Morning",
+      "url": "https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

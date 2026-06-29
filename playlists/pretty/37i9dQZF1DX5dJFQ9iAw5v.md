@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,035 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,039 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 49 | [I Should Care](https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH) | [Ruben Lopez Furst](https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Luis Ceravolo](https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E) | [All the Things You Are](https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB) | 6:48 |
 | 50 | [La Novena](https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:45 |
 | 51 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
-| 52 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
-| 53 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
+| 52 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
+| 53 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
 | 54 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
 | 55 | [De Pie](https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 5:56 |
 | 56 | [Reunión](https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7) | [Pepi Taveira](https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2) | [Reunión](https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB) | 6:29 |

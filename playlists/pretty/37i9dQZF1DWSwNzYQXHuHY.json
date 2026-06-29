@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12688,
+  "num_followers": 12691,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-06-24 04:55:06",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Question Marks (Feat. Paul Kim)",
-      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "monodrama (feat. KURO)",
         "url": "https://open.spotify.com/album/6m0ImyuGH2zCmlpJy7PpZB"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 173286,
       "name": "monodrama (feat. KURO)",
       "url": "https://open.spotify.com/track/7Fyj1PrZfWjbm1qlVu5aM9"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Question Marks (Feat. Paul Kim)",
+      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
     },
     {
       "added_at": "2026-06-24 04:55:06",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "To My Beloved Thief, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/73xC19YQk363A7KxR142sW"
-      },
-      "artists": [
-        {
-          "name": "KickFlip",
-          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Something Feels Wrong",
-      "url": "https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
         "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 163000,
       "name": "Love Frequency",
       "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "To My Beloved Thief, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/73xC19YQk363A7KxR142sW"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Something Feels Wrong",
+      "url": "https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm"
     },
     {
       "added_at": "2026-06-24 04:55:06",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-06-24 04:55:06",
       "album": {
-        "name": "XO, My Cyberlove",
-        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
-    },
-    {
-      "added_at": "2026-06-24 04:55:06",
-      "album": {
         "name": "Wanna Love You",
         "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 220472,
       "name": "Wanna Love You",
       "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
+    },
+    {
+      "added_at": "2026-06-24 04:55:06",
+      "album": {
+        "name": "XO, My Cyberlove",
+        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
     },
     {
       "added_at": "2026-06-24 04:55:06",

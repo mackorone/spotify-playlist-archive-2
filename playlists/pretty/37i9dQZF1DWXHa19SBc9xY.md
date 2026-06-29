@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,862 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,880 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 4 | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Idiota Raiz \(Deixa Ir\)](https://open.spotify.com/album/3nYq2i21JSw8TL5rdlBQcM) | 2:34 |
 | 5 | [Tangerina \- Ao Vivo](https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Acústico MTV Tiago Iorc \(Ao Vivo\)](https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV) | 4:41 |
 | 6 | [Algum Ritmo](https://open.spotify.com/track/5EVv8M3vhByFLLqT1dkdGd) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Algum Ritmo](https://open.spotify.com/album/4v4NXk4pD9IcbquIVSJvcV) | 3:35 |
-| 7 | [Beleza Rara](https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Beleza Rara](https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb) | 3:25 |
-| 8 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
+| 7 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 |
+| 8 | [Beleza Rara](https://open.spotify.com/track/5QELf6GWQ6hMURJhpYUNth) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Beleza Rara](https://open.spotify.com/album/73QNNUQgxuX6fH9WNI4wCb) | 3:25 |
 | 9 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 10 | [Andar Leve](https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P) | 2:45 |
 | 11 | [Bateu](https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Bateu](https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz) | 3:26 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 48 | [Tem Dias](https://open.spotify.com/track/4q7PtChUEX8iXUsTw4eQkl) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tem Dias](https://open.spotify.com/album/7H13dgfnX4i8qC04THpGLC) | 3:29 |
 | 49 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
 | 50 | [Sala De Estar](https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6) | [LOFRAN](https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78), [Jadeco](https://open.spotify.com/artist/2xR72gXLvfx1hi8OcADmAY) | [Sala De Estar](https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A) | 4:05 |
-| 51 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
-| 52 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
+| 51 | [cheia de vontade](https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [cheia de vontade](https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv) | 2:26 |
+| 52 | [Estrelas](https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB) | [Jonathan Luiz](https://open.spotify.com/artist/3Gj7twC88ahnNZktJhMGb2) | [Estrelas](https://open.spotify.com/album/3KWa6AHiQLSIvlWeoEPSkj) | 3:33 |
 | 53 | [PREAMAR](https://open.spotify.com/track/5vXucjlEods0fafmWCudxU) | [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj), [Felipe Cordeiro](https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4), [Júnior Soares](https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON) | [PREAMAR](https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA) | 4:21 |
 | 54 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
 | 55 | [Com Certeza](https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Com Certeza](https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7) | 3:32 |

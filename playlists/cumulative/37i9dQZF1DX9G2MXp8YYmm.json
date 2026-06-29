@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Atlat\u0131r\u0131m",
+        "url": "https://open.spotify.com/album/0w5E8Zfy7QXcvHl7ocMeC9"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223329,
+      "name": "Atlat\u0131r\u0131m",
+      "url": "https://open.spotify.com/track/3tg7LFUyNJa9KN28lr6J73"
+    },
+    {
+      "album": {
         "name": "Atm\u0131yor Nabz\u0131m",
         "url": "https://open.spotify.com/album/6hxfB48Sxt5XVZOvJhleEG"
       },
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 255118,
       "name": "Kayboldum Masal\u0131nda",
       "url": "https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2"

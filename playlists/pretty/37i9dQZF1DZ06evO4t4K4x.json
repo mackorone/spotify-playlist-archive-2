@@ -1,12 +1,12 @@
 {
   "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
-  "num_followers": 2538,
+  "num_followers": 2537,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACLUxSrKucbUp5EceuEGkzv",
+  "snapshot_id": "aj8SgAAAAACXMHOmu/NqwHfoLIbKHc6u",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
-        "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "The BBC Radiophonic Workshop",
-          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
-      "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doctor Who - The Daleks In Colour (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4cYIXkLqo9yjowBBEa4Ajp"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 30280,
       "name": "Doctor Who Opening Titles - \u201cIn Colour\u201d Mix, Daleks Version",
       "url": "https://open.spotify.com/track/7KDquLPVjbJJw7tj1jl6Vj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+        "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+      "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 47506,
-      "name": "Hannett and Delia synth exchanges track 8",
-      "url": "https://open.spotify.com/track/1FhA7D9ptZBGD5IvIms24v"
+      "duration_ms": 34400,
+      "name": "Hannett and Delia synth exchanges track 4",
+      "url": "https://open.spotify.com/track/03c89GZzvZnON25spbc5uZ"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sea (1969)",
-        "url": "https://open.spotify.com/album/72PrDcOdwtlGmyv2GzCz5o"
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 564706,
-      "name": "The Sea (1969)",
-      "url": "https://open.spotify.com/track/0UmTJH6MMIoCZSkiYa5Z5Q"
+      "duration_ms": 54053,
+      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
+      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
         }
       ],
-      "duration_ms": 34400,
-      "name": "Hannett and Delia synth exchanges track 4",
-      "url": "https://open.spotify.com/track/03c89GZzvZnON25spbc5uZ"
+      "duration_ms": 47506,
+      "name": "Hannett and Delia synth exchanges track 8",
+      "url": "https://open.spotify.com/track/1FhA7D9ptZBGD5IvIms24v"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What You Love",
-        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
+        "name": "The Sea (1969)",
+        "url": "https://open.spotify.com/album/72PrDcOdwtlGmyv2GzCz5o"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 54053,
-      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
-      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
+      "duration_ms": 564706,
+      "name": "The Sea (1969)",
+      "url": "https://open.spotify.com/track/0UmTJH6MMIoCZSkiYa5Z5Q"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
         }
       ],
-      "duration_ms": 74573,
-      "name": "Computermatic",
-      "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
+      "duration_ms": 175733,
+      "name": "The Pattern Emerges",
+      "url": "https://open.spotify.com/track/1CG4YEEQpvYe8aEUXf1mvu"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 31760,
-      "name": "Environmental Studies",
-      "url": "https://open.spotify.com/track/3QpYKlZYpGf7QD9OM1zNlx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/3QpYKlZYpGf7QD9OM1zNlx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Afterlife Anthology",
         "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
       },
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire",
-        "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
+        "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
+        "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
       },
       "artists": [
         {
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 225880,
-      "name": "Nightwalking 2 (1976)",
-      "url": "https://open.spotify.com/track/5slsN0zrQlzEVGQmw6Hevq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 41293,
-      "name": "A New View of Politics",
-      "url": "https://open.spotify.com/track/3ohn4fxPOiWYzzflvtyQdr"
+      "duration_ms": 108480,
+      "name": "Dance from 'Noah' (1972 Broadcast Version)",
+      "url": "https://open.spotify.com/track/2ggW5yim1n9O7Y1LzAsNwW"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/3ohn4fxPOiWYzzflvtyQdr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Afterlife Anthology",
         "url": "https://open.spotify.com/album/2sXd6DbNyawKMdYddgHuZZ"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 108480,
       "name": "The Afterlife, Pt. 1",
       "url": "https://open.spotify.com/track/5cmFQOkUbLjKKswbsC9F1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire",
+        "url": "https://open.spotify.com/album/0t5Hbzaq9DJy0W1gVgadKP"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Nightwalking 2 (1976)",
+      "url": "https://open.spotify.com/track/5slsN0zrQlzEVGQmw6Hevq"
     },
     {
       "added_at": null,
@@ -783,38 +799,6 @@
       "duration_ms": 94378,
       "name": "I Decoded You (Moogies Bloogies, Pt. 2)",
       "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 59240,
-      "name": "Know Your Car (Get out and Get Under)",
-      "url": "https://open.spotify.com/track/4pDeiU99tlYHbhZmlMJK5h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Late Night Horror / Frontier",
-        "url": "https://open.spotify.com/album/6xckPw8TAGiqov7UgwLDWr"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Late Night Horror / Frontier",
-      "url": "https://open.spotify.com/track/3HgTFEwUqYvbEINLNCdnre"
     },
     {
       "added_at": null,
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
-        "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
       },
       "artists": [
         {
@@ -852,9 +836,9 @@
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
         }
       ],
-      "duration_ms": 108480,
-      "name": "Dance from 'Noah' (1972 Broadcast Version)",
-      "url": "https://open.spotify.com/track/2ggW5yim1n9O7Y1LzAsNwW"
+      "duration_ms": 59240,
+      "name": "Know Your Car (Get out and Get Under)",
+      "url": "https://open.spotify.com/track/4pDeiU99tlYHbhZmlMJK5h"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Night Horror / Frontier",
+        "url": "https://open.spotify.com/album/6xckPw8TAGiqov7UgwLDWr"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Late Night Horror / Frontier",
+      "url": "https://open.spotify.com/track/3HgTFEwUqYvbEINLNCdnre"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 57253,
-      "name": "Science and Health",
-      "url": "https://open.spotify.com/track/1WMP6CdxtyXxsx0raIefTH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liquid Energy / Dance from 'Noah' (1972 Broadcast Version)",
         "url": "https://open.spotify.com/album/5p2sW6kPptL7YcYdjJjW4j"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 188677,
       "name": "Liquid Energy (1972 Broadcast Version)",
       "url": "https://open.spotify.com/track/0WasLM432WsNjmvlArKpfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/1WMP6CdxtyXxsx0raIefTH"
     },
     {
       "added_at": null,

@@ -16361,6 +16361,24 @@
     },
     {
       "album": {
+        "name": "Las mas bonitas son p#tas",
+        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159840,
+      "name": "Las mas bonitas son p#tas",
+      "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
+    },
+    {
+      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -34984,7 +35002,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

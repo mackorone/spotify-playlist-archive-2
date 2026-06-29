@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 122699,
+  "num_followers": 122717,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
-        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
-      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 265954,
       "name": "V\u00f9ng An To\u00e0n",
       "url": "https://open.spotify.com/track/6Zoi4ue74UdUeYmHXItXnf"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
-      },
-      "artists": [
-        {
-          "name": "OgeNus",
-          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 220289,
-      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
-      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
         "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 113519,
       "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
       "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+        "url": "https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4"
+      },
+      "artists": [
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 220289,
+      "name": "Tuy\u1ec3n B\u1ea1n G\u00e1i",
+      "url": "https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -543,8 +543,8 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Em iu",
-        "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
+        "name": "C\u00f4ng Ty 4",
+        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
       },
       "artists": [
         {
@@ -552,21 +552,21 @@
           "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         },
         {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
         },
         {
-          "name": "Donald Gold",
-          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
         },
         {
-          "name": "2Pillz",
-          "url": "https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A"
+          "name": "WOKEUP",
+          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Em iu",
-      "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
+      "duration_ms": 254491,
+      "name": "C\u00f4ng Ty 4",
+      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -663,8 +663,8 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "C\u00f4ng Ty 4",
-        "url": "https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO"
+        "name": "Em iu",
+        "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
       "artists": [
         {
@@ -672,21 +672,21 @@
           "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
         },
         {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
         },
         {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+          "name": "Donald Gold",
+          "url": "https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q"
         },
         {
-          "name": "WOKEUP",
-          "url": "https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d"
+          "name": "2Pillz",
+          "url": "https://open.spotify.com/artist/1VdPXTk7MBqZ3sm57D1b1A"
         }
       ],
-      "duration_ms": 254491,
-      "name": "C\u00f4ng Ty 4",
-      "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
+      "duration_ms": 176000,
+      "name": "Em iu",
+      "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -759,18 +759,38 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
-        "url": "https://open.spotify.com/album/7DlarLBW6gOlbUKYZh8hxi"
+        "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
+        "url": "https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz"
       },
       "artists": [
         {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+          "name": "Rapital",
+          "url": "https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df"
+        },
+        {
+          "name": "RPT Orijinn",
+          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "RZ Ma$",
+          "url": "https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb"
+        },
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "RPT Phongkhin",
+          "url": "https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh"
         }
       ],
-      "duration_ms": 174000,
-      "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
-      "url": "https://open.spotify.com/track/3w8MKmLlgDT0IiKQ5MPmAu"
+      "duration_ms": 193125,
+      "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
+      "url": "https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -815,42 +835,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
-        "url": "https://open.spotify.com/album/71FoWxY6Mf348aLrnA6dVz"
-      },
-      "artists": [
-        {
-          "name": "Rapital",
-          "url": "https://open.spotify.com/artist/0wqus4nTxIoJvLZLwBt8Df"
-        },
-        {
-          "name": "RPT Orijinn",
-          "url": "https://open.spotify.com/artist/25JRC8aMGIGBIJ5KiINv3l"
-        },
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        },
-        {
-          "name": "RZ Ma$",
-          "url": "https://open.spotify.com/artist/2TUOlHV4KJEuy92UFEGhZb"
-        },
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "RPT Phongkhin",
-          "url": "https://open.spotify.com/artist/507GazaO91Ut3S2DSeCJwh"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
-      "url": "https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "\u0110\u1ed5i T\u01b0 Th\u1ebf",
         "url": "https://open.spotify.com/album/5wHxubdBIRpKJVsKquzsnl"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "M\u1eaft Nh\u1eafm M\u1eaft M\u1edf",
-        "url": "https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El"
+        "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
+        "url": "https://open.spotify.com/album/7DlarLBW6gOlbUKYZh8hxi"
       },
       "artists": [
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
         }
       ],
-      "duration_ms": 204967,
-      "name": "S\u1eafp N\u1ed5i Ti\u1ebfng 2",
-      "url": "https://open.spotify.com/track/5UUNrCgGtC6JOrATM3y3ZT"
+      "duration_ms": 174000,
+      "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
+      "url": "https://open.spotify.com/track/3w8MKmLlgDT0IiKQ5MPmAu"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -907,22 +891,34 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Ex's Hate Me",
-        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
+        "name": "M\u1eaft Nh\u1eafm M\u1eaft M\u1edf",
+        "url": "https://open.spotify.com/album/0f0fmMVSSKpTeKOHXrP9El"
       },
       "artists": [
         {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 258023,
-      "name": "Ex's Hate Me",
-      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
+      "duration_ms": 204967,
+      "name": "S\u1eafp N\u1ed5i Ti\u1ebfng 2",
+      "url": "https://open.spotify.com/track/5UUNrCgGtC6JOrATM3y3ZT"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
+      },
+      "artists": [
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -947,18 +943,22 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
+        "name": "Ex's Hate Me",
+        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
       },
       "artists": [
         {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
         }
       ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
+      "duration_ms": 258023,
+      "name": "Ex's Hate Me",
+      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
     },
     {
       "added_at": "2026-06-18 06:11:23",
@@ -983,42 +983,6 @@
     {
       "added_at": "2026-06-18 06:11:23",
       "album": {
-        "name": "Wrong Times",
-        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
-      },
-      "artists": [
-        {
-          "name": "Puppy",
-          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Wrong Times",
-      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
-        "name": "Cho B\u1ea3o",
-        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
-      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
-    },
-    {
-      "added_at": "2026-06-18 06:11:23",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -1035,6 +999,46 @@
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "ABG",
+        "url": "https://open.spotify.com/album/5wSNbLGJ4o9HcBuwfAf84l"
+      },
+      "artists": [
+        {
+          "name": "nhan.",
+          "url": "https://open.spotify.com/artist/6Ju8OqJkXqr9lRIGx9Vs6t"
+        },
+        {
+          "name": "Xuanpac",
+          "url": "https://open.spotify.com/artist/53aQsVsBVoFXO0FAhgVCPM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "ABG",
+      "url": "https://open.spotify.com/track/4oHNffwl7J3lMBNjvcYue2"
+    },
+    {
+      "added_at": "2026-06-18 06:11:23",
+      "album": {
+        "name": "Wrong Times",
+        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Wrong Times",
+      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

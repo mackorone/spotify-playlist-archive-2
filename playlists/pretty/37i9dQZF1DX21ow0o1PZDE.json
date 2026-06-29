@@ -1,6 +1,6 @@
 {
   "description": "Todos los grandes \u00e9xitos del a\u00f1o, reunidos en un solo lugar. Omar Camacho en portada.",
-  "num_followers": 1490691,
+  "num_followers": 1490842,
   "original_name": "Mega \u00c9xitos 2026",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "ETERNO",
         "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 151570,
       "name": "TU TU TU",
       "url": "https://open.spotify.com/track/0L5gbpFGU06vqSHacOxgka"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
     },
     {
       "added_at": "2026-06-26 06:00:47",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-06-26 06:00:47",
       "album": {
-        "name": "La Ciudad del Sol",
-        "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "La Ciudad del Sol",
-      "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
-    },
-    {
-      "added_at": "2026-06-26 06:00:47",
-      "album": {
         "name": "MI GATA",
         "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 222366,
       "name": "MI GATA",
       "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
+    },
+    {
+      "added_at": "2026-06-26 06:00:47",
+      "album": {
+        "name": "La Ciudad del Sol",
+        "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "La Ciudad del Sol",
+      "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
     },
     {
       "added_at": "2026-06-26 06:00:47",

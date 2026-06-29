@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,154 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,162 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 11 | [Tengo Mal Gusto](https://open.spotify.com/track/4SvbDNh51XJ0f7LVmwDWNp) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:27 |
 | 12 | [Tengo Ganas de Llorar](https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n) | [Alejandra Rojas](https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Tengo Ganas de Llorar](https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT) | 2:53 |
 | 13 | [Dejaré](https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:57 |
-| 14 | [Amémonos de Nuevo](https://open.spotify.com/track/4Xd8S77RE5nwUsF5TKl0Oe) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:51 |
+| 14 | [Promesas de Cartón](https://open.spotify.com/track/643v9xjtHa9F9Ser9Gu2xn) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:41 |
 | 15 | [Hazme Tuya](https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:24 |
 | 16 | [¿Seguimos o No?](https://open.spotify.com/track/3RLXWvyoDxHzHEpmh1zFP1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:21 |
 | 17 | [Need You Now](https://open.spotify.com/track/4XQtAK4J1oyqbiRDgovd3A) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Crossover](https://open.spotify.com/album/3EcLIq8s4OCRItWoxsODd0) | 3:14 |
-| 18 | [Promesas de Cartón](https://open.spotify.com/track/643v9xjtHa9F9Ser9Gu2xn) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:41 |
+| 18 | [Amémonos de Nuevo](https://open.spotify.com/track/4Xd8S77RE5nwUsF5TKl0Oe) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:51 |
 | 19 | [Quiéreme Así](https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:13 |
 | 20 | [La Corona Es Mía](https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:24 |
 | 21 | [Sabor a Mi](https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:34 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 33 | [Cómo Olvidarte](https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:08 |
 | 34 | [Luna de Octubre](https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Luna de Octubre](https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8) | 3:14 |
 | 35 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 |
-| 36 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 |
-| 37 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 |
-| 38 | [Se Me Va la Voz](https://open.spotify.com/track/2Ms5UbZ2jkT9m2hDWDJdgt) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Se Me Va la Voz](https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k) | 3:14 |
-| 39 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 |
+| 36 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 |
+| 37 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 |
+| 38 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 |
+| 39 | [Se Me Va la Voz](https://open.spotify.com/track/2Ms5UbZ2jkT9m2hDWDJdgt) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Se Me Va la Voz](https://open.spotify.com/album/0l3hGDxoI1CHMTrWkA8u9k) | 3:14 |
 | 40 | [Cuando Me Quieras](https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Alejandro Ascencio](https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:33 |
 | 41 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 |
 | 42 | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/track/12jIkwudYzvOEjd4ImdORM) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Podemos \(No Volver a la Ciudad\)](https://open.spotify.com/album/4YzAnJ4kj0GDILoM1g8lhO) | 3:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 48 | [Hay Unos Ojos](https://open.spotify.com/track/2exx2bfBKjdLwb47OdtBRC) | [Mariachi Herencia De Mexico](https://open.spotify.com/artist/47gu7rvIxNiBJdkPoYAsqW), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Herederos](https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY) | 2:36 |
 | 49 | [Enamorada](https://open.spotify.com/track/1SvEUE0N6CGtsLG9L4gyzF) | [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Las De Infante](https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH) | 4:20 |
 
-Snapshot ID: `aj3BAAAAAACdjND6qtzgRhhR8XJadrCR`
+Snapshot ID: `aj8SgAAAAAC7z7r//lJdVb7RKzMZWzB0`

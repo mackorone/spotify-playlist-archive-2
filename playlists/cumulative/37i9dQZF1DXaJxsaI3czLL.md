@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-521 songs - 1 day 12 hr 55 min
+522 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [family](https://open.spotify.com/track/5MSi0XXAwILX2Y38zLEdw4) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [scent of memory](https://open.spotify.com/album/4itk7c0pByLsMzpwsajyW3) | 5:23 | 2022-10-20 | 2022-12-07 |
 | [Fine On The Outside](https://open.spotify.com/track/7BaO8K0um4NNzntfUZ0sz0) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI), [小池龍平](https://open.spotify.com/artist/6nPhPmANjuDUgp0pTGiMdg) | [Fine On The Outside](https://open.spotify.com/album/6yEIhS2ltxor30hKSmucbx) | 4:15 | 2026-05-07 |  |
 | [Fire \(feat\. Sam Gendel\)](https://open.spotify.com/track/1zTowLItLwjFXiqAso4Fuw) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [State of Mind](https://open.spotify.com/album/5IlACT0Uw2qjYTgHrK37b0) | 5:44 | 2022-11-23 | 2022-12-14 |
-| [Flavor Of Life](https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Flavor Of Life](https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX) | 6:57 | 2023-11-02 |  |
+| [Flavor Of Life](https://open.spotify.com/track/2Ss4fzhZw5TMgdoZzRbQOk) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Flavor Of Life](https://open.spotify.com/album/539IJjkQjkvYazzzCA9gPX) | 6:57 | 2023-11-02 | 2026-06-29 |
 | [Fove](https://open.spotify.com/track/3UiVQ5BWMNSF7erQgxHXPY) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [22FW](https://open.spotify.com/album/1kSHbuF1QdslgIjYYOHnx8) | 4:05 | 2023-06-20 | 2023-07-19 |
 | [Fragments](https://open.spotify.com/track/63m3h54z2rge3HTbjGe3Bb) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Fragments](https://open.spotify.com/album/6KeXmbO5ZaW0SWoUW3TgX7) | 3:51 | 2023-09-26 | 2023-10-11 |
 | [FREEZA](https://open.spotify.com/track/3fPx4UDwtTK1Qa3VDiYqlv) | [zuni](https://open.spotify.com/artist/6im7758Y3E6Kf4mJMSNGgG) | [PALN ROLAN](https://open.spotify.com/album/4xuF1QxxptPcvHHyX0d3ZC) | 3:13 | 2023-11-14 | 2023-11-30 |
@@ -144,6 +144,7 @@
 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 | 2023-02-07 | 2023-04-05 |
 | [Letters](https://open.spotify.com/track/1tekdibfeOlht2yBU11s4Y) | [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Letters](https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK) | 4:34 | 2023-10-10 | 2025-11-08 |
 | [lien \- おやすみ Live 2023.6.16](https://open.spotify.com/track/2fM2uDsIAdCtgZH2HUQcQ2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [おやすみ Live 2023.6.16](https://open.spotify.com/album/7jscPYwxfQaEOuCrIKzgJ3) | 3:47 | 2023-08-08 | 2023-08-30 |
+| [Life Is Beautiful](https://open.spotify.com/track/7L4VgQR2mhH8GBJV19FEoR) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4) | [ハミングバード](https://open.spotify.com/album/42RtIuwRaKZXMhVGi2O5PY) | 4:35 | 2026-04-17 |  |
 | [Light song](https://open.spotify.com/track/4KXZ4MJKT0RYGhijfQ08Jw) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [urara](https://open.spotify.com/artist/2IcHTv2r6NWEc3eq5DEjhs) | [劇場アニメ ルックバック オリジナルサウンドトラック](https://open.spotify.com/album/3fPBJ0HC62DBciQuUYoXAz) | 4:09 | 2024-06-27 |  |
 | [Lighthouse \(Live Session\)](https://open.spotify.com/track/2kXbQ8jhtZqwXs9rnrWrE4) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD) | 3:07 | 2023-09-08 | 2023-11-13 |
 | [Lily](https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Lily](https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa) | 2:18 | 2023-01-31 | 2023-09-06 |

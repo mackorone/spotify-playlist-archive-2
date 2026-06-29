@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,723 likes - 75 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,735 likes - 75 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 62 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 |
 | 63 | [Wedding Party \- Background Score](https://open.spotify.com/track/0APxSVP73DpITxWovXrEZj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 |
 | 64 | [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 |
-| 65 | [Kaali Theme \- From "Petta"](https://open.spotify.com/track/61uPaVyWRi1HykhNR5Ldtw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:05 |
-| 66 | [23 Theme \(From "AA23"\)](https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hector Salamanca](https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [23 Theme \(From "AA23"\)](https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2) | 0:47 |
+| 65 | [23 Theme \(From "AA23"\)](https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hector Salamanca](https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [23 Theme \(From "AA23"\)](https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2) | 0:47 |
+| 66 | [Kaali Theme \- From "Petta"](https://open.spotify.com/track/61uPaVyWRi1HykhNR5Ldtw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:05 |
 | 67 | [Shield Fight \- Background Score](https://open.spotify.com/track/48pWf7gVrD3ftzkyzUJqVu) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 |
 | 68 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 |
 | 69 | [Vaathi Kabbadi \- Background Score](https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 3:26 |

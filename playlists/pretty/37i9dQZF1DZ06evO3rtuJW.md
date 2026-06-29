@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,080 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,086 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 39 | [Ain't Easy](https://open.spotify.com/track/3dTs6hT4HPJvcZcE6pU2Um) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 3:35 |
 | 40 | [I Remember/Dear Zavier \(feat\. G Herbo\)](https://open.spotify.com/track/4cuvj5fiaO0jAiodMUJHWp) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Zavier](https://open.spotify.com/album/5ZcuJ1sGBS0tl32RnHUNx1) | 5:28 |
 | 41 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
-| 42 | [Dracos & ARPs \(feat\. G Herbo\)](https://open.spotify.com/track/74y5DbMsvYomEDFuMDP73l) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 3:04 |
-| 43 | [Pressure](https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 2:54 |
-| 44 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
+| 42 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
+| 43 | [Dracos & ARPs \(feat\. G Herbo\)](https://open.spotify.com/track/74y5DbMsvYomEDFuMDP73l) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 3:04 |
+| 44 | [Pressure](https://open.spotify.com/track/4Ie1m1bVHwTsw1EQ1Sc4Ic) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 2:54 |
 | 45 | [Neva Going Back](https://open.spotify.com/track/1Nv7HemMdxWuEs8f47gzMG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb: Lil Heroin Edition](https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW) | 2:06 |
 | 46 | [Cry No More](https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 3:41 |
-| 47 | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 |
-| 48 | [Layderr](https://open.spotify.com/track/6ozLyXlZLt4trWme02M1ro) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Layderr](https://open.spotify.com/album/6cVMRyxRpR9urenwXrCk5m) | 3:17 |
+| 47 | [Layderr](https://open.spotify.com/track/6ozLyXlZLt4trWme02M1ro) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Layderr](https://open.spotify.com/album/6cVMRyxRpR9urenwXrCk5m) | 3:17 |
+| 48 | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 |
 | 49 | [GWSM](https://open.spotify.com/track/4paoz218yUcjPcwhJt6mKA) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [SCOOMSDAY](https://open.spotify.com/album/5tq50dEe3rTnyMlMp0Ob6C) | 2:28 |
 | 50 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
 
-Snapshot ID: `aj3BAAAAAACZS8lPdObnAOwQ9el9Rax3`
+Snapshot ID: `aj8SgAAAAADghAVGQx8r8xerGZiQLEPA`

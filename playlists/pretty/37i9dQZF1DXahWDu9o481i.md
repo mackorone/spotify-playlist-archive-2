@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Alvaro Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,784 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,775 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 30 | [Wrong Place, Wrong time](https://open.spotify.com/track/0Iwtp6RIjd92YaWA7snJoX) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Y'all Won](https://open.spotify.com/album/4OK4oXIqQRka0O3zpR5tgi) | 2:57 |
 | 31 | [Desconectado](https://open.spotify.com/track/42WCujGerdQ4TuVfFjZFou) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Desconectado](https://open.spotify.com/album/4rDEoVpf2mTtkPOwbmAATn) | 3:27 |
 | 32 | [usher in the spirit](https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [usher in the spirit](https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy) | 3:00 |
-| 33 | [Ne Plus Ultra](https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Ne Plus Ultra](https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80) | 2:49 |
-| 34 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
+| 33 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
+| 34 | [Ne Plus Ultra](https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Ne Plus Ultra](https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80) | 2:49 |
 | 35 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
 | 36 | [Run away with me](https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Run away with me](https://open.spotify.com/album/2ZOVj0KkuAxyKh9Dxonjof) | 3:58 |
 | 37 | [Destiny](https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Paradise](https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU) | 2:41 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 44 | [War Over Land](https://open.spotify.com/track/6gn1jvInLQ352xxZEjPGz4) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [War Over Land](https://open.spotify.com/album/00hlYRC7F3voGuZqhf5fG2) | 2:54 |
 | 45 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
 | 46 | [tarmac](https://open.spotify.com/track/5j7FkMakactsB2IGYqaVd2) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [c r e a t u r e s](https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko) | 3:47 |
-| 47 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 48 | [Real Here Now](https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Real Here Now / Water](https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp) | 5:00 |
+| 47 | [Real Here Now](https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Real Here Now / Water](https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp) | 5:00 |
+| 48 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 49 | [Cowtown](https://open.spotify.com/track/7DUY3Wlp4poHYuzxRGVvXo) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 3:26 |
 | 50 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 51 | [New Ebonics](https://open.spotify.com/track/0e9Efw1iRH3q9SNaKcdDFG) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [New Ebonics](https://open.spotify.com/album/2ZRDs5161FP2nvMMwsG62P) | 2:51 |

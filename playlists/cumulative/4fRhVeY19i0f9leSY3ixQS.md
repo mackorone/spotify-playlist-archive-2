@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,752 songs - 4 day 1 hr 48 min
+1,754 songs - 4 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [Don't Really Like You](https://open.spotify.com/track/28JtRpjx2il7WBHCzKVeA9) | [The Lyrics](https://open.spotify.com/artist/1FfgK1y6boiZv49RIflpaO) | [So...](https://open.spotify.com/album/70FKLqL5RMr6mkGFdkhasl) | 2:52 | 2026-02-04 | 2026-03-08 |
 | [Don't Think I Wanna Know](https://open.spotify.com/track/3gqcihsXGZwsNJfspZPxt7) | [Zac Leibo](https://open.spotify.com/artist/13FeBe3wyORbd1OmXDf7UQ) | [See You Tomorrow?](https://open.spotify.com/album/7kzrpQqaSblTKG6ULvumzq) | 3:10 | 2026-02-26 | 2026-03-30 |
 | [Don't Wake Daddy](https://open.spotify.com/track/0yqczTWUEmA2nkJv6eOdmt) | [Triple Lutz](https://open.spotify.com/artist/3igQ5dDexARVT8b4m8VHeM) | [Don't Wake Daddy](https://open.spotify.com/album/5urOP7xDxPj6VN2MUGdaNM) | 2:09 | 2026-05-18 | 2026-06-06 |
-| [Don't Wanna Be Me](https://open.spotify.com/track/09V6l1MHQIqEgMWSOOT4j4) | [What Did You Expect?](https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd) | [Don't Wanna Be Me](https://open.spotify.com/album/7Ly8Y2sybzHAf4Cqt7yUeP) | 2:21 | 2026-05-29 |  |
+| [Don't Wanna Be Me](https://open.spotify.com/track/09V6l1MHQIqEgMWSOOT4j4) | [What Did You Expect?](https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd) | [Don't Wanna Be Me](https://open.spotify.com/album/7Ly8Y2sybzHAf4Cqt7yUeP) | 2:21 | 2026-05-29 | 2026-06-29 |
 | [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 | 2026-03-05 | 2026-03-31 |
 | [Double Vision](https://open.spotify.com/track/6iouDofENf4lkfN8hbHaCs) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [James Price](https://open.spotify.com/artist/17ITCxYzF82ZxhNAmKYIjW), [Lia Magu](https://open.spotify.com/artist/6jyY9gOCAGSvYgaHYQkLtM), [Judular](https://open.spotify.com/artist/047wzkCMnsMG0Z7cYQyPXF) | [Homegrown](https://open.spotify.com/album/3peM8AAagRvh6LhfbHrhtJ) | 3:33 | 2025-10-23 | 2025-12-10 |
 | [Down in A Hole](https://open.spotify.com/track/4c1vW7vyXE0BDRqRi0hOEe) | [dirth.](https://open.spotify.com/artist/4AXYaezweit6i4xoEtBoAu) | [Down in A Hole](https://open.spotify.com/album/1YGIlMHK8sPw1TgJFONB0z) | 4:19 | 2025-12-04 | 2026-02-03 |
@@ -491,6 +491,7 @@
 | [Excess of Failure](https://open.spotify.com/track/20XfRZbOI1HnuJFNmv9Efn) | [KILL THE FALL](https://open.spotify.com/artist/2yZC4lJBwx38Wot9vZelSp) | [Excess of Failure](https://open.spotify.com/album/61a849VT09y6Ebs0xLaXNj) | 1:59 | 2026-01-06 | 2026-02-07 |
 | [Exciō](https://open.spotify.com/track/2ddPIXFkaAlgHc00Q0Da1d) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Exciō](https://open.spotify.com/album/1CjeSNtmby1vmXZxwcRp6g) | 3:53 | 2025-12-01 | 2025-12-24 |
 | [Existential Crisis](https://open.spotify.com/track/6wSiqUJedYplEe3mJWb20x) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Existential Crisis](https://open.spotify.com/album/4zLpFAPMNRgzNItHIUyaKJ) | 3:51 | 2025-12-10 | 2026-01-06 |
+| [Expectations](https://open.spotify.com/track/1tB5ECyFdLXRmak9DuCGID) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:22 | 2026-06-28 |  |
 | [Extinction of Humanity](https://open.spotify.com/track/0v1Fcq4dsvWlIkd93rjYeN) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK) | [Simulation Defect](https://open.spotify.com/album/79WLLJ1rWMQo6d1FstDnnF) | 2:41 | 2025-12-04 | 2025-12-24 |
 | [f that](https://open.spotify.com/track/6u4eRYP996ZbuYMTPT442E) | [YMNKY!](https://open.spotify.com/artist/06EcVA3ORp4U1w2k29yVzG) | [f that](https://open.spotify.com/album/2Q5tZdTx1nlUmuQDznhlny) | 3:29 | 2026-01-21 | 2026-02-22 |
 | [Face Pull](https://open.spotify.com/track/6ZI2pOkgpUPatCMwQZWj0o) | [No Object](https://open.spotify.com/artist/5XuAvWJlsVw4ZVO0lWRIAw) | [SUSTAIN](https://open.spotify.com/album/1ILFukl8E0NsgZjwjF750F) | 3:46 | 2025-11-13 | 2025-12-10 |
@@ -525,7 +526,7 @@
 | [First Day Of School](https://open.spotify.com/track/6BNC6rSgDvGlyzsIPJmTER) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [First Day Of School](https://open.spotify.com/album/7dwebyySi3YeXuzVaEOSmq) | 3:33 | 2026-01-01 | 2026-02-02 |
 | [Flaccid Venus \- Demo](https://open.spotify.com/track/67oqRTeaFSGIwCNripucnp) | [RINGARDS](https://open.spotify.com/artist/2ZdOF65gPaO3xW7DsUXlZ7) | [Flaccid Venus \(Demo\)](https://open.spotify.com/album/5BwyS6H8sa7UxeuAT4BhtX) | 2:17 | 2026-01-23 | 2026-01-25 |
 | [Flam Rest](https://open.spotify.com/track/04JOLBR8LDgukIWfY2g2q7) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:19 | 2025-08-03 | 2026-05-30 |
-| [Flashburn](https://open.spotify.com/track/34KwQboaq5JWZvHCuK1vSJ) | [ONE CHiN](https://open.spotify.com/artist/5BLizIyjvtjNrRTOIolFYq), [Jacob Lauing](https://open.spotify.com/artist/7C0YvaGHaso7AKjdfM2YSV) | [Flashburn](https://open.spotify.com/album/7Cy57RvR3UDBEJxbrHswRr) | 2:53 | 2026-05-29 |  |
+| [Flashburn](https://open.spotify.com/track/34KwQboaq5JWZvHCuK1vSJ) | [ONE CHiN](https://open.spotify.com/artist/5BLizIyjvtjNrRTOIolFYq), [Jacob Lauing](https://open.spotify.com/artist/7C0YvaGHaso7AKjdfM2YSV) | [Flashburn](https://open.spotify.com/album/7Cy57RvR3UDBEJxbrHswRr) | 2:53 | 2026-05-29 | 2026-06-29 |
 | [Flesh Wound](https://open.spotify.com/track/1RjCjZcKyWfjFB8jqoFZON) | [Cranc.](https://open.spotify.com/artist/47N8enshucZvNiSqBmHA4d) | [Flesh Wound](https://open.spotify.com/album/7cnvcAn3r77500nHVmvwrs) | 3:34 | 2026-01-02 | 2026-02-03 |
 | [FLETCH](https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [SAUSAGE REVOLUTION](https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2) | 2:13 | 2025-11-24 | 2026-06-06 |
 | [FLEW](https://open.spotify.com/track/7Fr2zjauJLR57oyl30euzl) | [The Leftovers](https://open.spotify.com/artist/1sbYIvaUGUAjbsU6WV0Ei3) | [FLEW](https://open.spotify.com/album/3hyZXk4KCwU2BjrEEt2o50) | 2:28 | 2026-03-01 | 2026-03-21 |
@@ -585,6 +586,7 @@
 | [Ghosts aren't scary](https://open.spotify.com/track/1TGxl2VuaKpJeGBmaxuo80) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 0:45 | 2025-08-03 |  |
 | [Gift](https://open.spotify.com/track/2CY4tpOXZ79CUmwij1e4JA) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Gift](https://open.spotify.com/album/3gIrCB0W2GIMYREEIGz4fa) | 3:32 | 2026-05-07 | 2026-05-30 |
 | [GiftsFromNewGods](https://open.spotify.com/track/2dA8USYU0VETtCIyOaTE7N) | [Sundrast](https://open.spotify.com/artist/7xXdDxmTim2I1wkMn8QAuZ) | [GiftsFromNewGods](https://open.spotify.com/album/1AKD5GnO3BJykF051dZvG9) | 3:58 | 2026-06-18 |  |
+| [GIMENA \| cosmic love](https://open.spotify.com/track/2p8zTRLjcIlgLnGmDR6Uib) | [REIVEN](https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW) | [TO ALL THE BOYS & GIRLS I EVER LOVED, Pt\. 2](https://open.spotify.com/album/7ue5AFBamgkBOgE6x0FsuV) | 2:27 | 2026-06-28 |  |
 | [girl is crazy in the head \[prod.LEZV!E\]](https://open.spotify.com/track/1sbv2AyJ9smUhBCa75FCUF) | [hxtedbyforce!](https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb) | [girl is crazy in the head \[prod.LEZV!E\]](https://open.spotify.com/album/3HFPHBgfk23ZcE7wF3Drhl) | 1:36 | 2026-06-18 |  |
 | [Girl's Trip](https://open.spotify.com/track/0rIGhyl8iv0AVpjELBTTIT) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:03 | 2026-02-03 | 2026-02-27 |
 | [Give It Away](https://open.spotify.com/track/5ZMzujUIukmL0TrMbXBQwd) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Give It Away](https://open.spotify.com/album/1d0R35IVp6QVMtkhtXMbZE) | 3:23 | 2026-06-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: kwn",
-  "num_followers": 297648,
+  "num_followers": 297660,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-06-26 04:00:13",
       "album": {
-        "name": "Need it Bad (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
-      },
-      "artists": [
-        {
-          "name": "Ama",
-          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "Need it Bad (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
-    },
-    {
-      "added_at": "2026-06-26 04:00:13",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
+    },
+    {
+      "added_at": "2026-06-26 04:00:13",
+      "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
       "added_at": "2026-06-26 04:00:13",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-06-26 04:00:13",
       "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "added_at": "2026-06-26 04:00:13",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2026-06-26 04:00:13",
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
     },
     {
       "added_at": "2026-06-26 04:00:13",

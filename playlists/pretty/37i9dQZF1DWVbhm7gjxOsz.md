@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,982 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,027 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 58 | [Eighteen With A Bullet](https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz) | [Pete Wingfield](https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb) | [Breakfast Special](https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb) | 3:31 |
 | 59 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 |
 | 60 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 |
-| 61 | [Don't Tell Me](https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Don't Tell Me](https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl) | 3:53 |
-| 62 | [Show and Tell](https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Show and Tell: The Best of Al Wilson](https://open.spotify.com/album/63NKHtOychyEccShIws1KA) | 3:27 |
-| 63 | [Do You Love](https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP), [Edward "E\-Dub" Rios](https://open.spotify.com/artist/5aDKYokRScN1okHxSZDIVS) | [Do You Love](https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7) | 4:30 |
-| 64 | [Dry Your Eyes](https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:44 |
+| 61 | [Show and Tell](https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Show and Tell: The Best of Al Wilson](https://open.spotify.com/album/63NKHtOychyEccShIws1KA) | 3:27 |
+| 62 | [Don't Tell Me](https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Don't Tell Me](https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl) | 3:53 |
+| 63 | [Dry Your Eyes](https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:44 |
+| 64 | [Do You Love](https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP), [Edward "E\-Dub" Rios](https://open.spotify.com/artist/5aDKYokRScN1okHxSZDIVS) | [Do You Love](https://open.spotify.com/album/7gs58h7gcR2HL5tlFC3YT7) | 4:30 |
 | 65 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:00 |
 | 66 | [Sabor A Mi](https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd) | [El Chicano](https://open.spotify.com/artist/3vkhZMoCdp5lBgrk9l2nCL) | [Revolución](https://open.spotify.com/album/3F8b7LBhlewYqU1MQrKTus) | 3:17 |
 | 67 | [Two Lovers](https://open.spotify.com/track/00CmjeeHvAVKvx3tcIiZTy) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Two Lovers](https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL) | 2:46 |

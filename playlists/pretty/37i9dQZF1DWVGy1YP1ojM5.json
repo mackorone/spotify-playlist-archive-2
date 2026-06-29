@@ -1,15 +1,15 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2321906,
+  "num_followers": 2321718,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNJXxKuOxrtaQHU4HDHPzI+pxtL",
+  "snapshot_id": "AAAAAIN59I7MzrZJRWjKTqU/slwucsGi",
   "tracks": [
     {
-      "added_at": "2026-06-26 04:02:09",
+      "added_at": "2026-06-28 23:58:39",
       "album": {
         "name": "and all pride aside",
         "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
@@ -18,15 +18,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 150447,
-      "name": "'til the room stinks (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
     },
     {
       "added_at": "2026-02-01 04:28:56",
@@ -953,22 +949,6 @@
       "url": "https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Bryson Tiller",
-        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 216043,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
-    },
-    {
       "added_at": "2023-02-12 15:52:33",
       "album": {
         "name": "Release Some Tension",
@@ -983,6 +963,22 @@
       "duration_ms": 264506,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 216043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1567,22 +1563,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "Gahdamn!",
         "url": "https://open.spotify.com/album/0L6cXKn2whkvu2xJisMrI2"
       },
@@ -1599,6 +1579,22 @@
       "duration_ms": 171373,
       "name": "Caretaker (feat. SZA)",
       "url": "https://open.spotify.com/track/4XQQovRSltOGWevTCgacXY"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
       "added_at": "2024-05-17 07:33:52",

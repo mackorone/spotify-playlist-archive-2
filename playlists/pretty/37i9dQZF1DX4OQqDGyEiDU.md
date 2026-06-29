@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: MIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,679 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,690 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 9 | [メズマライザー \(feat\. 初音ミク&重音テト\)](https://open.spotify.com/track/5ic62hKqeDhZsa9l6YQxzJ) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [メズマライザー](https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL) | 2:36 |
 | 10 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
 | 11 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
-| 12 | [ヤラララ](https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf) | [AnythingBecomeMoe](https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK) | [ヤラララ](https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz) | 2:27 |
+| 12 | [ヤラララ](https://open.spotify.com/track/7fFkLGltPEHInEHoPfT0Jf) | [AnythingBecomeMoe](https://open.spotify.com/artist/4FCvsRjFCZQYBCq7NKUIjK) | [ヤラララ](https://open.spotify.com/album/4e75aI5UsN2ZrSVHGCBmdz) | 2:31 |
 | 13 | [PPPP \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [PPPP](https://open.spotify.com/album/2YpnTJLH8a1xxEL3HXAWQQ) | 2:34 |
 | 14 | [ダイダイダイダイダイキライ](https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8) | [雨良 Amala](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [ダイダイダイダイダイキライ](https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt) | 2:36 |
 | 15 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 |

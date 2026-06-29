@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,988 likes - 39 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,011 likes - 39 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 28 | [ABUNDANCIA](https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [ABUNDANCIA](https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC) | 2:47 |
 | 29 | [Jalados](https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:21 |
 | 30 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
-| 31 | [Old Money](https://open.spotify.com/track/0qdtB6uRpQHCdrSrpbrId5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:56 |
-| 32 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 |
+| 31 | [Bandido Estrella](https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bandido Estrella](https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8) | 3:08 |
+| 32 | [Old Money](https://open.spotify.com/track/0qdtB6uRpQHCdrSrpbrId5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:56 |
 | 33 | [Chicoteado](https://open.spotify.com/track/4yLpSp8304JdjUWXK6TWrA) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:34 |
-| 34 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
-| 35 | [Bandido Estrella](https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bandido Estrella](https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8) | 3:08 |
+| 34 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 |
+| 35 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
 | 36 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
 | 37 | [Heisenberg](https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:58 |
 | 38 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
 | 39 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 |
 
-Snapshot ID: `aj3BAAAAAADsqko/sQx9JzFIqytIFUw9`
+Snapshot ID: `aj8SgAAAAAB4diNK/XT0SiGA6TPA3xIu`

@@ -1,6 +1,6 @@
 {
   "description": "S\u0142o\u0144ce, le\u017cak i letnia b\u0142ogo\u015b\u0107 w d\u017awi\u0119kach \u2600\ufe0f",
-  "num_followers": 341980,
+  "num_followers": 341990,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,38 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
+    },
+    {
+      "added_at": "2026-06-26 08:25:35",
+      "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": "2026-06-26 08:25:35",
+      "album": {
         "name": "are you mad at me?",
         "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL"
       },
@@ -575,34 +607,18 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+        "name": "The Time Of My Life",
+        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
-    },
-    {
-      "added_at": "2026-06-26 08:25:35",
-      "album": {
-        "name": "My Body Isn't Ready",
-        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 217380,
-      "name": "My Body Isn't Ready",
-      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+      "duration_ms": 215709,
+      "name": "The Time Of My Life",
+      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
     },
     {
       "added_at": "2026-06-26 08:25:35",
@@ -623,22 +639,6 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
-        "name": "na b\u0142ysk",
-        "url": "https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "na b\u0142ysk",
-      "url": "https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS"
-    },
-    {
-      "added_at": "2026-06-26 08:25:35",
-      "album": {
         "name": "When I Get Drunk (I Want You Boy)",
         "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
-        "name": "The Time Of My Life",
-        "url": "https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw"
+        "name": "na b\u0142ysk",
+        "url": "https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 215709,
-      "name": "The Time Of My Life",
-      "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
+      "duration_ms": 229444,
+      "name": "na b\u0142ysk",
+      "url": "https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS"
     },
     {
       "added_at": "2026-06-26 08:25:35",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
-        "name": "ETER",
-        "url": "https://open.spotify.com/album/1SzOjjlqWBxvyE1XcfFk3W"
-      },
-      "artists": [
-        {
-          "name": "Bletka",
-          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
-        }
-      ],
-      "duration_ms": 141418,
-      "name": "Dwa dni",
-      "url": "https://open.spotify.com/track/51NPACvDHPcKsyagJ8y3xE"
-    },
-    {
-      "added_at": "2026-06-26 08:25:35",
-      "album": {
         "name": "Stygnie lato",
         "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 181846,
       "name": "Stygnie lato",
       "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
+    },
+    {
+      "added_at": "2026-06-26 08:25:35",
+      "album": {
+        "name": "ETER",
+        "url": "https://open.spotify.com/album/1SzOjjlqWBxvyE1XcfFk3W"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "duration_ms": 141418,
+      "name": "Dwa dni",
+      "url": "https://open.spotify.com/track/51NPACvDHPcKsyagJ8y3xE"
     },
     {
       "added_at": "2026-06-26 08:25:35",
@@ -835,22 +835,18 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
-        "name": "How dare you tryna love me?",
-        "url": "https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW"
+        "name": "Odkochaj",
+        "url": "https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO"
       },
       "artists": [
         {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        },
-        {
-          "name": "Haley Bridge",
-          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
         }
       ],
-      "duration_ms": 166659,
-      "name": "Gecko",
-      "url": "https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc"
+      "duration_ms": 163200,
+      "name": "Odkochaj",
+      "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
     },
     {
       "added_at": "2026-06-26 08:25:35",
@@ -875,18 +871,22 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
-        "name": "Odkochaj",
-        "url": "https://open.spotify.com/album/536Y6k6glJY1fMr8jlyZPO"
+        "name": "How dare you tryna love me?",
+        "url": "https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW"
       },
       "artists": [
         {
-          "name": "Marissa",
-          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        },
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Odkochaj",
-      "url": "https://open.spotify.com/track/0ALsDccwFMj8QznHPah8fn"
+      "duration_ms": 166659,
+      "name": "Gecko",
+      "url": "https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc"
     },
     {
       "added_at": "2026-06-26 08:25:35",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-06-26 08:25:35",
       "album": {
+        "name": "Stumilowy las",
+        "url": "https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 282341,
+      "name": "Stumilowy las",
+      "url": "https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE"
+    },
+    {
+      "added_at": "2026-06-26 08:25:35",
+      "album": {
         "name": "Ostatni dzie\u0144 lata",
         "url": "https://open.spotify.com/album/5B7x5GMA9BTCRJL7w3pROu"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 186813,
       "name": "Ostatni dzie\u0144 lata",
       "url": "https://open.spotify.com/track/6FJb2Knd2tn504K1durCVt"
-    },
-    {
-      "added_at": "2026-06-26 08:25:35",
-      "album": {
-        "name": "Stumilowy las",
-        "url": "https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 282341,
-      "name": "Stumilowy las",
-      "url": "https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE"
     },
     {
       "added_at": "2026-06-26 08:25:35",

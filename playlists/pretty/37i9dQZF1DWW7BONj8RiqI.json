@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 248163,
+  "num_followers": 248211,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "iShal",
-        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
-      },
-      "artists": [
-        {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
-        }
-      ],
-      "duration_ms": 216405,
-      "name": "Splinters",
-      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Wotless Carnival Album",
         "url": "https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 218228,
       "name": "Wotless",
       "url": "https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "duration_ms": 216405,
+      "name": "Splinters",
+      "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 257921,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Spirit Of Carnival Project",
         "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 184273,
       "name": "Mental Day",
       "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 257921,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Carry It",
-        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        },
-        {
-          "name": "Stemz",
-          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Carry It",
-      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Workout (feat. Nailah Blackman)",
         "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 238153,
       "name": "Workout",
       "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Carry It",
+        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Stemz",
+          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Carry It",
+      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
-      },
-      "artists": [
-        {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
-        }
-      ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "The Queen of Bacchanal",
         "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 234242,
       "name": "Just a Little Bit",
       "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+      },
+      "artists": [
+        {
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+        }
+      ],
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Soca Future Riddim",
-        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203358,
-      "name": "Leh Go",
-      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 258666,
       "name": "Hot-Hot-Hot",
       "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Soca Future Riddim",
+        "url": "https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203358,
+      "name": "Leh Go",
+      "url": "https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Tight Squeeze Riddim",
-        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "Gyal Owner",
-      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Blockbuster Riddim",
         "url": "https://open.spotify.com/album/4SJV6OFqadRJCroiyZJ2Rr"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Carnival Contract",
-        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
+        "name": "Tight Squeeze Riddim",
+        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
       },
       "artists": [
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Carnival Contract",
-      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
+      "duration_ms": 203756,
+      "name": "Gyal Owner",
+      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1171,6 +1155,22 @@
       "duration_ms": 295106,
       "name": "Trini 2 De Bone",
       "url": "https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Carnival Contract",
+        "url": "https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Carnival Contract",
+      "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
-    },
-    {
-      "added_at": "2026-05-30 05:52:43",
-      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "How ah Livin",
-        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
       },
       "artists": [
         {
-          "name": "Farmer Nappy",
-          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
         }
       ],
-      "duration_ms": 229458,
-      "name": "How ah Livin",
-      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+      "duration_ms": 276131,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1511,6 +1495,22 @@
       "duration_ms": 233116,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "How ah Livin",
+        "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
+      },
+      "artists": [
+        {
+          "name": "Farmer Nappy",
+          "url": "https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN"
+        }
+      ],
+      "duration_ms": 229458,
+      "name": "How ah Livin",
+      "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "The Carnival Jumbies Experiment",
-        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
       },
       "artists": [
         {
-          "name": "Problem Child",
-          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
         }
       ],
-      "duration_ms": 158917,
-      "name": "Carnival Jumbie",
-      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
+      "duration_ms": 167019,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
     },
     {
       "added_at": "2026-05-30 05:52:43",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-05-30 05:52:43",
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
+        "name": "The Carnival Jumbies Experiment",
+        "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
       "artists": [
         {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+          "name": "Problem Child",
+          "url": "https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU"
         }
       ],
-      "duration_ms": 167019,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+      "duration_ms": 158917,
+      "name": "Carnival Jumbie",
+      "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
     },
     {
       "added_at": "2026-05-30 05:52:43",

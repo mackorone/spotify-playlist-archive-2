@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "BD Music Presents My Funny Valentine",
+        "url": "https://open.spotify.com/album/7wsgIusq3rIFSrZTR7o8Sl"
+      },
+      "artists": [
+        {
+          "name": "Franck Amsallem",
+          "url": "https://open.spotify.com/artist/06jhaOqZJv7tx8WFZMfhcc"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352293,
+      "name": "Absinthe",
+      "url": "https://open.spotify.com/track/66xHZLeCII4wg7nrtijYvs"
+    },
+    {
+      "album": {
         "name": "Mood Indigo",
         "url": "https://open.spotify.com/album/5sAlnk7GmDC5KRE1sKudIX"
       },

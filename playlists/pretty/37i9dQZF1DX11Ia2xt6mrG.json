@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 72815,
+  "num_followers": 72832,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
-    },
-    {
-      "added_at": "2026-06-26 06:00:33",
-      "album": {
         "name": "LA PERLA (V. ELECTRO-CORRIDO)",
         "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 182584,
       "name": "LA PERLA (V. ELECTRO-CORRIDO)",
       "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+    },
+    {
+      "added_at": "2026-06-26 06:00:33",
+      "album": {
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
     },
     {
       "added_at": "2026-06-26 06:00:33",
@@ -623,30 +623,6 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Los Miranda",
-          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2026-06-26 06:00:33",
-      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "added_at": "2026-06-26 06:00:33",
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Los Miranda",
+          "url": "https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
     },
     {
       "added_at": "2026-06-26 06:00:33",
@@ -759,8 +759,8 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "Anytime",
-        "url": "https://open.spotify.com/album/6fdZRonvktqAVoiKX9go5A"
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
       },
       "artists": [
         {
@@ -768,13 +768,13 @@
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "Escoto",
-          "url": "https://open.spotify.com/artist/6iOkWCB8Iz30zjtSpr7cvP"
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
         }
       ],
-      "duration_ms": 297230,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
+      "duration_ms": 256086,
+      "name": "Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
     },
     {
       "added_at": "2026-06-26 06:00:33",
@@ -855,8 +855,8 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
+        "name": "Anytime",
+        "url": "https://open.spotify.com/album/6fdZRonvktqAVoiKX9go5A"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         },
         {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+          "name": "Escoto",
+          "url": "https://open.spotify.com/artist/6iOkWCB8Iz30zjtSpr7cvP"
         }
       ],
-      "duration_ms": 256086,
-      "name": "Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
+      "duration_ms": 297230,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/2QN3Ua30KIlbi5hP7DHnrX"
     },
     {
       "added_at": "2026-06-26 06:00:33",
@@ -995,18 +995,22 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "Alucina2",
-        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
       },
       "artists": [
         {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
         }
       ],
-      "duration_ms": 133793,
-      "name": "Alucina2",
-      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
     },
     {
       "added_at": "2026-06-26 06:00:33",
@@ -1027,22 +1031,18 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "HOUSE & REGGAETON",
-        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+        "name": "Alucina2",
+        "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
         }
       ],
-      "duration_ms": 190153,
-      "name": "HOUSE & REGGAETON",
-      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+      "duration_ms": 133793,
+      "name": "Alucina2",
+      "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
     },
     {
       "added_at": "2026-06-26 06:00:33",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2026-06-26 06:00:33",
       "album": {
-        "name": "Santa Mar\u00eda",
-        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 260585,
-      "name": "Santa Mar\u00eda",
-      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2026-06-26 06:00:33",
-      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 175161,
       "name": "Corazon de Melon",
       "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
+    },
+    {
+      "added_at": "2026-06-26 06:00:33",
+      "album": {
+        "name": "Santa Mar\u00eda",
+        "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 260585,
+      "name": "Santa Mar\u00eda",
+      "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
     },
     {
       "added_at": "2026-06-26 06:00:33",

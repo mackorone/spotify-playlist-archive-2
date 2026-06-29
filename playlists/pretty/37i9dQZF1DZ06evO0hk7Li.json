@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40311,
+  "num_followers": 40309,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADgPJ18SXUDRSUh8jT2lElI",
+  "snapshot_id": "aj8SgAAAAAC7aLCrvDMGHTBx3/5uZKqD",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 58080,
       "name": "D-LOW",
       "url": "https://open.spotify.com/track/794QsDYCpR1r7hl1UA6hD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Black N White",
-      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 158124,
+      "name": "Black N White",
+      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
     },
     {
       "added_at": null,

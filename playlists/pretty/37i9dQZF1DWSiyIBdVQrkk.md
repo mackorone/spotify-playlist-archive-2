@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,140,497 likes - 110 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,140,341 likes - 110 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 41 | [Butterflies](https://open.spotify.com/track/6rJ4Wf8HZZNIukRXINmuv6) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Butterflies](https://open.spotify.com/album/0nMqTIKccDako5MXgaGD8i) | 2:34 |
 | 42 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
 | 43 | [Missing You](https://open.spotify.com/track/5BkEtAa7LHwm5qs2vLegX3) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Missing You](https://open.spotify.com/album/3688VgiRVASa05x5FHEmc9) | 3:22 |
-| 44 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
-| 45 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
+| 44 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
+| 45 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 | 46 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
 | 47 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
 | 48 | [It's A Pity](https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Tanya...Collection Of Hits](https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja) | 4:13 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 97 | [Time To Save Yourself \- Hungry Days Riddim](https://open.spotify.com/track/3NKwf6WF8FG15jxD3DapS4) | [Jah Mason](https://open.spotify.com/artist/3oX8XeAmdg9wximJieP8dG), [Vikings Band](https://open.spotify.com/artist/3v7tVHJt25VQMlC8C1WeQQ) | [Time To Save Yourself \(Hungry Days Riddim\)](https://open.spotify.com/album/2vbMsHufR9ga4T4sXDHrJk) | 3:45 |
 | 98 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
 | 99 | [Three Little Birds](https://open.spotify.com/track/1P49MJhU5vzttesFxw3dOM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/5EoLQ6g8jZiZkMXvi66u9Y) | 3:00 |
-| 100 | [Run It](https://open.spotify.com/track/5ydrOUzC2rHmDOsOOcGnuj) | [Treesha](https://open.spotify.com/artist/3czlm0jWjM22Dj3rHYRO3o) | [Run It](https://open.spotify.com/album/16qt0b7hCAcr530pJKzCmb) | 3:20 |
-| 101 | [Angel](https://open.spotify.com/track/6dViIgkYIRccNImPln58rS) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj) | [Hot Shot \(International Version \#2\)](https://open.spotify.com/album/6NmFmPX56pcLBOFMhIiKvF) | 3:55 |
+| 100 | [Angel](https://open.spotify.com/track/6dViIgkYIRccNImPln58rS) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/1oqC0QCUYf3c2pPB8h5EAj) | [Hot Shot \(International Version \#2\)](https://open.spotify.com/album/6NmFmPX56pcLBOFMhIiKvF) | 3:55 |
+| 101 | [Run It](https://open.spotify.com/track/5ydrOUzC2rHmDOsOOcGnuj) | [Treesha](https://open.spotify.com/artist/3czlm0jWjM22Dj3rHYRO3o) | [Run It](https://open.spotify.com/album/16qt0b7hCAcr530pJKzCmb) | 3:20 |
 | 102 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
 | 103 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 104 | [Waiting In Vain](https://open.spotify.com/track/7FILn9Akg2468HPNsRZCkq) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 4:16 |

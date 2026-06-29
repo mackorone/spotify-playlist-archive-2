@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-443 songs - 1 day 4 hr 40 min
+444 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [COLOGNE](https://open.spotify.com/track/0nh7PHjK9n0w9hu4Ka1HkL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [COLOGNE](https://open.spotify.com/album/79omah7LR2uicio2GTfxZ1) | 3:20 | 2024-06-14 |  |
 | [Colors \- The Knocks Remix](https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Colors \(The Knocks Remix\)](https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU) | 4:12 | 2023-05-19 | 2025-09-27 |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/1Cpr1FGRdiayMbTcZ2WDN3), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2023-05-19 |  |
-| [Confetti \- Kraak & Smaak Remix](https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y) | [Marine Neuilly](https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Confetti \(Kraak & Smaak Remix\)](https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9) | 3:38 | 2026-01-30 |  |
+| [Confetti \- Kraak & Smaak Remix](https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y) | [Marine Neuilly](https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw), [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Confetti \(Kraak & Smaak Remix\)](https://open.spotify.com/album/3oFSALQPWl6XXcBTeZLZZ9) | 3:38 | 2026-01-30 | 2026-06-29 |
 | [Cruel Summer \- Part I](https://open.spotify.com/track/6oHszVM0cChVuEKChXGP55) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer](https://open.spotify.com/album/0v2R3NgURPoZCpdb0UmJp5) | 3:05 | 2022-06-20 | 2023-05-20 |
 | [Cruel Summer \- Part I \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/track/4YTO9Z4RSkQRfCoX6kYNrz) | [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo), [Zampera & Muttofunk](https://open.spotify.com/artist/1DeIegb677snMXzU6LMLMQ) | [Cruel Summer \(feat\. Zampera & Muttofunk\)](https://open.spotify.com/album/0nrCAUDPvtB9w4p7BAZX3a) | 3:05 | 2021-07-24 | 2023-02-25 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-05-19 | 2024-05-25 |
@@ -365,6 +365,7 @@
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-08 | 2024-04-19 |
 | [Soulsearcher](https://open.spotify.com/track/0ygPVwsl15vlyfAJNE28mj) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Better Will Come](https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv) | 4:08 | 2024-05-10 | 2024-06-29 |
 | [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 | 2024-04-19 | 2024-07-01 |
+| [Space Girl](https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Space Girl](https://open.spotify.com/album/1XsU1vapTBjNZrgHn6lELd) | 3:48 | 2026-06-26 |  |
 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 | 2022-06-20 | 2023-05-20 |
 | [Spice Run](https://open.spotify.com/track/1TkJTS4V23IjVDUxaMWhyf) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/39FVH5JgmFDDGxkF99QsIL) | 5:49 | 2021-07-24 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Stand Up](https://open.spotify.com/album/0RYjPzxyHrBPebqHtUbtIY) | 2:26 | 2024-03-22 | 2024-04-19 |

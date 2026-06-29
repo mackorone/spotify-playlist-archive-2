@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Kita Alexander
 
-2,854 songs - 6 day 3 hr 31 min
+2,857 songs - 6 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1487,6 +1487,7 @@
 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 | 2024-05-16 | 2024-06-07 |
 | [Long and Short](https://open.spotify.com/track/59bpa17DlPqUYIOJQCCdV1) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Long and Short](https://open.spotify.com/album/3cFujBGWjCCPirIKbKQ81i) | 3:33 | 2025-09-11 | 2025-10-24 |
 | [long haul](https://open.spotify.com/track/1bRQgLhzAaW5uqpKem3nxk) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [long haul](https://open.spotify.com/album/42WkbA7vPKZ1tUjPZT7JHS) | 3:24 | 2026-01-15 | 2026-02-27 |
+| [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 | 2026-06-28 |  |
 | [Look At You](https://open.spotify.com/track/3WQJSRxr74NVU2nAGKbux9) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Look At You](https://open.spotify.com/album/3SWFOeoHqdcJTbQ6xuVWuv) | 2:34 | 2026-04-30 | 2026-06-26 |
 | [Look Twice](https://open.spotify.com/track/27BoofRU9R5S4r1OQpBV7U) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [Look Twice](https://open.spotify.com/album/6fiIZ413jf8EGbG4428XRG) | 3:07 | 2025-11-27 | 2026-02-06 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-13 | 2024-08-17 |
@@ -2473,6 +2474,7 @@
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 | 2025-09-05 |
 | [The Sun](https://open.spotify.com/track/1Iaq7YIunBX01YljzHjdsM) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [The Sun](https://open.spotify.com/album/6QWU7nOEXVYDKPhg1nmYtI) | 3:30 | 2025-04-03 | 2025-05-16 |
 | [the thought of you](https://open.spotify.com/track/7soIWeuH8iDZcqPVZv0zdq) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [the thought of you](https://open.spotify.com/album/7bKdJCihY713LPi5oqWL3X) | 3:39 | 2025-02-27 | 2025-04-11 |
+| [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 | 2026-06-28 |  |
 | [the villain](https://open.spotify.com/track/0NrCGhwPCMu1QvYruiht1s) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [unfinished business](https://open.spotify.com/album/4LONzVNoi4l1w6sVTXkKt4) | 3:20 | 2025-06-12 | 2025-08-01 |
 | [the villain \(feat\. Wells\*\)](https://open.spotify.com/track/4NhRjtSyuTO0yTiVhkaB6z) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41) | [the villain \(feat\. Wells\*\)](https://open.spotify.com/album/02qB47UiyXn6KBvH0L0a2U) | 3:16 | 2025-10-30 | 2025-12-12 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-12 | 2026-04-24 |
@@ -2680,6 +2682,7 @@
 | [WARCRY](https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN \(HIGH AS HELL\) \[Deluxe\]](https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR) | 3:02 | 2025-10-03 | 2025-11-07 |
 | [Warm Body](https://open.spotify.com/track/5I99Wed37kEn3OGUF97JDc) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Warm Body](https://open.spotify.com/album/4hakt2miT1kUCriy39BAaz) | 3:09 | 2024-08-08 | 2024-09-13 |
 | [Wasting Away](https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Wasting Away](https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g) | 2:44 | 2023-08-04 | 2023-09-29 |
+| [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-06-28 |  |
 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 | 2024-06-07 | 2024-07-12 |
 | [Water Under The Bridge](https://open.spotify.com/track/2bII2VIUZ1jI2MvBoDzfKZ) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love \(Deluxe\)](https://open.spotify.com/album/4yo87qxXaDkzncFiujO60E) | 2:13 | 2025-05-29 | 2025-07-11 |
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2024-01-25 | 2024-02-16 |

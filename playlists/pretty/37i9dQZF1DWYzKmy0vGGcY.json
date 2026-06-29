@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 650293,
+  "num_followers": 650404,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Green, Green Grass Of Home",
@@ -507,6 +491,22 @@
       "duration_ms": 184893,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 147759,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Wonderful World Of Sam Cooke",
         "url": "https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 128786,
       "name": "(What A) Wonderful World - Mono",
       "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 147759,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
+      "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "And Then...Along Comes",
-        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
       },
       "artists": [
         {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
+      "duration_ms": 172960,
+      "name": "A Place In The Sun",
+      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1249,20 +1249,20 @@
       "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
+      "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm"
+        "name": "And Then...Along Comes",
+        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
         }
       ],
-      "duration_ms": 172960,
-      "name": "A Place In The Sun",
-      "url": "https://open.spotify.com/track/0tURbnatc9qCxlYpXuPK8I"
+      "duration_ms": 207133,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Kitty Kallen's Coloring Book",
-        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
-      },
-      "artists": [
-        {
-          "name": "Kitty Kallen",
-          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Its Been a Long, Long Time",
-      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/2CqXO4zgYnv1KwiFiDAw1u"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 113066,
       "name": "(Ummmm, Oh Yeah) Dearest",
       "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Kitty Kallen's Coloring Book",
+        "url": "https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU"
+      },
+      "artists": [
+        {
+          "name": "Kitty Kallen",
+          "url": "https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Its Been a Long, Long Time",
+      "url": "https://open.spotify.com/track/35IRrhDF5x53hRCcc1okcZ"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Collectors Gold Series",
-        "url": "https://open.spotify.com/album/5UPn8inqJJYHwFjdqTsKnq"
-      },
-      "artists": [
-        {
-          "name": "The Jive Five",
-          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "My True Story",
-      "url": "https://open.spotify.com/track/1paWReMsPIqKGEOxdlHT2D"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "The Motown Anthology",
@@ -1887,6 +1871,22 @@
       "duration_ms": 155440,
       "name": "Darling Baby - Mono",
       "url": "https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Collectors Gold Series",
+        "url": "https://open.spotify.com/album/5UPn8inqJJYHwFjdqTsKnq"
+      },
+      "artists": [
+        {
+          "name": "The Jive Five",
+          "url": "https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "My True Story",
+      "url": "https://open.spotify.com/track/1paWReMsPIqKGEOxdlHT2D"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 278626,
       "name": "The Weight - Remastered",
       "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2131,8 +2131,8 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
       "artists": [
         {
@@ -2140,9 +2140,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered",
-      "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
+      "duration_ms": 259946,
+      "name": "Come Together - Remastered",
+      "url": "https://open.spotify.com/track/0MKqeOVdZcUFGJvWpGCKbG"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2193,6 +2193,22 @@
       "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ain't That Good News (Remastered)",
+        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
@@ -2207,22 +2223,6 @@
       "duration_ms": 256120,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Harbor Lights",
-      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2247,18 +2247,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News (Remastered)",
-        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
+      "duration_ms": 194866,
+      "name": "Harbor Lights",
+      "url": "https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 175693,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
     },
     {
       "added_at": "2024-05-03 14:52:34",

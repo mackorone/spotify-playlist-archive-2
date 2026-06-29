@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 200181,
+  "num_followers": 200213,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
+      },
+      "artists": [
+        {
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+        }
+      ],
+      "duration_ms": 287064,
+      "name": "Things Are Looking up Again",
+      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 278239,
       "name": "By the Time I Get to Phoenix",
       "url": "https://open.spotify.com/track/4Ul1vikPHeg19Lqmw6Xbwz"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F"
-      },
-      "artists": [
-        {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
-        }
-      ],
-      "duration_ms": 287064,
-      "name": "Things Are Looking up Again",
-      "url": "https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "All About You",
-        "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
-      },
-      "artists": [
-        {
-          "name": "Maluku Sweden Connection",
-          "url": "https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7"
-        },
-        {
-          "name": "SheemaW",
-          "url": "https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl"
-        }
-      ],
-      "duration_ms": 260852,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "All About You",
+        "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
+      },
+      "artists": [
+        {
+          "name": "Maluku Sweden Connection",
+          "url": "https://open.spotify.com/artist/2Luu2OnjcDQJdg5dy3lvH7"
+        },
+        {
+          "name": "SheemaW",
+          "url": "https://open.spotify.com/artist/3OF6dbxYfbAT1pavl8YFtl"
+        }
+      ],
+      "duration_ms": 260852,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
+      },
+      "artists": [
+        {
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Baby, It's Cold Outside",
         "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 188273,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
-      },
-      "artists": [
-        {
-          "name": "Lady Linn",
-          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
     },
     {
       "added_at": "2026-03-14 19:25:00",

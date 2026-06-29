@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 369733,
       "name": "I. Requiem aeternam",
       "url": "https://open.spotify.com/track/53J1g7Axs1SFsGpQAK62aJ"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 91676,
       "name": "Lead, Kindly Light",
       "url": "https://open.spotify.com/track/3SiFSOo8XGkfwxQ7G8BIsS"
@@ -3563,6 +3563,44 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Simon Standage",
+          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "V. Agnus Dei",
+      "url": "https://open.spotify.com/track/72vfsXMHWxzc3TfYz4lNov"
+    },
+    {
+      "album": {
         "name": "John Rutter: Magnificat",
         "url": "https://open.spotify.com/album/4iKRav6EeD8tJ5WVuCtTVj"
       },
@@ -3826,7 +3864,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 311600,
       "name": "VI. The Lord Is my Shepherd",
       "url": "https://open.spotify.com/track/07JVfLUMWbnZLEnWoftLx6"

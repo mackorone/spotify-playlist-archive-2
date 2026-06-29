@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162 likes - 200 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165 likes - 200 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 48 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 |
 | 49 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
 | 50 | [Remember](https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:09 |
-| 51 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
-| 52 | [NOT OK](https://open.spotify.com/track/0RI68moXX6jjEjcIxAb0Uo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:26 |
+| 51 | [NOT OK](https://open.spotify.com/track/0RI68moXX6jjEjcIxAb0Uo) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:26 |
+| 52 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
 | 53 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
 | 54 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
 | 55 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 68 | [Try](https://open.spotify.com/track/2Q3uUxPpTKY4MjY5SRFSHK) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Try](https://open.spotify.com/album/6GPLPBLhIg3iluCRV84Pyj) | 3:05 |
 | 69 | [Just Thought You Should Know](https://open.spotify.com/track/5wajXZbQJTcfU0DaMOViQ9) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:23 |
 | 70 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
-| 71 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 |
-| 72 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 71 | [No\. 1 Obsession](https://open.spotify.com/track/6woglPpa9CWG2WsPrjzS1P) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:05 |
+| 72 | [STAY WITH ME \- KR Ver.](https://open.spotify.com/track/6Bz2nEZLNYm1hEB3c3upoj) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [RISE](https://open.spotify.com/album/5g83RiFIYU6NlMIF5Wp8kk) | 3:22 |
 | 73 | [Revival \(feat\. Cheat Codes & MAX\)](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
 | 74 | [Evolve](https://open.spotify.com/track/1GYD0A2nWDmEB0lZp1GvSM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:22 |
 | 75 | [My Love Won't Let You Down](https://open.spotify.com/track/3Ms30cFnM7su9lCdwgnexR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:54 |
 | 76 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
-| 77 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
-| 78 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 77 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 78 | [Make This Song Cry](https://open.spotify.com/track/0iUQMaYF4PijgspAkghWMm) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:25 |
 | 79 | [Fire \(feat\. Pitbull\)](https://open.spotify.com/track/4tKDNJH4ylLAxfwYqqUM1d) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:36 |
 | 80 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
 | 81 | [Take Me Higher](https://open.spotify.com/track/1x2nB4SHNWlp0aqtvBBvzu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Take Me Higher](https://open.spotify.com/album/0LmEG3bIDEk1cpW0ckMOIn) | 3:00 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 199 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 200 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcVX5gAAAACsTRU3bprsmXrVzqteaQJN`
+Snapshot ID: `AcVdhgAAAAA77o1X0nFEFj0v7UPQOW4g`

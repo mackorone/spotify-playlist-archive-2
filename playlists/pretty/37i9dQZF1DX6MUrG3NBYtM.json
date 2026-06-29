@@ -1,6 +1,6 @@
 {
   "description": "De beste Indie releases. Cover: Naaz ",
-  "num_followers": 105345,
+  "num_followers": 105340,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-08 12:30:15",
       "album": {
-        "name": "Flowers In The Water",
-        "url": "https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe"
-      },
-      "artists": [
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 239397,
-      "name": "Flowers In The Water",
-      "url": "https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S"
-    },
-    {
-      "added_at": "2026-06-08 12:30:15",
-      "album": {
         "name": "Down to be wrong",
         "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-06-08 12:30:15",
       "album": {
-        "name": "blind",
-        "url": "https://open.spotify.com/album/77LigDv2MjixBi3sh4FNLc"
+        "name": "Flowers In The Water",
+        "url": "https://open.spotify.com/album/0aSClnSnwkJQUmJupW4fpe"
       },
       "artists": [
         {
-          "name": "Kids With Buns",
-          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
         }
       ],
-      "duration_ms": 210637,
-      "name": "blind",
-      "url": "https://open.spotify.com/track/2Juuq3nXnKIUziolpB5IaR"
+      "duration_ms": 239397,
+      "name": "Flowers In The Water",
+      "url": "https://open.spotify.com/track/50WogEBOCXkA5vEV1Es58S"
     },
     {
       "added_at": "2026-06-08 12:30:15",
@@ -943,6 +927,22 @@
       "duration_ms": 185706,
       "name": "Natural Woman",
       "url": "https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN"
+    },
+    {
+      "added_at": "2026-06-08 12:30:15",
+      "album": {
+        "name": "blind",
+        "url": "https://open.spotify.com/album/77LigDv2MjixBi3sh4FNLc"
+      },
+      "artists": [
+        {
+          "name": "Kids With Buns",
+          "url": "https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz"
+        }
+      ],
+      "duration_ms": 210637,
+      "name": "blind",
+      "url": "https://open.spotify.com/track/2Juuq3nXnKIUziolpB5IaR"
     },
     {
       "added_at": "2026-06-08 12:30:15",

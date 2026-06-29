@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 17965,
+  "num_followers": 17976,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "deep in it",
-        "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        },
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 154862,
-      "name": "deep in it",
-      "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Small Change",
         "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "deep in it",
+        "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 154862,
+      "name": "deep in it",
+      "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue Tequila",
         "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 202624,
       "name": "Blue Tequila",
       "url": "https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Don't Wanna Lose",
-        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
       },
       "artists": [
         {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 231000,
       "name": "H O M E",
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Don't Wanna Lose",
+        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",

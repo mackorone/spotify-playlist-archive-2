@@ -4,11 +4,12 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-296 songs - 18 hr 20 min
+298 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Hopeless](https://open.spotify.com/track/4DppE9ZDFTO1mprNv1IzuU) | [Hurley](https://open.spotify.com/artist/7jTp7usaUXhcomOg76GmEd) | [A Little Hopeless](https://open.spotify.com/album/2uVchzUQSHJhaqsAK2c7T0) | 4:41 | 2026-06-09 | 2026-06-20 |
+| [A Message From Your CEO](https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [A Message From Your CEO](https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N) | 2:59 | 2026-06-28 |  |
 | [A Table Reserved](https://open.spotify.com/track/3LNzCIrA0ONLKuHGmpWlWv) | [The Great Pleasure](https://open.spotify.com/artist/4rtT6yqwmkxRfG366YZjUU) | [A Table Reserved](https://open.spotify.com/album/3iAIcPD14LzkMTXdOzZUTW) | 3:16 | 2025-11-16 | 2025-11-24 |
 | [Accord](https://open.spotify.com/track/4HgfxY9KtyUbs6CDHjkHGo) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Accord](https://open.spotify.com/album/56IwbcuqxG5Zhf2pJvMvQS) | 4:18 | 2026-01-09 | 2026-02-02 |
 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-06-09 | 2026-06-20 |
@@ -198,6 +199,7 @@
 | [Mr\. Nice Guy](https://open.spotify.com/track/0MOSKnO19vgPMhc9QzFgUI) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [Mr\. Nice Guy](https://open.spotify.com/album/3Mi9MfaBkL6nrJyHcobl8R) | 4:16 | 2025-11-16 | 2026-02-02 |
 | [Mrs McPherson's Reel \- Gibston](https://open.spotify.com/track/6ytS9ji0orpQamdc6F7NYb) | [Alice Allen](https://open.spotify.com/artist/5EhYBIoWiClQb9d8lPBnlC), [Patsy Reid](https://open.spotify.com/artist/1lqXI4ay0Qy7Sx210Yihko) | [Strathspey Queens II](https://open.spotify.com/album/6mwsv1qk0D9S35n1zdfTGG) | 1:54 | 2026-04-23 | 2026-05-04 |
 | [My Friend Slim](https://open.spotify.com/track/2APYbWnkaxWs9psqqGeU6H) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Nick Broster](https://open.spotify.com/artist/2aAF7VGdZ3LFMGhEvKPXsp) | [Broster & West](https://open.spotify.com/album/4RznIm7ujwdFFt24irOUXJ) | 3:35 | 2026-02-01 | 2026-02-09 |
+| [My Second City](https://open.spotify.com/track/6JQWtSGeYlM3Op0AxmlWrl) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Firefly](https://open.spotify.com/album/1bMDCSdzHHfO9z0qkHZKpw) | 4:10 | 2026-06-28 |  |
 | [Name for Yourself](https://open.spotify.com/track/6PzzFcYrjU2vhPQIM3fH3Z) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [Name for Yourself](https://open.spotify.com/album/2Cj2ojLwZsv3bhfvGe9WIM) | 3:18 | 2025-11-16 | 2025-12-01 |
 | [Nausea](https://open.spotify.com/track/0dJFoXdKvpc3A8aLN9GgV4) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Nausea](https://open.spotify.com/album/58SUdGApxb0m7QUGZY4YvI) | 3:27 | 2026-03-18 | 2026-05-04 |
 | [No Sound](https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 2:57 | 2025-12-07 | 2025-12-19 |

@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1431,
+  "num_followers": 1433,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAARC2W37q/3Tpa+L/hOjGZN89vBttqC",
+  "snapshot_id": "AAARDzhrl9dd2bPkbT4DZTtFLOKWnn4O",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -655,42 +655,6 @@
       "duration_ms": 166483,
       "name": "Shut Up, Brian",
       "url": "https://open.spotify.com/track/7GHkEOIL702sC6BSNL1AiA"
-    },
-    {
-      "added_at": "2026-05-29 02:36:16",
-      "album": {
-        "name": "Flashburn",
-        "url": "https://open.spotify.com/album/7Cy57RvR3UDBEJxbrHswRr"
-      },
-      "artists": [
-        {
-          "name": "ONE CHiN",
-          "url": "https://open.spotify.com/artist/5BLizIyjvtjNrRTOIolFYq"
-        },
-        {
-          "name": "Jacob Lauing",
-          "url": "https://open.spotify.com/artist/7C0YvaGHaso7AKjdfM2YSV"
-        }
-      ],
-      "duration_ms": 173283,
-      "name": "Flashburn",
-      "url": "https://open.spotify.com/track/34KwQboaq5JWZvHCuK1vSJ"
-    },
-    {
-      "added_at": "2026-05-29 00:03:38",
-      "album": {
-        "name": "Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/7Ly8Y2sybzHAf4Cqt7yUeP"
-      },
-      "artists": [
-        {
-          "name": "What Did You Expect?",
-          "url": "https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/09V6l1MHQIqEgMWSOOT4j4"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -4671,6 +4635,42 @@
       "duration_ms": 253979,
       "name": "Sanity Is Lost",
       "url": "https://open.spotify.com/track/5ajH68UKzdDlzBf3nEdVBJ"
+    },
+    {
+      "added_at": "2026-06-28 06:32:54",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "duration_ms": 202482,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/1tB5ECyFdLXRmak9DuCGID"
+    },
+    {
+      "added_at": "2026-06-28 06:38:11",
+      "album": {
+        "name": "TO ALL THE BOYS & GIRLS I EVER LOVED, Pt. 2",
+        "url": "https://open.spotify.com/album/7ue5AFBamgkBOgE6x0FsuV"
+      },
+      "artists": [
+        {
+          "name": "REIVEN",
+          "url": "https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW"
+        }
+      ],
+      "duration_ms": 147645,
+      "name": "GIMENA | cosmic love",
+      "url": "https://open.spotify.com/track/2p8zTRLjcIlgLnGmDR6Uib"
     }
   ],
   "unique_name": "Spotify Radio",

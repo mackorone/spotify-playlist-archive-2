@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-636 songs - 1 day 18 hr 50 min
+637 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-09-27 | 2025-02-28 |
 | [Firm Foundation \(He Won't\)\[Feat\. Chandler Moore\]](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2024-11-22 | 2025-11-28 |
 | [Firm Foundation medley](https://open.spotify.com/track/1aQqYxStJRbtFJZ9wW4o7j) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Firm Foundation medley](https://open.spotify.com/album/4ADefa2fOOyFY7Imu0scBQ) | 10:25 | 2024-11-29 | 2025-02-28 |
+| [First and Last](https://open.spotify.com/track/0DkQE2DHIbCqMqdN4r28KF) | [Kainos Music](https://open.spotify.com/artist/0fe4LUoWX5oSySWjoN54YG), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [First and Last](https://open.spotify.com/album/2L9UxgoDgpQcOKlbkkztzB) | 8:15 | 2026-06-19 |  |
 | [For My Life](https://open.spotify.com/track/7MGwJhiXPcUbua2HviODFJ) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [SalmistGee](https://open.spotify.com/artist/2CTdCKPiuNQEbRCRQxFJ7y) | [For My Life](https://open.spotify.com/album/7FV57y7NS0WIMwvk7dHjhq) | 2:34 | 2024-10-25 | 2025-02-07 |
 | [Forever](https://open.spotify.com/track/5NkYmbIrzIsk9EtCekrch9) | [Brave Dyakkoh](https://open.spotify.com/artist/0mPUxo9RlPxbssjTPg46KI), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Forever](https://open.spotify.com/album/2dTPV7YZH1yDyhaUBkeDw7) | 2:59 | 2025-09-12 | 2026-01-15 |
 | [Forever](https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Worship & Rap \(WAR\)](https://open.spotify.com/album/43SIoLKM59lL603KWslN8D) | 3:51 | 2025-11-07 | 2026-03-22 |
@@ -294,7 +295,7 @@
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-08-08 |
 | [Ife](https://open.spotify.com/track/30SbSJ28UDIMrZcduXXMmy) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Ife](https://open.spotify.com/album/2oNJr6H7HUWerNcx4xH6HE) | 2:43 | 2025-08-22 | 2025-10-03 |
 | [IFE \- Live](https://open.spotify.com/track/2VcXj5HyOvhkXpb7aLOHPd) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [IFE \(Live\)](https://open.spotify.com/album/4wHEnJxdHitz418BobWV0a) | 7:20 | 2026-04-03 | 2026-05-22 |
-| [Ifeoma](https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Ifeoma](https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK) | 3:31 | 2026-05-08 |  |
+| [Ifeoma](https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Ifeoma](https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK) | 3:31 | 2026-05-08 | 2026-06-29 |
 | [Ifunanya](https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Ifunanya](https://open.spotify.com/album/57pEiJAqAL6uQ57jujKiFs) | 5:14 | 2026-05-15 |  |
 | [Igwe](https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb) | [Midnight Crew](https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab) | [Igwe](https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG) | 5:12 | 2024-09-27 | 2025-02-28 |
 | [Ihịnèmerem](https://open.spotify.com/track/2rguu2bjwngxLIFf4olXm5) | [Yeka Onka](https://open.spotify.com/artist/1hgY12QHwLbjfLrIdDG45K) | [Ihịnèmerem](https://open.spotify.com/album/78VrJqZBVjI2CLlMEf2Ji0) | 3:26 | 2025-10-17 | 2025-11-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,673 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,686 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 30 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 | 31 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
 | 32 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 |
-| 33 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 |
-| 34 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
+| 33 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
+| 34 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 |
 | 35 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
 | 36 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 37 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 39 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 40 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 |
 | 41 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
-| 42 | [Upclose](https://open.spotify.com/track/3OaWtFEtRFGLyNLi7KniS8) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Upclose](https://open.spotify.com/album/2tH2faPDF9YMaviCAAnOIr) | 3:45 |
-| 43 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
+| 42 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
+| 43 | [Upclose](https://open.spotify.com/track/3OaWtFEtRFGLyNLi7KniS8) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Upclose](https://open.spotify.com/album/2tH2faPDF9YMaviCAAnOIr) | 3:45 |
 | 44 | [Motions](https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [If You Want My Loving](https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH) | 3:28 |
 | 45 | [That's Right](https://open.spotify.com/track/34bvypiveNLMCrB0iGWviM) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [That's Right](https://open.spotify.com/album/5pkd3bdFVLqSUBGbYda4gU) | 3:39 |
 | 46 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 |
 | 47 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
 | 48 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 | 49 | [U Should Not Be Doing That](https://open.spotify.com/track/3IRUnD7KOB6rSoEsxBG5oC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That](https://open.spotify.com/album/7mxUMtwfCoClzqAB7a4wh3) | 3:42 |
-| 50 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
+| 50 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
 
 Snapshot ID: `AAAAAIvyRX149yr/KJRGcnhci+t8lCof`

@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 83138,
+  "num_followers": 83200,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 230713,
-      "name": "Cuarto para las Dos",
-      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Para Qu\u00e9 Llorar",
         "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 196186,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/35C7JhYFEXS21yxJy6zR4g"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 230713,
+      "name": "Cuarto para las Dos",
+      "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
         }
       ],
-      "duration_ms": 244413,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO"
       },
       "artists": [
         {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+      "duration_ms": 244413,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 192426,
       "name": "Perfume de Gardenias",
       "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Folklore Tropical",
-        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
+        "name": "Piel A Piel",
+        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
       "artists": [
         {
           "name": "Aaron Y Su Grupo Ilusion",
           "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
         }
       ],
-      "duration_ms": 283226,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
+      "duration_ms": 222773,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Piel A Piel",
-        "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
+        "name": "Folklore Tropical",
+        "url": "https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq"
       },
       "artists": [
         {
           "name": "Aaron Y Su Grupo Ilusion",
           "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
         }
       ],
-      "duration_ms": 222773,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/4f9eB0jXvDMNgSZdiEez6K"
+      "duration_ms": 283226,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1991,30 +1991,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Reggaeto\u00f1erito",
-        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Tendo",
-      "url": "https://open.spotify.com/track/7H3mL8tOH1VjHXuOH0AFOb"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -2043,6 +2019,30 @@
       "duration_ms": 279591,
       "name": "Mi Cuerpo No Esta Hecho de Metal",
       "url": "https://open.spotify.com/track/6wtEHJnbvFFfjoxachlbR6"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Reggaeto\u00f1erito",
+        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Tendo",
+      "url": "https://open.spotify.com/track/7H3mL8tOH1VjHXuOH0AFOb"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Ahora M\u00e1s Que Nunca",
         "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 271766,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 265480,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Zayda",
         "url": "https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 260109,
       "name": "Lo Quiero a Morir",
       "url": "https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
     },
     {
       "added_at": "2025-09-26 06:00:27",

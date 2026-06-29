@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,864 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,874 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 19 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
 | 20 | [Felt That Way](https://open.spotify.com/track/2z3dytnjRzPsv48UO7BqHP) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Felt That Way](https://open.spotify.com/album/7ygOO7ANWftT4cDj6iPjzB) | 3:35 |
 | 21 | [afters](https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [afters](https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j) | 2:47 |
-| 22 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
-| 23 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
+| 22 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
+| 23 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 24 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 25 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 26 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 39 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
 | 40 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 |
 | 41 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
-| 42 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
-| 43 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 |
+| 42 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 |
+| 43 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 |
 | 44 | [After](https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [After](https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk) | 4:01 |
 | 45 | [Dreamer](https://open.spotify.com/track/4k7TFJqYHJyjVAPvS5Zpyj) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Woven EP](https://open.spotify.com/album/6VyyjhS5G442emks8nir75) | 3:20 |
 | 46 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:32 |
 | 47 | [Tensoon](https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Tensoon](https://open.spotify.com/album/5rmVFzFZ2rwZDwrVg5HVfj) | 3:57 |
 | 48 | [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 |
 | 49 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 |
-| 50 | [I Can't Be Without You](https://open.spotify.com/track/5F2c4QTmRCblmf1KjDH5pG) | [Bassi Fox](https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD) | [I Can't Be Without You](https://open.spotify.com/album/7whFnxDw9myMntEQ4BVjjc) | 2:12 |
+| 50 | [Disappear](https://open.spotify.com/track/7muw4i3FYHY384ia8YLCH5) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Disappear](https://open.spotify.com/album/01wgXyTT4TlJVpGxCZgBsy) | 3:58 |
 
 Snapshot ID: `AAAAADfyzw6iYt9XVKELJS3Drfrnqqdq`

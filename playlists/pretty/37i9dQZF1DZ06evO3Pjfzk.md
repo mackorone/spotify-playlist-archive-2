@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,368 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,429 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 12 | [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |
 | 13 | [Somewhere Over Laredo](https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:46 |
 | 14 | [Dirty Looks](https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:14 |
-| 15 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
+| 15 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 |
 | 16 | [Devil Don’t Go There](https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:30 |
-| 17 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 |
+| 17 | [The Jesus I Know Now](https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Jesus I Know Now](https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju) | 3:33 |
 | 18 | [Nice To Meet You \(feat\. Lainey Wilson\)](https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Nice To Meet You \(feat\. Lainey Wilson\)](https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi) | 2:56 |
 | 19 | [Younger You \(featuring Lainey Wilson\) \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/3Gk6bI1kJDkEftel3suQSa) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Younger You \(featuring Lainey Wilson\) \[From the "Hannah Montana 20th Anniversary Special"\]](https://open.spotify.com/album/3vClILXGeaZyBu4IqdpDAG) | 2:47 |
 | 20 | [Call A Cowboy](https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 43 | [Microphone](https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:54 |
 | 44 | [Wild Woman \- Lainey Wilson Version](https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wild Woman \(Lainey Wilson Version\)](https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA) | 3:32 |
 | 45 | [WWDD](https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:20 |
-| 46 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
+| 46 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
 | 47 | [Middle Finger](https://open.spotify.com/track/5dTHvmgkPqjYk8aW6LxZos) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:37 |
-| 48 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 |
+| 48 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
 | 49 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
 | 50 | [Dead End Red Dirt Road \- From The Gray House Original Soundtrack](https://open.spotify.com/track/3E4CIrrbH6m5n6kevRkw4m) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Gray House \(Original Soundtrack From the Amazon Series\)](https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO) | 3:30 |
 
-Snapshot ID: `aj3BAAAAAADe3SbRG9SEbC4/rtUR+Pdt`
+Snapshot ID: `aj8SgAAAAADuBgBrpeTtocBNnJ4BjafZ`

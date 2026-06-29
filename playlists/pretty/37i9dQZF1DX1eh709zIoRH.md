@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 
 > Certified hits\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,530 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,546 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 68 | [Summertime](https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Summertime](https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk) | 1:49 |
 | 69 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 |
 | 70 | [Galahad](https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Galahad](https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC) | 3:06 |
-| 71 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Str8 Reload](https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
-| 72 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
-| 73 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
+| 71 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
+| 72 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
+| 73 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Str8 Reload](https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
 | 74 | [Wifey Riddim 4](https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Wifey Riddim 4](https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3) | 3:03 |
 | 75 | [Eagle](https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Eagle](https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3) | 4:57 |
 | 76 | [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 |

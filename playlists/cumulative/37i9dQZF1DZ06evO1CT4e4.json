@@ -2267,6 +2267,44 @@
     },
     {
       "album": {
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Tatiana Grindenko",
+          "url": "https://open.spotify.com/artist/0ObLZWHbVP90nhaGJ9FhSI"
+        },
+        {
+          "name": "Alfred Schnittke",
+          "url": "https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z"
+        },
+        {
+          "name": "Lithuanian Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/0vFb3LsJFAOgLo3s8XI4B2"
+        },
+        {
+          "name": "Saulus Sondeckis",
+          "url": "https://open.spotify.com/artist/0kY7yfsiB2kI3P5Wumn1CB"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576360,
+      "name": "Tabula rasa: I. Ludus. Con moto - Live",
+      "url": "https://open.spotify.com/track/62a9yYZe25B02RPN8ymjQt"
+    },
+    {
+      "album": {
         "name": "Arvo P\u00e4rt: Choral Music",
         "url": "https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx"
       },
@@ -2626,7 +2664,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 128946,
       "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
       "url": "https://open.spotify.com/track/4JNB96jyQOm3BFcGRjKV9a"

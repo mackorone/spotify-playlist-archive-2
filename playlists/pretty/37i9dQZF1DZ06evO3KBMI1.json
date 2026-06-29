@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 74919,
+  "num_followers": 74925,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACqwrMr0dRckwbMw3TQgf4l",
+  "snapshot_id": "aj8SgAAAAADzrhHXfD3rH3jpvCIehumR",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EPIPHANY",
         "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 289933,
       "name": "REVERSI",
       "url": "https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 406653,
-      "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
-      "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6765\u9ce5\u6c5f",
         "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 219200,
       "name": "\u6765\u9ce5\u6c5f",
       "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 406653,
+      "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
+      "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "Fight For Liberty\uff08album ver.\uff09",
-      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210423,
       "name": "\u30d3\u30bf\u30fc\u30b9\u30a6\u30a3\u30fc\u30c8",
       "url": "https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 255706,
+      "name": "Fight For Liberty\uff08album ver.\uff09",
+      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 281706,
-      "name": "DECIDED (album ver.)",
-      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 312746,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 281706,
+      "name": "DECIDED (album ver.)",
+      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
     },
     {
       "added_at": null,

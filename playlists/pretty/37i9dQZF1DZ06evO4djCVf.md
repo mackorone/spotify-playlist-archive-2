@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,079 likes - 44 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,095 likes - 44 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 9 | [Als Het Avond Is](https://open.spotify.com/track/1MWpdDDf3Yk0w6o4oviMFY) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:25 |
 | 10 | [De Overkant](https://open.spotify.com/track/6qoh8fAoY7eVMIIKPKNSWX) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:47 |
 | 11 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
-| 12 | [Hou Vol Hou Vast](https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:24 |
+| 12 | [Honderd Keer](https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:16 |
 | 13 | [Deze Is Voor Mij](https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 3:25 |
 | 14 | [Weg Van Jou](https://open.spotify.com/track/5WvPd0VhOqp3Mmxua6PfCd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:26 |
-| 15 | [Honderd Keer](https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:16 |
-| 16 | [Papa](https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:17 |
+| 15 | [Hou Vol Hou Vast](https://open.spotify.com/track/5JOCtxzN82M7tTXzcpLsx8) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:24 |
+| 16 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
 | 17 | [Spiegelbeeld](https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 2:48 |
 | 18 | [Dromen In Kleur](https://open.spotify.com/track/2KqRs4eFBBo4xkZWbZhGPc) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 3:21 |
-| 19 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
-| 20 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
+| 19 | [Papa](https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:17 |
+| 20 | [Batterij](https://open.spotify.com/track/2MoLobj6hxy9NdH59TImPL) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Batterij](https://open.spotify.com/album/3iUA629Sgwm5LKaBXfS3bw) | 2:28 |
 | 21 | [Kwijt](https://open.spotify.com/track/22nV4UdZiQ4XZq9UDbfTu8) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:15 |
 | 22 | [Onderweg Naar Later](https://open.spotify.com/track/5rES9eqpHTAlv7jVY1SUQn) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:57 |
 | 23 | [Nog Even Dit](https://open.spotify.com/track/7aESh0sw6yPw7yTNgC4gwi) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 2:53 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 39 | [Waarom \- Uit Liefde Voor Muziek](https://open.spotify.com/track/0BqpBJqJSuWOFfZG87qSYe) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:42 |
 | 40 | [Onder De Sterren \- uit Liefde Voor Muziek](https://open.spotify.com/track/71BNUHxvGAGVQiMho8Q5hh) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:32 |
 | 41 | [Dicht Bij Mij \- Uit Liefde Voor Muziek](https://open.spotify.com/track/00x0bTQ3qpObskwuhCnaBg) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:44 |
-| 42 | [Op Deze Dag \- uit Liefde Voor Muziek](https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:52 |
+| 42 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 | 43 | [Voor Het Leven Voor Elkaar \- Uit Liefde Voor Muziek](https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:53 |
-| 44 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
+| 44 | [Op Deze Dag \- uit Liefde Voor Muziek](https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:52 |
 
-Snapshot ID: `aj3BAAAAAAClwLyu5KJaMWk6BoVTzqqX`
+Snapshot ID: `aj8SgAAAAACaQ/6lTXBt/7b8mUZtuig3`

@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-380 songs - 19 hr 9 min
+381 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 | 2024-11-08 | 2025-10-04 |
 | [Do Końca Dni](https://open.spotify.com/track/7ELp0ZdB87mvVupvWUDoov) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [Do Końca Dni](https://open.spotify.com/album/3rb5K0ms8c8AzXU3ceoIZw) | 3:44 | 2025-07-04 | 2025-10-04 |
 | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Doctor \(Work It Out\) \[feat\. Miley Cyrus\]](https://open.spotify.com/album/2kJunH6dfHcjJa0lxZbRKr) | 3:02 | 2024-06-28 | 2024-07-27 |
-| [Dom](https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Dom](https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr) | 2:34 | 2026-03-27 |  |
+| [Dom](https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Dom](https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr) | 2:34 | 2026-03-27 | 2026-06-29 |
 | [Don't Call Tonight](https://open.spotify.com/track/0uoWOZeZZiC90RMNDQBqj4) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:45 | 2025-03-07 | 2025-10-04 |
 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 | 2026-06-18 |  |
 | [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 | 2026-03-27 |  |
@@ -180,6 +180,7 @@
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-07-04 | 2025-10-04 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2024-10-17 | 2025-07-05 |
 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 | 2026-06-26 |  |
+| [Lucky Secret](https://open.spotify.com/track/002moL8vrvcntzM73R4ath) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Fairy Pop](https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO) | 3:19 | 2026-06-26 |  |
 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-06-18 |  |
 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 | 2026-06-26 |  |
 | [MAM TALENT](https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:28 | 2026-01-23 |  |

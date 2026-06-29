@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 613051,
+  "num_followers": 613004,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/5zlazJ9iry3BYlq5ZcpbAy"
     },
     {
-      "added_at": "2024-08-29 19:59:48",
-      "album": {
-        "name": "Brooklyn Baby - Spotify Singles",
-        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 345600,
-      "name": "Brooklyn Baby - Spotify Singles",
-      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Blue Weekend",
@@ -539,6 +523,22 @@
       "duration_ms": 155007,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
+    },
+    {
+      "added_at": "2024-08-29 19:59:48",
+      "album": {
+        "name": "Brooklyn Baby - Spotify Singles",
+        "url": "https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "Brooklyn Baby - Spotify Singles",
+      "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "I Of The Storm",
-      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
       "added_at": "2024-07-12 12:20:23",
       "album": {
         "name": "my love mine all mine",
@@ -957,20 +941,20 @@
       "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 193640,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/6kvdjKkkd2QJ0arXpjCmfW"
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -987,6 +971,22 @@
       "duration_ms": 238333,
       "name": "The Dying Light",
       "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 193640,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/6kvdjKkkd2QJ0arXpjCmfW"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
     },
     {
-      "added_at": "2024-08-29 19:59:48",
-      "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Moveys",
@@ -1119,6 +1103,22 @@
       "duration_ms": 328931,
       "name": "Son",
       "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
+    },
+    {
+      "added_at": "2024-08-29 19:59:48",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2025-02-28 15:54:30",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "A Stranger Desired",
-        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "I'll Scream (All the Words)",
@@ -1263,6 +1247,22 @@
       "duration_ms": 193458,
       "name": "I'll Scream (All the Words)",
       "url": "https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "A Stranger Desired",
+        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Wisconsin Winter",
+        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Wisconsin Winter",
+      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Wisconsin Winter",
-        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
-      },
-      "artists": [
-        {
-          "name": "Laura Alden",
-          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Wisconsin Winter",
-      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
-    },
-    {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Glu",
-        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 163673,
-      "name": "Glu",
-      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+        "name": "Glu",
+        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
       },
       "artists": [
         {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+      "duration_ms": 163673,
+      "name": "Glu",
+      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1459,6 +1443,22 @@
       "duration_ms": 184571,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
     },
     {
       "added_at": "2024-05-31 15:25:10",

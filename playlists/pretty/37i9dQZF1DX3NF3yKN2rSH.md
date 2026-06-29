@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,108 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,105 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 72 | [Cherish The Cross](https://open.spotify.com/track/7BranHqbktqdiojkd0r07A) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 7:30 |
 | 73 | [These Nails \- Live](https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Donald Lawrence & The Tri\-City Singers Collection](https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs) | 5:28 |
 | 74 | [He Loves Me](https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13) | [Parkes Stewart](https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh) | [Another Chapter, Psalms 51](https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5) | 5:56 |
-| 75 | [He Is Risen](https://open.spotify.com/track/1B7h52soVpg5o6hCrK0B24) | [Carlis L\. Moody, Jr.](https://open.spotify.com/artist/4D6XuK8RQZVG13mBjWFVpx), [Dwayne Coleman](https://open.spotify.com/artist/79bG4S89m1c77wIYTNKGY5) | [Listen With Your Heart](https://open.spotify.com/album/7fqzviIu7dcruasye6mNxo) | 4:00 |
-| 76 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 |
+| 75 | [You Are Good](https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Decade](https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75) | 5:22 |
+| 76 | [He Is Risen](https://open.spotify.com/track/1B7h52soVpg5o6hCrK0B24) | [Carlis L\. Moody, Jr.](https://open.spotify.com/artist/4D6XuK8RQZVG13mBjWFVpx), [Dwayne Coleman](https://open.spotify.com/artist/79bG4S89m1c77wIYTNKGY5) | [Listen With Your Heart](https://open.spotify.com/album/7fqzviIu7dcruasye6mNxo) | 4:00 |
 | 77 | [If God / Nothing But the Blood](https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 8:25 |
 | 78 | [Waymaker \(Live\)](https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm) | 8:20 |
 | 79 | [The Anthem](https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 6:58 |

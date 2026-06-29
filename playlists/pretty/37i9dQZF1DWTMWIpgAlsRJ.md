@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Germany Playlist: bringing together the sounds of Germany in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,661 likes - 39 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,613 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 28 | [Was in der Zeitung steht](https://open.spotify.com/track/6Go7A46TFJhU6G448F1AqC) | [d.o.c.h.!](https://open.spotify.com/artist/2rqZlo9Zlc5oFttP6hxpDH) | [Was in der Zeitung steht](https://open.spotify.com/album/47zAS12Kmu7I02wSyDESnH) | 1:56 |
 | 29 | [Silikon](https://open.spotify.com/track/3AtbVrW3ggM8epdHgto9tG) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ), [Sacha Perera](https://open.spotify.com/artist/42s9nZQ8ddRJxHzRhPv8o7) | [Hello Mom!](https://open.spotify.com/album/7eaJFIPqcxRNm0QT1JsQbs) | 3:46 |
 | 30 | [Meine Stadt](https://open.spotify.com/track/7izbGsrKGEbazX5gDLiG8r) | [Auletta](https://open.spotify.com/artist/0kIttGezR7Tf8FeBV5yIx8) | [Pöbelei & Poesie](https://open.spotify.com/album/4mhTYUUekHInhiA4xPpt9B) | 3:30 |
-| 31 | [Fahrrad](https://open.spotify.com/track/0VoNg0VOFZRefPP4MA919l) | [Radiopilot](https://open.spotify.com/artist/38JmxGr1ILuDbSm2NMaaiB) | [Leben passiert](https://open.spotify.com/album/06phaD8YOYSEJUn2HebJ7D) | 2:21 |
-| 32 | [Now And Forever \- 2024 Remastered](https://open.spotify.com/track/48v8YUQ14b8uDNvqEPjr1U) | [DJ Kaos](https://open.spotify.com/artist/25IdOX2HbRLOCP98XoJujb), [Khan](https://open.spotify.com/artist/5065aHa5E9M7GUqXpcpCxC) | [Hello Stranger \(2024 Remastered\)](https://open.spotify.com/album/11qx2Tf2NTiGqnpI0dQtHa) | 6:27 |
-| 33 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
-| 34 | [Love Is On Our Side \- Original Single Edit](https://open.spotify.com/track/2ywKLr623I7A2OxGDPvgVl) | [Frank Popp Ensemble](https://open.spotify.com/artist/36HA6J1T7vW0RHuumptgK1) | [Love Is On Our Side](https://open.spotify.com/album/06UojV3Qi6WhtOa7YDRAGB) | 3:15 |
+| 31 | [Now And Forever \- 2024 Remastered](https://open.spotify.com/track/48v8YUQ14b8uDNvqEPjr1U) | [DJ Kaos](https://open.spotify.com/artist/25IdOX2HbRLOCP98XoJujb), [Khan](https://open.spotify.com/artist/5065aHa5E9M7GUqXpcpCxC) | [Hello Stranger \(2024 Remastered\)](https://open.spotify.com/album/11qx2Tf2NTiGqnpI0dQtHa) | 6:27 |
+| 32 | [Fahrrad](https://open.spotify.com/track/0VoNg0VOFZRefPP4MA919l) | [Radiopilot](https://open.spotify.com/artist/38JmxGr1ILuDbSm2NMaaiB) | [Leben passiert](https://open.spotify.com/album/06phaD8YOYSEJUn2HebJ7D) | 2:21 |
+| 33 | [Love Is On Our Side \- Original Single Edit](https://open.spotify.com/track/2ywKLr623I7A2OxGDPvgVl) | [Frank Popp Ensemble](https://open.spotify.com/artist/36HA6J1T7vW0RHuumptgK1) | [Love Is On Our Side](https://open.spotify.com/album/06UojV3Qi6WhtOa7YDRAGB) | 3:15 |
+| 34 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
 | 35 | [Animal](https://open.spotify.com/track/6MCqfrFei5AbXR3WXH7IQt) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 3:48 |
 | 36 | [Endlich ein Grund zur Panik](https://open.spotify.com/track/178OOw9dFD6osAVvGDftrw) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Endlich Ein Grund Zur Panik](https://open.spotify.com/album/1jlFNm0Iazauxrhy4lyH7A) | 3:46 |
 | 37 | [Nothing But You \- Berlin Mix](https://open.spotify.com/track/5T3KS5xgihvmzKqUcgvhfj) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Hemstock & Jennings](https://open.spotify.com/artist/28tXKxSzpxFCXnvbvu6plS) | [Nothing But You](https://open.spotify.com/album/22AtYB0Xd8D3IaczUBiCpk) | 5:03 |

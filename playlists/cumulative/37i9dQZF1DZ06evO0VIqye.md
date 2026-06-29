@@ -4,7 +4,7 @@
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 1 min
+111 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Long Time \(Acoustic\)](https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Changeup \(Acoustic\)](https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT) | 2:51 | 2026-05-03 |  |
 | [Long Time \- Acoustic](https://open.spotify.com/track/1d7T0hOm2JwyaVziI6enG9) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Changeup](https://open.spotify.com/album/1DT4EIajvxjEkGdvZ707xS) | 2:51 | 2025-03-08 | 2026-03-07 |
 | [Louie Louie](https://open.spotify.com/track/7tRc5GK5zSf9Yc3ERS92YX) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:57 | 2026-04-19 | 2026-04-21 |
-| [Love Hurts](https://open.spotify.com/track/2fP3Tgo3iCaAOIteVUl4tx) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:47 | 2025-03-08 |  |
+| [Love Hurts](https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV) | 3:47 | 2026-06-29 |  |
+| [Love Hurts](https://open.spotify.com/track/2fP3Tgo3iCaAOIteVUl4tx) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 3:47 | 2025-03-08 | 2026-06-29 |
 | [Love Is All Around](https://open.spotify.com/track/6XnxqKeKxH9yl5VnDfKnjV) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Love Is All Around](https://open.spotify.com/album/4gupToLDb6Q3wV8QUsxeeM) | 2:23 | 2025-03-08 |  |
 | [Love Is Pain](https://open.spotify.com/track/689CSL6W1c4JdonfEB6q2L) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 3:07 | 2025-03-08 | 2026-04-19 |
 | [Love Is Pain](https://open.spotify.com/track/7s8dkp8b8cKKRuq1Q4ENcp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/1MYPH5YMxk1auN13mcfLvh) | 3:07 | 2026-04-21 |  |

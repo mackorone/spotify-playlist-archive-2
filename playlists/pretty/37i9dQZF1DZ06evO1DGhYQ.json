@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9661,
+  "num_followers": 9662,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACBUVOPppuM3nHoX3YzSNqw",
+  "snapshot_id": "aj8SgAAAAAD9krWGgS5GBOdC0bMtrKUV",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 265300,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -679,30 +695,6 @@
       "duration_ms": 347706,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Kazuo",
-          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
-        },
-        {
-          "name": "Imani J",
-          "url": "https://open.spotify.com/artist/14pucqDOzazKI7ZrxSk9xj"
-        }
-      ],
-      "duration_ms": 330400,
-      "name": "NO HOME NO COUNTRY",
-      "url": "https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8"
     },
     {
       "added_at": null,
@@ -747,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 180766,
+      "name": "I Want A Chance For Romance",
+      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tokyo Pharaoh",
         "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
       },
@@ -759,22 +767,6 @@
       "duration_ms": 213406,
       "name": "Tokyo Pharaoh",
       "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "THE SWEETEST TABOO",
-      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
     },
     {
       "added_at": null,
@@ -815,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "THE SWEETEST TABOO",
+      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHOW TIME",
         "url": "https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw"
       },
@@ -835,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
       "artists": [
         {
@@ -844,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 180766,
-      "name": "I Want A Chance For Romance",
-      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,
@@ -871,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
@@ -880,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+      "duration_ms": 194733,
+      "name": "GABBA GABBA HEY HEY",
+      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
     },
     {
       "added_at": null,
@@ -903,22 +911,6 @@
       "duration_ms": 289300,
       "name": "FOUND BLUE",
       "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "GABBA GABBA HEY HEY",
-      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
     },
     {
       "added_at": null,

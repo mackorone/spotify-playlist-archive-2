@@ -8958,7 +8958,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -39017,6 +39017,24 @@
     },
     {
       "album": {
+        "name": "Satalana",
+        "url": "https://open.spotify.com/album/5j7eU7g26hKSqcT7Ad7rLH"
+      },
+      "artists": [
+        {
+          "name": "Charmonix",
+          "url": "https://open.spotify.com/artist/7sNitS1MznzM8cuKsa8Udd"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Satalana",
+      "url": "https://open.spotify.com/track/5rgqJw1RUIm1tficHPhqZZ"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -47604,7 +47622,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 258823,
       "name": "T\u00c2RZIU",
       "url": "https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE"
@@ -48326,6 +48344,28 @@
       "duration_ms": 182194,
       "name": "Vara nu dorm",
       "url": "https://open.spotify.com/track/2X93wwCV7j4ruNcgJzuvQF"
+    },
+    {
+      "album": {
+        "name": "Vara nu e vara",
+        "url": "https://open.spotify.com/album/7vMbS8vbdAl0ko9clIHTMc"
+      },
+      "artists": [
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148488,
+      "name": "Vara nu e vara",
+      "url": "https://open.spotify.com/track/01bhnosc5HEyhHyszYtmtE"
     },
     {
       "album": {

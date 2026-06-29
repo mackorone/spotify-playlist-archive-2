@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4666,
+  "num_followers": 4665,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABjusJRtdnOpCO8OBiRR4XY",
+  "snapshot_id": "aj8SgAAAAAAGI0Xl0jlfMIOReRoWglQk",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 174586,
       "name": "Milk And Honey",
       "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "My Full Name",
-      "url": "https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 246573,
       "name": "Pin It Down",
       "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/54BTdSX1jqE366VPHeGfWh"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Break The Jaw",
-      "url": "https://open.spotify.com/track/1s28bDyZPvFl8OPKOPgYdN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 226626,
       "name": "Impressions (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Break The Jaw",
+      "url": "https://open.spotify.com/track/1s28bDyZPvFl8OPKOPgYdN"
     },
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        },
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Wake (feat. Fleet Foxes)",
-      "url": "https://open.spotify.com/track/39I0ZxiG2TmzT0jfzoBWBC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Send My Regards",
         "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 247893,
       "name": "Send My Regards",
       "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Wake (feat. Fleet Foxes)",
+      "url": "https://open.spotify.com/track/39I0ZxiG2TmzT0jfzoBWBC"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 330903,
-      "name": "Shore",
-      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 330903,
+      "name": "Shore",
+      "url": "https://open.spotify.com/track/5aBGR2ppIj67X3RNa6ibli"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ace",
         "url": "https://open.spotify.com/album/1A8y28WkLlz79cpf843cWV"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -539,6 +539,22 @@
       "duration_ms": 197972,
       "name": "Who Are You Now",
       "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Trouble Found Me",
+      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Trouble Found Me",
-      "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modern Man",
         "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 151213,
       "name": "Lola (My Love)",
       "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 283106,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,

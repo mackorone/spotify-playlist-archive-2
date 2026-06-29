@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > "Si mañana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal" Valentin Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,417 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,428 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 51 | [Sin Chingarme A Nadie](https://open.spotify.com/track/3EqEmz85wW3Jq77AqV2wGM) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 2:26 |
 | 52 | [El Flaquito](https://open.spotify.com/track/5NmlPbM72H4Q1yKwKzIdHY) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [¿Será Prudente?](https://open.spotify.com/album/1j6Hr9ZFTNbAOj953dqmfb) | 2:36 |
 | 53 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
-| 54 | [Si Estuviera el Güero](https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Si Estuviera el Güero](https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee) | 4:05 |
+| 54 | [Media Vuelta](https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Boleros\-Boleros\-Bole](https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl) | 2:11 |
 | 55 | [Alma Enamorada](https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:55 |
 | 56 | [De Tijuana A Paris](https://open.spotify.com/track/5wXvqb0SprgiFaRbYbbIwg) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [No Fue Suerte](https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM) | 3:06 |
-| 57 | [Media Vuelta](https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Boleros\-Boleros\-Bole](https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl) | 2:11 |
+| 57 | [Si Estuviera el Güero](https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Si Estuviera el Güero](https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee) | 4:05 |
 | 58 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
 | 59 | [Me Canse De Morir Por Tu Amor](https://open.spotify.com/track/7gFDY4Dce0ZIiNeWbXNxk9) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Padre e Hijo](https://open.spotify.com/album/6yTtdxZpn9uuBCHm5OSWyl) | 3:32 |
 | 60 | [Prenda Del Alma](https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:20 |

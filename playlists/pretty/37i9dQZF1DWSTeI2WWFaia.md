@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,563,038 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562,974 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 44 | [FLAKKA](https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [e.t.d.s\. A Mixtape by .idk.](https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF) | 2:29 |
 | 45 | [Reconsider](https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2 Reloaded](https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g) | 3:37 |
 | 46 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
-| 47 | [2.P.I.G.](https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:42 |
-| 48 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
+| 47 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
+| 48 | [2.P.I.G.](https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:42 |
 | 49 | [Of Blue \(with Mereba\)](https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 6:36 |
 | 50 | [P.O](https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Likkle Jordee](https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB) | [e.t.d.s\. A Mixtape by .idk.](https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF) | 2:58 |
 

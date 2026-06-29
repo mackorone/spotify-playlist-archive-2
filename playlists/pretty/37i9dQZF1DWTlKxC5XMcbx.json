@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61783,
+  "num_followers": 61782,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Stardust: The Music Of Hoagy Carmichael",
-        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 447280,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 322000,
       "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition / Remastered 1999",
       "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Stardust: The Music Of Hoagy Carmichael",
+        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "duration_ms": 447280,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 118400,
       "name": "Forenet",
       "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "The Great Ennui",
-        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
-      },
-      "artists": [
-        {
-          "name": "Tadd Norman",
-          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
-        }
-      ],
-      "duration_ms": 201153,
-      "name": "The Great Ennui",
-      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Bob Acri",
         "url": "https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201226,
       "name": "Sleep Away",
       "url": "https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "The Great Ennui",
+        "url": "https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U"
+      },
+      "artists": [
+        {
+          "name": "Tadd Norman",
+          "url": "https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo"
+        }
+      ],
+      "duration_ms": 201153,
+      "name": "The Great Ennui",
+      "url": "https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Reacquainted",
-        "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
-      },
-      "artists": [
-        {
-          "name": "Eric Rowland",
-          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
-        }
-      ],
-      "duration_ms": 209594,
-      "name": "Reacquainted",
-      "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "return to casual",
         "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Reacquainted",
+        "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Rowland",
+          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+        }
+      ],
+      "duration_ms": 209594,
+      "name": "Reacquainted",
+      "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Standards Trio: Reflections",
         "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 555320,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Joy Is Sorrow Unmasked",
+      "url": "https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 299880,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "Joy Is Sorrow Unmasked",
-      "url": "https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc"
     },
     {
       "added_at": "2026-02-09 02:43:04",

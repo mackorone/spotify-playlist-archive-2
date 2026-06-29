@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,156 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,155 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 10 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
 | 11 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 12 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
-| 13 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
-| 14 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
+| 13 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
+| 14 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
 | 15 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 |
 | 16 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 17 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 64 | [In The Morning \(Let Your Love Come In\) \- Original Radio Edit](https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:14 |
 | 65 | [Do You Really Like It? \- Radio Edit](https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp) | [DJ Pied Piper & The Masters Of Ceremonies](https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D) | [Do You Really Like It? \(Remixes\)](https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV) | 3:37 |
 | 66 | [Sambuca \- Original Mix \(Radio Edit\) \[feat\. Dennis G\]](https://open.spotify.com/track/4todOcpbt1Kpp4jl5x0r9h) | [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi), [Dennis G](https://open.spotify.com/artist/3bNcjfsIse2W8WFGwxs5DA) | [Sambuca \(feat\. Dennis G\)](https://open.spotify.com/album/0mN3UsfFUA1JZFsWX8i3kg) | 3:24 |
-| 67 | [Scandalous \- U.S\. Radio Edit](https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:58 |
-| 68 | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/track/2xUjNGHjJOBcpTf7dYx4EY) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Platnum](https://open.spotify.com/artist/42Yg24I2eo5UhSxGMTP6zZ) | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/album/3UJRf8qlSmPT6JXnd2y6oX) | 3:27 |
+| 67 | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/track/2xUjNGHjJOBcpTf7dYx4EY) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Platnum](https://open.spotify.com/artist/42Yg24I2eo5UhSxGMTP6zZ) | [What's It Gonna Be \(feat\. Platnum\)](https://open.spotify.com/album/3UJRf8qlSmPT6JXnd2y6oX) | 3:27 |
+| 68 | [Scandalous \- U.S\. Radio Edit](https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:58 |
 | 69 | [Gotta Get Thru This \- D'N'D Radio Edit](https://open.spotify.com/track/023lag1AgeOf7YChojecRu) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX), [D'N'D Productions](https://open.spotify.com/artist/7cp62T0Av3mTgy0imKzat7) | [Gotta Get Thru This](https://open.spotify.com/album/6QCJavotgf93RyAbJXvWlL) | 2:41 |
 | 70 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
 | 71 | [Babycakes](https://open.spotify.com/track/0dAn58pe2GWDTlqa2Th4mP) | [3 Of A Kind](https://open.spotify.com/artist/0WG74hoaVTaNb3hx3yRqb1) | [Babycakes](https://open.spotify.com/album/4sW39hh7uYqe8zDg7ylPAW) | 2:34 |

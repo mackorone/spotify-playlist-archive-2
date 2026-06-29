@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 7 hr 49 min
+145 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adelaide](https://open.spotify.com/track/3pZghavVnbU6iDRPXVRc5v) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Adelaide](https://open.spotify.com/album/1nf7jCiBe4AgaUxTp4kQ7e) | 2:15 | 2025-11-23 |  |
 | [Ain't Letting You Down](https://open.spotify.com/track/2U3K7r9F5Ufnj2hkaKwR0M) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [ORIGO](https://open.spotify.com/album/1Fw0y4iPr8b9SF3pohkBic) | 4:21 | 2025-12-28 |  |
+| [Anywhere With You](https://open.spotify.com/track/0pe9W1mVrqdjrXhJTDQjUK) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Anywhere With You](https://open.spotify.com/album/26K33hslhLjbLD7BUpNsyd) | 3:11 | 2026-06-28 |  |
 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 | 2024-06-13 |  |
 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 | 2024-06-13 |  |
 | [Beautiful](https://open.spotify.com/track/3nM6TlNmnR7gFmcWB3vojl) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 4:17 | 2024-06-13 |  |
@@ -144,6 +145,7 @@
 | [Wash Over Me](https://open.spotify.com/track/3LLWFxfyC5SPaY08i6494p) | [The Beach Hut Sessions](https://open.spotify.com/artist/2HomAAHp1glbdhZh9UHAif), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [The Beach Hut Sessions, Vol\. 1](https://open.spotify.com/album/1U2CXx9yQX4cOxOyOcRwyC) | 2:49 | 2024-06-13 |  |
 | [We’ll Be United](https://open.spotify.com/track/6gfWIbbvg58sGwn9xs0HW6) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [We’ll Be United](https://open.spotify.com/album/7FStOXLKUI6RKt61k4SEgF) | 2:58 | 2024-06-13 |  |
 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 | 2024-09-22 |  |
+| [Whenever You're Alone](https://open.spotify.com/track/3zMS4PvOg0fUFgCOaFTOg1) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Chuanzi](https://open.spotify.com/artist/2RAzRjAZmbbdeX8eUJ8ckF) | [Whenever You're Alone](https://open.spotify.com/album/59rfxnXMiVnODBUpxeUZPt) | 3:40 | 2026-06-28 |  |
 | [Why Did We Say Forever](https://open.spotify.com/track/1QaiTKXFmelfj3fRenjEh6) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/0nlBjUtOCo1KgEJNnXZOLs) | 3:10 | 2024-09-26 | 2026-01-24 |
 | [Why Did We Say Forever](https://open.spotify.com/track/2nTJNw0O8sLFVXInGaMKrK) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/2SpXCkAsZ4ZjKCFSLajWzq) | 3:10 | 2026-01-23 |  |
 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 | 2024-06-13 | 2024-09-27 |

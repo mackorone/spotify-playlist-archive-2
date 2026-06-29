@@ -4,7 +4,7 @@
 
 > 
 
-247 songs - 12 hr 54 min
+248 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [alone](https://open.spotify.com/track/7iuvjLWfCeuXUjCL5ux3Yd) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Foreign](https://open.spotify.com/artist/3D3yyi7c5AiQulhArfwbib) | [Melodic Desire](https://open.spotify.com/album/301s5ttpCmABTQMpqaf292) | 4:37 | 2025-04-10 |  |
 | [Ame](https://open.spotify.com/track/56vX2UYUGNMEIq3i4l66OL) | [Luizie](https://open.spotify.com/artist/2cQQa7eaJy9pO5QgEhxVXR) | [Ame](https://open.spotify.com/album/2KSyYrS7na1qwhUPGOS4vt) | 3:55 | 2025-09-11 |  |
 | [Any Day](https://open.spotify.com/track/3zNgZ7T9ZrN6mtBsRVhtJJ) | [Ocartiz James](https://open.spotify.com/artist/23MBrNLP0Eee8OZbRMcH7z), [Bec](https://open.spotify.com/artist/5KlC6dFBcvWlovMoCTOgQN) | [Away for too Long \- The Studio Sessions](https://open.spotify.com/album/2Q0i2bSiCG17BBpw4GAkIG) | 1:28 | 2025-03-12 |  |
+| [Arugula](https://open.spotify.com/track/42HTRKIBaIFeqwUcTzVOKK) | [Liz Kennedy](https://open.spotify.com/artist/0vkGqBr3YSlwElXPx6XKtz) | [Speed Bump](https://open.spotify.com/album/364p81aJ3JmdyFPruE73Zi) | 3:04 | 2026-06-28 |  |
 | [Assassinatus Ruber](https://open.spotify.com/track/4E2MuFuLMGWTpvN3SkRwar) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Assassinatus Ruber](https://open.spotify.com/album/6rbJISzJPnWbZSp8lcY5rF) | 4:39 | 2026-06-24 |  |
 | [Attention\(Tiri tese\)](https://open.spotify.com/track/34Xd43zwRtMXwNokRZPPME) | [Mr Gee TupaZ](https://open.spotify.com/artist/5Ra20bv5OyKWbI28XLHph0) | [Attention\(Tiri tese\)](https://open.spotify.com/album/7LP1vJO1wvp8ggjnfgG6tn) | 2:01 | 2026-06-18 |  |
 | [AZOTARTE](https://open.spotify.com/track/4eG6YirA72uHlDKmzYmlud) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Adal Palacios](https://open.spotify.com/artist/19x873JrC5NE60vCN4KPZp), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw), [Dj Full Mx](https://open.spotify.com/artist/3gBDVCX4mV5qVxbR0eyT06), [Brayan Vr](https://open.spotify.com/artist/6VbJpJjFWYLbCKKxbIeQlE) | [AZOTARTE](https://open.spotify.com/album/4f85e5tYKqheOGA1p7t0E7) | 2:11 | 2025-09-09 |  |

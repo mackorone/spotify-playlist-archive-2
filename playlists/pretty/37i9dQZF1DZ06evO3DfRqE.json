@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8668,
+  "num_followers": 8667,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAAPcF5TXHpPiLG3Ez5ZXKQz",
+  "snapshot_id": "aj8SgAAAAABtGFpMcOQbAQt+vWwAk7EQ",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Aloha, E Komo Mai",
-      "url": "https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO"
+      "duration_ms": 141920,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/0VhkfHlEUPXP7comqd943t"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 141920,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/0VhkfHlEUPXP7comqd943t"
+      "duration_ms": 163973,
+      "name": "Aloha, E Komo Mai",
+      "url": "https://open.spotify.com/track/6N4hfS4moia0tvA7S23VwO"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 287506,
-      "name": "Calm Seas - short version (with nature)",
-      "url": "https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH"
+      "duration_ms": 116706,
+      "name": "The Stars Are Out",
+      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 116706,
-      "name": "The Stars Are Out",
-      "url": "https://open.spotify.com/track/4tXp7gM12sZMRd6ylWbceg"
+      "duration_ms": 287506,
+      "name": "Calm Seas - short version (with nature)",
+      "url": "https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH"
     },
     {
       "added_at": null,
@@ -787,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time For Three",
-        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
       "artists": [
-        {
-          "name": "Time For Three",
-          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
-        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+      "duration_ms": 221560,
+      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
+      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
     },
     {
       "added_at": null,
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+        "name": "Time For Three",
+        "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
       "artists": [
+        {
+          "name": "Time For Three",
+          "url": "https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk"
+        },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 221560,
-      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
-      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
+      "duration_ms": 239906,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
     },
     {
       "added_at": null,

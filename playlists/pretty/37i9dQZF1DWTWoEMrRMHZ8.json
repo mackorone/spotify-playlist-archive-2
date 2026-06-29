@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355436,
+  "num_followers": 355422,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Cors\u00e1rio",
+        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 256048,
+      "name": "Cors\u00e1rio",
+      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/22o8Fo8iJJ9gbBJQSUy5wY"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 259406,
       "name": "Quando Chego",
       "url": "https://open.spotify.com/track/0ZkeFizpOgRGH6dwROpBVI"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Cors\u00e1rio",
-        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 256048,
-      "name": "Cors\u00e1rio",
-      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Estrela Do Meu Show",
+        "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 246835,
+      "name": "Estrela Do Meu Show",
+      "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "NOVA BOSSA: aquele abra\u00e7o aos ratos vivos",
         "url": "https://open.spotify.com/album/1Rgcijony0Ve3tp7VlrI2h"
       },
@@ -411,6 +431,22 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Nome Luz",
+        "url": "https://open.spotify.com/album/3MCeNJCGMIYhQix7JqTnc9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Nome Luz",
+      "url": "https://open.spotify.com/track/5AvYzeedoC4hGnI7UTLF32"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Vende-se Lembran\u00e7a",
         "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
       },
@@ -423,26 +459,6 @@
       "duration_ms": 199000,
       "name": "Tanto Voc\u00ea",
       "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Estrela Do Meu Show",
-        "url": "https://open.spotify.com/album/4bNxkTxf5UheqNQA4dhoGe"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 246835,
-      "name": "Estrela Do Meu Show",
-      "url": "https://open.spotify.com/track/7lM0Uq7a0tm29Csb5vSS7D"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -499,26 +515,6 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Sembal",
-        "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Vicente Barreto",
-          "url": "https://open.spotify.com/artist/5xo48wf1KbbuihtprJtOhb"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Sembal",
-      "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
         "name": "Este seu olhar / Promessas",
         "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
@@ -535,6 +531,26 @@
       "duration_ms": 212727,
       "name": "Este seu olhar / Promessas",
       "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "Sembal",
+        "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Vicente Barreto",
+          "url": "https://open.spotify.com/artist/5xo48wf1KbbuihtprJtOhb"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Sembal",
+      "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -571,22 +587,6 @@
       "duration_ms": 249798,
       "name": "Vila do Sossego",
       "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Nome Luz",
-        "url": "https://open.spotify.com/album/3MCeNJCGMIYhQix7JqTnc9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Nome Luz",
-      "url": "https://open.spotify.com/track/5AvYzeedoC4hGnI7UTLF32"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -883,6 +883,26 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Nua Ideia",
+        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "Nua Ideia",
+      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -903,6 +923,22 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        }
+      ],
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Espelhos",
         "url": "https://open.spotify.com/album/7p91aQf6m8ol80pRgbDdhM"
       },
@@ -919,18 +955,18 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
       },
       "artists": [
         {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
         }
       ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -951,22 +987,6 @@
       "duration_ms": 221684,
       "name": "Entre Amores e Danos",
       "url": "https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1011,6 +1031,22 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Agudo Grave",
         "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
@@ -1047,22 +1083,6 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
         "name": "Tum Tum Tum",
         "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
       },
@@ -1075,66 +1095,6 @@
       "duration_ms": 250156,
       "name": "Tudo Que Se Tem",
       "url": "https://open.spotify.com/track/56lywF1vwSlCAXXl7BeS5B"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Nua Ideia",
-        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "Nua Ideia",
-      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
-        }
-      ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Minhas L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Leone",
-          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "\u00cata N\u00f3is",
-      "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1163,6 +1123,70 @@
     {
       "added_at": "2026-06-26 03:00:54",
       "album": {
+        "name": "Minhas L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5LZNgDg54E3iLePRlw7fxC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Leone",
+          "url": "https://open.spotify.com/artist/5OSnDersfRNsStPWnyuOKN"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "\u00cata N\u00f3is",
+      "url": "https://open.spotify.com/track/41uHXUQewtLYIV8dANlnzo"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "Vamos Combinar",
+        "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Patricia Alv\u00ed",
+          "url": "https://open.spotify.com/artist/5WGPMslRfLABPYtX32IAkb"
+        }
+      ],
+      "duration_ms": 216592,
+      "name": "Vamos Combinar",
+      "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
         "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
@@ -1175,26 +1199,6 @@
       "duration_ms": 247847,
       "name": "Onde Deus possa me ouvir - Ao vivo",
       "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Pra Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        },
-        {
-          "name": "Dudu Nobre",
-          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "Pra Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1215,6 +1219,26 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2026-06-26 03:00:54",
+      "album": {
+        "name": "Pra Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5QbY2a6b6lz0FWKC1PgGHF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "Pra Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/6i1snIJdkuNuqsBOBu0qAO"
     },
     {
       "added_at": "2026-06-26 03:00:54",
@@ -1311,30 +1335,6 @@
       "duration_ms": 189019,
       "name": "Fealh\u00e1",
       "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
-    },
-    {
-      "added_at": "2026-06-26 03:00:54",
-      "album": {
-        "name": "Vamos Combinar",
-        "url": "https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "Patricia Alv\u00ed",
-          "url": "https://open.spotify.com/artist/5WGPMslRfLABPYtX32IAkb"
-        }
-      ],
-      "duration_ms": 216592,
-      "name": "Vamos Combinar",
-      "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"
     },
     {
       "added_at": "2026-06-26 03:00:54",

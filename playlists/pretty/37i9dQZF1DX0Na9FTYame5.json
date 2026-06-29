@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 573344,
+  "num_followers": 573304,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Fahrt ins Blaue",
+        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 172023,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Aymo (Deluxe Version)",
         "url": "https://open.spotify.com/album/3dTwjMhmC9PGR19l4G4d5T"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 149326,
       "name": "Alles ist geschrieben",
       "url": "https://open.spotify.com/track/1OnUCZlFa0C21KmI7CGeuV"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Fahrt ins Blaue",
-        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "F\u00fcr immer",
-      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "nur f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "nur f\u00fcr dich",
-      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Mach die Augen auf",
         "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "6 Kugeln",
-        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+        "name": "nur f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
         }
       ],
-      "duration_ms": 184877,
-      "name": "6 Kugeln",
-      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
+      "duration_ms": 147692,
+      "name": "nur f\u00fcr dich",
+      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -907,6 +891,22 @@
       "duration_ms": 140235,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "6 Kugeln",
+        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 184877,
+      "name": "6 Kugeln",
+      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Benzin",
-        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
-      },
-      "artists": [
-        {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
-        }
-      ],
-      "duration_ms": 156617,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -967,6 +951,38 @@
       "duration_ms": 131773,
       "name": "wie du manchmal fehlst",
       "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Benzin",
+        "url": "https://open.spotify.com/album/3PBuFvcyS2PPcOPc17P0AT"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 156617,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/3BjFI5GwXcgZHtW0n9bdrZ"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1003,22 +1019,6 @@
       "duration_ms": 172857,
       "name": "wegen dir.",
       "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
-      },
-      "artists": [
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Was du nicht siehst (feat. ela.)",
+        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "ela.",
+          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+        }
+      ],
+      "duration_ms": 151704,
+      "name": "Was du nicht siehst (feat. ela.)",
+      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1219,22 +1239,18 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Was du nicht siehst (feat. ela.)",
-        "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
       },
       "artists": [
         {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "ela.",
-          "url": "https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 151704,
-      "name": "Was du nicht siehst (feat. ela.)",
-      "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Wegen dir",
         "url": "https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8"
       },
@@ -1283,26 +1283,6 @@
       "duration_ms": 150880,
       "name": "Wegen dir",
       "url": "https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Ma Shawty",
-        "url": "https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 177159,
-      "name": "Ma Shawty",
-      "url": "https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1323,6 +1303,26 @@
       "duration_ms": 192964,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Ma Shawty",
+        "url": "https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 177159,
+      "name": "Ma Shawty",
+      "url": "https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Wer liebt dich jetzt ?",
+        "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 163831,
+      "name": "Wer liebt dich jetzt ?",
+      "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Fremder Mann",
         "url": "https://open.spotify.com/album/4yURqlXD0uHzw8bvTgemOO"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 163501,
       "name": "Fremder Mann",
       "url": "https://open.spotify.com/track/5Mduvr7sXDbkXh5rBDLBZg"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Wer liebt dich jetzt ?",
-        "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
-      },
-      "artists": [
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        },
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        }
-      ],
-      "duration_ms": 163831,
-      "name": "Wer liebt dich jetzt ?",
-      "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
+        "name": "Breaking your heart",
+        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Breaking your heart",
+      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
         "name": "Therapie",
         "url": "https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Breaking your heart",
-        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 170579,
-      "name": "Breaking your heart",
-      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
         "name": "Mein Type",
         "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
@@ -1687,22 +1687,6 @@
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
-    },
-    {
-      "added_at": "2026-06-11 22:00:53",
-      "album": {
-        "name": "Wenn es regnet",
-        "url": "https://open.spotify.com/album/6z904C0mk8NJa8XSiEu5C0"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 112679,
-      "name": "Wenn es regnet",
-      "url": "https://open.spotify.com/track/5HTzGYpdqc0rZzLiByZC4Q"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1735,6 +1719,22 @@
       "duration_ms": 160448,
       "name": "Was war das",
       "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
+    },
+    {
+      "added_at": "2026-06-11 22:00:53",
+      "album": {
+        "name": "Wenn es regnet",
+        "url": "https://open.spotify.com/album/6z904C0mk8NJa8XSiEu5C0"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "duration_ms": 112679,
+      "name": "Wenn es regnet",
+      "url": "https://open.spotify.com/track/5HTzGYpdqc0rZzLiByZC4Q"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1775,22 +1775,18 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "WAS ICH BIN",
-        "url": "https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt"
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
       },
       "artists": [
         {
-          "name": "FAYAN",
-          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
-        },
-        {
-          "name": "Dalton",
-          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 129023,
-      "name": "WAS ICH BIN",
-      "url": "https://open.spotify.com/track/7syy0KIJDEXson69rGXK35"
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "added_at": "2026-06-11 22:00:53",
@@ -1827,18 +1823,22 @@
     {
       "added_at": "2026-06-11 22:00:53",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+        "name": "WAS ICH BIN",
+        "url": "https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
         }
       ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
+      "duration_ms": 129023,
+      "name": "WAS ICH BIN",
+      "url": "https://open.spotify.com/track/7syy0KIJDEXson69rGXK35"
     },
     {
       "added_at": "2026-06-11 22:00:53",

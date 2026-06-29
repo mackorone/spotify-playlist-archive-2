@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,540 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,546 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 42 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
 | 43 | [River Boy](https://open.spotify.com/track/3YeWaNZYh3SMEmRaGC0Ou9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Shane Howard](https://open.spotify.com/artist/5tsrQhSZ8itdWGtjNWW6f3) | [Borrowed & Blue](https://open.spotify.com/album/2Cs7Ak4mFH1JXIw9Nd3hIn) | 2:51 |
 | 44 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
-| 45 | [9 To 5](https://open.spotify.com/track/7E2jg8Vl3fC0VTDhHLUzWM) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Great Women Of Country And The Songs That Made Them](https://open.spotify.com/album/19n03c8yJe4JBn4z8Jhn6U) | 3:27 |
-| 46 | [Down On The Farm](https://open.spotify.com/track/5ukfBO88Eu4HikT5ZyS0gQ) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD) | [This Road](https://open.spotify.com/album/20NV9L9jQeEHwaUgKVnXIy) | 3:56 |
+| 45 | [Down On The Farm](https://open.spotify.com/track/5ukfBO88Eu4HikT5ZyS0gQ) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD) | [This Road](https://open.spotify.com/album/20NV9L9jQeEHwaUgKVnXIy) | 3:56 |
+| 46 | [9 To 5](https://open.spotify.com/track/7E2jg8Vl3fC0VTDhHLUzWM) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Great Women Of Country And The Songs That Made Them](https://open.spotify.com/album/19n03c8yJe4JBn4z8Jhn6U) | 3:27 |
 | 47 | [A Little More](https://open.spotify.com/track/1MTsJP1zoc3sFiXgrt7uLv) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 3:19 |
 | 48 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
 | 49 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 70 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
 | 71 | [Cuttin' Up B&S Style](https://open.spotify.com/track/2BvMgmJfX93gDxhi3rxAwj) | [Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Long Five Days](https://open.spotify.com/album/3Xn6NYkxkjdXhgHW0WoXH0) | 3:40 |
 | 72 | [My Hometown](https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' Up Dust](https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW) | 3:47 |
-| 73 | [The Old Man's Shed](https://open.spotify.com/track/4AO6CLJLKnnwRvboYbml8d) | [Luke O'Shea](https://open.spotify.com/artist/0dbEViC4sUSUz7GKiTs1oq) | [Caught Up In The Dreaming](https://open.spotify.com/album/2bfSXa7gggpmK1LHzAFW3R) | 4:04 |
+| 73 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 74 | [Let The Canefields Burn](https://open.spotify.com/track/7jEIw0bDHTL17fQjaBOLwI) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 5:06 |
-| 75 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
+| 75 | [The Old Man's Shed](https://open.spotify.com/track/4AO6CLJLKnnwRvboYbml8d) | [Luke O'Shea](https://open.spotify.com/artist/0dbEViC4sUSUz7GKiTs1oq) | [Caught Up In The Dreaming](https://open.spotify.com/album/2bfSXa7gggpmK1LHzAFW3R) | 4:04 |
 | 76 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
 | 77 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
-| 78 | [Porch Party](https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Jasmine Rae](https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm), [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Porch Party](https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c) | 3:21 |
+| 78 | [Party Down Under](https://open.spotify.com/track/4iGD8yuJdjFSmq59g8Jbry) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/261v3tccJPEZIIbjoQ1gDQ) | 3:17 |
 | 79 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
-| 80 | [Party Down Under](https://open.spotify.com/track/4iGD8yuJdjFSmq59g8Jbry) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/261v3tccJPEZIIbjoQ1gDQ) | 3:17 |
+| 80 | [Porch Party](https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Jasmine Rae](https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm), [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Porch Party](https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c) | 3:21 |
 
 Snapshot ID: `AAAAADv4hfVYkiNxMobq3UPG6tf0FlpV`

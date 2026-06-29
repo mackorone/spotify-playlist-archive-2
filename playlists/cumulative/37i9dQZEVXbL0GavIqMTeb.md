@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,671 songs - 3 day 20 hr 24 min
+1,672 songs - 3 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-06-12 | 2024-02-29 |
 | [Las Flores de Tu Florero](https://open.spotify.com/track/4uO0NyK4WLuzfTGzc49X3x) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 2:54 | 2023-09-19 | 2025-09-23 |
 | [Las Jordan](https://open.spotify.com/track/0h1KYEHUbMRGJ5ubNubD3m) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:05 | 2022-11-25 | 2022-11-27 |
+| [Las mas bonitas son p\#tas](https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las mas bonitas son p\#tas](https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO) | 2:39 | 2026-06-28 |  |
 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 | 2021-09-05 | 2022-03-06 |
 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 | 2022-01-02 | 2023-01-04 |
 | [Las Seis](https://open.spotify.com/track/5P4x4EudedNw0wvwBzDqaA) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Éxitos Chilenos](https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw) | 2:55 | 2026-01-02 | 2026-01-04 |
@@ -1620,7 +1621,7 @@
 | [Whyme?](https://open.spotify.com/track/1EQS03IcXvp738j0S4rEfO) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 3:29 | 2025-06-13 | 2025-06-15 |
 | [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 | 2025-10-04 | 2025-10-06 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2024-12-26 | 2024-12-28 |
-| [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 | 2026-02-24 |  |
+| [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 | 2026-02-24 | 2026-06-29 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-07 | 2021-10-11 |
 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 | 2025-10-04 | 2025-10-06 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/4Yip3hds5IHyT7AqoNHfmX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:19 | 2021-09-15 | 2021-09-19 |

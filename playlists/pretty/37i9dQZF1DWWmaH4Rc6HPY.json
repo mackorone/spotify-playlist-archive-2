@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38858,
+  "num_followers": 38864,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "p0rn0graf\u00eda",
-        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "p0rn0graf\u00eda",
-      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Me has invitado a bailar",
         "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "p0rn0graf\u00eda",
+        "url": "https://open.spotify.com/album/0idPbkIpizDVUh7zaStsqO"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "p0rn0graf\u00eda",
+      "url": "https://open.spotify.com/track/6UXp7VqbOKZx4THlEMhgg4"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Mentiras Arriesgadas",
-        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Mentiras Arriesgadas",
-      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Antes Que Me Vaya",
         "url": "https://open.spotify.com/album/6WavcUIxvGNdxrF6ify2xQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 206000,
       "name": "Antes Que Me Vaya",
       "url": "https://open.spotify.com/track/1QAhBJKdPM569bXLy8jO4I"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Mentiras Arriesgadas",
+        "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Mentiras Arriesgadas",
+      "url": "https://open.spotify.com/track/30fg5jzLCAPTrCbBurBA41"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Coraz\u00f3n hinchado",
-        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 179040,
-      "name": "Coraz\u00f3n hinchado",
-      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 341600,
       "name": "Rayo de Luz",
       "url": "https://open.spotify.com/track/5f6NAUO04clfZMGEHh1ohC"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Coraz\u00f3n hinchado",
+        "url": "https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "Coraz\u00f3n hinchado",
+      "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Vidrio por Doquier",
         "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Los mejores a\u00f1os de nuestra vida",
-        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 257488,
-      "name": "Los mejores a\u00f1os de nuestra vida",
-      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "MARIPOSA TECKNICOLOR",
         "url": "https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 180960,
       "name": "MARIPOSA TECKNICOLOR",
       "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Los mejores a\u00f1os de nuestra vida",
+        "url": "https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "Los mejores a\u00f1os de nuestra vida",
+      "url": "https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "ESO Que Nos Trajo a Abbey Road",
-        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
       },
       "artists": [
         {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 198051,
-      "name": "Memoria Muscular - Desde Abbey Road",
-      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1147,6 +1131,22 @@
       "duration_ms": 167943,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "ESO Que Nos Trajo a Abbey Road",
+        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 198051,
+      "name": "Memoria Muscular - Desde Abbey Road",
+      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-05-22 06:00:30",

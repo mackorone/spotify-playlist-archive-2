@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14677,
+  "num_followers": 14678,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABVaLti7EKW6Lia+LZm8916",
+  "snapshot_id": "aj8SgAAAAAAra+RQ8Tp0fzjsYg56xyGg",
   "tracks": [
     {
       "added_at": null,
@@ -679,26 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
       },
       "artists": [
         {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 195555,
-      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -723,22 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
       "artists": [
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
+      "duration_ms": 195555,
+      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
@@ -951,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
       "artists": [
         {
@@ -960,9 +976,9 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": null,
@@ -987,22 +1003,6 @@
       "duration_ms": 172577,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": null,

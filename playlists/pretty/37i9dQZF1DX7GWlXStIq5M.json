@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Linn da Quebrada",
-  "num_followers": 360710,
+  "num_followers": 360680,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
         "name": "Ver\u00e3071",
         "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
       },
@@ -535,6 +551,22 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
+        "name": "N\u00e3o Solta Minha M\u00e3o",
+        "url": "https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA"
+      },
+      "artists": [
+        {
+          "name": "Dawid",
+          "url": "https://open.spotify.com/artist/6yPULMo0iyCHRTSZmXmsjp"
+        }
+      ],
+      "duration_ms": 188556,
+      "name": "N\u00e3o Solta Minha M\u00e3o",
+      "url": "https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
         "name": "Fim Do Mundo",
         "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
       },
@@ -559,38 +591,6 @@
       "duration_ms": 148571,
       "name": "Fim Do Mundo",
       "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "N\u00e3o Solta Minha M\u00e3o",
-        "url": "https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA"
-      },
-      "artists": [
-        {
-          "name": "Dawid",
-          "url": "https://open.spotify.com/artist/6yPULMo0iyCHRTSZmXmsjp"
-        }
-      ],
-      "duration_ms": 188556,
-      "name": "N\u00e3o Solta Minha M\u00e3o",
-      "url": "https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
+        "name": "Vida de Rei, Vida de C\u00e3o",
+        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "Vida de Rei, Vida de C\u00e3o",
+      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -663,6 +679,42 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
+      },
+      "artists": [
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -695,22 +747,6 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
         "name": "Cada Linha",
         "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
       },
@@ -727,26 +763,6 @@
       "duration_ms": 162339,
       "name": "Cada Linha",
       "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
-      },
-      "artists": [
-        {
-          "name": "Celo Dut",
-          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
-        "name": "Vida de Rei, Vida de C\u00e3o",
-        "url": "https://open.spotify.com/album/5sS3K5dt9ZImnBB0J2xAFf"
+        "name": "Eu N\u00e3o Te Amo",
+        "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
         }
       ],
-      "duration_ms": 164812,
-      "name": "Vida de Rei, Vida de C\u00e3o",
-      "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
+      "duration_ms": 192857,
+      "name": "Eu N\u00e3o Te Amo",
+      "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -823,18 +839,18 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
-        "name": "Eu N\u00e3o Te Amo",
-        "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
       },
       "artists": [
         {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
         }
       ],
-      "duration_ms": 192857,
-      "name": "Eu N\u00e3o Te Amo",
-      "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -879,6 +895,22 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
+        "name": "carne fraca",
+        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "carne fraca",
+      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
         "name": "Ressaca da Saudade",
         "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
       },
@@ -899,38 +931,6 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "carne fraca",
-        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "carne fraca",
-      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
         "name": "Agarradinho - Spotify Singles",
         "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 164494,
       "name": "Agarradinho - Spotify Singles",
       "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -983,6 +967,22 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
         "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
         "url": "https://open.spotify.com/album/0d7XWCHJkT3aPtVt1BLDKS"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 174250,
       "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
       "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
+        "name": "Emocionalmente Indispon\u00edvel",
+        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Emocionalmente Indispon\u00edvel",
+      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -1099,6 +1115,22 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
+        "name": "Tento",
+        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Tento",
+      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1119,38 +1151,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "Tento",
-        "url": "https://open.spotify.com/album/6f5e19cpdZMwtaEB5KdwW3"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Tento",
-      "url": "https://open.spotify.com/track/6gD3Vj0wlOoX5Fdt07PR9g"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
-        "name": "Emocionalmente Indispon\u00edvel",
-        "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Emocionalmente Indispon\u00edvel",
-      "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
     },
     {
       "added_at": "2026-06-26 03:00:33",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-06-26 03:00:33",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        }
-      ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
-    },
-    {
-      "added_at": "2026-06-26 03:00:33",
-      "album": {
         "name": "Dias de Mar",
         "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 162206,
       "name": "Dias de Mar",
       "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
+    },
+    {
+      "added_at": "2026-06-26 03:00:33",
+      "album": {
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        }
+      ],
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-06-26 03:00:33",

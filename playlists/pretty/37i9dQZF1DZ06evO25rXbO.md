@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,980 likes - 47 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,112 likes - 47 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 46 | [Kansas](https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:08 |
 | 47 | [Magic City](https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:59 |
 
-Snapshot ID: `aj3BAAAAAAB7VWcNlpSSrQab7zZNic7E`
+Snapshot ID: `aj8SgAAAAAATPhRFwl8b/+XmQsN9mBNm`

@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 741472,
+  "num_followers": 741575,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -879,18 +879,22 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+        "name": "Love Songs (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
       },
       "artists": [
         {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
         }
       ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+      "duration_ms": 198425,
+      "name": "Love Songs (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -915,22 +919,18 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "Love Songs (feat. Kosmo Kint)",
-        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         }
       ],
-      "duration_ms": 198425,
-      "name": "Love Songs (feat. Kosmo Kint)",
-      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Emorio",
         "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 163840,
       "name": "Emorio",
       "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1591,6 +1591,26 @@
       "duration_ms": 175208,
       "name": "A Little Closer",
       "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1635,26 +1655,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "The Wanderings Of The Avener",
-        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        },
-        {
-          "name": "Phoebe Killdeer",
-          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Fade Out Lines - The Avener Rework",
-      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "The Cruelest Summer",
         "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -1739,6 +1719,26 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -1755,6 +1755,30 @@
       "duration_ms": 286879,
       "name": "Could You Be Loved (with LP Giobbi)",
       "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
+        "name": "The Best Part",
+        "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "gardenstate",
+          "url": "https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -1807,30 +1831,6 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
-        "name": "The Best Part",
-        "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
-      },
-      "artists": [
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        },
-        {
-          "name": "gardenstate",
-          "url": "https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "The Best Part",
-      "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
     },
     {
       "added_at": "2026-04-24 04:00:43",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2026-04-24 04:00:43",
       "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "added_at": "2026-04-24 04:00:43",
+      "album": {
         "name": "Forever And A Day",
         "url": "https://open.spotify.com/album/36WARq51pYeQO75a2YNjaj"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 166230,
       "name": "Forever And A Day",
       "url": "https://open.spotify.com/track/5o1mS67lEoLCeFobGIaNb2"
-    },
-    {
-      "added_at": "2026-04-24 04:00:43",
-      "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2026-04-24 04:00:43",

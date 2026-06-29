@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 417993,
+  "num_followers": 417983,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 369116,
+      "name": "butter",
+      "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 369116,
-      "name": "butter",
-      "url": "https://open.spotify.com/track/7sliU9EeA9R6PbQA0uPj17"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 248661,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Loving You Is Lonely",
-        "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
-      },
-      "artists": [
-        {
-          "name": "Harmony Byrne",
-          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Loving You Is Lonely",
-      "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Solid Heart",
         "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Loving You Is Lonely",
+        "url": "https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ"
+      },
+      "artists": [
+        {
+          "name": "Harmony Byrne",
+          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Loving You Is Lonely",
+      "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1927,6 +1927,30 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "We Cannot Resist",
+        "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
+      },
+      "artists": [
+        {
+          "name": "LUMP",
+          "url": "https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        },
+        {
+          "name": "Mike Lindsay",
+          "url": "https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "We Cannot Resist - Edit",
+      "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "On the Outside",
         "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 287693,
       "name": "Third Way",
       "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "We Cannot Resist",
-        "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
-      },
-      "artists": [
-        {
-          "name": "LUMP",
-          "url": "https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI"
-        },
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        },
-        {
-          "name": "Mike Lindsay",
-          "url": "https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "We Cannot Resist - Edit",
-      "url": "https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 266961,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Ignorance (Deluxe Version)",
         "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 173008,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "duration_ms": 266961,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2311,6 +2311,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb"
+      },
+      "artists": [
+        {
+          "name": "Scott Hirsch",
+          "url": "https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT"
+        },
+        {
+          "name": "Kelly McFarling",
+          "url": "https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr"
+        }
+      ],
+      "duration_ms": 294974,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Buzz The Leaf",
         "url": "https://open.spotify.com/album/3bkZxrc6DGqLh5soumIC2b"
       },
@@ -2335,26 +2355,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb"
-      },
-      "artists": [
-        {
-          "name": "Scott Hirsch",
-          "url": "https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT"
-        },
-        {
-          "name": "Kelly McFarling",
-          "url": "https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr"
-        }
-      ],
-      "duration_ms": 294974,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Greatest Weapon / Under The Water",
         "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
       },
@@ -2367,22 +2367,6 @@
       "duration_ms": 174156,
       "name": "Greatest Weapon",
       "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Standing On The Moon",
-        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 299536,
-      "name": "Standing On The Moon",
-      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2407,6 +2391,22 @@
       "duration_ms": 279504,
       "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
       "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Standing On The Moon",
+        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 299536,
+      "name": "Standing On The Moon",
+      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2507,18 +2507,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Baby Roe",
-        "url": "https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G"
+        "name": "Forever Had to End",
+        "url": "https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW"
       },
       "artists": [
         {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Baby Roe",
-      "url": "https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9"
+      "duration_ms": 222560,
+      "name": "Forever Had to End",
+      "url": "https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb"
     }
   ],
   "unique_name": "Modern Eclectic",

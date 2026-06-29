@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 38 min
+84 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Buss It Open \(feat\. Lakeyah\)](https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Distractions](https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe) | 1:45 | 2022-10-28 |  |
 | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC) | [Can't Get Enough \(feat\. BIA, Lakeyah & Flau'jae\)](https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL) | 3:28 | 2024-08-03 |  |
 | [Check \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:52 | 2022-10-28 |  |
-| [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 | 2024-09-20 |  |
+| [Clock It](https://open.spotify.com/track/5efqsqFTk4neSfEQiEBW7d) | [Tae The Don](https://open.spotify.com/artist/5ZGmhUNmNDxC2YSPxl3MR5), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Clock It](https://open.spotify.com/album/1qA052pbq56BWMT92dPi5P) | 3:32 | 2024-09-20 | 2026-06-29 |
 | [Code](https://open.spotify.com/track/2fX6LtKu6I438tuFIaf18z) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:30 | 2025-12-04 | 2025-12-17 |
 | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/track/0CAZQv7S7Y7TGdQiuhF0bR) | [The Real Meladee](https://open.spotify.com/artist/5QgAjPJ1resFH43bMepkZT), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Cold \(feat\. Lakeyah\)](https://open.spotify.com/album/7aytuE5Q9TKFH1RfhXRpBi) | 2:19 | 2025-04-21 | 2026-02-05 |
 | [Don’t Go](https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Don't Go](https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H) | 2:58 | 2022-10-28 |  |
@@ -86,6 +86,7 @@
 | [Upset \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4oXkBI4XCMNIt17XZJTXHB) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:32 | 2024-05-12 | 2025-11-09 |
 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 | 2023-07-08 |  |
 | [WATER \(with Lakeyah\)](https://open.spotify.com/track/364P8zq6aNHvuEH3Io4SIi) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [ETHER](https://open.spotify.com/album/3mirEbkWRb68aRgUGMeZkA) | 3:14 | 2024-10-20 |  |
+| [What I Do To You](https://open.spotify.com/track/6nlmmqWZEea4ALWSaG9mTX) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [SEVEN77](https://open.spotify.com/album/6zAQRyUgSpJvjxQ4eYOqUx) | 2:34 | 2026-06-29 |  |
 | [Windows](https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 3:19 | 2022-10-28 |  |
 | [Worst Thing](https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:27 | 2022-10-28 |  |
 | [Worth The Wait \(feat\. Lucky Daye\)](https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:58 | 2022-10-28 |  |

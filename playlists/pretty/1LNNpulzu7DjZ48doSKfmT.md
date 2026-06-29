@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 459 songs - 23 hr 10 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 470 songs - 23 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -467,5 +467,16 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 457 | [Counter](https://open.spotify.com/track/1bJ09k6Kcow4JeVT91ZDNd) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Counter](https://open.spotify.com/album/1swYxO419De2UGj1DjMIQu) | 3:23 |
 | 458 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 |
 | 459 | [Shining](https://open.spotify.com/track/6w0jaLazYD5Z1zvCdWap0n) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [KxP](https://open.spotify.com/artist/0Wx0lZfQ1EQfTxxgI1mt7i), [Thundason](https://open.spotify.com/artist/2rI1l3PrvcjkXU4JbwTTp8), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Shining](https://open.spotify.com/album/76Yra4Sz3dbnzRMFWhV2uV) | 2:57 |
+| 460 | [Never Trust](https://open.spotify.com/track/3j719lCUGy5q2CneBVWXpR) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw), [Telli](https://open.spotify.com/artist/3R59KPZG5yDOEz49tgoyps) | [Never Trust](https://open.spotify.com/album/0TRQ8GMqOQGqOs65ZzgChF) | 4:44 |
+| 461 | [The Morning](https://open.spotify.com/track/6AvJQ7MB7BwSr7ZoTkHYf4) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Morning](https://open.spotify.com/album/5wxzMqAHFsxQ4K1h1bWJxW) | 3:05 |
+| 462 | [Dying](https://open.spotify.com/track/0FkhYFMPcCiEr9yvVi3aH9) | [ImPrinceway](https://open.spotify.com/artist/3crDCPT1UMUgvePaUxITKk) | [Dying](https://open.spotify.com/album/020mxRcK9bePLdB0Rr2PxJ) | 3:00 |
+| 463 | [Old Enough](https://open.spotify.com/track/72Fx8gY38Wr9XxETrPEvKd) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Old Enough](https://open.spotify.com/album/7b6P1hUrUxbPTOXU4E7EkI) | 3:26 |
+| 464 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
+| 465 | [Pink Clouds](https://open.spotify.com/track/4s7kcuELaDX3nUW5eWNUWj) | [exane](https://open.spotify.com/artist/3xiDuqFFBBd87BgYeLFGcl) | [Pink Clouds](https://open.spotify.com/album/59cktSANPpaPP2md2zmtTb) | 3:52 |
+| 466 | [Barcelona](https://open.spotify.com/track/6t5nDKzOtJ8InrJAXcEb5g) | [Sergio de Malaguilla](https://open.spotify.com/artist/7CV6pQSi9tJ8tjcKt8av1D) | [Entre Cuerdas, Vol\. 1](https://open.spotify.com/album/1lleAohAsHtth90hArQlWm) | 2:40 |
+| 467 | [Darkest Days \(Outro\)](https://open.spotify.com/track/3d5BdsEEP9J3RF8ygz2oMh) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [conflicting feelings.](https://open.spotify.com/album/03enDqggstBtYSAZgvygjr) | 1:25 |
+| 468 | [Le corde della vita \- Home Version](https://open.spotify.com/track/54KDE8ObwHuPXbp647z3Bq) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Le corde della vita \(Home Version\)](https://open.spotify.com/album/2YZP47EHiWSjWHe25F82SJ) | 2:25 |
+| 469 | [Planet Nine](https://open.spotify.com/track/6Z2O6kpKGU8dCad66D7y2z) | [The Legendary Ten Seconds](https://open.spotify.com/artist/1tzb1W477F4SZUgdfSUyZ4) | [Sci Fi Hi Fi](https://open.spotify.com/album/4RJoTCP91GPkEkXl3zBvKn) | 2:48 |
+| 470 | [Coming In](https://open.spotify.com/track/0YQTEzdcm679GOdaHSIdNk) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Coming In](https://open.spotify.com/album/0Ki35gQYJkOBKlYUptBtlb) | 2:16 |
 
-Snapshot ID: `AAAcc8gw3UMxxGLY2nlVLA5piqAGa1Ns`
+Snapshot ID: `AAAcfkualh+MAgTMT3qX3j5js5M9ZWDq`

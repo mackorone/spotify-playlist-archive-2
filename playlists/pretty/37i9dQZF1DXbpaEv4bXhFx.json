@@ -523,6 +523,26 @@
     {
       "added_at": "2026-06-22 02:13:30",
       "album": {
+        "name": "Alive with you",
+        "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
+      },
+      "artists": [
+        {
+          "name": "Yel",
+          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
+        },
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Alive with you (feat. SFC.JGR)",
+      "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
+    },
+    {
+      "added_at": "2026-06-22 02:13:30",
+      "album": {
         "name": "My Liberation Notes OST Part 9",
         "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2026-06-22 02:13:30",
-      "album": {
-        "name": "Alive with you",
-        "url": "https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT"
-      },
-      "artists": [
-        {
-          "name": "Yel",
-          "url": "https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15"
-        },
-        {
-          "name": "SFC.JGR",
-          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Alive with you (feat. SFC.JGR)",
-      "url": "https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4"
     },
     {
       "added_at": "2026-06-22 02:13:30",

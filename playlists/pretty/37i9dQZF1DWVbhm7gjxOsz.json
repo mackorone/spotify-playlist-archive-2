@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 135982,
+  "num_followers": 136027,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Show and Tell: The Best of Al Wilson",
+        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "Show and Tell",
+      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Show and Tell: The Best of Al Wilson",
-        "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
+        "name": "Dry Your Eyes",
+        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
       "artists": [
         {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+          "name": "Brenda And The Tabulations",
+          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
         }
       ],
-      "duration_ms": 207986,
-      "name": "Show and Tell",
-      "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+      "duration_ms": 164133,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1031,22 +1047,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Dry Your Eyes",
-        "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
-      },
-      "artists": [
-        {
-          "name": "Brenda And The Tabulations",
-          "url": "https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
     },
     {
       "added_at": "2025-05-23 07:54:59",

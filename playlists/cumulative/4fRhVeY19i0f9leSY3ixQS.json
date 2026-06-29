@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 141160,
       "name": "Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/09V6l1MHQIqEgMWSOOT4j4"
@@ -8839,6 +8839,28 @@
     },
     {
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        },
+        {
+          "name": "Jodie Reid",
+          "url": "https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202482,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/1tB5ECyFdLXRmak9DuCGID"
+    },
+    {
+      "album": {
         "name": "Simulation Defect",
         "url": "https://open.spotify.com/album/79WLLJ1rWMQo6d1FstDnnF"
       },
@@ -9482,7 +9504,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 173283,
       "name": "Flashburn",
       "url": "https://open.spotify.com/track/34KwQboaq5JWZvHCuK1vSJ"
@@ -10552,6 +10574,24 @@
       "duration_ms": 238551,
       "name": "GiftsFromNewGods",
       "url": "https://open.spotify.com/track/2dA8USYU0VETtCIyOaTE7N"
+    },
+    {
+      "album": {
+        "name": "TO ALL THE BOYS & GIRLS I EVER LOVED, Pt. 2",
+        "url": "https://open.spotify.com/album/7ue5AFBamgkBOgE6x0FsuV"
+      },
+      "artists": [
+        {
+          "name": "REIVEN",
+          "url": "https://open.spotify.com/artist/4Fwo4QvaDDRtYMMRX0oIVW"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147645,
+      "name": "GIMENA | cosmic love",
+      "url": "https://open.spotify.com/track/2p8zTRLjcIlgLnGmDR6Uib"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1877008,
+  "num_followers": 1876921,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 332493,
+      "name": "Uno Se Cura",
+      "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "1+1",
         "url": "https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 186047,
       "name": "1+1",
       "url": "https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 332493,
-      "name": "Uno Se Cura",
-      "url": "https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
+    },
+    {
+      "added_at": "2026-05-08 04:03:11",
+      "album": {
         "name": "Para Siempre (Salsa Version)",
         "url": "https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 269720,
       "name": "Para Siempre - Salsa Version",
       "url": "https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1"
-    },
-    {
-      "added_at": "2026-05-08 04:03:11",
-      "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -1763,22 +1763,18 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+        "name": "El Combo del Mundo",
+        "url": "https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5"
       },
       "artists": [
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
+      "duration_ms": 259586,
+      "name": "El Combo del Mundo",
+      "url": "https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7"
     }
   ],
   "unique_name": "Salsa Nation",

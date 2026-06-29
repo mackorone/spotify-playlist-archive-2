@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 403051,
+  "num_followers": 403058,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -151,8 +151,8 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+      "duration_ms": 249573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -235,8 +235,8 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 249573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Graf Zahl",
+        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 332707,
+      "name": "Graf Zahl",
+      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Lovestruck",
         "url": "https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 210500,
       "name": "Lovestruck",
       "url": "https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Graf Zahl",
-        "url": "https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 332707,
-      "name": "Graf Zahl",
-      "url": "https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Carry On (EarthLife Remix)",
         "url": "https://open.spotify.com/album/5jgBumNN6nizRLyRDEqDh4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 218789,
       "name": "Carry On - EarthLife Remix",
       "url": "https://open.spotify.com/track/5u0cZgMKrameRM0UsT1IxF"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Marimba",
-        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
-      },
-      "artists": [
-        {
-          "name": "GHEIST",
-          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Marimba",
-      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Marimba",
+        "url": "https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU"
+      },
+      "artists": [
+        {
+          "name": "GHEIST",
+          "url": "https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Marimba",
+      "url": "https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Les Orangers",
+        "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 402040,
+      "name": "Les Orangers",
+      "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Peg",
         "url": "https://open.spotify.com/album/70lowxiBGWlxk9iI9sEGbg"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 251338,
       "name": "Peg",
       "url": "https://open.spotify.com/track/5aFf1Ubp9V5Ws9p1JIM69V"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Les Orangers",
-        "url": "https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 402040,
-      "name": "Les Orangers",
-      "url": "https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Harlem River / Falling",
         "url": "https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     },
     {
       "added_at": "2024-08-09 18:28:29",

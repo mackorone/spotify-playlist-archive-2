@@ -4,7 +4,7 @@
 
 > This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-80 songs - 3 hr 56 min
+81 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Borracho Y Loco](https://open.spotify.com/track/1BkzHDc7uv9InYduugzhsA) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Soy Mexicano](https://open.spotify.com/album/4YHuwR40MMc4umMlUliQ8E) | 2:28 | 2024-01-29 |  |
 | [Cero A La Izquierda](https://open.spotify.com/track/3CmoQ0OMhcXKHHL1BLCATS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Como Un Huracán](https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9) | 2:53 | 2024-01-29 |  |
 | [Clave Del Acordeon](https://open.spotify.com/track/4TEtjUHvnSdZJT0VZHVSVy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos Pa'l Pueblo](https://open.spotify.com/album/6OuKc55DLFBZ7yiu7ajejO) | 2:37 | 2024-01-29 | 2024-02-17 |
-| [Como Tu No Hay Dos](https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [\#](https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG) | 3:16 | 2024-01-29 |  |
+| [Como Tu No Hay Dos](https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [\#](https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG) | 3:16 | 2024-01-29 | 2026-06-29 |
 | [Como Un Huracán](https://open.spotify.com/track/5U7g6wibwpR1vaRRRz5p3g) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Como Un Huracán](https://open.spotify.com/album/6EJrmuOfreSo4Efuhk0YB9) | 3:09 | 2024-01-29 |  |
 | [Cruz de Madera](https://open.spotify.com/track/0rUlp1E4lApvjaDTR2Wpx6) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Rancheando en la Ciudad con Gerardo Diaz y Los Huracanes del Norte](https://open.spotify.com/album/4wPdFsMPl53RIwosl7psff) | 3:15 | 2026-06-23 |  |
 | [Cruz De Madera](https://open.spotify.com/track/2toJ7xrqoeGas5RLnrifgM) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 2:53 | 2026-02-03 | 2026-06-18 |
@@ -44,6 +44,7 @@
 | [Eres Casado](https://open.spotify.com/track/7mGGGuSNHJsNyVJGk7MbZD) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Pa'l Norte](https://open.spotify.com/album/4mRTjmyvCz4NzsotOUs9u7) | 2:33 | 2024-10-23 | 2025-10-15 |
 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 | 2024-01-29 | 2024-04-29 |
 | [Esta Vez](https://open.spotify.com/track/5Dw2nsqtS2bUoy1UhCTpLq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Perfil](https://open.spotify.com/album/1XMCnii3oHdnBQyZN7w9P7) | 3:10 | 2025-10-15 | 2026-01-15 |
+| [Fue Mentira](https://open.spotify.com/track/6M2C6XWrIzXfMw0fb3g486) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Rancheando en la Ciudad con Gerardo Diaz y Los Huracanes del Norte](https://open.spotify.com/album/4wPdFsMPl53RIwosl7psff) | 3:14 | 2026-06-29 |  |
 | [Fue Mentira](https://open.spotify.com/track/0h6F0CVBmpDI5Cy2xteqRe) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Puro Pa\` Arriba](https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY) | 3:10 | 2024-01-29 |  |
 | [La Cerveza](https://open.spotify.com/track/44VAp77eQR6H9lVc3XRD6U) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Una Explosion Musical](https://open.spotify.com/album/6SbK1jqca43P1lmOhSQivm) | 2:14 | 2026-01-20 |  |
 | [La Clave Del Acordeon](https://open.spotify.com/track/22Pu9bu6NqlFImnCCgW9AT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Grandes Corridos De Pelicula](https://open.spotify.com/album/3gRfS9JkW0Gfw1vqGvnSjr) | 2:36 | 2025-04-18 | 2025-04-25 |

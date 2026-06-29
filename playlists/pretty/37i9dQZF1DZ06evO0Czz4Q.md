@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,732 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,741 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 28 | [The Best Things In Life Are Free \- Classic 7" With Rap](https://open.spotify.com/track/2YPfGRDRBBd48PXIbmlgO4) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL), [Ralph Tresvant](https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt) | [The Best Things In Life Are Free](https://open.spotify.com/album/2Z7vvbwD9rE0sNA7DkcOuG) | 4:23 |
 | 29 | [Better Love](https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:26 |
 | 30 | [Superstar](https://open.spotify.com/track/1xjR98caFMyxOlXkvj56ZK) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Essential Luther Vandross](https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN) | 5:38 |
-| 31 | [The Closer I Get to You \(feat\. Beyoncé Knowles\)](https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 6:25 |
-| 32 | [Hearts Get Broken All The Time \(But The Problem Is, This Time It's Mine\)](https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:19 |
+| 31 | [Hearts Get Broken All The Time \(But The Problem Is, This Time It's Mine\)](https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 5:19 |
+| 32 | [The Closer I Get to You \(feat\. Beyoncé Knowles\)](https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 6:25 |
 | 33 | [Any Love](https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:02 |
 | 34 | [Superstar / Until You Come Back to Me \(That's What I'm Gonna Do\)](https://open.spotify.com/track/6ykYnj6kpUsaUur53jMnhN) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 9:18 |
 | 35 | [Too Proud To Beg](https://open.spotify.com/track/4IBfq7JnxlhUKRd5ecfdY7) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Your Secret Love](https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 49 | [Forever, for Always, for Love](https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:23 |
 | 50 | [The Lady Is A Tramp](https://open.spotify.com/track/0JjVhWJGDKHADulJ8EjVAL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Duets \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya) | 3:24 |
 
-Snapshot ID: `aj3BAAAAAABwmi+ceZmDFSwGA/Y2h8ki`
+Snapshot ID: `aj8SgAAAAADciz3lsaUwO1ifPtx7FYIU`

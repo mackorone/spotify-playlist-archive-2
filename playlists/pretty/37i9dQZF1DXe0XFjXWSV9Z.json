@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 51276,
+  "num_followers": 51286,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Teniente Harina (Cumbia Manifiesto)",
-        "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
-      "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La Cumbia Sampuesana",
         "url": "https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Teniente Harina (Cumbia Manifiesto)",
+        "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
+      "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Echo en Mexico",
         "url": "https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Chimborazo",
-        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Pa\u00f1uelo De Seda",
         "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 183103,
       "name": "Pa\u00f1uelo De Seda",
       "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Chimborazo",
+        "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/0Lo4WKDnkroJqWIECAZcEW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Cumbia Disco Energy",
         "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231875,
       "name": "Tambor Del Monte",
       "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 160067,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Mamarron, Vol.1",
+        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
+      },
+      "artists": [
+        {
+          "name": "Los Cotopla Boyz",
+          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Dame Tu Wasap",
+      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Palermo's Grunch",
         "url": "https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 207000,
       "name": "Porrov\u00eda",
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Mamarron, Vol.1",
-        "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
-      },
-      "artists": [
-        {
-          "name": "Los Cotopla Boyz",
-          "url": "https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Dame Tu Wasap",
-      "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Capricornio: Ven a mi amor",
         "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 170000,
       "name": "Capricornio: Ven a mi amor",
       "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Qu\u00e9malo",
-        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
         }
       ],
-      "duration_ms": 220986,
-      "name": "Qu\u00e9malo",
-      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Virgen de Guadalupe",
-        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
+        "name": "Qu\u00e9malo",
+        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
       },
       "artists": [
         {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 222214,
-      "name": "Virgen de Guadalupe",
-      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
+      "duration_ms": 220986,
+      "name": "Qu\u00e9malo",
+      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
     },
     {
       "added_at": "2025-05-19 17:05:09",

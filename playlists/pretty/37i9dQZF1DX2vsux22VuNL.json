@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Amanda Magalh\u00e3es ",
-  "num_followers": 290530,
+  "num_followers": 290512,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Eita",
-        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 183867,
-      "name": "Eita",
-      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 180032,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
         "name": "insisto em voc\u00ea",
         "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 135420,
       "name": "insisto em voc\u00ea",
       "url": "https://open.spotify.com/track/4M5AWGqnel5UpAOVB4WU9P"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Dona de Si Mesma",
         "url": "https://open.spotify.com/album/5cN7b2kc3rtAuHuKVJWQvY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 148058,
       "name": "Dona de Si Mesma",
       "url": "https://open.spotify.com/track/03DjVfaxXfAcZmOuGetngw"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-06-26 03:00:30",

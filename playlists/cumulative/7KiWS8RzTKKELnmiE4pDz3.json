@@ -3917,6 +3917,28 @@
     },
     {
       "album": {
+        "name": "brand new teeth",
+        "url": "https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267254,
+      "name": "brand new teeth",
+      "url": "https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s"
+    },
+    {
+      "album": {
         "name": "Buhloone Mindstate",
         "url": "https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd"
       },
@@ -18280,6 +18302,24 @@
       "duration_ms": 259143,
       "name": "Objects in the Mirror",
       "url": "https://open.spotify.com/track/64gyqTtDDel7B2NoEkOa0A"
+    },
+    {
+      "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389800,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/55IuRduNVva0DbXiPopZUy"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15829,
+  "num_followers": 15828,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADQqcqQXn/hxFDJphSLJJhO",
+  "snapshot_id": "aj8SgAAAAADZ/JBltyFhxgVBUwi+Mw+R",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 268710,
-      "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 247246,
       "name": "Lindo Presente",
       "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 268710,
+      "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3lZEjmgn9yQsSRWkY6XWRl"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samba Adorador (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
-      },
-      "artists": [
-        {
-          "name": "Waguinho",
-          "url": "https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
-      "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 297679,
       "name": "Vasos Quebrados",
       "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Samba Adorador (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
+      },
+      "artists": [
+        {
+          "name": "Waguinho",
+          "url": "https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
+      "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linda Flor",
-        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 215899,
-      "name": "Linda Flor",
-      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 282447,
       "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
       "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Linda Flor",
+        "url": "https://open.spotify.com/album/0G9k6iDDBTHeqEUXyKnvGT"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 215899,
+      "name": "Linda Flor",
+      "url": "https://open.spotify.com/track/0V6Qq0UJRmB728V0WxK914"
     },
     {
       "added_at": null,
@@ -803,6 +803,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 202060,
+      "name": "Colhendo Frutos",
+      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 271534,
+      "name": "Buscar Tua Face \u00e9 Preciso",
+      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
         "url": "https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj"
       },
@@ -823,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 202060,
-      "name": "Colhendo Frutos",
-      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Nuvem (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 249426,
       "name": "A Nuvem (Ao Vivo)",
       "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 271534,
-      "name": "Buscar Tua Face \u00e9 Preciso",
-      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
     },
     {
       "added_at": null,

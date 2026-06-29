@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 860041,
+  "num_followers": 860244,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABRG7SFl8lmrHQmI1+GgyNN",
+  "snapshot_id": "aj8SgAAAAACAT1ZeB7Nc38X3wHeuDr80",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 211116,
       "name": "Un Bendito D\u00eda",
       "url": "https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Que Seas Muy Feliz",
-      "url": "https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Noche - Clasicos A Mi Manera",
         "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 198480,
       "name": "No",
       "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Que Seas Muy Feliz",
+      "url": "https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piel De Ni\u00f1a",
+        "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 125200,
+      "name": "Cascos Ligeros",
+      "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 222226,
       "name": "M\u00e1s No Puedo",
       "url": "https://open.spotify.com/track/68teZcAANkNhea13y7GqDP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piel De Ni\u00f1a",
-        "url": "https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 125200,
-      "name": "Cascos Ligeros",
-      "url": "https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "Es la Mujer",
-      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompiendo Fronteras",
         "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 157200,
       "name": "Quiero Que Vuelvas",
       "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "Es la Mujer",
+      "url": "https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey",
-        "url": "https://open.spotify.com/album/5aBOOr0nJ4adxwlM97Btiv"
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
       },
       "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 149333,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/16yhVOnRqwCfMBzD52pkeF"
+      "duration_ms": 198466,
+      "name": "Cuando Digo Tu Nombre (Mejor)",
+      "url": "https://open.spotify.com/track/5BmnwbpelhqAzcIhHxUJY2"
     }
   ],
   "unique_name": "This Is Alejandro Fern\u00e1ndez",

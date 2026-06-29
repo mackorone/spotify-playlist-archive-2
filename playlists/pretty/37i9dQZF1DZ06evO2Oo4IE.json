@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190316,
+  "num_followers": 190326,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACSRdlqZJ5qDDyu3bbY+f/a",
+  "snapshot_id": "aj8SgAAAAABz/5JmmFH7lS6Tw+7ekDpq",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell Song",
-        "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 184266,
-      "name": "One Night Stand",
-      "url": "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
+      "duration_ms": 295059,
+      "name": "I Need a Man to Love",
+      "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
     },
     {
       "added_at": null,
@@ -203,22 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Farewell Song",
+        "url": "https://open.spotify.com/album/19hplTy1akI7ypHeZnXx00"
       },
       "artists": [
         {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 295059,
-      "name": "I Need a Man to Love",
-      "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
+      "duration_ms": 184266,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2g4zxggyax2ABxVM4jRF39"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin Live At Winterland '68",
-        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
-      },
-      "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
-      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Janis Joplin",
         "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
       },
@@ -707,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Janis Joplin Live At Winterland '68",
+        "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
+      "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takes To The Sky (Live 1968)",
         "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 77618,
       "name": "Tuning & Talk, Pt.2 - Live",
       "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 234366,
       "name": "Long Black Train",
       "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 398066,
+      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 237559,
       "name": "Hesitation Blues",
       "url": "https://open.spotify.com/track/58k1qXar0SYC8yb6nHAxsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 398066,
-      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 200205,
-      "name": "Nobody Knows You When You're Down and Out",
-      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steve Mann: Alive And Pickin'",
         "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 187413,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 200205,
+      "name": "Nobody Knows You When You're Down and Out",
+      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
     }
   ],
   "unique_name": "This Is Janis Joplin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Las Marías en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,277 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,297 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 39 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 40 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
 | 41 | [Pago Por Ver](https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Pago Por Ver](https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc) | 3:02 |
-| 42 | [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 |
-| 43 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
+| 42 | [somos peligro](https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [somos peligro](https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ) | 2:59 |
+| 43 | [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 |
 | 44 | [Retumbando En El Cora](https://open.spotify.com/track/59IbXNL246o9YZC3EM4app) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Retumbando En El Cora](https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP) | 2:10 |
 | 45 | [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 |
 | 46 | [Que Siga Pasando](https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Que Siga Pasando](https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p) | 3:10 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 71 | [Tantito Más](https://open.spotify.com/track/5VIL3joFih2E9JPkkJjc4N) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Tantito Más](https://open.spotify.com/album/6EAknp3xM8YjeQFjnWVDUc) | 3:09 |
 | 72 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 |
 | 73 | [¿Por Qué No Vienes?](https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY) | [Vicky Terrazas](https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG) | [¿Por Qué No Vienes?](https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm) | 3:35 |
-| 74 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
-| 75 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
+| 74 | [Te pareces a mi ex](https://open.spotify.com/track/3VJDWbSHJvHQV7sWUhqNCI) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Te pareces a mi ex](https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW) | 2:30 |
+| 75 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 |
 | 76 | [Mucha Mujer](https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2) | [Herly RG](https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt) | [Mucha Mujer](https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz) | 2:36 |
 | 77 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
 | 78 | [Yo Ni Te Topo](https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Yo Ni Te Topo](https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj) | 2:38 |

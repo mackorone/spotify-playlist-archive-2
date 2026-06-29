@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,088 likes - 313 songs - 18 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089 likes - 313 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 55 | [NC\-17](https://open.spotify.com/track/6BJbOXDlgVAXSaq6wYFYT2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:36 |
 | 56 | [The Language](https://open.spotify.com/track/5dHpbFmZjWucrol0M7aNGU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 3:44 |
 | 57 | [No Tellin'](https://open.spotify.com/track/2durxb17bXcmQJHSt8JAdO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:10 |
-| 58 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
-| 59 | [The Beach](https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:25 |
+| 58 | [The Beach](https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:25 |
+| 59 | [Believe Me](https://open.spotify.com/track/6t2eIONH4Sax3R21QWiKNp) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Believe Me](https://open.spotify.com/album/7pnplSgRtopeTNyCxBJf4n) | 5:37 |
 | 60 | [WIN](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:35 |
 | 61 | [SKITZO \(feat\. Young Thug\)](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 |
 | 62 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 |
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 135 | [PARANOID](https://open.spotify.com/track/1To4zdRrEQsWw7KVzwuyY4) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE \(DELUXE\)](https://open.spotify.com/album/5Vmz3pIxG7Dsx7fzHgtyJB) | 3:01 |
 | 136 | [Draft Day](https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:26 |
 | 137 | [Psychopath Killer](https://open.spotify.com/track/41waH7ObCldjMZ90i6HY3A) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:19 |
-| 138 | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/track/4XrKWBHDm587nYp6Io33oo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/album/6euw4OOlKt20SAPSz4xKhY) | 4:29 |
-| 139 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
+| 138 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
+| 139 | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/track/4XrKWBHDm587nYp6Io33oo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/album/6euw4OOlKt20SAPSz4xKhY) | 4:29 |
 | 140 | [This is My Time](https://open.spotify.com/track/0NuO1kL7vrWOX8P63qsCsb) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [This is My Time](https://open.spotify.com/album/6nJWaWQT89YyRS9juVAvO0) | 2:15 |
 | 141 | [Unholy Matrimony](https://open.spotify.com/track/1nTNZgKeqm4ODmIVL07nxe) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 |
 | 142 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 312 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 313 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcVX5gAAAAADkzlFRZDFRFKgumMB+g0D`
+Snapshot ID: `AcVdhgAAAAB5FyV6Ezgdz674rUD6lCaY`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Message From Your CEO",
+        "url": "https://open.spotify.com/album/0fmz9MTlaq5jnQOaDrDP7N"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179728,
+      "name": "A Message From Your CEO",
+      "url": "https://open.spotify.com/track/3lKx37ScGCP5bmFRbXYnHU"
+    },
+    {
+      "album": {
         "name": "A Table Reserved",
         "url": "https://open.spotify.com/album/3iAIcPD14LzkMTXdOzZUTW"
       },
@@ -3606,6 +3624,24 @@
       "duration_ms": 215340,
       "name": "My Friend Slim",
       "url": "https://open.spotify.com/track/2APYbWnkaxWs9psqqGeU6H"
+    },
+    {
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/1bMDCSdzHHfO9z0qkHZKpw"
+      },
+      "artists": [
+        {
+          "name": "Hickory",
+          "url": "https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250624,
+      "name": "My Second City",
+      "url": "https://open.spotify.com/track/6JQWtSGeYlM3Op0AxmlWrl"
     },
     {
       "album": {

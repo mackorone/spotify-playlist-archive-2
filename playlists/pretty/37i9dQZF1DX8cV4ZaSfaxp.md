@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,497 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,507 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 60 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 |
 | 61 | [Lonely Night](https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1) | [JuJu Secret](https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9) | [Lonely Night](https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg) | 3:14 |
 | 62 | [5min to heartbreak](https://open.spotify.com/track/7Ei4gfGU4wrXLTw2xcBcYw) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [5min to heartbreak](https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa) | 3:20 |
-| 63 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 |
-| 64 | [Glimmers](https://open.spotify.com/track/46w28mpfJkCHaybepEd3Eb) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [New Edition 72](https://open.spotify.com/album/380DJfrIbF1vhKHSbtasEN) | 3:46 |
+| 63 | [Glimmers](https://open.spotify.com/track/46w28mpfJkCHaybepEd3Eb) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [New Edition 72](https://open.spotify.com/album/380DJfrIbF1vhKHSbtasEN) | 3:46 |
+| 64 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 |
 | 65 | [TENNIS](https://open.spotify.com/track/4RG7gGJjxonz2xN63JjKrH) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/43toiDnPej9XfkfNB821JD) | 4:34 |
 | 66 | [Beautiful Night](https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:39 |
 | 67 | [Once again, With you](https://open.spotify.com/track/31zBA8IjlBAcO261hgEtcV) | [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [Typhoon Family, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3t10HzKUKgOls7N5MRKgv0) | 3:34 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 77 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
 | 78 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
 | 79 | [Line](https://open.spotify.com/track/5nzNROKcMSGmtTsVHIg5tc) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Lonely](https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603) | 3:54 |
-| 80 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 |
-| 81 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
+| 80 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
+| 81 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 |
 | 82 | [Good Luck](https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Good Luck](https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR) | 3:40 |
 | 83 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 84 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 92 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
 | 93 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 |
 | 94 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
-| 95 | [Just The Two of Us \(feat\. Jinbo\)](https://open.spotify.com/track/6HyBiexwqyNzDAJ72azjKo) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [nokdu ep vol.1](https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v) | 3:39 |
-| 96 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
+| 95 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
+| 96 | [Just The Two of Us \(feat\. Jinbo\)](https://open.spotify.com/track/6HyBiexwqyNzDAJ72azjKo) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [nokdu ep vol.1](https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v) | 3:39 |
 | 97 | [little bottle](https://open.spotify.com/track/57JNiMOIMmfL17DzFhjy92) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO), [다연](https://open.spotify.com/artist/6uCg1kEMbaB0Wtm9iZ80kc) | [little bottle](https://open.spotify.com/album/3l6ZNtQCx5QKFUv9PbuL9F) | 3:23 |
 | 98 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 |
 | 99 | [1,2,3,4 \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1,2,3,4](https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK) | 3:03 |
-| 100 | [Dressroom](https://open.spotify.com/track/1HckzcwOyGXrnc5QeuY54q) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Anda](https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4) | [Do Worry Be Happy](https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ) | 4:42 |
+| 100 | [그대 Hello](https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [어린왕자 The Little Prince \- The 1st Mini Album](https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z) | 3:21 |
 
 Snapshot ID: `AAAAAPfKMN3DZ+/Tj7B3j1V83msI1wAU`

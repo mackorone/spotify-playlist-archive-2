@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Relive False Idols at Drumsheds 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,771 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,770 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 22 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 23 | [thicc](https://open.spotify.com/track/6KiMTXhMNHO05AzOV6W7ir) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy](https://open.spotify.com/album/7q7aNUQEh4cY2JfuylF21F) | 3:42 |
 | 24 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
-| 25 | [DRIFT](https://open.spotify.com/track/282JGp6fPFIeQ3df3UZBRv) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FEVER DREAM](https://open.spotify.com/album/6zCFqTY0LZhNzf4sCdAQR1) | 2:51 |
-| 26 | [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 |
+| 25 | [Count On My Love](https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Daniel Wilson](https://open.spotify.com/artist/0LHsUOtcrTFzM7YJ7HoZUv), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Count On My Love](https://open.spotify.com/album/5RZ9EztjAiggK1wcVqdRgs) | 5:56 |
+| 26 | [DRIFT](https://open.spotify.com/track/282JGp6fPFIeQ3df3UZBRv) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [FEVER DREAM](https://open.spotify.com/album/6zCFqTY0LZhNzf4sCdAQR1) | 2:51 |
 | 27 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 |
 | 28 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 29 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ) | 2:06 |
 | 30 | [All I Need](https://open.spotify.com/track/6TDatI1isX5XlhT1QQ8kO6) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Michelle Manetti](https://open.spotify.com/artist/5LcNSaw8X9bRD2r0GU3DyI) | [All I Need](https://open.spotify.com/album/1wywTRTdBa44D3fDwS8yyR) | 4:12 |
-| 31 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
-| 32 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
+| 31 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
+| 32 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
 | 33 | [Affirmations](https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:34 |
 | 34 | [Poison \- Club Shy mix](https://open.spotify.com/track/5RJNdm66nI9xUVr3A1g48B) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 3:35 |
 | 35 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 |

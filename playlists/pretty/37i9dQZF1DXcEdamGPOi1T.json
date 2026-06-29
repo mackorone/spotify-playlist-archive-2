@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20283,
+  "num_followers": 20288,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
-    },
-    {
-      "added_at": "2026-06-26 04:03:07",
-      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
       "added_at": "2026-06-26 04:03:07",
@@ -727,22 +727,18 @@
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
-        "name": "melodrama",
-        "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
       },
       "artists": [
         {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        },
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 176213,
-      "name": "melodrama",
-      "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
+      "duration_ms": 131563,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
     },
     {
       "added_at": "2026-06-26 04:03:07",
@@ -763,18 +759,22 @@
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw"
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
         }
       ],
-      "duration_ms": 131563,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"
+      "duration_ms": 176213,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
       "added_at": "2026-06-26 04:03:07",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
-        "name": "Hit Sale",
-        "url": "https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez"
-      },
-      "artists": [
-        {
-          "name": "Therapie TAXI",
-          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
-        },
-        {
-          "name": "Rom\u00e9o Elvis",
-          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Hit Sale",
-      "url": "https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA"
-    },
-    {
-      "added_at": "2026-06-26 04:03:07",
-      "album": {
         "name": "SPIDER",
         "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Hit Sale",
+        "url": "https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez"
+      },
+      "artists": [
+        {
+          "name": "Therapie TAXI",
+          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
+        },
+        {
+          "name": "Rom\u00e9o Elvis",
+          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Hit Sale",
+      "url": "https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA"
     },
     {
       "added_at": "2026-06-26 04:03:07",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
-        "name": "Jananto",
-        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 181445,
-      "name": "Jananto",
-      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
-    },
-    {
-      "added_at": "2026-06-26 04:03:07",
-      "album": {
         "name": "SOIS PAS TIMIDE",
         "url": "https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Jananto",
+        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 181445,
+      "name": "Jananto",
+      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
     },
     {
       "added_at": "2026-06-26 04:03:07",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
-        "name": "Soleil dans ma t\u00eate",
-        "url": "https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj"
-      },
-      "artists": [
-        {
-          "name": "Keen' V",
-          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "Soleil dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd"
-    },
-    {
-      "added_at": "2026-06-26 04:03:07",
-      "album": {
         "name": "Confident (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5Q2UCYr67vEfrueFndo434"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 214739,
       "name": "Cool for the Summer",
       "url": "https://open.spotify.com/track/4YieJ8UoB4t4w8Ua0N3nGv"
+    },
+    {
+      "added_at": "2026-06-26 04:03:07",
+      "album": {
+        "name": "Soleil dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "Soleil dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd"
     },
     {
       "added_at": "2026-06-26 04:03:07",

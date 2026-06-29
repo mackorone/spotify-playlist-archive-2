@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,425 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,397 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 25 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 |
 | 26 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
 | 27 | [baka bukas](https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [baka bukas](https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn) | 3:27 |
-| 28 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
-| 29 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 |
+| 28 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 |
+| 29 | [Desperado](https://open.spotify.com/track/72XeWqmlGsMRl4ykDA6SXT) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Fictions You Produce](https://open.spotify.com/album/1XnZLallUu8u13vepIfW35) | 3:18 |
 | 30 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 |
 | 31 | [CHANGES](https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES](https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH) | 2:44 |
 | 32 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 46 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 | 47 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 | 48 | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/track/2wffLiu6MCIL4TQd7hvf5m) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Pag\-Ibig \(Meron Ba?\)](https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI) | 4:22 |
-| 49 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
-| 50 | [Kupido](https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Kupido](https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5) | 3:03 |
+| 49 | [Kupido](https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Kupido](https://open.spotify.com/album/31qHI9HuPqfVpvTPhvjZy5) | 3:03 |
+| 50 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
 
 Snapshot ID: `AAAAAI9Ml2MTxK6SbfqvQoD1riYupnn5`

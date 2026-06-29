@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 203274,
+  "num_followers": 203284,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABl+XR0Bm1Hk7xhWoB9ursz",
+  "snapshot_id": "aj8SgAAAAACe2rFNhi1Qvccj/N4ZgqYt",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Pulled Up",
-      "url": "https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 195373,
       "name": "Found a Job - Live",
       "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Pulled Up",
+      "url": "https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Don't Worry About the Government",
-      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 360640,
       "name": "What a Day That Was - Live; Edit",
       "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Don't Worry About the Government",
+      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "The Book I Read",
-      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 270800,
       "name": "Genius of Love (Tom Tom Club) - Live",
       "url": "https://open.spotify.com/track/1Z0jkAvtK78wrDc5odDtdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "The Book I Read",
+      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
     },
     {
       "added_at": null,

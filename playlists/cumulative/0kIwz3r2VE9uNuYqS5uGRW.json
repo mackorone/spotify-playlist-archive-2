@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Speed Bump",
+        "url": "https://open.spotify.com/album/364p81aJ3JmdyFPruE73Zi"
+      },
+      "artists": [
+        {
+          "name": "Liz Kennedy",
+          "url": "https://open.spotify.com/artist/0vkGqBr3YSlwElXPx6XKtz"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Arugula",
+      "url": "https://open.spotify.com/track/42HTRKIBaIFeqwUcTzVOKK"
+    },
+    {
+      "album": {
         "name": "Assassinatus Ruber",
         "url": "https://open.spotify.com/album/6rbJISzJPnWbZSp8lcY5rF"
       },

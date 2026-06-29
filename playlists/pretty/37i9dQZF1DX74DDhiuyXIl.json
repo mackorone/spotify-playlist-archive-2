@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\u3001\u7368\u6b65\u7684\u6642\u523b\uff0c\u5fc3\u60c5\u8173\u4e0b\u96e3\u514d\u6c88\u91cd\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 97800,
+  "num_followers": 97813,
   "original_name": "\u966a\u4f60\u8d70\u4e00\u6bb5",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-19 16:00:20",
       "album": {
-        "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
-        "url": "https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ"
-      },
-      "artists": [
-        {
-          "name": "\u4e8e\u51ac\u7136",
-          "url": "https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs"
-        }
-      ],
-      "duration_ms": 210882,
-      "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
-      "url": "https://open.spotify.com/track/7zYMWbC1ABibwQmJyESgc6"
-    },
-    {
-      "added_at": "2026-02-19 16:00:20",
-      "album": {
         "name": "\u6700\u6703\u88dd\u6c92\u4e8b\u7684\u4eba",
         "url": "https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 252911,
       "name": "\u6700\u6703\u88dd\u6c92\u4e8b\u7684\u4eba",
       "url": "https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy"
+    },
+    {
+      "added_at": "2026-02-19 16:00:20",
+      "album": {
+        "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
+        "url": "https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e8e\u51ac\u7136",
+          "url": "https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs"
+        }
+      ],
+      "duration_ms": 210882,
+      "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
+      "url": "https://open.spotify.com/track/7zYMWbC1ABibwQmJyESgc6"
     },
     {
       "added_at": "2026-02-19 16:00:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-19 16:00:20",
       "album": {
-        "name": "\u96e8\u5098\u5fd8\u4e86\u5e36\u8d70",
-        "url": "https://open.spotify.com/album/0lAePQkPAfp1OB2sIFU2lH"
-      },
-      "artists": [
-        {
-          "name": "\u5468\u5b50\u7fd4",
-          "url": "https://open.spotify.com/artist/1PUWjLztL61A8XcedYbnRc"
-        }
-      ],
-      "duration_ms": 200294,
-      "name": "\u96e8\u5098\u5fd8\u4e86\u5e36\u8d70",
-      "url": "https://open.spotify.com/track/4JUvbskZifzBuhixrrUN2A"
-    },
-    {
-      "added_at": "2026-02-19 16:00:20",
-      "album": {
         "name": "\u6bd2\u85e5",
         "url": "https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 205005,
       "name": "\u6bd2\u85e5",
       "url": "https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE"
+    },
+    {
+      "added_at": "2026-02-19 16:00:20",
+      "album": {
+        "name": "\u96e8\u5098\u5fd8\u4e86\u5e36\u8d70",
+        "url": "https://open.spotify.com/album/0lAePQkPAfp1OB2sIFU2lH"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u5b50\u7fd4",
+          "url": "https://open.spotify.com/artist/1PUWjLztL61A8XcedYbnRc"
+        }
+      ],
+      "duration_ms": 200294,
+      "name": "\u96e8\u5098\u5fd8\u4e86\u5e36\u8d70",
+      "url": "https://open.spotify.com/track/4JUvbskZifzBuhixrrUN2A"
     },
     {
       "added_at": "2026-02-19 16:00:20",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-02-19 16:00:20",
       "album": {
+        "name": "\u90a3\u53e5\u6211\u6c92\u8aaa",
+        "url": "https://open.spotify.com/album/0YjgCCR4KxP2Og5QVsaM5S"
+      },
+      "artists": [
+        {
+          "name": "\u9ec4\u4fca\u8363 Amsden",
+          "url": "https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m"
+        },
+        {
+          "name": "\u5c0f\u9f20",
+          "url": "https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX"
+        }
+      ],
+      "duration_ms": 182230,
+      "name": "\u90a3\u53e5\u6211\u6c92\u8aaa",
+      "url": "https://open.spotify.com/track/1ouAsmnoogYMfsoPQE9Jt1"
+    },
+    {
+      "added_at": "2026-02-19 16:00:20",
+      "album": {
         "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
         "url": "https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0"
       },
@@ -1207,22 +1227,6 @@
       "duration_ms": 240461,
       "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
       "url": "https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6"
-    },
-    {
-      "added_at": "2026-02-19 16:00:20",
-      "album": {
-        "name": "\u60f3\u554f",
-        "url": "https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X"
-      },
-      "artists": [
-        {
-          "name": "Boon Hui Lu",
-          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "\u60f3\u554f",
-      "url": "https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5"
     },
     {
       "added_at": "2026-02-19 16:00:20",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2026-02-19 16:00:20",
       "album": {
-        "name": "\u90a3\u53e5\u6211\u6c92\u8aaa",
-        "url": "https://open.spotify.com/album/0YjgCCR4KxP2Og5QVsaM5S"
+        "name": "\u60f3\u554f",
+        "url": "https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X"
       },
       "artists": [
         {
-          "name": "\u9ec4\u4fca\u8363 Amsden",
-          "url": "https://open.spotify.com/artist/1DYqdyhbVTiFmGd70wMl1m"
-        },
-        {
-          "name": "\u5c0f\u9f20",
-          "url": "https://open.spotify.com/artist/3f6QoiFQMluzCKHSZlH7JX"
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
         }
       ],
-      "duration_ms": 182230,
-      "name": "\u90a3\u53e5\u6211\u6c92\u8aaa",
-      "url": "https://open.spotify.com/track/1ouAsmnoogYMfsoPQE9Jt1"
+      "duration_ms": 238000,
+      "name": "\u60f3\u554f",
+      "url": "https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5"
     }
   ],
   "unique_name": "\u966a\u4f60\u8d70\u4e00\u6bb5",

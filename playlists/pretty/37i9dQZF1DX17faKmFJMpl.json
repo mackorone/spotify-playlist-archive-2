@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 6242,
+  "num_followers": 6243,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Q Train (Remaster)",
-        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 220188,
-      "name": "Take The Q Train Remix (feat. P-Type)",
-      "url": "https://open.spotify.com/track/0jwn6R68MwfFOLProG5oUt"
+      "duration_ms": 302773,
+      "name": "Gilmak",
+      "url": "https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -307,18 +303,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Last Days",
-        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
+        "name": "Q Train (Remaster)",
+        "url": "https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
         }
       ],
-      "duration_ms": 302773,
-      "name": "Gilmak",
-      "url": "https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY"
+      "duration_ms": 220188,
+      "name": "Take The Q Train Remix (feat. P-Type)",
+      "url": "https://open.spotify.com/track/0jwn6R68MwfFOLProG5oUt"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "The Real Me",
-        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "\ud55c\ubc88\ubfd0\uc778 \uc778\uc0dd One Life to Live",
-      "url": "https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "HONEY FAMILY",
         "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 256693,
       "name": "U-turn (Feat. Verbal Jint)",
       "url": "https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "\ud55c\ubc88\ubfd0\uc778 \uc778\uc0dd One Life to Live",
+      "url": "https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
+      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/0UHz0kqdr3ScWFjYta2u7h"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
-      "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "K.O.D",
-          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
-        }
-      ],
-      "duration_ms": 276306,
-      "name": "Around Us",
-      "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "HONEY FAMILY",
         "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 253988,
       "name": "\uc5c9\ud130\ub9ac \ud559\uc0dd",
       "url": "https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
+      },
+      "artists": [
+        {
+          "name": "K.O.D",
+          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
+        }
+      ],
+      "duration_ms": 276306,
+      "name": "Around Us",
+      "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1503,54 +1503,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "\uc870PD. Net / Best In East",
-        "url": "https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR"
-      },
-      "artists": [
-        {
-          "name": "ZoPD",
-          "url": "https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR"
-        },
-        {
-          "name": "Rich",
-          "url": "https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP"
-        },
-        {
-          "name": "\uc190\ubc15\uc0ac",
-          "url": "https://open.spotify.com/artist/7IQBTbw1x949fH2KfbHi1d"
-        },
-        {
-          "name": "\uc624\uc804\ub3c4\uc0ac",
-          "url": "https://open.spotify.com/artist/1jy9lnMScttgD1RbRtKk2h"
-        },
-        {
-          "name": "DJ Uzi",
-          "url": "https://open.spotify.com/artist/7tSx5FV8Ku05I1LEFDWXh7"
-        }
-      ],
-      "duration_ms": 256574,
-      "name": "Never Give Up \u2161 (Feat. \uc190\ubc15\uc0ac, \uc624\uc804\ub3c4\uc0ac, DJ Uzi, Rich)",
-      "url": "https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 227775,
-      "name": "The Movement",
-      "url": "https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Quiet Storm: A Night Record",
         "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
       },
@@ -1571,6 +1523,38 @@
       "duration_ms": 218893,
       "name": "Stars (feat. Verbal Jint & Swings)",
       "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 227775,
+      "name": "The Movement",
+      "url": "https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "but I \ub4dc\ub824",
+        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 273345,
+      "name": "\uac1c \ud0a4\uc6cc",
+      "url": "https://open.spotify.com/track/7nJajp3VF440nxyfmy8TSq"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1603,22 +1587,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "but I \ub4dc\ub824",
-        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 273345,
-      "name": "\uac1c \ud0a4\uc6cc",
-      "url": "https://open.spotify.com/track/7nJajp3VF440nxyfmy8TSq"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1631,22 +1599,6 @@
       "duration_ms": 32210,
       "name": "Interlude - 2021 Remaster",
       "url": "https://open.spotify.com/track/3L0p9O4EUOaZ4RfbHXWOfg"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 194835,
-      "name": "\uacf5\uc2dd",
-      "url": "https://open.spotify.com/track/2mPFyCcfRj3Iil9DlpaL6p"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1671,22 +1623,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Luckynumbers",
-        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
         }
       ],
-      "duration_ms": 220880,
-      "name": "BAAAM",
-      "url": "https://open.spotify.com/track/32raq5fE3JqPn7HqZ6rgsk"
+      "duration_ms": 194835,
+      "name": "\uacf5\uc2dd",
+      "url": "https://open.spotify.com/track/2mPFyCcfRj3Iil9DlpaL6p"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1707,6 +1655,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Luckynumbers",
+        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "BAAAM",
+      "url": "https://open.spotify.com/track/32raq5fE3JqPn7HqZ6rgsk"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Modern Rhymes XX",
         "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
@@ -1719,30 +1687,6 @@
       "duration_ms": 239052,
       "name": "Drama - 2021 Remaster",
       "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Sky Is The Limit",
-        "url": "https://open.spotify.com/album/7BfP9AvrYxSmxrXUpLxmMm"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        },
-        {
-          "name": "DOK2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Die Legend (feat.Double K, DOK2)",
-      "url": "https://open.spotify.com/track/6xhSsoBa28s72GbpBi49qJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1775,22 +1719,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Luckynumbers",
-        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+        "name": "Sky Is The Limit",
+        "url": "https://open.spotify.com/album/7BfP9AvrYxSmxrXUpLxmMm"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "DOK2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Three Dopeboyz",
-      "url": "https://open.spotify.com/track/6TWlfF0NDu8fJoBIgZCr0w"
+      "duration_ms": 224373,
+      "name": "Die Legend (feat.Double K, DOK2)",
+      "url": "https://open.spotify.com/track/6xhSsoBa28s72GbpBi49qJ"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1807,6 +1755,26 @@
       "duration_ms": 110106,
       "name": "We Ain't Fuck Ed Up",
       "url": "https://open.spotify.com/track/2uVxOp8PkpuVQYEcVTEb6h"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Luckynumbers",
+        "url": "https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Three Dopeboyz",
+      "url": "https://open.spotify.com/track/6TWlfF0NDu8fJoBIgZCr0w"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1867,26 +1835,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "A Giant Step",
-        "url": "https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 316944,
-      "name": "AEAO",
-      "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Ill Skill",
         "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
       },
@@ -1907,6 +1855,26 @@
       "duration_ms": 218026,
       "name": "\ub611\ubc14\ub85c \uac78\uc5b4\uac00 (feat. Redroc & \ub3c4\ub07c)",
       "url": "https://open.spotify.com/track/1JqFbX69FRMVZCb6TGiWh0"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "A Giant Step",
+        "url": "https://open.spotify.com/album/1CM29NkWfipbcqasYZh0bU"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 316944,
+      "name": "AEAO",
+      "url": "https://open.spotify.com/track/7hrlGlLnzusciZyzxwhkn9"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1959,6 +1927,38 @@
       "duration_ms": 266066,
       "name": "Little Thug Kid 2 \uaf2c\ub9c8 \ub2ec\uac74\uc774 2",
       "url": "https://open.spotify.com/track/1zEY6NpfK4AXxUUxko2rfJ"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Ill Skill",
+        "url": "https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ"
+      },
+      "artists": [
+        {
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
+        },
+        {
+          "name": "Pocyomkin",
+          "url": "https://open.spotify.com/artist/6IN0p90dq8Adz9mg4jXn6e"
+        },
+        {
+          "name": "1 Kyne",
+          "url": "https://open.spotify.com/artist/5mbtyCGys1Blku95lkAMVV"
+        },
+        {
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+        },
+        {
+          "name": "Double K",
+          "url": "https://open.spotify.com/artist/6Xv8PJrOONqS2n2eSskF4C"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "\ub5a0\ubc84\ub9ac Pt. 2 (feat. Pocyomkin, 1 Kyne, Sean2slow & \ub354\ube14\ucf00\uc774)",
+      "url": "https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2"
     },
     {
       "added_at": "2024-11-20 08:34:55",

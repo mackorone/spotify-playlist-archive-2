@@ -4,7 +4,7 @@
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 38 min
+76 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 | 2023-11-10 |  |
 | [Passport Junkie](https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Passport Junkie](https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv) | 2:27 | 2024-09-17 | 2024-11-09 |
 | [Passport Junkie](https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:27 | 2024-11-09 |  |
+| [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 | 2026-06-29 |  |
 | [Poison](https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 3:15 | 2023-11-10 |  |
 | [Popular Loner](https://open.spotify.com/track/1EG6y4KL5c0T5UAT41d7VH) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:36 | 2023-11-10 | 2024-10-17 |
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 | 2023-11-10 |  |

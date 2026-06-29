@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
-  "num_followers": 143806,
+  "num_followers": 143809,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
         "name": "La Liga Femenina",
         "url": "https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 173478,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/5LouRP1pMKrgPuiJJiW75G"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
-        "name": "Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "Puntos Suspensivos",
-      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
     },
     {
       "added_at": "2026-06-26 04:01:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,634 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 46 | [Imagining the Future](https://open.spotify.com/track/2joLqt8X8m3Ss6AEbEWZCK) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:56 |
 | 47 | [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 |
 | 48 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 |
-| 49 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 |
+| 49 | [Distant](https://open.spotify.com/track/0eGcFW6HVT77di3EXbl99t) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 4:57 |
 | 50 | [An Unknown World](https://open.spotify.com/track/3Hb2SUJtYjk2tTlRWGgAPi) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:47 |
 
-Snapshot ID: `aj3BAAAAAAD0T6go1LkDP5oeNnqfaIt5`
+Snapshot ID: `aj8SgAAAAAC4LJmFKtKE/5kGmb02Ihz8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 440473,
+  "num_followers": 440497,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADzGGnw2gzXidRJuhzTlOh+",
+  "snapshot_id": "aj8SgAAAAACvtxAoh1KAKQnxDQMrEjxd",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "What the Price",
+      "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Versace (feat. Drake) [Remix] - Single",
         "url": "https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 246047,
       "name": "Versace (Remix)",
       "url": "https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "What the Price",
-      "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"
     },
     {
       "added_at": null,

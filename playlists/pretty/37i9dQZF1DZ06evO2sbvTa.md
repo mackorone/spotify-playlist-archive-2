@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,590 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,589 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 32 | [Bloodshed](https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 3:33 |
 | 33 | [Bread Crumbs \(feat\. Young Thug & Vl Deck\)](https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Vl Deck](https://open.spotify.com/artist/52qUXaQE08gum6TfK6zyT1) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:10 |
 | 34 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 |
-| 35 | [Muddy \(feat\. Young Dolph & Young Scooter\)](https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 4:15 |
-| 36 | [Grind Dont Stop](https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap's Last Hope](https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI) | 2:55 |
+| 35 | [Grind Dont Stop](https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap's Last Hope](https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI) | 2:55 |
+| 36 | [Muddy \(feat\. Young Dolph & Young Scooter\)](https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trap House 3](https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL) | 4:15 |
 | 37 | [Made It](https://open.spotify.com/track/3dE6SF7whFk5FzbhNgqaeV) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fast Lane Juugin](https://open.spotify.com/album/2Xt54zrcPX0QoWOSI0maoX) | 4:26 |
 | 38 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
 | 39 | [Both Sides \(feat\. Future & Young Thug\)](https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 49 | [Trust](https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Perfect Timing](https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK) | 3:21 |
 | 50 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 |
 
-Snapshot ID: `aj3BAAAAAACfBwZ5xd96Ewj0Fm+YbT4o`
+Snapshot ID: `aj8SgAAAAACFyL9DltJG5jnS4CXdJg4w`

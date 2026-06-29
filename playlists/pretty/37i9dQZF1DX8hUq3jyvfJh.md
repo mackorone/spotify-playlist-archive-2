@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,125 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,215 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Último desejo \(Participação especial de Francisco Sérgio e sua orquestra\)](https://open.spotify.com/track/0bWJu08ZYR14s2MT7ezN7D) | [Aracy de Almeida](https://open.spotify.com/artist/4dUyAH3f2lQ4QCXrUtJ778), [Francisco Sérgio e sua Orquestra](https://open.spotify.com/artist/3zTP7PA0jhORYttUqAX0MG) | [Sambas de Noel Rosa](https://open.spotify.com/album/4GBnrfMHbLji4DcNelwuFR) | 3:09 |
 | 29 | [Pavilhão de Espelhos](https://open.spotify.com/track/7hqIOZiFjG8TEnn3NUb69X) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Tudo Que Cantei Sou](https://open.spotify.com/album/4FFKHEourvekB17Y3yRGhq) | 3:17 |
 | 30 | [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 |
-| 31 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
-| 32 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
+| 31 | [Beatriz](https://open.spotify.com/track/72pMw0S2aWQmQoNGAtlyal) | [Mônica Salmaso](https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx) | [Noites de Gala, Samba Na Rua](https://open.spotify.com/album/7nOAvR01AU3cbIMGTlMI5v) | 4:56 |
+| 32 | [Coração Melão](https://open.spotify.com/track/5samMlRFxbQbnYhSGEw5r1) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 4:18 |
 | 33 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
 | 34 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |
 | 35 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |

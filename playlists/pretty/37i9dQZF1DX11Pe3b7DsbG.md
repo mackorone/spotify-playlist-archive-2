@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,367 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,360 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 8 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 9 | [A Batucada Dos Nossos Tantãs](https://open.spotify.com/track/1yqJ3Xi70OumcNDUgVAT5p) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [A Batucada Dos Nossos Tantãs](https://open.spotify.com/album/23zoyC5zT8lqnPTBytd4LC) | 3:18 |
 | 10 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 11 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
-| 12 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
+| 11 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
+| 12 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
 | 13 | [Malandro Sou Eu](https://open.spotify.com/track/5VUk63y3np3VL9EgEiXn9V) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 3:40 |
 | 14 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
 | 15 | [Olho por Olho](https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Nos Botequins Da Vida](https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50) | 3:10 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 24 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
 | 25 | [Menina Você Bebeu](https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Jovelina Pérola Negra](https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf) | 3:36 |
 | 26 | [Argumento](https://open.spotify.com/track/5SK175I291bHHcroTHUwQn) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:12 |
-| 27 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 |
-| 28 | [Tive Razão \- Ao Vivo](https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil Ao Vivo \(Live\)](https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K) | 3:53 |
+| 27 | [Tive Razão \- Ao Vivo](https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil Ao Vivo \(Live\)](https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K) | 3:53 |
+| 28 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 |
 | 29 | [Ê Baiana](https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Nova Bis \- Clara Nunes](https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y) | 3:01 |
 | 30 | [Estácio Eu e Você \- Ao Vivo](https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi) | [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [Luiz Melodia Especial MTV \(Ao Vivo\)](https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h) | 3:05 |
 | 31 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |

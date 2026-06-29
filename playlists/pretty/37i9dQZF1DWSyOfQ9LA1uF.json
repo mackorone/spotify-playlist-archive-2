@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 80794,
+  "num_followers": 80804,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Let's Go Bobmo ! - EP",
+        "url": "https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO"
+      },
+      "artists": [
+        {
+          "name": "Bobmo",
+          "url": "https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "To the Bobmobile",
+      "url": "https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Dance Till Dawn",
         "url": "https://open.spotify.com/album/7hbbhPthcCqbv5YG6MDDm5"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 220165,
       "name": "Brenda",
       "url": "https://open.spotify.com/track/792NaHTl4bJqdxMXSdhNij"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Let's Go Bobmo ! - EP",
-        "url": "https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO"
-      },
-      "artists": [
-        {
-          "name": "Bobmo",
-          "url": "https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "To the Bobmobile",
-      "url": "https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 465333,
-      "name": "Paris (Aeroplane Remix)",
-      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 258453,
       "name": "Crimewave",
       "url": "https://open.spotify.com/track/4xymOOdANFwko4RpeR961e"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 465333,
+      "name": "Paris (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
     },
     {
       "added_at": "2024-08-08 18:53:25",

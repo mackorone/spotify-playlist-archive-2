@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,835 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,841 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 31 | [DEAD HEAT BEAT](https://open.spotify.com/track/70oZ9paZhQYkYAd5nganwI) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 4:12 |
 | 32 | [START!! True dreams](https://open.spotify.com/track/19vnmCWWf8QK0vYnAz8nlh) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [LoveLive! Series 15th Anniversary Tribute Album](https://open.spotify.com/album/4UvWdqO4nQwqeAz4UHBVMi) | 4:02 |
 | 33 | [元祖！バンドリちゃんのテーマ](https://open.spotify.com/track/3FQXWL7N3YNmbHhPEPJ9wO) | [戸山香澄\(CV:愛美\)](https://open.spotify.com/artist/4qqHB9SmuXrOopifD0YzMa), [美竹 蘭\(CV:佐倉綾音\)](https://open.spotify.com/artist/1I1n83hJ3xoQcf1YUmxOis), [丸山 彩\(CV:前島亜美\)](https://open.spotify.com/artist/4yvuKmdw1adgH4GC6d5tJ9), [湊 友希那\(CV:相羽あいな\)](https://open.spotify.com/artist/5tb5Ya8txUfxvU3USDffwT), [弦巻こころ\(CV:伊藤美来\)](https://open.spotify.com/artist/7p71sCKDBWLEJT8qTFHhSk), [倉田ましろ\(CV:進藤あまね\)](https://open.spotify.com/artist/5uMq5LpiCbQAuyx2t3oUFW), [レイヤ\(CV:Raychell\)](https://open.spotify.com/artist/2s43jUxV6eSRlc9IF6bUD1), [高松 燈\(CV:羊宮妃那\)](https://open.spotify.com/artist/6x1qAI73uRxgCnHYYQKEtw), [ドロリス\(CV:佐々木李子\)](https://open.spotify.com/artist/2a51XWvam5qcSvg3SgC2VI), [仲町あられ](https://open.spotify.com/artist/4nM2b07nHOCbf0JVkJqnUF) | [元祖！バンドリちゃんのテーマ](https://open.spotify.com/album/0enJi5MCxg0Vdn7CL9RAU3) | 3:45 |
-| 34 | [はいよろこんで \(Cover\)](https://open.spotify.com/track/35Nkaffrbk61prfAAs4Z4a) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [はいよろこんで \(Cover\)](https://open.spotify.com/album/1KHtPCiTCVA3o1dhna2bVN) | 2:40 |
-| 35 | [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 |
+| 34 | [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 |
+| 35 | [はいよろこんで \(Cover\)](https://open.spotify.com/track/35Nkaffrbk61prfAAs4Z4a) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [はいよろこんで \(Cover\)](https://open.spotify.com/album/1KHtPCiTCVA3o1dhna2bVN) | 2:40 |
 | 36 | [THE WAY OF LIFE](https://open.spotify.com/track/7u9S44Yk4GpnkAsKOZjZMq) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [THE WAY OF LIFE](https://open.spotify.com/album/2VIyRCjOZ1QBaJ5ftnPV6X) | 3:58 |
 | 37 | [Portray Empathy](https://open.spotify.com/track/21EwZl3EMt5UPD6XhzpuJB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Feathered Dreams](https://open.spotify.com/album/3nB1xLYWLMUA8gpi1Zq68m) | 4:13 |
 | 38 | [Wonder Night Land](https://open.spotify.com/track/2A4U9YGvujRynytJ5GEfDc) | [星降るティーパーティー](https://open.spotify.com/artist/0nHSIvKUJ7HXdUjvjXHPwm), [戸山香澄\(CV:愛美\)](https://open.spotify.com/artist/4qqHB9SmuXrOopifD0YzMa), [青葉モカ\(CV:三澤紗千香\)](https://open.spotify.com/artist/7sSeWmBMZAZzWl1hKZ2SGa), [白金燐子\(CV:志崎樺音\)](https://open.spotify.com/artist/4Ra3Di0TwwE4lFA21m1Hbj), [広町七深\(CV:西尾夕香\)](https://open.spotify.com/artist/3caqlI0HeXm2yOTvlkEkU5), [椎名立希\(CV:林 鼓子\)](https://open.spotify.com/artist/0oofhdiDZ1hcRHFjJmQYTS) | [Wonder Night Land](https://open.spotify.com/album/1MCHsCgzPQAKAbNpEZrBcI) | 3:58 |

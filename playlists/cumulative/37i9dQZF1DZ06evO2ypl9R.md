@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-86 songs - 7 hr 50 min
+87 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Auto Machine](https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 9:50 | 2025-06-28 |  |
 | [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 | 2025-06-28 | 2026-02-23 |
 | [Black Woman Cry](https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 8:34 | 2025-08-24 |  |
-| [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 | 2025-06-28 |  |
+| [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 | 2025-06-28 | 2026-06-29 |
 | [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 | 2025-09-16 |  |
 | [Brand New Feeling \- Yoruba Soul Mix Part 2 Edit](https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \(Yoruba Soul Mix Part 2 Edit\)](https://open.spotify.com/album/3Avh7w1evREcin2NEj75JG) | 6:29 | 2025-08-03 | 2025-09-16 |
 | [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 | 2025-06-29 | 2026-06-21 |
@@ -57,6 +57,7 @@
 | [Los Tambores Te Llaman \- Original Mix](https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Carlos Mena](https://open.spotify.com/artist/4Pcd58Q0tR2mXsJuBAb8Pl) | [Los Tambores Te Llaman](https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq) | 6:19 | 2025-06-28 |  |
 | [Love Manifesto \- Yoruba Soul Mix](https://open.spotify.com/track/5mseZAEgouOaiY0JY3SmnX) | [Black Widow](https://open.spotify.com/artist/7JVf9FTDK6N8wrVKBmutmv), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 6:56 | 2025-06-28 | 2025-08-05 |
 | [Luv](https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Inner Garden](https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa) | 7:09 | 2025-06-28 |  |
+| [Mandola](https://open.spotify.com/track/3JD53qXeJnf5pEkWUtDgOD) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Mandola](https://open.spotify.com/album/6uYWjLwUXRS2NvpbFY6s69) | 3:38 | 2026-06-29 |  |
 | [Mary Go Round](https://open.spotify.com/track/1DTRyqSQ6CfDs46Ft9vUpR) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 3:41 | 2025-06-28 |  |
 | [Momma's Groove \(Jimpster's Hip Replacement Mix\)](https://open.spotify.com/track/3SYFuQxFvEVrOD54vW0Hu7) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Momma's Groove](https://open.spotify.com/album/0nhS8liVSY8PBQQ1Arc9sQ) | 7:33 | 2025-06-28 |  |
 | [Moon In Daylight](https://open.spotify.com/track/3GVlEZB6GERFuXtPCSC87j) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 6:56 | 2026-06-12 | 2026-06-24 |

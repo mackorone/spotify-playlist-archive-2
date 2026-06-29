@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,565 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,631 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 41 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 |
 | 42 | [Visualizer.Eden](https://open.spotify.com/track/5vweEhyO7Am4GGXrhHvShK) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [Visualizer.Eden](https://open.spotify.com/album/1TQsuV5vpKEadjNeii5ULn) | 3:51 |
 | 43 | [Nightmare Fuel](https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 1:48 |
-| 44 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
-| 45 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 |
-| 46 | [Loving Is Easy](https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 5:43 |
+| 44 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 |
+| 45 | [Loving Is Easy](https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 5:43 |
+| 46 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
 | 47 | [Everything I Own](https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Everything I Own](https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA) | 3:21 |
 | 48 | [Ascending Red](https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 3:05 |
 | 49 | [!!!!](https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [!!!!](https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf) | 5:52 |

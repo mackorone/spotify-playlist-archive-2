@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Between The Lines",
+        "url": "https://open.spotify.com/album/5h7N7CY3WjH0WdgaYdMu6Q"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "date_added": "2026-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/4fmsiOsBZyez2ifpSQ8kLR"
+    },
+    {
+      "album": {
         "name": "you taught me to read between the lines",
         "url": "https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh"
       },

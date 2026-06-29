@@ -1,42 +1,18 @@
 {
-  "description": "Work out to these high energy numbers! \nCover : Ram Charan",
-  "num_followers": 108480,
+  "description": "For your workouts!\nCover : Ram Charan",
+  "num_followers": 108527,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5masspjTxBO/LfVOE+8ymP96AT",
+  "snapshot_id": "AAAAACJx0Iuq3Quio62XFdW40/Pf5WBz",
   "tracks": [
     {
-      "added_at": "2026-04-24 07:10:26",
+      "added_at": "2026-05-28 10:27:51",
       "album": {
-        "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
-        "url": "https://open.spotify.com/album/0nCNfNoL5uidzdzKVft3RB"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 227332,
-      "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
-      "url": "https://open.spotify.com/track/1Q8ScqfqhoYC5atHMcCxwE"
-    },
-    {
-      "added_at": "2026-03-03 06:27:58",
-      "album": {
-        "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
-        "url": "https://open.spotify.com/album/0ySPxQtfOMhSEqpGiiFSKi"
+        "name": "Peddi (TELUGU)",
+        "url": "https://open.spotify.com/album/2qoEWcMrffZLZP82QlpOth"
       },
       "artists": [
         {
@@ -44,13 +20,17 @@
           "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
           "name": "Anantha Sreeram",
           "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
         }
       ],
-      "duration_ms": 266032,
-      "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
-      "url": "https://open.spotify.com/track/29HAoc3GDDbb7mW9isgs9K"
+      "duration_ms": 222122,
+      "name": "Massa Massa (TELUGU)",
+      "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
     },
     {
       "added_at": "2026-02-24 14:38:25",
@@ -119,6 +99,50 @@
       "duration_ms": 258122,
       "name": "Raavana",
       "url": "https://open.spotify.com/track/2JnZ5Q6YjESfLil5hg7WUT"
+    },
+    {
+      "added_at": "2026-04-24 07:10:26",
+      "album": {
+        "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
+        "url": "https://open.spotify.com/album/0nCNfNoL5uidzdzKVft3RB"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 227332,
+      "name": "Rara Dheevara (From \"Swayambhu\") (Telugu)",
+      "url": "https://open.spotify.com/track/1Q8ScqfqhoYC5atHMcCxwE"
+    },
+    {
+      "added_at": "2026-03-03 06:27:58",
+      "album": {
+        "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0ySPxQtfOMhSEqpGiiFSKi"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 266032,
+      "name": "Rai Rai Raa Raa (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/29HAoc3GDDbb7mW9isgs9K"
     },
     {
       "added_at": "2025-12-02 10:01:43",
@@ -233,30 +257,6 @@
       "url": "https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP"
     },
     {
-      "added_at": "2026-05-28 10:27:51",
-      "album": {
-        "name": "Peddi (TELUGU)",
-        "url": "https://open.spotify.com/album/2qoEWcMrffZLZP82QlpOth"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 222122,
-      "name": "Massa Massa (TELUGU)",
-      "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
-    },
-    {
       "added_at": "2025-12-02 10:01:43",
       "album": {
         "name": "Darling Prabhas Birthday Special Hit Songs 2019",
@@ -293,24 +293,24 @@
       "url": "https://open.spotify.com/track/1yzetU0NF7DWaMIyjkDiJO"
     },
     {
-      "added_at": "2022-01-05 09:39:29",
+      "added_at": "2026-06-29 03:38:32",
       "album": {
-        "name": "Idharammayilatho",
-        "url": "https://open.spotify.com/album/6o9ysd0MFQXd6g4eWtcvNq"
+        "name": "Village Rocker (From \"Peddi\")",
+        "url": "https://open.spotify.com/album/7FrPq7FDPvx5zVKTIURMqt"
       },
       "artists": [
         {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
         },
         {
-          "name": "Geetha Madhuri",
-          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+          "name": "Nitesh Aher",
+          "url": "https://open.spotify.com/artist/2lf5Ta8hBg1ZbaqW1aJKM2"
         }
       ],
-      "duration_ms": 257925,
-      "name": "Top Lesi Poddi",
-      "url": "https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5"
+      "duration_ms": 222080,
+      "name": "Village Rocker (From \"Peddi\")",
+      "url": "https://open.spotify.com/track/1OEGqm9Hgk2LtWGleZ33cr"
     },
     {
       "added_at": "2025-12-02 10:01:43",
@@ -439,26 +439,6 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan",
       "url": "https://open.spotify.com/track/5WnlpdU8nHfbogtkAl6k8E"
-    },
-    {
-      "added_at": "2025-12-02 10:01:43",
-      "album": {
-        "name": "Baahubali - The Beginning",
-        "url": "https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo"
-      },
-      "artists": [
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "Deepu",
-          "url": "https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb"
-        }
-      ],
-      "duration_ms": 325891,
-      "name": "Dhivara",
-      "url": "https://open.spotify.com/track/0hFZn71Eyc8ajuQ2ax6bZW"
     },
     {
       "added_at": "2022-01-05 09:39:29",
@@ -839,26 +819,6 @@
       "duration_ms": 325217,
       "name": "Vachaadayyo Saami",
       "url": "https://open.spotify.com/track/3VS9W9i3GjcIUJf6Zen7yv"
-    },
-    {
-      "added_at": "2025-12-02 10:01:43",
-      "album": {
-        "name": "Baahubali - The Beginning",
-        "url": "https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo"
-      },
-      "artists": [
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        },
-        {
-          "name": "L. V. Revanth",
-          "url": "https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB"
-        }
-      ],
-      "duration_ms": 214517,
-      "name": "Manohari",
-      "url": "https://open.spotify.com/track/68rSALJuiiiJSOgL7DXdNg"
     },
     {
       "added_at": "2022-01-05 09:39:29",

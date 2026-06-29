@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 600475,
+  "num_followers": 600685,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABWRQc9GfshuVGPztUTjIrC",
+  "snapshot_id": "aj8SgAAAAADvB2U10YFjLFZtSNYA6OKb",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 191284,
+      "name": "YA PEDO QUI\u00c9N SABE",
+      "url": "https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 219164,
       "name": "AURORA (feat. Armenta)",
       "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 191284,
-      "name": "YA PEDO QUI\u00c9N SABE",
-      "url": "https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoy no me siento bien",
         "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 153709,
       "name": "Hoy no me siento bien",
       "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/4OgnTebVodg2B46sOgk3qu"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 223843,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/1EXL9Cqd1qSMZLAJUypiio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/4OgnTebVodg2B46sOgk3qu"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 223843,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/1EXL9Cqd1qSMZLAJUypiio"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LO QUE ME FALTA POR LLORAR",
-        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 145658,
-      "name": "\u00e9chame la mano",
-      "url": "https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 159552,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO QUE ME FALTA POR LLORAR",
+        "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 145658,
+      "name": "\u00e9chame la mano",
+      "url": "https://open.spotify.com/track/7nkPTFte8HROvVfvaKfRsD"
     },
     {
       "added_at": null,

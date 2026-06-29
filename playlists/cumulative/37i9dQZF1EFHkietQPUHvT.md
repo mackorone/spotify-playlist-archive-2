@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 5 hr 53 min
+117 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Killin' It](https://open.spotify.com/track/7h3ee318fQQrwYqbwHVyW8) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Zero Sympathy](https://open.spotify.com/album/24UtrS5kFi1iwbmioWFMhE) | 2:35 | 2024-02-26 |  |
 | [Kiss And Tell](https://open.spotify.com/track/6MU3GxPHgCU7H1FxuMWbLi) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 2:29 | 2025-08-06 |  |
 | [Knife](https://open.spotify.com/track/53y7CiK02LB3ZzhGf2LaT9) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/7mh0rxhEiJCsDhnSxO32bN) | 3:13 | 2024-02-26 |  |
+| [Lay It All Down](https://open.spotify.com/track/5KWs7NQO2a6Y0aMMW7pvGy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Where Have All The Good Men Gone?](https://open.spotify.com/album/2T4mLc6SKNUBQZvdbD8Vt9) | 3:30 | 2026-06-28 |  |
 | [Lion's Den](https://open.spotify.com/track/6MrWgh6TzFSm2MzWEyWHQh) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Parked Car Conversations](https://open.spotify.com/album/68sSQ6wu7ZxCAXC1iHjnZe) | 3:24 | 2024-04-28 |  |
 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 | 2025-03-16 | 2025-08-04 |
 | [Little Dreaming](https://open.spotify.com/track/1JF4ZteKMtYMXpNrN6622p) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 3:23 | 2025-08-03 |  |

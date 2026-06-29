@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48071,
+  "num_followers": 48090,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAACCfCe6JVXz6pvIEw5ByCVC",
+  "snapshot_id": "aj8SgAAAAABWO64HpV+ALBLdXwVEsvld",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000COSAS",
-        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "1000COSAS",
-      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M.A (Remix)",
         "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 272727,
       "name": "M.A - Remix",
       "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000COSAS",
+        "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "1000COSAS",
+      "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL TIBUR\u00d3N",
-        "url": "https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 182242,
-      "name": "COMO EST\u00c1S BB",
-      "url": "https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 174386,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 182242,
+      "name": "COMO EST\u00c1S BB",
+      "url": "https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B"
     },
     {
       "added_at": null,
@@ -636,25 +636,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 187161,
-      "name": "MI COLETA",
-      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "LA SANTA",
-      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
+      "duration_ms": 192292,
+      "name": "YO TE LLEVO",
+      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 232526,
       "name": "4 besos",
       "url": "https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "DRAG\u00d3N",
+      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
     },
     {
       "added_at": null,
@@ -712,41 +712,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 192292,
-      "name": "YO TE LLEVO",
-      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "DRAG\u00d3N",
-      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+      "duration_ms": 187161,
+      "name": "MI COLETA",
+      "url": "https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf"
     },
     {
       "added_at": null,
@@ -767,6 +735,38 @@
       "duration_ms": 171469,
       "name": "KOMBOLEWA - Remix",
       "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 189731,
-      "name": "MISSION005",
-      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 164293,
       "name": "AN1MAL",
       "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 189731,
+      "name": "MISSION005",
+      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
     },
     {
       "added_at": null,
@@ -939,26 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
-        "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
+        "name": "SALGOAT (Vol. 2 - Extension)",
+        "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
       },
       "artists": [
         {
-          "name": "Emkal",
-          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 208094,
-      "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
-      "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
+      "duration_ms": 157682,
+      "name": "CONSUELA (feat. Lola Indigo)",
+      "url": "https://open.spotify.com/track/42bS5n1uKqfeBVwX2gwfCs"
     },
     {
       "added_at": null,
@@ -983,22 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "c\u00f3mo te va?",
-        "url": "https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD"
+        "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
+        "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
         },
         {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 218853,
-      "name": "c\u00f3mo te va?",
-      "url": "https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD"
+      "duration_ms": 208094,
+      "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
+      "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
     }
   ],
   "unique_name": "This Is Lola Indigo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,141 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,142 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 10 | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/track/3b6waQzXeYty0R6EDAv0po) | [SwaggGlock](https://open.spotify.com/artist/0TQ494EpT0cwX3JWh87nOr), [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [BESOS \(with Kidd Keo & Neelo\)](https://open.spotify.com/album/3lchk9CWRXo0pHD6et7bEY) | 2:52 |
 | 11 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 | 12 | [Bien Te Va \- Remix](https://open.spotify.com/track/1PeITRaQFJKNiktyS5Va5C) | [Nyquest](https://open.spotify.com/artist/001KkBGwhLqBrFXyhsnxsH), [fedesttar](https://open.spotify.com/artist/4F72CuIcolrKN0s5FTxoTy), [Mike Castillo](https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn) | [Sobrepensar](https://open.spotify.com/album/79MhWLoHmjfJNeYGervTt5) | 2:38 |
-| 13 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
-| 14 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
+| 13 | [No Estoy](https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Akim 88](https://open.spotify.com/artist/4TDr2te1ZvxbEchksH77Dp) | [No Estoy](https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL) | 1:53 |
+| 14 | [SUPERNOVA](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [SUPERNOVA](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 |
 | 15 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |
 | 16 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
 | 17 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |

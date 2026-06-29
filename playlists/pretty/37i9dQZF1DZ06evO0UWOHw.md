@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,370 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,397 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 17 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:29 |
 | 18 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 19 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/7vCTeLGRwAkLqZr1fphHg1) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/6ceb9dx3TsqZBcBrt3es8n) | 3:46 |
-| 20 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 |
-| 21 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
+| 20 | [Tanko \(feat\. Terry G\)](https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Terry G](https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S) | [Tanko \(feat\. Terry G\)](https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN) | 3:47 |
+| 21 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 |
 | 22 | [Holy Father](https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Back In Office](https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO) | 3:04 |
 | 23 | [Ludo](https://open.spotify.com/track/5kK5jnEhQ5vC9YHPYCK7VD) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:32 |
 | 24 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 45 | [Outlaw](https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 3:17 |
 | 46 | [Angelus](https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY) | 3:06 |
 | 47 | [Bebe](https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:33 |
-| 48 | [E Go Be](https://open.spotify.com/track/2PuLfDkkrUlQb3erFyAPFW) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:32 |
-| 49 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 |
+| 48 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 |
+| 49 | [E Go Be](https://open.spotify.com/track/2PuLfDkkrUlQb3erFyAPFW) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:32 |
 | 50 | [Jailer](https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Jailer](https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin) | 3:50 |
 
-Snapshot ID: `aj3BAAAAAABYiUsEaje/9nPtnrpM5jL7`
+Snapshot ID: `aj8SgAAAAADqIPrUdUqQ7JxmWwbxk6t+`

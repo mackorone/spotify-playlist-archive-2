@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,028 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,022 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 34 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 | 35 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 |
 | 36 | [Young G's \(feat\. The Notorious B.I.G\. & Jay\-Z\)](https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:25 |
-| 37 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 |
-| 38 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
+| 37 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
+| 38 | [Stakes Is High](https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 5:30 |
 | 39 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 |
 | 40 | [Pick It Up](https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters](https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h) | 4:11 |
 | 41 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Tain\u00e1",
-  "num_followers": 39597,
+  "num_followers": 39595,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
-        "name": "Twizzler",
-        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Twizzler",
-      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
-    },
-    {
-      "added_at": "2026-06-25 23:00:17",
-      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "added_at": "2026-06-25 23:00:17",
+      "album": {
+        "name": "Twizzler",
+        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Twizzler",
+      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
     },
     {
       "added_at": "2026-06-25 23:00:17",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
-        "name": "the van",
-        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 178001,
-      "name": "the van",
-      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
     },
     {
       "added_at": "2026-06-25 23:00:17",
@@ -1043,22 +1047,18 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
-        "name": "Rubber Band Man (with Hozier)",
-        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+        "name": "the van",
+        "url": "https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Rubber Band Man (with Hozier)",
-      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+      "duration_ms": 178001,
+      "name": "the van",
+      "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"
     },
     {
       "added_at": "2026-06-25 23:00:17",

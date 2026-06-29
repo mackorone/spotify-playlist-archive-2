@@ -4,7 +4,7 @@
 
 > time to strike a couple of poses\. cover: Karencici
 
-108 songs - 5 hr 30 min
+109 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 | 2026-03-05 |  |
 | [Back 2 Malaysia](https://open.spotify.com/track/79lBRarV9QFxSmCFcP3wJa) | [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Back 2 Malaysia](https://open.spotify.com/album/0WTdu9DnD4rg1tY3ktpJWI) | 2:58 | 2026-05-28 | 2026-06-19 |
 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 | 2026-03-26 |  |
+| [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 | 2026-06-18 |  |
 | [Bestie Baby](https://open.spotify.com/track/7zlbtIbBizYYt6urW0hc0m) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [Bestie Baby](https://open.spotify.com/album/4HtiqIahZ2XUr6pXu6hqKo) | 2:37 | 2026-05-01 | 2026-05-30 |
 | [better without you](https://open.spotify.com/track/1hwMl0RTMK40LtOnCsrhPk) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [better without you](https://open.spotify.com/album/6OH7nANqyGsFFHlerYeXkt) | 3:59 | 2026-05-28 | 2026-05-30 |
 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2026-03-05 |  |
@@ -47,7 +48,7 @@
 | [HOT SAUCE](https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2) | 2:27 | 2026-03-05 |  |
 | [However Long It Takes \(Go!\)](https://open.spotify.com/track/5Im0t3P370wcX6ntTSvEAi) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Ready For Rapture](https://open.spotify.com/album/4LNnJ0DltJFSv7Wd7kMitx) | 4:00 | 2026-06-18 |  |
 | [I Always Knew](https://open.spotify.com/track/3795oPflx7wwOBKJC462ao) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I Always Knew](https://open.spotify.com/album/7zFrN4PbAIWP85Atr17wvi) | 3:42 | 2026-03-05 | 2026-03-27 |
-| [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 | 2026-03-05 | 2026-06-19 |
+| [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 | 2026-03-05 |  |
 | [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 | 2026-03-05 | 2026-03-27 |
 | [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 | 2026-06-18 |  |
 | [INDULGENCE](https://open.spotify.com/track/36Z5hs5XSo6ByQkjCmEp6i) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [INDULGENCE](https://open.spotify.com/album/2tsyh7W220NtU1qFueIax0) | 3:00 | 2026-05-14 | 2026-05-29 |
@@ -63,11 +64,11 @@
 | [marigold magic](https://open.spotify.com/track/1N6ICgWxsghCNR51cQWlKX) | [inch](https://open.spotify.com/artist/0jcR2IFFsEtMra80c9Zaei) | [marigold magic](https://open.spotify.com/album/1mRhP3pG9UTnitNAHAuRqs) | 3:59 | 2026-05-01 | 2026-05-15 |
 | [maybe not tonight](https://open.spotify.com/track/0uqOCp3cDPVlAI7WvlM6iB) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [maybe not tonight](https://open.spotify.com/album/6fZPBWGC7T0r0PwDyOuh7p) | 3:45 | 2026-06-18 |  |
 | [Metronome](https://open.spotify.com/track/507cUSXS7nznC8SUeXLhGo) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [ACT I: Moth](https://open.spotify.com/album/3lRsl8uycOZduaI6TOSmr9) | 3:17 | 2026-05-28 | 2026-05-30 |
-| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2026-03-05 |  |
+| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2026-03-05 | 2026-06-29 |
 | [MISUNDERSTANDING](https://open.spotify.com/track/42MfocIhBKWz38bI5bY9GU) | [nateli](https://open.spotify.com/artist/1DCZyNPLSPO7adhzk388oS) | [MISUNDERSTANDING](https://open.spotify.com/album/0yura5TIyIlTbnc6l3mVKz) | 2:52 | 2026-03-26 | 2026-04-10 |
 | [Monotarinai](https://open.spotify.com/track/3DyPhi7gjmOHrJ0sWy2EC6) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [PINK NOISE](https://open.spotify.com/album/1Spx1EjMY5TdJCz5s8gDIe) | 2:45 | 2026-03-05 | 2026-03-27 |
 | [Moon Or Stars](https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Moon Or Stars](https://open.spotify.com/album/2cgcCDBfquJ83iOqEsAWFl) | 3:42 | 2026-03-26 | 2026-05-02 |
-| [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2026-03-05 |  |
+| [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2026-03-05 | 2026-06-29 |
 | [my crush and i will crush the system baby](https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [my crush and i will crush the system baby](https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ) | 1:57 | 2026-05-14 | 2026-06-19 |
 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 | 2026-03-05 |  |
 | [Not a Goodbye](https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 3:26 | 2026-03-05 | 2026-05-06 |

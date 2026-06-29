@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,198 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,554 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 8 | [Alégale Al Umpire](https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:28 |
 | 9 | [En Tu Perra Vida](https://open.spotify.com/track/5whWBmGn90pVWhexc88Scc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/3yNcCCNhUhkz9gSpzz1WkI) | 3:58 |
 | 10 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/230KSxk14541umr44W2vCM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669) | 3:09 |
-| 11 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
-| 12 | [Al Final Del Día](https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Al Final Del Día](https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME) | 3:28 |
+| 11 | [Al Final Del Día](https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Al Final Del Día](https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME) | 3:28 |
+| 12 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
 | 13 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
 | 14 | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Qué Fuimos \(En Vivo\)](https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b) | 3:50 |
 | 15 | [El Mundo a Tus Pies](https://open.spotify.com/track/3mv2WC2zSgLmZJziw6kIq7) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/3VOql1x3LFdMnKBFsEqgDm) | 2:56 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 47 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
 | 48 | [Pideme \(En Vivo\)](https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1) | 4:24 |
 | 49 | [El Roto \(En Vivo\)](https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [El Roto \(En Vivo\)](https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ) | 3:13 |
-| 50 | [Cómo Pudiste \(En Vivo\)](https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Desde La Playa, Vol\. 3 \(En Vivo\)](https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I) | 3:29 |
+| 50 | [Nunca Supiste Que Te Esperé](https://open.spotify.com/track/2qmIl86Sn9Zy7f8Xrz7UML) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Nunca Supiste Que Te Esperé](https://open.spotify.com/album/3eRaUY81phIdt6XwTtLwZW) | 3:10 |
 
-Snapshot ID: `aj3BAAAAAABedc9Svs4MnrbbAgs42OvW`
+Snapshot ID: `aj8SgAAAAADA1P17S/ujiEQBVv8RVi3U`

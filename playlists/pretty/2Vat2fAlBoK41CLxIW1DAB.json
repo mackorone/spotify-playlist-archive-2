@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1591,
+  "num_followers": 1590,
   "original_name": "Rock Square",
   "owner": {
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAERTX8AopiL0JlgrW22oRAFEpRpoE7",
+  "snapshot_id": "AAAETTXr0Y+qVLYqTX4p0kfbJ0ew7M7H",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -17411,6 +17411,118 @@
       "duration_ms": 208873,
       "name": "Catching Matches",
       "url": "https://open.spotify.com/track/6E6mN52PjtMl9I0fEtPdLL"
+    },
+    {
+      "added_at": "2026-06-28 09:15:23",
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/1DkNLAmWUfxrTs8qSp3CdK"
+      },
+      "artists": [
+        {
+          "name": "ZenZation",
+          "url": "https://open.spotify.com/artist/3oXhjf1DB5LQjs0FK6QVpv"
+        }
+      ],
+      "duration_ms": 293750,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4DpS7c7m00o2wrtwwZz1LW"
+    },
+    {
+      "added_at": "2026-06-28 09:15:24",
+      "album": {
+        "name": "Lifelike Figures",
+        "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 297097,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5rxxCShjsfENHyTEFxm2LX"
+    },
+    {
+      "added_at": "2026-06-28 09:15:24",
+      "album": {
+        "name": "Red Album",
+        "url": "https://open.spotify.com/album/54uhFe5GcvRKg3xoN7QqEX"
+      },
+      "artists": [
+        {
+          "name": "Over the Under",
+          "url": "https://open.spotify.com/artist/1MT3LvLXDZRTpZCqoFITVz"
+        }
+      ],
+      "duration_ms": 341520,
+      "name": "Bida",
+      "url": "https://open.spotify.com/track/3070l6V0u8ByDFlnHxbTjl"
+    },
+    {
+      "added_at": "2026-06-28 09:15:25",
+      "album": {
+        "name": "No Way, No How.",
+        "url": "https://open.spotify.com/album/5Uq5g0fs9BQzIssJzb8K5R"
+      },
+      "artists": [
+        {
+          "name": "Taylor Youngbauer",
+          "url": "https://open.spotify.com/artist/4UeB4cZPyYIaC0VYRsaFiZ"
+        }
+      ],
+      "duration_ms": 160581,
+      "name": "No Way, No How.",
+      "url": "https://open.spotify.com/track/2DOIBpZ3WbyCLGcWAB2h7K"
+    },
+    {
+      "added_at": "2026-06-28 09:15:25",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/429o17nGxNDexcp42affUn"
+      },
+      "artists": [
+        {
+          "name": "Xellay",
+          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD"
+    },
+    {
+      "added_at": "2026-06-28 09:15:25",
+      "album": {
+        "name": "Ona Na",
+        "url": "https://open.spotify.com/album/47jda06wUBpfhG608J6FgV"
+      },
+      "artists": [
+        {
+          "name": "Palocoman & Elkeike",
+          "url": "https://open.spotify.com/artist/6bcBCvk3tT6JMLaMMPqNLD"
+        }
+      ],
+      "duration_ms": 206151,
+      "name": "Ona Na",
+      "url": "https://open.spotify.com/track/7eI6QVRXPEUytmItubRHVJ"
+    },
+    {
+      "added_at": "2026-06-28 09:15:25",
+      "album": {
+        "name": "I Love the NiteTime (Instrumental)",
+        "url": "https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "I Love the NiteTime - Instrumental",
+      "url": "https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t"
     }
   ],
   "unique_name": "Rock Square",

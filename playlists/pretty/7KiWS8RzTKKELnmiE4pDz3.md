@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 279 songs - 17 hr 52 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 281 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,5 +287,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 277 | [One](https://open.spotify.com/track/1yeHVJsVPN3ZskQ398be1E) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Supreme Clientele](https://open.spotify.com/album/7eaQqVyq6xzAVgsxSzSP83) | 3:46 |
 | 278 | [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 |
 | 279 | [Fuck All Nite](https://open.spotify.com/track/3BhB7Ps9xk8vPgzs1Kldce) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:19 |
+| 280 | [brand new teeth](https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [brand new teeth](https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF) | 4:27 |
+| 281 | [Objects in the Mirror](https://open.spotify.com/track/55IuRduNVva0DbXiPopZUy) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Live From Space](https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8) | 6:29 |
 
-Snapshot ID: `AAAge1r+luvmVRGg9KRPIo1XziMVooOP`
+Snapshot ID: `AAAgfU+fuGj1Jv5XUblDO5MGlcxuvzUV`

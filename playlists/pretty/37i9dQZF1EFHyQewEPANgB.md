@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 64 | [Something Crazy \(feat\. Sebastian Mikael\)](https://open.spotify.com/track/7ivfNdjYZPVRlhhzui8sOe) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Something Crazy \(feat\. Sebastian Mikael\) \- Single](https://open.spotify.com/album/0zeYjjYj9nC9joyfXdGjtn) | 4:03 |
 | 65 | [Like Gucci](https://open.spotify.com/track/4oZAS5i1a5tY5iMNpBcDSW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Cousin Trap](https://open.spotify.com/album/2Y6OJpKusANPXAfZ21e8cT) | 3:16 |
 | 66 | [Big Dancin'](https://open.spotify.com/track/25Cwrvk3iTr32ylLJgKpaN) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:31 |
-| 67 | [BootyBooty](https://open.spotify.com/track/7mZZDwIxdoREH5B4f0EN21) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:27 |
-| 68 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 67 | [Super Up](https://open.spotify.com/track/4TLvEV4lAVbcBiEPeXFhQw) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Super Up](https://open.spotify.com/album/7gZM9w7M1e9qoYDoIc5QV0) | 2:16 |
+| 68 | [BootyBooty](https://open.spotify.com/track/7mZZDwIxdoREH5B4f0EN21) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:27 |
 | 69 | [Dirt Bag](https://open.spotify.com/track/2IMJyd2zjFuw0C2ECf5rFP) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:29 |
 | 70 | [CONTRADICTION](https://open.spotify.com/track/1H9pChdwYGS1eAos8F48xn) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 3:00 |
 | 71 | [Learn to Love My Bm](https://open.spotify.com/track/0qgWR7yasp2c5FGp40Xxhi) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:53 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 89 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 90 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AcVX5gAAAABuXDLm4R0rMJTL9Ekfwz+e`
+Snapshot ID: `AcVdhgAAAAA7dO1f6LcgVKwPOu5YrBsE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,318 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,329 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 26 | [Bingo](https://open.spotify.com/track/5zHkCFv17jKavqJPRZITWJ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [10/10](https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb) | 2:41 |
 | 27 | [En Todos Los Idiomas](https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Todos Los Idiomas](https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te) | 2:55 |
 | 28 | [Directo Al Corazón](https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Directo Al Corazón](https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde) | 2:46 |
-| 29 | [Te Sale Bien](https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Sale Bien](https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv) | 2:47 |
-| 30 | [Calientita](https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Calientita](https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9) | 2:21 |
+| 29 | [Calientita](https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Calientita](https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9) | 2:21 |
+| 30 | [Te Sale Bien](https://open.spotify.com/track/1AOuMm9EJB0S8FviogQcpQ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Sale Bien](https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv) | 2:47 |
 | 31 | [Aunque me Dejes en Visto](https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Aunque me Dejes en Visto](https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3) | 2:37 |
 | 32 | [Te Hice Mal](https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Te Hice Mal](https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS) | 3:16 |
 | 33 | [Equivócate](https://open.spotify.com/track/6OXyxuhCCDlSua9AtR47jZ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Equivócate](https://open.spotify.com/album/5DpbtwxV4sqyZkuqpM0oPd) | 2:45 |
-| 34 | [Todo Que Ver](https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Todo Que Ver](https://open.spotify.com/album/0kts0H5wVXKiZAxdTCX1qt) | 2:27 |
-| 35 | [Te Amo](https://open.spotify.com/track/5g5gtCn1i6kojn1BTsu1pp) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:11 |
+| 34 | [Te Amo](https://open.spotify.com/track/5g5gtCn1i6kojn1BTsu1pp) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:11 |
+| 35 | [Todo Que Ver](https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Todo Que Ver](https://open.spotify.com/album/0kts0H5wVXKiZAxdTCX1qt) | 2:27 |
 | 36 | [Si Te Quedas Conmigo](https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Te Quedas Conmigo](https://open.spotify.com/album/2cjosNmIhyNdX5ZVkpLRFP) | 2:16 |
 | 37 | [No Quiero Compartir](https://open.spotify.com/track/7fzMXmWm7vONX6aRq7M1jI) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Quiero Compartir](https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k) | 2:45 |
-| 38 | [Mi Forma de Sentir](https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 4:09 |
-| 39 | [No Me Doy por Vencido](https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 2:40 |
+| 38 | [No Me Doy por Vencido](https://open.spotify.com/track/0vtTt7I6lz39voTqajJ7qi) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 2:40 |
+| 39 | [Mi Forma de Sentir](https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 4:09 |
 | 40 | [De Ti Enamorado](https://open.spotify.com/track/02MIYH9EHLAHZVu6iIFiNx) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [De Ti Enamorado](https://open.spotify.com/album/1WGsWVwYWDwVSlZJxEHamf) | 3:53 |
 | 41 | [Duele](https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas](https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV) | 3:09 |
 | 42 | [Corazón](https://open.spotify.com/track/3YabOtt3reMLrd6RoWCkFg) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Home Run Al Corazón](https://open.spotify.com/album/1oxwTSs54LTnseg4tnHy6B) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 49 | [La Leona y El Carcomido](https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Leona y El Carcomido](https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j) | 2:33 |
 | 50 | [No Sé Tú](https://open.spotify.com/track/6Qom7tyscHLWjEtwFflP74) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Neta Que No](https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr) | 2:38 |
 
-Snapshot ID: `aj3BAAAAAACs6DfaIBEMtpqFt++e60pu`
+Snapshot ID: `aj8SgAAAAADvvF2oCsZE6kLUga+Dz5S5`

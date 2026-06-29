@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,975 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,068 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 61 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 62 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 63 | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Ellie Maxwell](https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4) | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS) | 2:56 |
-| 64 | [Feel The Funk](https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [The Funk EP](https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH) | 3:26 |
-| 65 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
-| 66 | [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 |
-| 67 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
+| 64 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
+| 65 | [Feel The Funk](https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [The Funk EP](https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH) | 3:26 |
+| 66 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
+| 67 | [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 |
 | 68 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 |
 | 69 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
-| 70 | [Savana](https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Savana](https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH) | 2:30 |
+| 70 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
 
 Snapshot ID: `AAAAALPCPsgeYyuV4i5qSinS/QBn4cJe`

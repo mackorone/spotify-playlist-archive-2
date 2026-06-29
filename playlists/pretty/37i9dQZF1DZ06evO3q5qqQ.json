@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118054,
+  "num_followers": 118058,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAABgVHCoTtmgaLlpX+Alf0Rb",
+  "snapshot_id": "aj8SgAAAAAD9m5gH7mVUCcDIRQRa10GP",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 162048,
-      "name": "El Mochomo (En vivo)",
-      "url": "https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 162048,
+      "name": "El Mochomo (En vivo)",
+      "url": "https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 154837,
       "name": "El Me\u00f1o",
       "url": "https://open.spotify.com/track/60XjerMaOwGbF8wnqIEPck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "Ismael (En Vivo)",
-      "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 208890,
       "name": "Los Mitotes",
       "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "Ismael (En Vivo)",
+      "url": "https://open.spotify.com/track/76ykOZkFwSlRNsTyQ8hib0"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "El Mas Poderoso (En Vivo)",
-      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/0MHKbKv1uYgboaJEUot0CH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 180047,
       "name": "El Chapio",
       "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "El Mas Poderoso (En Vivo)",
+      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
     },
     {
       "added_at": null,

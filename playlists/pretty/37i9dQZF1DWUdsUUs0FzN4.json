@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24480,
+  "num_followers": 24479,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 181200,
       "name": "BOBOMENSOTONTO",
       "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Pupilas",
-        "url": "https://open.spotify.com/album/4o5oja6EsezIFPdwfZhV2e"
-      },
-      "artists": [
-        {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 192300,
-      "name": "Pupilas",
-      "url": "https://open.spotify.com/track/2qJqelZWIDkwYbNhJeSYFg"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "Gaga",
         "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 188304,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Pupilas",
+        "url": "https://open.spotify.com/album/4o5oja6EsezIFPdwfZhV2e"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "Pupilas",
+      "url": "https://open.spotify.com/track/2qJqelZWIDkwYbNhJeSYFg"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Bichifokel",
-        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 187091,
-      "name": "Bichifokel",
-      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "PIKI",
         "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 259867,
       "name": "PIKI",
       "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Bichifokel",
+        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 187091,
+      "name": "Bichifokel",
+      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "raxets",
-        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
-      },
-      "artists": [
-        {
-          "name": "Dinamarca",
-          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
-        },
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "raxets",
-      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "raxets",
+        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "raxets",
+      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "Shippeo",
         "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
       },
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "LLORAR!",
+        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "LLORAR!",
+      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "DOGGYSTYLE",
         "url": "https://open.spotify.com/album/5ey1vcVV7IbskYGhA6cu0T"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 160408,
       "name": "DOGGYSTYLE",
       "url": "https://open.spotify.com/track/1Z9x2cExo980DaCTMONpGL"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "LLORAR!",
-        "url": "https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "LLORAR!",
-      "url": "https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Mirando La Luna",
-        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Mirando La Luna",
-      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "T.V ADDICT",
         "url": "https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 161657,
       "name": "cash cash",
       "url": "https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Mirando La Luna",
+        "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Mirando La Luna",
+      "url": "https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5"
     },
     {
       "added_at": "2026-06-26 06:00:38",

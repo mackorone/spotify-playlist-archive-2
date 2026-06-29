@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,013 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,992 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 42 | [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 |
 | 43 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 |
 | 44 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 |
-| 45 | [Tilgi meg](https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tilgi meg](https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0) | 4:24 |
-| 46 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
+| 45 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
+| 46 | [Tilgi meg](https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tilgi meg](https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0) | 4:24 |
 | 47 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
 | 48 | [10 kniver i hjertet](https://open.spotify.com/track/5aFGctSPjWXPiFX5HupQuS) | [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [10 kniver i hjertet](https://open.spotify.com/album/1wMpMqsuPkVm4xfwM7y8JJ) | 2:52 |
 | 49 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 66 | [THEO](https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [THEO](https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu) | 2:27 |
 | 67 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
 | 68 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
-| 69 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
-| 70 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
+| 69 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
+| 70 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 | 71 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
 | 72 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
 | 73 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 |

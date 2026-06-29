@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1643136,
+  "num_followers": 1643052,
   "original_name": "Karaoke 2026",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 243026,
       "name": "Let It Be - Remastered 2009",
       "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "News Of The World (2011 Remaster)",
         "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 179200,
       "name": "We Are The Champions - Remastered 2011",
       "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/01dkVTJhjXbhGCW4VUelmq"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 267160,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7JIjUx3GsL0upxmNJacmtz"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Andy Y Lucas",
-        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
-      },
-      "artists": [
-        {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 232880,
       "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Andy Y Lucas",
+        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
+      },
+      "artists": [
+        {
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2831,22 +2831,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "YMCA",
-        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "YMCA - Original Version 1978",
-      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Vuelve Tequila",
         "url": "https://open.spotify.com/album/5ktQDuyw6LdjrtV8BjDpxW"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 189560,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/00o2gSF6lqv3XjRZyjROW5"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "YMCA",
+        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "YMCA - Original Version 1978",
+      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3039,6 +3039,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "No Need To Argue",
+        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 306426,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -3059,22 +3075,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "No Need To Argue",
-        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 306426,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Greatest Vol.1 - Belinda Carlisle",
         "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
       },
@@ -3087,6 +3087,22 @@
       "duration_ms": 246520,
       "name": "Heaven Is A Place On Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
+        "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3107,22 +3123,6 @@
       "duration_ms": 198386,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
-        "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3159,6 +3159,22 @@
       "duration_ms": 212893,
       "name": "La Tortura (feat. Alejandro Sanz)",
       "url": "https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Pablo Honey",
+        "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3203,18 +3219,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Pablo Honey",
-        "url": "https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN"
+        "name": "Dire Straits (Remastered)",
+        "url": "https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 238640,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
+      "duration_ms": 348624,
+      "name": "Sultans Of Swing",
+      "url": "https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3235,22 +3251,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Dire Straits (Remastered)",
-        "url": "https://open.spotify.com/album/3QEcBcqPmefFWd5ZrLNuDX"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 348624,
-      "name": "Sultans Of Swing",
-      "url": "https://open.spotify.com/track/3LTMnFa0hhwisyq6ILahyj"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
       },
@@ -3263,22 +3263,6 @@
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Come into My Life (10th Anniversary)",
-        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213305,
-      "name": "Freed from Desire",
-      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3299,18 +3283,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS"
+        "name": "Come into My Life (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
       },
       "artists": [
         {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
         }
       ],
-      "duration_ms": 295493,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA"
+      "duration_ms": 213305,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3327,6 +3311,22 @@
       "duration_ms": 249960,
       "name": "Walk Of Life",
       "url": "https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/7oqXnxR9Xg9Okhs17hL9aS"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295493,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA"
     },
     {
       "added_at": "2026-03-17 11:58:46",

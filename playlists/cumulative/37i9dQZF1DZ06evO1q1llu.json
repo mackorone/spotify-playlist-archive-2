@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 122112,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
@@ -1540,6 +1540,28 @@
       "duration_ms": 122278,
       "name": "Speak",
       "url": "https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo"
+    },
+    {
+      "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151760,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/0BgOAuclkKvafDSqcTBov2"
     },
     {
       "album": {

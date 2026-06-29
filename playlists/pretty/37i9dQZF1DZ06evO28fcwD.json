@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28359,
+  "num_followers": 28358,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAAC6+BIVTxVPQoyKHnt20qB",
+  "snapshot_id": "aj8SgAAAAACeX3cb28IvFBUzlwCwXms2",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 152040,
-      "name": "Lullaby (with Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feathers And Stone (Deluxe)",
         "url": "https://open.spotify.com/album/6oj2eJdvXjOnKFb1fJD02V"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 265043,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1i8LXTJ2WeRWIsWItLB45G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 152040,
+      "name": "Lullaby (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ezulwini Siyakhona",
+        "url": "https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Amagugu (Inkulu Lendaba)",
+      "url": "https://open.spotify.com/track/2xUnXEXmIoC5sDJlPIDJvZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ladysmith Black Mambazo and Friends",
         "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
       },
@@ -456,13 +472,13 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         },
         {
-          "name": "PJ Powers",
-          "url": "https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No"
+          "name": "China Black",
+          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
         }
       ],
-      "duration_ms": 229746,
-      "name": "World in Union",
-      "url": "https://open.spotify.com/track/7LEwOs94gtLESLIz19ikoO"
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
     },
     {
       "added_at": null,
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 242893,
-      "name": "Amagugu (Inkulu Lendaba)",
-      "url": "https://open.spotify.com/track/2xUnXEXmIoC5sDJlPIDJvZ"
+      "duration_ms": 216880,
+      "name": "Ngithunyiwe Kini",
+      "url": "https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1"
     },
     {
       "added_at": null,
@@ -524,13 +540,29 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         },
         {
-          "name": "China Black",
-          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
+          "name": "PJ Powers",
+          "url": "https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Swing Low Sweet Chariot",
-      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
+      "duration_ms": 229746,
+      "name": "World in Union",
+      "url": "https://open.spotify.com/track/7LEwOs94gtLESLIz19ikoO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Wangibambezela (Message from His Heart)",
+      "url": "https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp"
     },
     {
       "added_at": null,
@@ -567,38 +599,6 @@
       "duration_ms": 280333,
       "name": "Peace Train/Isitimela Sokuthula",
       "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ezulwini Siyakhona",
-        "url": "https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 216880,
-      "name": "Ngithunyiwe Kini",
-      "url": "https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Wangibambezela (Message from His Heart)",
-      "url": "https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Isitimela",
+        "url": "https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Thandiwe Wami",
+      "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inala",
         "url": "https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 209600,
       "name": "Ngothandaza Njalo (I'll Keep on Looking)",
       "url": "https://open.spotify.com/track/5cSr5dZoikDnkGX35l7rlj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "Music Knows No Boundaries",
-      "url": "https://open.spotify.com/track/0wE4Y07lPel0vWyU2puQKL"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isitimela",
-        "url": "https://open.spotify.com/album/2sQk0d0DJltKIbsyAmYhC2"
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
       },
       "artists": [
         {
@@ -732,9 +732,25 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Thandiwe Wami",
-      "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
+      "duration_ms": 183360,
+      "name": "Music Knows No Boundaries",
+      "url": "https://open.spotify.com/track/0wE4Y07lPel0vWyU2puQKL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umthombo Wamanzi",
+        "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Yimani",
+      "url": "https://open.spotify.com/track/34gPE6nPQITt7ShIbS9FhO"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "This Little Light of Mine (Bonus Track)",
-      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ulwandle Olungcwele",
         "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
       },
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umthombo Wamanzi",
-        "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 201640,
-      "name": "Yimani",
-      "url": "https://open.spotify.com/track/34gPE6nPQITt7ShIbS9FhO"
+      "duration_ms": 221760,
+      "name": "This Little Light of Mine (Bonus Track)",
+      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
     },
     {
       "added_at": null,

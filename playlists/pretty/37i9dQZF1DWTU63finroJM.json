@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: JBABE",
-  "num_followers": 86056,
+  "num_followers": 86061,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w"
     },
     {
+      "added_at": "2026-06-20 16:52:25",
+      "album": {
+        "name": "can't be blue",
+        "url": "https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
+        {
+          "name": "HAN",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "can't love (feat. HAN (Stray Kids))",
+      "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
+    },
+    {
       "added_at": "2026-06-19 13:00:36",
       "album": {
         "name": "201",
@@ -173,24 +193,20 @@
       "url": "https://open.spotify.com/track/4rmbkWnmeotS7o3Lgx7b8Q"
     },
     {
-      "added_at": "2026-06-20 16:52:25",
+      "added_at": "2026-06-19 13:00:36",
       "album": {
-        "name": "can't be blue",
-        "url": "https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam"
+        "name": "Whatever It Takes (Break Your Heart)",
+        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
       },
       "artists": [
         {
-          "name": "can't be blue",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        },
-        {
-          "name": "HAN",
-          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 195000,
-      "name": "can't love (feat. HAN (Stray Kids))",
-      "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
+      "duration_ms": 175588,
+      "name": "Whatever It Takes (Break Your Heart)",
+      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -207,22 +223,6 @@
       "duration_ms": 202539,
       "name": "tu non vuoi nessuno",
       "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
-        "name": "Whatever It Takes (Break Your Heart)",
-        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 175588,
-      "name": "Whatever It Takes (Break Your Heart)",
-      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-06-19 13:00:36",
       "album": {
+        "name": "Unveilings",
+        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
+      },
+      "artists": [
+        {
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "\u85cd\u67d3",
+      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
         "name": "LOVE ME",
         "url": "https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 181935,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
-        "name": "Unveilings",
-        "url": "https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5"
-      },
-      "artists": [
-        {
-          "name": "Amy Lo",
-          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "\u85cd\u67d3",
-      "url": "https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6"
     },
     {
       "added_at": "2026-06-19 13:00:36",

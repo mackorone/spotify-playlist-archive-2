@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,353 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,358 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 11 | [No Business](https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:17 |
 | 12 | [New Phone, Who Dis? \(Remix\) \[feat\. Durand Bernarr\]](https://open.spotify.com/track/0Di4yxIcNrsj0cXORiYdFM) | [Cyanca](https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Isle Of Queens Deluxe](https://open.spotify.com/album/3dboSC2J6m8aQLJv19g7SL) | 3:51 |
 | 13 | [Sam’s Vibe](https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Unblocked](https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5) | 5:15 |
-| 14 | [Undivided](https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:52 |
+| 14 | [EFFORT.](https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 |
 | 15 | [baby, can we?](https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [baby, can we?](https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ) | 4:06 |
 | 16 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 |
 | 17 | [Unknown](https://open.spotify.com/track/4eQ7eb2swQY6RobsmwmqsH) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:50 |
-| 18 | [EFFORT.](https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 |
+| 18 | [Undivided](https://open.spotify.com/track/5c61BpjqYhhs9xpqoGKei3) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:52 |
 | 19 | [Flounce](https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:39 |
 | 20 | [Leveled](https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 5:53 |
 | 21 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 42 | [Lil Bit \(feat\. METTA\)](https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Metta](https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
 | 43 | [Volume](https://open.spotify.com/track/1C7a5e3KDgbBuVnmZJKTX0) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:38 |
 
-Snapshot ID: `aj3BAAAAAAC4AtCJOM6U1Chfz7RZylTI`
+Snapshot ID: `aj8SgAAAAACKDkKji1MSpMQ3jwSS0pUn`

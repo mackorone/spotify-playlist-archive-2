@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAADjTkEmng5gE4FhhlJWefyK",
+  "snapshot_id": "aj8SgAAAAABlGEnAPRH3ndBrYQFqb2UA",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 169469,
+      "name": "El de Arriva Me Bendice",
+      "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 179188,
       "name": "Mario Aguirre - En Vivo",
       "url": "https://open.spotify.com/track/6Gzfl2SGDJL4NrPMS5q2wF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 169469,
-      "name": "El de Arriva Me Bendice",
-      "url": "https://open.spotify.com/track/65ARD3G7j5Q3eU3Jzd13Xn"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Banda",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
+        }
+      ],
+      "duration_ms": 227322,
+      "name": "La Muerte de Julio Beltr\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -679,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Banda",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 227322,
-      "name": "La Muerte de Julio Beltr\u00e1n - En Vivo",
-      "url": "https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Sigue la Mata Dando",
         "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 146580,
       "name": "Cuanto Tienes Cuanto Vales",
       "url": "https://open.spotify.com/track/533dQIJADShagV3sKG5JAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dejame",
-        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Sinaloense",
-          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
-        }
-      ],
-      "duration_ms": 162771,
-      "name": "Gilberto Palomares",
-      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 189687,
       "name": "El Plebe del Dos de Oro",
       "url": "https://open.spotify.com/track/1RKmGU2ilxn8gfEeOwJcfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dejame",
+        "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Sinaloense",
+          "url": "https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq"
+        }
+      ],
+      "duration_ms": 162771,
+      "name": "Gilberto Palomares",
+      "url": "https://open.spotify.com/track/23QiV1ksBzed9MjGleEiI4"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "El Cisne",
-      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -823,6 +807,38 @@
       "duration_ms": 182008,
       "name": "Rama Seca",
       "url": "https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "El Cisne",
+      "url": "https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 152383,
+      "name": "Tiro de Gracia",
+      "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
     },
     {
       "added_at": null,
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
       },
       "artists": [
         {
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 152383,
-      "name": "Tiro de Gracia",
-      "url": "https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H"
+      "duration_ms": 216333,
+      "name": "El Mes De Enero",
+      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 188706,
       "name": "El Comandante Fuentes",
       "url": "https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "El Mes De Enero",
-      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     }
   ],
   "unique_name": "This Is El Potro De Sinaloa",

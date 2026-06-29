@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 691872,
+  "num_followers": 691889,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "Chicago 16 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+      "duration_ms": 304213,
+      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
+      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -555,22 +555,6 @@
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Chicago 16 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Hard to Say I'm Sorry / Get Away - 2006 Remaster",
-      "url": "https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -603,6 +587,22 @@
       "duration_ms": 287440,
       "name": "Black Velvet",
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "The Long Run (2013 Remaster)",
-        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 295049,
-      "name": "I Can't Tell You Why - 2013 Remaster",
-      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Science & Faith",
         "url": "https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 252440,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "The Long Run (2013 Remaster)",
+        "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 295049,
+      "name": "I Can't Tell You Why - 2013 Remaster",
+      "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Heartbeat City",
         "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 234493,
       "name": "Drive",
       "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Ring",
-        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
-      },
-      "artists": [
-        {
-          "name": "The Connells",
-          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
-        }
-      ],
-      "duration_ms": 278973,
-      "name": "'74-'75",
-      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Collective Soul",
         "url": "https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 255466,
       "name": "The World I Know",
       "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
+      },
+      "artists": [
+        {
+          "name": "The Connells",
+          "url": "https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb"
+        }
+      ],
+      "duration_ms": 278973,
+      "name": "'74-'75",
+      "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
     },
     {
       "added_at": "2023-04-11 13:31:58",

@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 294143,
+  "num_followers": 294120,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Fallin' (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 266276,
-      "name": "Fallin' (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Fallin' (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/36084xkxfgcSMnaeWphBOY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 266276,
+      "name": "Fallin' (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/5XFwDMO60LntXrFSWHPopc"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
         "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 151506,
       "name": "DUVET",
       "url": "https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 152210,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 162051,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 152210,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
+        "name": "Cutesy",
+        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 181589,
+      "name": "Cutesy",
+      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
         "name": "nobody has to know (with Ronald Isley)",
         "url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd"
       },
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Cutesy",
-        "url": "https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 181589,
-      "name": "Cutesy",
-      "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "10AM",
         "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
       },
@@ -1379,38 +1379,6 @@
       "duration_ms": 216223,
       "name": "10AM",
       "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "Desire - Spotify Singles",
-        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Desire - Spotify Singles",
-      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "Dark Nights",
-        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 192279,
-      "name": "What I Used To Get Into",
-      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1431,6 +1399,38 @@
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 192279,
+      "name": "What I Used To Get Into",
+      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Desire - Spotify Singles",
+        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Desire - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "cracks beneath my skin",
-        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 185082,
-      "name": "cracks beneath my skin",
-      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 189866,
       "name": "No Secrets",
       "url": "https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "cracks beneath my skin",
+        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "duration_ms": 185082,
+      "name": "cracks beneath my skin",
+      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 234608,
-      "name": "100",
-      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "If The Walls Could Talk",
         "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 190666,
       "name": "If The Walls Could Talk",
       "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 234608,
+      "name": "100",
+      "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
     },
     {
       "added_at": "2026-06-10 11:59:44",

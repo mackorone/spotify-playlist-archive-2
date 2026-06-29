@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11557,
+  "num_followers": 11558,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAB0vDqAFC+iUw2bOh+jAtiB",
+  "snapshot_id": "aj8SgAAAAAAk1ZAevb2mWIbw+DndrRJK",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean In The Desert",
         "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 224643,
       "name": "Ocean In The Desert",
       "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 181696,
-      "name": "How I Could Fall",
-      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -699,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 234731,
       "name": "The Color Purple (Reprise)",
       "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 181696,
+      "name": "How I Could Fall",
+      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freedom - EP",
-        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 237387,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freedom - EP",
+        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
     },
     {
       "added_at": null,

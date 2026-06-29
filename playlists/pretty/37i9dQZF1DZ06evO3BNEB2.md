@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,715 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,719 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 26 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 |
 | 27 | [N.W.A](https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [N.W.A](https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz) | 3:50 |
 | 28 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
-| 29 | [Like I \(with Andra Day\)](https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:13 |
+| 29 | [Conundrum](https://open.spotify.com/track/2j3ZeRQLyJyMTWzNkHFRtb) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:08 |
 | 30 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 |
 | 31 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 |
 | 32 | [Bounce It \(feat\. Wale & Trey Songz\)](https://open.spotify.com/track/3N5oiETJEStSB71TjTFkWV) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Stay Trippy](https://open.spotify.com/album/7h1ut6IUbndKY7QrqcbAND) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 |
 | 50 | [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 |
 
-Snapshot ID: `aj3BAAAAAABQLRyGIHLGXOyGuH1AOYqs`
+Snapshot ID: `aj8SgAAAAACEYjGxHujm9yA6zss8/PzX`

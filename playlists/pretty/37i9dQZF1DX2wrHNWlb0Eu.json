@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 125227,
+  "num_followers": 125235,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
-        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 216114,
-      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
-      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
         "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 203000,
       "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
       "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
+        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 216114,
+      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
+      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+        "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
       "artists": [
         {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+          "name": "Bow Maylada",
+          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+        },
+        {
+          "name": "GUYGEEGEE",
+          "url": "https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj"
         }
       ],
-      "duration_ms": 191392,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
+      "duration_ms": 212500,
+      "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
-        "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
       },
       "artists": [
         {
-          "name": "Bow Maylada",
-          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
-        },
-        {
-          "name": "GUYGEEGEE",
-          "url": "https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj"
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
         }
       ],
-      "duration_ms": 212500,
-      "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
+      "duration_ms": 191392,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
+      },
+      "artists": [
+        {
+          "name": "Bow Maylada",
+          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
+        },
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "The White Room",
         "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 182666,
       "name": "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e1e\u0e38\u0e18\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e28\u0e38\u0e01\u0e23\u0e4c\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c (Everyday)",
       "url": "https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
-      },
-      "artists": [
-        {
-          "name": "Bow Maylada",
-          "url": "https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d"
-        },
-        {
-          "name": "Lipta",
-          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
+        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
         "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
       },
@@ -1147,6 +1163,22 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
+        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "duration_ms": 257566,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
+      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
@@ -1163,22 +1195,6 @@
       "duration_ms": 296000,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
       "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
-        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
-      },
-      "artists": [
-        {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
-        }
-      ],
-      "duration_ms": 257566,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
-      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
-        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
         "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
         "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 207387,
       "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+      },
+      "artists": [
+        {
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+        },
+        {
+          "name": "\u0e27\u0e34\u0e19 \u0e23\u0e31\u0e15\u0e19\u0e1e\u0e25",
+          "url": "https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0"
+        }
+      ],
+      "duration_ms": 326326,
+      "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "Urban Lullaby",
         "url": "https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p"
       },
@@ -1487,6 +1507,22 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/3ID6amkiCsnNwYEEvZg5DD"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 321699,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/4EgdU9qfAfHC8ZsGd7dnac"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
         "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
       },
@@ -1571,26 +1607,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
-      },
-      "artists": [
-        {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
-        },
-        {
-          "name": "\u0e27\u0e34\u0e19 \u0e23\u0e31\u0e15\u0e19\u0e1e\u0e25",
-          "url": "https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0"
-        }
-      ],
-      "duration_ms": 326326,
-      "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-      "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
         "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
       },
@@ -1619,6 +1635,22 @@
       "duration_ms": 244150,
       "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/1768MAJdcsOkLd9UVIOvaN"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+      },
+      "artists": [
+        {
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1655,22 +1687,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
-      },
-      "artists": [
-        {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
         "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e23\u0e31\u0e01\u0e40\u0e23\u0e32 - Single",
-        "url": "https://open.spotify.com/album/7rZXyGJlUbCdQIlwMaQmnq"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e04\u0e19\u0e17\u0e35\u0e48\u0e40\u0e02\u0e32\u0e23\u0e31\u0e01\u0e40\u0e23\u0e32",
-      "url": "https://open.spotify.com/track/6IitkM7xiuKhDXzshXUnRa"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

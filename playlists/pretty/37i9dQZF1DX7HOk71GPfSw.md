@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > youshouldbeaskingmeout 🇫🇮
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,820 likes - 125 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,029 likes - 125 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 124 | [i don't feel the same](https://open.spotify.com/track/1vd6qhQmfy8rqWQxuMnla2) | [Jeremy James Whitaker](https://open.spotify.com/artist/41FAFO0sEodQajiyqTtNX3), [O2solus](https://open.spotify.com/artist/0OxsY3otsNsVEg7DLhmL3a) | [the last one standing](https://open.spotify.com/album/5t5idwlfkCXLVBEFZRBEzp) | 3:28 |
 | 125 | [Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hot Fun](https://open.spotify.com/album/4PzhTCrRTncrgOvGcOYpud) | 3:14 |
 
-Snapshot ID: `AAAAAPqoiW5h9KBxxgre7OGYj+aZnzue`
+Snapshot ID: `AAAAAAtXWC1ZOGDEPE+BqrIjsFZuEla2`

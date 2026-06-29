@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 751 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 47 | [Trapezoid](https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 2:45 |
 | 48 | [Thumb of Craven](https://open.spotify.com/track/0b4QMytM23x5RIqNoZR3pv) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 3:04 |
 | 49 | [Play With Something Safe](https://open.spotify.com/track/1fIzr1E8cAKmfkZ0E1BRBm) | [Rosco P Coldchain](https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ab Liva](https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi), [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU) | [Play With Something Safe](https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP) | 4:08 |
-| 50 | [Blk Luster S](https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd 2](https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac) | 2:22 |
+| 50 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 |
 
-Snapshot ID: `aj3BAAAAAADGr9UxNJBw+IjlcsQX6n76`
+Snapshot ID: `aj8SgAAAAAC1knHN+0gAwLHy2dl9F4Ly`

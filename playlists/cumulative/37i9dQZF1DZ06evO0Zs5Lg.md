@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 28 min
+67 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [High Priced Shoes](https://open.spotify.com/track/4HZAmZEps1rnI8u3PgPLhT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:41 | 2025-04-19 |  |
 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 | 2025-04-19 |  |
 | [I Dry Heave](https://open.spotify.com/track/12bZrnYJpqXNCN8545LDIz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Project Gampo](https://open.spotify.com/album/6cyh4kHkJVOlLGx6LFElwJ) | 3:43 | 2025-04-19 |  |
+| [Imposter](https://open.spotify.com/track/0TSLL6ziM6ArpN0uV7wwxY) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 4:09 | 2026-06-29 |  |
 | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/track/7DSqGWatwo13yjAIgKx8g8) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Jewelry Duty \(with T\-Pain\)](https://open.spotify.com/album/2fBT3VgUrM7S3HVfZiqjbJ) | 3:07 | 2026-03-29 |  |
 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 | 2025-04-19 |  |
 | [Kia Boy](https://open.spotify.com/track/4W0ovOeWSWoOVp7LFVTYYE) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Kia Boy](https://open.spotify.com/album/4HJohcUsonTrzPCyaaN1KP) | 3:05 | 2026-05-31 | 2026-06-28 |
@@ -57,7 +58,8 @@
 | [Pay Day](https://open.spotify.com/track/7GOLZ0xUHM3MTq54ZRmsHA) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Jon Ray](https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW) | [Pay Day](https://open.spotify.com/album/1Wp2ng61ftHlhuILPmqjtO) | 3:00 | 2025-04-19 | 2025-05-24 |
 | [Penny Nickel Dime](https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1) | [Amp Live](https://open.spotify.com/artist/4WoeMzXhDQyoFCKdji4FlL), [Anya](https://open.spotify.com/artist/1Y2BbSdBwvfln12Otq7XTk), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Headphone Concerto](https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT) | 3:52 | 2025-04-19 | 2026-04-26 |
 | [Permission](https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:57 | 2025-04-19 | 2026-06-28 |
-| [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 | 2025-04-19 |  |
+| [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 | 2025-04-19 | 2026-06-29 |
+| [Reaching for Fire](https://open.spotify.com/track/5R5feKLIiHH3ouJVkXCCZM) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:38 | 2026-06-29 |  |
 | [Snake Skin Leather](https://open.spotify.com/track/521mlZAo2XcA5lvFgN4tUT) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 | 2025-04-19 |  |
 | [Soupy \(with Cozz\)](https://open.spotify.com/track/1nmZkBjLJr1fK3CiNjkNUS) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:26 | 2026-01-15 |  |
 | [Spellbound \(The Beginning\)](https://open.spotify.com/track/6cIprowHIA9CtkA9Bgxk7g) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:16 | 2025-04-19 |  |
@@ -70,7 +72,7 @@
 | [Time Bomb](https://open.spotify.com/track/2ynJ4wHuFcfTXk1bkv8JgL) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 | 2025-04-19 |  |
 | [Treat You Right](https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [Treat You Right](https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue) | 3:24 | 2025-04-19 |  |
 | [Vulnerable God](https://open.spotify.com/track/1rns1Sea7RI4wCNHtkkthQ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Vulnerable God](https://open.spotify.com/album/2Px80IZqOMRP6E6kjM2wie) | 2:04 | 2025-04-19 |  |
-| [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 | 2025-04-19 |  |
+| [Whiskey](https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [King Gampo](https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2) | 2:55 | 2025-04-19 | 2026-06-29 |
 | [Windows](https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J), [Slug](https://open.spotify.com/artist/6Lz3nv3y0hhdKkyrApFCZD), [Ant](https://open.spotify.com/artist/71C1AXi9lDQXnSKZjeTYiI), [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Windows](https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK) | 3:33 | 2025-04-19 | 2026-06-28 |
 | [Zoo](https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Zoo](https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC) | 2:53 | 2025-04-19 |  |
 

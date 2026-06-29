@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 
 > This is Led Zeppelin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,530 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,591 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 6 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 |
 | 7 | [Going to California \- Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:32 |
 | 8 | [Kashmir \- Remaster](https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 8:37 |
-| 9 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
-| 10 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 |
+| 9 | [Tangerine \- Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:11 |
+| 10 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
 | 11 | [Rock and Roll \- Remaster](https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 3:40 |
 | 12 | [All My Love \- Remaster](https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 5:53 |
 | 13 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NyWWI.md) - [plain]
 | 41 | [Communication Breakdown \- 1990 Remaster](https://open.spotify.com/track/0yVs7eSL8mPnIu2CGKHpUQ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:27 |
 | 42 | [Achilles Last Stand \- Remaster](https://open.spotify.com/track/1ibHApXtb0pgplmNDRLHrJ) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Presence \(Remaster\)](https://open.spotify.com/album/3uhD8hNpb0m3iIZ18RHH5u) | 10:31 |
 | 43 | [Down by the Seaside \- Remaster](https://open.spotify.com/track/5NfzVueIjM2uwu7UWTvZAU) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Physical Graffiti \(Deluxe Edition\)](https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y) | 5:15 |
-| 44 | [In the Evening \- Remaster](https://open.spotify.com/track/5OGPjlTOXvKFhnCy9zSdpv) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 6:53 |
-| 45 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 |
-| 46 | [Dancing Days \- Remaster](https://open.spotify.com/track/43doj2cumGe9W3p5ucxaoH) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:43 |
-| 47 | [Celebration Day \- Remaster](https://open.spotify.com/track/78MXICbE7bD4cuPKFh1EFO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:30 |
+| 44 | [The Battle of Evermore \- Remaster](https://open.spotify.com/track/6KCjY5kHvgWaWcAV6BBzxO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 5:51 |
+| 45 | [In the Evening \- Remaster](https://open.spotify.com/track/5OGPjlTOXvKFhnCy9zSdpv) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [In Through the out Door \(Remaster\)](https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2) | 6:53 |
+| 46 | [Celebration Day \- Remaster](https://open.spotify.com/track/78MXICbE7bD4cuPKFh1EFO) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 3:30 |
+| 47 | [Dancing Days \- Remaster](https://open.spotify.com/track/43doj2cumGe9W3p5ucxaoH) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 3:43 |
 | 48 | [The Girl I Love She Got Long Black Wavy Hair \- Live on Tasty Pop Sundae from BBC Sessions;Remaster](https://open.spotify.com/track/7ecVrUYlhj6OrKTAK0oDzo) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Complete BBC Sessions \(Remastered\)](https://open.spotify.com/album/6VH2op0GKIl3WNTbZmmcmI) | 3:03 |
 | 49 | [Stairway to Heaven \- \(Live at MSG 1973\) \[Remaster\]](https://open.spotify.com/track/3sxIm3lTgdvXJdNHNn64BS) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [The Song Remains the Same \(Remaster\)](https://open.spotify.com/album/0ui4S0TZghkf1d1Wz0oWpk) | 10:53 |
 | 50 | [Four Sticks \- Remaster](https://open.spotify.com/track/2kVhHxpxXhWr5OuuBtMLME) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 4:45 |
 
-Snapshot ID: `aj3BAAAAAAAIHmPBR6rH8My33gsuwx/b`
+Snapshot ID: `aj8SgAAAAAAZHLOIzotK6W/XhhWrVE9i`

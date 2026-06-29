@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 316859,
+  "num_followers": 316934,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Disarm - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Stoned and Dethroned (Expanded Version)",
         "url": "https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 151960,
       "name": "Sometimes Always",
       "url": "https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Disarm - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Alien Lanes",
-        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
       "artists": [
         {
-          "name": "Guided By Voices",
-          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 93306,
-      "name": "Game Of Pricks",
-      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+        "name": "Alien Lanes",
+        "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
       },
       "artists": [
         {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+          "name": "Guided By Voices",
+          "url": "https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl"
         }
       ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+      "duration_ms": 93306,
+      "name": "Game Of Pricks",
+      "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
     },
     {
       "added_at": "2025-01-15 04:11:50",

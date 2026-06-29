@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-116 songs - 5 hr 55 min
+117 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Chivirika \- Remix](https://open.spotify.com/track/0u8glMfKNxpiArg4YOlT9I) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika \(Remix\)](https://open.spotify.com/album/2hi0gHwba26cTJEY3YAko2) | 5:37 | 2023-12-13 | 2025-02-11 |
 | [COMO ESTÁS BB](https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL TIBURÓN](https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t) | 3:02 | 2025-04-01 |  |
 | [COMO ESTÁS BB](https://open.spotify.com/track/2N2t5tqxcIUn8F9fQb2dIR) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:02 | 2024-06-02 | 2025-04-01 |
+| [CONSUELA \(feat\. Lola Indigo\)](https://open.spotify.com/track/42bS5n1uKqfeBVwX2gwfCs) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SALGOAT \(Vol\. 2 \- Extension\)](https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g) | 2:37 | 2026-06-29 |  |
 | [CORAZONES ROTOS](https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [CORAZONES ROTOS](https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4) | 3:50 | 2023-11-10 |  |
 | [CORAZÓN PARTÍO \- Spotify Singles](https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spotify Singles](https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T) | 4:13 | 2025-05-16 |  |
-| [cómo te va?](https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [cómo te va?](https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD) | 3:38 | 2023-11-10 |  |
+| [cómo te va?](https://open.spotify.com/track/3lf6mWt6LkbQ4OarnxrBGD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [cómo te va?](https://open.spotify.com/album/77moYaJ9XiDjHZCGBveUKD) | 3:38 | 2023-11-10 | 2026-06-29 |
 | [DE PLASTILINA](https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 3:29 | 2024-05-24 |  |
 | [DE PLASTILINA](https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [DE PLASTILINA](https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa) | 3:29 | 2023-11-10 | 2024-05-24 |
 | [Demente](https://open.spotify.com/track/2ITfHO15LB2CFYKEhSS3dE) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Demente](https://open.spotify.com/album/0Co0kJYJLDW3Y7nG56jZLc) | 3:07 | 2023-11-10 | 2025-03-30 |

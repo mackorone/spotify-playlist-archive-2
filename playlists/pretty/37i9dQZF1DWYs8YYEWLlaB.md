@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Radikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,624 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,694 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 28 | [Küçük Bir Yol \- Red Bull Track Takeover](https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Küçük Bir Yol \(Red Bull Track Takeover\)](https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY) | 3:20 |
 | 29 | [Yeraltı](https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Yeraltı](https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD) | 2:49 |
 | 30 | [RDM](https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [RDM](https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn) | 2:01 |
-| 31 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
+| 31 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 |
 | 32 | [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 |
 | 33 | [Rüya Gibiydin](https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Rüya Gibiydin](https://open.spotify.com/album/1boVHfsKiExh1Pe6zDo2Jl) | 2:59 |
 | 34 | [Bir Güldün](https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa), [Funktakl](https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 3:35 |
 | 35 | [PERDE](https://open.spotify.com/track/7xYtgtwlgXvpiTnXUAkceF) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [BARIŞ](https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y) | 3:39 |
-| 36 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 |
+| 36 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
 | 37 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 |
 | 38 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
 | 39 | [Ayy / Ben Hala Rüyada](https://open.spotify.com/track/1Pa4L24EJtTPkpftbmzeUb) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Ben Hala Rüyada](https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN) | 3:18 |

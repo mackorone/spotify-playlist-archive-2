@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC, BIN",
-  "num_followers": 188947,
+  "num_followers": 188995,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -331,46 +331,6 @@
     {
       "added_at": "2026-06-22 13:49:39",
       "album": {
-        "name": "Diz Pra Mim",
-        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Jones",
-          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
-        }
-      ],
-      "duration_ms": 199736,
-      "name": "Diz Pra Mim",
-      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -391,6 +351,46 @@
       "duration_ms": 223808,
       "name": "Do Que \u00e9 Feito o Amor?",
       "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+        }
+      ],
+      "duration_ms": 199736,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
     },
     {
       "added_at": "2026-06-22 13:49:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-06-22 13:49:39",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 254791,
-      "name": "Prisma",
-      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
         "name": "Poema Sujo",
         "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 182000,
       "name": "Poema Sujo",
       "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        }
+      ],
+      "duration_ms": 254791,
+      "name": "Prisma",
+      "url": "https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ"
     },
     {
       "added_at": "2026-06-22 13:49:39",
@@ -847,6 +847,26 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
+        "name": "n\u00e3o dou valor",
+        "url": "https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        },
+        {
+          "name": "REAL PS",
+          "url": "https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "n\u00e3o dou valor",
+      "url": "https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0"
     },
     {
       "added_at": "2026-06-22 13:49:39",
@@ -879,26 +899,6 @@
       "duration_ms": 119440,
       "name": "Sem ter que me explicar",
       "url": "https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
-        "name": "n\u00e3o dou valor",
-        "url": "https://open.spotify.com/album/01xuyjmFrJO4R42lYNXjVV"
-      },
-      "artists": [
-        {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
-        },
-        {
-          "name": "REAL PS",
-          "url": "https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "n\u00e3o dou valor",
-      "url": "https://open.spotify.com/track/1oKbigIydvg4qww4qkYEH0"
     },
     {
       "added_at": "2026-06-22 13:49:39",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-06-22 13:49:39",
       "album": {
+        "name": "N\u00c3O VOU PARAR",
+        "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 145237,
+      "name": "N\u00c3O VOU PARAR",
+      "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
         "name": "pode me gravar :)",
         "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
       },
@@ -1207,6 +1227,22 @@
       "duration_ms": 169384,
       "name": "pode me gravar :)",
       "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
+      },
+      "artists": [
+        {
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2026-06-22 13:49:39",
@@ -1231,58 +1267,6 @@
     {
       "added_at": "2026-06-22 13:49:39",
       "album": {
-        "name": "N\u00c3O VOU PARAR",
-        "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 145237,
-      "name": "N\u00c3O VOU PARAR",
-      "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
-      },
-      "artists": [
-        {
-          "name": "Magyn",
-          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2026-06-22 13:49:39",
-      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 172173,
       "name": "Tempo Que N\u00e3o Volta",
       "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
+    },
+    {
+      "added_at": "2026-06-22 13:49:39",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2026-06-22 13:49:39",

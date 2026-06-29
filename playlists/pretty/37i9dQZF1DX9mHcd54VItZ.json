@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Aiden Kade",
-  "num_followers": 27963,
+  "num_followers": 27968,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -177,30 +177,6 @@
       "url": "https://open.spotify.com/track/495cjydvmEw3WdH4K8LJJz"
     },
     {
-      "added_at": "2026-06-12 06:02:15",
-      "album": {
-        "name": "F all ur Friends",
-        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
-      },
-      "artists": [
-        {
-          "name": "RJ Pasin",
-          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
-        },
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        },
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "F all ur Friends",
-      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Hoe Nou?",
@@ -223,6 +199,30 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
+    },
+    {
+      "added_at": "2026-06-12 06:02:15",
+      "album": {
+        "name": "F all ur Friends",
+        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
+      },
+      "artists": [
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        },
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "F all ur Friends",
+      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
     },
     {
       "added_at": "2026-06-18 22:02:16",
@@ -439,18 +439,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "SELFBEWUS",
-        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 192794,
-      "name": "SELFBEWUS",
-      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2026-06-18 22:02:16",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "SELFBEWUS",
+        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 192794,
+      "name": "SELFBEWUS",
+      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
     },
     {
       "added_at": "2026-06-18 22:02:16",
@@ -515,22 +515,6 @@
       "duration_ms": 260000,
       "name": "Jongman",
       "url": "https://open.spotify.com/track/1HOSTMEAxEOUX4kp1AOBVd"
-    },
-    {
-      "added_at": "2026-06-12 06:02:15",
-      "album": {
-        "name": "delete you.",
-        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 188459,
-      "name": "delete you.",
-      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -553,20 +537,20 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-06-12 06:02:15",
       "album": {
-        "name": "Vriende",
-        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
+        "name": "delete you.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
         }
       ],
-      "duration_ms": 235568,
-      "name": "Vriende",
-      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
+      "duration_ms": 188459,
+      "name": "delete you.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -583,6 +567,22 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Vriende",
+        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 235568,
+      "name": "Vriende",
+      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Elsie",
         "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -707,22 +723,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "Pikkewynstraat",
         "url": "https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 180011,
       "name": "Pikkewynstraat",
       "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Revolusie, Romantiek, Ruk en Rol",
+        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
+      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -755,22 +771,6 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Revolusie, Romantiek, Ruk en Rol",
-        "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
-      },
-      "artists": [
-        {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
-      "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "A Little Less",
-        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
+        "name": "Berge",
+        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
       },
       "artists": [
         {
-          "name": "Blush",
-          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 202887,
-      "name": "A Little Less",
-      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
+      "duration_ms": 255722,
+      "name": "Berge",
+      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     }
   ],
   "unique_name": "SA Rock ",

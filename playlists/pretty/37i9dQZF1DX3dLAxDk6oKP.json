@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 512983,
+  "num_followers": 513125,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2026-06-26 07:31:17",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -347,34 +327,22 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2026-06-26 07:31:17",
-      "album": {
-        "name": "PUES QUE LE HAGO ?",
-        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
-      },
-      "artists": [
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
         {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 141607,
-      "name": "PUES QUE LE HAGO ?",
-      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -399,18 +367,34 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
         }
       ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+    },
+    {
+      "added_at": "2026-06-26 07:31:17",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -435,6 +419,22 @@
       "duration_ms": 224454,
       "name": "holanda",
       "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
+    },
+    {
+      "added_at": "2026-06-26 07:31:17",
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -507,18 +507,22 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "LOS MENSAJES DE WHATSAPP",
-        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 199848,
-      "name": "LOS MENSAJES DE WHATSAPP",
-      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -539,22 +543,18 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "Que Gacho",
-        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 193205,
-      "name": "Que Gacho",
-      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "Triple Lavada",
-        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
-      },
-      "artists": [
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        }
-      ],
-      "duration_ms": 165790,
-      "name": "Triple Lavada",
-      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
-    },
-    {
-      "added_at": "2026-06-26 07:31:17",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 172682,
       "name": "Aguas",
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+    },
+    {
+      "added_at": "2026-06-26 07:31:17",
+      "album": {
+        "name": "Triple Lavada",
+        "url": "https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P"
+      },
+      "artists": [
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "duration_ms": 165790,
+      "name": "Triple Lavada",
+      "url": "https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "El Del Palenque",
-        "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        }
-      ],
-      "duration_ms": 192876,
-      "name": "El Del Palenque",
-      "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
-    },
-    {
-      "added_at": "2026-06-26 07:31:17",
-      "album": {
         "name": "LUZ VERDE",
         "url": "https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 170420,
       "name": "LUZ VERDE",
       "url": "https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95"
+    },
+    {
+      "added_at": "2026-06-26 07:31:17",
+      "album": {
+        "name": "El Del Palenque",
+        "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "duration_ms": 192876,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "El Chore",
-        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
-        }
-      ],
-      "duration_ms": 170259,
-      "name": "El Chore",
-      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
-    },
-    {
-      "added_at": "2026-06-26 07:31:17",
-      "album": {
         "name": "Changuito Me Apodaron",
         "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 165482,
       "name": "COMO CAPO",
       "url": "https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN"
+    },
+    {
+      "added_at": "2026-06-26 07:31:17",
+      "album": {
+        "name": "El Chore",
+        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "El Chore",
+      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
     },
     {
       "added_at": "2026-06-26 07:31:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-06-26 07:31:17",
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
-    },
-    {
-      "added_at": "2026-06-26 07:31:17",
-      "album": {
         "name": "El Guty",
         "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 163582,
       "name": "El Guty",
       "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
+    },
+    {
+      "added_at": "2026-06-26 07:31:17",
+      "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
     },
     {
       "added_at": "2026-06-26 07:31:17",

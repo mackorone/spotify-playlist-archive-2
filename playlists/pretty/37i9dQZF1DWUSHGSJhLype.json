@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez",
-  "num_followers": 759259,
+  "num_followers": 759271,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Eu Me Apaixonei",
-        "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
-      },
-      "artists": [
-        {
-          "name": "Vitinho Imperador",
-          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Eu Me Apaixonei",
-      "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "Paralelos Vol. 02",
         "url": "https://open.spotify.com/album/1i6thmVWAz7Q9CMBSIWim5"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 148195,
       "name": "Me Fala Qual Necessidade - Ao Vivo",
       "url": "https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Eu Me Apaixonei",
+        "url": "https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA"
+      },
+      "artists": [
+        {
+          "name": "Vitinho Imperador",
+          "url": "https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Eu Me Apaixonei",
+      "url": "https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Mari no Barzinho (Ao Vivo em Fortaleza)",
-        "url": "https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "Telefone Sem Fio - Ao Vivo",
-      "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 129692,
       "name": "SEQU\u00caNCIA FEITICEIRA",
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Mari no Barzinho (Ao Vivo em Fortaleza)",
+        "url": "https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "Telefone Sem Fio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -607,46 +607,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Ama Um Maloqueiro",
-        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
-      },
-      "artists": [
-        {
-          "name": "Rafa e Junior",
-          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        },
-        {
-          "name": "DJ Ari SL",
-          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Ama Um Maloqueiro",
-      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Churrasquinho 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
-      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
         "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
       },
@@ -663,6 +623,22 @@
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 311077,
+      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -695,6 +671,50 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Ama Um Maloqueiro",
+        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
+      },
+      "artists": [
+        {
+          "name": "Rafa e Junior",
+          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "DJ Ari SL",
+          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Ama Um Maloqueiro",
+      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Ele Ou Eu",
+        "url": "https://open.spotify.com/album/5rsqVICpteZxgoXUSarVp5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
+        }
+      ],
+      "duration_ms": 204351,
+      "name": "Ele Ou Eu",
+      "url": "https://open.spotify.com/track/5h7u2u9egl8LaE9rTDscH5"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
         "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Ele Ou Eu",
-        "url": "https://open.spotify.com/album/5rsqVICpteZxgoXUSarVp5"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Pablo",
-          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
-        }
-      ],
-      "duration_ms": 204351,
-      "name": "Ele Ou Eu",
-      "url": "https://open.spotify.com/track/5h7u2u9egl8LaE9rTDscH5"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy"
       },
@@ -755,6 +755,30 @@
       "duration_ms": 167528,
       "name": "Aquele Lugar - Ao Vivo",
       "url": "https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        },
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "duration_ms": 341722,
+      "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
+      "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -831,6 +855,22 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
+        "name": "Mari No Barzinho (Ao Vivo No RJ)",
+        "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 161610,
+      "name": "P\u00e1gina De Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
         "name": "Medley Mu\u00eddo de Vaquejada - Desce do Cavalo / Balada do Vaqueiro / Monta Logo Vai / Calma / Senta No Fazendeiro / Deixa Ela Montar Na Minha Garupa / Botad\u00e3o Do GW",
         "url": "https://open.spotify.com/album/05yNuhZYZ4LhKyFJYFo5MY"
       },
@@ -863,22 +903,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Mari No Barzinho (Ao Vivo No RJ)",
-        "url": "https://open.spotify.com/album/6iBPOik18bu37n3mLNGwbx"
-      },
-      "artists": [
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 161610,
-      "name": "P\u00e1gina De Ex - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kFaWbpzQzpaJ0H6PskR6k"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "Me Apaixonei Nessa Morena",
         "url": "https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 171480,
       "name": "Me Apaixonei Nessa Morena",
       "url": "https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
-        "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        },
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Fred & Fabr\u00edcio",
-          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
-        }
-      ],
-      "duration_ms": 341722,
-      "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
-      "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Na Liga em Sampa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I"
-      },
-      "artists": [
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 188409,
-      "name": "At\u00e9 Quando - Ao Vivo",
-      "url": "https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "\u00c9 Tarde Demais / Estou Mal (Ao Vivo)",
         "url": "https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 238271,
       "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
       "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Na Liga em Sampa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 188409,
+      "name": "At\u00e9 Quando - Ao Vivo",
+      "url": "https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh"
     },
     {
       "added_at": "2026-06-26 03:00:56",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2026-06-26 03:00:56",
       "album": {
-        "name": "Baile no Rio",
-        "url": "https://open.spotify.com/album/2vQ5OHlDaVPObQyAcv4MtF"
-      },
-      "artists": [
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Baile no Rio",
-      "url": "https://open.spotify.com/track/1BInZuNY6XMXr89Pn3cJYL"
-    },
-    {
-      "added_at": "2026-06-26 03:00:56",
-      "album": {
         "name": "Eu e Kevin, DENNIS e Eu Vol. 3",
         "url": "https://open.spotify.com/album/4tdsnbt4qS3NTBNLTXXClg"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 140978,
       "name": "Pente e Rala",
       "url": "https://open.spotify.com/track/1VCEamUWQEDKnIHK33NbdP"
+    },
+    {
+      "added_at": "2026-06-26 03:00:56",
+      "album": {
+        "name": "Baile no Rio",
+        "url": "https://open.spotify.com/album/2vQ5OHlDaVPObQyAcv4MtF"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Baile no Rio",
+      "url": "https://open.spotify.com/track/1BInZuNY6XMXr89Pn3cJYL"
     },
     {
       "added_at": "2026-06-26 03:00:56",

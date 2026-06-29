@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-319 songs - 18 hr 5 min
+320 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-09-01 | 2024-05-24 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-27 |  |
 | [Can't Do Without You](https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl) | 3:56 | 2025-05-16 | 2026-05-02 |
+| [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 | 2026-06-25 |  |
 | [Cinco De Mayhem](https://open.spotify.com/track/6Ry0A0Le86i8vEqIk4cBXx) | [Van Damn](https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO) | [Cinco De Mayhem](https://open.spotify.com/album/0BLJMmmp68xNFY3wvOJ5qa) | 3:17 | 2024-06-14 | 2025-05-17 |
 | [Circle Back Around](https://open.spotify.com/track/35Mtty773xrW0jpQ9uUeGJ) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:15 | 2023-05-19 | 2023-10-06 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2022-07-18 | 2023-05-20 |
@@ -248,7 +249,7 @@
 | [Role Model](https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c) | [Role Model](https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm) | 3:26 | 2024-05-17 | 2024-08-05 |
 | [Running Free \(George Daniel remix\)](https://open.spotify.com/track/3fkdVI4JCNGAOLVeLkAK86) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Running Free \(George Daniel remix\)](https://open.spotify.com/album/3EWSZOdAzoUvYlEgvMRfsW) | 3:11 | 2025-05-29 | 2025-06-21 |
 | [Satisfaction Skank](https://open.spotify.com/track/75PWvCyXFTuXvwmntGMhuB) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank \(High Contrast Remix\)](https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb) | 3:19 | 2026-05-29 |  |
-| [Savana](https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Savana](https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH) | 2:30 | 2025-06-20 |  |
+| [Savana](https://open.spotify.com/track/6Uz2230ZgSmqQli5SMaIZY) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Savana](https://open.spotify.com/album/4NpHeyYNVFia8iB3RFQavH) | 2:30 | 2025-06-20 | 2026-06-29 |
 | [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-05-23 | 2024-09-27 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-06 | 2024-07-27 |
 | [Saving Up \- Odd Mob Remix](https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Saving Up \(Odd Mob Remix\)](https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz) | 3:13 | 2024-03-01 | 2024-06-15 |

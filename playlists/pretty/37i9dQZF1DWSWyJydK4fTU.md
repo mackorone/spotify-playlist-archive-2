@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,647 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,605 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 31 | [New Heart](https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [New Heart](https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ) | 3:04 |
 | 32 | [You Will Never Know It](https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [You Will Never Know It](https://open.spotify.com/album/18l8bWUsNQdXl6pXQOK5lw) | 2:48 |
 | 33 | [Nur ein Wort](https://open.spotify.com/track/0dIb1x3ilFtfprAfbfOEKm) | [Noah Kraus](https://open.spotify.com/artist/3wEYWraAn9tILbCru8VeME), [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Nur ein Wort](https://open.spotify.com/album/6n4MQhGhEBzZt9xFuXIdib) | 1:55 |
-| 34 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 |
-| 35 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 34 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 35 | [Dry Spell](https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Dry Spell](https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS) | 3:17 |
 | 36 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 |
 | 37 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
 | 38 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 53 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
 | 54 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
 | 55 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
-| 56 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
-| 57 | [Wimpernschlag](https://open.spotify.com/track/6iSMn6NBEhuco0lZsPRs7c) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl) | [Wimpernschlag](https://open.spotify.com/album/624ffjT6xFCdbDpQL0sV8B) | 2:41 |
+| 56 | [Wimpernschlag](https://open.spotify.com/track/6iSMn6NBEhuco0lZsPRs7c) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl) | [Wimpernschlag](https://open.spotify.com/album/624ffjT6xFCdbDpQL0sV8B) | 2:41 |
+| 57 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
 | 58 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 |
 | 59 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 |
 | 60 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 |

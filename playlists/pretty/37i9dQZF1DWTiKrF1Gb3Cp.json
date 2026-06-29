@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 252409,
+  "num_followers": 252457,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 131793,
+      "name": "NIMODO QUE NO",
+      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
         "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 131793,
-      "name": "NIMODO QUE NO",
-      "url": "https://open.spotify.com/track/1QxHZbRWHsSZzArispjZtt"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "Contando",
+        "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
+      },
+      "artists": [
+        {
+          "name": "Luis Carrillo",
+          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
+        },
+        {
+          "name": "Julian Leyva",
+          "url": "https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv"
+        }
+      ],
+      "duration_ms": 191515,
+      "name": "Contando",
+      "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 151594,
       "name": "Sentosa",
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "Contando",
-        "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
-      },
-      "artists": [
-        {
-          "name": "Luis Carrillo",
-          "url": "https://open.spotify.com/artist/1zQGq31aajlt5qvmHyrwQn"
-        },
-        {
-          "name": "Julian Leyva",
-          "url": "https://open.spotify.com/artist/4D2pOQ11Kvv8aMdiIRqjCv"
-        }
-      ],
-      "duration_ms": 191515,
-      "name": "Contando",
-      "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1799,26 +1799,22 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "LA BESTIA",
-        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
+        "name": "A la puta orden",
+        "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Capotes",
+          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
         },
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Rafael Amaya",
-          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
         }
       ],
-      "duration_ms": 177106,
-      "name": "LA BESTIA",
-      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
+      "duration_ms": 156722,
+      "name": "A la puta orden",
+      "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1839,22 +1835,26 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "A la puta orden",
-        "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
+        "name": "LA BESTIA",
+        "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
       },
       "artists": [
         {
-          "name": "Capotes",
-          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         },
         {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Rafael Amaya",
+          "url": "https://open.spotify.com/artist/4bforrvhv0YFDP83UQBbU8"
         }
       ],
-      "duration_ms": 156722,
-      "name": "A la puta orden",
-      "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
+      "duration_ms": 177106,
+      "name": "LA BESTIA",
+      "url": "https://open.spotify.com/track/58TiBzSkA8e4ex4crrFwg2"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1903,30 +1903,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Me Ilumin\u00e9",
-        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "Me Ilumin\u00e9",
-      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Antrax",
         "url": "https://open.spotify.com/album/0YWzujtA6XZwQqHQuWMEnB"
       },
@@ -1947,6 +1923,30 @@
       "duration_ms": 162002,
       "name": "Antrax",
       "url": "https://open.spotify.com/track/47rbXVaDwAfPrKolyEWWfT"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Me Ilumin\u00e9",
+        "url": "https://open.spotify.com/album/0M9tAy51bRMeT7xGdPJGP5"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "Me Ilumin\u00e9",
+      "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -2051,6 +2051,26 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "Andamos",
+        "url": "https://open.spotify.com/album/1xAxVtARgZS7UkIuLUBl1v"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Andamos",
+      "url": "https://open.spotify.com/track/1zz2ffaRZmI99OjHBjPVH8"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "A La Fokin Orden",
         "url": "https://open.spotify.com/album/3Yen5AxeDLl8NX7J2ma1JH"
       },
@@ -2071,26 +2091,6 @@
       "duration_ms": 185523,
       "name": "A La Fokin Orden",
       "url": "https://open.spotify.com/track/5I3g6hftosFiHUih2o0cXs"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "Andamos",
-        "url": "https://open.spotify.com/album/1xAxVtARgZS7UkIuLUBl1v"
-      },
-      "artists": [
-        {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Andamos",
-      "url": "https://open.spotify.com/track/1zz2ffaRZmI99OjHBjPVH8"
     },
     {
       "added_at": "2026-05-29 06:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 570202,
+  "num_followers": 570223,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Rick Ranch",
-        "url": "https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2"
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
       },
       "artists": [
         {
-          "name": "Wolf & Bear",
-          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
         }
       ],
-      "duration_ms": 228461,
-      "name": "Rick Ranch",
-      "url": "https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy"
+      "duration_ms": 213912,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
+        "name": "Rick Ranch",
+        "url": "https://open.spotify.com/album/23egjJfvGsThThz7eiqPy2"
       },
       "artists": [
         {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+          "name": "Wolf & Bear",
+          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
         }
       ],
-      "duration_ms": 213912,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
+      "duration_ms": 228461,
+      "name": "Rick Ranch",
+      "url": "https://open.spotify.com/track/1gLZbd6goTWHwtrp3LaNiy"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Enter the City",
-        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
-      },
-      "artists": [
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Enter the City",
-      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "GREIF",
         "url": "https://open.spotify.com/album/1chw1DFmefTueG1VbNVoGN"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 247293,
       "name": "Kilonova",
       "url": "https://open.spotify.com/track/6AQk9MuNAClIEeXiBxYKUs"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Enter the City",
+        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Enter the City",
+      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "The Phantom Void",
-        "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
-      },
-      "artists": [
-        {
-          "name": "Long Distance Calling",
-          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
-        }
-      ],
-      "duration_ms": 473426,
-      "name": "Phantom Void",
-      "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Synaesthesia",
         "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 551436,
       "name": "Synaesthesia",
       "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "The Phantom Void",
+        "url": "https://open.spotify.com/album/3i6luWWKFx8rfVYfdfNV7E"
+      },
+      "artists": [
+        {
+          "name": "Long Distance Calling",
+          "url": "https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6"
+        }
+      ],
+      "duration_ms": 473426,
+      "name": "Phantom Void",
+      "url": "https://open.spotify.com/track/5Q46MHpnqwiFcMIMGMjNVU"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "How's The Heart? (Bonus Version)",
-        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
-      },
-      "artists": [
-        {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
-        }
-      ],
-      "duration_ms": 229975,
-      "name": "Only When I'm Breathing",
-      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "M\u00far",
         "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 577506,
       "name": "Vitrun",
       "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "How's The Heart? (Bonus Version)",
+        "url": "https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "duration_ms": 229975,
+      "name": "Only When I'm Breathing",
+      "url": "https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
+        "name": "+ kristallf\u00e5gel +",
+        "url": "https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u"
       },
       "artists": [
         {
-          "name": "Rendezvous Point",
-          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
         }
       ],
-      "duration_ms": 280207,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
+      "duration_ms": 243366,
+      "name": "+ kristallf\u00e5gel +",
+      "url": "https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "+ kristallf\u00e5gel +",
-        "url": "https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u"
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
       },
       "artists": [
         {
-          "name": "Vildhjarta",
-          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+          "name": "Rendezvous Point",
+          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
         }
       ],
-      "duration_ms": 243366,
-      "name": "+ kristallf\u00e5gel +",
-      "url": "https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97"
+      "duration_ms": 280207,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
-      },
-      "artists": [
-        {
-          "name": "Theraphosa",
-          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "From Nothing",
         "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 280511,
       "name": "Skinwalker",
       "url": "https://open.spotify.com/track/5GHWsrntdACLugXdAGMQOo"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
+      },
+      "artists": [
+        {
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Gluttony",
-        "url": "https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii"
-      },
-      "artists": [
-        {
-          "name": "Theraphosa",
-          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Gluttony",
-      "url": "https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/2g8ONadKlayzd8dz1Os4IM"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 262256,
       "name": "Say",
       "url": "https://open.spotify.com/track/5PezSLrWvLPGYpQyGAuC7P"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Gluttony",
+        "url": "https://open.spotify.com/album/2ooQDwESE21g2QTWLot2ii"
+      },
+      "artists": [
+        {
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
+        }
+      ],
+      "duration_ms": 216850,
+      "name": "Gluttony",
+      "url": "https://open.spotify.com/track/5Lb4V4hzjSLtht1umgFdfa"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Advent",
-        "url": "https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c"
-      },
-      "artists": [
-        {
-          "name": "Gus G.",
-          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
-        }
-      ],
-      "duration_ms": 243762,
-      "name": "Advent",
-      "url": "https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
         "url": "https://open.spotify.com/album/52eVUmr6MWQ9cN4amcZnJh"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 193800,
       "name": "A gy\u00f6ny\u00f6r\u0171 \u00e1lmok ezut\u00e1n j\u00f6nnek",
       "url": "https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Advent",
+        "url": "https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c"
+      },
+      "artists": [
+        {
+          "name": "Gus G.",
+          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Advent",
+      "url": "https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
+      },
+      "artists": [
+        {
+          "name": "The Wind Covenant",
+          "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "The Straight And Narrow",
+      "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "humAnIty",
         "url": "https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 322185,
       "name": "Our Time is Now (feat. The Anix) - Extended",
       "url": "https://open.spotify.com/track/6wph3xiQIXwpcVRhhXzsik"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
-      },
-      "artists": [
-        {
-          "name": "The Wind Covenant",
-          "url": "https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "The Straight And Narrow",
-      "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Mirrorman",
-        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
+        "name": "Last Words",
+        "url": "https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr"
       },
       "artists": [
         {
-          "name": "Black Orchid Empire",
-          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+          "name": "Fear Of Domination",
+          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
         }
       ],
-      "duration_ms": 305360,
-      "name": "Mirrorman",
-      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
+      "duration_ms": 178862,
+      "name": "Last Words",
+      "url": "https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr"
     }
   ],
   "unique_name": "Progressive Metal",

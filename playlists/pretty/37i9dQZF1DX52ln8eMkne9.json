@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 219118,
+  "num_followers": 219142,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 213906,
       "name": "Please Don\u2019t Kiss Me",
       "url": "https://open.spotify.com/track/53BNQYtpEJu1lmOVkYRWTL"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
+      },
+      "artists": [
+        {
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 183960,
       "name": "My Heart Belongs to Daddy",
       "url": "https://open.spotify.com/track/1fbTAHZGgmlnXWcNXyB42G"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
+        "name": "So it goes",
+        "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 156340,
+      "name": "So it goes",
+      "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
         "name": "How Deep Is The Ocean",
         "url": "https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj"
       },
@@ -763,6 +779,26 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
         "name": "Ghost Song",
         "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
       },
@@ -815,26 +851,6 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "Where Are You?",
-      "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
         "name": "Sunset In The Blue",
         "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 272990,
       "name": "Sunset In The Blue",
       "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -883,6 +883,22 @@
       "duration_ms": 332146,
       "name": "Don't Misunderstand",
       "url": "https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -915,18 +931,18 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
-        "name": "So it goes",
-        "url": "https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb"
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 156340,
-      "name": "So it goes",
-      "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -947,22 +963,6 @@
       "duration_ms": 284986,
       "name": "Darling Fare Thee Well",
       "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 274945,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
-        "name": "No Guarantees",
-        "url": "https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 188545,
-      "name": "No Guarantees",
-      "url": "https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
         "name": "Spark Bird",
         "url": "https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 246672,
       "name": "Little Jazz Bird",
       "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
+        "name": "No Guarantees",
+        "url": "https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 188545,
+      "name": "No Guarantees",
+      "url": "https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
-        "name": "Cloudy (With a Chance of Rain)",
-        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Cloudy (With a Chance of Rain)",
-      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
+        "name": "Cloudy (With a Chance of Rain)",
+        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cloudy (With a Chance of Rain)",
+      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
         "name": "Now Pronouncing: Caity Gyorgy",
         "url": "https://open.spotify.com/album/4uhLfLaqoYyOww0elnoSyv"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 221480,
       "name": "There by the Door",
       "url": "https://open.spotify.com/track/6xuskbyiFsUyHKiibJyDsQ"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
-        "name": "Violets for Your Furs",
-        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
-      },
-      "artists": [
-        {
-          "name": "Jason Fabus",
-          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
-        }
-      ],
-      "duration_ms": 216654,
-      "name": "Violets for Your Furs",
-      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -1647,6 +1631,22 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/5vk5kBWYxSgwzUR1ZynaGt"
+      },
+      "artists": [
+        {
+          "name": "Jason Fabus",
+          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
+        }
+      ],
+      "duration_ms": 216654,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/5fVwnzlWnYEdJnL9KRQZ0d"
     },
     {
       "added_at": "2026-06-25 08:09:26",
@@ -1923,6 +1923,30 @@
     {
       "added_at": "2026-06-25 08:09:26",
       "album": {
+        "name": "North by Northwest",
+        "url": "https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa"
+      },
+      "artists": [
+        {
+          "name": "Lennart Ricard",
+          "url": "https://open.spotify.com/artist/477Kac69blOYChn7cvOb87"
+        },
+        {
+          "name": "Josephine Philip",
+          "url": "https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        }
+      ],
+      "duration_ms": 278045,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1"
+    },
+    {
+      "added_at": "2026-06-25 08:09:26",
+      "album": {
         "name": "I'm Glad There Is You",
         "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
       },
@@ -1955,30 +1979,6 @@
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
-    },
-    {
-      "added_at": "2026-06-25 08:09:26",
-      "album": {
-        "name": "North by Northwest",
-        "url": "https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa"
-      },
-      "artists": [
-        {
-          "name": "Lennart Ricard",
-          "url": "https://open.spotify.com/artist/477Kac69blOYChn7cvOb87"
-        },
-        {
-          "name": "Josephine Philip",
-          "url": "https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        }
-      ],
-      "duration_ms": 278045,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/1SZpjQdXuce3k12qfx6xJ1"
     },
     {
       "added_at": "2026-06-25 08:09:26",

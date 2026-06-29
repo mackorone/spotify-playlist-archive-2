@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Matt Combs",
-  "num_followers": 62580,
+  "num_followers": 62584,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,26 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "Appalachian Picking Society",
+        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Annabelle June",
+      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Susto Stringband (Volume 2)",
         "url": "https://open.spotify.com/album/3ydetPC1SpvworJqDuChU5"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 142106,
       "name": "Work Away",
       "url": "https://open.spotify.com/track/0fpkjy1PZR1WIsICZHLJ9j"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Appalachian Picking Society",
-        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
-      },
-      "artists": [
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Annabelle June",
-      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -423,26 +423,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Polly Put the Kettle On",
-        "url": "https://open.spotify.com/album/1nil98RN5PcogAKkhkllpo"
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
       "artists": [
         {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        },
-        {
-          "name": "John Showman",
-          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
-        },
-        {
-          "name": "Chris Coole",
-          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
         }
       ],
-      "duration_ms": 136804,
-      "name": "Polly Put the Kettle On",
-      "url": "https://open.spotify.com/track/2CAZBZhbBdMEAyHPIX2P4J"
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -463,18 +455,26 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+        "name": "Polly Put the Kettle On",
+        "url": "https://open.spotify.com/album/1nil98RN5PcogAKkhkllpo"
       },
       "artists": [
         {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+      "duration_ms": 136804,
+      "name": "Polly Put the Kettle On",
+      "url": "https://open.spotify.com/track/2CAZBZhbBdMEAyHPIX2P4J"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Banjo Loop",
-        "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
-      },
-      "artists": [
-        {
-          "name": "John Butler",
-          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
-        }
-      ],
-      "duration_ms": 292138,
-      "name": "Banjo Loop",
-      "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Banjo Loop",
+        "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
+      },
+      "artists": [
+        {
+          "name": "John Butler",
+          "url": "https://open.spotify.com/artist/7czrHF19KySaSs3dnBnPCR"
+        }
+      ],
+      "duration_ms": 292138,
+      "name": "Banjo Loop",
+      "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
       "artists": [
         {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
         }
       ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
       },
       "artists": [
         {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
         }
       ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
       "artists": [
         {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
         }
       ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -803,18 +787,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
       "artists": [
         {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -887,30 +887,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
-      },
-      "artists": [
-        {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+      },
+      "artists": [
+        {
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1023,8 +1023,8 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "Grassy Cove",
+        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
       },
       "artists": [
         {
@@ -1032,13 +1032,13 @@
           "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
         },
         {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Toward the Fray",
         "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
@@ -1107,26 +1091,6 @@
       "duration_ms": 301786,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Grassy Cove",
-        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1147,6 +1111,42 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Addie Levy",
         "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/3CuNjXwzIwLwm40nfGuFge"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 217733,
       "name": "Live Rosin",
       "url": "https://open.spotify.com/track/4JcbTKzMIyJoholKWBtxYF"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "North Node",
+        "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
+      },
+      "artists": [
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Natalie Haas",
+          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "Turn Down the Bed",
+      "url": "https://open.spotify.com/track/31AhOyt4bbEvRBwkULHr74"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Concrete and Steel",
         "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
       },
@@ -1227,30 +1247,6 @@
       "duration_ms": 251047,
       "name": "Concrete and Steel",
       "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "North Node",
-        "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
-      },
-      "artists": [
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        },
-        {
-          "name": "Natalie Haas",
-          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "Groundhog Hotel",
-      "url": "https://open.spotify.com/track/3fe7KhXDQIdfgFJPI7XFoE"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1315,6 +1311,30 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "North Node",
+        "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
+      },
+      "artists": [
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Natalie Haas",
+          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "Groundhog Hotel",
+      "url": "https://open.spotify.com/track/3fe7KhXDQIdfgFJPI7XFoE"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Elizabeth Brown / Sail Away",
         "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 164160,
       "name": "Elizabeth Brown",
       "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "North Node",
-        "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
-      },
-      "artists": [
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        },
-        {
-          "name": "Natalie Haas",
-          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "Turn Down the Bed",
-      "url": "https://open.spotify.com/track/31AhOyt4bbEvRBwkULHr74"
     },
     {
       "added_at": "2026-06-26 04:01:29",

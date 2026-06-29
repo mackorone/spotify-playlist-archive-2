@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Un ícono que marcó la música para siempre, gracias Willie Colón\. 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877,008 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,876,921 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 18 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
 | 19 | [Como Te Hago Entender](https://open.spotify.com/track/588fZDQv1c7F3iP68Pp3My) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Mi Musica](https://open.spotify.com/album/2jEEoXy1jY7qzWbjWzAI7o) | 5:44 |
 | 20 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
-| 21 | [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 |
-| 22 | [Uno Se Cura](https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:32 |
+| 21 | [Uno Se Cura](https://open.spotify.com/track/2jIeTDKCMcpyEzR3KCnIfW) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:32 |
+| 22 | [1+1](https://open.spotify.com/track/4IIVfcAGxVXGMbwIpj6ZXJ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [1+1](https://open.spotify.com/album/2DIxLzdiEgIh7Bh9XIv4E1) | 3:06 |
 | 23 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
 | 24 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 25 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 67 | [Maria Teresa y Danilo](https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [10 De Colección](https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH) | 4:46 |
 | 68 | [Charrupi](https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9) | [Orquesta Calibre](https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB) | [La Foto, el Video, la Chicanería](https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4) | 5:41 |
 | 69 | [No Vale La Pena](https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7) | [Johnny Rivera](https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf), [Ray Sepulveda](https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7) | [Salsa Legends](https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT) | 5:58 |
-| 70 | [Para Siempre \- Salsa Version](https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Para Siempre \(Salsa Version\)](https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8) | 4:29 |
-| 71 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 |
+| 70 | [Cuenta Conmigo](https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Leyendas: Salsa Romántica](https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X) | 5:04 |
+| 71 | [Para Siempre \- Salsa Version](https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Para Siempre \(Salsa Version\)](https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8) | 4:29 |
 | 72 | [Tú Me Vuelves Loco](https://open.spotify.com/track/1xAubZVq0sOxsoSfm1PzqA) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 4:58 |
 | 73 | [Ella Lo Que Quiere Es Salsa \(feat\. Voltio & Jowell y Randy\)](https://open.spotify.com/track/1NYnEnr9EkA0r0ZoYNTocN) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Ella Lo Que Quiere Es Salsa \(feat\. Voltio & Jowell y Randy\)](https://open.spotify.com/album/2tdWcgy0hKqeST2u2Y7RKa) | 4:00 |
 | 74 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 97 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 |
 | 98 | [Juguete de Nadie](https://open.spotify.com/track/3pDjbxoNsCVoDwabAl2jSR) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:04 |
 | 99 | [Cómo Se Compara](https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [GRIS](https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f) | 3:59 |
-| 100 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 |
+| 100 | [El Combo del Mundo](https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [El Combo del Mundo](https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5) | 4:19 |
 
 Snapshot ID: `AAAAAO3BzNUJfHjCFMXv1q7RtClGc2Ez`

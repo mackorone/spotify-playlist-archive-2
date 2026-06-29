@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 317326,
+  "num_followers": 317360,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
+        "name": "The Essential Ray Price",
+        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
         "name": "Every Time Two Fools Collide",
         "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 180906,
       "name": "Every Time Two Fools Collide",
       "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
-        "name": "The Essential Ray Price",
-        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU"
     },
     {
       "added_at": "2026-02-03 18:46:39",

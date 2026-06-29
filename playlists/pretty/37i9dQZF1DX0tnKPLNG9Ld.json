@@ -1,6 +1,6 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 129176,
+  "num_followers": 129269,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Songs Of New York",
-        "url": "https://open.spotify.com/album/6ykejiQYyCdqWg8Leun77R"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "The Magic Of Jo Stafford",
         "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 143800,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Songs Of New York",
+        "url": "https://open.spotify.com/album/6ykejiQYyCdqWg8Leun77R"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -799,8 +799,8 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "April In Paris (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 315000,
-      "name": "Corner Pocket",
-      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "Julie... At Home",
-        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
         "name": "Desafinado",
         "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 239173,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
+        "name": "Julie... At Home",
+        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -887,8 +887,8 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
     },
     {
       "added_at": "2024-06-13 12:36:56",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-13 12:36:56",
       "album": {
+        "name": "Shirley / Let's Face the Music",
+        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 174600,
+      "name": "If I Were a Bell - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
+    },
+    {
+      "added_at": "2024-06-13 12:36:56",
+      "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 228880,
       "name": "On a Clear Day",
       "url": "https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J"
-    },
-    {
-      "added_at": "2024-06-13 12:36:56",
-      "album": {
-        "name": "Shirley / Let's Face the Music",
-        "url": "https://open.spotify.com/album/0D5WPntQovwI7mfrteZan6"
-      },
-      "artists": [
-        {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
-        }
-      ],
-      "duration_ms": 174600,
-      "name": "If I Were a Bell - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6NbhLHh6FaSZJheJMdrKcF"
     },
     {
       "added_at": "2024-06-13 12:36:56",

@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2753,
+  "num_followers": 2757,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj3BAAAAAAAlrPBBne/8SN30PRoButhr",
+  "snapshot_id": "aj8SgAAAAAAkU63kNYPTnCBBwVF5eV2o",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Man's Land",
-        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Krishna Bhatt",
-          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
         }
       ],
-      "duration_ms": 433333,
-      "name": "Jaipur Local",
-      "url": "https://open.spotify.com/track/4UuyvMHJ1NIPahfXgZqKV9"
+      "duration_ms": 327200,
+      "name": "The Magic Knot Waltz",
+      "url": "https://open.spotify.com/track/3G3Q3zWECE6DUjIN0iAhb2"
     },
     {
       "added_at": null,
@@ -151,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "The Magic Knot Waltz",
-      "url": "https://open.spotify.com/track/3G3Q3zWECE6DUjIN0iAhb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kronos Explorer Series",
         "url": "https://open.spotify.com/album/4hKc7Avac3V0YcfugTetkM"
       },
@@ -191,38 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terry Riley: Shri Camel",
-        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 693706,
-      "name": "Celestial Valley",
-      "url": "https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 306013,
-      "name": "Francesco en Paraiso",
-      "url": "https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
       },
@@ -239,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church of Anthrax",
-        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "The Hall of Mirrors In the Palace of Versailles",
-      "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
       },
@@ -268,9 +196,45 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 912746,
-      "name": "Desert of Ice",
-      "url": "https://open.spotify.com/track/2N1cxjxCFGJ7BQu6S5k7Cq"
+      "duration_ms": 693706,
+      "name": "Celestial Valley",
+      "url": "https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
+      "duration_ms": 433333,
+      "name": "Jaipur Local",
+      "url": "https://open.spotify.com/track/4UuyvMHJ1NIPahfXgZqKV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 306013,
+      "name": "Francesco en Paraiso",
+      "url": "https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK"
     },
     {
       "added_at": null,
@@ -295,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Persian Surgery Dervishes",
-        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
+        "name": "Terry Riley: Shri Camel",
+        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
       },
       "artists": [
         {
@@ -304,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1249000,
-      "name": "Performance One - Part 1",
-      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
+      "duration_ms": 912746,
+      "name": "Desert of Ice",
+      "url": "https://open.spotify.com/track/2N1cxjxCFGJ7BQu6S5k7Cq"
     },
     {
       "added_at": null,
@@ -324,9 +288,25 @@
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 174893,
-      "name": "The Protege",
-      "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
+      "duration_ms": 481320,
+      "name": "The Hall of Mirrors In the Palace of Versailles",
+      "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Persian Surgery Dervishes",
+        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1249000,
+      "name": "Performance One - Part 1",
+      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
     },
     {
       "added_at": null,
@@ -363,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1108053,
-      "name": "Journey From The Death Of A Friend",
-      "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
       },
@@ -392,9 +356,25 @@
           "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 663253,
-      "name": "Ides of March",
-      "url": "https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB"
+      "duration_ms": 174893,
+      "name": "The Protege",
+      "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1108053,
+      "name": "Journey From The Death Of A Friend",
+      "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
     },
     {
       "added_at": null,
@@ -435,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church of Anthrax",
+        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 663253,
+      "name": "Ides of March",
+      "url": "https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
       },
@@ -444,25 +444,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 196066,
-      "name": "Slow Melody In Bhairavi",
-      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 592026,
-      "name": "Zamorra",
-      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
+      "duration_ms": 400306,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
     },
     {
       "added_at": null,
@@ -487,6 +471,86 @@
       "duration_ms": 1190306,
       "name": "Terry Riley: Keyboard Study #1",
       "url": "https://open.spotify.com/track/1w9GGVy7WJAUvxVQAv47o2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Gha Ten In Darbari",
+      "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 592026,
+      "name": "Zamorra",
+      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Slow Melody In Bhairavi",
+      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Acension Final Chord Rising",
+      "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
     },
     {
       "added_at": null,
@@ -516,15 +580,15 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 400306,
-      "name": "In The Summer",
-      "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
+      "duration_ms": 148400,
+      "name": "The Oldtimer",
+      "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"
     },
     {
       "added_at": null,
       "album": {
-        "name": "For the Birds: The Birdsong Project, Vol. I",
-        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
+        "name": "Lisbon Concert",
+        "url": "https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI"
       },
       "artists": [
         {
@@ -532,9 +596,41 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 289346,
-      "name": "St. Francis and the Birds",
-      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
+      "duration_ms": 409133,
+      "name": "Mongolian Winds",
+      "url": "https://open.spotify.com/track/1wfGXIrX2G5phhvHdiMVdm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 132960,
+      "name": "The New Albion Chorale - Reprise",
+      "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 566400,
+      "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
+      "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
     },
     {
       "added_at": null,
@@ -559,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+        "name": "For the Birds: The Birdsong Project, Vol. I",
+        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
       },
       "artists": [
         {
@@ -568,137 +664,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 256040,
-      "name": "Land's End",
-      "url": "https://open.spotify.com/track/6vF5EhJM7nnovxzL2tz0kN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "The Oldtimer",
-      "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 604333,
-      "name": "The Harp of New Albion: VI. Return of the Ancestors",
-      "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Acension Final Chord Rising",
-      "url": "https://open.spotify.com/track/1Y0UxXqGBwZXxymLFCNNrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lisbon Concert",
-        "url": "https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 409133,
-      "name": "Mongolian Winds",
-      "url": "https://open.spotify.com/track/1wfGXIrX2G5phhvHdiMVdm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
-        "url": "https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 2388746,
-      "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
-      "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 396160,
-      "name": "The Harp of New Albion: V. Premonition Rag",
-      "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Gha Ten In Darbari",
-      "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 132960,
-      "name": "The New Albion Chorale - Reprise",
-      "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
+      "duration_ms": 289346,
+      "name": "St. Francis and the Birds",
+      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
     },
     {
       "added_at": null,
@@ -740,25 +708,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 566400,
-      "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
-      "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music for the Gift",
-        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 80146,
-      "name": "Music for the Gift: Part 4",
-      "url": "https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE"
+      "duration_ms": 604333,
+      "name": "The Harp of New Albion: VI. Return of the Ancestors",
+      "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
     },
     {
       "added_at": null,
@@ -772,29 +724,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 132200,
-      "name": "Wedding Song",
-      "url": "https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Man's Land",
-        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Krishna Bhatt",
-          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Medusa's Refrain - part 1",
-      "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
+      "duration_ms": 561226,
+      "name": "The Crucifixion Of My Humble Self",
+      "url": "https://open.spotify.com/track/0JsGHAmk4OjhalNLJJTktU"
     },
     {
       "added_at": null,
@@ -823,22 +755,6 @@
       "duration_ms": 581373,
       "name": "Kiss Yo' Ass Goodbye",
       "url": "https://open.spotify.com/track/6p2xNin2amUf4RzGOue1V1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music for the Gift",
-        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 394506,
-      "name": "Bird of Paradise: Part 2",
-      "url": "https://open.spotify.com/track/0cdhRIV9fPas3MVK0Ln2HB"
     },
     {
       "added_at": null,
@@ -880,15 +796,15 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1000000,
-      "name": "The Harp of New Albion: III. Riding the Westerleys",
-      "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
+      "duration_ms": 396160,
+      "name": "The Harp of New Albion: V. Premonition Rag",
+      "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+        "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
+        "url": "https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi"
       },
       "artists": [
         {
@@ -896,9 +812,93 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 448026,
-      "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
-      "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
+      "duration_ms": 2388746,
+      "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
+      "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Medusa's Refrain - part 1",
+      "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ORGANUM FOR STEFANO",
+        "url": "https://open.spotify.com/album/3irbeId7X1nzVOFz1llrXt"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 520773,
+      "name": "ORGANUM FOR STEFANO - III",
+      "url": "https://open.spotify.com/track/3cUwHtCtuaPiuYsG2Yq8mG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 132200,
+      "name": "Wedding Song",
+      "url": "https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music for the Gift",
+        "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 80146,
+      "name": "Music for the Gift: Part 4",
+      "url": "https://open.spotify.com/track/4eOHeZ791CWqwQOvPmtIoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 930200,
+      "name": "The Harp of New Albion: II. The Orchestra of Tao",
+      "url": "https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM"
     }
   ],
   "unique_name": "This Is Terry Riley",

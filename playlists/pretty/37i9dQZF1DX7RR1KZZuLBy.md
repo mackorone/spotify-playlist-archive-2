@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,860 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,877 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 44 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 |
 | 45 | [Take Me to the King \(feat\. Kirk Franklin\)](https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Best Days](https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ) | 4:47 |
 | 46 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
-| 47 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
-| 48 | [Ohlonishwayo](https://open.spotify.com/track/1wbUhqVaUooVOryYgwZd4z) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ohlonishwayo](https://open.spotify.com/album/4ia3MqnSbmwoDAYzI3aNbH) | 8:04 |
-| 49 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
-| 50 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
+| 47 | [Ohlonishwayo](https://open.spotify.com/track/1wbUhqVaUooVOryYgwZd4z) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Ohlonishwayo](https://open.spotify.com/album/4ia3MqnSbmwoDAYzI3aNbH) | 8:04 |
+| 48 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 |
+| 49 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
+| 50 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 |
 
 Snapshot ID: `AAAAAISLPUbwER7pzidCgHvyF+kb72rV`

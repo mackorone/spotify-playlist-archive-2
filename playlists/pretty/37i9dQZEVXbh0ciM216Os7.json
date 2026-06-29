@@ -75,54 +75,6 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Grey Hun",
-        "url": "https://open.spotify.com/album/3VUzrAnLKwA8YKPnThEwxp"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 230001,
-      "name": "Grey Hun",
-      "url": "https://open.spotify.com/track/4z8huhqEYqfRwYTXrb8ZA3"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Hummer",
-        "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 361631,
-      "name": "Hummer",
-      "url": "https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
         "name": "Banks Of The Trinity",
         "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
       },
@@ -143,18 +95,50 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+      "duration_ms": 232640,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Hummer",
+        "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 361631,
+      "name": "Hummer",
+      "url": "https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Grey Hun",
+        "url": "https://open.spotify.com/album/3VUzrAnLKwA8YKPnThEwxp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 230001,
+      "name": "Grey Hun",
+      "url": "https://open.spotify.com/track/4z8huhqEYqfRwYTXrb8ZA3"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -179,74 +163,18 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 160468,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "hate that i made you love me - ari lyric draft from bed",
-      "url": "https://open.spotify.com/track/6i8bljDhS6MZtrvvvsDiWc"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "KILL THE KING",
-        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 225864,
-      "name": "WHERE I'M FROM (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3xRVgHRyAlUIBpQ8mFWDyh"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "METAL FORTH (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6dGonqdLdEtzwF4D8VVP9f"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 271956,
-      "name": "from me to u (feat. Poppy) (LIVE FROM THE O2)",
-      "url": "https://open.spotify.com/track/58EmK4iuIt5l0MiV9exYRx"
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -267,22 +195,22 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "TR\u00d4NE",
-        "url": "https://open.spotify.com/album/2ZBiFLoRXmW0FdfOXgTOIp"
+        "name": "KILL THE KING",
+        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
       },
       "artists": [
         {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         },
         {
-          "name": "Furax Barbarossa",
-          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 332346,
-      "name": "TR\u00d4NE",
-      "url": "https://open.spotify.com/track/1F8R77gZKEA3eofyfTaWJ6"
+      "duration_ms": 225864,
+      "name": "WHERE I'M FROM (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3xRVgHRyAlUIBpQ8mFWDyh"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -324,29 +252,85 @@
           "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
         }
       ],
-      "duration_ms": 385089,
-      "name": "About To Run - Live",
-      "url": "https://open.spotify.com/track/3WZW8BOO1PrM82cBC1pEWH"
+      "duration_ms": 1498478,
+      "name": "SPAC3 Soundcheck Jam - Live",
+      "url": "https://open.spotify.com/track/27jbvTiWMxzJoag9pgYN12"
     },
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "We're Having Good Church",
-        "url": "https://open.spotify.com/album/4FJJqLm5Dt0gCYBYnh3dTw"
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/0Brr98bxYskKOnVVhCur6v"
       },
       "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "hate that i made you love me - ari lyric draft from bed",
+      "url": "https://open.spotify.com/track/6i8bljDhS6MZtrvvvsDiWc"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 160468,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "TR\u00d4NE",
+        "url": "https://open.spotify.com/album/2ZBiFLoRXmW0FdfOXgTOIp"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        }
+      ],
+      "duration_ms": 332346,
+      "name": "TR\u00d4NE",
+      "url": "https://open.spotify.com/track/1F8R77gZKEA3eofyfTaWJ6"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Lucille Talks Back 50th Anniversary",
+        "url": "https://open.spotify.com/album/1Bib3OB01eN8EUVVUOdJGm"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
         {
           "name": "Cory Henry",
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         },
         {
-          "name": "Muvva Jeter",
-          "url": "https://open.spotify.com/artist/1hIqcE3hC9NjUtt7twOdIy"
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
         }
       ],
-      "duration_ms": 77500,
-      "name": "Good Church Benediction",
-      "url": "https://open.spotify.com/track/37Ci0k7d9pmDkuHRAmIJpu"
+      "duration_ms": 209295,
+      "name": "Everybody Lies A Little",
+      "url": "https://open.spotify.com/track/1dasu8Qw1WLdsIKHtzmF0F"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -411,22 +395,6 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
-        "name": "Fuck This Bar",
-        "url": "https://open.spotify.com/album/2ObcniTvIqq93z8fx13rkL"
-      },
-      "artists": [
-        {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
-        }
-      ],
-      "duration_ms": 180238,
-      "name": "Fuck This Bar",
-      "url": "https://open.spotify.com/track/6BhX6gINKJz6Pghc0M3cuv"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
         "name": "Rise Again (Blarny Remix)",
         "url": "https://open.spotify.com/album/5ITRGdeCHOtsuctdKetGQy"
       },
@@ -451,6 +419,22 @@
       "duration_ms": 351552,
       "name": "Rise Again (Blarny Remix)",
       "url": "https://open.spotify.com/track/2eTFXwhohckV569OYmkljw"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
+        "name": "Fuck This Bar",
+        "url": "https://open.spotify.com/album/2ObcniTvIqq93z8fx13rkL"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 180238,
+      "name": "Fuck This Bar",
+      "url": "https://open.spotify.com/track/6BhX6gINKJz6Pghc0M3cuv"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -547,6 +531,22 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
+        "name": "Miles '56 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 274303,
+      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
+      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
         "name": "That's All I Ask (HAAi Remix)",
         "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 257741,
       "name": "That's All I Ask - HAAi Remix / Edit",
       "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Miles '56 (Remastered 2026)",
-        "url": "https://open.spotify.com/album/6KvVLCTGdHboeAN4PGBiAU"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 274303,
-      "name": "In Your Own Sweet Way - March 16, 1956 Version / Remastered 2026",
-      "url": "https://open.spotify.com/track/7M4Z7u7wzsOsXDfACgDuo8"
     },
     {
       "added_at": "2026-06-26 04:00:00",
@@ -695,6 +679,22 @@
     {
       "added_at": "2026-06-26 04:00:00",
       "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/4soEzPHhvr4nWPzRGFtziE"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 366613,
+      "name": "spacetime",
+      "url": "https://open.spotify.com/track/4zqIZAE6tIaMT8duNWOG6F"
+    },
+    {
+      "added_at": "2026-06-26 04:00:00",
+      "album": {
         "name": "Stages",
         "url": "https://open.spotify.com/album/2QNByn9FQiPfOfqUQe4BzG"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 105432,
       "name": "DONT WORRY",
       "url": "https://open.spotify.com/track/3ORJwq7bnMCPRBDx4CrrF2"
-    },
-    {
-      "added_at": "2026-06-26 04:00:00",
-      "album": {
-        "name": "Lucid",
-        "url": "https://open.spotify.com/album/4soEzPHhvr4nWPzRGFtziE"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 366613,
-      "name": "spacetime",
-      "url": "https://open.spotify.com/track/4zqIZAE6tIaMT8duNWOG6F"
     },
     {
       "added_at": "2026-06-26 04:00:00",

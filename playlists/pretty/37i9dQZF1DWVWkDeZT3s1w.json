@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 122956,
+  "num_followers": 122975,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 318328,
-      "name": "Jerem\u00edas 17-5",
-      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Ahora o Nunca",
         "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 214285,
       "name": "Alquimista",
       "url": "https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 318328,
+      "name": "Jerem\u00edas 17-5",
+      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 296071,
-      "name": "Y la Felicidad Qu\u00e9",
-      "url": "https://open.spotify.com/track/24HYU0MQmeUQ6YLjl1o2NV"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Patrullando",
         "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 194285,
       "name": "Patrullando",
       "url": "https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 296071,
+      "name": "Y la Felicidad Qu\u00e9",
+      "url": "https://open.spotify.com/track/24HYU0MQmeUQ6YLjl1o2NV"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Espacio",
+        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
+      },
+      "artists": [
+        {
+          "name": "Bocafloja",
+          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
+        }
+      ],
+      "duration_ms": 275318,
+      "name": "Espacio",
+      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Espacio",
-        "url": "https://open.spotify.com/album/4jsKse94WxNSuO6osmSyNs"
-      },
-      "artists": [
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        }
-      ],
-      "duration_ms": 275318,
-      "name": "Espacio",
-      "url": "https://open.spotify.com/track/4Qlji49yh5giZ1FaGrcka1"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "La Felicidad",
-        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        },
-        {
-          "name": "Cevlade",
-          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
-        },
-        {
-          "name": "InVnerable",
-          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
-        }
-      ],
-      "duration_ms": 203089,
-      "name": "La Felicidad",
-      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Vive Libre",
         "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 228000,
       "name": "Vive Libre",
       "url": "https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "La Felicidad",
+        "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        },
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        },
+        {
+          "name": "InVnerable",
+          "url": "https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY"
+        }
+      ],
+      "duration_ms": 203089,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
     },
     {
       "added_at": "2025-05-23 06:00:30",

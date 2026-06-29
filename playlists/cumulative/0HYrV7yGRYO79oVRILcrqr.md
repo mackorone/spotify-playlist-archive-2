@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-591 songs - 1 day 12 hr 49 min
+592 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 | 2026-03-18 |
 | [MIDNIGHT WHEELS](https://open.spotify.com/track/3OWpxlReVR8TdHPhAQyxY9) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIDNIGHT WHEELS](https://open.spotify.com/album/221cfYszp8e0WF8ltJp5Ns) | 4:38 | 2026-05-24 |  |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
+| [MIRROR MAZE](https://open.spotify.com/track/7osshrygoODrSdnKQWn60r) | [MARYLANE](https://open.spotify.com/artist/5r45fyB9QJhHBZHinKcqyY) | [MIRROR MAZE](https://open.spotify.com/album/6dH2T4qLjozTTG6OKceUo1) | 4:25 | 2026-06-28 |  |
 | [Miss Reaper](https://open.spotify.com/track/6ukgL9GrdN3UjlarTh8siP) | [Lota](https://open.spotify.com/artist/2v9VcYjEiEp8VweMp3LV5W) | [Miss Reaper](https://open.spotify.com/album/1Y8qZkQo1yJk6f28WINpTr) | 3:29 | 2026-05-02 |  |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
 | [Money](https://open.spotify.com/track/7ALuXUMj3Lz7i0yoFJaaCP) | [Aajax Dry Goods](https://open.spotify.com/artist/2k1v14nltEcG15SrMjyvsg) | [Aajax Dry Goods](https://open.spotify.com/album/60bYC4FtgrPaDyjSsGJiLA) | 2:28 | 2026-04-26 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 98617,
+  "num_followers": 98657,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 352746,
-      "name": "Oktoberhavet",
-      "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Fifth Winter",
         "url": "https://open.spotify.com/album/1nE1ClsJHPJzUVwng0TOZw"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 298271,
       "name": "Fifth Winter",
       "url": "https://open.spotify.com/track/4y9btMgXjLwya82zluPg2U"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 352746,
+      "name": "Oktoberhavet",
+      "url": "https://open.spotify.com/track/3vAJ3gvTKRsXTO6XCbcI6q"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -719,18 +719,30 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "The Mariner's Cross",
-        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
+        "name": "Oh, Jaco!",
+        "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
       },
       "artists": [
         {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+          "name": "Peter Vuust",
+          "url": "https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
         }
       ],
-      "duration_ms": 194893,
-      "name": "The Mariner's Cross",
-      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
+      "duration_ms": 360769,
+      "name": "Oh, Jaco!",
+      "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -763,30 +775,18 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Oh, Jaco!",
-        "url": "https://open.spotify.com/album/0i2i4vMnJ8hv5fJreuHWc5"
+        "name": "The Mariner's Cross",
+        "url": "https://open.spotify.com/album/3VFx6LGYMdeyvCmHTnQIak"
       },
       "artists": [
         {
-          "name": "Peter Vuust",
-          "url": "https://open.spotify.com/artist/3DUqy72mutVBUGMlxCfWkf"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 360769,
-      "name": "Oh, Jaco!",
-      "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
+      "duration_ms": 194893,
+      "name": "The Mariner's Cross",
+      "url": "https://open.spotify.com/track/0BYntYvDMrtc6Ff501kvQ2"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
-      },
-      "artists": [
-        {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 71160,
       "name": "Divining",
       "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Who Do You Love the Most?",
+        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid Trio",
+          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
+        }
+      ],
+      "duration_ms": 283346,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Who Do You Love the Most?",
-        "url": "https://open.spotify.com/album/49BEjb3ppEwJklB8nbhPpR"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid Trio",
-          "url": "https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX"
-        }
-      ],
-      "duration_ms": 283346,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/7egSnOVoyp1SvQtr2ZUp1z"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Lycka till med musiken",
         "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
       },
@@ -1171,30 +1171,6 @@
       "duration_ms": 544093,
       "name": "9",
       "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 487053,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1239,6 +1215,30 @@
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 487053,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "The Soundtrack of My Home",
         "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "A Letter to Eje Thelin",
-        "url": "https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL"
+        "name": "Asthma Breath",
+        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
       },
       "artists": [
         {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Jumnien",
-      "url": "https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l"
+      "duration_ms": 196868,
+      "name": "Asthma Breath",
+      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Asthma Breath",
-        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
+        "name": "A Letter to Eje Thelin",
+        "url": "https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL"
       },
       "artists": [
         {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+          "name": "G\u00f6teborg Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 196868,
-      "name": "Asthma Breath",
-      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
+      "duration_ms": 221000,
+      "name": "Jumnien",
+      "url": "https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "One Kiss Too Many",
         "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 323176,
       "name": "Fanfar",
       "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6teborg Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
     },
     {
       "added_at": "2026-01-30 09:24:24",

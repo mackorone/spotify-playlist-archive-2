@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,830 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,828 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 11 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
 | 12 | [From the beginning You and I](https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.2](https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY) | 3:24 |
 | 13 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 14 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
-| 15 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
+| 14 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
+| 15 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
 | 16 | [Tell me you love me](https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Tell me you love me](https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2) | 3:19 |
 | 17 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 | 18 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 19 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
-| 20 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
+| 19 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
+| 20 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
 | 21 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
 | 22 | [Thinkin’ Bout U](https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ELSE](https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL) | 2:52 |
 | 23 | [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 27 | [What are we](https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Love Next Door, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S) | 3:37 |
 | 28 | [Once a Day](https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Once a Day](https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi) | 3:32 |
 | 29 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
-| 30 | [HOME](https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:46 |
-| 31 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
-| 32 | [LA SOL MI](https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [TRUST ME](https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL) | 2:52 |
+| 30 | [LA SOL MI](https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [TRUST ME](https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL) | 2:52 |
+| 31 | [HOME](https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:46 |
+| 32 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
 | 33 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
 | 34 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 |
 | 35 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 57 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 58 | [Can i love u?](https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Law and The City, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3kCelYZb943ElkmLIctqol) | 3:26 |
 | 59 | [Could it be like this](https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo) | [doyouka](https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB) | [Could it be like this](https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme) | 3:41 |
-| 60 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [SONG HA YOUNG \(fromis\_9\)](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
+| 60 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 
 Snapshot ID: `AAAAAHpKV5fLWhZlfybM6vhRn35JgrK2`
