@@ -2,7 +2,7 @@
 
 ### [Trance Mission](https://open.spotify.com/playlist/37i9dQZF1DX91oIci4su1D)
 
-> Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Armin van Buuren & Hannah Laing
+> When everything lifts to a higher state\. <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">Trance and progressive</a> with Armin van Buuren & Hannah Laing
 
 1,317 songs - 3 day 6 hr 37 min
 

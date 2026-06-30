@@ -5052,7 +5052,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
@@ -10570,6 +10570,28 @@
       "duration_ms": 216053,
       "name": "Moody Cumbia",
       "url": "https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7"
+    },
+    {
+      "album": {
+        "name": "Moonshake",
+        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
+      },
+      "artists": [
+        {
+          "name": "Marcello Cassanelli",
+          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154445,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
     },
     {
       "album": {

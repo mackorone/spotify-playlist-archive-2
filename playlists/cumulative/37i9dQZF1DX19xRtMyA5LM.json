@@ -8855,6 +8855,24 @@
     },
     {
       "album": {
+        "name": "STUK",
+        "url": "https://open.spotify.com/album/7CNunsUm1e9qFJcEPD9T2f"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109954,
+      "name": "STUK",
+      "url": "https://open.spotify.com/track/6ktcLOodfzrT0e9G810fVZ"
+    },
+    {
+      "album": {
         "name": "Suffe Goon",
         "url": "https://open.spotify.com/album/3TcdEsLyQGGDeeC8eZ4t8F"
       },

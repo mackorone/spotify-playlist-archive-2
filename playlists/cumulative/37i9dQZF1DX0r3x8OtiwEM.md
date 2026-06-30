@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-790 songs - 3 day 1 hr 34 min
+791 songs - 3 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 | 2023-11-27 | 2024-12-07 |
 | [Emerge As New](https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Emerge As New](https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM) | 5:10 | 2022-02-25 | 2022-07-19 |
 | [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 | 2026-01-16 |  |
-| [Empty Theatre, Pretty Picture](https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Empty Theatre, Pretty Picture](https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu) | 5:01 | 2026-05-22 |  |
+| [Empty Theatre, Pretty Picture](https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Empty Theatre, Pretty Picture](https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu) | 5:01 | 2026-05-22 | 2026-06-30 |
 | [Engine](https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Engine](https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx) | 8:00 | 2026-03-09 | 2026-05-26 |
 | [Equilibrium \- Boris Brejcha Remix](https://open.spotify.com/track/3ojT1sBQzT0nQhaVvj8vTW) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Equilibrium Remixes](https://open.spotify.com/album/4aI6KGvJ7S3ztEAzQIPNfA) | 8:44 | 2020-12-05 | 2021-01-15 |
 | [Equinox](https://open.spotify.com/track/1ChrKo4kd2LjRjANKZmzVQ) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Equinox](https://open.spotify.com/album/4bxnrXXhn0fIZF27fTGgs7) | 6:21 | 2020-09-19 | 2020-11-28 |
@@ -610,6 +610,7 @@
 | [Sledi Toku](https://open.spotify.com/track/2P9atiBKXqG543yPl3gtzO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Sledi Toku](https://open.spotify.com/album/21endjynO2HcNX2HKbLE13) | 8:15 | 2019-09-27 | 2020-05-19 |
 | [Slip](https://open.spotify.com/track/2fjSqGaz3ElHPdGxfVLtCv) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Slip](https://open.spotify.com/album/3yz2COT2SPoRPK0j5ux1SJ) | 7:07 | 2020-02-01 | 2020-08-08 |
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-11-11 | 2025-04-14 |
+| [Slow Motion](https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lilly](https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb) | [Slow Motion](https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G) | 2:46 | 2026-06-26 |  |
 | [SLOWLY](https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [SLOWLY](https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2) | 2:48 | 2025-08-15 | 2026-02-05 |
 | [Smiling Birds](https://open.spotify.com/track/222a7UeWbEtafZgtG5Jk8L) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Smiling Birds](https://open.spotify.com/album/17ikFw6pP5z3wNHP0uLEnZ) | 7:01 | 2021-11-23 | 2022-03-21 |
 | [So Good \(feat\. Kuuda\)](https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [So Good \(feat\. Kuuda\)](https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8) | 3:03 | 2026-05-22 |  |

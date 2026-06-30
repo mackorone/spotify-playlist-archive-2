@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,360 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,309 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 18 | [Lamento Boliviano](https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 3:05 |
 | 19 | [Quieren Maleanteo](https://open.spotify.com/track/3WUvlSsIPmY99DYGSLToQS) | [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Quieren Maleanteo](https://open.spotify.com/album/53PjOvXOB58L0gr8qWUKI8) | 4:12 |
 | 20 | [La Cuarta Estrella](https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella](https://open.spotify.com/album/7sScNswh3NiMX7biccktnE) | 2:46 |
-| 21 | [LOS MALDITOS RKT](https://open.spotify.com/track/54ur7hRqLC1vWAxmJ1cDhs) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [LOS MALDITOS RKT](https://open.spotify.com/album/5MpgcB3vbhZ2lhQErfHy4P) | 2:25 |
+| 21 | [LOS MALDITOS RKT](https://open.spotify.com/track/54ur7hRqLC1vWAxmJ1cDhs) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [LOS MALDITOS RKT](https://open.spotify.com/album/5MpgcB3vbhZ2lhQErfHy4P) | 2:25 |
 | 22 | [EL ULTIMO BAILE](https://open.spotify.com/track/0rZRnl6CJORjaP4rnRiKBr) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Juan Portella](https://open.spotify.com/artist/7bUbPzPRPlbnhBeMx5XCZd), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [EL ULTIMO BAILE](https://open.spotify.com/album/6oPnIYi3W4lSUDKJU1Pnjr) | 2:16 |
 | 23 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
 | 24 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |

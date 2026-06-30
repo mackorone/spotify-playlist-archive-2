@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,246 likes - 160 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,260 likes - 160 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 65 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 | 66 | [Summer Breeze](https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Summer Breeze](https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy) | 3:15 |
 | 67 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
-| 68 | [what did you think love would be?](https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [what did you think love would be?](https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ) | 3:23 |
+| 68 | [what did you think love would be?](https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [what did you think love would be?](https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ) | 3:20 |
 | 69 | [GET RIGHT!](https://open.spotify.com/track/0T1VdaTxOLZFmpTrMfbZAT) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [GET RIGHT!](https://open.spotify.com/album/6NZu7xrzevZ62alH9IpD1e) | 2:50 |
 | 70 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
 | 71 | [You Better Know \(feat\. Skilla Baby\)](https://open.spotify.com/track/4ozEPYKJne0z9DS0MUSMpY) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Beautiful Tragedy](https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb) | 3:13 |

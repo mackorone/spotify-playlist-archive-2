@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 
 > The official Supergirl soundtrack — plus songs handpicked by the cast and crew that define Supergirl, Ruthye, and Lobo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,222 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,293 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 | 39 | [Favourite](https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:16 |
 | 40 | [Give Me The Simple Life](https://open.spotify.com/track/7Kc3hZoCRTs5dNHU7GqT9x) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 2:20 |
 | 41 | ["Heroes" \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
-| 42 | [Supergirl Suite \- from "Supergirl"](https://open.spotify.com/track/6ayDWtDlYQCt2TCMBRmGfa) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl Suite \(from "Supergirl"\)](https://open.spotify.com/album/51c3yVmdf5Zz7FD8YAmmT8) | 3:05 |
+| 42 | [Supergirl Suite](https://open.spotify.com/track/6ayDWtDlYQCt2TCMBRmGfa) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl Suite](https://open.spotify.com/album/51c3yVmdf5Zz7FD8YAmmT8) | 3:05 |
 | 43 | [ Lobo Playlist Introduction](https://open.spotify.com/episode/0lQSzKcUOyaWUMAi0Ve93z) | [Supergirl Official Playlist Introductions](https://open.spotify.com/show/033yQxI9yLPoJYo7BkgrcZ) | [Supergirl Official Playlist Introductions](https://open.spotify.com/album/033yQxI9yLPoJYo7BkgrcZ) | 0:05 |
 | 44 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 45 | [Take A Bite \(Outta Me\)](https://open.spotify.com/track/3QsRvvlv90tBrA9NhEF7Mw) | [Alleycat Scratch](https://open.spotify.com/artist/2u4eJLCOvX9cM4iIODHVk2) | [Deadboys In Trash City](https://open.spotify.com/album/2veXhFJuE6bmq9ZTu5fN9v) | 3:23 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 | 91 | [Abracadabra](https://open.spotify.com/track/4vcDr56fq4Jjxpegx3XPnv) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/3ARwSvDQv2OHYnLeDC3Lxi) | 3:43 |
 | 92 | [House Of The Rising Sun](https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Animals](https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa) | 4:31 |
 | 93 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 |
-| 94 | [Supergirl Suite \- from "Supergirl"](https://open.spotify.com/track/1auN5o9uQ60HodlsNrmy1R) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 3:05 |
+| 94 | [Supergirl Suite](https://open.spotify.com/track/1auN5o9uQ60HodlsNrmy1R) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 3:05 |
 | 95 | [Bar Fight](https://open.spotify.com/track/2Ji1XSqUvt7uauGwcXPbxA) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 2:50 |
 | 96 | [Krypton Destroyed](https://open.spotify.com/track/5tnHCKfCkpUgtD2t86R6O8) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 1:53 |
 | 97 | [Argo, Pt\. 1](https://open.spotify.com/track/0yO7dKSJFEhmmTFCXLhvBN) | [Claudia Sarne](https://open.spotify.com/artist/5aLZjAYSY6UKDQCr68mKUE) | [Supergirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1EY4L7cPrupDxVdQDuRCtX) | 2:31 |

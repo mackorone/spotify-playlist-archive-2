@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 16 hr 11 min
+158 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 | 2023-12-13 |  |
 | [Salmo 24 \- Ao Vivo](https://open.spotify.com/track/5xvC4B0WamTdMNnI22U2xF) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [BRAVE Camp • Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Cmh5MbxMFwA6CIY3OXewc) | 6:34 | 2024-12-11 |  |
 | [Saudade](https://open.spotify.com/track/3FGMRWDJuA3D4UpsIs084q) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/0DTMyf02zFSa3ZHq5Ouv6h) | 3:52 | 2024-08-14 | 2024-12-21 |
-| [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 | 2024-12-20 |  |
+| [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 | 2024-12-20 | 2026-06-30 |
+| [Saudade](https://open.spotify.com/track/48IRc9BKB0rc47stIrqSdQ) | [Thamires Cardoso](https://open.spotify.com/artist/2e8UWKpClRQPYpQRjRyMjz) | [Na Pegada da Thamires Cardoso 0.1](https://open.spotify.com/album/2rA4ohJChPIt0xD3049mF5) | 2:49 | 2026-06-29 |  |
 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 | 2025-12-06 |  |
 | [Senhor dos Exércitos \- Ao Vivo](https://open.spotify.com/track/6Gg3byyYFTJEf4VCZyOra7) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 4:41 | 2024-04-18 |  |
 | [SHEKINAH \- Ao Vivo](https://open.spotify.com/track/3TB9u2iPkNelENmtYcEe8A) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Manuela Oliveira](https://open.spotify.com/artist/5zGU65cu61yKhlsaEr8VAj) | [SHEKINAH \(Ao Vivo\)](https://open.spotify.com/album/36caxAwmf7IYaQuE78snUj) | 6:51 | 2024-04-18 | 2024-09-09 |

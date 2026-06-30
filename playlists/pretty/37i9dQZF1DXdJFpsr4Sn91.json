@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60005,
+  "num_followers": 60000,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "kev\u00e4t tulee kun s\u00e4 palaat",
+        "url": "https://open.spotify.com/album/248ZLnQmHtO0hIGS65UH5t"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "kev\u00e4t tulee kun s\u00e4 palaat",
+      "url": "https://open.spotify.com/track/66TVSQDoXHHW1P68EwTWcn"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Badabim (My Kind Of Terapiaa)",
         "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 193965,
       "name": "Kuudes aisti",
       "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "kev\u00e4t tulee kun s\u00e4 palaat",
-        "url": "https://open.spotify.com/album/248ZLnQmHtO0hIGS65UH5t"
-      },
-      "artists": [
-        {
-          "name": "louna0nline",
-          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "kev\u00e4t tulee kun s\u00e4 palaat",
-      "url": "https://open.spotify.com/track/66TVSQDoXHHW1P68EwTWcn"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Gelateria",
+        "url": "https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq"
+      },
+      "artists": [
+        {
+          "name": "KAJ",
+          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Gelateria",
+      "url": "https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Sitke\u00e4 sissi",
         "url": "https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Mun vuoro luovuttaa",
-        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Mun vuoro luovuttaa",
-      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
         "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 169760,
       "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
       "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Mun vuoro luovuttaa",
+        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Mun vuoro luovuttaa",
+      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Gelateria",
-        "url": "https://open.spotify.com/album/31PDbVme9KzuIZ4mXJnbAq"
-      },
-      "artists": [
-        {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Gelateria",
-      "url": "https://open.spotify.com/track/2RnKbPVJTJrDRebaACQoZi"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Pokaali",
         "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
       },
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rockstar (feat. Janna)",
-        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
-      },
-      "artists": [
-        {
-          "name": "Aste",
-          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
-        },
-        {
-          "name": "JANNA",
-          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
-        }
-      ],
-      "duration_ms": 174900,
-      "name": "Rockstar (feat. Janna)",
-      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
         "url": "https://open.spotify.com/album/6HPxidIevlLoAMToenpZCw"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 226154,
       "name": "Kilistell\u00e4\u00e4n kyyneleit\u00e4",
       "url": "https://open.spotify.com/track/2g4NUpywYmotb70ZipbiaA"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Rockstar (feat. Janna)",
+        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "Rockstar (feat. Janna)",
+      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Ter\u00e4lehti",
+        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Ter\u00e4lehti",
+      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Ei kukaan muu",
         "url": "https://open.spotify.com/album/0OvnYAwouXlElX6hFnDMPG"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 196258,
       "name": "Ei kukaan muu",
       "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Ter\u00e4lehti",
-        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
-      },
-      "artists": [
-        {
-          "name": "Juuna Chill",
-          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
-        }
-      ],
-      "duration_ms": 148374,
-      "name": "Ter\u00e4lehti",
-      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -999,6 +999,42 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Hei Supermario (feat. Samuell)",
+        "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
+      },
+      "artists": [
+        {
+          "name": "DOG HUSTLERS",
+          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
+        },
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        }
+      ],
+      "duration_ms": 114206,
+      "name": "Hei Supermario (feat. Samuell)",
+      "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Toivon et se olisit s\u00e4",
+        "url": "https://open.spotify.com/album/0IJt19qld2lforDczKV6TN"
+      },
+      "artists": [
+        {
+          "name": "aitojulia",
+          "url": "https://open.spotify.com/artist/5y5CYG7Qt66h5rNyfuPCaF"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Toivon et se olisit s\u00e4",
+      "url": "https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Lehmitytt\u00f6",
         "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
       },
@@ -1027,22 +1063,6 @@
       "duration_ms": 180880,
       "name": "Jengi tekee sen virheen",
       "url": "https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Toivon et se olisit s\u00e4",
-        "url": "https://open.spotify.com/album/0IJt19qld2lforDczKV6TN"
-      },
-      "artists": [
-        {
-          "name": "aitojulia",
-          "url": "https://open.spotify.com/artist/5y5CYG7Qt66h5rNyfuPCaF"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Toivon et se olisit s\u00e4",
-      "url": "https://open.spotify.com/track/07MLh6bAdCtDr5IzSejES5"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Hei Supermario (feat. Samuell)",
-        "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
-      },
-      "artists": [
-        {
-          "name": "DOG HUSTLERS",
-          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
-        },
-        {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        }
-      ],
-      "duration_ms": 114206,
-      "name": "Hei Supermario (feat. Samuell)",
-      "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Jumalanmiehii III",
         "url": "https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Rakastan teit\u00e4 kaikkia",
         "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Silti huominen tulee",
-        "url": "https://open.spotify.com/album/24yfcMpeIgEMTc67cWMekn"
+        "name": "Sukupuu",
+        "url": "https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem"
       },
       "artists": [
         {
-          "name": "Vahtera",
-          "url": "https://open.spotify.com/artist/5bavKfuSixZTrpyxC0qmfj"
+          "name": "TINA",
+          "url": "https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm"
         }
       ],
-      "duration_ms": 198580,
-      "name": "Viiniinmenevii naisii",
-      "url": "https://open.spotify.com/track/5EECa0xVdWNjG9Lix0tTfk"
+      "duration_ms": 185600,
+      "name": "Sukupuu",
+      "url": "https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba"
     }
   ],
   "unique_name": "Nousussa",

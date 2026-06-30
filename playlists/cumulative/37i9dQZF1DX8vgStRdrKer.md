@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-812 songs - 2 day 21 hr 55 min
+813 songs - 2 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Ekele \(Thank You\)](https://open.spotify.com/track/2yHAk6q2S0xol1xxYo2P72) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r), [April Onoh](https://open.spotify.com/artist/5PiRDDnrgH1ekAf6fgYeSb) | [Ekele \(Thank You\)](https://open.spotify.com/album/6Nu8MaPI5Iy01qGFXk8RiK) | 2:25 | 2026-01-23 |  |
 | [Ekwueme](https://open.spotify.com/track/2iM3JrGHGpEVW8zR22zkhZ) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [Ransom papi](https://open.spotify.com/artist/3QKg4PyjjtQ5fUmzTDpskf) | [Ekwueme](https://open.spotify.com/album/2XSQC92Cgl1nCz5aWNQr06) | 2:45 | 2025-06-06 | 2025-07-11 |
 | [Ekwueme](https://open.spotify.com/track/4C6PTGpwmwPxRC0pRBwp28) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A) | [EKWUEME](https://open.spotify.com/album/6LMZJFPE2SwUEOFxYrDkPy) | 9:45 | 2025-06-13 | 2025-08-30 |
-| [El Gibbor](https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [El Gibbor](https://open.spotify.com/album/3YVHOI34HH897Vcg6nehLc) | 6:41 | 2026-01-23 |  |
+| [El Gibbor](https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [El Gibbor](https://open.spotify.com/album/3YVHOI34HH897Vcg6nehLc) | 6:41 | 2026-01-23 | 2026-06-30 |
 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 | 2024-05-03 | 2025-06-06 |
 | [Eledumare \- Live](https://open.spotify.com/track/26UUHxn7Mhbav9oJIwhqYc) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Eledumare \(Live\)](https://open.spotify.com/album/4ikbG2W4WG6spfFQ6fNrTc) | 7:07 | 2025-08-22 | 2025-10-03 |
 | [ELIYAH](https://open.spotify.com/track/4VcrZkamuQXvxDhQFV8d9V) | [Funmi Reks](https://open.spotify.com/artist/1W7gXp0BPYb8wyQAnv4eGt) | [ELIYAH](https://open.spotify.com/album/1MYoiymSXTzSjo8jZgxJwC) | 5:15 | 2025-07-04 | 2025-07-26 |
@@ -708,6 +708,7 @@
 | [Through It All](https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Through It All](https://open.spotify.com/album/05sDA2q36D4gvHLC2B23X6) | 8:23 | 2025-11-28 | 2026-05-22 |
 | [Thy Kingdom Come](https://open.spotify.com/track/6Fe9jl3P3crdnN6nisnEi1) | [Enny Julius](https://open.spotify.com/artist/3fdFe3K5Y7oxhGSQEXRHAW), [Anisa Fowler](https://open.spotify.com/artist/2cNLP7g2aSAkVSYdfcQazv), [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Thy Kingdom Come](https://open.spotify.com/album/4RGxIGUhFEw9ZK0EdYU8Ta) | 6:52 | 2025-06-20 | 2025-07-21 |
 | [Time To Shine](https://open.spotify.com/track/1MHGzvIAbQtXxrC6Oa4L33) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [DR SOLA FOLA\-ALADE](https://open.spotify.com/artist/3CqO5JXeyMIqnyFUJFvFJM) | [Time To Shine](https://open.spotify.com/album/5tELndtFqDkzJLZ3u59Ut1) | 6:00 | 2025-04-18 | 2025-05-09 |
+| [Titilailai II](https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [CHUKWUMA](https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani), [Johnson Jkeyz](https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL), [Eddiekeyz](https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh) | [Titilailai II](https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9) | 3:19 | 2026-06-19 |  |
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2024-06-14 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-09-15 | 2024-03-16 |
 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 | 2025-05-30 |  |

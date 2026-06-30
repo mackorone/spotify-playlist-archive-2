@@ -1,6 +1,6 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 62052,
+  "num_followers": 62068,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf"
     },
     {
-      "added_at": "2023-02-02 11:15:02",
-      "album": {
-        "name": "Govindudu Andarivaadele",
-        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Gulabi Kallu Rendu Mullu",
-      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
-    },
-    {
       "added_at": "2022-10-13 05:39:22",
       "album": {
         "name": "Aadavari Matalaku Ardhalu Veruley",
@@ -827,18 +811,34 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Thammudu",
-        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
+        "name": "Chandamama",
+        "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
       },
       "artists": [
         {
-          "name": "Ramana Gogula",
-          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+          "name": "Rajesh",
+          "url": "https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK"
         }
       ],
-      "duration_ms": 316656,
-      "name": "Vayari Bhama",
-      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
+      "duration_ms": 272759,
+      "name": "Buggey Bangarama",
+      "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
+    },
+    {
+      "added_at": "2023-02-02 11:15:02",
+      "album": {
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/6IKZJLQIyKWHYk9iarEI0W"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/7Kd2C4NcmMRk0N7M3LRvLS"
     },
     {
       "added_at": "2022-10-13 05:39:22",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Chandamama",
-        "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
+        "name": "Thammudu",
+        "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
       },
       "artists": [
         {
-          "name": "Rajesh",
-          "url": "https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK"
+          "name": "Ramana Gogula",
+          "url": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
         }
       ],
-      "duration_ms": 272759,
-      "name": "Buggey Bangarama",
-      "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
+      "duration_ms": 316656,
+      "name": "Vayari Bhama",
+      "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
     },
     {
       "added_at": "2024-10-04 05:05:53",

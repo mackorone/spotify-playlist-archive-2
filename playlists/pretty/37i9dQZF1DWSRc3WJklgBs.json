@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1255710,
+  "num_followers": 1255660,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "thumbs",
         "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 170800,
       "name": "thumbs",
       "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "Me & U (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 201199,
+      "name": "Me & U - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "In My Room",
         "url": "https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 174954,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6eujN0FjgcrZXcWoLFhcOc"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "Me & U (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 201199,
-      "name": "Me & U - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Everything U",
-        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 210294,
-      "name": "Everything U",
-      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "AFTERWORK",
         "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 174404,
       "name": "WHEN IT COMES TO YOU",
       "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "HOME WAS ALWAYS ME",
-        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "midnight moon",
-      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Superstition EP",
         "url": "https://open.spotify.com/album/7sHi05ALIKm6MsZhhLkqAw"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 318688,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/10yQfULdZ2BfoipahuFZ0z"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/1bOpO54jb19mYeOJbRvbg1"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 249448,
       "name": "All Along",
       "url": "https://open.spotify.com/track/4u3zC8pDhLrd2oHZlZUVox"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/5j9rJDPD12jdwoL5SfYuIr"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 209998,
       "name": "I See You",
       "url": "https://open.spotify.com/track/4qZKbdjSpya22ciSIz15GJ"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
-        "name": "Stay 4 U",
-        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "Stay 4 U",
-      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 260353,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
+        "name": "Stay 4 U",
+        "url": "https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Stay 4 U",
+      "url": "https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12"
     },
     {
       "added_at": "2026-06-26 04:00:08",
@@ -2891,6 +2891,22 @@
     {
       "added_at": "2026-06-26 04:00:08",
       "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/3lfAb8OAMPOInRKO1BuqR7"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui"
+    },
+    {
+      "added_at": "2026-06-26 04:00:08",
+      "album": {
         "name": "Finding Me",
         "url": "https://open.spotify.com/album/0RkdQubWZa66rC7NagfVhO"
       },
@@ -2911,22 +2927,6 @@
       "duration_ms": 225000,
       "name": "Finding Me",
       "url": "https://open.spotify.com/track/3W2m42WdXWO0A8SYAEHYAf"
-    },
-    {
-      "added_at": "2026-06-26 04:00:08",
-      "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/3lfAb8OAMPOInRKO1BuqR7"
-      },
-      "artists": [
-        {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui"
     },
     {
       "added_at": "2026-06-26 04:00:08",

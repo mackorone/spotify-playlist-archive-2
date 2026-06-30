@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 11204,
+  "num_followers": 11218,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAABYykYeXVl0eIEta7X9rnhf",
+  "snapshot_id": "akBkAAAAAADR/AmzsLmND1gN9Ok06Du2",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 146285,
-      "name": "1000 Thoughts",
-      "url": "https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5"
+      "duration_ms": 134117,
+      "name": "Mario",
+      "url": "https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 134117,
-      "name": "Mario",
-      "url": "https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU"
+      "duration_ms": 146285,
+      "name": "1000 Thoughts",
+      "url": "https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 135070,
-      "name": "Popori",
-      "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUPE",
         "url": "https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh"
       },
@@ -455,22 +435,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 135070,
+      "name": "Popori",
+      "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
+      "duration_ms": 148672,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 148672,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different Lane",
+        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
+      },
+      "artists": [
+        {
+          "name": "larrylanes",
+          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 132185,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 169195,
       "name": "Jogo (Smoke Up)",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Lane",
-        "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
-      },
-      "artists": [
-        {
-          "name": "larrylanes",
-          "url": "https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 132185,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
     },
     {
       "added_at": null,

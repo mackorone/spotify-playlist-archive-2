@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > tuuudo conspirando a favor  🌓//  Amanda Sarmento
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,694 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,710 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 32 | [Umami](https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 4:47 |
 | 33 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |
 | 34 | [tropa do espanca sub](https://open.spotify.com/track/3RJJAT1dCpGU2h6ovjSlVS) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf) | [tropa do espanca sub](https://open.spotify.com/album/0Pmiifu72WdrZcj5LwiB9U) | 2:54 |
-| 35 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
-| 36 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
+| 35 | [DISStrato](https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Modern](https://open.spotify.com/artist/383WIzhrVix9aQlLnLtSEk) | [DISStrato](https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c) | 2:31 |
+| 36 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
 | 37 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
 | 38 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
 | 39 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |

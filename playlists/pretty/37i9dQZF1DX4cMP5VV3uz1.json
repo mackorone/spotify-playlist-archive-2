@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166715,
+  "num_followers": 166726,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
-      },
-      "artists": [
-        {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Go Down Low",
         "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 112140,
       "name": "Go Down Low",
       "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+      },
+      "artists": [
+        {
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Don't Slow Down",
-        "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 181689,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Don't Slow Down",
+        "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "SPEEEDBUMP 01",
-        "url": "https://open.spotify.com/album/4Fz8otbOFmbFFelkTqmQYe"
-      },
-      "artists": [
-        {
-          "name": "Moody Good",
-          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Blurry Flurry",
-      "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Feel The Pulse",
         "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
       },
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
+        "name": "SPEEEDBUMP 01",
+        "url": "https://open.spotify.com/album/4Fz8otbOFmbFFelkTqmQYe"
       },
       "artists": [
         {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
         }
       ],
-      "duration_ms": 176614,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
+      "duration_ms": 281142,
+      "name": "Blurry Flurry",
+      "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1203,6 +1183,26 @@
       "duration_ms": 210500,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 176614,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Full Power",
-        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Emz",
-          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Full Power",
-      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 200228,
       "name": "Losing Control - VIP",
       "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Full Power",
+        "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
+      },
+      "artists": [
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Emz",
+          "url": "https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Full Power",
+      "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1719,46 +1719,6 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
-      },
-      "artists": [
-        {
-          "name": "Primate",
-          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Timestretch: Future",
-        "url": "https://open.spotify.com/album/6vvGllFziUygPqlOmiDcIu"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Tian",
-          "url": "https://open.spotify.com/artist/5J7i9b3aysHtFRzjvJ19kK"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "Hibernate",
-      "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
         "name": "Next Day Cleaning",
         "url": "https://open.spotify.com/album/1G2i1b1GgPMsoWXfMQDT9g"
       },
@@ -1807,6 +1767,22 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
         "name": "Dub Special",
         "url": "https://open.spotify.com/album/2VzQYNcZ3c2bq5r3GV7sah"
       },
@@ -1823,6 +1799,30 @@
       "duration_ms": 204137,
       "name": "Dub Special",
       "url": "https://open.spotify.com/track/73O1bdufMUauCs8UxFkvO0"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
+        "name": "Timestretch: Future",
+        "url": "https://open.spotify.com/album/6vvGllFziUygPqlOmiDcIu"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Tian",
+          "url": "https://open.spotify.com/artist/5J7i9b3aysHtFRzjvJ19kK"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "Hibernate",
+      "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
     },
     {
       "added_at": "2026-05-21 23:00:32",
@@ -1943,6 +1943,26 @@
     {
       "added_at": "2026-05-21 23:00:32",
       "album": {
+        "name": "Big Enough Reason",
+        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
+    },
+    {
+      "added_at": "2026-05-21 23:00:32",
+      "album": {
         "name": "Axiom / Intuition",
         "url": "https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 311000,
       "name": "The Swarm",
       "url": "https://open.spotify.com/track/25ASFMHYeoyl6yrt3xoCsc"
-    },
-    {
-      "added_at": "2026-05-21 23:00:32",
-      "album": {
-        "name": "Big Enough Reason",
-        "url": "https://open.spotify.com/album/4JW3vIM6OsTqHpeQaopqL1"
-      },
-      "artists": [
-        {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "No Pressure",
-      "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
     }
   ],
   "unique_name": "Proper Naughty ",

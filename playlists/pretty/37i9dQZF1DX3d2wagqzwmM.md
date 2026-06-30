@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,449 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,521 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 33 | [Jump To The Stars](https://open.spotify.com/track/4Aszr2o5p0CPrVyJRpHEgZ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Jump To The Stars](https://open.spotify.com/album/4EEe44rOcpMWboN5x9Mwyw) | 2:11 |
 | 34 | [Lucky](https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Lucky](https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I) | 2:26 |
 | 35 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 |
-| 36 | [Mambo No\. 5](https://open.spotify.com/track/6vBeABbvaGW1D2ERG8oBD5) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Acina](https://open.spotify.com/artist/1C6ozlkCi2ogt3F3N8Qc7B), [THNDERZ](https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23) | [Mambo No\. 5](https://open.spotify.com/album/3xlxlGMfdvRJBmAS4izdAs) | 2:10 |
-| 37 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |
+| 36 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |
+| 37 | [Mambo No\. 5](https://open.spotify.com/track/6vBeABbvaGW1D2ERG8oBD5) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Acina](https://open.spotify.com/artist/1C6ozlkCi2ogt3F3N8Qc7B), [THNDERZ](https://open.spotify.com/artist/4rCSOIelSj4xsI1Zo5WM23) | [Mambo No\. 5](https://open.spotify.com/album/3xlxlGMfdvRJBmAS4izdAs) | 2:10 |
 | 38 | [Transmission](https://open.spotify.com/track/4mibonjnCp3wKEzoEphoTs) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Transmission](https://open.spotify.com/album/6SAmBQXySShXE2X5Cm2SuN) | 3:06 |
 | 39 | [Tokyo Drift](https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Tokyo Drift](https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix) | 2:26 |
 | 40 | [Love Feels Like You](https://open.spotify.com/track/0G3oPhw5CDuITXUjCLdCSi) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Love Feels Like You](https://open.spotify.com/album/34iQr6ezHu7nDYt8ak7mqE) | 2:42 |

@@ -5223,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Little Jolie",
+        "url": "https://open.spotify.com/album/650ORU2g86Iq53ZTVswtQ8"
+      },
+      "artists": [
+        {
+          "name": "P\u00e4r Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/470csy88vVgW8gLUuVAhva"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241475,
+      "name": "Little Jolie",
+      "url": "https://open.spotify.com/track/3OxnFROm8zegbkLGCRBO6r"
+    },
+    {
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/4xh6tIrwnMUuOCCyvceBcP"
       },

@@ -4,14 +4,16 @@
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Ifan Seventeen
 
-102 songs - 6 hr 33 min
+108 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Menit Untuk Selamanya](https://open.spotify.com/track/5SLVY1sGV2keqf7lnphHZU) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [10 Menit Untuk Selamanya](https://open.spotify.com/album/5cV4r5GpL0DAYk31qbzKk5) | 4:04 | 2026-04-24 |  |
+| [2001x](https://open.spotify.com/track/7EkTXoaED7peReoRytElSi) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [2001x](https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN) | 3:24 | 2026-06-29 |  |
 | [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 | 2026-04-24 |  |
 | [akankah aku sampai kesana?](https://open.spotify.com/track/1DSAGMCAHhKihNoge4QlCX) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 3:14 | 2026-04-24 |  |
 | [Aku Bukan Untukmu](https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Bukan Untukmu](https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD) | 3:52 | 2026-04-24 |  |
+| [Aku Harus Pergi](https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Aku Harus Pergi](https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe) | 3:52 | 2026-06-29 |  |
 | [Alasan Klasik](https://open.spotify.com/track/6Y8uDRZYlEkVABLmtjfLlu) | [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [Alasan Klasik](https://open.spotify.com/album/1vuWUheHHacrEfeziXf3O2) | 3:35 | 2026-04-24 |  |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2026-04-24 |  |
 | [Anything You Want](https://open.spotify.com/track/0EDgUNdoWnRslGw6epuJY9) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 3:56 | 2026-04-24 |  |
@@ -43,6 +45,7 @@
 | [Keras Kepala](https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hanya Figuran](https://open.spotify.com/album/7lhbsQ75nktdtQNlwa06Gy) | 4:56 | 2026-04-24 |  |
 | [Kini Mereka Tahu](https://open.spotify.com/track/6fMS9J2yAv4I6ss9sQ230f) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Kini Mereka Tahu](https://open.spotify.com/album/3Z7YGGrQBW3omLHjIvpAQv) | 4:44 | 2026-04-24 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2026-04-24 |  |
+| [Lagu Kenangan](https://open.spotify.com/track/0LZFpTfPDoiRHBFdvZzYaR) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Lagu Kenangan](https://open.spotify.com/album/04M40ppkeO8AXy9jc4oDGG) | 3:52 | 2026-06-29 |  |
 | [Laguku](https://open.spotify.com/track/5La9TqGSD55qIOCFaK0Af4) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Laguku](https://open.spotify.com/album/1CyH65NPBmMPKzX1myRUKq) | 4:41 | 2026-04-24 |  |
 | [Lama\-Lama](https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:04 | 2026-04-24 |  |
 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 | 2026-04-24 |  |
@@ -74,6 +77,7 @@
 | [Rindu Dalam Hati](https://open.spotify.com/track/1DhJgI2oAsDeDVSD5TNPCF) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Rindu Dalam Hati](https://open.spotify.com/album/4S4ogrDItVyNo6H6gYmOK3) | 4:35 | 2026-04-24 |  |
 | [Rindu Yang Menyiksa](https://open.spotify.com/track/45f5IRUCntID4fIqARC2ql) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Rindu Yang Menyiksa](https://open.spotify.com/album/2NWScxHpeggKEpD8b902mF) | 4:21 | 2026-04-24 |  |
 | [Rona Merah Langit](https://open.spotify.com/track/2qLERqFBztNjBKuZNMaqQK) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Pengantar Purifikasi Pikir](https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk) | 5:35 | 2026-04-24 |  |
+| [Salah Apa Aku](https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 3:47 | 2026-06-29 |  |
 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2026-04-24 |  |
 | [Satu Langkah](https://open.spotify.com/track/44rBEhQW7SWAHVqlpIg1Ff) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Langkah](https://open.spotify.com/album/1aj2lSnEfnoqWjAutYy3Tq) | 3:37 | 2026-04-24 |  |
 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP) | 3:50 | 2026-04-24 |  |
@@ -89,6 +93,7 @@
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2026-04-24 |  |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2026-04-24 |  |
 | [Stecu Stecu](https://open.spotify.com/track/2ECbN3xQ7M6B7AI9BhhCy7) | [Faris Adam](https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX) | [Stecu Stecu](https://open.spotify.com/album/3SqI4Bef1HLRDBH9iGEyfg) | 3:43 | 2026-04-24 |  |
+| [Still Show Up In My Dreams](https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X) | [Novascotia](https://open.spotify.com/artist/66k4IwKEoPu01TMuaQf8mT) | [Still Show Up In My Dreams](https://open.spotify.com/album/10cUjLMfzIiW04wbkjY5HJ) | 3:01 | 2026-06-29 |  |
 | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/track/4Ep077zYziACE6aJBN6w7L) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW) | 4:07 | 2026-04-24 |  |
 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 | 2026-04-24 |  |
 | [Tak Ada Ujungnya](https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Tak Ada Ujungnya](https://open.spotify.com/album/6IUPSmTT3qHfALuaS1GMiW) | 3:22 | 2026-04-24 |  |
@@ -110,5 +115,6 @@
 | [The Way You Look At Me](https://open.spotify.com/track/4jS2jYLMO71ZsIvtBxASXg) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [The Way You Look At Me](https://open.spotify.com/album/7IsX0Gy9v558vLczlUVqe5) | 4:10 | 2026-04-24 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2026-04-24 |  |
 | [Untungnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:02 | 2026-04-24 |  |
+| [Wals Akhir Zaman](https://open.spotify.com/track/1LwnJ36kvYmZVQ0Ol6ULn4) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Wals Akhir Zaman](https://open.spotify.com/album/1irM7toJ5iqS1vY82rGhTK) | 3:12 | 2026-06-29 |  |
 
 \*This playlist was first scraped on 2026-05-02. Prior content cannot be recovered.

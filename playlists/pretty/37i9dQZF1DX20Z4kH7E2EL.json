@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:0bGDTQ78MVgI5Snqo9KJZw\">Qrion</a>'s favorite tracks. Updated regularly. Curated by Qrion. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 30105,
+  "num_followers": 30106,
   "original_name": "Qrion's track IDs",
   "owner": {
     "name": "Spotify",
@@ -228,16 +228,12 @@
       },
       "artists": [
         {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        },
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 180960,
-      "name": "Out The Door",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/6FToCZsVMGrBKb84pcTtS3"
     },
     {

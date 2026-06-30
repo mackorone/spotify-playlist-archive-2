@@ -6652,7 +6652,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 193500,
       "name": "Chemical High",
       "url": "https://open.spotify.com/track/2Z1ONAlznd1C8gmFckbj0d"
@@ -10328,7 +10328,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 145446,
       "name": "DUMB FKN MUSIC",
       "url": "https://open.spotify.com/track/3Mfr2N6uS3RifbnHPZMJdB"
@@ -15146,7 +15146,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 235500,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7n5iBpHfwG0Z01NqR27FJY"
@@ -22078,6 +22078,28 @@
       "duration_ms": 212129,
       "name": "Living My Dream",
       "url": "https://open.spotify.com/track/3OyswLwDhSbU6HZjzHAHZG"
+    },
+    {
+      "album": {
+        "name": "Living On The Edge",
+        "url": "https://open.spotify.com/album/27yOMZ80nKhqrwdHGDj4J6"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177324,
+      "name": "Living On The Edge",
+      "url": "https://open.spotify.com/track/1Cw8cSSIaq7hKzBFMAy4xV"
     },
     {
       "album": {
@@ -31152,7 +31174,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 238064,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/6j2MGSY85BqrI2reZ3IOsk"
@@ -36989,6 +37011,24 @@
     },
     {
       "album": {
+        "name": "The Colour of the Harder Styles EP",
+        "url": "https://open.spotify.com/album/7ubiBQJHeVUoHVARbr9WUi"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "The Colour Of The Harder Styles - 2026 Rework",
+      "url": "https://open.spotify.com/track/36mG1Kmr56WjoosohfMpXJ"
+    },
+    {
+      "album": {
         "name": "The Craziest",
         "url": "https://open.spotify.com/album/79L1965y96ReYy4ByepA0N"
       },
@@ -39742,6 +39782,28 @@
       "duration_ms": 226500,
       "name": "TOKYO BY NIGHT HARDSTYLE",
       "url": "https://open.spotify.com/track/2Hmq6wnNRdnYIDwc7CLCXr"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Can Wait",
+        "url": "https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Tomorrow Can Wait",
+      "url": "https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX"
     },
     {
       "album": {
@@ -43058,6 +43120,24 @@
       "duration_ms": 210750,
       "name": "Welcome To The Underground",
       "url": "https://open.spotify.com/track/5opy1J4SMBUFrwQ03weuZ4"
+    },
+    {
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5NMlGVHuG1mm6m63Tbil8a"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149156,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI"
     },
     {
       "album": {

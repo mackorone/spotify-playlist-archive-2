@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Ultraligera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,759 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,760 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ALGUNA PELÍCULA](https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [ALGUNA PELÍCULA](https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W) | 3:22 |
-| 2 | [R.A.](https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU) | [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [R.A.](https://open.spotify.com/album/7qgn05MWVnXhCTkdqqWIvA) | 2:03 |
-| 3 | [Aliado](https://open.spotify.com/track/405AJ1sfXntMk6pPltPw8o) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A), [Adela Por Dios](https://open.spotify.com/artist/41WTKzjzfuCIin6HAIqwSi) | [Aliado](https://open.spotify.com/album/6sk1Kfv9JcQg7Y4XccDcMi) | 2:17 |
-| 4 | [X](https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [X](https://open.spotify.com/album/3OZ6H6EHs8SZMxrD0P43Cw) | 3:31 |
-| 5 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
-| 6 | [Es complicado](https://open.spotify.com/track/1r5KkBzxJdWR4c7dAzzzIp) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Es complicado](https://open.spotify.com/album/43JzO4kGx4SAEoETJ6xBAI) | 3:41 |
-| 7 | [Si me voy no significa que te quiera menos](https://open.spotify.com/track/5oFVYTz6bERQklRuygaujv) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [Si me voy no significa que te quiera menos](https://open.spotify.com/album/54T2c3F5Mf0NKNXynA7ero) | 4:36 |
+| 1 | [R.A.](https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU) | [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [InnerCut](https://open.spotify.com/artist/0GABUps2B17UMu6M8tkEDS) | [R.A.](https://open.spotify.com/album/7qgn05MWVnXhCTkdqqWIvA) | 2:03 |
+| 2 | [Aliado](https://open.spotify.com/track/405AJ1sfXntMk6pPltPw8o) | [Carrera Blanca](https://open.spotify.com/artist/1CblMuBc43MMvYdWAwAL0A), [Adela Por Dios](https://open.spotify.com/artist/41WTKzjzfuCIin6HAIqwSi) | [Aliado](https://open.spotify.com/album/6sk1Kfv9JcQg7Y4XccDcMi) | 2:17 |
+| 3 | [X](https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [X](https://open.spotify.com/album/3OZ6H6EHs8SZMxrD0P43Cw) | 3:31 |
+| 4 | [ALGUNA PELÍCULA](https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [ALGUNA PELÍCULA](https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W) | 3:22 |
+| 5 | [Es complicado](https://open.spotify.com/track/1r5KkBzxJdWR4c7dAzzzIp) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Es complicado](https://open.spotify.com/album/43JzO4kGx4SAEoETJ6xBAI) | 3:41 |
+| 6 | [Si me voy no significa que te quiera menos](https://open.spotify.com/track/5oFVYTz6bERQklRuygaujv) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [Si me voy no significa que te quiera menos](https://open.spotify.com/album/54T2c3F5Mf0NKNXynA7ero) | 4:36 |
+| 7 | [TU PROBLEMA](https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [TU PROBLEMA](https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq) | 3:44 |
 | 8 | [Qué pena](https://open.spotify.com/track/0QMZpdGfspLMWiOA8UDjFL) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Mil Pequeños Cortes](https://open.spotify.com/album/3klXIBIyfHZiVNHQ5gKZby) | 3:18 |
 | 9 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 |
 | 10 | [Un andalucito más](https://open.spotify.com/track/3KYek9CqHPyuFBBmojg401) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Un andalucito más](https://open.spotify.com/album/3P2lhdbcims1sXaLl3C4Zl) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Barro](https://open.spotify.com/track/6HUvZJPij7HhU2nyBMoBdI) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [Barro](https://open.spotify.com/album/5Ej715h0WyeMNleYBPM99u) | 2:01 |
 | 100 | [Perdón](https://open.spotify.com/track/4A41iuAw0bFXhsVQXHEdjq) | [porfa](https://open.spotify.com/artist/0KPfeqaroFvGNnBWs5W7xk) | [Perdón](https://open.spotify.com/album/6x54J5EbpTnWC38tO8SWFk) | 3:06 |
 
-Snapshot ID: `AAAAABkltg8bhKKXiqJugzfQeqUvQ9um`
+Snapshot ID: `AAAAAMfC/iyWrwaMJNthENBUMtmZXwFA`

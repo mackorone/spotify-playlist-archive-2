@@ -4,7 +4,7 @@
 
 > The best of every corner of modern punk rock\. Cover: Mannequin Pussy
 
-775 songs - 1 day 15 hr 9 min
+776 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Limb From Limb](https://open.spotify.com/track/22w3dwj3nC5XjF7NdSJwrY) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Limb From Limb / Mechanically Separated](https://open.spotify.com/album/757tW1HgmEk6NhXZk0kcHt) | 3:04 | 2026-03-20 |  |
 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 | 2022-12-02 | 2023-11-18 |
 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 | 2025-09-04 | 2026-06-12 |
+| [Lobotomize Me](https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y) | [The Rat Utopia Experiment](https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa) | [Lobotomize Me](https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW) | 3:11 | 2026-06-29 |  |
 | [Lonely Island](https://open.spotify.com/track/0l0hy8NAZPk5qCzS2UTgu6) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Disposable Life](https://open.spotify.com/album/5gqYeI142C7UdF0eD8ZRLi) | 3:17 | 2022-12-02 | 2023-01-19 |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-07-04 | 2025-07-29 |
 | [Long Tooth \(feat\. Brooklyn Doran\)](https://open.spotify.com/track/6HTAqQPGlhDbvvUa7bU1oA) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc), [Brooklyn Doran](https://open.spotify.com/artist/6Bh4Wmbb3LfoS8J5TXpQcj) | [Long Tooth](https://open.spotify.com/album/5nmaxgEP5Kgwx2POEfNOlY) | 3:25 | 2026-06-12 |  |

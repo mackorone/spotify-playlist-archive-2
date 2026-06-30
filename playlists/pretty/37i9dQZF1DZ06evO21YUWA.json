@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAADZICAfCG2KRa834zi9hvx0",
+  "snapshot_id": "akBkAAAAAACqwOESMXQqP2guPQp9iB+1",
   "tracks": [
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 112520,
-      "name": "Arabesque 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF"
+      "duration_ms": 236466,
+      "name": "How Vacantly You Stare at Me - 2013 Remaster",
+      "url": "https://open.spotify.com/track/11tUGfZUkrt31swIFuG7uN"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 236466,
-      "name": "How Vacantly You Stare at Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/11tUGfZUkrt31swIFuG7uN"
+      "duration_ms": 112520,
+      "name": "Arabesque 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before the Day Breaks",
         "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalon Sutra (2013 Remaster)",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 323733,
-      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
+      "duration_ms": 118746,
+      "name": "Chrysalis Nu (To Barney's Memory) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5p0efF4TnD6DKtiTsxcaUv"
     },
     {
       "added_at": null,

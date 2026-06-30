@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Thando Zide, Davido, TEEKS, kwn, Mthunzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,092 likes - 97 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,132 likes - 97 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 56 | [Ambush](https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [Voyage](https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj) | 4:13 |
 | 57 | [Iskhathi](https://open.spotify.com/track/7b4yxRcvvs2edg1Y7FoRuo) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ), [Kayla Praise](https://open.spotify.com/artist/2kQanwED51EJLJMchUB8F7), [Ag'zo](https://open.spotify.com/artist/7fFBrQbrXeRMqudomlc0As), [Pale Moloi](https://open.spotify.com/artist/5AnIWCYRZDFZKBv2n2yXUP) | [Amazwi Omdabu \(Messengers Of The Ancestors\)](https://open.spotify.com/album/4IjHdlxqJc6JvxsiPRr4Eb) | 8:29 |
 | 58 | [Hey Denny](https://open.spotify.com/track/17jx0VcmlgzHERF4HZBM0o) | [Sophia Frank](https://open.spotify.com/artist/4nZbINVWefKfXEpQPkSSe3) | [Hey Denny](https://open.spotify.com/album/6JATUWeZW7pu6vcJ14QJHD) | 2:43 |
-| 59 | [Heno Babayo](https://open.spotify.com/track/5G5RUkdswsoEZ8iB4csS3C) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C) | [Heno Babayo](https://open.spotify.com/album/0hVBhVj4qZ7l5UEn6H1ELy) | 5:40 |
+| 59 | [Heno Babayo](https://open.spotify.com/track/5G5RUkdswsoEZ8iB4csS3C) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C) | [Heno Babayo](https://open.spotify.com/album/0hVBhVj4qZ7l5UEn6H1ELy) | 5:41 |
 | 60 | [Imizwa](https://open.spotify.com/track/5q7oCRGLxChOkiKoFzFnRQ) | [Tom London](https://open.spotify.com/artist/3kgiVvHnYVBzDYXkUtgagY), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL), [Retha M](https://open.spotify.com/artist/0eESLxx5skAxIeTZGWPPBB), [Nkosi King](https://open.spotify.com/artist/1oTBGrA2lhfM7e0R42MAzn), [HolaDjBash](https://open.spotify.com/artist/2tudzHFYBrONCmMnUOVFPF), [SlickWidit](https://open.spotify.com/artist/7tbuktQEsbP53YKyuXqgtw) | [Imizwa](https://open.spotify.com/album/4EhMn3aQ4KmNspLo7NeLCO) | 6:36 |
 | 61 | [Sporty Spice](https://open.spotify.com/track/7BQOVYm4h5nA1CVbZIvJVb) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Sporty Spice](https://open.spotify.com/album/1OX71BEDDptWGxhLQtpcJP) | 2:13 |
 | 62 | [Distance](https://open.spotify.com/track/1Jh83HPyXxH0yif6XklqIr) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Distance](https://open.spotify.com/album/75ykLJVMzYkNiTH4SRLkO4) | 3:02 |

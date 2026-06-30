@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 240456,
       "name": "Fame Is A Gun",
       "url": "https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat"
@@ -7718,6 +7718,28 @@
       "duration_ms": 245200,
       "name": "Till I Get It Right",
       "url": "https://open.spotify.com/track/0EOBoPMSZEbgrR4BtIKsKi"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Gogohawk\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,362 songs - 3 day 10 hr 28 min
+1,363 songs - 3 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-11 | 2025-10-31 |
 | [Eden](https://open.spotify.com/track/0o7DpobP2DG9TCCPlcnloZ) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Eden](https://open.spotify.com/album/7DKWTFyONUmqYSyDFA2D7V) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Elena Coda \(feat\. Elaine\)](https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [New Edition 34](https://open.spotify.com/album/6V3qsD3AcGwyXtDxcG9fAj) | 4:23 | 2021-12-21 | 2022-07-27 |
-| [Ember](https://open.spotify.com/track/0J2Wi2fua93HE7KIX56oy5) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [LOVED](https://open.spotify.com/album/146jDbYZEKoYEIz1ggnpCy) | 4:14 | 2026-04-13 |  |
+| [Ember](https://open.spotify.com/track/0J2Wi2fua93HE7KIX56oy5) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [LOVED](https://open.spotify.com/album/146jDbYZEKoYEIz1ggnpCy) | 4:14 | 2026-04-13 | 2026-06-30 |
 | [Empty Space Above](https://open.spotify.com/track/5eek1iO2hgsffOssvVtICp) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Empty Space Above](https://open.spotify.com/album/5hCKuPY5AWeMaIlTTTHpwa) | 2:34 | 2025-01-09 | 2025-03-15 |
 | [End](https://open.spotify.com/track/61QY6K5CAZdXzaxvgZaEu1) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [End](https://open.spotify.com/album/5brV7BRPEXMO5u2bBcdcbh) | 3:29 | 2024-04-30 | 2024-05-10 |
 | [End of the maze](https://open.spotify.com/track/7uy8kmkYUIUPmlqLwS9FgG) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [End of the maze](https://open.spotify.com/album/4BOGaOZgoNiPUt8dEzPrXK) | 3:12 | 2025-10-02 | 2025-11-07 |
@@ -520,6 +520,7 @@
 | [Hypnagogia](https://open.spotify.com/track/7AhIuIBKKO8DcrCrXbCRQs) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [Hypnagogia](https://open.spotify.com/album/5ImVPsyWHwZeEJXP9hYiSx) | 4:07 | 2026-03-25 | 2026-05-08 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
 | [I am a Church.](https://open.spotify.com/track/3bcpltXdn1akCRZgDZIz0x) | [정세미](https://open.spotify.com/artist/2PlDWR4wokgOg5S5jhdh4Y) | [I am a Church.](https://open.spotify.com/album/47lVmpjFQlYyIYoHM17A4y) | 6:02 | 2022-03-09 | 2022-04-20 |
+| [I Can Do Anything 4u](https://open.spotify.com/track/5bqwVI8kbD0eihDggyIpji) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [MAKI STRIKE](https://open.spotify.com/album/3DSBFAxShAyyLcqL6dbLmV) | 2:26 | 2026-06-29 |  |
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 | 2022-09-21 |
 | [I do not know why I am here](https://open.spotify.com/track/1J7MT5yYGxvYO51DFKK8Ti) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 4:28 | 2024-11-06 | 2024-11-21 |
 | [I Don't Give A](https://open.spotify.com/track/2NmY7mgMgXewWoQLoUQC7p) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Even Though We Are Not the Same 우리의 감정이 같을 순 없지만](https://open.spotify.com/album/3isdFTW14WhOxUdOhFMHqP) | 3:10 | 2022-03-31 | 2022-04-04 |

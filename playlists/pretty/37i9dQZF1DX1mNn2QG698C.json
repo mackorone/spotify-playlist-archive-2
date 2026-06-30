@@ -1,15 +1,155 @@
 {
   "description": "La playlist ufficiale del rap show di Netflix, la nuova stagione \u00e8 in arrivo.",
-  "num_followers": 16474,
+  "num_followers": 16498,
   "original_name": "Nuova Scena Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHboTUHHIhe7qTky5SzBq3fANqAQ",
+  "snapshot_id": "AAAAAHEGBVux4KUaHzY6VKBE7p9IOLv0",
   "tracks": [
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
+      "album": {
+        "name": "Giudice (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/12Iy5Lm9wMcvVOuC9T3KI1"
+      },
+      "artists": [
+        {
+          "name": "Layelti",
+          "url": "https://open.spotify.com/artist/5U0TmdJmw0kywSFBAyzZDv"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "duration_ms": 153081,
+      "name": "Giudice (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/7F6M60tJ2baG3NnTJKwMBa"
+    },
+    {
+      "added_at": "2026-06-29 22:01:09",
+      "album": {
+        "name": "PUTT**A (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/6QNUbZTI9mq1izRydhQawh"
+      },
+      "artists": [
+        {
+          "name": "THYNA",
+          "url": "https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "duration_ms": 158761,
+      "name": "PUTT**A (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/4Z7KWzHtc9rpS9wCiYTuLT"
+    },
+    {
+      "added_at": "2026-06-29 22:01:09",
+      "album": {
+        "name": "Nuova Scena 3 Mixtape (From the Netflix Rap Show)",
+        "url": "https://open.spotify.com/album/7bbeEvlBXG1mi3OzkLNqiM"
+      },
+      "artists": [
+        {
+          "name": "Jacq Romeo",
+          "url": "https://open.spotify.com/artist/3qORkCpjGBYXe9kyZSV0iU"
+        },
+        {
+          "name": "Triste Vendetta",
+          "url": "https://open.spotify.com/artist/1zQsYdin4sBDv1ZDgWGR4E"
+        },
+        {
+          "name": "THYNA",
+          "url": "https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci"
+        },
+        {
+          "name": "Flextony",
+          "url": "https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv"
+        },
+        {
+          "name": "Tigerplug",
+          "url": "https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "duration_ms": 111853,
+      "name": "EXPLICIT",
+      "url": "https://open.spotify.com/track/59wRIDJPLCvaz4mzRZpJnh"
+    },
+    {
+      "added_at": "2026-06-29 22:01:09",
+      "album": {
+        "name": "Il Gatto e la volpe (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/4RcdZWyaLC5D3hxjWzTkid"
+      },
+      "artists": [
+        {
+          "name": "Flextony",
+          "url": "https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv"
+        },
+        {
+          "name": "Tigerplug",
+          "url": "https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "duration_ms": 150191,
+      "name": "Il Gatto e la volpe (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/48dD5hQ3Cw8YyaMBBxq8bh"
+    },
+    {
+      "added_at": "2026-06-29 22:01:09",
+      "album": {
+        "name": "Playa (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/4ZdsKiPvL2VrXOCGJbaIVv"
+      },
+      "artists": [
+        {
+          "name": "Dalfa",
+          "url": "https://open.spotify.com/artist/2iYGfKt0Tve6lQWUcoMONe"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "duration_ms": 123789,
+      "name": "Playa (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/1W4GCjKZDBEQv3mWC2to2a"
+    },
+    {
+      "added_at": "2026-06-29 22:01:09",
+      "album": {
+        "name": "Mille Luci (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/2gkTUxFpZaMMoDX2c42xBy"
+      },
+      "artists": [
+        {
+          "name": "Nap",
+          "url": "https://open.spotify.com/artist/5EKlohYn204yWxXa3af021"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Mille Luci (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/5BjoZkS6etCCKrlquAzOZb"
+    },
+    {
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "radio vega",
         "url": "https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ"
@@ -29,7 +169,7 @@
       "url": "https://open.spotify.com/track/7dOicN7jFw9HSdorxASiPu"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "In Italia 2024 (feat. Emma & Baby Gang)",
         "url": "https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU"
@@ -53,7 +193,7 @@
       "url": "https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Globo",
         "url": "https://open.spotify.com/album/1a20TRiV239oyveyPVEBR7"
@@ -69,7 +209,7 @@
       "url": "https://open.spotify.com/track/5qCzZaX7YHwXud2U32TZJu"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "CHIAGNE (feat. Lazza & Takagi & Ketra)",
         "url": "https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr"
@@ -93,7 +233,7 @@
       "url": "https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Pixel",
         "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
@@ -109,7 +249,7 @@
       "url": "https://open.spotify.com/track/6trWiRLAVJrMIeIGabayto"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "fuorilegge",
         "url": "https://open.spotify.com/album/0AUY58T6LbtiJ0CuY4E7qu"
@@ -125,7 +265,7 @@
       "url": "https://open.spotify.com/track/2C46EwfXY2ijlt7BfBY5mi"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -141,7 +281,7 @@
       "url": "https://open.spotify.com/track/4uuov8P8Dbt3rJOGxIAWiW"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "DIO LO SA - ATTO II",
         "url": "https://open.spotify.com/album/6zm0N3GCyTiHOD7V5i8TZQ"
@@ -165,7 +305,7 @@
       "url": "https://open.spotify.com/track/3XOcMFFT6Oo2ZCXLJ9lqdT"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -181,7 +321,7 @@
       "url": "https://open.spotify.com/track/5OjQ6ltr3jepBI1t9efVIM"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Radio Gotham",
         "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
@@ -201,7 +341,7 @@
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "MICA IO (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/4SF6iBGfvvIIzmfjFYiQ2H"
@@ -221,7 +361,7 @@
       "url": "https://open.spotify.com/track/6OLVqqm88TFiX5TABQspL0"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -237,7 +377,7 @@
       "url": "https://open.spotify.com/track/4hZAxSYVhaiFousCQM8LFc"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Fenomeno",
         "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
@@ -253,7 +393,7 @@
       "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -269,7 +409,7 @@
       "url": "https://open.spotify.com/track/4ZYcJEZknmyeH7w7yceXxn"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "NUOVA VITA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/3BrM7EmmLbPm6J61H0Xoj2"
@@ -289,7 +429,7 @@
       "url": "https://open.spotify.com/track/6z7ZAvaPkpkRuwjhWyn14G"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -305,7 +445,7 @@
       "url": "https://open.spotify.com/track/2vejKgdviTICfxoqOL3LKG"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -321,7 +461,7 @@
       "url": "https://open.spotify.com/track/3ccghHgxcnyYq04yWtfD3T"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "EL MATADOR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK"
@@ -341,7 +481,7 @@
       "url": "https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "BENVENUTI IN CALABRIA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/2Mjcu3ccTSA8Y34N6DEzEU"
@@ -361,7 +501,7 @@
       "url": "https://open.spotify.com/track/50WyKvHTwuxHvXCIla9Ekq"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -377,7 +517,7 @@
       "url": "https://open.spotify.com/track/50ex66hfcDLKkBHV88ZO93"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Ossimoro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/6xGIYeYemjxt84FTuzyEI6"
@@ -397,7 +537,7 @@
       "url": "https://open.spotify.com/track/7J9YW7pJ50Z2ow1VvDMTrf"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -421,7 +561,7 @@
       "url": "https://open.spotify.com/track/4pDkYM6khFgQTqS8V0RNBB"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Zin Zin (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/682oet2H23I8gNe5Pyld48"
@@ -441,7 +581,7 @@
       "url": "https://open.spotify.com/track/3QpfAGCWS5owDwtTzTQzlj"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Mr. Simpatia",
         "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
@@ -457,7 +597,7 @@
       "url": "https://open.spotify.com/track/2i2zlcw92p4WHFkbY2qKjl"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Re Mida (Piano Solo)",
         "url": "https://open.spotify.com/album/7hO0SatbllbcKx7aaOEnHd"
@@ -473,7 +613,7 @@
       "url": "https://open.spotify.com/track/5iwg1Nvm4IRbekBQOmmJjg"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "La Volta Giusta \u2013 Red Bull Posse",
         "url": "https://open.spotify.com/album/4OJAJAwcrMEflYEcYHralw"
@@ -517,7 +657,7 @@
       "url": "https://open.spotify.com/track/4UKciRPy8loJ0TTIeWPuBL"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Tropico Del Capricorno",
         "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
@@ -537,7 +677,7 @@
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
@@ -553,7 +693,7 @@
       "url": "https://open.spotify.com/track/5MJc4IVIt17xEt6angtZcq"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Vetro (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/1n7lZ3Urf2B2s5MJJFJFEZ"
@@ -573,7 +713,7 @@
       "url": "https://open.spotify.com/track/30hSNULGkp6OgCsQ9TpNDS"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "SEDICENNE INCINTA (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/0J0FLastpgtwXYvk4cMzMk"
@@ -593,7 +733,7 @@
       "url": "https://open.spotify.com/track/0cdHN2xOVKzyMnEC3S7Q28"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
@@ -609,7 +749,7 @@
       "url": "https://open.spotify.com/track/6dXMNTe1ztrLn3Ej1ZR7Ha"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Danza del Ghetto (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/3L2chRYOCkeN6CTXVMzi6S"
@@ -629,7 +769,7 @@
       "url": "https://open.spotify.com/track/2uTE3ilwfZWtMdarjkStGs"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Acqua",
         "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
@@ -645,7 +785,7 @@
       "url": "https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "BABYDOLL (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/1taLOZGJ4xuy4Xs60ICx4G"
@@ -665,7 +805,7 @@
       "url": "https://open.spotify.com/track/5QAp93p5PbN056L26szJKI"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "CLICK BOOM!",
         "url": "https://open.spotify.com/album/6PBnYwtMjAW4XqVRs9Il2l"
@@ -681,7 +821,7 @@
       "url": "https://open.spotify.com/track/2PO4ThUKzIa4rBLsFkyInU"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Paganini",
         "url": "https://open.spotify.com/album/3kI8OpMHBcp6Fb56Z1uGeZ"
@@ -697,7 +837,7 @@
       "url": "https://open.spotify.com/track/34XnlHqQzVeqXTMXc7SVo0"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "L\u2019ego (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/4mFTQT6nhMKaNG11gCaz4m"
@@ -717,7 +857,7 @@
       "url": "https://open.spotify.com/track/5qkvEFyyBShsZWBUixMvam"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Controcultura",
         "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
@@ -733,7 +873,7 @@
       "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Anche gli Eroi Muoiono",
         "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
@@ -749,7 +889,7 @@
       "url": "https://open.spotify.com/track/35A3dpuq0OoT0XLtEDCCJG"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Partenope (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo"
@@ -769,7 +909,7 @@
       "url": "https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Maliciosa (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/0k7qh6Op4gcUmlT6rrJUH3"
@@ -789,7 +929,7 @@
       "url": "https://open.spotify.com/track/6KJ57PY7fIIRlaweLnNbXj"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Anche gli Eroi Muoiono",
         "url": "https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV"
@@ -805,7 +945,7 @@
       "url": "https://open.spotify.com/track/0O5KcmgOeEgublW6ySQ6Vc"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "CRIATUR (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir"
@@ -825,7 +965,7 @@
       "url": "https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Solito posto, Soliti guai",
         "url": "https://open.spotify.com/album/5W3Hncs2OSDnUvskhjPbg9"
@@ -841,7 +981,7 @@
       "url": "https://open.spotify.com/track/1ckjZJMTUud7aPQ4FsR7Ci"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "TUTTO A POSTO (From the Netflix Rap Show \u201cNuova Scena\u201d) [Live]",
         "url": "https://open.spotify.com/album/2upDuP0vVywKWjSzYr96iW"
@@ -877,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5YZEHwsOGXQZo7IrPhqJam"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
@@ -897,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/0xDVS2VYlF5I16H8kQ7FwY"
@@ -913,7 +1053,7 @@
       "url": "https://open.spotify.com/track/7oEFfGNfbiHusPpnakn3xC"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "radio vega",
         "url": "https://open.spotify.com/album/2ykfPpPezkSUfCnZjSQ6CQ"
@@ -937,7 +1077,7 @@
       "url": "https://open.spotify.com/track/1T4VPFAMqougBy1JqOLYln"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
@@ -953,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "WE GOT IT (From the Netflix Rap Show \u201cNuova Scena\u201d) [Live]",
         "url": "https://open.spotify.com/album/2UGy313uBHbjbYsSbSq7cd"
@@ -989,7 +1129,7 @@
       "url": "https://open.spotify.com/track/011YjJ0LFDtAl7OahUAUfD"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
@@ -1009,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
@@ -1025,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Big Panorama",
         "url": "https://open.spotify.com/album/4Pcpa6u8EH2bAzboGbcIfK"
@@ -1041,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3K7z0fSlSRxrdFPqavdaKC"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "NETWORK (From the Netflix Rap Show \u201cNuova Scena\u201d)",
         "url": "https://open.spotify.com/album/41H0aPdgys8OVwQK1Bg3gF"
@@ -1061,7 +1201,7 @@
       "url": "https://open.spotify.com/track/28polmoNjO1dvYiUfFxN43"
     },
     {
-      "added_at": "2026-06-24 08:32:24",
+      "added_at": "2026-06-29 22:01:09",
       "album": {
         "name": "Neffa E I Messaggeri Della Dopa",
         "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"

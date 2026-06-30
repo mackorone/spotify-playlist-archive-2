@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-592 songs - 1 day 12 hr 54 min
+596 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-03-17 | 2026-04-21 |
 | [Control](https://open.spotify.com/track/3aYIobFI663p7UIIl1yO3o) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [5 to 4](https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah) | 3:39 | 2026-02-09 | 2026-03-18 |
 | [Control the Universe \(revisited\)](https://open.spotify.com/track/16EMMLXvZHgqKyruhRZqaF) | [Lynn Rockin](https://open.spotify.com/artist/5rCJrr6znWoU3RTfk5Nyo3) | [Control the Universe \(revisited\)](https://open.spotify.com/album/68dYmV1CdPKVtj0Z2uYLiQ) | 3:48 | 2025-12-09 |  |
+| [Cool Beans](https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d) | [Lovechild](https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU) | [Cool Beans](https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6) | 3:53 | 2026-06-29 |  |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2025-11-05 | 2025-12-17 |
 | [Corrado](https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [Corrado](https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c) | 0:48 | 2026-03-11 | 2026-04-21 |
 | [Cosmonauta](https://open.spotify.com/track/4ob1p85yFIpasJJOvYDzcM) | [Francisco Crespo](https://open.spotify.com/artist/3keaT0bkTmc7oERRDQPxkb) | [Cosmonauta](https://open.spotify.com/album/3wCsW7kVE8Q6wvJB0Jvfau) | 2:32 | 2025-11-05 | 2025-12-17 |
@@ -287,6 +288,7 @@
 | [Last Goodbye](https://open.spotify.com/track/5SdEoelq5gFFHzpxGeqi1W) | [Softcase](https://open.spotify.com/artist/2nqXZfwOxBVcKjVa7pYdC8) | [Last Goodbye](https://open.spotify.com/album/52T9LF5wyA24Vz0qI7C5SE) | 3:17 | 2026-03-01 | 2026-03-18 |
 | [Last Night](https://open.spotify.com/track/3SLOgxmU82Hn6MOAxQuem3) | [Sugarcane Hangover](https://open.spotify.com/artist/4apvzNrF5euN4Sy6oTgBZ3) | [Last Night](https://open.spotify.com/album/2mTKkUS3mPXZNPhoAoWtkw) | 3:21 | 2026-04-05 |  |
 | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/track/72fbAsOKHLH4OOCBS76GTE) | [Los Pixeles de Warhol](https://open.spotify.com/artist/1S8T8aWGgXAp4IefMclzuP) | [Laureano Gómez era un Triplehijueputa](https://open.spotify.com/album/2x9Q84jE5RA0h6DbLnqlyK) | 4:11 | 2026-01-03 | 2026-03-18 |
+| [Lay Down Your Arms](https://open.spotify.com/track/7nWjyT8LzLPoY5iDZSBzvE) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade \(Japan Edition\)](https://open.spotify.com/album/11Yy2KflENJe5ohjIIcVsm) | 4:27 | 2026-06-29 |  |
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2026-05-31 | 2026-06-18 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 | 2026-04-13 |
@@ -365,6 +367,7 @@
 | [No pierdas la fe](https://open.spotify.com/track/21khIKflv727TWXrdzMDTR) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [No pierdas la fe](https://open.spotify.com/album/59KTNRoVmONWQzzMAt1ndm) | 4:52 | 2025-09-29 | 2025-12-17 |
 | [No Time for Time](https://open.spotify.com/track/4XESNRQzbdf03VrqVlIxnG) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [No Time for Time](https://open.spotify.com/album/4SA2hbZm7r4poKfHHhraP3) | 5:54 | 2026-03-22 | 2026-04-21 |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-11-12 | 2025-12-17 |
+| [NOW AND THEN](https://open.spotify.com/track/0AXW91Bnp70uE8O0wyeqGk) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [NOW AND THEN](https://open.spotify.com/album/51igHu0IiPb0HIWutsqHzX) | 2:42 | 2026-06-29 |  |
 | [Nowhere](https://open.spotify.com/track/4C3UhidYKXi9xtImKtIOQ0) | [Evocrafted](https://open.spotify.com/artist/457flXJV5U0ynJI1odPwSh) | [Nowhere](https://open.spotify.com/album/4DF5CGRXs4yRl1cAAY7lST) | 3:29 | 2026-02-09 | 2026-03-18 |
 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 | 2026-05-03 | 2026-05-26 |
 | [Nuvens](https://open.spotify.com/track/0SejuWnZQoAT88poImtMiy) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Vida na Estrada](https://open.spotify.com/album/4XfA2gMTG2IXlpXaVhjsYn) | 2:59 | 2025-10-09 | 2025-11-28 |
@@ -380,6 +383,7 @@
 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 | 2026-02-05 | 2026-03-18 |
 | [One of the Reasons](https://open.spotify.com/track/6AOxOJVRXpSS8fYjM9hR1Y) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [One of the Reasons](https://open.spotify.com/album/1EtKddvaxCE0M86Izt4xjB) | 2:40 | 2026-02-25 | 2026-03-18 |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
+| [One Way Ticket](https://open.spotify.com/track/4xSvbsAmTdRAybIlgSxmgm) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [One Way Ticket](https://open.spotify.com/album/05AC5D5nHXEdMa2Sq0k2Hd) | 3:58 | 2026-06-29 |  |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 | 2026-06-22 |  |
 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-11 | 2026-05-26 |

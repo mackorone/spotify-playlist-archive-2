@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-637 songs - 1 day 18 hr 59 min
+638 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:55 | 2024-09-27 |  |
 | [Odogwu](https://open.spotify.com/track/28KSf1gG77PI0gZpDHMaKr) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Odogwu](https://open.spotify.com/album/5ydHqazDMmOw4kEYzE3yMF) | 3:23 | 2025-02-21 | 2025-09-12 |
 | [Odogwu \(feat\. Prospa Ochimana\)](https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Odogwu \(feat\. Prospa Ochimana\)](https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww) | 4:22 | 2026-05-01 |  |
-| [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 | 2026-04-03 |  |
+| [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 | 2026-04-03 | 2026-06-30 |
 | [Ogbon Mi O Gbe](https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 4:18 | 2026-05-15 |  |
 | [Oghene Do](https://open.spotify.com/track/5XCC5Ht7wNIKGPSlpJg3Ww) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Oghene Do](https://open.spotify.com/album/4OMOfEjqFKN0rvpqDnWOyf) | 2:54 | 2025-03-28 | 2025-05-09 |
 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 | 2024-11-15 | 2025-02-07 |
@@ -529,6 +529,7 @@
 | [Surely](https://open.spotify.com/track/4h3nTUfOMq29veNoWzG9OC) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X) | [Artisan](https://open.spotify.com/album/1wAfgl8G6lRRQttdwnbF8v) | 1:54 | 2025-11-21 | 2025-11-28 |
 | [SURELY \- UNVL' 24](https://open.spotify.com/track/2zTR5has6FHGwdwoi26Apt) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [SURELY \(UNVL' 24\)](https://open.spotify.com/album/0tzCM41z8QPFzQcLiIpWCX) | 2:05 | 2024-09-30 | 2025-03-07 |
 | [Surely Goodness \(feat\. Phil Thompson\)](https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Surely Goodness](https://open.spotify.com/album/7JPu2axcCxxcXhu3PDVnZY) | 4:48 | 2025-04-25 | 2025-06-13 |
+| [Sweet Jesus](https://open.spotify.com/track/7H1AhuPUekQcBnin0ScOxR) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Sweet Jesus](https://open.spotify.com/album/1v9gDAJXFl3UqF4NZVqe5Q) | 2:27 | 2026-06-19 |  |
 | [Synergy](https://open.spotify.com/track/012NuMFPY9BBlfYfUIzGs4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Synergy](https://open.spotify.com/album/4xc8SyumGUd12gji9kpWuo) | 2:44 | 2026-02-06 | 2026-02-27 |
 | [Take It](https://open.spotify.com/track/2FKMyKpyWuiywgWIoHkncw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Homecoming](https://open.spotify.com/album/4FD5SkN7JdqjLQkvnSlzwi) | 3:30 | 2026-04-03 | 2026-05-27 |
 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 | 2026-02-27 | 2026-04-18 |

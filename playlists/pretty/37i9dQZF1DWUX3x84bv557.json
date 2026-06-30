@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Roxy Dekker",
-  "num_followers": 246738,
+  "num_followers": 246732,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPwq3sEDsN25B60bdk4TunusGuTu",
+  "snapshot_id": "AAAAAJdTKdsYzWPM9e1b9rAWWsOFuEyM",
   "tracks": [
     {
       "added_at": "2026-06-25 22:00:41",
@@ -27,6 +27,22 @@
     {
       "added_at": "2026-06-25 22:00:41",
       "album": {
+        "name": "Misschien Is Het Tijd",
+        "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 177169,
+      "name": "Misschien Is Het Tijd",
+      "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
+    },
+    {
+      "added_at": "2026-06-25 22:00:41",
+      "album": {
         "name": "Just A Lover Girl (Deluxe)",
         "url": "https://open.spotify.com/album/4Z0To29ffE0htwxvucjMf0"
       },
@@ -43,18 +59,18 @@
     {
       "added_at": "2026-06-25 22:00:41",
       "album": {
-        "name": "Misschien Is Het Tijd",
-        "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
+        "name": "Ik Droom Alvast Van Jou",
+        "url": "https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh"
       },
       "artists": [
         {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
         }
       ],
-      "duration_ms": 177169,
-      "name": "Misschien Is Het Tijd",
-      "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
+      "duration_ms": 156980,
+      "name": "Ik Droom Alvast Van Jou",
+      "url": "https://open.spotify.com/track/10fXUjOffC01ye6N151DGj"
     },
     {
       "added_at": "2026-06-25 22:00:41",
@@ -99,6 +115,22 @@
     {
       "added_at": "2026-06-25 22:00:41",
       "album": {
+        "name": "Hypocriet",
+        "url": "https://open.spotify.com/album/3i5jFbergniuEq3DnpBE2Q"
+      },
+      "artists": [
+        {
+          "name": "Tessa June",
+          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
+        }
+      ],
+      "duration_ms": 160532,
+      "name": "Hypocriet",
+      "url": "https://open.spotify.com/track/4xtPvPsghLZNCiifdABJ0r"
+    },
+    {
+      "added_at": "2026-06-25 22:00:41",
+      "album": {
         "name": "lieve monsters: epiloog",
         "url": "https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr"
       },
@@ -115,22 +147,6 @@
     {
       "added_at": "2026-06-25 22:00:41",
       "album": {
-        "name": "Ik Droom Alvast Van Jou",
-        "url": "https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh"
-      },
-      "artists": [
-        {
-          "name": "BENR",
-          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
-        }
-      ],
-      "duration_ms": 156980,
-      "name": "Ik Droom Alvast Van Jou",
-      "url": "https://open.spotify.com/track/10fXUjOffC01ye6N151DGj"
-    },
-    {
-      "added_at": "2026-06-25 22:00:41",
-      "album": {
         "name": "De Enige",
         "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 158400,
       "name": "De Enige",
       "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
-    },
-    {
-      "added_at": "2026-06-25 22:00:41",
-      "album": {
-        "name": "Hypocriet",
-        "url": "https://open.spotify.com/album/3i5jFbergniuEq3DnpBE2Q"
-      },
-      "artists": [
-        {
-          "name": "Tessa June",
-          "url": "https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk"
-        }
-      ],
-      "duration_ms": 160532,
-      "name": "Hypocriet",
-      "url": "https://open.spotify.com/track/4xtPvPsghLZNCiifdABJ0r"
     },
     {
       "added_at": "2026-06-25 22:00:41",
@@ -1424,8 +1424,8 @@
       },
       "artists": [
         {
-          "name": "Kiya van Rossum",
-          "url": "https://open.spotify.com/artist/7KPAEc0pqS6UcwvwlSEo7h"
+          "name": "Kiya",
+          "url": "https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9"
         }
       ],
       "duration_ms": 179253,

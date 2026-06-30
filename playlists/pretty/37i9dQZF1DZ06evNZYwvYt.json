@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 20469,
+  "num_followers": 20471,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAABrr5JyOEQ+O/yUj6GptVf6",
+  "snapshot_id": "akBkAAAAAAD93Ke18r1FH0PGOVenXPNl",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resiste M\u00e1s Que Yo (En Vivo)",
         "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 359233,
       "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 238586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,

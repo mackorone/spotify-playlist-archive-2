@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Bizarrap & Myke Towers, Becky G, Eslabon Armado & Peso Pluma, Paloma Mami &  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,188 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,249 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

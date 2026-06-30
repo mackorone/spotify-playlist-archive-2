@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+ Bonita",
+        "url": "https://open.spotify.com/album/3BXyib0q86TWNaYn5no3Dm"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Jurado",
+          "url": "https://open.spotify.com/artist/6SVBkiq5tMxnkzA8c9UWhh"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "+ Bonita",
+      "url": "https://open.spotify.com/track/3KJrb3FrDB4LHPVk5eCG7n"
+    },
+    {
+      "album": {
         "name": "+ Te Vale",
         "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
       },
@@ -710,6 +728,28 @@
       "duration_ms": 181914,
       "name": "Algo de m\u00ed",
       "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "album": {
+        "name": "Algo M\u00e1s",
+        "url": "https://open.spotify.com/album/7klB5WI25Dw2XqjHrN2JjF"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167299,
+      "name": "Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/1qgBT2VZV4i1ms23Vu9Khd"
     },
     {
       "album": {
@@ -2003,6 +2043,28 @@
     },
     {
       "album": {
+        "name": "Bronca",
+        "url": "https://open.spotify.com/album/0NxoDQbxyfJqJDcbd16W65"
+      },
+      "artists": [
+        {
+          "name": "Raule",
+          "url": "https://open.spotify.com/artist/73wnjjUNhCetX7NE4FvxjL"
+        },
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188115,
+      "name": "Bronca",
+      "url": "https://open.spotify.com/track/0qgD8dqh8P2VCaH00W8IhA"
+    },
+    {
+      "album": {
         "name": "Oro y Diamantes",
         "url": "https://open.spotify.com/album/0X2wOAKXzCkRgVJzent6B3"
       },
@@ -2368,7 +2430,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 134867,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
@@ -3456,7 +3518,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 129280,
       "name": "creo que te quiero",
       "url": "https://open.spotify.com/track/7Lix1MKXWG5WZj4LEfObIK"
@@ -3700,7 +3762,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 153903,
       "name": "CUCARACHEO",
       "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
@@ -5318,7 +5380,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 131500,
       "name": "El Ritual",
       "url": "https://open.spotify.com/track/4bqbD8VTOEejksJOcW20fs"
@@ -10003,6 +10065,28 @@
     },
     {
       "album": {
+        "name": "ME GUSTAN LOS 2",
+        "url": "https://open.spotify.com/album/0mR2vjasgO9k0Dd2cVHXub"
+      },
+      "artists": [
+        {
+          "name": "Daniela Garsal",
+          "url": "https://open.spotify.com/artist/5UA1oMfQ2oISh5SaZiVjXe"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "ME GUSTAN LOS 2",
+      "url": "https://open.spotify.com/track/0rCs84lqjA4mP4x4SHl4z6"
+    },
+    {
+      "album": {
         "name": "Me Gustas Tanto",
         "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
       },
@@ -11193,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "Nadie Se Muere De Amor",
+        "url": "https://open.spotify.com/album/16znfXu7MmZWkLzmecImYL"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177078,
+      "name": "Nadie Se Muere De Amor",
+      "url": "https://open.spotify.com/track/4I0dLeI0AQvec7R8J8o5UR"
+    },
+    {
+      "album": {
         "name": "Nanai",
         "url": "https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa"
       },
@@ -11392,7 +11494,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 150346,
       "name": "NEXO 11. Salta",
       "url": "https://open.spotify.com/track/4DwbSmGIVBJ0zCCJEngWzk"
@@ -13847,6 +13949,24 @@
     },
     {
       "album": {
+        "name": "Punto de Partida",
+        "url": "https://open.spotify.com/album/4VSBF3YG9aZJIyKP3haxvp"
+      },
+      "artists": [
+        {
+          "name": "Julia Medina",
+          "url": "https://open.spotify.com/artist/2W9Bqi3EV1GXFkCOvE3oSE"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "Punto de Partida",
+      "url": "https://open.spotify.com/track/3k8WMwD9HhvYXzbsoDHpTH"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1ales",
         "url": "https://open.spotify.com/album/4w2IyjSsUqxLooaKskn1hE"
       },
@@ -14264,7 +14384,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 206747,
       "name": "rabia bien puesta",
       "url": "https://open.spotify.com/track/3Cx249qth3aWgvDR55ba21"
@@ -15912,6 +16032,24 @@
       "duration_ms": 164833,
       "name": "Suerte ;)",
       "url": "https://open.spotify.com/track/6sn1eF23Zvacs0oshUciXA"
+    },
+    {
+      "album": {
+        "name": "SUMMERLOVE",
+        "url": "https://open.spotify.com/album/2I9euWGRgsZtRPX9BGpiHi"
+      },
+      "artists": [
+        {
+          "name": "Funzo",
+          "url": "https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164540,
+      "name": "SUMMERLOVE",
+      "url": "https://open.spotify.com/track/0NtpkVIuobXO0Ui0cQLEfu"
     },
     {
       "album": {
@@ -18416,7 +18554,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 223333,
       "name": "\u00bfC\u00f3mo Puede Ser?",
       "url": "https://open.spotify.com/track/74eUVj9lmyG2K5oM4OCjJJ"

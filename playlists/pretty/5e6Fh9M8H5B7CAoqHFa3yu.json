@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 341,
+  "num_followers": 343,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKQA03OJHZNxeUZaFyKgOaFeWVc5xU",
+  "snapshot_id": "AAAKQsoqtF4YNY1TaiAlke6zOfWuKMCo",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -41119,6 +41119,42 @@
       "duration_ms": 188999,
       "name": "DEROGATORY",
       "url": "https://open.spotify.com/track/6vFNlT9rxihG5ey0gxUkJo"
+    },
+    {
+      "added_at": "2026-06-29 15:03:24",
+      "album": {
+        "name": "Holy Ground, Vol. 1",
+        "url": "https://open.spotify.com/album/5RugmFSjKKXVZQKvwkk4zo"
+      },
+      "artists": [
+        {
+          "name": "Leo Tan",
+          "url": "https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat"
+        },
+        {
+          "name": "I-niverse",
+          "url": "https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Son Of God",
+      "url": "https://open.spotify.com/track/2gxdVIWXucZeOvAPIFq7Ye"
+    },
+    {
+      "added_at": "2026-06-30 01:25:15",
+      "album": {
+        "name": "TRY ME",
+        "url": "https://open.spotify.com/album/4Uvf4xhtQ3yPZOjpQ30VUs"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 160003,
+      "name": "TRY ME",
+      "url": "https://open.spotify.com/track/0CavuOdspBDRkBXhEP6UMH"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

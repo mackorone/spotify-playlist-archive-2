@@ -4,7 +4,7 @@
 
 > 
 
-248 songs - 12 hr 57 min
+253 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bittersweet](https://open.spotify.com/track/5jwi6uej7cKEXRKl5T5NJe) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Bittersweet](https://open.spotify.com/album/5PpYInSPwb0qYYMFyCN0FL) | 2:31 | 2025-09-11 |  |
 | [Blue Light Special](https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo), [TeaYaMay](https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5) | [Blue Light Special](https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E) | 2:10 | 2026-06-22 |  |
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2026-04-07 |  |
+| [Cadeado na Cabeça](https://open.spotify.com/track/2cRuFyGzf3dqC7VvWGu97Q) | [Trilogia Urbana](https://open.spotify.com/artist/7JEEQ1GSiNLKy8RNgEFlOM) | [Cadeado na Cabeça](https://open.spotify.com/album/37gI2wJQTpRB5TUdWNpSSD) | 2:48 | 2026-06-29 |  |
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Ce monde est sale](https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 1:39 | 2026-06-22 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
@@ -98,8 +99,10 @@
 | [Got Me Feeling Down](https://open.spotify.com/track/3mdi1GiOhAAyNcVd72wDoy) | [Crimson Helles](https://open.spotify.com/artist/6bFi5UTNn2BgqBKkbuBdi2), [Chris Cool](https://open.spotify.com/artist/7A73QX7I2ArWocgWfBY6Bs) | [Got Me Feeling Down](https://open.spotify.com/album/70kSlrGmXFDGE9LoGFr8x9) | 3:33 | 2025-11-07 |  |
 | [GROW](https://open.spotify.com/track/3htcj4Dd4cIfHVFTD2ajh6) | [Kamy](https://open.spotify.com/artist/2i03xVEyzsYwm84ifehJUS) | [GROW](https://open.spotify.com/album/1ZAvMLlyVmb1gM3bNzdNuN) | 3:35 | 2025-08-20 |  |
 | [Heart Don't Beat No Fear](https://open.spotify.com/track/5pmLY4W35dyS7VvUpoBtHM) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Heart Don't Beat No Fear](https://open.spotify.com/album/3cP2lWFVTlDHhqtWQN12Zl) | 3:08 | 2026-04-02 |  |
+| [Heart of glass](https://open.spotify.com/track/7iBlEvdq7wmGdmb9FCNVPR) | [KAIFlaiy](https://open.spotify.com/artist/4B6GyvcrfRvy2i2CCzBWtS) | [Heart of glass](https://open.spotify.com/album/0SV4qCRVN9uRzKLSpiV5F0) | 3:05 | 2026-06-29 |  |
 | [Heart Of The West](https://open.spotify.com/track/6F1x5PDpncCybbnAqbnPDj) | [Kinga Talarek](https://open.spotify.com/artist/6vGaMJPqkdKmVdvOrM5DCG), [KOSHE](https://open.spotify.com/artist/2BmuePXK1PgAmJ61m981rU) | [Heart Of The West](https://open.spotify.com/album/10pstk0OxkUJi6Qe8yBO9z) | 2:51 | 2025-11-02 |  |
 | [Hey Izzy](https://open.spotify.com/track/4aMiZGR3tuBN6Iw2tN02BQ) | [The Last Great Kings](https://open.spotify.com/artist/4iz8exWOL7apTsnXzP2YSs) | [Hey Izzy](https://open.spotify.com/album/054kwlQaKDExJqti6AYfTM) | 2:57 | 2026-06-16 |  |
+| [Hi\-De\-Ho](https://open.spotify.com/track/5P6mvyfmlUrpvKAiZnxLGF) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Hi\-De\-Ho](https://open.spotify.com/album/5172De2E44SsHzNU7mlAAd) | 4:50 | 2026-06-29 |  |
 | [Hold On](https://open.spotify.com/track/1xunQYI4Bfk0dDgIdoQokK) | [Veauxgue](https://open.spotify.com/artist/0ZEvbB2ViUVH9JGLOBLvrM) | [10,000 Days](https://open.spotify.com/album/0YPjipQDNl5DXQo2Xwr4kE) | 3:07 | 2025-11-22 |  |
 | [Homewrecker](https://open.spotify.com/track/5cnLneiOGZQjsoFeOwTewc) | [Enhance](https://open.spotify.com/artist/0WczWSXykA8L6DAN24qPQW) | [Homewrecker](https://open.spotify.com/album/2W32nOm3iiFnrhHLZfQhI0) | 2:36 | 2025-11-20 |  |
 | [Hope](https://open.spotify.com/track/1GeeMhsnDt7E15N24m6rAp) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 6:37 | 2025-04-06 |  |
@@ -142,6 +145,7 @@
 | [Me Confundes](https://open.spotify.com/track/3p4zlX5oex6W0FhAWgl9gr) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3) | [Me Confundes](https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR) | 2:04 | 2026-06-19 |  |
 | [Me Piden Reggaeton](https://open.spotify.com/track/3n6TRgeHQXEgx0PCL5GVWH) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Me Piden Reggaeton](https://open.spotify.com/album/1GHvESbUF8VDfXEB71q8kH) | 2:37 | 2026-03-12 |  |
 | [MEET U AT THE TOP](https://open.spotify.com/track/1Fb3OYey2JClP5kKei8B7m) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [THE CODE](https://open.spotify.com/album/1tPBYF7xveQtDPE9DJBqTe) | 2:28 | 2025-09-15 |  |
+| [Mersid](https://open.spotify.com/track/1ffsEtjS0e05jQ9HuQ7Y4E) | [Shachtiel](https://open.spotify.com/artist/5g9ynMOdHnZKZqYfwKcLER) | [Mersid](https://open.spotify.com/album/6R2LeVU8QeFg7gfOBsOjak) | 7:41 | 2026-06-29 |  |
 | [Mi Mundo Sin Ti](https://open.spotify.com/track/7iYYjbHEyidencpPySu4Os) | [Jorge Trez](https://open.spotify.com/artist/1QblYNIinirun9slUCO1Gq) | [Mi Mundo Sin Ti](https://open.spotify.com/album/0Yjwg2KmcX9bJpjn7kp0Lf) | 2:16 | 2026-06-22 |  |
 | [Millaje \- Remix](https://open.spotify.com/track/0l6aneTXm37DhQQLzoYyEl) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [ELUVE](https://open.spotify.com/artist/5vgkWhP4HQTncMrL5OhJd8), [Rensu](https://open.spotify.com/artist/3eQvPkkqBOguBhFsUqenHs) | [Millaje \(Remix\)](https://open.spotify.com/album/3i04HHpwa7fH6jtsu8Ysvc) | 3:00 | 2026-03-12 |  |
 | [Miradita](https://open.spotify.com/track/4df7p7ZKZs2FR33kgufL0O) | [GlakTka](https://open.spotify.com/artist/3cydtlH4cwJnMRKswWK7wb) | [Miradita](https://open.spotify.com/album/4OiJ0ugns2DqRAzLR4W487) | 1:18 | 2025-05-26 |  |
@@ -208,6 +212,7 @@
 | [Situationships](https://open.spotify.com/track/17BZbS3oOKmTmHTlZ0LqUS) | [Chloe Hepburn](https://open.spotify.com/artist/4sem4vxRZAFrz2uohwhs4i) | [Situationships](https://open.spotify.com/album/3g6GU9jBMKdNszmOvITNos) | 3:18 | 2025-04-06 |  |
 | [so...............................?](https://open.spotify.com/track/6wAGRDEEsUNkbcnWVZORSg) | [ArfHudson](https://open.spotify.com/artist/1r88jRdaqwfu3r6AHp7VVU) | [cute practice](https://open.spotify.com/album/18chTHeiJkJUX3Q5T9Rry6) | 1:33 | 2026-01-28 |  |
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-27 |  |
+| [Spare Change](https://open.spotify.com/track/1VnajY28qVbEUKuiJrV6j1) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 3:39 | 2026-06-29 |  |
 | [Stargirl](https://open.spotify.com/track/4y5J5u4xOnKxx5swAB65kU) | [yourfadedmuse](https://open.spotify.com/artist/7HbN1YBXzK01eA90eEbjvl) | [Stargirl](https://open.spotify.com/album/2fjlEvzzKeUq0oKEVDspEP) | 3:10 | 2025-07-07 |  |
 | [Stay Out Of The Basement](https://open.spotify.com/track/6QvxKCNitDSTfYR2wOWJOR) | [Allegories](https://open.spotify.com/artist/61bTkOisFXOWUZibTyZhgD) | [Stay Out Of The Basement](https://open.spotify.com/album/1O9lrL87I7MP6pEwibbAVj) | 2:59 | 2025-08-19 |  |
 | [Still classy](https://open.spotify.com/track/3YQ3kRyU3KkdJmRKDTbrdZ) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:51 | 2026-04-07 |  |

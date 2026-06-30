@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-366 songs - 20 hr 2 min
+367 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Dive into you](https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [Kakao Webtoon 〈Since I Met You〉 OST Part.1](https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7) | 3:32 | 2022-08-12 | 2024-03-02 |
 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 | 2022-05-11 |  |
 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 | 2024-03-08 | 2025-01-31 |
+| [Don't Be](https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Don't Be](https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6) | 3:16 | 2026-06-29 |  |
 | [Don’t](https://open.spotify.com/track/6KyafpXji3NKMmlmSokT9Y) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard Pt\. 4](https://open.spotify.com/album/2fMMk4DD96UcAmSczUQ0kq) | 3:51 | 2022-05-11 | 2022-07-29 |
 | [Don’t](https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The Hyena on the Keyboard, Pt\. 4](https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77) | 3:51 | 2022-07-08 | 2024-03-09 |
 | [DOOL](https://open.spotify.com/track/69bIyhMJzx8kC7QnItmvma) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Dingo X meenoi](https://open.spotify.com/album/3f335WuW4MjBInMiGvDker) | 2:59 | 2025-11-04 | 2025-11-21 |
@@ -368,7 +369,7 @@
 | [열어도 되어요](https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [HAAN X SHIRT : Energy](https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT) | 2:51 | 2025-06-17 | 2026-04-01 |
 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 | 2024-08-05 |  |
 | [이 밤이 지나면](https://open.spotify.com/track/1FjCYfkEKNP3YHsKGsdE27) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:45 | 2022-05-11 | 2022-07-26 |
-| [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 | 2024-03-08 |  |
+| [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 | 2024-03-08 | 2026-06-30 |
 | [이렇게 좋아해 본 적이 없어요](https://open.spotify.com/track/7ybpezfufTBZvcMWf4iuT0) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [이렇게 좋아해 본 적이 없어요 \(From “소녀의 세계” \[Original Soundtrack\]\)](https://open.spotify.com/album/1gEeOzKCnjiQ9GSR7s0KlS) | 4:19 | 2024-04-19 | 2025-11-21 |
 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 | 2025-02-10 | 2025-11-21 |
 | [잘생기질 말던가](https://open.spotify.com/track/33mgkPtgDH20O8tC0ywqYU) | [유희](https://open.spotify.com/artist/5QN2oWtqarYnmunUb2kaCK), [클라피](https://open.spotify.com/artist/4Rkk73mzLQRRukZQaHWZDN) | [잘생기질 말던가](https://open.spotify.com/album/0iWsY3duvMCfi7GpF7XPPZ) | 3:21 | 2022-05-11 | 2022-07-26 |

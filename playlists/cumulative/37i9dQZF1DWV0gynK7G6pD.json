@@ -119354,8 +119354,8 @@
           "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
-          "name": "Justus Eichhorn",
-          "url": "https://open.spotify.com/artist/79DwUiit79izF5P71SMLdz"
+          "name": "Justus Friedrich Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
         }
       ],
       "date_added": "2026-06-26",
@@ -305373,28 +305373,6 @@
     },
     {
       "album": {
-        "name": "Ignazio Albertini: Sonatinae XII Violino Solo",
-        "url": "https://open.spotify.com/album/1JXPxyfJP4aCp8ABzZozBy"
-      },
-      "artists": [
-        {
-          "name": "Ignazio Albertini",
-          "url": "https://open.spotify.com/artist/3RIBKGrGUbNxZGyzhaKVbG"
-        },
-        {
-          "name": "R\u00ddNSK\u00dd",
-          "url": "https://open.spotify.com/artist/4Qe7wCHY0kNPxKi9H90NnD"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 489652,
-      "name": "Sonata No.1",
-      "url": "https://open.spotify.com/track/7wS0xTWjDIdMZ9W9W6tjCW"
-    },
-    {
-      "album": {
         "name": "The Hidden Room",
         "url": "https://open.spotify.com/album/111hoND6kMJQVCgfBYcK57"
       },
@@ -307312,6 +307290,28 @@
       "duration_ms": 284627,
       "name": "Sonatina: II. Andante",
       "url": "https://open.spotify.com/track/2EnkOKGSg6UMGwZxetIoO9"
+    },
+    {
+      "album": {
+        "name": "Ignazio Albertini: Sonatinae XII Violino Solo",
+        "url": "https://open.spotify.com/album/1JXPxyfJP4aCp8ABzZozBy"
+      },
+      "artists": [
+        {
+          "name": "Ignazio Albertini",
+          "url": "https://open.spotify.com/artist/3RIBKGrGUbNxZGyzhaKVbG"
+        },
+        {
+          "name": "R\u00ddNSK\u00dd",
+          "url": "https://open.spotify.com/artist/4Qe7wCHY0kNPxKi9H90NnD"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489652,
+      "name": "Sonatinae 12: Sonata No.1",
+      "url": "https://open.spotify.com/track/7wS0xTWjDIdMZ9W9W6tjCW"
     },
     {
       "album": {

@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Dayago Sadri",
+        "url": "https://open.spotify.com/album/5XJ9w79wQutSWWMXNgN30i"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285725,
+      "name": "Dayago Sadri",
+      "url": "https://open.spotify.com/track/6f8vDZ3CyluqRhyeo12GVJ"
+    },
+    {
+      "album": {
         "name": "Dayem As2al",
         "url": "https://open.spotify.com/album/4Es99k05nZJfeVH300PR8Q"
       },

@@ -32609,6 +32609,24 @@
     },
     {
       "album": {
+        "name": "Lobotomize Me",
+        "url": "https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW"
+      },
+      "artists": [
+        {
+          "name": "The Rat Utopia Experiment",
+          "url": "https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191602,
+      "name": "Lobotomize Me",
+      "url": "https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y"
+    },
+    {
+      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/0tAMIeGBYkNJYtbYJp2R0Q"
       },

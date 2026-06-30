@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Peggy Gou, Ayra Starr\)
 
-321 songs - 18 hr 1 min
+322 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [d☆ct \(soccer banger\)](https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [d☆ct \(soccer banger\)](https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z) | 3:04 | 2026-06-23 |  |
 | [E E A \(Feat\. JUE\)](https://open.spotify.com/track/0nQSuLnjOAWdV1gtaNqDzO) | [KONA](https://open.spotify.com/artist/6E1vNiOCUfC7BmxAvwIYIr), [JUE](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [A Kind of Animal](https://open.spotify.com/album/7yTtPy6yQ7YZXEmgi16kOL) | 4:06 | 2025-07-01 | 2025-07-25 |
 | [EGO \(Feat\. June One\)](https://open.spotify.com/track/4tkn2ku7YCNkuiVUEgE1GC) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [EGO/INNOCENCE](https://open.spotify.com/album/2eDQ2WiQ4CwTJzpAcrnst9) | 3:36 | 2024-04-18 | 2024-05-03 |
-| [Ehyu Ahnida](https://open.spotify.com/track/08Hn3iJL1URn9qY8hi9Tum) | [boksed](https://open.spotify.com/artist/0XKg116o1q0I9pMa3SqpZZ) | [Ehyu Ahnida](https://open.spotify.com/album/5NToC2gcDLmUKBMkXA2oss) | 3:48 | 2026-06-03 |  |
+| [Ehyu Ahnida](https://open.spotify.com/track/08Hn3iJL1URn9qY8hi9Tum) | [boksed](https://open.spotify.com/artist/0XKg116o1q0I9pMa3SqpZZ) | [Ehyu Ahnida](https://open.spotify.com/album/5NToC2gcDLmUKBMkXA2oss) | 3:48 | 2026-06-03 | 2026-06-30 |
 | [Energetic \(Prequel Remix\)](https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 4:15 | 2024-06-28 |  |
 | [Eternity](https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Eternity](https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg) | 2:14 | 2024-04-05 |  |
 | [Euphoria](https://open.spotify.com/track/1uq7SvgHEMMMace8HP06Tz) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x), [ClueAt](https://open.spotify.com/artist/59PMe4dFTfh6xdsnCQOhZV), [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc) | [Euphoria](https://open.spotify.com/album/76I6Pdo52wrdlapdmfdVxb) | 3:13 | 2024-07-16 | 2024-08-15 |
@@ -159,6 +159,7 @@
 | [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 | 2024-04-05 | 2025-06-22 |
 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 | 2024-04-05 | 2024-06-29 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-06-23 |  |
+| [Itaewonian Funk](https://open.spotify.com/track/5p04bdrM3hca55mydwRDDF) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ POOL](https://open.spotify.com/artist/2apxgZK9kFgoCt7XCTUnhK), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 2:55 | 2026-06-29 |  |
 | [Jealous](https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:22 | 2026-06-23 |  |
 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 | 2024-06-28 |  |
 | [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 | 2024-06-01 |

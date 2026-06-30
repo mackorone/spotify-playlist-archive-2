@@ -1,13 +1,41 @@
 {
   "description": "Embrace your inner Princess with your favorite Disney Princess songs including \"I Am Moana.\" Disney's Moana, in theaters soon.",
-  "num_followers": 1009016,
+  "num_followers": 1009109,
   "original_name": "Disney Princess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABY5U1yA8nO/r8UdpktwnA7mbhlv",
+  "snapshot_id": "AAAAAJDKp/oiWKvv2UopDAeDZ/jfnjI+",
   "tracks": [
+    {
+      "added_at": "2026-06-26 04:01:33",
+      "album": {
+        "name": "Along The Way (From \"Moana\")",
+        "url": "https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "Along The Way - From \"Moana\"",
+      "url": "https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1"
+    },
     {
       "added_at": "2026-06-26 04:01:33",
       "album": {
@@ -587,34 +615,6 @@
       "duration_ms": 225080,
       "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
-    },
-    {
-      "added_at": "2026-06-26 04:01:33",
-      "album": {
-        "name": "Along The Way (From \"Moana\")",
-        "url": "https://open.spotify.com/album/2ZaaAHqCBhZKCQiPz3LBEY"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Catherine Laga'aia",
-          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
-        },
-        {
-          "name": "Dwayne Johnson",
-          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "Along The Way - From \"Moana\"",
-      "url": "https://open.spotify.com/track/5QLI9Dn0jOseDb2ptAibK1"
     },
     {
       "added_at": "2026-06-26 04:01:33",

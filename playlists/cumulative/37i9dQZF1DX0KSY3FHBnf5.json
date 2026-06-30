@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "1am",
+        "url": "https://open.spotify.com/album/0fdhAYCcb8cknZiHAdnHyy"
+      },
+      "artists": [
+        {
+          "name": "leapyear",
+          "url": "https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121081,
+      "name": "1am",
+      "url": "https://open.spotify.com/track/0wd6cYGh7gp5D2cvfMRvFS"
+    },
+    {
+      "album": {
         "name": "3 am walk",
         "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
       },
@@ -1749,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "dreamcatcher",
+        "url": "https://open.spotify.com/album/5QxYIEtijWonMSJmz0qS7G"
+      },
+      "artists": [
+        {
+          "name": "Loucent",
+          "url": "https://open.spotify.com/artist/59fWDVwdoxOJaVAzs4t86k"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91764,
+      "name": "dreamcatcher",
+      "url": "https://open.spotify.com/track/3wHNr8n8Gq9iXyG3g4pfnA"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/3wbz4Q37Xjr0slSb6Jjmdd"
       },
@@ -2138,6 +2174,24 @@
       "duration_ms": 128000,
       "name": "escape again",
       "url": "https://open.spotify.com/track/57NvaC4fsg3UGSv1V3ZRD3"
+    },
+    {
+      "album": {
+        "name": "essence",
+        "url": "https://open.spotify.com/album/5qlBM9lxbJRIpnTOz29jam"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66639,
+      "name": "essence",
+      "url": "https://open.spotify.com/track/2MacAJHvJb8WSpMVP42Anf"
     },
     {
       "album": {
@@ -3338,7 +3392,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 106666,
       "name": "i miss you",
       "url": "https://open.spotify.com/track/1MzLdIvreMtWT2LX82Msgn"
@@ -3414,6 +3468,24 @@
       "duration_ms": 138900,
       "name": "i'll be your reason",
       "url": "https://open.spotify.com/track/7oVUzvfAjQ632YRsR9J9xe"
+    },
+    {
+      "album": {
+        "name": "i'll speak, you listen",
+        "url": "https://open.spotify.com/album/76ioGBLrBNc7KniA7ygfWU"
+      },
+      "artists": [
+        {
+          "name": "ID10",
+          "url": "https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87020,
+      "name": "i'll speak, you listen",
+      "url": "https://open.spotify.com/track/05hWmutMUzc9EqQdNlF3DH"
     },
     {
       "album": {
@@ -3494,6 +3566,24 @@
       "duration_ms": 138576,
       "name": "in motion",
       "url": "https://open.spotify.com/track/7wKBJm9KzFCk0GtOSAOG3c"
+    },
+    {
+      "album": {
+        "name": "in my mind",
+        "url": "https://open.spotify.com/album/1JyGO3H1YvZw1k0RyO9I8y"
+      },
+      "artists": [
+        {
+          "name": "Hiroi Sekai",
+          "url": "https://open.spotify.com/artist/0F08w8WimsgmKCY23QYOdp"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "in my mind",
+      "url": "https://open.spotify.com/track/7xm3nGx1jleGi4A9dtE0wz"
     },
     {
       "album": {
@@ -4057,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "lost diaries",
+        "url": "https://open.spotify.com/album/5tXdLf5YQ2n7aHwq29W6Wr"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "lost diaries",
+      "url": "https://open.spotify.com/track/1imw4VWzOk98p2TsJzjHSG"
+    },
+    {
+      "album": {
         "name": "lost dreams",
         "url": "https://open.spotify.com/album/1rkRCCvXKooa1UGwxuLOUb"
       },
@@ -4068,7 +4176,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 96000,
       "name": "lost dreams",
       "url": "https://open.spotify.com/track/2nYgSunrOnRmt3NBvJHyAa"
@@ -4703,6 +4811,28 @@
     },
     {
       "album": {
+        "name": "no escape",
+        "url": "https://open.spotify.com/album/5Uwzlr1LOB83527Xf2OUEe"
+      },
+      "artists": [
+        {
+          "name": "moonspire",
+          "url": "https://open.spotify.com/artist/5WUXgx5t5mWpbYaz2GVALC"
+        },
+        {
+          "name": "rhyllum",
+          "url": "https://open.spotify.com/artist/7sj6SkurU3b7oHCL51vyxW"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109597,
+      "name": "no escape",
+      "url": "https://open.spotify.com/track/2aRZmyZBt7KUrdlUbFVHN1"
+    },
+    {
+      "album": {
         "name": "life update, it won't go away",
         "url": "https://open.spotify.com/album/1DXp37nURD8B4VtpbP53om"
       },
@@ -4718,6 +4848,24 @@
       "duration_ms": 240258,
       "name": "no need to be alert",
       "url": "https://open.spotify.com/track/6Wp8A5CLtkzOzziugS4hZZ"
+    },
+    {
+      "album": {
+        "name": "no signal",
+        "url": "https://open.spotify.com/album/1W6dv8QlM4ik7KHhQe1P3l"
+      },
+      "artists": [
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124665,
+      "name": "no signal",
+      "url": "https://open.spotify.com/track/32B4PUU9UisRFlFQiPOKLm"
     },
     {
       "album": {
@@ -6059,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "spring is cold",
+        "url": "https://open.spotify.com/album/04vT0eW9ILFkr6okm6xPzI"
+      },
+      "artists": [
+        {
+          "name": "lyr\u03bbmbient",
+          "url": "https://open.spotify.com/artist/2yTJYxhglamTW9F83R8wSV"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109979,
+      "name": "spring is cold",
+      "url": "https://open.spotify.com/track/5BnHcSJdawtbLVGFYVj4d8"
+    },
+    {
+      "album": {
         "name": "springtime",
         "url": "https://open.spotify.com/album/3Mfdo7ReSOs82Lcf56PLE4"
       },
@@ -6110,6 +6276,24 @@
       "duration_ms": 146283,
       "name": "start living",
       "url": "https://open.spotify.com/track/62eW2PIGflirLxrzV7H8sv"
+    },
+    {
+      "album": {
+        "name": "stay awake",
+        "url": "https://open.spotify.com/album/3nIwNSn9fj2IcHIb8rGFqD"
+      },
+      "artists": [
+        {
+          "name": "cinar",
+          "url": "https://open.spotify.com/artist/4BuDScLx2f14Rv0C2ARnL6"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "stay awake",
+      "url": "https://open.spotify.com/track/5OZf6WjsYsFHemVd7Uazsx"
     },
     {
       "album": {
@@ -6230,6 +6414,50 @@
       "duration_ms": 103906,
       "name": "take care",
       "url": "https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/6f4z0Tgb8sEmn4l3NVVdoj"
+      },
+      "artists": [
+        {
+          "name": "Antonio Sampere",
+          "url": "https://open.spotify.com/artist/259ZLJxCPDkrTyLbZVeANP"
+        },
+        {
+          "name": "widx.",
+          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
+        },
+        {
+          "name": "Eb\u00f8shi",
+          "url": "https://open.spotify.com/artist/4xlW8Flnur7cW45L539vjf"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128538,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/5ATD5X0crNaPrkWGk57ajZ"
+    },
+    {
+      "album": {
+        "name": "Temporary Forever",
+        "url": "https://open.spotify.com/album/27IyXmtJoYNOtwmO7pFQgM"
+      },
+      "artists": [
+        {
+          "name": "an\u0119bu",
+          "url": "https://open.spotify.com/artist/0NwRrmuxl1zetoERsUrEDE"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86201,
+      "name": "Temporary Forever",
+      "url": "https://open.spotify.com/track/2DiUTS8nYVhxtuWH00jTUf"
     },
     {
       "album": {
@@ -6747,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "vibrance",
+        "url": "https://open.spotify.com/album/2NvnnczDvAQ70PmoZbR5K3"
+      },
+      "artists": [
+        {
+          "name": "Etsu",
+          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "vibrance",
+      "url": "https://open.spotify.com/track/3Ce4Q55Y8fYkcJ3yr8eWbj"
+    },
+    {
+      "album": {
         "name": "Virgo Oscura",
         "url": "https://open.spotify.com/album/58scwsBZ5OGrW09m0LyPfz"
       },
@@ -6838,6 +7084,24 @@
       "duration_ms": 112345,
       "name": "walking through water",
       "url": "https://open.spotify.com/track/0cLbvfnxgeRNEILYxqZwMO"
+    },
+    {
+      "album": {
+        "name": "watching eyes",
+        "url": "https://open.spotify.com/album/3mlNMkqKAnE2RZeoXHzwBM"
+      },
+      "artists": [
+        {
+          "name": "Nova Dust",
+          "url": "https://open.spotify.com/artist/5UyiEIfJDSqqBP0lRVQUVI"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121944,
+      "name": "watching eyes",
+      "url": "https://open.spotify.com/track/42ivtNaHdjx0Ebv9VHijWN"
     },
     {
       "album": {
@@ -7073,6 +7337,28 @@
     },
     {
       "album": {
+        "name": "what was forgotten",
+        "url": "https://open.spotify.com/album/1bPSAqgo15xntSpI5YI63H"
+      },
+      "artists": [
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        },
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149289,
+      "name": "what was forgotten",
+      "url": "https://open.spotify.com/track/4fisqnbixzg41DUVykfrrc"
+    },
+    {
+      "album": {
         "name": "what we had",
         "url": "https://open.spotify.com/album/4e27aF6CBojPRUecz9g0SB"
       },
@@ -7153,6 +7439,28 @@
     },
     {
       "album": {
+        "name": "wherever you are",
+        "url": "https://open.spotify.com/album/4Ddltd2nQMH9AiPOhjfKeg"
+      },
+      "artists": [
+        {
+          "name": "R\u014d\u014dh",
+          "url": "https://open.spotify.com/artist/4iv8oWq1lizY7C7bmB5HzB"
+        },
+        {
+          "name": "Peter Mowry",
+          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "wherever you are",
+      "url": "https://open.spotify.com/track/7fW8z4vznxDbwpxj90BISX"
+    },
+    {
+      "album": {
         "name": "whispa",
         "url": "https://open.spotify.com/album/3lkhSMZbaIrzQTENABk6TS"
       },
@@ -7190,6 +7498,28 @@
       "duration_ms": 125283,
       "name": "white or maybe purple - Slowed & Reverb",
       "url": "https://open.spotify.com/track/3AcMWfUDqclstlywTuYcfe"
+    },
+    {
+      "album": {
+        "name": "who are we now",
+        "url": "https://open.spotify.com/album/1QQfraRLF3B5MZz5QE7Kk2"
+      },
+      "artists": [
+        {
+          "name": "Peter Mowry",
+          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
+        },
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132173,
+      "name": "who are we now",
+      "url": "https://open.spotify.com/track/6FDHgOD1yaiTxP06N5rmKk"
     },
     {
       "album": {

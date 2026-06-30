@@ -1336,6 +1336,24 @@
     {
       "album": {
         "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0a5xxgUnr37QoacInvL2Pv"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313918,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/0pI6N08wMJoo4aWYEiKGwD"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
       "artists": [

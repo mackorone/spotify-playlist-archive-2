@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,879 likes - 70 songs - 4 hr 16 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,884 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 68 | [When The Roots Don't Hold \- 2026 Remaster](https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA) | [Dead Poet Warrior Zone](https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T) | [When The Roots Don't Hold \(2026 Remaster\)](https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g) | 3:36 |
 | 69 | [Dimenticare](https://open.spotify.com/track/6DAgcHrCpVAvWEpscvHVR7) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Dimenticare](https://open.spotify.com/album/23nIqYsVN6ig5SBkGRS0lD) | 4:13 |
 | 70 | [Deep Cut](https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:26 |
+| 71 | [Blood In My Margarita](https://open.spotify.com/track/7FnAZu16iYNzn1WrRbYFbp) | [Idle Hive](https://open.spotify.com/artist/3bQIHJpzSqqXQJBhX3xW0K) | [Blood In My Margarita](https://open.spotify.com/album/6edO6esJBfjew89feH2UL8) | 3:47 |
+| 72 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 |
 
-Snapshot ID: `AAACuqAV+xMDW860QR25B7LfBiOzje4Y`
+Snapshot ID: `AAACvOt8nIvz+f+hgHxVp0xNThspsHC1`

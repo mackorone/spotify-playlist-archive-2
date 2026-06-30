@@ -4,7 +4,7 @@
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 15 min
+51 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Movement](https://open.spotify.com/track/4OLI1dUkU9GFHm3IUgChaf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Movement](https://open.spotify.com/album/4X6lXwC3CnCcbQPtoFlIrF) | 2:43 | 2026-06-16 |  |
 | [My Only Friend](https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:15 | 2026-06-16 |  |
 | [One & Only](https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:17 | 2026-06-16 |  |
+| [Out of Ordinary](https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:00 | 2026-06-30 |  |
 | [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 | 2026-06-16 |  |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2026-06-16 |  |
 | [Sideways](https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:37 | 2026-06-16 |  |

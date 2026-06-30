@@ -6231,6 +6231,32 @@
     },
     {
       "album": {
+        "name": "Delhi Se Manali (Ladka Tera Diwana)",
+        "url": "https://open.spotify.com/album/5efhZgetV6jQh9HBJ2j7HA"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Sirazee",
+          "url": "https://open.spotify.com/artist/7tjtXVrC3KOf38BflCLLLZ"
+        },
+        {
+          "name": "Manju Nautiyal",
+          "url": "https://open.spotify.com/artist/7K9gjWmT6JFgUk0xtVxDcb"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143086,
+      "name": "Delhi Se Manali (Ladka Tera Diwana)",
+      "url": "https://open.spotify.com/track/7EL1imZ2943VqtWJ65TVtX"
+    },
+    {
+      "album": {
         "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
         "url": "https://open.spotify.com/album/5nQuXDLUMXgkbowCHYA5r0"
       },
@@ -9572,7 +9598,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 346627,
       "name": "Hale Dil",
       "url": "https://open.spotify.com/track/6GQK4G5o60E8YA18DGpAzv"
@@ -10668,7 +10694,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 322437,
       "name": "Humsafar (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/0OLTYqD8FpjkLsxJmdWmgi"
@@ -13056,7 +13082,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 306173,
       "name": "Jo Tere Sang",
       "url": "https://open.spotify.com/track/0kYBzFJ5a2Jozi6cI4y9Bp"

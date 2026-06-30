@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,431 likes - 120 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,428 likes - 120 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 76 | [CHARDONNAY \(Night & Day\)](https://open.spotify.com/track/5L2PC0h8oi4H6BlldbhOQn) | [Romeo Louisa](https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [CHARDONNAY \(Night & Day\)](https://open.spotify.com/album/6Fs7oJ8f9cNPBuRv2a5pnK) | 3:10 |
 | 77 | [Intro \- Fred Falke Remix](https://open.spotify.com/track/5nxJbZFIHf8iGndx8eOJMa) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Intro \(Fred Falke Remix\)](https://open.spotify.com/album/6xALSzrzr2p49MZ5dmHAKd) | 5:56 |
 | 78 | [Love Claim](https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Claim](https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6) | 2:58 |
-| 79 | [Eyes For You \(Migs Retro Vault Remix\)](https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Martin Luther McCoy](https://open.spotify.com/artist/6FdIwdTYtfGSULGl1JA9OJ) | [The Sound Vault, Pt\. 3](https://open.spotify.com/album/2zE003e01cGUnaNNQorMUW) | 5:32 |
-| 80 | [Stay The Same](https://open.spotify.com/track/3eGOTf9hjd321wBy4VvXrL) | [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6), [Fede Aliprandi](https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB) | [Stay The Same](https://open.spotify.com/album/1kVKWMWRZR5sAZUMsxQ88B) | 3:39 |
+| 79 | [Stay The Same](https://open.spotify.com/track/3eGOTf9hjd321wBy4VvXrL) | [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6), [Fede Aliprandi](https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB) | [Stay The Same](https://open.spotify.com/album/1kVKWMWRZR5sAZUMsxQ88B) | 3:39 |
+| 80 | [Eyes For You \(Migs Retro Vault Remix\)](https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS) | [Miguel Migs](https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi), [Martin Luther McCoy](https://open.spotify.com/artist/6FdIwdTYtfGSULGl1JA9OJ) | [The Sound Vault, Pt\. 3](https://open.spotify.com/album/2zE003e01cGUnaNNQorMUW) | 5:32 |
 | 81 | [Don’t You Want Some More](https://open.spotify.com/track/1eL4xdRvaKqJ3DITmie69m) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Don’t You Want Some More](https://open.spotify.com/album/3xuPw3jYk60AaIm6ERx4ml) | 3:24 |
 | 82 | [PARTY NEVER STOPS](https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [PARTY NEVER STOPS](https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs) | 4:52 |
 | 83 | [Put The Record On](https://open.spotify.com/track/1RYOSPKsQt0PN5krUZhZmh) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Put The Record On](https://open.spotify.com/album/6I565f91V7OsxGCwg7D2X7) | 2:43 |

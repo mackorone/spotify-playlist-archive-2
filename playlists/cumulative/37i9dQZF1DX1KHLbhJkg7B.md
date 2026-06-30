@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Keith Urban
 
-466 songs - 1 day 5 hr 5 min
+467 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 | 2025-05-16 | 2025-08-30 |
 | [Fall For You](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Fall For You](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 | 2024-01-19 | 2024-05-18 |
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-06-19 |
-| [Fame Is A Gun](https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Fame Is A Gun](https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb) | 4:00 | 2026-02-12 |  |
+| [Fame Is A Gun](https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Fame Is A Gun](https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb) | 4:00 | 2026-02-12 | 2026-06-30 |
 | [Farewell Party](https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:08 | 2021-12-10 | 2022-07-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-24 |  |
 | [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 | 2025-05-24 |
@@ -410,6 +410,7 @@
 | [Three Wooden Crosses \- The Bootlegger Sessions](https://open.spotify.com/track/2mhU8jchJbM4u164c2CQ1z) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Three Wooden Crosses \(The Bootlegger Sessions\)](https://open.spotify.com/album/29Zi5oXaoj4XnTKw4gvE1d) | 3:14 | 2022-09-30 | 2022-10-22 |
 | [Through The Years](https://open.spotify.com/track/4IF4gdjiml2hVIJSqC4cYV) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 4:09 | 2021-12-10 | 2022-07-26 |
 | [Till I Get It Right](https://open.spotify.com/track/0EOBoPMSZEbgrR4BtIKsKi) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/1FReBhpmD1xZ8wzgWun0dj) | 4:05 | 2022-01-21 | 2022-07-25 |
+| [Time After Time](https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg), [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Time After Time](https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN) | 3:39 | 2026-06-26 |  |
 | [Time Marches On \- The Bootlegger Sessions](https://open.spotify.com/track/51KtRR2OILi7YGatm53jxV) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Time Marches On \(The Bootlegger Sessions\)](https://open.spotify.com/album/5AhrX2VP17pnblF2ocPkgY) | 2:42 | 2022-09-09 | 2022-09-11 |
 | [Tiny Dancer](https://open.spotify.com/track/3di7BRqMooVP3pXwjEk49J) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 5:09 | 2021-12-10 | 2024-08-24 |
 | [To All the Girls I've Loved Before](https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb) | [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [To All the Girls I've Loved Before](https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q) | 3:44 | 2021-12-10 | 2022-07-27 |

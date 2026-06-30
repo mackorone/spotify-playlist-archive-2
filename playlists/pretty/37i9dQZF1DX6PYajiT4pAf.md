@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Quevedo con Ptazeta, Bizarrap con Myke Towers, Becky G, MARLENA y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,454 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,473 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 35 | [Jealous Lover](https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Jealous Lover](https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM) | 3:49 |
 | 36 | [Hush](https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 3:55 |
 | 37 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
-| 38 | [TODO O NADA](https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [TODO O NADA](https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC) | 3:28 |
+| 38 | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC) | 3:28 |
 | 39 | [Noitada](https://open.spotify.com/track/1aE9X09uIMt3LV28UIjYdZ) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Noitada](https://open.spotify.com/album/7azLwUeZTsaYXuqshGfdnx) | 3:07 |
 | 40 | [Azúcar y Sal](https://open.spotify.com/track/62SbfW3pO3aS4NO1hlq2PB) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Azúcar y Sal](https://open.spotify.com/album/60JZdOz0YPnfRqCQZyLoWo) | 3:48 |
 | 41 | [Enamorao de ti](https://open.spotify.com/track/0VaA50nG2F8nCnPZO4FQ9M) | [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG), [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Enamorao de ti](https://open.spotify.com/album/4jC0NiSWKDI6FrkJFpGcZO) | 2:27 |

@@ -1,6 +1,6 @@
 {
   "description": "Where nature and white noise meet.",
-  "num_followers": 907945,
+  "num_followers": 907902,
   "original_name": "Nature Noise",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
+        "name": "Nature's Green Noise",
+        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "duration_ms": 149895,
+      "name": "Morning Rain (Green Noise)",
+      "url": "https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
         "name": "Green Noise For Sleep",
         "url": "https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Nature's Green Noise",
-        "url": "https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6"
+        "name": "Emerald Meadows (Green Noise)",
+        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
       },
       "artists": [
         {
-          "name": "LBE Nature Recordings",
-          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
         }
       ],
-      "duration_ms": 149895,
-      "name": "Morning Rain (Green Noise)",
-      "url": "https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM"
+      "duration_ms": 204000,
+      "name": "Enigmatic Calm - Green Noise",
+      "url": "https://open.spotify.com/track/6Cuk8wnlzCQgaTW0RLqRtg"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -679,22 +695,6 @@
       "duration_ms": 184494,
       "name": "White Pine Rain",
       "url": "https://open.spotify.com/track/6Js4qnrUgVqgq7Jr6XgiDe"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
-        "name": "Emerald Meadows (Green Noise)",
-        "url": "https://open.spotify.com/album/3pTilGKTKB5Dmw0e86HxEO"
-      },
-      "artists": [
-        {
-          "name": "Inlet Noise",
-          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Enigmatic Calm - Green Noise",
-      "url": "https://open.spotify.com/track/6Cuk8wnlzCQgaTW0RLqRtg"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2tH6218I88edYNdalBDlmn"
-      },
-      "artists": [
-        {
-          "name": "Dreams of Dreams",
-          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
-        }
-      ],
-      "duration_ms": 181406,
-      "name": "River Rain",
-      "url": "https://open.spotify.com/track/4gkJWcgc9QCFursmUBOirO"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "JBE River Sounds",
         "url": "https://open.spotify.com/album/3orPY7ARSexj6E3z5JIQVc"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 162007,
       "name": "Streaming Brook",
       "url": "https://open.spotify.com/track/7gXySy6c7ixl0m6FYTrGsu"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2tH6218I88edYNdalBDlmn"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "duration_ms": 181406,
+      "name": "River Rain",
+      "url": "https://open.spotify.com/track/4gkJWcgc9QCFursmUBOirO"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Paradise Noise",
-        "url": "https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f"
-      },
-      "artists": [
-        {
-          "name": "Hill Of Noise",
-          "url": "https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "Aquatic Ambiance",
-      "url": "https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Rain Sounds Vol. 3",
         "url": "https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208619,
       "name": "Forest Rain",
       "url": "https://open.spotify.com/track/1gDhRTrbT942IknQqleVqB"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Paradise Noise",
+        "url": "https://open.spotify.com/album/44ADZZ3ukpWzUel2lt151f"
+      },
+      "artists": [
+        {
+          "name": "Hill Of Noise",
+          "url": "https://open.spotify.com/artist/5Kb33lObrpsXohW3VqcjHU"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Aquatic Ambiance",
+      "url": "https://open.spotify.com/track/2UOtHeQGoHUFiHuz2ltGQA"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Evergreen Escape (Green Noise)",
-        "url": "https://open.spotify.com/album/4pEJyRGQoHZP7u6ANKwTF1"
-      },
-      "artists": [
-        {
-          "name": "Natsound",
-          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Evergreen Escape - Green Noise",
-      "url": "https://open.spotify.com/track/4z55TgzgQGMpwL5TtyGdbe"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Oceanic Breeze",
         "url": "https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 172960,
       "name": "Distant Waves Pt. 1",
       "url": "https://open.spotify.com/track/1a02pxK7AH63PZhGMUCUCh"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Evergreen Escape (Green Noise)",
+        "url": "https://open.spotify.com/album/4pEJyRGQoHZP7u6ANKwTF1"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Evergreen Escape - Green Noise",
+      "url": "https://open.spotify.com/track/4z55TgzgQGMpwL5TtyGdbe"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Autumn",
-        "url": "https://open.spotify.com/album/185jgdGe8PCY7itko869IC"
-      },
-      "artists": [
-        {
-          "name": "Sound of the Wilderness",
-          "url": "https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Forestry - Birds and River",
-      "url": "https://open.spotify.com/track/2u2yWTJRuZMTPV4aW5f7NT"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Suburban Rain Sounds",
         "url": "https://open.spotify.com/album/0TgW0ohXTbUPnZBvkUVih2"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 211019,
       "name": "Steady Rainfall",
       "url": "https://open.spotify.com/track/39BW5mOBurJlUpeIJhzrys"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/185jgdGe8PCY7itko869IC"
+      },
+      "artists": [
+        {
+          "name": "Sound of the Wilderness",
+          "url": "https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Forestry - Birds and River",
+      "url": "https://open.spotify.com/track/2u2yWTJRuZMTPV4aW5f7NT"
     },
     {
       "added_at": "2026-04-02 10:07:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-04-02 10:07:29",
       "album": {
-        "name": "Water & White Noise",
-        "url": "https://open.spotify.com/album/6gI9ysj5ksfDQ1fPGe69bG"
-      },
-      "artists": [
-        {
-          "name": "Sea of Noise",
-          "url": "https://open.spotify.com/artist/3Beh31xrbBxn3ycObir7vz"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Water and White Noise",
-      "url": "https://open.spotify.com/track/4CGwM2G1epgKiGoU29qGiA"
-    },
-    {
-      "added_at": "2026-04-02 10:07:29",
-      "album": {
         "name": "Coastal Relaxation",
         "url": "https://open.spotify.com/album/2P2hdKyXirmgc60wEMylrL"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 190250,
       "name": "Morning Waves Monterey County",
       "url": "https://open.spotify.com/track/1d7oQ7sOvgUFiq6G7X3eIO"
+    },
+    {
+      "added_at": "2026-04-02 10:07:29",
+      "album": {
+        "name": "Water & White Noise",
+        "url": "https://open.spotify.com/album/6gI9ysj5ksfDQ1fPGe69bG"
+      },
+      "artists": [
+        {
+          "name": "Sea of Noise",
+          "url": "https://open.spotify.com/artist/3Beh31xrbBxn3ycObir7vz"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Water and White Noise",
+      "url": "https://open.spotify.com/track/4CGwM2G1epgKiGoU29qGiA"
     },
     {
       "added_at": "2026-04-02 10:07:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,927 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,935 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 18 | [Eso Eres Tú](https://open.spotify.com/track/4L5c16rJlYxpLrpKcdFxPX) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Eso Eres Tú](https://open.spotify.com/album/5izPHVd1rA1ApYbukWKM2L) | 4:11 |
 | 19 | [La Del Otro Beso](https://open.spotify.com/track/1GDjkD6JDNH2QCji9EQEQ6) | [Aixa Figueroa](https://open.spotify.com/artist/4PU26gJkph0hgCe5sksIrK) | [La Del Otro Beso](https://open.spotify.com/album/4188TKduMsT76W4sTRBvkI) | 2:12 |
 | 20 | [AMOR EN ZAMBA](https://open.spotify.com/track/5oafGRRyvPezFkPj95u91S) | [Rodri Medina](https://open.spotify.com/artist/1ZnjYxFDilv3uIe4taNppL) | [RODRI MEDINA](https://open.spotify.com/album/6HKP89nYFB5tQQZoWBcqpm) | 4:15 |
-| 21 | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G) | 7:55 |
+| 21 | [Dueña de Mi Alma](https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Dueña de Mi Alma](https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa) | 4:09 |
 | 22 | [Olvida Que Te He Amado](https://open.spotify.com/track/0addwQw947UzHhby2thnGg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Mi Cantar](https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX) | 4:19 |
 | 23 | [Zamba del Cantor Enamorado](https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Lo Mejor de la Zamba Argentina](https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g) | 3:43 |
 | 24 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
 | 25 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
-| 26 | [Dueña de Mi Alma](https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Dueña de Mi Alma](https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa) | 4:09 |
+| 26 | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Folklore Romántico: Nada Tengo de Ti / Canción del Adiós / Dueña de Mi Alma / Zamba para Olvidarte](https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G) | 7:55 |
 | 27 | [Vuela una Lagrima](https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 4:57 |
 | 28 | [No Te Vayas \- Balada Remix](https://open.spotify.com/track/5VF7ZMcWjiVne6bCbJ44TH) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [No Te Vayas \(Balada Remix\)](https://open.spotify.com/album/6twuTUS4ZNfg1zGSvwjj9z) | 3:45 |
 | 29 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1dBKW66aAt8LItqKtxqSmf) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Que Sea Con Suerte](https://open.spotify.com/album/3NtQrhAYFIg6An97g6zLIW) | 3:07 |

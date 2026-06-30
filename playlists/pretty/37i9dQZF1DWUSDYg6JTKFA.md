@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,778 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,784 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 62 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
 | 63 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 |
 | 64 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |
-| 65 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
-| 66 | [Hope On the Horizon \- Live](https://open.spotify.com/track/0jjPSLrVJDxyImNGJ252vI) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [Hope on the Horizon \(Live\)](https://open.spotify.com/album/6ZvQTly9coK3Cg34zvfwZd) | 7:19 |
+| 65 | [Hope On the Horizon \- Live](https://open.spotify.com/track/0jjPSLrVJDxyImNGJ252vI) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [Hope on the Horizon \(Live\)](https://open.spotify.com/album/6ZvQTly9coK3Cg34zvfwZd) | 7:19 |
+| 66 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
 | 67 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 |
 | 68 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 69 | [How Long?](https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [How Long?](https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq) | 2:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 74 | [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 |
 | 75 | [Gonna Be Alright \- Live](https://open.spotify.com/track/3D2Caq4sNDP5zt2Iipr6Yj) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis Live](https://open.spotify.com/album/33b2OZa8zl29Bcx7qVmjig) | 4:30 |
 | 76 | [You Again](https://open.spotify.com/track/1dANigzX1rq3u78OlLkwHV) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [You Again](https://open.spotify.com/album/4UQOnF0cbNqo7a747J7K8p) | 3:12 |
-| 77 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
-| 78 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
+| 77 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
+| 78 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
 | 79 | [A Hope and a Future](https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [A Hope and a Future](https://open.spotify.com/album/0tvFPaesu6b9Tqa5IYqBn8) | 4:14 |
 | 80 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 | 81 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz) | [Sarah Sadler](https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 3:34 |

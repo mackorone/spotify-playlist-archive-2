@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Tenxi
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,373 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,388 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 22 | [Tak Ingin Salahkan Cinta](https://open.spotify.com/track/3jZ8mi7IHccqExyicSfyDN) | [Ruth Garcia](https://open.spotify.com/artist/3VhvDHThiOy3cUZvAR1ZKq) | [Tak Ingin Salahkan Cinta](https://open.spotify.com/album/2bUAHRZdq4yJNbYCk1J3ky) | 4:31 |
 | 23 | [things i'd do for you](https://open.spotify.com/track/1gAAHNHRu8UTvVWBswBdG3) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [things i'd do for you](https://open.spotify.com/album/6CpqiJm7c5opBCu1eJqxB8) | 3:24 |
 | 24 | [COUNTRY BARS](https://open.spotify.com/track/5ZaGRpVDkykhk0TolMhDVp) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [PACK UR BAGS, IM COMING W U](https://open.spotify.com/album/1wH1xREfb13k1Pi0Y2gmBa) | 4:46 |
-| 25 | [N/A](https://open.spotify.com/track/5S2qTQ0G7olXvQW0ysCnhO) | [Riku](https://open.spotify.com/artist/08GGf41ZsQYI6RYSjqmBns), [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [N/A](https://open.spotify.com/album/6HG3elejlrIjIQxrWykMg6) | 2:53 |
+| 25 | [N/A](https://open.spotify.com/track/5S2qTQ0G7olXvQW0ysCnhO) | [Riku](https://open.spotify.com/artist/08GGf41ZsQYI6RYSjqmBns), [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [N/A](https://open.spotify.com/album/6HG3elejlrIjIQxrWykMg6) | 2:53 |
 | 26 | [Si Baik](https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Si Baik](https://open.spotify.com/album/4XX0Rgksb8B562ynOz63oV) | 4:16 |
 | 27 | [Still Show Up In My Dreams](https://open.spotify.com/track/7IRpzzB50WVSaNgPto8J8X) | [Novascotia](https://open.spotify.com/artist/66k4IwKEoPu01TMuaQf8mT) | [Still Show Up In My Dreams](https://open.spotify.com/album/10cUjLMfzIiW04wbkjY5HJ) | 3:01 |
 | 28 | [Tak Setara](https://open.spotify.com/track/4B5Qq74hrUf7fehRFm9RlO) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Tak Setara](https://open.spotify.com/album/7B31BZ7UMBCEnDgtbo6Kvq) | 4:56 |

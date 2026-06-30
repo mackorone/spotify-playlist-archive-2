@@ -1,6 +1,6 @@
 {
   "description": "Nada melhor que aquela barulho de chuva para dormir ou relaxar.",
-  "num_followers": 126276,
+  "num_followers": 126287,
   "original_name": "Barulho de Chuva",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Rain: Dark Skies",
-        "url": "https://open.spotify.com/album/48olG5g74NLiO7jOXNVIv4"
-      },
-      "artists": [
-        {
-          "name": "H20 Recording",
-          "url": "https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "Rain: Dark Skies",
-      "url": "https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Space Rain",
         "url": "https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 221000,
       "name": "Earth Rain",
       "url": "https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Rain: Dark Skies",
+        "url": "https://open.spotify.com/album/48olG5g74NLiO7jOXNVIv4"
+      },
+      "artists": [
+        {
+          "name": "H20 Recording",
+          "url": "https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "Rain: Dark Skies",
+      "url": "https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -811,22 +811,6 @@
       "duration_ms": 138205,
       "name": "In The Spring",
       "url": "https://open.spotify.com/track/5T8Nx9uWYe5uqGGUygt657"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
-        "name": "Current Affairs",
-        "url": "https://open.spotify.com/album/3wYZkK01LPqIowyDN4Wubv"
-      },
-      "artists": [
-        {
-          "name": "Muggy Forecast",
-          "url": "https://open.spotify.com/artist/37NFZB0swR3yaCGntPM9f9"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "Oddly Comforting Rain",
-      "url": "https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -875,6 +859,22 @@
       "duration_ms": 153068,
       "name": "Rain Wall For Sleep",
       "url": "https://open.spotify.com/track/5qBURD07mYmymBewmZf3de"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Current Affairs",
+        "url": "https://open.spotify.com/album/3wYZkK01LPqIowyDN4Wubv"
+      },
+      "artists": [
+        {
+          "name": "Muggy Forecast",
+          "url": "https://open.spotify.com/artist/37NFZB0swR3yaCGntPM9f9"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "Oddly Comforting Rain",
+      "url": "https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Under the Rainy Skies",
-        "url": "https://open.spotify.com/album/6Xh0gOKnRW6HUfgiBqok68"
-      },
-      "artists": [
-        {
-          "name": "The Rain Seeker",
-          "url": "https://open.spotify.com/artist/3D9BR2Fa86NsSY5aISRoKT"
-        }
-      ],
-      "duration_ms": 203658,
-      "name": "Under the Rainy Skies",
-      "url": "https://open.spotify.com/track/5L5tusKjZYfPcPpWPmKduv"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Steady Rain Ambience",
         "url": "https://open.spotify.com/album/4SZCtmiCccRA18o8vKjR5y"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 144484,
       "name": "Steady Rain Ambience",
       "url": "https://open.spotify.com/track/2w568qoQIfT0wbs1m50NY2"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Under the Rainy Skies",
+        "url": "https://open.spotify.com/album/6Xh0gOKnRW6HUfgiBqok68"
+      },
+      "artists": [
+        {
+          "name": "The Rain Seeker",
+          "url": "https://open.spotify.com/artist/3D9BR2Fa86NsSY5aISRoKT"
+        }
+      ],
+      "duration_ms": 203658,
+      "name": "Under the Rainy Skies",
+      "url": "https://open.spotify.com/track/5L5tusKjZYfPcPpWPmKduv"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Spring Raindrops",
-        "url": "https://open.spotify.com/album/3ShaQ3s1X5yc2C1SBQSnt8"
-      },
-      "artists": [
-        {
-          "name": "Karma Ritual",
-          "url": "https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b"
-        }
-      ],
-      "duration_ms": 165374,
-      "name": "Spring Raindrops",
-      "url": "https://open.spotify.com/track/4NKxOyXxlnFBZb63wc2dtO"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Gentle Waters",
         "url": "https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
+        "name": "Spring Raindrops",
+        "url": "https://open.spotify.com/album/3ShaQ3s1X5yc2C1SBQSnt8"
+      },
+      "artists": [
+        {
+          "name": "Karma Ritual",
+          "url": "https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b"
+        }
+      ],
+      "duration_ms": 165374,
+      "name": "Spring Raindrops",
+      "url": "https://open.spotify.com/track/4NKxOyXxlnFBZb63wc2dtO"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
         "name": "Soft Rain Yoga Rain",
         "url": "https://open.spotify.com/album/77ylajNLXTih9sHLxs9cGo"
       },
@@ -1795,22 +1795,6 @@
       "duration_ms": 122431,
       "name": "Soft Rain",
       "url": "https://open.spotify.com/track/7uhhqbiteyUoklYOyVnxQM"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
-        "name": "Rain of Light",
-        "url": "https://open.spotify.com/album/0ic7KecrheqM82ji6jqQEE"
-      },
-      "artists": [
-        {
-          "name": "Bioacoustics",
-          "url": "https://open.spotify.com/artist/3SrtzVz0yqFXRzvx1DE8Dg"
-        }
-      ],
-      "duration_ms": 151389,
-      "name": "Rain of Light",
-      "url": "https://open.spotify.com/track/4GO7tO4L0AejyFC4EThQLK"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -1847,6 +1831,22 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
+        "name": "Rain of Light",
+        "url": "https://open.spotify.com/album/0ic7KecrheqM82ji6jqQEE"
+      },
+      "artists": [
+        {
+          "name": "Bioacoustics",
+          "url": "https://open.spotify.com/artist/3SrtzVz0yqFXRzvx1DE8Dg"
+        }
+      ],
+      "duration_ms": 151389,
+      "name": "Rain of Light",
+      "url": "https://open.spotify.com/track/4GO7tO4L0AejyFC4EThQLK"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
         "name": "Rain Calm",
         "url": "https://open.spotify.com/album/1xbUv6JJb3Wrq43W42Xtbn"
       },
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Lotus Rain",
-        "url": "https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ"
-      },
-      "artists": [
-        {
-          "name": "Adio",
-          "url": "https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Lotus Rain",
-      "url": "https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Bloom Drops",
         "url": "https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 180000,
       "name": "Bloom Drops",
       "url": "https://open.spotify.com/track/0vblE9dJaMfWAZAyCPFSBu"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Lotus Rain",
+        "url": "https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ"
+      },
+      "artists": [
+        {
+          "name": "Adio",
+          "url": "https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Lotus Rain",
+      "url": "https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Aqueous",
-        "url": "https://open.spotify.com/album/4obxm4dQ6PzC3Ng8DLjgMm"
-      },
-      "artists": [
-        {
-          "name": "Epiphonema",
-          "url": "https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Aqueous",
-      "url": "https://open.spotify.com/track/5He6fcd7BpeANU16U6W7Wm"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "New Sounds Of Nature",
         "url": "https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Misty Repose",
-        "url": "https://open.spotify.com/album/28Dw2RCnixiHeRkWs1Qe85"
+        "name": "Aqueous",
+        "url": "https://open.spotify.com/album/4obxm4dQ6PzC3Ng8DLjgMm"
       },
       "artists": [
         {
-          "name": "State Of Rest",
-          "url": "https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM"
+          "name": "Epiphonema",
+          "url": "https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Misty Repose",
-      "url": "https://open.spotify.com/track/4qvAEQnHGpZnULGQHMeYGG"
+      "duration_ms": 166000,
+      "name": "Aqueous",
+      "url": "https://open.spotify.com/track/5He6fcd7BpeANU16U6W7Wm"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2131,6 +2115,22 @@
       "duration_ms": 162725,
       "name": "Spa Meditation Rain",
       "url": "https://open.spotify.com/track/4oKa2Lycq6g5J8nXVq3EGO"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Misty Repose",
+        "url": "https://open.spotify.com/album/28Dw2RCnixiHeRkWs1Qe85"
+      },
+      "artists": [
+        {
+          "name": "State Of Rest",
+          "url": "https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Misty Repose",
+      "url": "https://open.spotify.com/track/4qvAEQnHGpZnULGQHMeYGG"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Mindful Rain",
-        "url": "https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh"
-      },
-      "artists": [
-        {
-          "name": "520Hz",
-          "url": "https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs"
-        }
-      ],
-      "duration_ms": 149350,
-      "name": "Rain And Stream",
-      "url": "https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Nightly Rain",
         "url": "https://open.spotify.com/album/6ctFzaJrahIfWFj5s1bgXZ"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 154000,
       "name": "Nooo, Not On Our Wedding Day",
       "url": "https://open.spotify.com/track/35xQngar9kK3H6ytI5MclA"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Mindful Rain",
+        "url": "https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh"
+      },
+      "artists": [
+        {
+          "name": "520Hz",
+          "url": "https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs"
+        }
+      ],
+      "duration_ms": 149350,
+      "name": "Rain And Stream",
+      "url": "https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Mahogany Comforter",
-        "url": "https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7"
-      },
-      "artists": [
-        {
-          "name": "Star Chip",
-          "url": "https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg"
-        }
-      ],
-      "duration_ms": 192603,
-      "name": "Mahogany Comforter",
-      "url": "https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Relaxing Sounds of Nature",
         "url": "https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG"
       },
@@ -2343,18 +2327,18 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Pouring Rain Sounds",
-        "url": "https://open.spotify.com/album/3NaD5p4jyUKuJaw49OrwW9"
+        "name": "Mahogany Comforter",
+        "url": "https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7"
       },
       "artists": [
         {
-          "name": "Sacred Moments",
-          "url": "https://open.spotify.com/artist/7w9iay4sAMHALucLoQ2hSV"
+          "name": "Star Chip",
+          "url": "https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg"
         }
       ],
-      "duration_ms": 179697,
-      "name": "Liquid Skies - Rain",
-      "url": "https://open.spotify.com/track/0l9cec40VQ0NfHMdBuYHHO"
+      "duration_ms": 192603,
+      "name": "Mahogany Comforter",
+      "url": "https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2371,6 +2355,22 @@
       "duration_ms": 196649,
       "name": "Autumn Rain",
       "url": "https://open.spotify.com/track/16oZFwPEGjolU7fKO2W3Ct"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Pouring Rain Sounds",
+        "url": "https://open.spotify.com/album/3NaD5p4jyUKuJaw49OrwW9"
+      },
+      "artists": [
+        {
+          "name": "Sacred Moments",
+          "url": "https://open.spotify.com/artist/7w9iay4sAMHALucLoQ2hSV"
+        }
+      ],
+      "duration_ms": 179697,
+      "name": "Liquid Skies - Rain",
+      "url": "https://open.spotify.com/track/0l9cec40VQ0NfHMdBuYHHO"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Cosy Sunday Rain",
-        "url": "https://open.spotify.com/album/2nD8pACY6boiON9uVSaLJm"
-      },
-      "artists": [
-        {
-          "name": "Crafting Audio",
-          "url": "https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Cosy Sunday Rain",
-      "url": "https://open.spotify.com/track/7kUpfYMUijFCcNsKMnFvhv"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Water sound bank",
         "url": "https://open.spotify.com/album/626RaYxmWLVeyzIooBaj2E"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 132260,
       "name": "Soothing Rain Sounds",
       "url": "https://open.spotify.com/track/7rvo9djyYAEnsogXeACe5V"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Cosy Sunday Rain",
+        "url": "https://open.spotify.com/album/2nD8pACY6boiON9uVSaLJm"
+      },
+      "artists": [
+        {
+          "name": "Crafting Audio",
+          "url": "https://open.spotify.com/artist/2JPKyBvknhpjBrZx65AmM9"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Cosy Sunday Rain",
+      "url": "https://open.spotify.com/track/7kUpfYMUijFCcNsKMnFvhv"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "After Midnight",
-        "url": "https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R"
-      },
-      "artists": [
-        {
-          "name": "Worrysome Skies",
-          "url": "https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "That's Real Intense",
-      "url": "https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Rain Rain Rain",
         "url": "https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX"
       },
@@ -2711,22 +2695,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "ETERNAL RAIN",
-        "url": "https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF"
-      },
-      "artists": [
-        {
-          "name": "In Natura",
-          "url": "https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Intense and Caring Forest Rain",
-      "url": "https://open.spotify.com/track/23KJcRdmcx4zkCfOxOTn4g"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Droppar",
         "url": "https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh"
       },
@@ -2743,6 +2711,22 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
+        "name": "ETERNAL RAIN",
+        "url": "https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF"
+      },
+      "artists": [
+        {
+          "name": "In Natura",
+          "url": "https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Intense and Caring Forest Rain",
+      "url": "https://open.spotify.com/track/23KJcRdmcx4zkCfOxOTn4g"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
         "name": "Soft Sleep Rain",
         "url": "https://open.spotify.com/album/4HZIDOYuHZWiBw0oE5XH2l"
       },
@@ -2755,6 +2739,22 @@
       "duration_ms": 149369,
       "name": "Sleep Soft Rain",
       "url": "https://open.spotify.com/track/4UtfEWJHwsXaqG0cVwgQqR"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R"
+      },
+      "artists": [
+        {
+          "name": "Worrysome Skies",
+          "url": "https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "That's Real Intense",
+      "url": "https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "February Rain",
-        "url": "https://open.spotify.com/album/6vFUwZL1ivCQ4SPMjLLuhM"
-      },
-      "artists": [
-        {
-          "name": "Imbrem",
-          "url": "https://open.spotify.com/artist/2NwQO9olQpc9mgrJher6rV"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Rain keeps pouring",
-      "url": "https://open.spotify.com/track/6vIMfO6imrKW1q7cvpIw8s"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Heavy Rain",
         "url": "https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs"
       },
@@ -2867,6 +2851,22 @@
       "duration_ms": 140192,
       "name": "Raining After Midnight",
       "url": "https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "February Rain",
+        "url": "https://open.spotify.com/album/6vFUwZL1ivCQ4SPMjLLuhM"
+      },
+      "artists": [
+        {
+          "name": "Imbrem",
+          "url": "https://open.spotify.com/artist/2NwQO9olQpc9mgrJher6rV"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Rain keeps pouring",
+      "url": "https://open.spotify.com/track/6vIMfO6imrKW1q7cvpIw8s"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -3015,6 +3015,22 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
+        "name": "On This Rainy Night",
+        "url": "https://open.spotify.com/album/1GAf7Y6fak1aqaOEPLD8Lj"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "On This Rainy Night",
+      "url": "https://open.spotify.com/track/6sXo2YImpCkfEH9XIOzc6X"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
         "name": "Mostly Just Rain",
         "url": "https://open.spotify.com/album/4O0P4IHgzILfzLay0jsbpY"
       },
@@ -3027,6 +3043,22 @@
       "duration_ms": 141920,
       "name": "Blooming In Rain",
       "url": "https://open.spotify.com/track/5kKKlThKApoonAvm7tUFKm"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Garasia Rain Forest",
+        "url": "https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz"
+      },
+      "artists": [
+        {
+          "name": "Literrain",
+          "url": "https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw"
+        }
+      ],
+      "duration_ms": 127059,
+      "name": "Garasia Rain Forest",
+      "url": "https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -3047,22 +3079,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "On This Rainy Night",
-        "url": "https://open.spotify.com/album/1GAf7Y6fak1aqaOEPLD8Lj"
-      },
-      "artists": [
-        {
-          "name": "lumen",
-          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "On This Rainy Night",
-      "url": "https://open.spotify.com/track/6sXo2YImpCkfEH9XIOzc6X"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Forest Rain",
         "url": "https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV"
       },
@@ -3075,22 +3091,6 @@
       "duration_ms": 138932,
       "name": "Sleep Rain in Nature",
       "url": "https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
-        "name": "Garasia Rain Forest",
-        "url": "https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz"
-      },
-      "artists": [
-        {
-          "name": "Literrain",
-          "url": "https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw"
-        }
-      ],
-      "duration_ms": 127059,
-      "name": "Garasia Rain Forest",
-      "url": "https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Stratus",
-        "url": "https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX"
-      },
-      "artists": [
-        {
-          "name": "Neo Si",
-          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Wonderful Rain",
-      "url": "https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Cold Winter Rain",
         "url": "https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN"
       },
@@ -3219,6 +3203,22 @@
       "duration_ms": 342092,
       "name": "Midwinter Downtown Rain",
       "url": "https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Wonderful Rain",
+      "url": "https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -3399,22 +3399,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Deep Sleep Drops",
-        "url": "https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM"
-      },
-      "artists": [
-        {
-          "name": "Zuni",
-          "url": "https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Rain Dancing",
-      "url": "https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Rainy Forest",
         "url": "https://open.spotify.com/album/1X5iSi20cFGKvdYLG8MFWG"
       },
@@ -3427,6 +3411,22 @@
       "duration_ms": 188725,
       "name": "Peaceful Rain",
       "url": "https://open.spotify.com/track/1gkY5sTXhdFhfUM1YpIZ4V"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Deep Sleep Drops",
+        "url": "https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM"
+      },
+      "artists": [
+        {
+          "name": "Zuni",
+          "url": "https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Rain Dancing",
+      "url": "https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -3767,22 +3767,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Rainy Night In Amsterdam",
-        "url": "https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS"
-      },
-      "artists": [
-        {
-          "name": "Imber Levis",
-          "url": "https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Relaxing Rain",
-      "url": "https://open.spotify.com/track/1sykIweIzrpcdBDeofXx1I"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Chasing Rain",
         "url": "https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2"
       },
@@ -3811,6 +3795,22 @@
       "duration_ms": 130048,
       "name": "Rain Factory",
       "url": "https://open.spotify.com/track/5TTFKNWZNesToIjWK1taw9"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Rainy Night In Amsterdam",
+        "url": "https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS"
+      },
+      "artists": [
+        {
+          "name": "Imber Levis",
+          "url": "https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Relaxing Rain",
+      "url": "https://open.spotify.com/track/1sykIweIzrpcdBDeofXx1I"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -3927,6 +3927,22 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
+        "name": "Rainward",
+        "url": "https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Side",
+          "url": "https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC"
+        }
+      ],
+      "duration_ms": 144892,
+      "name": "Message Of Rain",
+      "url": "https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
         "name": "Los Angeles Rain",
         "url": "https://open.spotify.com/album/6GuGhvQs5EpSxr6wQd71Bd"
       },
@@ -3955,22 +3971,6 @@
       "duration_ms": 144004,
       "name": "Tea Time",
       "url": "https://open.spotify.com/track/6JWOqDfH29aU6BEQcNwjuz"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
-        "name": "Rainward",
-        "url": "https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Side",
-          "url": "https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC"
-        }
-      ],
-      "duration_ms": 144892,
-      "name": "Message Of Rain",
-      "url": "https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -4295,22 +4295,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Rain and Thunder",
-        "url": "https://open.spotify.com/album/6OmbPmeR57foKKXc6AjNN7"
-      },
-      "artists": [
-        {
-          "name": "Miraflor",
-          "url": "https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Rain On Roof",
-      "url": "https://open.spotify.com/track/54SOLMNTSYbPWVOFO7yjse"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Nederb\u00f6rd",
         "url": "https://open.spotify.com/album/52oHVzqNzXauSpZmmjfmTh"
       },
@@ -4323,6 +4307,22 @@
       "duration_ms": 164000,
       "name": "Nederb\u00f6rd",
       "url": "https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
+        "name": "Rain and Thunder",
+        "url": "https://open.spotify.com/album/6OmbPmeR57foKKXc6AjNN7"
+      },
+      "artists": [
+        {
+          "name": "Miraflor",
+          "url": "https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Rain On Roof",
+      "url": "https://open.spotify.com/track/54SOLMNTSYbPWVOFO7yjse"
     },
     {
       "added_at": "2026-04-01 20:45:46",
@@ -4359,6 +4359,22 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
+        "name": "Birds song forest rain",
+        "url": "https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk"
+      },
+      "artists": [
+        {
+          "name": "Sound Of The Woods",
+          "url": "https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Birds song forest rain",
+      "url": "https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz"
+    },
+    {
+      "added_at": "2026-04-01 20:45:46",
+      "album": {
         "name": "A Relaxing View",
         "url": "https://open.spotify.com/album/5I6htfiNbnj4qyqztQrXKw"
       },
@@ -4391,22 +4407,6 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Birds song forest rain",
-        "url": "https://open.spotify.com/album/0rIdJAjdSjd8cePzPzrUOk"
-      },
-      "artists": [
-        {
-          "name": "Sound Of The Woods",
-          "url": "https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Birds song forest rain",
-      "url": "https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz"
-    },
-    {
-      "added_at": "2026-04-01 20:45:46",
-      "album": {
         "name": "Tea & Rainy Days",
         "url": "https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03"
       },
@@ -4423,18 +4423,18 @@
     {
       "added_at": "2026-04-01 20:45:46",
       "album": {
-        "name": "Rain Mantra",
-        "url": "https://open.spotify.com/album/73M4YzG8IXgcVqixgmsYU4"
+        "name": "After Sunshine",
+        "url": "https://open.spotify.com/album/6FR2KwpmkCeXSvvoE3slmQ"
       },
       "artists": [
         {
-          "name": "Four Winds",
-          "url": "https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE"
+          "name": "Himmel",
+          "url": "https://open.spotify.com/artist/2jrGWDU5MvR3sYIT1OpZfI"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Visualization Rain",
-      "url": "https://open.spotify.com/track/2VXMXjpalNPiIc2Es3aSye"
+      "duration_ms": 155827,
+      "name": "Days Of Raining",
+      "url": "https://open.spotify.com/track/2tm78Wsjoxum3i1wm2gpPj"
     }
   ],
   "unique_name": "Barulho de Chuva",

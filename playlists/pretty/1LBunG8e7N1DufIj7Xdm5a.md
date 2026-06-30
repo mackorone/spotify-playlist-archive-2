@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,548 songs - 10 day 3 hr 17 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,550 songs - 10 day 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4556,5 +4556,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4546 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
 | 4547 | [Rebel Soul](https://open.spotify.com/track/6JCO2Sp295DrQi5Mu5Ix0t) | [Riiver Brukes](https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS) | [Rebel Soul](https://open.spotify.com/album/6UkFPm3iask9d6xcxwVYN9) | 3:55 |
 | 4548 | [Mirrors](https://open.spotify.com/track/7v5DOwsOWG6cf8hk9Mw8KH) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Mirrors](https://open.spotify.com/album/3Oq2PLLDnEFGIwzkMW43w2) | 4:47 |
+| 4549 | [Dil Banjara](https://open.spotify.com/track/13b7r0ioPRxL8D1QCdfo0C) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Banjara](https://open.spotify.com/album/1wiGzAI2FYVNW07Ur8DU9b) | 3:26 |
+| 4550 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 |
 
-Snapshot ID: `AAAI/VAmXj1TwG3IWaCDdq+W9aISS+sI`
+Snapshot ID: `AAAI/9K6TQiG2imbgq6U5W/t6ctPdYxP`

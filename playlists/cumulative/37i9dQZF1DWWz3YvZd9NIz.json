@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 189000,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 153000,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/7hCKMM8TayzGLx0pWBdE1K"
@@ -3328,6 +3328,28 @@
       "duration_ms": 114187,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0i1qowFhYd1AzCPAvvEJZg"
+    },
+    {
+      "album": {
+        "name": "Lay All Your Love On Me (Mark With a K Remix)",
+        "url": "https://open.spotify.com/album/7BXRood90YagFjwCg8T0ld"
+      },
+      "artists": [
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Mark With a K",
+          "url": "https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Lay All Your Love On Me - Mark With a K Remix",
+      "url": "https://open.spotify.com/track/7md19FFg980V8uIZKjOCYC"
     },
     {
       "album": {
@@ -5753,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5NMlGVHuG1mm6m63Tbil8a"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149156,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/6yO9indH9XB6IP2YVmVskI"
+    },
+    {
+      "album": {
         "name": "What's Up?",
         "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
       },
@@ -5952,6 +5992,24 @@
       "duration_ms": 146250,
       "name": "YEAH",
       "url": "https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX"
+    },
+    {
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/49tPw9ieGnzjFutoGUlrMy"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199013,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/2zA49zF3ng5BIdwItn9Tbs"
     },
     {
       "album": {

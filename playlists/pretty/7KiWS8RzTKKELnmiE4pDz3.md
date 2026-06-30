@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 281 songs - 18 hr 3 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 287 songs - 18 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,5 +289,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 279 | [Fuck All Nite](https://open.spotify.com/track/3BhB7Ps9xk8vPgzs1Kldce) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:19 |
 | 280 | [brand new teeth](https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [brand new teeth](https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF) | 4:27 |
 | 281 | [Objects in the Mirror](https://open.spotify.com/track/55IuRduNVva0DbXiPopZUy) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Live From Space](https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8) | 6:29 |
+| 282 | [Cotton](https://open.spotify.com/track/2rBesRD5DkpI0dyjmXV7lf) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:43 |
+| 283 | [I Love Louis Cole](https://open.spotify.com/track/59JFL0bREpnVYWamU1Dlhm) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:24 |
+| 284 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
+| 285 | [Tunnels In The Air](https://open.spotify.com/track/5tGKnLXNqYedC7YGoWpLVz) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 3:24 |
+| 286 | [Tunnels In The Air](https://open.spotify.com/track/5tGKnLXNqYedC7YGoWpLVz) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 3:24 |
+| 287 | [Tunnels In The Air](https://open.spotify.com/track/5tGKnLXNqYedC7YGoWpLVz) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 3:24 |
 
-Snapshot ID: `AAAgfU+fuGj1Jv5XUblDO5MGlcxuvzUV`
+Snapshot ID: `AAAggwXAJNP29sFhN5iA9bD7r0pszg3/`

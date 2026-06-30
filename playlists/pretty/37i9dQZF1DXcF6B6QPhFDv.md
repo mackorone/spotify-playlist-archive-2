@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive w/ beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,218,998 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,218,487 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 19 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
 | 20 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |
 | 21 | [American Porn](https://open.spotify.com/track/0QE33yF9DCM0rqG5kVCKKA) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 3:42 |
-| 22 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
+| 22 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
 | 23 | [Training](https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Training / Great](https://open.spotify.com/album/1LLOCMDTbW4pgbZRKK2TJS) | 2:00 |
 | 24 | [Seasons Change](https://open.spotify.com/track/0DRwpqgzcug1j16A6ktmZm) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Seasons Change](https://open.spotify.com/album/3HNK1DEB400fb3HR4QubmX) | 3:52 |
 | 25 | [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 |

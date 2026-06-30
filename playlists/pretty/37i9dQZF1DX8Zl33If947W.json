@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 208201,
+  "num_followers": 208246,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Gr\u00f6\u00dfer als Liebe",
-        "url": "https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Gr\u00f6\u00dfer als Liebe",
-      "url": "https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 169500,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Gr\u00f6\u00dfer als Liebe",
+        "url": "https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Gr\u00f6\u00dfer als Liebe",
+      "url": "https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Wei\u00dfe Haare",
-        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Wei\u00dfe Haare",
-      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Wei\u00dfe Haare",
+        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Wei\u00dfe Haare",
+      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Wei\u00dfes Kleid",
         "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 147826,
       "name": "Wei\u00dfes Kleid",
       "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -987,22 +987,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "2012",
-        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
+        "name": "Beste",
+        "url": "https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
         }
       ],
-      "duration_ms": 170200,
-      "name": "2012",
-      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+      "duration_ms": 128354,
+      "name": "Beste",
+      "url": "https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv"
     }
   ],
   "unique_name": "Liebeslieder",

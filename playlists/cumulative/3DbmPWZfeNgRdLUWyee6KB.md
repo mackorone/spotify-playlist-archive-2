@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,229 songs - 2 day 23 hr 29 min
+1,235 songs - 2 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 | 2025-11-11 | 2025-12-21 |
 | [30th Day](https://open.spotify.com/track/7hw2C4wZeCFErLYjtrWVBG) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [30th Day](https://open.spotify.com/album/7dwecrXQ6HIdkiNnRnCxpE) | 3:53 | 2026-02-26 | 2026-03-25 |
 | [321 \(Self\-Destruct\)](https://open.spotify.com/track/5UkH8DqReMbDEb5VrnhQ9U) | [Jessie Alexandra](https://open.spotify.com/artist/6Qx6xEgIkrAc6GMu9uJ9b7) | [321 \(Self\-Destruct\)](https://open.spotify.com/album/3s7n1PPX8T37zbJzk0xrVd) | 3:16 | 2026-03-07 | 2026-04-12 |
+| [4AM Courtroom](https://open.spotify.com/track/7yY2TlWZxwzEZJq0yXUJNL) | [MUAD](https://open.spotify.com/artist/7quXFbhtUmwBWx6NvxyqSv) | [4AM Courtroom](https://open.spotify.com/album/3gYd4Np0DyBtRBM9YvShMv) | 4:06 | 2026-06-29 |  |
 | [4thegirl](https://open.spotify.com/track/0K2X58uhUSfVCpPy2H8bl5) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:15 | 2025-12-15 | 2026-01-15 |
 | [6 P.M\. \- Sped Up + Reverbed](https://open.spotify.com/track/13c4SLMyy8znHwt61koe4Z) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [6 P.M\. \(Sped Up + Reverbed\)](https://open.spotify.com/album/5rYYBjP2VsETOIm13VcJ5H) | 3:42 | 2026-01-14 | 2026-02-20 |
 | [7 Wonder](https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF) | [Necrovaye](https://open.spotify.com/artist/0dkN0O2ZrD4FTbEe8beISY) | [7 Wonder](https://open.spotify.com/album/2PVcfUE6GTbR4K8urqQcF0) | 2:29 | 2026-01-31 | 2026-02-28 |
@@ -176,6 +177,7 @@
 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 | 2025-12-10 | 2026-01-05 |
 | [Chasing The Wolf](https://open.spotify.com/track/5JlwkkUdSL94Mo6PQURSU9) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Chasing The Wolf](https://open.spotify.com/album/3WbumANahke2nr9AMJsCzC) | 3:52 | 2025-10-02 | 2025-11-29 |
 | [Chemical](https://open.spotify.com/track/5XxXvHmjkXtJHqNykytLE1) | [JUMPP MUSIC](https://open.spotify.com/artist/6sopoAUpLIbZzRQ1bQtgoJ) | [Chemical](https://open.spotify.com/album/2dcxhcMzXkp4dWpmuInz06) | 3:15 | 2026-05-27 |  |
+| [Cherry Wine](https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA) | [Ain't no Ducks](https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U) | [Cherry Wine](https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq) | 2:50 | 2026-06-29 |  |
 | [Christmas in the Islands](https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Christmas in the Islands](https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u) | 3:01 | 2025-11-21 | 2026-01-05 |
 | [Christmas Tale \- Piano solo](https://open.spotify.com/track/2Lwqoc8WJ6AKsyg4cKRY2g) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Christmas Tale \(Piano solo\)](https://open.spotify.com/album/7BVwM2QRfdXULtpWhQVMmr) | 3:00 | 2023-11-30 | 2025-11-29 |
 | [Clear My Mind](https://open.spotify.com/track/0Kc4uMBJroVPXkl2XTOXiq) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Clear My Mind](https://open.spotify.com/album/1pTbolOhXVsdBIdp14GPtA) | 2:57 | 2026-03-17 | 2026-04-12 |
@@ -186,6 +188,7 @@
 | [Cocci ri rina](https://open.spotify.com/track/2v5I9alBtaqUF8Lsy8cG2E) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 4:05 | 2023-04-20 | 2025-11-29 |
 | [Cold Nights](https://open.spotify.com/track/7uXaMOhjnwNTx4ylOIdywo) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Cold Nights](https://open.spotify.com/album/43tDQTW7UkOdO0Zg1RYfwh) | 3:44 | 2025-12-18 | 2026-01-15 |
 | [Cold Nights](https://open.spotify.com/track/7iAXxZyflGT5fNSX8xBhCC) | [OXT DA MXD](https://open.spotify.com/artist/16y1zDqUVY5goABIwMGG7C) | [Cold Nights](https://open.spotify.com/album/6FTgj02lcNWhVsTIlX858A) | 4:21 | 2026-04-14 | 2026-05-14 |
+| [Cold Wind Blows](https://open.spotify.com/track/416wi20CY4p28Ez9xaXgf6) | [Deceased Me](https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU) | [Cold Wind Blows](https://open.spotify.com/album/592zWSpTLDSlH5IvAM8kSi) | 3:10 | 2026-06-29 |  |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-12-04 | 2026-01-05 |
 | [Com'eri](https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Com'eri](https://open.spotify.com/album/0Hd1JZLkU2hbsnhEqsxAwf) | 4:09 | 2026-03-05 |  |
 | [come alive](https://open.spotify.com/track/2PHcMVs6DLwPKRJrZi2BqC) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [come alive](https://open.spotify.com/album/1FKPvxeD3py53CpUpLwj5D) | 3:32 | 2026-01-02 | 2026-02-03 |
@@ -253,6 +256,7 @@
 | [Dimensione Sospesa](https://open.spotify.com/track/60ALwPWjAZpShCXdanf3Vq) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:01 | 2025-10-02 | 2025-11-29 |
 | [Diminuendo](https://open.spotify.com/track/3YbKWayRUzzl86Yu88vvbi) | [Giuseppe Moffa](https://open.spotify.com/artist/5fkDfBiPF2JYEl8VXeg9Np) | [Diminuendo](https://open.spotify.com/album/30H9RvsEPStjBG8ZNNToBr) | 2:02 | 2023-04-20 | 2025-11-29 |
 | [Dimmelo Adesso](https://open.spotify.com/track/5dokQ5aPLUoVuKUMlUYYmy) | [Aless\_andro](https://open.spotify.com/artist/7olRQapU828COnC46pwfzO) | [Dimmelo Adesso](https://open.spotify.com/album/3j3qBXLr6p8gKGIPuNXTOV) | 4:05 | 2026-01-31 | 2026-02-28 |
+| [Dinner with the inside monster](https://open.spotify.com/track/7rEBUuRza8ueBilHto2pFZ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Dinner with the inside monster](https://open.spotify.com/album/2HeHHYfquLy6F9ylN7M9S0) | 6:40 | 2026-06-29 |  |
 | [DinéraNotte \(with TK RILLA\)](https://open.spotify.com/track/6VUcnnHpzj05hGj8FT6AQf) | [Dabvno](https://open.spotify.com/artist/6vN7IgF59WJ34A6jEpM1us), [TK RILLA](https://open.spotify.com/artist/1mpNY1gFLdsgOMc6wahxji) | [DinéraNotte \(with TK RILLA\)](https://open.spotify.com/album/3TsGE2vxvKP5quHx0hYJfS) | 2:08 | 2026-01-14 | 2026-02-20 |
 | [Disappointment](https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Disappointment](https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX) | 4:31 | 2026-01-16 | 2026-02-20 |
 | [Discúlpame por favor](https://open.spotify.com/track/5cdp1jlB5RDbywqL9Kaiuk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un ciclo sin remedio](https://open.spotify.com/album/7HKcT6JUt4O8fATJE0ic94) | 3:01 | 2025-12-21 | 2026-01-24 |
@@ -276,6 +280,7 @@
 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 | 2026-06-05 |  |
 | [Drug Infused Love](https://open.spotify.com/track/0zvHPpFftBopYcKXTexcjm) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Drug Infused Love](https://open.spotify.com/album/7falbSgkPHlEQ8WfjnRhPf) | 2:45 | 2026-02-25 | 2026-03-25 |
 | [Dry Land](https://open.spotify.com/track/1serZjuQxClBxPTGcUqaVa) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Dry Land](https://open.spotify.com/album/0xo0hP4MfnRfOlnMAuLD9p) | 6:18 | 2026-06-04 |  |
+| [Du är fri](https://open.spotify.com/track/53Vdv4GR4yCrBTA9ufhGjk) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [Du är fri](https://open.spotify.com/album/2CZgO1nVD6zL1MuAKHbJl5) | 3:09 | 2026-06-29 |  |
 | [Dual](https://open.spotify.com/track/5vN9W5CbFtWYv17mp6bzLR) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Dual](https://open.spotify.com/album/15P2VvizUmctB7VhJ6Obk2) | 2:59 | 2025-12-09 | 2026-01-05 |
 | [Dubious](https://open.spotify.com/track/17H9H9krGfGb05FxunN5E0) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Dubious](https://open.spotify.com/album/1WSDHaH9sCm0ALywxpys1E) | 1:55 | 2026-02-02 | 2026-02-28 |
 | [Dumb](https://open.spotify.com/track/2sUfsE4d8E2NZ8T4zcIhhn) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Dumb](https://open.spotify.com/album/2gge7ioJsjcRg3jb6v4Y1G) | 3:46 | 2026-03-05 | 2026-03-25 |
@@ -324,6 +329,7 @@
 | [Fanático del Rock And Roll](https://open.spotify.com/track/7gxjjbv9dR7rE9I8FPuVPs) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll](https://open.spotify.com/album/1MHoJyg99X7SO8Jihuiwr2) | 3:01 | 2026-06-09 |  |
 | [Farewell](https://open.spotify.com/track/5GdjvwCtofhDovXaAHFl2y) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Farewell](https://open.spotify.com/album/2e7IZdBUvJnb325fR5S1V2) | 4:23 | 2025-12-09 | 2026-01-05 |
 | [Favara \(Remastered\)](https://open.spotify.com/track/1SZwGBCsnyA346nh8i31Ws) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Carlo Cossu](https://open.spotify.com/artist/6L8CiWpUGlQwWVS63LMiQE) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:25 | 2023-04-20 | 2025-11-29 |
+| [Feberdröm](https://open.spotify.com/track/3KUcmzPsQPytS8vAv0wzUh) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK) | [Feberdröm](https://open.spotify.com/album/2NQGGQVYzmTdDIUUHj1cy3) | 2:48 | 2026-06-29 |  |
 | [Fed Up](https://open.spotify.com/track/1tXVVfbVfrBVaeYKb1HU8j) | [Federico Bello](https://open.spotify.com/artist/62XFAtWgvdAqZ1L1wGeWgO) | [Fed Up](https://open.spotify.com/album/2z9B1XZuQqL5mCe18nwro8) | 3:07 | 2026-03-24 | 2026-04-22 |
 | [Feel the night](https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX) | [Kryhos](https://open.spotify.com/artist/4aqG8I79UujSmRHe7yphiW) | [Feel the night](https://open.spotify.com/album/5s1ETma0NHObW9iNgddC5a) | 2:25 | 2026-02-01 | 2026-02-28 |
 | [Feelings \- Acoustic](https://open.spotify.com/track/10h1rVHnLalm93CqAvkZue) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings \- Acoustic](https://open.spotify.com/album/3AlPU5aQcaz4aqleFmDSeS) | 3:44 | 2026-02-03 | 2026-03-07 |

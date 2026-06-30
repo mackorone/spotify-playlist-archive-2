@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: Partiboi69, KETTAMA
 
-4,074 songs - 9 day 6 hr 44 min
+4,075 songs - 9 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1265,7 +1265,7 @@
 | [FKN](https://open.spotify.com/track/3I15DkkpCxjl5jKLche3zd) | [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [FKN](https://open.spotify.com/album/1tfAFZfcVHhliNF2lNS5CR) | 3:00 | 2025-11-20 | 2026-01-30 |
 | [Flashback](https://open.spotify.com/track/3VeAelsMAZSm5q8fAR8cIm) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Harder, Faster](https://open.spotify.com/album/3LMgotL0DzrXu4pdlG578P) | 4:27 | 2023-07-27 | 2023-08-18 |
 | [Flashing Lights](https://open.spotify.com/track/619eBccrYwUV31J6cZvzdz) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI) | [Flashing Lights](https://open.spotify.com/album/2225sODFr8HOi76XpZe3qm) | 3:23 | 2023-01-19 | 2023-02-03 |
-| [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 | 2026-05-07 |  |
+| [Flavour](https://open.spotify.com/track/7bwgaNWKxWt1lBwrZ37gJ7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Still Val](https://open.spotify.com/artist/3tj0d2eJ9fDFZKgX4A5O6o) | [Flavour](https://open.spotify.com/album/4DyhMQVt6szbaAhPALqQuS) | 2:22 | 2026-05-07 | 2026-06-30 |
 | [Flaws](https://open.spotify.com/track/47IVT3QBYhbI02oR0YvwO1) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Flaws](https://open.spotify.com/album/4PS0SLcIDPFS4yARhmf5uk) | 2:38 | 2024-01-18 | 2024-02-16 |
 | [Flesh](https://open.spotify.com/track/74bBSAVEl6AEXCN1mfUyA3) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Flesh](https://open.spotify.com/album/6GcjafNS8X9UJntTmGo7g8) | 3:42 | 2023-06-16 | 2023-07-14 |
 | [Flex](https://open.spotify.com/track/4pSiZseaw6jBnmqGVG2viR) | [Mark Maxwell](https://open.spotify.com/artist/1yOjThq2IWrVGP3a2i0Ug7), [Latour](https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Flex](https://open.spotify.com/album/5pU5ONumshvKESjN2W2rMI) | 2:37 | 2023-04-13 | 2023-05-05 |
@@ -3905,6 +3905,7 @@
 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 | 2025-09-11 | 2025-11-07 |
 | [What's The Matter](https://open.spotify.com/track/4Aq2GPLOOeeDkm6FVrGshQ) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [What's The Matter](https://open.spotify.com/album/6Ni3kVfOSSAJY6IVaCqIkG) | 7:33 | 2023-06-08 | 2023-06-30 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 | 2024-02-16 |
+| [Whatever Turns You On](https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Whatever Turns You On \(ft\. Bonn\)](https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1) | 3:15 | 2026-06-29 |  |
 | [Whatever You Say](https://open.spotify.com/track/5LGojAEacSICdfmuI2g2n7) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Whatever You Say](https://open.spotify.com/album/3HgBQJRpXuvF4aqsC0oBIn) | 3:17 | 2023-03-23 | 2023-04-14 |
 | [When I Talk](https://open.spotify.com/track/0u0oY2WuHC8B22p5nF8qsU) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY) | [When I Talk](https://open.spotify.com/album/6bREBgVcyfqjAAXjB5qtET) | 3:27 | 2022-12-08 | 2023-01-20 |
 | [When It Kicks](https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [When It Kicks](https://open.spotify.com/album/04ybXlfPtu2JdmXOrI2yTG) | 3:20 | 2025-09-04 | 2025-10-10 |

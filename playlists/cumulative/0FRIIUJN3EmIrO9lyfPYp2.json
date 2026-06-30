@@ -9447,6 +9447,24 @@
     },
     {
       "album": {
+        "name": "last memory of you",
+        "url": "https://open.spotify.com/album/2DVexEKn0nyZ7GlrCD0cvG"
+      },
+      "artists": [
+        {
+          "name": "Layanari",
+          "url": "https://open.spotify.com/artist/22aDdyTumcQjpxGQ1432p3"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102047,
+      "name": "last memory of you",
+      "url": "https://open.spotify.com/track/3NBn1LsIlsNiR0VNiBUSro"
+    },
+    {
+      "album": {
         "name": "last time",
         "url": "https://open.spotify.com/album/5sRCgOKFOqF1Rnc9N7esR1"
       },
@@ -10192,6 +10210,28 @@
     {
       "album": {
         "name": "loss",
+        "url": "https://open.spotify.com/album/1arIuGp7c4hqM3f2OmvVzN"
+      },
+      "artists": [
+        {
+          "name": "Gh\u00f8st",
+          "url": "https://open.spotify.com/artist/3STrdpCJ6ldVHF4q6Oszlq"
+        },
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100339,
+      "name": "loss",
+      "url": "https://open.spotify.com/track/1pJCq6y8UA0HIGOJZ5V1Cm"
+    },
+    {
+      "album": {
+        "name": "loss",
         "url": "https://open.spotify.com/album/24w8DtRvJbaYvv2Kk7oN4n"
       },
       "artists": [
@@ -10518,6 +10558,28 @@
       "duration_ms": 138750,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/5plrgSc0eBRvz2zIgv55qU"
+    },
+    {
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/7agHFiZ5ytYJFQjkQ4zxai"
+      },
+      "artists": [
+        {
+          "name": "CEIB\u00d8",
+          "url": "https://open.spotify.com/artist/4iUHA1vt1kJhZm3rByy54A"
+        },
+        {
+          "name": "volmus",
+          "url": "https://open.spotify.com/artist/24cCzCF9eeEaoCddKUqRvp"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/0AAwceV030voImigLoYcd8"
     },
     {
       "album": {

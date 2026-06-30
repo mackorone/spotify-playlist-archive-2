@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,494 likes - 70 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,523 likes - 70 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 67 | [La La Land \- Radio Edit](https://open.spotify.com/track/33BwJL3RsOtnzNq3u6sTAB) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [La La Land](https://open.spotify.com/album/3B6zro5mGUn8HvzO0odvyK) | 3:26 |
 | 68 | [Bad Decisions \- Purple Disco Machine Remix](https://open.spotify.com/track/0m902KgphfY1cKdWmxNGPX) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Decisions \(Remixes\)](https://open.spotify.com/album/6Q04p0pmhO1yGB4Y4okPEh) | 7:44 |
 | 69 | [Don Dadda](https://open.spotify.com/track/36umETHgZmiWrhyZdvLiPU) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Saliva Commandos](https://open.spotify.com/artist/1KoSnTUvEhtwNeZqaZnZ9M) | [Don Dadda](https://open.spotify.com/album/44BHcTsU2XAvFUgBnN1Lh6) | 3:22 |
-| 70 | [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 |
+| 70 | [Deep Down](https://open.spotify.com/track/3oABXSV2rnraVr5vhusLdG) | [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Aden Rémai](https://open.spotify.com/artist/5U3Av6ofccuxkUHYtCbfXn) | [Deep Down](https://open.spotify.com/album/5DoiCmPGUBTIww7OPeJ1Ip) | 3:23 |
 
 Snapshot ID: `AAAAAP0Djx4MlSIJLa/eRnoaG+xvaAnT`

@@ -4,7 +4,7 @@
 
 > Neue Musik von Esther Graf, Dani Lia, yola, reezy, Sam Smith, Juju & vielen mehr!
 
-9,595 songs - 19 day 14 hr 0 min
+9,596 songs - 19 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1266,6 +1266,7 @@
 | [Braindead](https://open.spotify.com/track/2m2OKZaPIujps0Ehk7TeSz) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Braindead](https://open.spotify.com/album/1876TznZD8zvEDcDac5Cqi) | 2:07 | 2026-04-02 | 2026-04-10 |
 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 | 2025-04-03 | 2025-04-11 |
 | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd) | 5:08 | 2024-10-10 | 2024-10-18 |
+| [brauch nh hug](https://open.spotify.com/track/6n7BZDZv2pP2Az0LjlgIUH) | [Zackavelli](https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk) | [brauch nh hug / mwm](https://open.spotify.com/album/7tnyIiqoSu6r8YFH6kF0YP) | 1:51 | 2026-06-26 |  |
 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2024-12-05 | 2024-12-13 |
 | [Brauchst du mich](https://open.spotify.com/track/6off5mAoyxs0zy4m05BKsk) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Brauchst du mich](https://open.spotify.com/album/43rMrRTqoE77O8Tr8dN6Bs) | 2:08 | 2025-07-17 | 2025-07-25 |
 | [Braun](https://open.spotify.com/track/44QiVk1JRbyCYa38NRWDIN) | [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy), [Bela B.](https://open.spotify.com/artist/1BOTcSZvfl1F4kui1f95dk) | [Braun](https://open.spotify.com/album/1HmEhCafU5AG1cXaKIv168) | 2:53 | 2025-12-04 | 2025-12-12 |

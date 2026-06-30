@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de junio 2026. Cover: Young Miko & Rauw Alejandro",
-  "num_followers": 1558913,
+  "num_followers": 1558838,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-06-25 19:56:26",
       "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
+    },
+    {
+      "added_at": "2026-06-25 19:56:26",
+      "album": {
         "name": "PUES YA NI PEDO",
         "url": "https://open.spotify.com/album/6wnTjCPl6OGSmpp5qf3zPq"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 201033,
       "name": "PUES YA NI PEDO",
       "url": "https://open.spotify.com/track/6TBrjMIQOcT02JWSGTR0vR"
-    },
-    {
-      "added_at": "2026-06-25 19:56:26",
-      "album": {
-        "name": "amoureux",
-        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "amoureux",
-      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
     },
     {
       "added_at": "2026-06-25 19:56:26",

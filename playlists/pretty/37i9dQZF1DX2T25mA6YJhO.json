@@ -1,29 +1,13 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ultraligera.",
-  "num_followers": 34759,
+  "num_followers": 34760,
   "original_name": "Rock 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABkltg8bhKKXiqJugzfQeqUvQ9um",
+  "snapshot_id": "AAAAAMfC/iyWrwaMJNthENBUMtmZXwFA",
   "tracks": [
-    {
-      "added_at": "2026-06-25 22:01:15",
-      "album": {
-        "name": "ALGUNA PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W"
-      },
-      "artists": [
-        {
-          "name": "Ultraligera",
-          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
-        }
-      ],
-      "duration_ms": 202450,
-      "name": "ALGUNA PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
-    },
     {
       "added_at": "2026-06-25 22:01:15",
       "album": {
@@ -83,8 +67,8 @@
     {
       "added_at": "2026-06-25 22:01:15",
       "album": {
-        "name": "TU PROBLEMA",
-        "url": "https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq"
+        "name": "ALGUNA PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W"
       },
       "artists": [
         {
@@ -92,9 +76,9 @@
           "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
         }
       ],
-      "duration_ms": 224611,
-      "name": "TU PROBLEMA",
-      "url": "https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg"
+      "duration_ms": 202450,
+      "name": "ALGUNA PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
     },
     {
       "added_at": "2026-06-25 22:01:15",
@@ -131,6 +115,22 @@
       "duration_ms": 276937,
       "name": "Si me voy no significa que te quiera menos",
       "url": "https://open.spotify.com/track/5oFVYTz6bERQklRuygaujv"
+    },
+    {
+      "added_at": "2026-06-25 22:01:15",
+      "album": {
+        "name": "TU PROBLEMA",
+        "url": "https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "duration_ms": 224611,
+      "name": "TU PROBLEMA",
+      "url": "https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg"
     },
     {
       "added_at": "2026-06-25 22:01:15",

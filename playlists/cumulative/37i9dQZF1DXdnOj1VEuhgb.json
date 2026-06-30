@@ -7842,10 +7842,28 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 146875,
       "name": "G\u00fcn\u00fcn Sonunda",
       "url": "https://open.spotify.com/track/2gHGF27KRLLLC3OnAcBLuU"
+    },
+    {
+      "album": {
+        "name": "G\u00fcvenemem",
+        "url": "https://open.spotify.com/album/2LXcq3LoEjaqh7WfKGxqzA"
+      },
+      "artists": [
+        {
+          "name": "D3",
+          "url": "https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118857,
+      "name": "G\u00fcvenemem",
+      "url": "https://open.spotify.com/track/5Pu77n6b2WMJGehlIFEWlT"
     },
     {
       "album": {
@@ -20040,12 +20058,12 @@
           "url": "https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg"
         },
         {
-          "name": "Levvera",
-          "url": "https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY"
-        },
-        {
           "name": "Ali Ece",
           "url": "https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK"
+        },
+        {
+          "name": "Levvera",
+          "url": "https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY"
         }
       ],
       "date_added": "2026-06-25",

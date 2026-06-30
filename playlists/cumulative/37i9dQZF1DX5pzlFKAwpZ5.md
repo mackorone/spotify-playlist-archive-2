@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-399 songs - 1 day 4 hr 45 min
+400 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo) | 3:45 | 2022-12-30 | 2024-04-19 |
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 | 2026-03-10 |
-| [SERENE](https://open.spotify.com/track/2HJSIyXM8ToAcWSrAEGSFP) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [SERENE](https://open.spotify.com/album/4zkfNH7buXzUYwBF8Fi1x5) | 1:36 | 2026-05-12 |  |
+| [SERENE](https://open.spotify.com/track/2HJSIyXM8ToAcWSrAEGSFP) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [SERENE](https://open.spotify.com/album/4zkfNH7buXzUYwBF8Fi1x5) | 1:36 | 2026-05-12 | 2026-06-30 |
 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 | 2025-07-03 |  |
 | [Shaded Navy](https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo) | [Shaded Navy](https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Shaded Navy](https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l) | 3:12 | 2023-01-06 | 2025-04-06 |
 | [shibuya](https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T) | [Masayuki Ishii](https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN), [Naohisa Taniguchi](https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL) | [shibuya](https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x) | 4:24 | 2025-03-21 | 2025-07-04 |
@@ -368,6 +368,7 @@
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-06 |  |
 | [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 | 2026-05-11 |
 | [Wanderer](https://open.spotify.com/track/7d3AfivASmxXlmF93jFegO) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Wanderer](https://open.spotify.com/album/4LjFjTFlduHdM4zXXJFb87) | 7:51 | 2024-08-08 | 2026-04-28 |
+| [WANE](https://open.spotify.com/track/0iuZVDBG0nYHmxWUI4wWFu) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [WANE](https://open.spotify.com/album/3erDFVFFUynMFuUsCnXQ2V) | 2:13 | 2026-06-26 |  |
 | [Warm Rain in June I](https://open.spotify.com/track/6Le1Cc6RGvSJjOcqNmrVL0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Black Swallow](https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU) | 3:34 | 2022-01-07 |  |
 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 | 2022-01-07 |  |
 | [WASSER](https://open.spotify.com/track/3OzrPtmhcFBHguQi4i0qAp) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 4:18 | 2022-12-30 |  |

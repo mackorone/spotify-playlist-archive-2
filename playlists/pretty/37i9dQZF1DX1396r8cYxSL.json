@@ -1,6 +1,6 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: Sefo",
-  "num_followers": 289350,
+  "num_followers": 289478,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-06-26 12:00:04",
       "album": {
-        "name": "K\u00f6r Sevdam",
-        "url": "https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa"
-      },
-      "artists": [
-        {
-          "name": "Zeynep Bast\u0131k",
-          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "K\u00f6r Sevdam",
-      "url": "https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw"
-    },
-    {
-      "added_at": "2026-06-26 12:00:04",
-      "album": {
         "name": "Sabrettim",
         "url": "https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 185114,
       "name": "Sabrettim",
       "url": "https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr"
+    },
+    {
+      "added_at": "2026-06-26 12:00:04",
+      "album": {
+        "name": "K\u00f6r Sevdam",
+        "url": "https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa"
+      },
+      "artists": [
+        {
+          "name": "Zeynep Bast\u0131k",
+          "url": "https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "K\u00f6r Sevdam",
+      "url": "https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw"
     },
     {
       "added_at": "2026-06-26 12:00:04",

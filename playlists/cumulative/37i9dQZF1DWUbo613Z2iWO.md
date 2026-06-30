@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Laila!
 
-1,860 songs - 3 day 22 hr 2 min
+1,860 songs - 3 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1763,7 +1763,7 @@
 | [What A Good Time](https://open.spotify.com/track/3Ky4QPDRxY2s20VT16Ou0y) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [JENA \(Deluxe\)](https://open.spotify.com/album/72DC8FnrN7OT42nSx0mnsC) | 3:29 | 2024-05-03 | 2024-09-21 |
 | [What Are We](https://open.spotify.com/track/1JGtASXpqtKEkrpjLWa1Pf) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [4Play](https://open.spotify.com/album/3SeBjLdX2gX02thhla8PxC) | 3:09 | 2023-04-14 | 2023-07-08 |
 | [What Can I Do](https://open.spotify.com/track/0s7b23E8bLpvObuIGFKjwX) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Slow Jam Szn](https://open.spotify.com/album/4tFAWjtG1MkocENvvstGac) | 3:24 | 2025-05-30 | 2025-09-06 |
-| [what did you think love would be?](https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [what did you think love would be?](https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ) | 3:23 | 2026-05-22 |  |
+| [what did you think love would be?](https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [what did you think love would be?](https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ) | 3:20 | 2026-05-22 |  |
 | [what do you need](https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [what do you need](https://open.spotify.com/album/2XfbLj4z1SWkZsg6YfD9Wi) | 2:41 | 2024-05-03 | 2024-07-20 |
 | [What I Gotta Do](https://open.spotify.com/track/74Plt6f5SaJrkQrKRxoCMQ) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [What I Gotta Do](https://open.spotify.com/album/2fl9ez05isjoG6IdqOXUzI) | 1:36 | 2025-05-09 | 2025-09-06 |
 | [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2021-12-15 | 2022-03-12 |

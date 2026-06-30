@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-93 songs - 6 hr 36 min
+94 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Let's go](https://open.spotify.com/track/4uaI8J5stgjiOi8Tmq4o9U) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/5o8ATHooApz4U9coWaM8Cw) | 2:26 | 2025-10-24 |  |
 | [Life Has Changed](https://open.spotify.com/track/7Hxru43JF2kgIxjV0nfTz5) | [Keita Sano](https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn) | [Explosion](https://open.spotify.com/album/6X9sUIrffK2f2zGH6IKxuj) | 9:43 | 2025-10-24 | 2026-02-26 |
 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 | 2025-10-24 |  |
+| [Magnetic](https://open.spotify.com/track/6MVeoJkx0PuobbEe2jlTJb) | [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Magnetic EP](https://open.spotify.com/album/1JOg0FuXrV095Lrl7ias2M) | 5:36 | 2026-06-26 |  |
 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 | 2026-01-23 |  |
 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 | 2025-10-24 |  |
 | [Mizukami](https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r) | [Mizukami](https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV) | 5:32 | 2026-04-08 | 2026-04-28 |
@@ -78,7 +79,7 @@
 | [sign](https://open.spotify.com/track/0mWPg9Zdp9lw6dNxb6F4Nf) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [sign](https://open.spotify.com/album/4HrkFgGt6ijBscyOrFrcjE) | 4:19 | 2026-06-12 |  |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2025-10-24 |  |
 | [Sounds Good](https://open.spotify.com/track/4S8RV91Hrlwl835t0372QU) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sounds Good](https://open.spotify.com/album/5FLunA52rATXNpp7eVk9fo) | 3:32 | 2025-10-24 |  |
-| [Stomping Riddim](https://open.spotify.com/track/2sVZqXvh2wHA83q7IkWCYg) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [Stomping Riddim](https://open.spotify.com/album/4paQJa1Sq0JCcMnvimE9Ke) | 3:27 | 2026-06-26 |  |
+| [Stomping Riddim](https://open.spotify.com/track/2sVZqXvh2wHA83q7IkWCYg) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [Stomping Riddim](https://open.spotify.com/album/4paQJa1Sq0JCcMnvimE9Ke) | 3:27 | 2026-06-26 | 2026-06-30 |
 | [Sunset Girls](https://open.spotify.com/track/4IH5Ner6ZZw7kY8u0OrG3z) | [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [Summer Cutz](https://open.spotify.com/album/4h3n3omyc1zrm5ZZJHJGie) | 3:42 | 2025-10-24 | 2026-01-24 |
 | [SWARMER](https://open.spotify.com/track/29YUKiGMxEvmtXml3egDpE) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SWARMER](https://open.spotify.com/album/0DknbcyRqXrm11Zs1wZps6) | 6:01 | 2026-03-25 | 2026-06-14 |
 | [SynthScale](https://open.spotify.com/track/1rrMHKwuQxT5X0x1jKRi5b) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [SynthScale](https://open.spotify.com/album/4nfP0U9mL528oLcrNrJZBg) | 5:19 | 2025-10-24 | 2026-03-26 |

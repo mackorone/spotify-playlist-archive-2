@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-470 songs - 1 day 5 hr 26 min
+474 songs - 1 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 | 2026-06-18 |  |
 | [Between You, God, the Devil and the Dead](https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Between You, God, the Devil and the Dead](https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV) | 5:39 | 2024-09-19 | 2025-03-14 |
 | [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 | 2024-08-22 | 2024-09-20 |
+| [BIRDS](https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:26 | 2026-06-29 |  |
 | [bitter friend](https://open.spotify.com/track/3qvwWDx9xOH4PmPaTXOj0d) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [EXCESSIVE GUILT](https://open.spotify.com/album/7KeaMmH9Y4ebUiO3dYvhvd) | 1:54 | 2024-08-29 | 2024-09-20 |
 | [Bitter Fruit](https://open.spotify.com/track/5FT5JjlKQuBlrYfLxRfq5p) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Bitter Fruit](https://open.spotify.com/album/0WXBb2QXrD2JaaF7wXgHwV) | 3:17 | 2026-03-23 |  |
 | [Black Mamba](https://open.spotify.com/track/31INWASDAVj7l1smhUNunx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Black Mamba](https://open.spotify.com/album/3YeUoZElR3JzAwNpS8zOa9) | 4:57 | 2025-04-24 | 2025-10-03 |
@@ -207,6 +208,7 @@
 | [Hungry Waters](https://open.spotify.com/track/1FHdnwhNpWbLXVNU5P4oDc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hungry Waters](https://open.spotify.com/album/1GJDu1mFe6vMERKPHTzUmF) | 5:22 | 2024-09-06 | 2024-10-18 |
 | [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 | 2024-11-22 |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-06 | 2024-09-27 |
+| [Hush](https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 3:55 | 2026-06-29 |  |
 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 | 2024-06-27 | 2024-08-02 |
 | [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-13 |  |
 | [I Love It Louder](https://open.spotify.com/track/4ajuLvDss1hpw1ba0UdcFA) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Leo Rising](https://open.spotify.com/album/4lbss43NOjr21GnVNsxUYW) | 3:35 | 2025-11-20 |  |
@@ -314,6 +316,7 @@
 | [Red](https://open.spotify.com/track/6ObVNFIAGmcZX7Wykx0e6h) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Red](https://open.spotify.com/album/67cg1m0SxkTuCkvadzvg7o) | 3:30 | 2024-06-27 | 2025-01-24 |
 | [Red, White and Jersey](https://open.spotify.com/track/3ailGBMR9j635tXSADNwV6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Red, White and Jersey / Hollow Man \(with Bruce Springsteen\)](https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0) | 3:36 | 2025-08-28 | 2025-10-03 |
 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 | 2026-06-18 |  |
+| [reveries feat\. Caskets](https://open.spotify.com/track/4QT1Xn41ijrhoxHaPaCXft) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [dissolution](https://open.spotify.com/album/18pPzxeQhRThpbtj3ydM2m) | 3:40 | 2026-06-29 |  |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-22 | 2025-08-22 |
 | [Roar Like Thunder](https://open.spotify.com/track/2504SqP5lMZIiRKoTkvPUN) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Roar Like Thunder](https://open.spotify.com/album/75D9FDdpYuEj7dp1hMhKIM) | 3:07 | 2025-03-20 | 2025-05-16 |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-27 | 2025-01-24 |
@@ -348,6 +351,7 @@
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-06-27 | 2025-08-15 |
 | [Sleeping My Day Away \- 2009 \- Remaster](https://open.spotify.com/track/5ZuXgk0enEvv2HlnUe2rj3) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [No Fuel Left for the Pilgrims \(2009 \- Remastered\)](https://open.spotify.com/album/1bXJqjBw7YEwk11jQdsvdd) | 4:23 | 2025-11-06 |  |
 | [Sleeping With The Enemy](https://open.spotify.com/track/1hLipkDpW1mAdGlUHl2Zl5) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Sleeping With The Enemy](https://open.spotify.com/album/1szmJLoAH4F1uk0AfSQj66) | 4:06 | 2026-05-29 |  |
+| [Slowly Turning Blue](https://open.spotify.com/track/4YqENY598REOECia70REDu) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU) | [Slowly Turning Blue](https://open.spotify.com/album/4KUu1oPJyk1JRDPrBiVDHw) | 3:42 | 2026-06-29 |  |
 | [Smash It Like Belushi](https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Smash It Like Belushi](https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU) | 2:48 | 2025-04-11 | 2025-05-02 |
 | [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 | 2024-09-06 | 2024-11-15 |
 | [Someone Has to Pay](https://open.spotify.com/track/7vxoiWDRJvivul9JOlrMWy) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Someone Has to Pay](https://open.spotify.com/album/05On1IxfDvhu78R1jYw8Tm) | 4:59 | 2025-11-06 |  |

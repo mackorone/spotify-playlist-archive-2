@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap ❤️‍🔥 with Lizdek
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,802 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,755 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 55 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
 | 56 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
 | 57 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
-| 58 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
-| 59 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 |
+| 58 | [Get Started](https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Get Started](https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI) | 2:56 |
+| 59 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
 | 60 | [RAGE](https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [RAGE](https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios) | 2:25 |
 | 61 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
 | 62 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
-| 63 | [Disaster](https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Disaster](https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f) | 2:51 |
-| 64 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |
+| 63 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |
+| 64 | [Disaster](https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Disaster](https://open.spotify.com/album/1Ky5TyJ72ScYyLhWgyKH8f) | 2:51 |
 | 65 | [MOVE LIKE THAT](https://open.spotify.com/track/72W9jWYJUHu6fGXE3ptqrd) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW) | [MOVE LIKE THAT](https://open.spotify.com/album/0bZDX8qgA2ukz4ijC6iw6b) | 2:20 |
 | 66 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 67 | [LOOK](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 96 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
 | 97 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
 | 98 | [Teeth](https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [JEANLOUIS](https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK) | [Nothing To Lose](https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2) | 3:06 |
-| 99 | [GO!](https://open.spotify.com/track/6mwrQ7UyriEE3P2DVUZzke) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [GO!](https://open.spotify.com/album/2ceqIvXa5nWgTq79Mzeq5t) | 2:21 |
+| 99 | [Thumper](https://open.spotify.com/track/6MhzIGXeWkcEuRJ627wQXj) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Thumper](https://open.spotify.com/album/4J78Kjh86mCTE1VH6rttbi) | 2:19 |
 | 100 | [CIRCLES](https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [CIRCLES](https://open.spotify.com/album/4cIQpUbjCi5J9DpSx3wg0E) | 3:08 |
 
 Snapshot ID: `AAAAAF4UfVGEfg9ZOvsG4gVUxnp6p3Dc`

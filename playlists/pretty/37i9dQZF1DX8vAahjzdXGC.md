@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bernadya, Rony Parulian, Tenxi, Tyler, The Creator, Sombr, Gracie Abrams, Charli xcx, Stray Kids, Heart2Hearts dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,454 likes - 109 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,473 likes - 109 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 35 | [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 |
 | 36 | [Lupakan Dia](https://open.spotify.com/track/1RThQSbV2wdXnphneT0o23) | [Katyana](https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz), [Widuri Puteri](https://open.spotify.com/artist/1uXG9OlJikSujYADQgbRHz) | [Lupakan Dia](https://open.spotify.com/album/2AT6YBYfENRhfCSkhGMFhy) | 3:31 |
 | 37 | [Bad Connection](https://open.spotify.com/track/01jCjvoD62Kxmf6BsFERTp) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Bad Connection](https://open.spotify.com/album/3Lds5O77bMWR62dUPCZ3XC) | 3:25 |
-| 38 | [N/A](https://open.spotify.com/track/5S2qTQ0G7olXvQW0ysCnhO) | [Riku](https://open.spotify.com/artist/08GGf41ZsQYI6RYSjqmBns), [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [N/A](https://open.spotify.com/album/6HG3elejlrIjIQxrWykMg6) | 2:53 |
+| 38 | [N/A](https://open.spotify.com/track/5S2qTQ0G7olXvQW0ysCnhO) | [Riku](https://open.spotify.com/artist/08GGf41ZsQYI6RYSjqmBns), [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp), [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [N/A](https://open.spotify.com/album/6HG3elejlrIjIQxrWykMg6) | 2:53 |
 | 39 | [Cewe Alig](https://open.spotify.com/track/7uZXG8ex5jYxO3mgYJZP7y) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [Cewe Alig](https://open.spotify.com/album/1EfFegtQo6EfhqGGnIrjRa) | 2:41 |
 | 40 | [JEMPUT BAG](https://open.spotify.com/track/331Z30rCMEsAkEYxrupVHi) | [Db Mandala](https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC) | [JEMPUT BAG](https://open.spotify.com/album/6YNnNe1AKVzhb7MIk5y2nq) | 2:53 |
 | 41 | [FUKK UP DA SHOW](https://open.spotify.com/track/47bIcWLz4WDDZxTNrkPYv0) | [Mario Draco](https://open.spotify.com/artist/1KwSZl8qwUAoKGk57dXl0q), [Panjoy](https://open.spotify.com/artist/1HNXUS2C0MAv2mgjtkHuA9), [Kagutsuchi](https://open.spotify.com/artist/4SzcEZxxvO6LfGslidq1mM) | [MARABAHAYA](https://open.spotify.com/album/220K2JKicPfBphzRaf8XTN) | 2:50 |

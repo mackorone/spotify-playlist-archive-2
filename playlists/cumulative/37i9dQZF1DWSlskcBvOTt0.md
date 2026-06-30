@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,142 songs - 3 day 21 hr 9 min
+1,143 songs - 3 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 | 2022-12-02 | 2024-04-19 |
 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 | 2023-11-03 | 2024-11-09 |
 | [Gorah \- Francis Mercier Midnight Mix](https://open.spotify.com/track/6hIWwlyAiwuBjTFUYqFa5c) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Gorah \(Francis Mercier Midnight Mix\)](https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4) | 3:19 | 2024-05-03 | 2025-03-01 |
+| [Gotta Be Cool](https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Gotta Be Cool](https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS) | 3:51 | 2026-06-26 |  |
 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 | 2025-03-21 | 2026-03-14 |
 | [GROOVINU](https://open.spotify.com/track/6lGOcjBAzM0paksRI8FIkH) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [GROOVINU](https://open.spotify.com/album/6qB8AEEnqVOOUsTHu6cIks) | 2:46 | 2026-04-03 |  |
 | [Guessing Game \- Kasango Remix](https://open.spotify.com/track/1GlKHEfeNMkScSZNGdk8Ya) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Guessing Game](https://open.spotify.com/album/0tw983Hdo6I70OPeu8FBNi) | 4:00 | 2024-10-25 | 2024-12-07 |
@@ -790,7 +791,7 @@
 | [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-08 | 2023-10-07 |
 | [Pinie \- Sébastien Léger Remix](https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Pinie \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv) | 8:24 | 2024-08-02 | 2024-12-07 |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |
-| [Places & Spaces](https://open.spotify.com/track/5ZibjIUUEsl7NKwbAHYAjL) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [AVG](https://open.spotify.com/artist/0CxqFWFFJmjGVdphWpJhxo) | [Places & Spaces](https://open.spotify.com/album/4eJFOr28wLZ0jwMWgEnFt9) | 4:30 | 2026-05-29 |  |
+| [Places & Spaces](https://open.spotify.com/track/5ZibjIUUEsl7NKwbAHYAjL) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [AVG](https://open.spotify.com/artist/0CxqFWFFJmjGVdphWpJhxo) | [Places & Spaces](https://open.spotify.com/album/4eJFOr28wLZ0jwMWgEnFt9) | 4:30 | 2026-05-29 | 2026-06-30 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 | 2024-04-19 |
 | [Polar](https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Polar](https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU) | 4:06 | 2024-12-13 | 2025-02-08 |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 | 2023-04-29 |

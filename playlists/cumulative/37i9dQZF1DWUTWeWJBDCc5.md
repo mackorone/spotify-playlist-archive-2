@@ -4,7 +4,7 @@
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Gracie Abrams\)
 
-246 songs - 13 hr 36 min
+249 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Endangered Love](https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [EROS](https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8) | 3:40 | 2025-12-04 | 2026-02-05 |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-12-04 | 2026-02-05 |
 | [ENERGY](https://open.spotify.com/track/3K6yAlZxPch65Xz69S2C8N) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:00 | 2026-04-21 | 2026-04-30 |
+| [Fallin' / Falling](https://open.spotify.com/track/76fHvLzfCPscEi2KlDLZ0a) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Fallin' / Falling](https://open.spotify.com/album/1YAwIohrCO3pkBnNz1AQpb) | 3:33 | 2026-06-29 |  |
 | [Family \(Feat\. THAMA\)](https://open.spotify.com/track/36PJlu7LbBOfbN3nIVsQPE) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Family](https://open.spotify.com/album/3HTihlNuWSPglGitQ7dQ3H) | 4:13 | 2026-05-13 | 2026-06-26 |
 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 | 2026-05-13 | 2026-06-26 |
 | [FAMOUS](https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7) | 3:00 | 2025-12-04 | 2026-02-05 |
@@ -106,6 +107,7 @@
 | [HEARTLESS DARLIN' !](https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [HEARTLESS DARLIN' !](https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr) | 2:53 | 2026-04-29 | 2026-06-13 |
 | [Heaven Can Wait](https://open.spotify.com/track/7zOyWqFGjoSjswmWWDukhA) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Heaven Can Wait](https://open.spotify.com/album/1A4EiE5aWH0s25aIAMNOzD) | 3:28 | 2026-06-21 |  |
 | [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 | 2026-06-25 |  |
+| [Higher](https://open.spotify.com/track/2B8TaI5UMZRGD2yevIB50L) | [Macha](https://open.spotify.com/artist/3bFXatbONkvlFtx0mqN79k) | [Higher](https://open.spotify.com/album/4Vp2511G5p1ULaUjZupB8W) | 3:50 | 2026-06-29 |  |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-15 |  |
 | [Hold onto My Back](https://open.spotify.com/track/0s5xyZNa3emVvY4AqiISQX) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:06 | 2026-06-12 |  |
 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 | 2026-04-29 | 2026-06-13 |
@@ -176,6 +178,7 @@
 | [OMG feat pusha t](https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 2:26 | 2026-06-25 |  |
 | [On such a wonderful night](https://open.spotify.com/track/2nnIHyTZOnFvkYeKeebFvu) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [On such a wonderful night](https://open.spotify.com/album/4f2toQm38HkmoRDWKCM1s7) | 3:33 | 2026-04-29 | 2026-06-13 |
 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 | 2025-12-04 | 2026-02-05 |
+| [OUTSIDE](https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [OUTSIDE](https://open.spotify.com/album/5LkiOqXF3ieFOFEREqlqt7) | 2:51 | 2026-06-29 |  |
 | [Overdrive](https://open.spotify.com/track/1HFcJsOxF3VEUmYM8PpjlQ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 3:14 | 2026-06-21 |  |
 | [Overthink](https://open.spotify.com/track/1FdWqT7Lq7txqwdprHiGYU) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Chicken Soup For One](https://open.spotify.com/album/6fq4UtiHc2Thbq69jUyUQj) | 3:26 | 2026-02-04 | 2026-03-04 |
 | [Playlist \(feat\. Oh Yun\)](https://open.spotify.com/track/7f6L7Fzc6s0lhS7To2mTPy) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Oh Yun](https://open.spotify.com/artist/4CDLDdcillEXvJlBvQkfv3) | [Playlist](https://open.spotify.com/album/1E1niRqU1lkdDgwr2xl51E) | 2:17 | 2026-04-29 | 2026-05-06 |

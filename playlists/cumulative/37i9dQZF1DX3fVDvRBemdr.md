@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Yves Berendse
 
-716 songs - 1 day 10 hr 22 min
+717 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Ciao Bella](https://open.spotify.com/track/0ZloOnyJxaMAvQZzphxur4) | [William Burg](https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y) | [Ciao Bella](https://open.spotify.com/album/0FMnHACMC82LQsydTkC2wE) | 3:40 | 2026-06-11 |  |
 | [Ciao Ciao Amore](https://open.spotify.com/track/6skK7RPjQOZ02HlKgvAoMK) | [Remco Koks](https://open.spotify.com/artist/78TCjgiCJZz8tCUfUVbM9I) | [Ciao Ciao Amore](https://open.spotify.com/album/5QXHryB0ATrELcdlb1vgSv) | 3:15 | 2025-05-29 | 2025-09-12 |
 | [Ciao, Doei, Adios](https://open.spotify.com/track/761xNUBIXQ0tCe9YuDPf8j) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Ciao, Doei, Adios](https://open.spotify.com/album/7KeBYlkgXDPb3jF0HXDRgK) | 2:45 | 2026-05-28 |  |
+| [Circustent](https://open.spotify.com/track/7BV0HlKqsOdUBWSswpqQXe) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Circustent](https://open.spotify.com/album/4z3rk73vWmKRTK5EUbxgmi) | 2:34 | 2026-06-29 |  |
 | [Code Rood](https://open.spotify.com/track/0luT3jn3g1gahcH8jXR0ig) | [Edwin Van Der Toolen](https://open.spotify.com/artist/30V9SaUhU48JzEtGT7x8eI) | [Code Rood](https://open.spotify.com/album/3hfFcSON4sK9aZnFngIQVQ) | 2:27 | 2026-04-16 | 2026-06-12 |
 | [Corry Konings](https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry Konings](https://open.spotify.com/album/11SGzQT6L3M1fsZ7aT1xF4) | 2:38 | 2025-06-26 | 2025-10-24 |
 | [Cubaanse Café](https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Cubaanse Café](https://open.spotify.com/album/0K7LIzZQOHu8ZNqHjDyUps) | 3:15 | 2026-05-28 |  |
@@ -139,7 +140,7 @@
 | [De Hele Wereld Mag Het Weten](https://open.spotify.com/track/6F5lpnzXy4dGno4tBon7UK) | [Hessel en Ineke](https://open.spotify.com/artist/7LpPw5pABrJEwRXWFct2rP) | [De Hele Wereld Mag Het Weten](https://open.spotify.com/album/7MvdWtMXGtnTrzUcFH0Sdp) | 3:01 | 2024-10-10 | 2024-11-29 |
 | [De Hele Wereld Mag Het Weten](https://open.spotify.com/track/5gV2rLuE0JOnE5WltYwCgg) | [Jan Booi](https://open.spotify.com/artist/00fofzfMay7uoCG6Aliw8p) | [De Hele Wereld Mag Het Weten](https://open.spotify.com/album/4o4mKMlOAXMpuIFisFGZBk) | 2:53 | 2024-06-13 | 2024-09-06 |
 | [De Hele Zomer Door](https://open.spotify.com/track/6pzLz6URoWqvxQItEQNuT7) | [Gianluca](https://open.spotify.com/artist/2yL7gNaFIc8VoJeH7GxUkN) | [De Hele Zomer Door](https://open.spotify.com/album/4UMPMSfPgX4MZG3T6jK1VZ) | 2:40 | 2025-07-17 | 2025-09-19 |
-| [De Kater Duurt Maar Even](https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kater Duurt Maar Even](https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI) | 3:06 | 2026-03-19 |  |
+| [De Kater Duurt Maar Even](https://open.spotify.com/track/7GPHLNnHDYV7ojmOQg7Ulq) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [De Kater Duurt Maar Even](https://open.spotify.com/album/5lYeulaTPy4ipBsI2mvlPI) | 3:06 | 2026-03-19 | 2026-06-30 |
 | [De klok die tikt maar door](https://open.spotify.com/track/16tncKUuUJbrC8tLnR8DOj) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [De klok die tikt maar door](https://open.spotify.com/album/14lzSqSagaKE1HU1GLKx9x) | 2:14 | 2026-06-18 |  |
 | [De klok van de toren](https://open.spotify.com/track/008zLVHAuD6dF3cZPpq4hf) | [Harten 10](https://open.spotify.com/artist/2QSyfkQhUfv3XlyqSFiVO0) | [De Klok van de toren](https://open.spotify.com/album/5jVKD5DVzQGOu1Zg7rONAU) | 2:56 | 2025-01-10 | 2025-02-28 |
 | [De Laatste Sirtaki](https://open.spotify.com/track/7AA0oAZ4ugOQQEXFPRyKZ9) | [Susanna Veldmeijer](https://open.spotify.com/artist/2MgUlFmA4sje2WpKCPLavJ) | [De Laatste Sirtaki](https://open.spotify.com/album/03ZYJpajxfNNzBnoiQAaYR) | 2:37 | 2025-05-08 | 2025-08-29 |

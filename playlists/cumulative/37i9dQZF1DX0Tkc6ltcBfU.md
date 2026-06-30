@@ -2,9 +2,9 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: \(R.I.P.\) Tay Keith
+> The hottest out the South\. Cover: T.I.
 
-2,799 songs - 5 day 10 hr 19 min
+2,800 songs - 5 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2022,6 +2022,7 @@
 | [Ran Out](https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Ran Out](https://open.spotify.com/album/0ZGvj7akN44GAG6ZBigTIq) | 2:22 | 2025-03-21 | 2025-08-23 |
 | [Ranchero](https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ranchero](https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4) | 2:55 | 2024-04-26 | 2024-06-01 |
 | [Ransom \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1CaOUy0DDaVrxqzDltzLnk) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [My Vision: Reloaded](https://open.spotify.com/album/6cLGEYguW9BfbGOogusAHZ) | 2:50 | 2023-04-07 | 2023-04-22 |
+| [RANT](https://open.spotify.com/track/3VkcmU2lWinjkMKTPX9Wpr) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [KILL THE KING](https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd) | 3:36 | 2026-06-29 |  |
 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 | 2022-07-15 | 2022-08-20 |
 | [Rap Niggas Pt\. 2](https://open.spotify.com/track/2lziSFLvG4qn161sv5efSn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [MEET THE 6IXERS](https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5) | 2:35 | 2024-05-10 | 2024-05-18 |
 | [Rap Shit](https://open.spotify.com/track/7MnOsyGDL4VsTC7uaE1kK2) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Rap Shit](https://open.spotify.com/album/5c8alv0fCT4PsFaITfECTW) | 2:43 | 2025-07-18 | 2025-07-26 |

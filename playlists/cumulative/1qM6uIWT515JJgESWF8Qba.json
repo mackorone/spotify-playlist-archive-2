@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq"
+      },
+      "artists": [
+        {
+          "name": "Ben Trexel",
+          "url": "https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu"
+        },
+        {
+          "name": "Amanda Willis-Brice",
+          "url": "https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229498,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm"
+    },
+    {
+      "album": {
         "name": "Another Road",
         "url": "https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB"
       },

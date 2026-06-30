@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-517 songs - 1 day 5 hr 16 min
+519 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Break These Chains](https://open.spotify.com/track/3axpdtLJYG1k7lIXCTBWzK) | [Mícheál Hillen](https://open.spotify.com/artist/7fMUnhujgqoUxpLolw4uhG) | [Break These Chains](https://open.spotify.com/album/1ardTUvHlmUNtTOgApTwog) | 2:59 | 2025-11-05 | 2025-12-01 |
 | [Brian and Old Tom](https://open.spotify.com/track/7yyrFEH3eQQK2pL4ynhsge) | [MORRS](https://open.spotify.com/artist/62gqmfoVxMEKTdB426eb4I) | [Brian and Old Tom](https://open.spotify.com/album/1Mcn2OsWWMIvtAdlxNOStf) | 3:57 | 2025-11-17 | 2026-01-05 |
 | [BTC \- Live](https://open.spotify.com/track/2mSsTajIROCRN8Ffri2ZjF) | [Gal\_or](https://open.spotify.com/artist/0j0hVZhTBQrmQNMjyzI0QM), [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Tal Michles](https://open.spotify.com/artist/5qMmNcUwmq0QNJCulxMTQO), [Yair Samoylov](https://open.spotify.com/artist/6lYlIZdEaIKjrhAmwCgZse) | [BTC \(Live\)](https://open.spotify.com/album/3wkU4WU6EXuuAFvGEFWlbc) | 5:19 | 2025-12-20 | 2026-01-15 |
+| [Burn It Faster](https://open.spotify.com/track/3boHJrQo46C772vzvsWXyf) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:45 | 2026-06-29 |  |
 | [business](https://open.spotify.com/track/7GzQsc9DxAnoKr5rSeqJoj) | [Jee Well](https://open.spotify.com/artist/0C6N0y19PZxXkjJgMwAlG2) | [business](https://open.spotify.com/album/5cEvNlLn6x8YkzePWRPv4B) | 3:22 | 2025-11-13 | 2026-01-05 |
 | [butterflies](https://open.spotify.com/track/7AJOj5Rx4WPpgjYWGJXCxk) | [aowwl](https://open.spotify.com/artist/7i3aPBrIsiYtidzMbHjstB) | [butterflies](https://open.spotify.com/album/7q5Dx9VsvGVlGx2VuccTqE) | 1:15 | 2025-11-17 | 2026-01-05 |
 | [By my side](https://open.spotify.com/track/58bKz9rgVZr5Gb4nVAtW4V) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/2zZaNRq6rR1xuKQ5z39uX7) | 5:45 | 2025-11-17 | 2026-01-05 |
@@ -391,6 +392,7 @@
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-11-11 | 2025-12-01 |
 | [Share the Time](https://open.spotify.com/track/4ki7evOfn3UGZrAJWB6mQ1) | [Telmar Basement](https://open.spotify.com/artist/5Ciapx4vtgLVF7JFCrJwxG) | [Refreezer](https://open.spotify.com/album/5Ai7nAjTEBZyglBLmCuhj5) | 2:57 | 2025-12-04 | 2026-01-05 |
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-04-30 | 2026-06-14 |
+| [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 | 2026-06-29 |  |
 | [Shine Again](https://open.spotify.com/track/3gvW1GzMz9ZziCm7oMzxFK) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Shine Again](https://open.spotify.com/album/1EIhHwdJLtXEvXDWtSpjPc) | 3:39 | 2025-12-20 | 2026-01-15 |
 | [Sin aire](https://open.spotify.com/track/5cOfPn6Krz3MKoBiOKDtJV) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Sin aire](https://open.spotify.com/album/51FfR6nXySt8MN06vr84bh) | 2:37 | 2025-11-05 | 2025-12-01 |
 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 | 2026-05-13 | 2026-06-14 |

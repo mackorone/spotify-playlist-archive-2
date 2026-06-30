@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 77 | [The Tension](https://open.spotify.com/track/3TV87ai0hYuDa3W5Y5VWTB) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Umbrella Club \- EP](https://open.spotify.com/album/3GXmtYOUCWsp8nXwdYDrix) | 4:32 |
 | 78 | [Bloody Mind](https://open.spotify.com/track/3Kf2OAACRIMHgertEDBXjp) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Bloody Mind](https://open.spotify.com/album/7fgokPamspJrlCilQsYfdD) | 4:19 |
 | 79 | [Purple Haze](https://open.spotify.com/track/0YRJfcmlQ0zaYmZ5tPMmZR) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Purple E.P.](https://open.spotify.com/album/0ILgg10qHRLTFTjQEkKyIs) | 3:00 |
-| 80 | [Never Alone \- Radio Edit](https://open.spotify.com/track/4rM36Y3iFxwW4j1GBXoVSv) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Never Alone](https://open.spotify.com/album/0X6afcc8D5WXG0Imxg1Tqz) | 3:15 |
-| 81 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 80 | [What Could Possibly Go Wrong?](https://open.spotify.com/track/0xqULsi14wPaXT2p301s4B) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/2ZrlQz1UiDn1pCThyICAeD) | 3:27 |
+| 81 | [Never Alone \- Radio Edit](https://open.spotify.com/track/4rM36Y3iFxwW4j1GBXoVSv) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Never Alone](https://open.spotify.com/album/0X6afcc8D5WXG0Imxg1Tqz) | 3:15 |
 | 82 | [Slower Than Usual](https://open.spotify.com/track/60cx2PZtQvADspR31CS4fo) | [Ariel Beesley](https://open.spotify.com/artist/6dyIDRZBYl5a0Y4SnucOMA) | [Slower Than Usual](https://open.spotify.com/album/4ZXcnFp8XcNsX5RIyq7nCL) | 3:58 |
 | 83 | [The Birds](https://open.spotify.com/track/56Gdp4KNxEE8owRsZvAPuC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [The Birds](https://open.spotify.com/album/1sAcHNDWJsKilDLzxBlBSF) | 2:27 |
 | 84 | [Way Too Good](https://open.spotify.com/track/1E87WkhGXw3iOn5b44NJRr) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:16 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcVdhgAAAADK9KnLXWerMjsePxrsTYp4`
+Snapshot ID: `AcVjJgAAAABejw9x8YrkO1ScsKP2SGLP`

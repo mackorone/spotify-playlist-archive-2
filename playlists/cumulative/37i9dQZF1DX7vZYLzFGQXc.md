@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연정\(YeonJeong\)\) \(Meet the emerging talents of Korea!\)
 
-1,699 songs - 3 day 23 hr 12 min
+1,700 songs - 3 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2022-08-19 |
 | [EAU DE SPRING](https://open.spotify.com/track/2rDD8ISyiF38Ir5bKAPKxC) | [Rosanna](https://open.spotify.com/artist/6tOnTVQNPSTwmDsH7QJ5n6) | [EAU DE SPRING](https://open.spotify.com/album/5iLIVvRmGY4d8eqVvf9fPK) | 4:00 | 2022-04-07 | 2022-05-12 |
 | [Eau de Toilette](https://open.spotify.com/track/48f8OnjJdC3Y0mffvj9Xff) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [Eau de Toilette](https://open.spotify.com/album/0iVG9iExqZp4YPiDwIg3Nh) | 2:19 | 2026-01-16 | 2026-06-25 |
-| [echo](https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [echo](https://open.spotify.com/album/4RTph9mwBNSXPw583WX5OE) | 3:32 | 2026-01-08 |  |
+| [echo](https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [echo](https://open.spotify.com/album/4RTph9mwBNSXPw583WX5OE) | 3:32 | 2026-01-08 | 2026-06-30 |
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-12 | 2025-10-02 |
 | [EGO](https://open.spotify.com/track/3pE0FeyvINMeBxCYN5VeWy) | [swimrabbit](https://open.spotify.com/artist/7klsHI12mBDasOWDaVt5tY), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [EGO/INNOCENCE](https://open.spotify.com/album/2GDngfuDhUG82avU68oBJU) | 3:36 | 2022-10-14 | 2023-02-01 |
 | [embraces 23 \(a shitty love song\)](https://open.spotify.com/track/4TZ3i7Ygmz1CwMpRX7FP0s) | [Asian Boys, Crying](https://open.spotify.com/artist/7v4aEnk9ERqYtpyGWsq28R) | [embraces 23 \(a shitty love song\)](https://open.spotify.com/album/3yX7O3n5VurkIJfTlJ5paf) | 4:30 | 2022-03-17 | 2022-04-21 |
@@ -1153,6 +1153,7 @@
 | [RED ROCKET \(Feat\. MINTAKHA\)](https://open.spotify.com/track/4TC0yFH4ryF1rIZYBBzOOo) | [BLUEICE Key](https://open.spotify.com/artist/6BUjgJA1JpnBk6dmFwmevx), [MINTAKHA](https://open.spotify.com/artist/3WnsvvrzM3jWOgZoZ1YhaU) | [IMAGINATION : unusual](https://open.spotify.com/album/1zt31eNpxHErC5taDZtwaX) | 3:45 | 2023-01-30 | 2023-02-09 |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-18 | 2022-07-15 |
 | [refraction of water](https://open.spotify.com/track/3F5mzzJscBpAkw3NujfC6A) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [refraction of water](https://open.spotify.com/album/4vHbpyloMoR1cTGZGtRE7n) | 3:25 | 2023-10-30 | 2024-04-04 |
+| [REI](https://open.spotify.com/track/7uHUDRvcYrPDYzIm8aupV1) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [REI](https://open.spotify.com/album/17xsihxcNcsGZC1JDhLqvK) | 1:28 | 2026-06-29 |  |
 | [Religion](https://open.spotify.com/track/0CiP9JhVY0aX6e9CRgQNlS) | [Bona Zoe](https://open.spotify.com/artist/1Y0vVGBkBNCcR0swcfXR1z) | [Religion](https://open.spotify.com/album/3SU2nLYJbIW4ZcSJetp0Nl) | 2:23 | 2022-01-27 | 2022-03-03 |
 | [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 | 2026-06-19 |  |
 | [Remember](https://open.spotify.com/track/16AKiyjMzYjrPAngvXj4IM) | [HADA](https://open.spotify.com/artist/26Qs51V9ZUsipI7JOsHHdG) | [When the light that shine on us fades away](https://open.spotify.com/album/3LbGstDmD6sE34YieZ7WIB) | 4:40 | 2023-02-08 | 2023-05-02 |

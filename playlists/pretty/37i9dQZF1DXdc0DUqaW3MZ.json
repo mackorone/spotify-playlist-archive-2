@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 376667,
+  "num_followers": 376689,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-06-25 23:00:15",
       "album": {
-        "name": "The Road To Hell Is Paved With Good Intentions",
-        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 174579,
-      "name": "Turn Me Inside",
-      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2026-06-25 23:00:15",
-      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-06-25 23:00:15",
+      "album": {
+        "name": "The Road To Hell Is Paved With Good Intentions",
+        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 174579,
+      "name": "Turn Me Inside",
+      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
     },
     {
       "added_at": "2026-06-25 23:00:15",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-06-25 23:00:15",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-06-25 23:00:15",
-      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
+    },
+    {
+      "added_at": "2026-06-25 23:00:15",
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
+      },
+      "artists": [
+        {
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-06-25 23:00:15",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-25 23:00:15",
       "album": {
-        "name": "How Many Nights",
-        "url": "https://open.spotify.com/album/6nx9Yb3zNbus9uU2odXjdq"
-      },
-      "artists": [
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "How Many Nights",
-      "url": "https://open.spotify.com/track/3ValHbxPjEd6UuTPQKpj7p"
-    },
-    {
-      "added_at": "2026-06-25 23:00:15",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 200107,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG"
+    },
+    {
+      "added_at": "2026-06-25 23:00:15",
+      "album": {
+        "name": "How Many Nights",
+        "url": "https://open.spotify.com/album/6nx9Yb3zNbus9uU2odXjdq"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "How Many Nights",
+      "url": "https://open.spotify.com/track/3ValHbxPjEd6UuTPQKpj7p"
     },
     {
       "added_at": "2026-06-25 23:00:15",

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Beabadoobee
 
-2,126 songs - 5 day 3 hr 48 min
+2,128 songs - 5 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2023-09-28 | 2023-10-06 |
 | [Fallout \- Reimagined](https://open.spotify.com/track/5WRglege8fY78WiS4D5kym) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Fallout \(Reimagined\)](https://open.spotify.com/album/32RUVBrBxzhAMzLY5JgXl7) | 4:25 | 2024-02-08 | 2024-02-16 |
 | [False Reaction](https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [False Reaction](https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3) | 2:46 | 2026-05-28 |  |
+| [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 | 2026-06-26 |  |
 | [far away from here \- ACT I : The Setup](https://open.spotify.com/track/2WXIVz7W62BqMoYX0k8cm3) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [11](https://open.spotify.com/album/3Wpl5sQURlpSfRKkU4K8Oh) | 3:39 | 2026-06-26 |  |
 | [Farewell For Now](https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Farewell For Now](https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP) | 4:28 | 2023-06-08 | 2023-06-23 |
 | [Favorite Daze](https://open.spotify.com/track/4OOJFZFvuJaaFqizllDcC1) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Favorite Daze](https://open.spotify.com/album/1XE1p6clkBjZ3fix2rfXnc) | 3:26 | 2023-06-30 | 2023-07-14 |
@@ -738,7 +739,7 @@
 | [Glorious](https://open.spotify.com/track/670fDWKpqkG8uwT0rKYwjp) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Glorious](https://open.spotify.com/album/49BkCKiRXVi1Oreyafvnuy) | 3:15 | 2023-12-28 | 2024-01-05 |
 | [GLORIOUS 70](https://open.spotify.com/track/2mdj2hVUfM1hrXyIAITvV0) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [GLORIOUS 70](https://open.spotify.com/album/583osM5zs1Hlqn7IzXYQKt) | 4:05 | 2024-05-09 | 2024-05-17 |
 | [Glorious Day](https://open.spotify.com/track/3hJpl7GUqYf1oozozdExrl) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Glorious Day](https://open.spotify.com/album/0T5vrhvhQFSgQ6a6Mbmw2j) | 2:53 | 2024-02-15 | 2024-02-23 |
-| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 |  |
+| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 | 2026-06-30 |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-09-02 |
 | [Go Man Go](https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Go Man Go](https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s) | 2:16 | 2023-06-30 | 2023-07-07 |
 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 | 2026-04-23 | 2026-05-01 |
@@ -809,7 +810,7 @@
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-03-30 | 2023-09-08 |
 | [Help Me](https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Help Me](https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx) | 2:30 | 2023-07-13 | 2023-07-28 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-09 | 2024-10-04 |
-| [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-16 |  |
+| [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-16 | 2026-06-30 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 | 2025-02-28 |
 | [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 | 2026-05-21 |  |
 | [Hey Bulldog \- 2023 Mix](https://open.spotify.com/track/3iGns07SjzqHZGn6h8FKVS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 3:11 | 2023-11-09 | 2023-12-01 |
@@ -1381,6 +1382,7 @@
 | [Paper Trails \- Live in Paris, June 5, 2023](https://open.spotify.com/track/1tkmbrMhSwb7lQ2czJQOb5) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic \(Expanded\)](https://open.spotify.com/album/6wZnM3aquJUVS7GyuUOoQ8) | 10:13 | 2023-10-19 | 2023-10-27 |
 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 | 2025-08-28 | 2025-11-21 |
 | [Paradise](https://open.spotify.com/track/3QiZHbrhX20RfzSt94XQZY) | [CRYXIS](https://open.spotify.com/artist/0TvrBsWkEvGPLDxAksQRpr) | [Welcome To The PARADISE](https://open.spotify.com/album/3WKKa8xNEl2dGpyZCyNpTs) | 4:06 | 2026-03-05 | 2026-03-20 |
+| [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 | 2026-06-26 |  |
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-22 | 2023-06-30 |
 | [Paralyzed](https://open.spotify.com/track/4QQyHD0xPEHSGha4dExUKH) | [Colours in the Street](https://open.spotify.com/artist/3zlipWQdlIaSD0UytEUeO0), [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Let's Talk](https://open.spotify.com/album/2NNK0NFzBMSEsGrYpJDZwZ) | 4:13 | 2023-07-13 | 2023-07-21 |
 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 | 2024-05-23 | 2024-07-12 |

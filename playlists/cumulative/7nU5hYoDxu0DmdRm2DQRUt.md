@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-503 songs - 2 day 0 hr 29 min
+506 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All Again](https://open.spotify.com/track/2jrzCpf7Ie750KCENF6yDo) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7), [Maya Lempelius](https://open.spotify.com/artist/4fDr9xEBNNgoKOEZDm0gMx) | [NOISEMAKER](https://open.spotify.com/album/2JFUgG7YTu1CfXWLS7It5g) | 3:40 | 2025-02-27 | 2026-01-15 |
 | [All These Worlds, Pt\. II](https://open.spotify.com/track/0vHmagHHveinK2wD8DVZhf) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color, Vol\. 1](https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y) | 3:59 | 2025-01-02 | 2025-11-11 |
 | [All You Children](https://open.spotify.com/track/3cfgisz6DhZmooQk08P4Eu) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 4:14 | 2024-09-20 | 2025-09-06 |
+| [Allein \- Augen Zu Und Durch..\. Remix By Sascha Funke](https://open.spotify.com/track/4E4cGWGC7W1gsIguIFGO73) | [Quarks](https://open.spotify.com/artist/4pOiMsTwEuqoaZrV0Yu3wf), [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [Allein](https://open.spotify.com/album/3jjl9z0w5uvb6GjkFPZ02t) | 6:43 | 2026-06-29 |  |
 | [Alles met de tijd](https://open.spotify.com/track/2JEy2A2rqgBRPhiKfBtDIG) | [Elkan](https://open.spotify.com/artist/69ha6KppaAz1NiRAPisNO1), [Meetsysteem](https://open.spotify.com/artist/2Dsv89oyAH1efJDlgDcXlm) | [Elkan](https://open.spotify.com/album/4A9lv73s1ZCD9FVPbZpT9M) | 4:18 | 2024-09-20 | 2025-09-06 |
 | [Always a Pleasure](https://open.spotify.com/track/6oKDuGDt9ebK44wgYupxUV) | [Brigade](https://open.spotify.com/artist/01fvPLDc345ENWorJWLqV4) | [Unlimited Dreams Corporation](https://open.spotify.com/album/3ZZggnDcLmRknnJxyw6Kvs) | 3:03 | 2025-12-09 |  |
 | [Amants Ennemis](https://open.spotify.com/track/62ihAEgqfEy2FExl6ZfC6X) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Deux Paradis](https://open.spotify.com/album/1QEvMZQr5ufVoSek7rjya0) | 3:34 | 2025-08-21 | 2026-06-19 |
@@ -52,6 +53,7 @@
 | [Atacote](https://open.spotify.com/track/4wdr2xiaVxVe2q8lwenUim) | [Lis Sarroca](https://open.spotify.com/artist/3tH1hoSRmfQvsejUewBC5t) | [Untitled Thoughts](https://open.spotify.com/album/4M3cavyII6kn4dkoiZCVZY) | 6:10 | 2024-11-11 | 2025-09-17 |
 | [Aus Music](https://open.spotify.com/track/1ovYtqvlqc2dhmYGO6Xa6c) | [Mulya](https://open.spotify.com/artist/2PPUUxTpjYJxG3pCQDpDzg) | [Silvio EP](https://open.spotify.com/album/3VOr4AWqAC99DjD8WsMLBr) | 6:17 | 2024-11-25 | 2025-11-11 |
 | [Avian](https://open.spotify.com/track/4rxAfNgwzTjUYrcZfOwiAg) | [VC\-118A](https://open.spotify.com/artist/6bAk1VOoyEqW2QWSlMWthy) | [Avian](https://open.spotify.com/album/1GA0OS0YEE8DpbXtEh2CVj) | 6:23 | 2025-11-04 |  |
+| [B4U](https://open.spotify.com/track/5IbDXgkI6F2Z6srOB8OdKL) | [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [B4U & Tripidi](https://open.spotify.com/album/0FyEXnYBbUYXZt2FuW4ZhQ) | 8:00 | 2026-06-29 |  |
 | [Baby I know what you want \- Ben Kaczor Remix](https://open.spotify.com/track/6G1tFiVApfZiUALXnAjwh3) | [Kat Davids](https://open.spotify.com/artist/10qOd2JJ8dbn0SfzkHIUYs), [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL) | [winterswell](https://open.spotify.com/album/61zNe9jlQRyVAxfgrFIB9U) | 7:24 | 2026-03-20 |  |
 | [Babystar](https://open.spotify.com/track/2jMmnnPkn9Jt3qTozuG2ok) | [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF), [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn) | [Someone Like You](https://open.spotify.com/album/1t7FyWDayNLmotJCGFLMrV) | 5:46 | 2025-07-04 | 2026-06-19 |
 | [Back in the Day](https://open.spotify.com/track/1UgQp5TpSBaRqs0Mfngv9D) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [We Are Together](https://open.spotify.com/album/578nh8ZsyB7z51xv3Gkfr2) | 6:56 | 2025-07-18 | 2026-06-19 |
@@ -77,6 +79,7 @@
 | [BULLA](https://open.spotify.com/track/6cUcO6HoghlUqrUqwKtWcB) | [ARN4L2](https://open.spotify.com/artist/3XQH6EWVBLuA1j9mgcDu3P) | [TIERRA BOMBA](https://open.spotify.com/album/3PpQV9E6uCFTsai1saUC5t) | 4:22 | 2026-04-02 |  |
 | [Burnt Moon](https://open.spotify.com/track/7xzuOAklVpz2yc3SY9aofw) | [Courtney Bailey](https://open.spotify.com/artist/3lkGl12NbdeNBcsjo7coDQ) | [In Dream](https://open.spotify.com/album/25GRcDA8WBHjuIWTyfeEm0) | 3:42 | 2025-11-24 |  |
 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 | 2025-03-10 | 2026-01-15 |
+| [California \- Acid Pauli Remix](https://open.spotify.com/track/6bukRz4s2rmqqcBWs2rDAa) | [Kante](https://open.spotify.com/artist/3uvvx5esPys9Po0bsPrrZS), [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Kante on Acid](https://open.spotify.com/album/4jJ8k2j7hhsf3nqTUWH123) | 4:19 | 2026-06-29 |  |
 | [Call Coco](https://open.spotify.com/track/4A6K9m89CCo5ypCdj3HzHI) | [9OASES](https://open.spotify.com/artist/25FaXN9B5WzG0YFQuUqELp) | [Call Coco](https://open.spotify.com/album/58IuU6xLisIrrajmY8EN4i) | 3:19 | 2025-08-02 | 2026-06-19 |
 | [Call It \- Turbotito Remix](https://open.spotify.com/track/03CC1U9ugT5di4XVaVHVV2) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [The Sunset Manifesto Volume 2](https://open.spotify.com/album/5Qb3xMwzqRADtbOcUye06X) | 5:10 | 2025-07-04 | 2026-06-19 |
 | [Cawuso](https://open.spotify.com/track/5SufPjNEkl797EaQg6WI0y) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena EP](https://open.spotify.com/album/0RlAKqN7uzZr9kaxtPg1fR) | 5:30 | 2025-07-04 | 2026-06-19 |

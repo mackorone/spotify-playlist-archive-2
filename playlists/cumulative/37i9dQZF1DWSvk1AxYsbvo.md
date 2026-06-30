@@ -4,7 +4,7 @@
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-297 songs - 17 hr 14 min
+298 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Absence of you](https://open.spotify.com/track/4z19PamUI2UEEwvNJ2gAqP) | [HYUN JI](https://open.spotify.com/artist/7GE6yEpYcaLM3nRJ2P4MXR) | [Absence of you](https://open.spotify.com/album/6yaOdUq8wwCwFwz3UuH7SC) | 4:20 | 2025-06-09 | 2025-06-17 |
 | [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 | 2025-08-11 |  |
 | [Air Con 에어컨](https://open.spotify.com/track/2MgcZfdQun0WQvp1BIofHL) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Air Con 에어컨](https://open.spotify.com/album/5Qq7LWvoUnJYjuy3Zyg0C8) | 3:05 | 2022-05-03 | 2022-07-18 |
+| [Albedo](https://open.spotify.com/track/4GOykxUL9b9hyHgvRDgz8H) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF), [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 4:22 | 2026-06-29 |  |
 | [All at Sea](https://open.spotify.com/track/0213ZfdsDJ5daAi09oZOH5) | [Ha Yang Su](https://open.spotify.com/artist/0qDdf7110IG0xfOFulWftA) | [All at Sea](https://open.spotify.com/album/0Obk9iicqt7qGuBYcAAVWe) | 3:28 | 2022-08-18 | 2022-10-12 |
 | [all day](https://open.spotify.com/track/2Es42gZ3Rj0F7hOZ5876Go) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/4Kc0FgDjHs0iB3TGSAOoEl) | 3:32 | 2023-08-24 | 2024-04-19 |
 | [all day](https://open.spotify.com/track/4Y8J7oYuDjYfj1dKaiIhBq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [LEEEE](https://open.spotify.com/album/2oosC0NuRLprOFIN87SpYE) | 3:32 | 2022-07-08 | 2022-12-08 |
@@ -234,7 +235,7 @@
 | [Sunshine](https://open.spotify.com/track/7elypRmnPaKr4GgDjyCpwv) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 4:09 | 2022-05-03 | 2022-07-21 |
 | [Sweet Kiss Like Coffee](https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Sweet Kiss Like Coffee](https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5) | 3:54 | 2022-05-03 | 2024-02-02 |
 | [Sweet Kiss Like Coffee \(Feat\. LEE SUNG KYOUNG\)](https://open.spotify.com/track/4Ute9sqbRdX61EkTKXAXl6) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Sweet Kiss Like Coffee \(Feat\. LEE SUNG KYOUNG\)](https://open.spotify.com/album/17WOhbcXnYRHLHUmWfLBG4) | 3:54 | 2023-11-04 | 2024-04-19 |
-| [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-09 |  |
+| [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-09 | 2026-06-30 |
 | [Sweet Slumber](https://open.spotify.com/track/2bMVXt4vhTACRdzp2XvVnY) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Vagabonder](https://open.spotify.com/album/1lwo089FNLgVLhmBJe5pDI) | 2:45 | 2025-12-03 | 2026-01-17 |
 | [Sweetbitter](https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Young Lover](https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q) | 2:54 | 2025-11-06 |  |
 | [swimming to you \(with Jaehyuk Shin\)](https://open.spotify.com/track/17i92672sFgl7QMGhIOeOM) | [Somseori](https://open.spotify.com/artist/3EPOdIgYA9mQ7pCuy5IkWq), [Shin Jaehyuk](https://open.spotify.com/artist/6TNvBd7R1YGiNqVZdJ1gNc) | [swimming to you \(with Jaehyuk Shin\)](https://open.spotify.com/album/3N3Zib5i9ZVUoOQc1fIFrR) | 3:23 | 2024-09-23 | 2024-11-08 |

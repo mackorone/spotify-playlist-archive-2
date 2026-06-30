@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78363,
+  "num_followers": 78365,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Sad Piano House",
+        "url": "https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 305010,
+      "name": "Sad Piano House",
+      "url": "https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Dragon",
         "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 181099,
       "name": "Dragon",
       "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Sad Piano House",
-        "url": "https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 305010,
-      "name": "Sad Piano House",
-      "url": "https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9"
     },
     {
       "added_at": "2025-12-03 12:15:55",

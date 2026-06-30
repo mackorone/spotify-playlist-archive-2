@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 19842,
+  "num_followers": 19980,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Free Money",
-      "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Can't Stand The Rezillos: The [Almost] Complete Rezillos",
         "url": "https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 114240,
       "name": "Somebody's Gonna Get Their Head Kicked in Tonight",
       "url": "https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Free Money",
+      "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv"
     },
     {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Calculated",
+        "url": "https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB"
+      },
+      "artists": [
+        {
+          "name": "Heavens To Betsy",
+          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
+        }
+      ],
+      "duration_ms": 117733,
+      "name": "Terrorist",
+      "url": "https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6"
+    },
+    {
       "added_at": "2026-03-17 18:41:04",
       "album": {
         "name": "Nina Hagen Band",
@@ -951,22 +967,6 @@
       "duration_ms": 210051,
       "name": "Unbeschreiblich Weiblich",
       "url": "https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
-        "name": "Calculated",
-        "url": "https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB"
-      },
-      "artists": [
-        {
-          "name": "Heavens To Betsy",
-          "url": "https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ"
-        }
-      ],
-      "duration_ms": 117733,
-      "name": "Terrorist",
-      "url": "https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "The Refrigerator",
-        "url": "https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR"
-      },
-      "artists": [
-        {
-          "name": "Remember Sports",
-          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Across The Line",
-      "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "NVM",
         "url": "https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 123328,
       "name": "Crimson Wave",
       "url": "https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "The Refrigerator",
+        "url": "https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR"
+      },
+      "artists": [
+        {
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Across The Line",
+      "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Demo 2015",
         "url": "https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 114624,
       "name": "Outcast Stomp",
       "url": "https://open.spotify.com/track/7x2JpcsehK3idTXuzsimLJ"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
     },
     {
       "added_at": "2026-03-05 23:16:41",

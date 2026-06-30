@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Hammer Head Shark
 
-3,567 songs - 9 day 9 hr 51 min
+3,568 songs - 9 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Asa No Uta](https://open.spotify.com/track/1wbnJ1AQ3xDXdk3nM9VpOd) | [Kanae](https://open.spotify.com/artist/3QE2AefsoyvHTdUxGMv5pq) | [Asa No Uta](https://open.spotify.com/album/1pRAOb82BQgt7Peve8YSen) | 2:23 | 2026-05-19 | 2026-06-24 |
 | [ASOBO](https://open.spotify.com/track/7IQan4WbmdsftXYOD2W3iT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ASOBO](https://open.spotify.com/album/0v89xmGKz3kGktmRHDPnv5) | 3:28 | 2025-03-18 | 2025-07-09 |
 | [Assaji](https://open.spotify.com/track/7tq3hGN4cKQq9BSRJDtaRc) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [nobori](https://open.spotify.com/album/0CoXvmN1olFtTgZTk1txde) | 2:10 | 2024-01-11 | 2024-01-24 |
+| [Astral Echoes](https://open.spotify.com/track/5nhoNdUY4sYcfvopWe1YDU) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Astral Echoes](https://open.spotify.com/album/4wImhSuCq3gf5OUe8HKYSz) | 5:33 | 2026-06-29 |  |
 | [Astroswing](https://open.spotify.com/track/6bsDAWeneq2lQUnVyAU0cI) | [Ogawa & Tokoro](https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA) | [Astroswing](https://open.spotify.com/album/7Mcmf6CowVfAh4XnJQbW4H) | 5:43 | 2023-07-25 | 2023-08-16 |
 | [Atlantic Ocean](https://open.spotify.com/track/0NZ1WA4wLJgbdpVrHyZ6cs) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/2OTZ3ap5ScBuOVHz4ksfyE) | 2:39 | 2023-10-05 | 2023-10-11 |
 | [Atlantic Ocean](https://open.spotify.com/track/4ht2BBpRPK0xH77b2uV6V6) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/5Ti7cLVIqXn9W6dciR2gzv) | 2:39 | 2023-10-05 | 2023-10-07 |
@@ -2318,7 +2319,7 @@
 | [Y・U・R・A・I](https://open.spotify.com/track/7bOW2XisqY0PNLP1T0Zed6) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [Y・U・R・A・I](https://open.spotify.com/album/5AJtgPcaqSM2R9jBZ4TA73) | 3:14 | 2023-06-13 | 2023-06-21 |
 | [Zero](https://open.spotify.com/track/7r0U4MVBcnW5IwTFyobyOZ) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [ZERO](https://open.spotify.com/album/15Hk4OVqrIY6iwbNA5ODRq) | 3:49 | 2025-10-14 | 2025-10-29 |
 | [Zest](https://open.spotify.com/track/3rohG04D4MnPeVCanbJA3G) | [wala.collective](https://open.spotify.com/artist/7eemBtJuL38427DQ0v1JLi) | [Zest](https://open.spotify.com/album/3Y55ddsXYYnua81BNBpBeQ) | 3:02 | 2025-09-16 | 2025-10-01 |
-| [Zombie Love](https://open.spotify.com/track/4uS0AtrhWcK32gsO1cdKcl) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [Zombie Love](https://open.spotify.com/album/465LATKKQ7U9Bo2krng7yE) | 2:10 | 2026-05-19 |  |
+| [Zombie Love](https://open.spotify.com/track/4uS0AtrhWcK32gsO1cdKcl) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [Zombie Love](https://open.spotify.com/album/465LATKKQ7U9Bo2krng7yE) | 2:10 | 2026-05-19 | 2026-06-30 |
 | [¿](https://open.spotify.com/track/3w21x9HAkwygqrEHRPurcc) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [All the places \(I have ever slept\)](https://open.spotify.com/album/00vQgqMmhyI2sXnHYlZBZN) | 4:12 | 2025-02-18 | 2025-02-26 |
 | [Ça va](https://open.spotify.com/track/6rDYPgH1F0dBMB1v51T6nl) | [BurnQue](https://open.spotify.com/artist/1hs2riuyJ0fKBza9EqwS7n) | [Ça va / 歌のうまれるところ](https://open.spotify.com/album/2sffRItvGSsc7YYRbVTEmg) | 6:16 | 2026-02-17 | 2026-02-25 |
 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 | 2023-02-02 | 2023-03-29 |

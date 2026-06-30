@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,858 likes - 88 songs - 5 hr 57 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,859 likes - 92 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 86 | [No es pecado](https://open.spotify.com/track/0G6a9gaWPPFsmu3Cb9hMpx) | [Gal Baliero](https://open.spotify.com/artist/3IuWLDPy58I11hj2tOsn7M), [Isaac Gomez](https://open.spotify.com/artist/6OP5rawJOEJ3SGN6up8zOW), [Jacksa Suazo](https://open.spotify.com/artist/7rwpfamWDwfJ6F26zue6LV), [Banda Pope Joan](https://open.spotify.com/artist/1xG6VbKG0O3HUAhbu6UbR5) | [Pope Joan Sinfónico](https://open.spotify.com/album/2TvI5ziSqPflqifuBbcQbf) | 4:38 |
 | 87 | [Love Me Back](https://open.spotify.com/track/5Gj6ULpZ8A7UuPWWqdHBbM) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Love Me Back](https://open.spotify.com/album/0MkfpV7NcjQbXOpq0SMa3z) | 3:22 |
 | 88 | [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 |
+| 89 | [Cool Beans](https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d) | [Lovechild](https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU) | [Cool Beans](https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6) | 3:53 |
+| 90 | [NOW AND THEN](https://open.spotify.com/track/0AXW91Bnp70uE8O0wyeqGk) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [NOW AND THEN](https://open.spotify.com/album/51igHu0IiPb0HIWutsqHzX) | 2:42 |
+| 91 | [Lay Down Your Arms](https://open.spotify.com/track/7nWjyT8LzLPoY5iDZSBzvE) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade \(Japan Edition\)](https://open.spotify.com/album/11Yy2KflENJe5ohjIIcVsm) | 4:27 |
+| 92 | [One Way Ticket](https://open.spotify.com/track/4xSvbsAmTdRAybIlgSxmgm) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [One Way Ticket](https://open.spotify.com/album/05AC5D5nHXEdMa2Sq0k2Hd) | 3:58 |
 
-Snapshot ID: `AAAL0bHCFmSbCGXtft+rw/6R3ESw4CBM`
+Snapshot ID: `AAAL1Xwu16Hkks8cN7M1KcmzbV4VYYW0`

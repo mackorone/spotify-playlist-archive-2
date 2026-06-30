@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future of Pakistani music ♥️ Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,515 likes - 82 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,516 likes - 82 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Woh](https://open.spotify.com/track/1GDJhAiO9tqjMuDWFad0IF) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Woh](https://open.spotify.com/album/2tbamcNG4xK0jKrd1lSzXX) | 3:57 |
 | 2 | [Kami](https://open.spotify.com/track/6xA10nNluk8fggCxN1hoI7) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Kami](https://open.spotify.com/album/4RVPpahSbyKptR5HNyXBqZ) | 4:00 |
-| 3 | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Damsaaz](https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i), [Shahid Hussain](https://open.spotify.com/artist/1P94Xkn1NMWS1uK4uGJ1x5) | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY) | 8:19 |
+| 3 | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Damsaaz](https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i), [Shahid Hussain](https://open.spotify.com/artist/1wadN23m2ThzgO3bGdRFCL) | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY) | 8:19 |
 | 4 | [Yung Money](https://open.spotify.com/track/5AhLbtL9gzUJ4Na9V1A9oP) | [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Raza](https://open.spotify.com/artist/522dF8hRyQ3b0jypJfUDQW), [Azan Ali](https://open.spotify.com/artist/0V5VTIpWy4tsz3XienFcxJ) | [birds in the trap](https://open.spotify.com/album/4vzcWip8QHisJ2hbszZ11y) | 3:14 |
 | 5 | [Hona Wohi Hai](https://open.spotify.com/track/3dgtKDaHJ3TWDlaGqJcvtB) | [Third Fret](https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Hona Wohi Hai](https://open.spotify.com/album/0yvCUenUQBs5jIQC89Nqjm) | 2:53 |
 | 6 | [Pasoori](https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Pasoori](https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h) | 3:44 |

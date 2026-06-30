@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-248 songs - 12 hr 9 min
+249 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Without Your Love](https://open.spotify.com/track/6aln4oo2dKzZtkaAfsnmDs) | [Loreno Mayer](https://open.spotify.com/artist/1LheHu54nfIS8DahCd1HqL), [Quizzow](https://open.spotify.com/artist/7c0dWC7MBwDJN6za0fmFTa), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 2:50 | 2025-07-04 | 2025-07-31 |
 | [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2025-07-04 |  |
 | [World Comes Undone](https://open.spotify.com/track/7FkHbXxJoX6vx5M69wZLFh) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 3:32 | 2025-07-04 |  |
+| [Yee \- Dr Phunk Remix](https://open.spotify.com/track/4jZQvhKDhvd4RmATRYCech) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Yee \(Dr Phunk Remix\)](https://open.spotify.com/album/3I5E3G7S5ygMDuuAExLVIk) | 2:15 | 2026-06-29 |  |
 | [You Like It Rough \(feat\. Lee McKing\)](https://open.spotify.com/track/08oJNlCDLWglZcbLNMuQ3J) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Lee McKing](https://open.spotify.com/artist/6gjwMfbDEX2vTmjsbiHJHK) | [You Like It Rough \(feat\. Lee McKing\)](https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km) | 2:36 | 2025-07-04 | 2026-02-28 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

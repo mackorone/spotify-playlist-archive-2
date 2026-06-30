@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118059,
+  "num_followers": 2118023,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "The Swell",
+        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 207959,
+      "name": "The Swell",
+      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 262066,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -659,22 +675,6 @@
       "duration_ms": 277293,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
-        "name": "The Swell",
-        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 207959,
-      "name": "The Swell",
-      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 321431,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Out of My Head",
         "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 212945,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 321431,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Venus in the Zinnia",
-        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        },
-        {
-          "name": "H. Hawkline",
-          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
-        }
-      ],
-      "duration_ms": 197372,
-      "name": "Venus in the Zinnia",
-      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -1155,6 +1135,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "OptiMYSTIC",
+        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 232754,
+      "name": "OptiMYSTIC",
+      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -1175,6 +1171,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 233039,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
@@ -1191,18 +1203,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
         }
       ],
-      "duration_ms": 233039,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1323,22 +1339,6 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
-        "name": "OptiMYSTIC",
-        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 232754,
-      "name": "OptiMYSTIC",
-      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "First In Flight",
+        "url": "https://open.spotify.com/album/6BIZW2xysaiv1S797EreWd"
+      },
+      "artists": [
+        {
+          "name": "Don McCloskey",
+          "url": "https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH"
+        }
+      ],
+      "duration_ms": 221498,
+      "name": "First In Flight",
+      "url": "https://open.spotify.com/track/1CAgLQ0ucxEJYfEYAS83jA"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Calm Yourself Down",
         "url": "https://open.spotify.com/album/5xx8BTKXLgkOlXbaAwTS66"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 195803,
       "name": "Calm Yourself Down",
       "url": "https://open.spotify.com/track/5Bdmiyetb619RJdTPkEKLc"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
-        "name": "First In Flight",
-        "url": "https://open.spotify.com/album/6BIZW2xysaiv1S797EreWd"
-      },
-      "artists": [
-        {
-          "name": "Don McCloskey",
-          "url": "https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH"
-        }
-      ],
-      "duration_ms": 221498,
-      "name": "First In Flight",
-      "url": "https://open.spotify.com/track/1CAgLQ0ucxEJYfEYAS83jA"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -1963,6 +1963,22 @@
       "duration_ms": 219725,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
+        "name": "A Million Lives",
+        "url": "https://open.spotify.com/album/644mTTjWRde8EO5vw3Nfz6"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 195736,
+      "name": "A Million Lives",
+      "url": "https://open.spotify.com/track/2mlbJn0yefGc15LVcbjtW1"
     },
     {
       "added_at": "2026-06-26 04:01:32",
@@ -2119,22 +2135,6 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
-        "name": "A Million Lives",
-        "url": "https://open.spotify.com/album/644mTTjWRde8EO5vw3Nfz6"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 195736,
-      "name": "A Million Lives",
-      "url": "https://open.spotify.com/track/2mlbJn0yefGc15LVcbjtW1"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
         "name": "My Own",
         "url": "https://open.spotify.com/album/5Kz5Dir1rDiLh9g0A5SwRC"
       },
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
+    },
+    {
+      "added_at": "2026-06-26 04:01:32",
+      "album": {
         "name": "Keep On Dreamin'",
         "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
       },
@@ -2283,22 +2299,6 @@
       "duration_ms": 258079,
       "name": "Becoming All Alone",
       "url": "https://open.spotify.com/track/5j5pE7RwYw7Au1UeHpYpqS"
-    },
-    {
-      "added_at": "2026-06-26 04:01:32",
-      "album": {
-        "name": "Gold in California",
-        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 214752,
-      "name": "Gold in California",
-      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
     },
     {
       "added_at": "2026-06-26 04:01:32",

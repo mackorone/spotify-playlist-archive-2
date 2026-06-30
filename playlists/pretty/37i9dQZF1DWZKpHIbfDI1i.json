@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. DANNA y El Malilla en portada ",
-  "num_followers": 853551,
+  "num_followers": 853635,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "PASE Y PASE",
-        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 181149,
-      "name": "PASE Y PASE",
-      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
         "name": "DINAST\u00cdA (DELUXE)",
         "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 165949,
       "name": "ganga",
       "url": "https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
+        "name": "PASE Y PASE",
+        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 181149,
+      "name": "PASE Y PASE",
+      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 172997,
+      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "Norte\u00f1a",
         "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
       },
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        }
-      ],
-      "duration_ms": 172997,
-      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
         "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
         "url": "https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
+        "name": "HIJO DE P",
+        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "HIJO DE P",
+      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
         "name": "Ni\u00f1a Bien (SLS-007)",
         "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 133100,
       "name": "Ni\u00f1a Bien (SLS-007)",
       "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "HIJO DE P",
-        "url": "https://open.spotify.com/album/5QFjECtvdCEB4XVJAOWCFY"
-      },
-      "artists": [
-        {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
-        }
-      ],
-      "duration_ms": 181132,
-      "name": "HIJO DE P",
-      "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1395,22 +1395,34 @@
     {
       "added_at": "2026-06-26 06:00:40",
       "album": {
-        "name": "\u00a1Que Viva Antonio Aguilar!",
-        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+        "name": "Bandido Estrella",
+        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 257698,
-      "name": "El Alaz\u00e1n Y El Rosillo",
-      "url": "https://open.spotify.com/track/2hx4u90yWV4tNzd6IdAO2w"
+      "duration_ms": 188273,
+      "name": "Bandido Estrella",
+      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
+    },
+    {
+      "added_at": "2026-06-26 06:00:40",
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "added_at": "2026-06-26 06:00:40",
@@ -1427,22 +1439,6 @@
       "duration_ms": 153085,
       "name": "Se Busca Plebita",
       "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
-    },
-    {
-      "added_at": "2026-06-26 06:00:40",
-      "album": {
-        "name": "Bandido Estrella",
-        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 188273,
-      "name": "Bandido Estrella",
-      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
     }
   ],
   "unique_name": "Top M\u00e9xico",

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60297,
+  "num_followers": 60304,
   "original_name": "Compact Cassette (Spring 2026)",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABI737LUg4mFLfPHsUDqwjnyGoKUIk7",
+  "snapshot_id": "AABI8PRdZpIzGTKpNq7CbmFOgBHKw04W",
   "tracks": [
     {
       "added_at": "2026-06-28 15:37:20",
@@ -179,38 +179,6 @@
       "duration_ms": 177375,
       "name": "Down on Love",
       "url": "https://open.spotify.com/track/1e6yeX2wyy6DYGPdfvzl2O"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
-        "name": "\\ (^_^) /",
-        "url": "https://open.spotify.com/album/1RVHQ8ix8rKX5Zx4oXZacg"
-      },
-      "artists": [
-        {
-          "name": "Cold Court",
-          "url": "https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Cola",
-      "url": "https://open.spotify.com/track/4kIO02fD6JA2mP3xzlqys8"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
-        "name": "eyes of the well + joule",
-        "url": "https://open.spotify.com/album/4pS8cVTfCxNFFUgdx7TS4B"
-      },
-      "artists": [
-        {
-          "name": "dilute_calico98",
-          "url": "https://open.spotify.com/artist/6B6DUCXa5mpnviu6oo4sUS"
-        }
-      ],
-      "duration_ms": 218451,
-      "name": "eyes of the well",
-      "url": "https://open.spotify.com/track/5DfV6ORweZovfXxQeTKHNm"
     },
     {
       "added_at": "2026-06-28 15:37:20",
@@ -491,6 +459,38 @@
       "duration_ms": 257813,
       "name": "Dog in the House of Plenty",
       "url": "https://open.spotify.com/track/1blKVaFYoyyF92PzN5S5T4"
+    },
+    {
+      "added_at": "2026-06-28 15:37:20",
+      "album": {
+        "name": "\\ (^_^) /",
+        "url": "https://open.spotify.com/album/1RVHQ8ix8rKX5Zx4oXZacg"
+      },
+      "artists": [
+        {
+          "name": "Cold Court",
+          "url": "https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cola",
+      "url": "https://open.spotify.com/track/4kIO02fD6JA2mP3xzlqys8"
+    },
+    {
+      "added_at": "2026-06-28 15:37:20",
+      "album": {
+        "name": "eyes of the well + joule",
+        "url": "https://open.spotify.com/album/4pS8cVTfCxNFFUgdx7TS4B"
+      },
+      "artists": [
+        {
+          "name": "dilute_calico98",
+          "url": "https://open.spotify.com/artist/6B6DUCXa5mpnviu6oo4sUS"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "eyes of the well",
+      "url": "https://open.spotify.com/track/5DfV6ORweZovfXxQeTKHNm"
     },
     {
       "added_at": "2026-06-28 15:37:20",

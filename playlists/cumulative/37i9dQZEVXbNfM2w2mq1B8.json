@@ -8380,7 +8380,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -17564,7 +17564,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -19966,7 +19966,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 203200,
       "name": "KVARTALA",
       "url": "https://open.spotify.com/track/1eiLhg7YvZWZhSU0a1E4XP"
@@ -24886,7 +24886,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 265405,
       "name": "MUZIKALNATA KAZARMA",
       "url": "https://open.spotify.com/track/26vinvuUSZ6QQDqbYSLVcz"
@@ -25578,7 +25578,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -26384,7 +26384,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 220868,
       "name": "Notarialno zaveren",
       "url": "https://open.spotify.com/track/0rzlD9CNQ5XIGD58r799Ov"
@@ -26830,7 +26830,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -27136,7 +27136,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 204923,
       "name": "OPA OPA",
       "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
@@ -41854,7 +41854,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 189080,
       "name": "Yako mi e",
       "url": "https://open.spotify.com/track/55ly0w81L3r7MicGng6QiS"
@@ -42896,7 +42896,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 188415,
       "name": "\u0411\u0415\u0414\u041d\u0418 \u0418 \u0411\u041e\u0413\u0410\u0422\u0418",
       "url": "https://open.spotify.com/track/1R4hFeBjHwxZniSxxz3bSB"
@@ -43702,7 +43702,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -48758,7 +48758,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 173809,
       "name": "\u041f\u044a\u043b\u0435\u043d \u0446\u0438\u0440\u043a",
       "url": "https://open.spotify.com/track/0L0WVT6c9eqoO5rwfdqo3L"
@@ -48896,7 +48896,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/0HhOMHYqSbjz9SO2mnYyMS"
@@ -49992,6 +49992,24 @@
       "duration_ms": 508338,
       "name": "\u0422\u0440\u0438\u043b\u043e\u0433\u0438\u044f (Trilogy)",
       "url": "https://open.spotify.com/track/2jEgS0xLFvmoBDk43ZcPpp"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0440\u043e\u0445\u0430\u0440\u0438",
+        "url": "https://open.spotify.com/album/274BbOmwyj5CgTapkkjOdL"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "\u0422\u0440\u043e\u0445\u0430\u0440\u0438",
+      "url": "https://open.spotify.com/track/1qYrzuJ2VG4VObo5OQNexY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: JBS, BUNT.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,284 likes - 81 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,296 likes - 81 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 51 | [State Of Mind \(with Camden Cox\)](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind \(with Camden Cox\)](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 52 | [Längst vergessen](https://open.spotify.com/track/5URRmBhwXNBscIDVohdsf9) | [Laserkraft 3D](https://open.spotify.com/artist/3jWOrBU2ds29JvnlB5ex2t), [Derya Akyol](https://open.spotify.com/artist/2HsKzWVBrr58OTiNo46gYV) | [Längst vergessen](https://open.spotify.com/album/0DNlE5wHHAaNJiBREhFshv) | 2:36 |
 | 53 | [feelin' fine](https://open.spotify.com/track/3djzoCW9uxQFwqXNYEOa3k) | [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [feelin' fine](https://open.spotify.com/album/1ZYjOkLfn9pEMzg2Ge31zO) | 2:45 |
-| 54 | [nie schön genug \(Bengio Edit\)](https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [Bengio](https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3) | [nie schön genug](https://open.spotify.com/album/1CM9BgAsbMrUsFM4ZCBwnU) | 2:35 |
+| 54 | [nie schön genug](https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [Bengio](https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3) | [nie schön genug](https://open.spotify.com/album/1CM9BgAsbMrUsFM4ZCBwnU) | 2:35 |
 | 55 | [Spielplatz](https://open.spotify.com/track/5FtOk7oX7mxyKzhpWNKjde) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx) | [Spielplatz](https://open.spotify.com/album/4rTSIKskz9bl8ItPtNp1E2) | 2:13 |
 | 56 | [The Past, The Present, The Future](https://open.spotify.com/track/1Cp8mfSFvYo7ddTy7NkmpL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Men Machine](https://open.spotify.com/artist/7zoHSez9dJIUMkvgxvM0Z2) | [Men Machine EP](https://open.spotify.com/album/1FDbMjE2YKFJTEAcSicacm) | 3:13 |
 | 57 | [Slow Down](https://open.spotify.com/track/1WNWws1Kil8Ct4ZLvy6gtu) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Slow Down](https://open.spotify.com/album/70Z2shPYw9nm8BypfqDL6G) | 2:49 |

@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LEE SEUNG YOON(\uc774\uc2b9\uc724)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250879,
+  "num_followers": 250913,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-06-26 09:00:43",
       "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2026-06-26 09:00:43",
+      "album": {
         "name": "can't love (feat. HAN (Stray Kids))",
         "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 195000,
       "name": "can't love (feat. HAN (Stray Kids))",
       "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
-    },
-    {
-      "added_at": "2026-06-26 09:00:43",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
       "added_at": "2026-06-26 09:00:43",

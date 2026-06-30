@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,316 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,325 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 25 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 26 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
 | 27 | [De Leeuw Komt Eraan](https://open.spotify.com/track/28GAHI5g37JbdtdwcTyfI7) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [De Leeuw Komt Eraan](https://open.spotify.com/album/2cYpryI2g6eu20whof2VI8) | 2:14 |
-| 28 | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Punta cana \(feat\. ADF Antje, Trapmoneybiggie & Carel\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
+| 28 | [Punta cana \(feat\. ADF Antje & Trapmoneybiggie\)](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv) | [Punta cana \(feat\. ADF Antje & Trapmoneybiggie\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
 | 29 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 30 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 |
 | 31 | [Hoog](https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Kameleon](https://open.spotify.com/album/0gA7TgT0bz0hBgsUOevoKz) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 49 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 50 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
 
-Snapshot ID: `MdSZ2AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MdXpAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 181706,
+  "num_followers": 181728,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Zo\u00e9",
-        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 329573,
-      "name": "Deja Te Conecto",
-      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "HU HU HU",
         "url": "https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 393453,
       "name": "Azul",
       "url": "https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Zo\u00e9",
+        "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "Deja Te Conecto",
+      "url": "https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Bengala",
-        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
-      },
-      "artists": [
-        {
-          "name": "Bengala",
-          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hola Chicuelos",
         "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 244933,
       "name": "Al\u00f3",
       "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Bengala",
+        "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Historias De Un Cowboy",
-        "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
-      },
-      "artists": [
-        {
-          "name": "Los Marty",
-          "url": "https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx"
-        }
-      ],
-      "duration_ms": 166504,
-      "name": "Miente",
-      "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 173106,
       "name": "Los Bajos Fondos",
       "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Historias De Un Cowboy",
+        "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
+      },
+      "artists": [
+        {
+          "name": "Los Marty",
+          "url": "https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx"
+        }
+      ],
+      "duration_ms": 166504,
+      "name": "Miente",
+      "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "The Future Sugar",
-        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
-      },
-      "artists": [
-        {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Alexander",
-      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Happy-fi Compilaci\u00f3n Vol. 3",
         "url": "https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 173840,
       "name": "No Coke",
       "url": "https://open.spotify.com/track/2WuSTAv5e782MlJvNkzSXU"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "The Future Sugar",
+        "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Alexander",
+      "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
     },
     {
       "added_at": "2023-09-01 16:42:45",

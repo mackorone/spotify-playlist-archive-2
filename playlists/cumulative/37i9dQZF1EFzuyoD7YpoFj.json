@@ -12528,10 +12528,28 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 319160,
       "name": "Wedding Cake Walk",
       "url": "https://open.spotify.com/track/5mJTMq8pB7xXuy21vXtk7V"
+    },
+    {
+      "album": {
+        "name": "Sex Symbol - Rita Hayworth",
+        "url": "https://open.spotify.com/album/6wjGfbQn28E1NTMgyPvtc9"
+      },
+      "artists": [
+        {
+          "name": "Rita Hayworth",
+          "url": "https://open.spotify.com/artist/24u2lWQYyTWB7VUTnwEavi"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293640,
+      "name": "Wedding Cake Walk",
+      "url": "https://open.spotify.com/track/3OY79KhLUGszJxMlAntvoS"
     },
     {
       "album": {

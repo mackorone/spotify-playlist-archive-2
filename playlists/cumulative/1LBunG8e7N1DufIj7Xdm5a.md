@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,481 songs - 9 day 23 hr 52 min
+4,483 songs - 9 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,6 +1022,7 @@
 | [Digital Obsession](https://open.spotify.com/track/7hF1H841KLBG12IjwPSZfq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 3:01 | 2025-09-19 |  |
 | [Digital Stardust](https://open.spotify.com/track/5PTFBdlod2bi5Jxv7U9SYM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 2:47 | 2025-09-12 |  |
 | [Digital Stardust \(another\)](https://open.spotify.com/track/1HiQzQgt8Gh9a3G0Hun3JN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 3:03 | 2025-09-12 |  |
+| [Dil Banjara](https://open.spotify.com/track/13b7r0ioPRxL8D1QCdfo0C) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Banjara](https://open.spotify.com/album/1wiGzAI2FYVNW07Ur8DU9b) | 3:26 | 2026-06-29 |  |
 | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H) | 3:57 | 2026-05-26 |  |
 | [Dil Ye Dhadakta Hi Nahin \- Reprise](https://open.spotify.com/track/55rkCD94THKPTUvsuifkq8) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm) | 4:36 | 2026-05-27 |  |
 | [Diluvio universale](https://open.spotify.com/track/6msU8Qt2FZ2HRuaLp51iAW) | [Artika](https://open.spotify.com/artist/0nhv8t4yAqnGrqQkeMyVh6) | [Diluvio universale](https://open.spotify.com/album/20LNSwv0uUgxQEJJWqQaIm) | 3:00 | 2025-01-27 |  |
@@ -1930,6 +1931,7 @@
 | [Imperfectos](https://open.spotify.com/track/1mv4UwJt06q4Xi8rCfiJeM) | [Tortuga & Friends](https://open.spotify.com/artist/0iLCDMSfPB3EQDmnuYg5W0) | [Imperfectos](https://open.spotify.com/album/4AKeNey9mjcaToE7qAofeN) | 3:13 | 2026-02-13 |  |
 | [Impeto del Fuoco](https://open.spotify.com/track/3U0qq2T4MQ8wvwxAnqAfUD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:08 | 2025-09-18 |  |
 | [Impeto del Fuoco \(another\)](https://open.spotify.com/track/4AvbO9QCvznQ4SrqdfQdow) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:17 | 2025-09-18 |  |
+| [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 | 2026-06-29 |  |
 | [In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF) | [smokedope2016](https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw) | [THE PEAK](https://open.spotify.com/album/41JwTf1V6YTn4adggC7sxN) | 2:21 | 2025-07-28 |  |
 | [In fondo al mondo](https://open.spotify.com/track/7vfDeck07Yq9N8fRqurXmx) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [In fondo al mondo](https://open.spotify.com/album/2zGdDkU1WRTy1pxrfiOGe5) | 3:05 | 2026-02-13 |  |
 | [In punta di mani \(domani\)](https://open.spotify.com/track/721H7OLyVCXjcHov1XsEeY) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [In punta di mani \(domani\)](https://open.spotify.com/album/1eC7il0qCMBFlmDuUujZdm) | 2:52 | 2025-03-16 |  |

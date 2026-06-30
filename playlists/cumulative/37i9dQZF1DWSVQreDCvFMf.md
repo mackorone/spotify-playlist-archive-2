@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: KAIA
 
-968 songs - 2 day 11 hr 43 min
+969 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-25 | 2025-07-13 |
 | [Tina](https://open.spotify.com/track/3h44D1XQCCtte7wtJJ9jyT) | [Ren Bugash](https://open.spotify.com/artist/5KuDdMpdzVoH8hRnxKOKlj) | [Tina](https://open.spotify.com/album/2JA1bALgbEnecph30pm1bc) | 3:33 | 2025-07-16 | 2025-11-22 |
 | [Tinapay](https://open.spotify.com/track/6O9zj5PNsW8btYoXL6qRRL) | [Kahel](https://open.spotify.com/artist/2en1UzOP6taB2wxIFQzULa) | [Tinapay](https://open.spotify.com/album/39AwVHceFp7EEqAYJUbXT8) | 5:27 | 2025-08-01 | 2025-11-22 |
+| [Tingin](https://open.spotify.com/track/4D8882PWhjoGFfHdKN93Ha) | [JET](https://open.spotify.com/artist/03OqzRFwbSqQCIZyZTKOJI) | [Tingin](https://open.spotify.com/album/4YaEMMXCMEra7Cf88pWDg8) | 3:57 | 2026-06-29 |  |
 | [Tinitingala](https://open.spotify.com/track/1RA17YewD7DgfgfYAbsHZW) | [Saranggola Society](https://open.spotify.com/artist/4zNyknsvBptSyQ09BUlfax) | [Tinitingala](https://open.spotify.com/album/1jaGn6yN5G8kthVYTPeksE) | 3:39 | 2026-06-26 |  |
 | [Tongue Tied](https://open.spotify.com/track/6bseBp8dlZo5GuO2cd52XC) | [The Ransom Collective](https://open.spotify.com/artist/5TPt1cZ847Fr9CWd9vAm7s) | [Tongue Tied](https://open.spotify.com/album/2KWEoTwhmaMxjTrKs9dmyo) | 4:16 | 2026-03-06 | 2026-05-02 |
 | [Too Young To Be Old](https://open.spotify.com/track/3pjvHlY1hiaKaU3RqcHtIT) | [Orange & Lemons](https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey) | [Too Young To Be Old](https://open.spotify.com/album/4a7gNdIzJwCsyXg6LifeVa) | 3:33 | 2026-04-24 | 2026-06-20 |

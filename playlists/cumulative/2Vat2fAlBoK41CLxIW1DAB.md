@@ -4,7 +4,7 @@
 
 > 
 
-1,061 songs - 2 day 18 hr 55 min
+1,061 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,7 @@
 | [Reverence](https://open.spotify.com/track/4SXaZGG0DtJiHjnMlIeJTy) | [NERiMA](https://open.spotify.com/artist/4E3AxQBE3y9bADshviqPns) | [Reverence](https://open.spotify.com/album/1caZv7XSdzOoL2rc5DPYB9) | 3:56 | 2025-02-05 |  |
 | [Revolution](https://open.spotify.com/track/6SemzdSVkj8x7cjK7ICvbV) | [Vinyl Station](https://open.spotify.com/artist/1aALHW5q6ScO7bM4Wl9Ro9) | [Answer Slow](https://open.spotify.com/album/25Px8BKq1egZWDuUr1eo5i) | 4:42 | 2024-12-04 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2024-12-04 |  |
-| [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 | 2025-10-28 |  |
+| [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:34 | 2025-10-28 |  |
 | [Ride the Quasar](https://open.spotify.com/track/674f9lPeHWZdjZdpWKkreC) | [Bob Saliba](https://open.spotify.com/artist/3uiDNCZFyT0jkEj2IK9aHb), [John Macaluso](https://open.spotify.com/artist/3PXkp8i0STVwhAfaHxBjpP) | [Ride the Quasar](https://open.spotify.com/album/4KbPwql2LCFCs3ds49QFvJ) | 3:36 | 2024-12-20 |  |
 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 | 2024-11-02 |  |
 | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/track/0Td82gVZP9rfCw8aRgVaIt) | [S.H.O.U.T](https://open.spotify.com/artist/5Gn7doGZ1cPCZuIuzVU6RD) | [Rip The Flesh \(Of Your Bones\)](https://open.spotify.com/album/368OzTE0b2r3Ns4SUgTelt) | 4:00 | 2026-02-19 |  |

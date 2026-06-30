@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-06-18 21:00:48",
       "album": {
+        "name": "\u05d0\u05d9\u05e9 \u05d4\u05e4\u05dc\u05d0",
+        "url": "https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A"
+      },
+      "artists": [
+        {
+          "name": "\u05d1\u05df \u05e6\u05d5\u05e8",
+          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
+        }
+      ],
+      "duration_ms": 200491,
+      "name": "\u05d0\u05de\u05d0 \u05e9\u05dc\u05da",
+      "url": "https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6"
+    },
+    {
+      "added_at": "2026-06-18 21:00:48",
+      "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 207804,
       "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
       "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
-    },
-    {
-      "added_at": "2026-06-18 21:00:48",
-      "album": {
-        "name": "\u05d0\u05d9\u05e9 \u05d4\u05e4\u05dc\u05d0",
-        "url": "https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A"
-      },
-      "artists": [
-        {
-          "name": "\u05d1\u05df \u05e6\u05d5\u05e8",
-          "url": "https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb"
-        }
-      ],
-      "duration_ms": 200491,
-      "name": "\u05d0\u05de\u05d0 \u05e9\u05dc\u05da",
-      "url": "https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6"
     },
     {
       "added_at": "2026-06-18 21:00:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 577 likes - 104 songs - 6 hr 5 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 577 likes - 104 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 94 | [No Antidote](https://open.spotify.com/track/2uNqGhSdKFgtvAnwDECH0F) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [The Ceiling, Thanks For Asking](https://open.spotify.com/album/4wzlhKDOBKZh92zNHFUbAg) | 4:05 |
 | 95 | [It Was Not Death, For I stood Up](https://open.spotify.com/track/6d4FpKbyG2g8RJ5W6thimb) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [Tara Sings Emily](https://open.spotify.com/album/4i30jA4w77ttt2uSZxclJl) | 2:52 |
 | 96 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
-| 97 | [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:50 |
+| 97 | [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:52 |
 | 98 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 |
 | 99 | [Absence](https://open.spotify.com/track/6OHV8uVJTMY364wZnHDnGT) | [Forever Factory](https://open.spotify.com/artist/53C0PQbEIv809l7k0jwLcH) | [Absence](https://open.spotify.com/album/5kU8SjJJtKDz1zNrIS1IkA) | 3:14 |
 | 100 | [Get Me Out A Can Light](https://open.spotify.com/track/2oQZNRoOBDLNLWSC9txl47) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [Songbook '126\-'127](https://open.spotify.com/album/7MYAJOatgBYiJW0BQ4Omou) | 3:15 |

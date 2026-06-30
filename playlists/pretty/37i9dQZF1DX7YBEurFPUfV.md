@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Mouka
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,106 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,118 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 | 60 | [Brabus](https://open.spotify.com/track/2LhLEOlgnq6ac47hTr5KYO) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Brabus](https://open.spotify.com/album/7FIcDfg2HwUAHvB1I84rk6) | 3:32 |
 
-Snapshot ID: `AAAAAG7dJHphW7/97Oyq5WDNenbohsQp`
+Snapshot ID: `AAAAALjAxjML53/hRkLiEH71Kz5N5FEC`

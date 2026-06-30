@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Allein",
+        "url": "https://open.spotify.com/album/3jjl9z0w5uvb6GjkFPZ02t"
+      },
+      "artists": [
+        {
+          "name": "Quarks",
+          "url": "https://open.spotify.com/artist/4pOiMsTwEuqoaZrV0Yu3wf"
+        },
+        {
+          "name": "Sascha Funke",
+          "url": "https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Allein - Augen Zu Und Durch... Remix By Sascha Funke",
+      "url": "https://open.spotify.com/track/4E4cGWGC7W1gsIguIFGO73"
+    },
+    {
+      "album": {
         "name": "Elkan",
         "url": "https://open.spotify.com/album/4A9lv73s1ZCD9FVPbZpT9M"
       },
@@ -862,6 +884,24 @@
       "duration_ms": 383826,
       "name": "Avian",
       "url": "https://open.spotify.com/track/4rxAfNgwzTjUYrcZfOwiAg"
+    },
+    {
+      "album": {
+        "name": "B4U & Tripidi",
+        "url": "https://open.spotify.com/album/0FyEXnYBbUYXZt2FuW4ZhQ"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480035,
+      "name": "B4U",
+      "url": "https://open.spotify.com/track/5IbDXgkI6F2Z6srOB8OdKL"
     },
     {
       "album": {
@@ -1352,6 +1392,28 @@
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
+    },
+    {
+      "album": {
+        "name": "Kante on Acid",
+        "url": "https://open.spotify.com/album/4jJ8k2j7hhsf3nqTUWH123"
+      },
+      "artists": [
+        {
+          "name": "Kante",
+          "url": "https://open.spotify.com/artist/3uvvx5esPys9Po0bsPrrZS"
+        },
+        {
+          "name": "Acid Pauli",
+          "url": "https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259587,
+      "name": "California - Acid Pauli Remix",
+      "url": "https://open.spotify.com/track/6bukRz4s2rmqqcBWs2rDAa"
     },
     {
       "album": {

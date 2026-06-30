@@ -4294,7 +4294,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 204419,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
@@ -5632,7 +5632,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 456373,
       "name": "Civilian World",
       "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
@@ -31734,10 +31734,6 @@
         {
           "name": "Galantis",
           "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "The Devil's Tax Return",
-          "url": "https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC"
         }
       ],
       "date_added": "2026-05-29",

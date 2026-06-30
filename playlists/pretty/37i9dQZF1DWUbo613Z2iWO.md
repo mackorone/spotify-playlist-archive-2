@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Laila!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,561 likes - 199 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,566 likes - 199 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 69 | [Blood On The Strings](https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blood On The Strings](https://open.spotify.com/album/6Cb2qgqXFRguQa01S95j6G) | 3:14 |
 | 70 | [Life is Unfair](https://open.spotify.com/track/4ZUNsrg67FyS47d8eLRV2I) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Life is Unfair](https://open.spotify.com/album/6RtyjYB8SbfMQIK8o4YdAj) | 2:26 |
 | 71 | [NEW HEADSTONE need MIX](https://open.spotify.com/track/63GhJimM2V6SKAa8NLTU6p) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [NEW HEADSTONE need MIX](https://open.spotify.com/album/5N19wjg3aSVDoKKr4niCPz) | 2:28 |
-| 72 | [what did you think love would be?](https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [what did you think love would be?](https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ) | 3:23 |
+| 72 | [what did you think love would be?](https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [what did you think love would be?](https://open.spotify.com/album/50K3AQ94ZoG7aDi2rzXYVJ) | 3:20 |
 | 73 | [Charge It To The Game](https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Charge It To The Game](https://open.spotify.com/album/5phLTnxRrroGzM4e5A1Iae) | 2:53 |
 | 74 | [ZODIAC SINE](https://open.spotify.com/track/37a2ERLEjkVOob68CjD06X) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Seafood Sam](https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY) | [ZODIAC SINE](https://open.spotify.com/album/39r8RmnljzvFLBQmolyjBo) | 4:28 |
 | 75 | [I Tried](https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [I Tried](https://open.spotify.com/album/5eYl7iDIe77e2BaqfVpApg) | 3:34 |

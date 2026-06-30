@@ -4,7 +4,7 @@
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Power Snatch
 
-4,094 songs - 9 day 4 hr 6 min
+4,096 songs - 9 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2110,6 +2110,7 @@
 | [Live, Laugh, Love](https://open.spotify.com/track/6smMEA2Cx1I6QuxNlyZuXt) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Live, Laugh, Love](https://open.spotify.com/album/4s1GKS3gkgUneSgjGI1dnw) | 3:16 | 2022-09-23 | 2022-10-22 |
 | [living](https://open.spotify.com/track/0HfGVMPCyfCrVNKhbZC4ON) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [Late Fee](https://open.spotify.com/album/7c1h0tdyNGHrRtcFfZJ3Vm) | 3:38 | 2025-06-13 | 2025-07-12 |
 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 | 2024-09-27 | 2024-11-09 |
+| [Lobotomize Me](https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y) | [The Rat Utopia Experiment](https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa) | [Lobotomize Me](https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW) | 3:11 | 2026-06-29 |  |
 | [London](https://open.spotify.com/track/4ifSR604E0dmhN3igslQLu) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [London](https://open.spotify.com/album/56NyK5Hw7ObfxrIBTKVFAq) | 4:08 | 2025-01-24 | 2025-02-22 |
 | [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-15 | 2025-02-22 |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-07-04 | 2025-08-02 |
@@ -2441,7 +2442,7 @@
 | [Nevermind](https://open.spotify.com/track/1XzyBSMo12h2gULYYNjEra) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Nevermind](https://open.spotify.com/album/2HPKqm3oKkacBY33ujrTQZ) | 2:21 | 2026-01-09 | 2026-02-14 |
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-09-19 | 2026-01-15 |
 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 | 2024-03-08 | 2024-04-27 |
-| [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 | 2026-06-19 |  |
+| [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 | 2026-06-19 |  |
 | [New Beginning](https://open.spotify.com/track/070Sb4HEVCbnZ2StWk6gjU) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Excess](https://open.spotify.com/album/3D3S3TbKudDzd7sM0b778J) | 3:59 | 2024-07-26 | 2024-09-14 |
 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 | 2025-10-03 | 2026-01-31 |
 | [New Invention](https://open.spotify.com/track/4d043mqKES7NxY0LoxLB5m) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [New Invention \[Feat\. Tessa Violet\]](https://open.spotify.com/album/2MwQUepwWrthmaE3NvguHu) | 3:11 | 2021-11-19 | 2022-02-12 |
@@ -3977,6 +3978,7 @@
 | [who am i?](https://open.spotify.com/track/0pfFn3KYKI6mc6fd4blgxA) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [who am i?](https://open.spotify.com/album/0nPc7GBdemUzf6YsHc3YpS) | 2:49 | 2025-06-06 | 2025-08-09 |
 | [WHO DIED AND MADE YOU KING? \- Feat\. Shungudzo](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING? \(Feat\. Shungudzo\)](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 | 2021-11-26 | 2022-01-22 |
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-11 | 2022-03-12 |
+| [Who's Gonna Love You Now?](https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Who's Gonna Love You Now?](https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW) | 2:55 | 2026-06-29 |  |
 | [Who's Laughing Now](https://open.spotify.com/track/7MtcgU2tdfXxVfzDZt08c9) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/5t3uODZ1VSYMBoIVQLxQXJ) | 3:38 | 2023-05-12 | 2023-08-12 |
 | [Who's Laughing Now](https://open.spotify.com/track/2upp8DCqGyzL4UquAoy9Uf) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/7fpazXDPdgixjbdsfBzJ8u) | 3:52 | 2022-09-23 | 2022-11-12 |
 | [WHOEVER YOU WANT ME TO BE \(NOTHING MORE\)](https://open.spotify.com/track/61TkbQlySi619YQgnaxUQT) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [WHOEVER YOU WANT ME TO BE \(NOTHING MORE\)](https://open.spotify.com/album/5vBkSnHcPz4vG7fkWgOIAi) | 2:47 | 2026-06-12 |  |

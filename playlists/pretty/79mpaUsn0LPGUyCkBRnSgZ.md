@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 734 songs - 1 day 23 hr 14 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 741 songs - 1 day 23 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -741,6 +741,13 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 731 | [Erotica](https://open.spotify.com/track/1dBS4iejXWbLZyGpMejc1A) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Erotica Veronica](https://open.spotify.com/album/4qhA5QaHjGtDptQf2DMXTQ) | 3:13 |
 | 732 | [Eureka 378\-B](https://open.spotify.com/track/04G8S4DhyfpsmwWbFmc4fY) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV), [Nina Guo](https://open.spotify.com/artist/1dS1OQtTGCVmkaJanOpRA0), [Evelyn Saylor](https://open.spotify.com/artist/41T8k3OwxjwiIG8WfpU3Kr), [Madison Greenstone](https://open.spotify.com/artist/5PkPi1lRFf74AC9dpr8fNI), [Weston Olencki](https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR) | [Demand to Be Taken to Heaven Alive!](https://open.spotify.com/album/3q8CQdpq57Xi0zXn5qlauk) | 0:56 |
 | 733 | [Big Day Coming](https://open.spotify.com/track/0azh8Cxn6sUDdyXDBE9qUk) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Painful](https://open.spotify.com/album/7a4l81UqmFYs13351IyOSc) | 7:05 |
-| 734 | [Phantom](https://open.spotify.com/track/6QmvvglistS1I0ZSuGKqcg) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:42 |
+| 734 | [News About Heaven](https://open.spotify.com/track/0GTopopHvqgaIbV8VSx9wM) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Lost Futures](https://open.spotify.com/album/1ccFrrZoLFGfDM2LaB8bc6) | 3:56 |
+| 735 | [Phantom](https://open.spotify.com/track/6QmvvglistS1I0ZSuGKqcg) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:42 |
+| 736 | [Nizakupanga Ngozi](https://open.spotify.com/track/5mT3AFbNTqUYIczEkK7BJF) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3), [Paul Ngozi](https://open.spotify.com/artist/0yIAVJQZARmrPX30gG4Vfk) | [45,000 Volts](https://open.spotify.com/album/2A4RVobKY6UiftPJiLkGgr) | 6:16 |
+| 737 | [We Not Innocent](https://open.spotify.com/track/0s4n1eRCp0sIel6zMR1nmz) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Woeful Studies](https://open.spotify.com/album/6Y7ANUgOsMnxomGpw1OMkW) | 2:16 |
+| 738 | [Full Cobra](https://open.spotify.com/track/2RklSC5aWr0n6YzWensReD) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Languish Arts](https://open.spotify.com/album/2mvvQ1WnfeB5tduglyPCrz) | 2:48 |
+| 739 | [Conflicted](https://open.spotify.com/track/1Mys9KgjU9S4qPbp5Us4rF) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [Honor Killed the Samurai](https://open.spotify.com/album/7cedsV0ccOZSMS1PUjO2d7) | 3:20 |
+| 740 | [The Ground Above](https://open.spotify.com/track/5OCZ36e5h9Y5188Tvx7WhW) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [The Ground Above](https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS) | 8:34 |
+| 741 | [She Cries Your Name](https://open.spotify.com/track/4UJ7il10deAhyCvzu7qdcF) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC), [Victor Van Vught](https://open.spotify.com/artist/1PD6xxPwlNBAewjvADEgYt) | [Trailer Park](https://open.spotify.com/album/5WpjO5MZRlFohnZ1EeIcsy) | 4:47 |
 
-Snapshot ID: `AAAJNxNjFxt3Zdtye8bhHBZTDxq68Ugw`
+Snapshot ID: `AAAJP3F5FbzUHQT1egpvF9dfsJeB680O`

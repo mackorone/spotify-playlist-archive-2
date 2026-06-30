@@ -1203,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Mas Contestadas-La Martina",
+        "url": "https://open.spotify.com/album/47gAhKupQG4o6vMmOBAh2v"
+      },
+      "artists": [
+        {
+          "name": "Las Pajaritas",
+          "url": "https://open.spotify.com/artist/6GDcrBxzsopVUzluor0Zll"
+        },
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132080,
+      "name": "Los Paisanos",
+      "url": "https://open.spotify.com/track/27LmeI5OdmPQWStquxwCvA"
+    },
+    {
+      "album": {
         "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 1",
         "url": "https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR"
       },

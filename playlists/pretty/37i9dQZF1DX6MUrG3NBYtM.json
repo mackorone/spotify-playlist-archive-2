@@ -1,6 +1,6 @@
 {
   "description": "De beste Indie releases. Cover: Naaz ",
-  "num_followers": 105340,
+  "num_followers": 105339,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-06-08 12:30:15",
       "album": {
+        "name": "Matter Does Not Define",
+        "url": "https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 236229,
+      "name": "Reflections Of Lessons Left",
+      "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
+    },
+    {
+      "added_at": "2026-06-08 12:30:15",
+      "album": {
         "name": "Muscle Shoals",
         "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 210637,
       "name": "blind",
       "url": "https://open.spotify.com/track/2Juuq3nXnKIUziolpB5IaR"
-    },
-    {
-      "added_at": "2026-06-08 12:30:15",
-      "album": {
-        "name": "Matter Does Not Define",
-        "url": "https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 236229,
-      "name": "Reflections Of Lessons Left",
-      "url": "https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9"
     },
     {
       "added_at": "2026-06-08 12:30:15",

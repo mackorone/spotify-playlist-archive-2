@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ceylan Ertem
 
-626 songs - 1 day 7 hr 47 min
+627 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Dön Geri](https://open.spotify.com/track/4PQPUyhIjnw0QjTvqRVWWT) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Dön Geri](https://open.spotify.com/album/2MD0NhChyhyYmmvuIH6oWS) | 4:09 | 2024-06-27 | 2024-10-31 |
 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 | 2025-03-27 |  |
 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 | 2025-05-22 |  |
-| [Dönmüş Devran](https://open.spotify.com/track/501cymFFR0zHSwtri0khCd) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [RETROBESK](https://open.spotify.com/artist/7GMDlAZOR091uqjVsKYwdN) | [Dönmüş Devran](https://open.spotify.com/album/3aer8OE6gMK75zjYZp7zTc) | 2:22 | 2026-06-25 |  |
+| [Dönmüş Devran](https://open.spotify.com/track/501cymFFR0zHSwtri0khCd) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [RETROBESK](https://open.spotify.com/artist/7GMDlAZOR091uqjVsKYwdN) | [Dönmüş Devran](https://open.spotify.com/album/3aer8OE6gMK75zjYZp7zTc) | 2:22 | 2026-06-25 | 2026-06-30 |
 | [Dünya Hevesi](https://open.spotify.com/track/5lH26p9ycFKgsjzmkGFmHp) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Dünya Hevesi](https://open.spotify.com/album/7u9u9vazmcEszj6k1G3TVE) | 3:30 | 2024-06-27 | 2024-07-08 |
 | [Düzeni Bozuk](https://open.spotify.com/track/0sHSp1Os8KFXWiX609QPrR) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Düzeni Bozuk](https://open.spotify.com/album/0GncKjpmO2zYHurG9xAqSr) | 3:19 | 2026-05-01 | 2026-05-15 |
 | [Düşerim Aklına](https://open.spotify.com/track/2NiqrLj88lenL5MAfMbA4f) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Düşerim Aklına](https://open.spotify.com/album/1aSQDwQTgsaanklyNhypuA) | 2:26 | 2026-01-22 | 2026-03-13 |
@@ -544,6 +544,7 @@
 | [Yakacak Belli](https://open.spotify.com/track/5Ra1k4mBQjP2NPk5NX5Pbq) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT), [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Yakacak Belli](https://open.spotify.com/album/3ZWj5U8qZf8RNvsSUkI76x) | 2:48 | 2024-06-27 | 2024-07-25 |
 | [Yakışıklı](https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yakışıklı](https://open.spotify.com/album/67pOirdhu43id4Ck9iYyae) | 2:26 | 2024-06-27 | 2024-12-21 |
 | [Yalancı Şahidim \- Live](https://open.spotify.com/track/6zQZla6Gu8FBPUVpWHGQdX) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Yalancı Şahidim \(Live\)](https://open.spotify.com/album/3qMNGwXXt31nA7k9jllSw9) | 3:58 | 2026-04-03 |  |
+| [YALVARIYO](https://open.spotify.com/track/0MTpRe0w1AOn5TlzrbVDYP) | [Ecrin Su Çoban](https://open.spotify.com/artist/13trRHQvVRg3Zu4TuVJdGH) | [YALVARIYO](https://open.spotify.com/album/4kdyofWcuGB9dP24zeruLQ) | 2:24 | 2026-06-29 |  |
 | [Yan](https://open.spotify.com/track/41c2gJ18n7v8STRgPl19x4) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Yan](https://open.spotify.com/album/73OiuhV8bIHNsSbdBMAF4A) | 3:10 | 2025-10-09 | 2025-11-14 |
 | [Yan Ulan Yan](https://open.spotify.com/track/4keyTjLtympG8GMGH2ITUM) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Yan Ulan Yan](https://open.spotify.com/album/6XnHf2NpkzAXS0wG5paTU2) | 2:25 | 2025-10-23 | 2025-11-24 |
 | [Yana Yana](https://open.spotify.com/track/3sVGRI6Om1Ruoh7lVsXzxk) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Yana Yana](https://open.spotify.com/album/56DnZQqmKPZ7VczmxPSCEL) | 2:35 | 2025-09-25 | 2025-11-30 |

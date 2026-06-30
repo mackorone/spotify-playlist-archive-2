@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,907 likes - 60 songs - 3 hr 18 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,906 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 52 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 |
 | 53 | [Do You Think Of Me?](https://open.spotify.com/track/1hwfMhuM4mxySqucwh87Am) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Do You Think Of Me?](https://open.spotify.com/album/1wU5DSfHe1ArxIZwqON7T2) | 3:12 |
 | 54 | [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 |
-| 55 | [Stay Alive](https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [The Devil's Tax Return](https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC) | [Stay Alive](https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi) | 3:53 |
+| 55 | [Stay Alive](https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Stay Alive](https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi) | 3:53 |
 | 56 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 |
 | 57 | [The Wave](https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [The Wave](https://open.spotify.com/album/1Hlt6ok7aP4iHmQKIgrh3W) | 2:45 |
 | 58 | [Macho](https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Macho](https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v) | 4:22 |

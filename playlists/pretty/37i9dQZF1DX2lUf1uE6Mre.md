@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: RAF Camora
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,571 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,543 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 53 | [Syt](https://open.spotify.com/track/4UxVPXznavq6dwRv9bro7G) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Playboys im AMG](https://open.spotify.com/album/352ocuWsww6xXPgUDmXFqq) | 2:33 |
 | 54 | [Tränen](https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Tränen](https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO) | 2:27 |
 | 55 | [GET LOW](https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [GET LOW](https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP) | 2:30 |
-| 56 | [EL FENOMENO](https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [EL FENOMENO](https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp) | 1:53 |
-| 57 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
+| 56 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
+| 57 | [EL FENOMENO](https://open.spotify.com/track/3GT4AolmOnwDbK3LL57ZXM) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [EL FENOMENO](https://open.spotify.com/album/6dHMK4DSSmI349lUPXUKkp) | 1:53 |
 | 58 | [FACECARD](https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY) | [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp) | [V.T.Z.R.](https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I) | 2:06 |
 | 59 | [Show](https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Show](https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj) | 2:41 |
 | 60 | [My Love](https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte) | [Kuto](https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR) | [My Love](https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ) | 2:08 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 85 | [GETRENNTE SOMMERNACHT](https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [GETRENNTE SOMMERNACHT](https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl) | 2:41 |
 | 86 | [Heavyweight](https://open.spotify.com/track/1JdbhJKdck0iCAsrOrXiFM) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY) | [Heavyweight](https://open.spotify.com/album/1Et9AgcPenV4GO3KcNelnp) | 1:35 |
 | 87 | [Tiki Taka](https://open.spotify.com/track/2jf4kDgON7X0gPbpq0MS35) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:29 |
-| 88 | [I wanna love you](https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [I wanna love you](https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ) | 2:40 |
-| 89 | [Pretty Privilege](https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Pretty Privilege](https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5) | 2:25 |
+| 88 | [Pretty Privilege](https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Pretty Privilege](https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5) | 2:25 |
+| 89 | [I wanna love you](https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [I wanna love you](https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ) | 2:40 |
 | 90 | [Viele Jahre](https://open.spotify.com/track/48Cj8m9K8c4qOmbsSqklf5) | [SIL3A](https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Viele Jahre](https://open.spotify.com/album/1FcZdkkqn7vHjL677FBdNF) | 2:28 |
 | 91 | [Bela](https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Bela](https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj) | 2:19 |
 | 92 | [Push Push](https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF) | [Soyhan](https://open.spotify.com/artist/168ZE6n9A3S3s9143vMOEa) | [Push Push](https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj) | 2:34 |

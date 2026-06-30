@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-576 songs - 1 day 10 hr 56 min
+577 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Lightning](https://open.spotify.com/track/4zJxARpvIv9k1b4NDVjc7V) | [Mynxx](https://open.spotify.com/artist/5mECqG3e91RUoOxLoXUDOX) | [Lightning](https://open.spotify.com/album/7nJnJS2Tb3dOQ5uKhkJ0wr) | 2:41 | 2025-03-19 |  |
 | [Like It or Not](https://open.spotify.com/track/1f3qXwfGyOtBDqpXH1bBSe) | [Private Party](https://open.spotify.com/artist/1Nelw0xdSyeJOqMhjL4IkL) | [Like It or Not](https://open.spotify.com/album/67v7EdBMd9ZC2Ym9frnWVd) | 3:12 | 2023-03-25 |  |
 | [Little Bird](https://open.spotify.com/track/3wQzsUPqKEly3Eg7sc15dC) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Little Bird](https://open.spotify.com/album/0NvL8Q1EtDZR5wzBsnj2O2) | 3:22 | 2025-03-29 |  |
+| [Little Jolie](https://open.spotify.com/track/3OxnFROm8zegbkLGCRBO6r) | [Pär Stenström](https://open.spotify.com/artist/470csy88vVgW8gLUuVAhva) | [Little Jolie](https://open.spotify.com/album/650ORU2g86Iq53ZTVswtQ8) | 4:01 | 2026-06-29 |  |
 | [Lockdown](https://open.spotify.com/track/7dNNncnaQ8cr5ECcujXd3H) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Lockdown](https://open.spotify.com/album/4xh6tIrwnMUuOCCyvceBcP) | 2:05 | 2025-03-15 |  |
 | [Long Time Side Effects](https://open.spotify.com/track/3eMgZKrfFolwoDlxQRHCmP) | [Cat and the Underdogs](https://open.spotify.com/artist/2EC0c7ACeBqm0WQf3TBuG4) | [Punk Rock Overdrive](https://open.spotify.com/album/7xX9yYzGiF9KbrGFONEnpa) | 1:48 | 2023-03-26 |  |
 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2023-01-10 |  |

@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-79 songs - 6 hr 19 min
+80 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Cause I Want You Back Again](https://open.spotify.com/track/4iTZ9oHsZkErLDjmSiSymH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 4:46 | 2022-05-25 |  |
 | [Crossroads of Life](https://open.spotify.com/track/2HgnJM3AUGszNRPTnbyWOE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Super Bad](https://open.spotify.com/album/32JJSl2dK1v6F2bzoDwmJP) | 2:48 | 2025-01-27 | 2025-09-23 |
 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 | 2022-05-25 |  |
+| [Dance](https://open.spotify.com/track/2Cg1NhTM9IU7BMCCNb5KbB) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Dance](https://open.spotify.com/album/5X0qo6LFvQRo56BYteQByG) | 2:37 | 2026-06-30 |  |
 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 | 2022-05-25 |  |
 | [Deeper \(In Love with You\)](https://open.spotify.com/track/1PSfY3lSwBD888PZW0s5JH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 2:39 | 2022-05-25 | 2022-10-13 |
 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 | 2022-12-19 | 2026-01-04 |
@@ -32,7 +33,7 @@
 | [God Bless My Mama](https://open.spotify.com/track/49dn4HaJFrZLuonXfTynti) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Eddie Levert](https://open.spotify.com/artist/2IvCFI40bNhf40fRPO7cA0), [Walter Williams](https://open.spotify.com/artist/7l643twfn8Rq1l4iON1aKp) | [Brawl in Cell Block 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6K96xGtU1rfAcKfnrKr09U) | 4:38 | 2022-05-25 | 2022-10-13 |
 | [Gotta Get My Broom Out](https://open.spotify.com/track/3Ibu9FkTHDdUehnCqM0WUB) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Super Bad](https://open.spotify.com/album/32JJSl2dK1v6F2bzoDwmJP) | 2:25 | 2025-01-11 | 2025-01-20 |
 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 | 2022-05-25 |  |
-| [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 | 2022-05-25 |  |
+| [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 | 2022-05-25 | 2026-06-30 |
 | [Hurry Up & Come Back](https://open.spotify.com/track/2VLnmkD9L2GgbepawJJUzV) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:05 | 2022-05-25 | 2023-07-21 |
 | [I Dig Your Act](https://open.spotify.com/track/5W5CPwVkrL1qZ4hzNS86sT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back On Top \(Expanded Edition\)](https://open.spotify.com/album/1UoqJdBAZYHrNEc4eIgC4A) | 2:15 | 2024-03-30 | 2024-06-09 |
 | [I Dig Your Act](https://open.spotify.com/track/4XZ5cpaPA4w1kC5AYvKHvs) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Northern Soul \- The Soundtrack to Your Life](https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP) | 2:16 | 2023-04-18 | 2024-03-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,561 likes - 92 songs - 4 hr 59 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,560 likes - 94 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 90 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
 | 91 | [Time to Time \(Annie\)](https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Time to Time \(Annie\)](https://open.spotify.com/album/05USGegWxbTPtVePsT3oru) | 2:52 |
 | 92 | [Sentimental Letter](https://open.spotify.com/track/5adGRhI6B086KTZworLOCB) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Sentimental Letter](https://open.spotify.com/album/6kj7KM5Mh4YaRv5Z2BnI2T) | 3:15 |
+| 93 | [Worth It](https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [RAGE](https://open.spotify.com/album/5oxMfD3pBDCVsRKjpgVXTb) | 3:23 |
+| 94 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 
-Snapshot ID: `AAAIGNU4vIYRjPxSpJmfsg1z+WBQyHxX`
+Snapshot ID: `AAAIGmaiEkeVL/KKxYzoKp9Aoqb0P1OV`

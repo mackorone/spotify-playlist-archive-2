@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 955 likes - 68 songs - 3 hr 58 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 957 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 66 | [Didsbury Dozen](https://open.spotify.com/track/5ze0tk0ZLfW2vBAuabcNsV) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Didsbury Dozen](https://open.spotify.com/album/6b1TM8wYvhk08kXdn2JZ9e) | 3:59 |
 | 67 | [Dancing on Fire](https://open.spotify.com/track/0UYnt2WsBrFRRoYSIBVtoN) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:55 |
 | 68 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
+| 69 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 |
+| 70 | [Burn It Faster](https://open.spotify.com/track/3boHJrQo46C772vzvsWXyf) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:45 |
 
-Snapshot ID: `AAAD/lMYvuA4Wr7kXRb/14buLGIXf1Hw`
+Snapshot ID: `AAAEAOuQgsv1h5hbEy0x+Ktpnlwj3U5w`

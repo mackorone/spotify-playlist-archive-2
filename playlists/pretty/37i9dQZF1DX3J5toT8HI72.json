@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 833618,
+  "num_followers": 833567,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-06-11 22:39:46",
       "album": {
+        "name": "Menino Bonito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 169654,
+      "name": "Menino Bonito - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
+    },
+    {
+      "added_at": "2026-06-11 22:39:46",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-06-11 22:39:46",
-      "album": {
-        "name": "Menino Bonito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 169654,
-      "name": "Menino Bonito - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-11 22:39:46",
       "album": {
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
+    },
+    {
+      "added_at": "2026-06-11 22:39:46",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
-    },
-    {
-      "added_at": "2026-06-11 22:39:46",
-      "album": {
-        "name": "Urbano",
-        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 129381,
-      "name": "\u00d4 Sorte",
-      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-06-11 22:39:46",
       "album": {
-        "name": "Viver de Carinho",
-        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "Viver de Carinho",
-      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
-    },
-    {
-      "added_at": "2026-06-11 22:39:46",
-      "album": {
         "name": "Outono",
         "url": "https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 219257,
       "name": "Anjo Protetor",
       "url": "https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu"
+    },
+    {
+      "added_at": "2026-06-11 22:39:46",
+      "album": {
+        "name": "Viver de Carinho",
+        "url": "https://open.spotify.com/album/6E4FWpjlSu3QBXiKD2n6pm"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 148396,
+      "name": "Viver de Carinho",
+      "url": "https://open.spotify.com/track/7rrGhzA2EcRkkG4JP6Dx7V"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-11 22:39:46",
       "album": {
-        "name": "Preciso Dizer Que Te Amo",
-        "url": "https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 167796,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L"
-    },
-    {
-      "added_at": "2026-06-11 22:39:46",
-      "album": {
         "name": "A Cara do Amor da Minha Vida",
         "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 151128,
       "name": "A Cara do Amor da Minha Vida",
       "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
+    },
+    {
+      "added_at": "2026-06-11 22:39:46",
+      "album": {
+        "name": "Preciso Dizer Que Te Amo",
+        "url": "https://open.spotify.com/album/1aMO6kMWrJdvNEDnHFOi4y"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/5dRTiI1Gxex5Rr83iivf3L"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-11 22:39:46",
       "album": {
-        "name": "SIM",
-        "url": "https://open.spotify.com/album/5gxX6FRHxAzRiHBw1DeY3r"
-      },
-      "artists": [
-        {
-          "name": "Marina Gold",
-          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
-        }
-      ],
-      "duration_ms": 168511,
-      "name": "SIM",
-      "url": "https://open.spotify.com/track/6Luu7cF9h6JSKwoxRFqagr"
-    },
-    {
-      "added_at": "2026-06-11 22:39:46",
-      "album": {
         "name": "Efeito Voc\u00ea",
         "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 168064,
       "name": "Efeito Voc\u00ea",
       "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2026-06-11 22:39:46",
+      "album": {
+        "name": "SIM",
+        "url": "https://open.spotify.com/album/5gxX6FRHxAzRiHBw1DeY3r"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "duration_ms": 168511,
+      "name": "SIM",
+      "url": "https://open.spotify.com/track/6Luu7cF9h6JSKwoxRFqagr"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-06-11 22:39:46",
       "album": {
-        "name": "Alian\u00e7a",
-        "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
+        "name": "Moreno Veloso Solo in Tokyo",
+        "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
       },
       "artists": [
         {
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
         }
       ],
-      "duration_ms": 236970,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
+      "duration_ms": 309520,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -1519,6 +1519,22 @@
       "duration_ms": 206108,
       "name": "Singular",
       "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+    },
+    {
+      "added_at": "2026-06-11 22:39:46",
+      "album": {
+        "name": "Alian\u00e7a",
+        "url": "https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM"
+      },
+      "artists": [
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        }
+      ],
+      "duration_ms": 236970,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s"
     },
     {
       "added_at": "2026-06-11 22:39:46",
@@ -1567,22 +1583,6 @@
       "duration_ms": 183542,
       "name": "O Amor \u00c9 o Segredo",
       "url": "https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P"
-    },
-    {
-      "added_at": "2026-06-11 22:39:46",
-      "album": {
-        "name": "Moreno Veloso Solo in Tokyo",
-        "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
-      },
-      "artists": [
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
     },
     {
       "added_at": "2026-06-11 22:39:46",

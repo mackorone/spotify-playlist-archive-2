@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Al\u00f4 M\u00e3e",
+        "url": "https://open.spotify.com/album/13wcAt6k9ngOsyCeflBD5j"
+      },
+      "artists": [
+        {
+          "name": "Sandro C\u00e9sar",
+          "url": "https://open.spotify.com/artist/7jIKyiy0hwaxTfIaxwIlXh"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139311,
+      "name": "Al\u00f4 M\u00e3e",
+      "url": "https://open.spotify.com/track/0l24gD3ReX6YHAHs8xCh9g"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
@@ -6217,6 +6235,24 @@
     },
     {
       "album": {
+        "name": "Deixo",
+        "url": "https://open.spotify.com/album/6yOKyXzB6Qz8oxeyK5RZ8K"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195365,
+      "name": "Deixo",
+      "url": "https://open.spotify.com/track/5kMu03BQiBZwg2urpihT9H"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -8174,7 +8210,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -11230,7 +11266,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 284864,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4"
@@ -11596,7 +11632,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -13664,7 +13700,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 159840,
       "name": "Las mas bonitas son p#tas",
       "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
@@ -15744,6 +15780,24 @@
       "duration_ms": 153142,
       "name": "MDF.",
       "url": "https://open.spotify.com/track/1lq3A0xNLJ2n3mUa9MGXiU"
+    },
+    {
+      "album": {
+        "name": "Paralelos Vol. 02",
+        "url": "https://open.spotify.com/album/1i6thmVWAz7Q9CMBSIWim5"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148195,
+      "name": "Me Fala Qual Necessidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9"
     },
     {
       "album": {
@@ -26570,7 +26624,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
@@ -27760,6 +27814,32 @@
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
+    },
+    {
+      "album": {
+        "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
+        "url": "https://open.spotify.com/album/4aM3OuJD3Zcxvnv0zcpItK"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Rey Vaqueiro",
+          "url": "https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142030,
+      "name": "Ver\u00e3oz\u00e3o (T\u00e1 Calor)",
+      "url": "https://open.spotify.com/track/3AREKkqAoBpFxD5Hm9Ip53"
     },
     {
       "album": {
@@ -29092,7 +29172,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

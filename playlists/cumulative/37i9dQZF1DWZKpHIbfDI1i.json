@@ -10104,7 +10104,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 257698,
       "name": "El Alaz\u00e1n Y El Rosillo",
       "url": "https://open.spotify.com/track/2hx4u90yWV4tNzd6IdAO2w"
@@ -12740,6 +12740,24 @@
       "duration_ms": 188540,
       "name": "Excusas",
       "url": "https://open.spotify.com/track/4FLODlDWoco3SpNZvs4msb"
+    },
+    {
+      "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
     },
     {
       "album": {

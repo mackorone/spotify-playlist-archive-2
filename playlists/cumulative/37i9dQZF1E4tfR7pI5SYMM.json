@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Bad Scullianz, Black Debbath and more",
+  "description": "With Jon Drake, Dystopian X Vision, The Charlie Marshall Effect and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 298602,
       "name": "A Story About A Girl (Live in Saskatoon, SK 2025)",
       "url": "https://open.spotify.com/track/6AgGKDLLmFzwd20vrCRjfi"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 220668,
       "name": "D\u0103-mi inima mai tare",
       "url": "https://open.spotify.com/track/2NLotmhkRXkdxLKJjLYOJ8"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 208490,
       "name": "End of Chocolate",
       "url": "https://open.spotify.com/track/1jEr9qqNs6CHSPi3KwfZpC"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 185149,
       "name": "Engel",
       "url": "https://open.spotify.com/track/2PkYrcfWuuFAF06OVI41WN"
@@ -3748,7 +3748,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -3878,6 +3878,24 @@
       "duration_ms": 273345,
       "name": "Farao P\u00e5 Ferie",
       "url": "https://open.spotify.com/track/3jiWeujKFjuZhDqwdyoLbh"
+    },
+    {
+      "album": {
+        "name": "Ghosts of Europa",
+        "url": "https://open.spotify.com/album/4GfSumFwB4dVeufLS2jovP"
+      },
+      "artists": [
+        {
+          "name": "Mortiis",
+          "url": "https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285931,
+      "name": "Farewell Romero",
+      "url": "https://open.spotify.com/track/4G9PYgNCjj3PTw1sRoglWE"
     },
     {
       "album": {
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 168882,
       "name": "Freaky Ho's",
       "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -5880,7 +5898,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -6708,7 +6726,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 339402,
       "name": "Lori, It's Too Late",
       "url": "https://open.spotify.com/track/2YziH8h3ySTeCwtlsKop3D"
@@ -7646,7 +7664,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 316493,
       "name": "Mutter",
       "url": "https://open.spotify.com/track/0dZQZ2lzX73bPIqPG33AeA"
@@ -8144,7 +8162,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -8238,7 +8256,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -8498,7 +8516,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 150204,
       "name": "On Lootusega Lootusetud Lood",
       "url": "https://open.spotify.com/track/7fZ36FXySdOWGvFajD7LKV"
@@ -8592,7 +8610,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -8610,7 +8628,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 237751,
       "name": "Onward We Go",
       "url": "https://open.spotify.com/track/5ua4KDUOuO0nRJfnYX5GiH"
@@ -8790,7 +8808,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -9480,7 +9498,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 94075,
       "name": "reyes",
       "url": "https://open.spotify.com/track/4VkiI6xCL5beCmpXqmPZW6"
@@ -10760,7 +10778,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -11218,7 +11236,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 226076,
       "name": "The Anointed",
       "url": "https://open.spotify.com/track/7fi2WTD5ZClcnl20RCh7JW"
@@ -11492,7 +11510,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -11864,7 +11882,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/60tVvB34IfKDBqq0lbAdZr"
@@ -12294,7 +12312,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -12464,7 +12482,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 168574,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2mwTI5QWepywqsrp4YG6QL"
@@ -14190,7 +14208,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"

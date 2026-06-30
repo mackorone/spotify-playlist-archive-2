@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 8 hr 36 min
+167 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adult Films](https://open.spotify.com/track/4ulPR5zyHO2PUY0NWhjXAH) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [Adult Films](https://open.spotify.com/album/7t5inmowqO4WoBmmvYzLK8) | 2:56 | 2024-01-29 |  |
 | [Aftermath](https://open.spotify.com/track/1X2tQidf0mVVkxqDkPpizQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Aftermath](https://open.spotify.com/album/6BsjujyATgAPNk6yX7bUmI) | 4:11 | 2026-05-02 |  |
 | [All For You](https://open.spotify.com/track/230iFQRVSL6Mqc91qs4zGe) | [Pyke & Muñoz](https://open.spotify.com/artist/3SJGVi9uaJWjB9lvP5rXNJ), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [All For You](https://open.spotify.com/album/06saY5xxNI3oocnCAaUngb) | 3:00 | 2024-01-29 |  |
+| [All Night Long](https://open.spotify.com/track/55IEdCXiAa3A7Mcy8t9n2v) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Wanderer](https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO) | 2:41 | 2026-06-29 |  |
 | [All Of The Lights](https://open.spotify.com/track/3jUNIhpyHyGWvlhWU6g9ob) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Joyse](https://open.spotify.com/artist/7cc79tfG2SrWeOdmgKZl8X) | [All Of The Lights](https://open.spotify.com/album/1b5NbbarHpHXKRVSoT0jSE) | 3:30 | 2024-10-12 |  |
 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 | 2024-01-29 |  |
 | [Back to Sleep](https://open.spotify.com/track/38cJb1QguOMMr4uUzFzPx0) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Back to Sleep](https://open.spotify.com/album/4cbTRBS6JOHESGiz3ugMID) | 3:24 | 2024-01-29 |  |
@@ -137,6 +138,7 @@
 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 | 2024-01-29 |  |
 | [Something I Said](https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/41nxQC0tLiUmELqgc5Grbx) | 4:08 | 2024-01-29 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2024-01-29 |  |
+| [starry eyes](https://open.spotify.com/track/0LiCuKbMYM2pF00U502RH7) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [starry eyes](https://open.spotify.com/album/0tuz8EWdPCBjUBMgPuZZtk) | 3:04 | 2026-06-29 |  |
 | [Stay](https://open.spotify.com/track/6EiciPnoJR1o4D0vtaHqjl) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Remember Me](https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF) | 2:52 | 2024-02-04 |  |
 | [Stay](https://open.spotify.com/track/4esYXHSiNvHxioISETFdtS) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Stay](https://open.spotify.com/album/3gm0AOgoGy4TMNbVUQGm6k) | 2:54 | 2024-01-29 | 2024-02-02 |
 | [Stuck In Limbo](https://open.spotify.com/track/2sNwqldxGgDHY0dRs1bZvA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [jayover](https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3) | [Stuck In Limbo](https://open.spotify.com/album/4cZTEbJacKZLTQJXNq1JMa) | 2:14 | 2024-02-18 |  |

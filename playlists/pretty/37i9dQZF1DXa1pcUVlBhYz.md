@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,854 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,857 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 33 | [Club Groove \(Groove McDoodle\)](https://open.spotify.com/track/04ePIL2MCJhDveCBEYRzH2) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Club Groove \(Groove McDoodle\)](https://open.spotify.com/album/7feoPz3HVSem89blpacFKJ) | 5:14 |
 | 34 | [Don't Say You Love Me](https://open.spotify.com/track/5GwYOyIbkCS9HVdOBAwRog) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Don't Say You Love Me](https://open.spotify.com/album/3c8XPyoCW8d30Jmhlye9TF) | 2:43 |
 | 35 | [Aerobics](https://open.spotify.com/track/2EFlMGvleP3hvFjmHIGtPv) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Aerobics](https://open.spotify.com/album/657COGSrYFw3gs3IULfQN7) | 3:35 |
-| 36 | [Never Let You Go](https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q) | 3:01 |
+| 36 | [Never Let You Go](https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q) | 3:01 |
 | 37 | [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 |
 | 38 | [Illusion](https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Illusion](https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW) | 2:23 |
 | 39 | [That's My Ish](https://open.spotify.com/track/59Ytlj1b0GhpWGsWvZKavV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [That's My Ish](https://open.spotify.com/album/3sz3C74fnAZPn2ZosZ9l7q) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 492 likes - 72 songs - 4 hr 33 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 492 likes - 73 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 70 | [Forage For Porridge](https://open.spotify.com/track/04XrtXFB2uDOMhP12V5bZT) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [Last Woman Left At The Market](https://open.spotify.com/album/5QwDMazOp31hcNanUG7MCx) | 4:09 |
 | 71 | [Happy Lonely](https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n) | [Becky Crosby](https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz) | [Happy Lonely](https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E) | 3:06 |
 | 72 | [Dirty Halo](https://open.spotify.com/track/2XIUFJZjZvVh927O5qSLHs) | [The Buzzos](https://open.spotify.com/artist/5s0aZOqX6T1mHkK2uPtvKQ) | [Survival](https://open.spotify.com/album/7zDDjOLKVuRDMC1OpTYvei) | 4:06 |
+| 73 | [Another Life](https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm) | [Ben Trexel](https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu), [Amanda Willis\-Brice](https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF) | [Another Life](https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq) | 3:49 |
 
-Snapshot ID: `AAAB9k9US5FLETDPh+8B733q1Y12nekJ`
+Snapshot ID: `AAAB9yLUUXz13/Jin8i3rK/qHCCPvWvt`

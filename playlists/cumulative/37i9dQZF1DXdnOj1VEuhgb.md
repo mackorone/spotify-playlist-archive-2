@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
 
-1,055 songs - 1 day 23 hr 7 min
+1,056 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,8 @@
 | [Gülşen](https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/7MaxT7zgq2r36MEhTFIvhA) | 2:26 | 2023-01-10 | 2023-01-13 |
 | [Güneş Doğmadan Önce](https://open.spotify.com/track/5JM6GBHnW0EKzgRCPzdmFt) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Güneş Doğmadan Önce](https://open.spotify.com/album/3jqaiIynMMajbUv9BFfVpq) | 2:16 | 2026-05-28 | 2026-06-12 |
 | [Günleri Saydım](https://open.spotify.com/track/3EvnxnwxvUgmXDy75xeoNx) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Günleri Saydım](https://open.spotify.com/album/41L569Sbr9hSf9KOYtkzqb) | 2:58 | 2023-03-09 | 2023-03-25 |
-| [Günün Sonunda](https://open.spotify.com/track/2gHGF27KRLLLC3OnAcBLuU) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Nuski](https://open.spotify.com/artist/2pHhWp0Us1csip3TUxFEQQ) | [Günün Sonunda](https://open.spotify.com/album/1oJafx7IQ94tfAibquO4Vk) | 2:26 | 2026-06-05 |  |
+| [Günün Sonunda](https://open.spotify.com/track/2gHGF27KRLLLC3OnAcBLuU) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Nuski](https://open.spotify.com/artist/2pHhWp0Us1csip3TUxFEQQ) | [Günün Sonunda](https://open.spotify.com/album/1oJafx7IQ94tfAibquO4Vk) | 2:26 | 2026-06-05 | 2026-06-30 |
+| [Güvenemem](https://open.spotify.com/track/5Pu77n6b2WMJGehlIFEWlT) | [D3](https://open.spotify.com/artist/3pePTtlR2VKfTkALz8Wvs3) | [Güvenemem](https://open.spotify.com/album/2LXcq3LoEjaqh7WfKGxqzA) | 1:58 | 2026-06-29 |  |
 | [Güvercin](https://open.spotify.com/track/7ExpqdHuGuH2esOuX2LPZC) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [Güvercin](https://open.spotify.com/album/0xzKxahkbCgwYYeqSwk4r9) | 3:09 | 2024-09-26 | 2024-10-15 |
 | [GÜZEL VE İDDİALI](https://open.spotify.com/track/3LUFeTIPLxgZYdBxG0eV5k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GÜZEL VE İDDİALI](https://open.spotify.com/album/4KiKXZthJfVz0mKIkv7E2G) | 2:55 | 2024-02-08 | 2024-05-10 |
 | [Gıyabında](https://open.spotify.com/track/20D4qCsLFK3xGBuoXEuL2C) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Brumend](https://open.spotify.com/artist/3MNPjNqMCYHaxQYj8lf0ZP) | [Gıyabında](https://open.spotify.com/album/6GubQZ8EPm7UV3aBsVSmfW) | 4:09 | 2024-12-05 | 2024-12-20 |
@@ -971,7 +972,7 @@
 | [YALAN DÜNYA](https://open.spotify.com/track/3OZnr6bBuVXuTb0wdYrO7l) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [YALAN DÜNYA](https://open.spotify.com/album/0PriynWZ6AefjNoEAYplMw) | 3:17 | 2024-04-25 | 2024-05-10 |
 | [Yalan Dünya](https://open.spotify.com/track/5InKH2FsxzDsWhbRTGSKMd) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Uni\-Q](https://open.spotify.com/artist/0bwcUoGBPilAxCL5wdYNzf) | [Yalan Dünya](https://open.spotify.com/album/1Tsuu4OU7mNeVI2L5kw1Vd) | 3:50 | 2025-11-06 | 2025-11-28 |
 | [YALAN DÜNYA](https://open.spotify.com/track/64929UpSVDlOYFlXiZJKgu) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [YALAN DÜNYA](https://open.spotify.com/album/6cPnVqIqosdmNV08FzGoVM) | 2:10 | 2025-04-17 | 2025-10-03 |
-| [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 | 2026-06-25 |  |
+| [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK), [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 | 2026-06-25 |  |
 | [Yalanlar](https://open.spotify.com/track/3hmIAuBnYZrPzFNu0x0K0A) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [AZ1Z](https://open.spotify.com/artist/76dUdapyygC0pb4gjYY1NY) | [LORD OF THE MICS, Vol\. 2](https://open.spotify.com/album/4GuTiymFPlDr5PlgOknVA4) | 3:13 | 2026-03-12 | 2026-03-27 |
 | [Yalnızsam Söyle](https://open.spotify.com/track/0fr47yyRHqpPb8mAeBf6Ej) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Kaos Parkı Fanzin](https://open.spotify.com/album/6A6WXYREFTkWcHK3F3i7vb) | 3:27 | 2025-07-17 | 2025-08-01 |
 | [YAMYAM](https://open.spotify.com/track/0pV7kJ7iw7Wtb0WvBXksXx) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [YAMYAM](https://open.spotify.com/album/0fh7da5MQtuy63utNzoJPy) | 2:17 | 2025-10-23 | 2025-11-21 |

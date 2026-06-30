@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 204 songs - 11 hr 30 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 210 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,5 +212,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 202 | [It Slips Out](https://open.spotify.com/track/5czxTvjUblxfYTgu3uBFT2) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [It Slips Out](https://open.spotify.com/album/4ZxE206WS5pevYK2fARkpv) | 3:23 |
 | 203 | [No Kisses](https://open.spotify.com/track/3g3gPeLfNB0V5qOLvQEaTK) | [Un Rodo Cora](https://open.spotify.com/artist/0RKA0a9z4xnW67jEsVSnxX) | [No Kisses](https://open.spotify.com/album/6Igb7iyDgjzEtmFggFpGGR) | 1:59 |
 | 204 | [Innocent](https://open.spotify.com/track/6AmJ4InbpIViUHKQZcOlLg) | [Barrett Travis](https://open.spotify.com/artist/0YcRbPdiHQpKPywZ6PlIXL) | [Innocent](https://open.spotify.com/album/02bG1fDonGrUYyVlROGmUN) | 4:27 |
+| 205 | [Cold Wind Blows](https://open.spotify.com/track/416wi20CY4p28Ez9xaXgf6) | [Deceased Me](https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU) | [Cold Wind Blows](https://open.spotify.com/album/592zWSpTLDSlH5IvAM8kSi) | 3:10 |
+| 206 | [Cherry Wine](https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA) | [Ain't no Ducks](https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U) | [Cherry Wine](https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq) | 2:50 |
+| 207 | [4AM Courtroom](https://open.spotify.com/track/7yY2TlWZxwzEZJq0yXUJNL) | [MUAD](https://open.spotify.com/artist/7quXFbhtUmwBWx6NvxyqSv) | [4AM Courtroom](https://open.spotify.com/album/3gYd4Np0DyBtRBM9YvShMv) | 4:06 |
+| 208 | [Du är fri](https://open.spotify.com/track/53Vdv4GR4yCrBTA9ufhGjk) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [Du är fri](https://open.spotify.com/album/2CZgO1nVD6zL1MuAKHbJl5) | 3:09 |
+| 209 | [Feberdröm](https://open.spotify.com/track/3KUcmzPsQPytS8vAv0wzUh) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK) | [Feberdröm](https://open.spotify.com/album/2NQGGQVYzmTdDIUUHj1cy3) | 2:48 |
+| 210 | [Dinner with the inside monster](https://open.spotify.com/track/7rEBUuRza8ueBilHto2pFZ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Dinner with the inside monster](https://open.spotify.com/album/2HeHHYfquLy6F9ylN7M9S0) | 6:40 |
 
-Snapshot ID: `AAAVTnXV2yjRpiqPYmXJUTL+7yacjCPD`
+Snapshot ID: `AAAVVLNNi+qbVhxIiByteCmBu4ivF8vl`

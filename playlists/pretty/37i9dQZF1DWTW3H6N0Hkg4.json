@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 336832,
+  "num_followers": 336936,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Cumbia de las Flores",
-      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 146207,
       "name": "Tambalea",
       "url": "https://open.spotify.com/track/2Wd53oIqGVC5Vyd5R96l4J"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Cumbia de las Flores",
+      "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "50 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
-      },
-      "artists": [
-        {
-          "name": "Mario y sus Diamantes",
-          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "El Cable",
-      "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Sonora Santanera - Canta Sonia L\u00f3pez",
         "url": "https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 169213,
       "name": "El Ladr\u00f3n",
       "url": "https://open.spotify.com/track/5Nk582UShPRP9ZI2vFbJQJ"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "50 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/3SWZLaAfmaA9OkmzbntsrS"
+      },
+      "artists": [
+        {
+          "name": "Mario y sus Diamantes",
+          "url": "https://open.spotify.com/artist/29yjRMaTSydQ400lGgoLUo"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "El Cable",
+      "url": "https://open.spotify.com/track/3QwrlXr3N7FWhQwZEAR8q8"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Cumbia Con Clase",
-        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
       "artists": [
         {
-          "name": "La Banda Tecno De Beto Y Juan",
-          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 254883,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Cumbia Con Clase",
+        "url": "https://open.spotify.com/album/1cyozcO6UvvmK3LgN8Y8iy"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tecno De Beto Y Juan",
+          "url": "https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I"
+        }
+      ],
+      "duration_ms": 254883,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/7mhIpZ9VHarkdWABXLXEEk"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 199447,
       "name": "Cumbia de los Pobres",
       "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
+        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 290120,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "La Perla Colombiana 20 Exitos (Vol 1)",
         "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 218853,
       "name": "Agua de vida",
       "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Serie 20 Exitos Los Yes Yes",
-        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 313613,
-      "name": "El Verde De Tus Ojos",
-      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
-        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
+        "name": "Serie 20 Exitos Los Yes Yes",
+        "url": "https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
         }
       ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+      "duration_ms": 313613,
+      "name": "El Verde De Tus Ojos",
+      "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
       },
@@ -1759,6 +1775,22 @@
       "duration_ms": 228571,
       "name": "La Brujita",
       "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1811,22 +1843,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "Paisaje",
-      "url": "https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 158515,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/07LEfeN7VeSRQJ9Ejn2ZQ3"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c"
     },
     {
       "added_at": "2025-08-13 19:19:00",

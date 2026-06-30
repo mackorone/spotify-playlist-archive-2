@@ -3117,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "summer Dawn",
+        "url": "https://open.spotify.com/album/2u0zDu9mQiIOH6gZ6SG0UK"
+      },
+      "artists": [
+        {
+          "name": "ANEUKAM POP",
+          "url": "https://open.spotify.com/artist/4ZGuGTFnsHMR7TfrMJDQEH"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120813,
+      "name": "It's so hot outside",
+      "url": "https://open.spotify.com/track/6nVARL36I0FPJKkAXEfivk"
+    },
+    {
+      "album": {
         "name": "It\u2019s a different thing to love her and make her happy (feat. jeebanoff)",
         "url": "https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY"
       },
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,016 songs - 2 day 0 hr 56 min
+1,017 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Big Money](https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Big Money](https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA) | 2:18 | 2022-09-15 | 2022-12-13 |
 | [Big Steppa](https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:56 | 2023-06-09 | 2023-09-29 |
 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-01-30 | 2026-04-30 |
-| [Blame On Me](https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Blame On Me](https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z) | 2:35 | 2026-04-10 |  |
+| [Blame On Me](https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Blame On Me](https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z) | 2:35 | 2026-04-10 | 2026-06-30 |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-04-15 |
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-11 | 2023-05-12 |
 | [Bodija](https://open.spotify.com/track/3GPZo2tH4a5U2z89a0rRr3) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:45 | 2024-03-08 | 2024-07-27 |
@@ -587,6 +587,7 @@
 | [Me & U](https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Me & U](https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf) | 3:04 | 2023-09-14 | 2023-09-29 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-13 | 2024-06-28 |
 | [Me & You](https://open.spotify.com/track/7GQWq2bKlhGTEEkXMQkloe) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Me & You](https://open.spotify.com/album/0ITlgh9xtnwV3SKphG66FA) | 2:45 | 2024-08-02 | 2024-09-08 |
+| [Me + U \(Destiny\)](https://open.spotify.com/track/66jPFgVH0P7J8ZZRStOqu3) | [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Me + U \(Destiny\)](https://open.spotify.com/album/5RScNOObQXjy1hYSUWflfI) | 2:46 | 2026-06-25 |  |
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-03-15 |
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-18 | 2023-01-20 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-06-27 | 2025-08-26 |

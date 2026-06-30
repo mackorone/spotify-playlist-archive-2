@@ -1,12 +1,12 @@
 {
   "description": "Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting + more",
-  "num_followers": 30034,
+  "num_followers": 30031,
   "original_name": "Weekly Workout \ud83c\udfc3",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAAQw3v045go2WjSPwMDmwG3UF+6Qvw4",
+  "snapshot_id": "AAAQxZVSzBTa8uFGSjziB5Wn+A4lquJN",
   "tracks": [
     {
       "added_at": "2026-06-26 01:53:17",
@@ -47,6 +47,22 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
+    },
+    {
+      "added_at": "2026-06-26 01:53:17",
+      "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
     },
     {
       "added_at": "2026-06-26 01:53:17",
@@ -103,22 +119,6 @@
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-06-26 01:53:17",
-      "album": {
-        "name": "On 2nite",
-        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 158848,
-      "name": "On 2nite",
-      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
     },
     {
       "added_at": "2026-06-26 01:54:19",
@@ -1544,7 +1544,7 @@
           "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         },
         {
-          "name": "Illyus Barrientos ",
+          "name": "Illyus Barrientos",
           "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
         }
       ],

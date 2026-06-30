@@ -1,12 +1,12 @@
 {
   "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Power Snatch",
-  "num_followers": 470770,
+  "num_followers": 470739,
   "original_name": "New Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAErZRsCedjk34MNZXg5oRLnRQaLI",
+  "snapshot_id": "AAAAALuKj7H07mpXOynz0ux3LhKM44Bp",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:23",
@@ -46,10 +46,6 @@
         {
           "name": "KennyHoopla",
           "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        },
-        {
-          "name": "Albert Hammond Jr",
-          "url": "https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H"
         }
       ],
       "duration_ms": 169155,
@@ -297,6 +293,22 @@
       "url": "https://open.spotify.com/track/6hsAyc0XTNEQ6FFq7JGEOE"
     },
     {
+      "added_at": "2026-06-29 22:05:00",
+      "album": {
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
+    },
+    {
       "added_at": "2026-06-26 04:01:23",
       "album": {
         "name": "Cult of Celebrity",
@@ -431,6 +443,22 @@
       "duration_ms": 428573,
       "name": "close your eyes",
       "url": "https://open.spotify.com/track/1noGAR76Oa2NLjmCvZxWeU"
+    },
+    {
+      "added_at": "2026-06-29 22:05:00",
+      "album": {
+        "name": "Lobotomize Me",
+        "url": "https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW"
+      },
+      "artists": [
+        {
+          "name": "The Rat Utopia Experiment",
+          "url": "https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa"
+        }
+      ],
+      "duration_ms": 191602,
+      "name": "Lobotomize Me",
+      "url": "https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y"
     },
     {
       "added_at": "2026-06-26 04:01:23",

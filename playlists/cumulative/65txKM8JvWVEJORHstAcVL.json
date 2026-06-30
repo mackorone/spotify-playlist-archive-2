@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (21/06/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (28/06/2026)",
   "tracks": [
     {
       "album": {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 213440,
       "name": "American Girls",
       "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 149706,
       "name": "no sta mal",
       "url": "https://open.spotify.com/track/42IZ43xd4Utj3dz5sAAJwP"
@@ -3829,6 +3829,28 @@
     },
     {
       "album": {
+        "name": "Papi posa-la al disc",
+        "url": "https://open.spotify.com/album/2SA3PGSf0z9PQ0EdOTHJDp"
+      },
+      "artists": [
+        {
+          "name": "Joan Daus\u00e0",
+          "url": "https://open.spotify.com/artist/1GRFao1QTh0i5Wx5Ms0A3I"
+        },
+        {
+          "name": "Mama Dousha",
+          "url": "https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149120,
+      "name": "Papi posa-la al disc",
+      "url": "https://open.spotify.com/track/1wRpCDnUqqlHDkn7B128Tb"
+    },
+    {
+      "album": {
         "name": "Passen coses",
         "url": "https://open.spotify.com/album/6v7R079cecpwRJjUwVwJou"
       },
@@ -3880,7 +3902,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 223066,
       "name": "Per una can\u00e7\u00f3",
       "url": "https://open.spotify.com/track/6QIXdksYvHGepNzugL8olK"
@@ -3902,6 +3924,24 @@
       "duration_ms": 154340,
       "name": "Perdre el cap",
       "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
+    },
+    {
+      "album": {
+        "name": "PERDUTS TU I JO",
+        "url": "https://open.spotify.com/album/6F8mHq4XtR4kD1TUJBamIO"
+      },
+      "artists": [
+        {
+          "name": "KORA",
+          "url": "https://open.spotify.com/artist/4EpjyFRyUGaSWcjT6Q9miO"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171091,
+      "name": "PERDUTS TU I JO",
+      "url": "https://open.spotify.com/track/6c4iTnfTMSV0GbVO5r7yTm"
     },
     {
       "album": {
@@ -5182,6 +5222,24 @@
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "Vine'm a buscar",
+        "url": "https://open.spotify.com/album/35ChYAPb2fIAxYa9Oufqya"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149226,
+      "name": "Vine'm a buscar",
+      "url": "https://open.spotify.com/track/1xEr1o7xL4PQfWgUOao1Kw"
     },
     {
       "album": {

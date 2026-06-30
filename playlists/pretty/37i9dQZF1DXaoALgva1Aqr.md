@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoALgva1Aqr.md) - [plain]
 
 > The biggest sounds for the beautiful game ⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,775 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,183 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoALgva1Aqr.md) - [plain]
 | 41 | [Tubarão Te Amo](https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA) | [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [mc jhenny](https://open.spotify.com/artist/6Ka3TKKRqhWwbmuxjhrmo6), [Mc RF](https://open.spotify.com/artist/7rnLNmWx3ibYo5uQcghVgQ) | [Tubarão Te Amo](https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E) | 2:29 |
 | 42 | [Three Lions \(Football's Coming Home\)](https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W) | [Baddiel, Skinner & Lightning Seeds](https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h) | [Three Lions \(Football's Coming Home\)](https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57) | 3:48 |
 | 43 | [Follow Me](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 |
-| 44 | [World in Motion](https://open.spotify.com/track/08po8QZK3tihnLBZWATAki) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:30 |
-| 45 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 |
+| 44 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 |
+| 45 | [World in Motion](https://open.spotify.com/track/08po8QZK3tihnLBZWATAki) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:30 |
 | 46 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/7FNIEfhhBlzsZFxCwI5Nwh) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 3:33 |
 | 47 | [Game Time](https://open.spotify.com/track/6bj8Kb7jo30BI95PmBf5km) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:26 |
 | 48 | [Go West](https://open.spotify.com/track/0D2t9hxLR86LXCTjSngqyC) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [90s Pride](https://open.spotify.com/album/6UUZ2aCfKJFJ2Zg2KKedMa) | 5:04 |

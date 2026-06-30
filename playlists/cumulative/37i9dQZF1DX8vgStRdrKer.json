@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 401000,
       "name": "El Gibbor",
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
@@ -14366,6 +14366,36 @@
       "duration_ms": 360782,
       "name": "Time To Shine",
       "url": "https://open.spotify.com/track/1MHGzvIAbQtXxrC6Oa4L33"
+    },
+    {
+      "album": {
+        "name": "Titilailai II",
+        "url": "https://open.spotify.com/album/4yLLubzQk0BwFxOmawlWR9"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "CHUKWUMA",
+          "url": "https://open.spotify.com/artist/1rJmQdx0zNkrRg79nRAani"
+        },
+        {
+          "name": "Johnson Jkeyz",
+          "url": "https://open.spotify.com/artist/3i5caMGGXTstF0BkyyXDNL"
+        },
+        {
+          "name": "Eddiekeyz",
+          "url": "https://open.spotify.com/artist/7MBOuFVIRFqsfEleVgXEDh"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199023,
+      "name": "Titilailai II",
+      "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
     },
     {
       "album": {

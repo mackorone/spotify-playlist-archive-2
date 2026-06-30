@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 219813,
       "name": "emoji",
       "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 209589,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
@@ -2834,6 +2834,24 @@
       "duration_ms": 146402,
       "name": "I Love Yuo",
       "url": "https://open.spotify.com/track/6ENEZrqRJqUMNhTaOjlu6X"
+    },
+    {
+      "album": {
+        "name": "i said it",
+        "url": "https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "i said it",
+      "url": "https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW"
     },
     {
       "album": {
@@ -4318,6 +4336,24 @@
       "duration_ms": 210999,
       "name": "Overdose (feat. Tommy Strate)",
       "url": "https://open.spotify.com/track/5ZuKbf0TrWoa3mc1Arcx3Y"
+    },
+    {
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
     },
     {
       "album": {

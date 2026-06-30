@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,378 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,369 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 71 | [La Reyna Del Inframundo](https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT) | 3:10 |
 | 72 | [Soledad](https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Desarrollo de Personaje](https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl) | 3:05 |
 | 73 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
-| 74 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
+| 74 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
 | 75 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
-| 76 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
+| 76 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 77 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
 | 78 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 | 79 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |

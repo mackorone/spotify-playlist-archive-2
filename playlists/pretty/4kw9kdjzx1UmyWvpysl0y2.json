@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123669,
+  "num_followers": 123662,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVhUisMaT0vkqPUF/FEOYpgnwgGUuQ",
+  "snapshot_id": "AAAVh92y7v/+i+dX5dhfHJaAEkXHOQ/+",
   "tracks": [
+    {
+      "added_at": "2026-06-29 16:35:12",
+      "album": {
+        "name": "WATCHDIS!",
+        "url": "https://open.spotify.com/album/7Hsxv3WK0XcI3cVA4jqfBz"
+      },
+      "artists": [
+        {
+          "name": "KRITIKAL",
+          "url": "https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S"
+        }
+      ],
+      "duration_ms": 128275,
+      "name": "WATCHDIS!",
+      "url": "https://open.spotify.com/track/4jnreaIZunqfQXtAb0JPDv"
+    },
     {
       "added_at": "2026-06-26 15:41:29",
       "album": {
@@ -1183,22 +1199,6 @@
       "duration_ms": 217687,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5Iby2CpAUke1noXR6mg51K"
-    },
-    {
-      "added_at": "2026-03-25 17:14:27",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/3c26X4k1tb3nui2V1aDC95"
-      },
-      "artists": [
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/1DsPPeID1anFjzeuvIKaLK"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

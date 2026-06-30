@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Fiddlehead
 
-3,397 songs - 7 day 1 hr 56 min
+3,398 songs - 7 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1776,6 +1776,7 @@
 | [Living Bridge](https://open.spotify.com/track/0nxSoazdLknFrdfbyyefaN) | [Bucket](https://open.spotify.com/artist/5HUAFNOOk3m5FvqQW2rMfI) | [Muck](https://open.spotify.com/album/7IyjAvCAGdG2qQ6vKkjuwW) | 3:11 | 2025-03-21 | 2025-05-02 |
 | [Living Proof](https://open.spotify.com/track/5EiE9ElrC8UNnyuEOIpPeV) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 3:22 | 2023-05-04 | 2023-06-30 |
 | [Lizzie](https://open.spotify.com/track/7moEGE75KEQCEFqanBCBZF) | [The Paranoyds](https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4) | [Lizzie](https://open.spotify.com/album/5obQYZ08yYJXDYq04mD8k8) | 2:39 | 2022-06-30 | 2022-08-12 |
+| [Lobotomize Me](https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y) | [The Rat Utopia Experiment](https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa) | [Lobotomize Me](https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW) | 3:11 | 2026-06-29 |  |
 | [Lock Up](https://open.spotify.com/track/1wiRoLw8Q4DrBZBccCJbMv) | [Hot Water Music](https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff) | [Lock Up](https://open.spotify.com/album/0tAMIeGBYkNJYtbYJp2R0Q) | 3:24 | 2022-02-18 | 2022-04-01 |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-06-18 |
 | [Lonely](https://open.spotify.com/track/2wJu7B7tVH5u4Mwu4fDYRb) | [Pulley](https://open.spotify.com/artist/1D20Qqq2BnfaShwNDb00KU) | [Lonely](https://open.spotify.com/album/6hFNbFaWAmzXxcLxEq8iPQ) | 2:57 | 2022-05-12 | 2022-06-24 |

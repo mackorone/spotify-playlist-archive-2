@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,297 likes - 1,577 songs - 3 day 16 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,304 likes - 1,577 songs - 3 day 16 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,25 +18,25 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 8 | [Lalala](https://open.spotify.com/track/1Vf5b1wnZftO0i2AwNjIPk) | [tokyo france](https://open.spotify.com/artist/76XxAQ6ojytWxEJcl2R29v) | [Songs For, By, and Mostly About Birds](https://open.spotify.com/album/1N1wMRvV4OLg5H8VVHEWeT) | 3:01 |
 | 9 | [Rock Band](https://open.spotify.com/track/0zd1M7iWSbiBLECUFRA68C) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Rock Band](https://open.spotify.com/album/4H4w0CLMzsDqcwIXEma2ym) | 3:15 |
 | 10 | [Down on Love](https://open.spotify.com/track/1e6yeX2wyy6DYGPdfvzl2O) | [Sam and Louise Sullivan](https://open.spotify.com/artist/2pI9qPV311bnXUoJHhdtqF) | [Down on Love](https://open.spotify.com/album/2pYMnZVr54Md6wRrDTca89) | 2:57 |
-| 11 | [Cola](https://open.spotify.com/track/4kIO02fD6JA2mP3xzlqys8) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [\\ \(^\_^\) /](https://open.spotify.com/album/1RVHQ8ix8rKX5Zx4oXZacg) | 3:19 |
-| 12 | [eyes of the well](https://open.spotify.com/track/5DfV6ORweZovfXxQeTKHNm) | [dilute\_calico98](https://open.spotify.com/artist/6B6DUCXa5mpnviu6oo4sUS) | [eyes of the well + joule](https://open.spotify.com/album/4pS8cVTfCxNFFUgdx7TS4B) | 3:38 |
-| 13 | [Ache](https://open.spotify.com/track/5M3h8446EIPnCr7xm4Pxq0) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD), [Sarah & Collin](https://open.spotify.com/artist/02pA8aDoO6ZIZlaHyCJ0pl) | [Ache](https://open.spotify.com/album/7Hnfwal9TfyoOz6kzCsbko) | 3:32 |
-| 14 | [Dirty Soul](https://open.spotify.com/track/0VbzX34prF81H6SjeL9Ofp) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Dirty Soul](https://open.spotify.com/album/0WoTXnznyVXXRH7MJsew3K) | 4:09 |
-| 15 | [I Guess I Really Needed You](https://open.spotify.com/track/3305suBRlCfOm8nIs5MWar) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Magic River](https://open.spotify.com/album/6LBgt0ibhXp7b59OuUIMyV) | 3:50 |
-| 16 | [Parallel](https://open.spotify.com/track/5KDpKgQpTH6bqKGRm5Tnah) | [Melaina Kol](https://open.spotify.com/artist/0t19UNl8aSQGryDSfuW5gT) | [Parallel](https://open.spotify.com/album/0dvJ00PyWHzDBOMjsZa3F2) | 3:00 |
-| 17 | [Truck](https://open.spotify.com/track/3RFA86t3yrML0ktPjRAcX7) | [talker](https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm) | [Truck](https://open.spotify.com/album/0N614JcqvWYbC8te40qoCq) | 4:05 |
-| 18 | [Wild Thyme](https://open.spotify.com/track/3iS15JxLLhBDDW5gUrHqVA) | [Mono Mochi](https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF) | [Oh Elsa!](https://open.spotify.com/album/5lbgUgBXXBBMTkqofu0u2o) | 5:27 |
-| 19 | [Golden Boy](https://open.spotify.com/track/7qEWTSvAp6PrzheNCdyYdh) | [Desert Man](https://open.spotify.com/artist/2JkbGLMRpExrVZydQ5rUVc) | [Golden Boy](https://open.spotify.com/album/1DJj3AWPz3hIWVsBkSvPVG) | 3:27 |
-| 20 | [Nobody Knows Anything](https://open.spotify.com/track/4vKL075tnka5PuXDthjmNs) | [Hotel Mirror](https://open.spotify.com/artist/0C8WNXB2iH7lUydOM31bE0) | [Nobody Knows Anything](https://open.spotify.com/album/7HzKjDrD0PuBBoaD1QWOXV) | 3:27 |
-| 21 | [Doomed](https://open.spotify.com/track/1eSADzvm7DFVwRUOXpAmdf) | [Avery Laird](https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ) | [Doomed](https://open.spotify.com/album/29RCGtgIZKezj1TQuG60eq) | 5:38 |
-| 22 | [When my eyes shut slow](https://open.spotify.com/track/09wuOzGskloX24CJw7WAlN) | [Northern Safari](https://open.spotify.com/artist/5Wg2Uka7v3G0m3ktmRj8Mi) | [When my eyes shut slow](https://open.spotify.com/album/5HmqlMqtBVu1U8NpuQVvAA) | 2:31 |
-| 23 | [Ego](https://open.spotify.com/track/2CXum21c8iznWtIsPWhiJc) | [Sabina](https://open.spotify.com/artist/4pdOJ0BGnP5kN8aeuCV6p7) | [Ego](https://open.spotify.com/album/4s1ipUGrW7sPagkkbmDGzh) | 3:00 |
-| 24 | [No Melancholy, Goodbye](https://open.spotify.com/track/77Fd2DyDuF2YVDUzsEL5gC) | [fencah](https://open.spotify.com/artist/2W1OMWB3TqCAfsaxvvhWE2), [Ivery](https://open.spotify.com/artist/32oc8Xlo5E67JkJJTC1JX6) | [No Melancholy, Goodbye](https://open.spotify.com/album/0w9nEMBqm7na5JUFHjfkDC) | 3:16 |
-| 25 | [Crossing](https://open.spotify.com/track/3wjdnCVV5kqJuu7Ai4dNio) | [Maripool](https://open.spotify.com/artist/2Lmop7bq7RxW1Ue2GQsgSf) | [Crossing](https://open.spotify.com/album/1jRpDvxJlIrJpXUuNuQaPw) | 3:08 |
-| 26 | [Background](https://open.spotify.com/track/1TJSxIstFKlMvZKoVYQ9gQ) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [Surprise Wish](https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu) | 2:36 |
-| 27 | [Ann Arbor](https://open.spotify.com/track/3mFC1ONosKSZTEfSXwhTrM) | [Closebye](https://open.spotify.com/artist/6XZ6Yyn1McxgRoEkKQgpZA) | [No Troubles Left At All / Ann Arbor](https://open.spotify.com/album/3MrHrEry95qna0pOUFiUKO) | 4:18 |
-| 28 | [Going off to Die](https://open.spotify.com/track/4Njzu2hXZpV6KtNJyNejBA) | [Smirk](https://open.spotify.com/artist/07iNk8rRYH0gXNXcewJ3n5) | [Going off to Die](https://open.spotify.com/album/01ZanHDlkfYDBfBbsx4YQW) | 4:09 |
-| 29 | [Dog in the House of Plenty](https://open.spotify.com/track/1blKVaFYoyyF92PzN5S5T4) | [LOCKSTEP](https://open.spotify.com/artist/1hMq6DAPEJ4MRPzjZ1HsZv) | [Dog in the House of Plenty](https://open.spotify.com/album/0rOy50o4NNFNhrVYGRt05U) | 4:17 |
+| 11 | [Ache](https://open.spotify.com/track/5M3h8446EIPnCr7xm4Pxq0) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD), [Sarah & Collin](https://open.spotify.com/artist/02pA8aDoO6ZIZlaHyCJ0pl) | [Ache](https://open.spotify.com/album/7Hnfwal9TfyoOz6kzCsbko) | 3:32 |
+| 12 | [Dirty Soul](https://open.spotify.com/track/0VbzX34prF81H6SjeL9Ofp) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Dirty Soul](https://open.spotify.com/album/0WoTXnznyVXXRH7MJsew3K) | 4:09 |
+| 13 | [I Guess I Really Needed You](https://open.spotify.com/track/3305suBRlCfOm8nIs5MWar) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [Magic River](https://open.spotify.com/album/6LBgt0ibhXp7b59OuUIMyV) | 3:50 |
+| 14 | [Parallel](https://open.spotify.com/track/5KDpKgQpTH6bqKGRm5Tnah) | [Melaina Kol](https://open.spotify.com/artist/0t19UNl8aSQGryDSfuW5gT) | [Parallel](https://open.spotify.com/album/0dvJ00PyWHzDBOMjsZa3F2) | 3:00 |
+| 15 | [Truck](https://open.spotify.com/track/3RFA86t3yrML0ktPjRAcX7) | [talker](https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm) | [Truck](https://open.spotify.com/album/0N614JcqvWYbC8te40qoCq) | 4:05 |
+| 16 | [Wild Thyme](https://open.spotify.com/track/3iS15JxLLhBDDW5gUrHqVA) | [Mono Mochi](https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF) | [Oh Elsa!](https://open.spotify.com/album/5lbgUgBXXBBMTkqofu0u2o) | 5:27 |
+| 17 | [Golden Boy](https://open.spotify.com/track/7qEWTSvAp6PrzheNCdyYdh) | [Desert Man](https://open.spotify.com/artist/2JkbGLMRpExrVZydQ5rUVc) | [Golden Boy](https://open.spotify.com/album/1DJj3AWPz3hIWVsBkSvPVG) | 3:27 |
+| 18 | [Nobody Knows Anything](https://open.spotify.com/track/4vKL075tnka5PuXDthjmNs) | [Hotel Mirror](https://open.spotify.com/artist/0C8WNXB2iH7lUydOM31bE0) | [Nobody Knows Anything](https://open.spotify.com/album/7HzKjDrD0PuBBoaD1QWOXV) | 3:27 |
+| 19 | [Doomed](https://open.spotify.com/track/1eSADzvm7DFVwRUOXpAmdf) | [Avery Laird](https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ) | [Doomed](https://open.spotify.com/album/29RCGtgIZKezj1TQuG60eq) | 5:38 |
+| 20 | [When my eyes shut slow](https://open.spotify.com/track/09wuOzGskloX24CJw7WAlN) | [Northern Safari](https://open.spotify.com/artist/5Wg2Uka7v3G0m3ktmRj8Mi) | [When my eyes shut slow](https://open.spotify.com/album/5HmqlMqtBVu1U8NpuQVvAA) | 2:31 |
+| 21 | [Ego](https://open.spotify.com/track/2CXum21c8iznWtIsPWhiJc) | [Sabina](https://open.spotify.com/artist/4pdOJ0BGnP5kN8aeuCV6p7) | [Ego](https://open.spotify.com/album/4s1ipUGrW7sPagkkbmDGzh) | 3:00 |
+| 22 | [No Melancholy, Goodbye](https://open.spotify.com/track/77Fd2DyDuF2YVDUzsEL5gC) | [fencah](https://open.spotify.com/artist/2W1OMWB3TqCAfsaxvvhWE2), [Ivery](https://open.spotify.com/artist/32oc8Xlo5E67JkJJTC1JX6) | [No Melancholy, Goodbye](https://open.spotify.com/album/0w9nEMBqm7na5JUFHjfkDC) | 3:16 |
+| 23 | [Crossing](https://open.spotify.com/track/3wjdnCVV5kqJuu7Ai4dNio) | [Maripool](https://open.spotify.com/artist/2Lmop7bq7RxW1Ue2GQsgSf) | [Crossing](https://open.spotify.com/album/1jRpDvxJlIrJpXUuNuQaPw) | 3:08 |
+| 24 | [Background](https://open.spotify.com/track/1TJSxIstFKlMvZKoVYQ9gQ) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [Surprise Wish](https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu) | 2:36 |
+| 25 | [Ann Arbor](https://open.spotify.com/track/3mFC1ONosKSZTEfSXwhTrM) | [Closebye](https://open.spotify.com/artist/6XZ6Yyn1McxgRoEkKQgpZA) | [No Troubles Left At All / Ann Arbor](https://open.spotify.com/album/3MrHrEry95qna0pOUFiUKO) | 4:18 |
+| 26 | [Going off to Die](https://open.spotify.com/track/4Njzu2hXZpV6KtNJyNejBA) | [Smirk](https://open.spotify.com/artist/07iNk8rRYH0gXNXcewJ3n5) | [Going off to Die](https://open.spotify.com/album/01ZanHDlkfYDBfBbsx4YQW) | 4:09 |
+| 27 | [Dog in the House of Plenty](https://open.spotify.com/track/1blKVaFYoyyF92PzN5S5T4) | [LOCKSTEP](https://open.spotify.com/artist/1hMq6DAPEJ4MRPzjZ1HsZv) | [Dog in the House of Plenty](https://open.spotify.com/album/0rOy50o4NNFNhrVYGRt05U) | 4:17 |
+| 28 | [Cola](https://open.spotify.com/track/4kIO02fD6JA2mP3xzlqys8) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [\\ \(^\_^\) /](https://open.spotify.com/album/1RVHQ8ix8rKX5Zx4oXZacg) | 3:19 |
+| 29 | [eyes of the well](https://open.spotify.com/track/5DfV6ORweZovfXxQeTKHNm) | [dilute\_calico98](https://open.spotify.com/artist/6B6DUCXa5mpnviu6oo4sUS) | [eyes of the well + joule](https://open.spotify.com/album/4pS8cVTfCxNFFUgdx7TS4B) | 3:38 |
 | 30 | [Tendency For Violence](https://open.spotify.com/track/6FW8uU4OzEbPOAZkyIFzry) | [Storefront Church](https://open.spotify.com/artist/2hRQpaQds9ectgTszE5z7L) | [Tendency For Violence](https://open.spotify.com/album/5cH0nJ42462ldWJZJ99ux8) | 2:51 |
 | 31 | [Veronika](https://open.spotify.com/track/45Wr1013OxWZnpxojNt8sv) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Madgette Baguette](https://open.spotify.com/album/4E2TvtSq9TyhRBA7G3fKNJ) | 2:33 |
 | 32 | [Energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 |
@@ -1586,4 +1586,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1576 | [Return](https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO) | [No Windows](https://open.spotify.com/artist/2UgDlLTqaZiPL107iNQSOr) | [Return](https://open.spotify.com/album/2MEIAI8ldOUBT4qaRRkW8y) | 3:02 |
 | 1577 | [Everyone Loves You \- Radio Edit](https://open.spotify.com/track/10Gj5oUXE50NgsU2sc22Qd) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 3:37 |
 
-Snapshot ID: `AABI737LUg4mFLfPHsUDqwjnyGoKUIk7`
+Snapshot ID: `AABI8PRdZpIzGTKpNq7CbmFOgBHKw04W`

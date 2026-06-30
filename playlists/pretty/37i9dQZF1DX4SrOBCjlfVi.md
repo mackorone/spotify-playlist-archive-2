@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rod Wave, Future,  Pooh Shiesty & GloRilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,031 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,122 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 34 | [BANGOUT](https://open.spotify.com/track/5eSKfFhiqlItnWlnkmAhxQ) | [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [BANGOUT](https://open.spotify.com/album/7z3aQPmbLfsvVuGzhsQJF6) | 2:19 |
 | 35 | [Get Low With Me](https://open.spotify.com/track/2TjhQDIOOEuhuAQaN0VCpd) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Get Low With Me](https://open.spotify.com/album/2Jq7LRn29qRtnKW5ok3pGi) | 3:24 |
 | 36 | [Like Father Like Daughter \(feat\. Cali Dream\)](https://open.spotify.com/track/6If50OCdWl3BcAbQpnFiz1) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Cali Dream](https://open.spotify.com/artist/0xJAec4X6tBW635aBPlTlu) | [Like Father Like Daughter \(feat\. Cali Dream\)](https://open.spotify.com/album/3V63F2eQUlzyataNrcGcJT) | 3:40 |
-| 37 | [Sneak Attacc](https://open.spotify.com/track/5AI8tNEqfbXCbLwlkIGmPo) | [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Sneak Attacc](https://open.spotify.com/album/7GyhntN2F9ad0q4a2jV429) | 3:25 |
+| 37 | [Sneak Attacc](https://open.spotify.com/track/5AI8tNEqfbXCbLwlkIGmPo) | [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Sneak Attacc](https://open.spotify.com/album/7GyhntN2F9ad0q4a2jV429) | 3:25 |
 | 38 | [Where You From](https://open.spotify.com/track/0EHvxxbyDANSz9FsLp9mfk) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [Jap5](https://open.spotify.com/artist/7jWkhRpEiTuctAx2tRS24A) | [Where You From](https://open.spotify.com/album/65dPNe9VLsWG3vTOqMRWED) | 1:55 |
 | 39 | [2011 \- Winter Is Coming](https://open.spotify.com/track/7m7Gx02ZDbdmpZvH4Mnk2p) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Clef Notes \- Quantum Leap, Vol\. 1](https://open.spotify.com/album/2PuBAwmqiBfvnfWtqIiqGN) | 3:57 |
 | 40 | [Run Up That Bag](https://open.spotify.com/track/01LI2DsQgjyhP3TvUJ1CZP) | [AK](https://open.spotify.com/artist/0TjvVjDesZyTCmI7qR1sbn), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt) | [Run Up That Bag](https://open.spotify.com/album/0KtUIzNk8PkcHlDUlbYvXK) | 2:45 |

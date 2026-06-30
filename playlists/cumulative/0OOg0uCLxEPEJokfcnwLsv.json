@@ -59,6 +59,36 @@
     },
     {
       "album": {
+        "name": "Tribal Suits",
+        "url": "https://open.spotify.com/album/3LwhSOisS2ocjsU0Dn3yiD"
+      },
+      "artists": [
+        {
+          "name": "Nikos Raptis 606",
+          "url": "https://open.spotify.com/artist/6ArWbx65m6W1wvnKLz6DDu"
+        },
+        {
+          "name": "606' Trio",
+          "url": "https://open.spotify.com/artist/3P8nnRW5bGtcOzWE6MiqIZ"
+        },
+        {
+          "name": "Takis Gkrekos",
+          "url": "https://open.spotify.com/artist/3q9un5Y5ULs48p1BtbTx4Q"
+        },
+        {
+          "name": "Giannis Anestis",
+          "url": "https://open.spotify.com/artist/18LjZXBPCqFSumSUA3v8gT"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196061,
+      "name": "7-7-7",
+      "url": "https://open.spotify.com/track/47RIBc1ppUx3dTW3HKKNAZ"
+    },
+    {
+      "album": {
         "name": "9 to 5 Dreams",
         "url": "https://open.spotify.com/album/2lcVxVFpsbSo7DzB7tXgMJ"
       },

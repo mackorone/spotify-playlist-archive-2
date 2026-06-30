@@ -4,7 +4,7 @@
 
 > Enjoy your favorite Disney tunes, including "Zoo" from Zootopia 2!
 
-229 songs - 11 hr 50 min
+230 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Overture / Main Street, U.S.A\. \- Disneyland Attraction Version](https://open.spotify.com/track/531Kq6cHz5GOSsLL132pE3) | [Disneyland Concert Orchestra](https://open.spotify.com/artist/6XhmSf8oAZdvQC3S32g8rq) | [Walt Disney Takes You to Disneyland](https://open.spotify.com/album/3jG28snbnmyGA5rh3XteY1) | 6:28 | 2023-05-15 |  |
 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-05-15 | 2026-02-21 |
 | [Part of Your World \- From "The Little Mermaid" Soundtrack](https://open.spotify.com/track/5J4pDyvjRrYfcgHetKjKSj) | [Jodi Benson](https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 3:15 | 2021-11-19 | 2023-05-16 |
+| [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 | 2026-06-29 |  |
 | [Pay Attention / In a World of My Own](https://open.spotify.com/track/4jadyA9N53rvVjy6KjKAgT) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 2:12 | 2023-05-15 |  |
 | [Pineapple Princess](https://open.spotify.com/track/6uTfpDEETdJhYb3y3bB9NO) | [Annette Funicello](https://open.spotify.com/artist/1uHivHZ0fLfvwPL1UgkpMU) | [Hawaiiannette](https://open.spotify.com/album/7d3Fownt5tTnTR1KpvfZ00) | 2:27 | 2023-05-15 |  |
 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 | 2023-05-15 |  |

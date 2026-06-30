@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 103440,
       "name": "a world",
       "url": "https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 99601,
       "name": "hello sunshine",
       "url": "https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 113131,
       "name": "jus make it go boom",
       "url": "https://open.spotify.com/track/7yXLbFH6bK48Fng7HMWdT3"
@@ -1766,6 +1766,24 @@
       "duration_ms": 97904,
       "name": "one touch",
       "url": "https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY"
+    },
+    {
+      "album": {
+        "name": "kd 2019-2022 sc songs (compilation)",
+        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53775,
+      "name": "only fl i need is flipnote",
+      "url": "https://open.spotify.com/track/6pbybtxU2bndDV2n0kXScS"
     },
     {
       "album": {

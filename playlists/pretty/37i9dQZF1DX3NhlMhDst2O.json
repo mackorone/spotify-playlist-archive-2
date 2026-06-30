@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 171089,
+  "num_followers": 171131,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Dos Cartas y una Flor",
-      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Dos Cartas y una Flor",
+      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "En Su Punto",
         "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 233266,
       "name": "Rosas Blancas",
       "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Qu\u00e9 Tiene la Ni\u00f1a",
-      "url": "https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Antolog\u00eda...Los Baby's",
         "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 178680,
       "name": "Como sufro",
       "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Qu\u00e9 Tiene la Ni\u00f1a",
+      "url": "https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
       },
       "artists": [
         {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+          "name": "Generacion 2000",
+          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Por qu\u00e9?",
-      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
+      "duration_ms": 140653,
+      "name": "T\u00fa Eres",
+      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk"
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
       "artists": [
         {
-          "name": "Generacion 2000",
-          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
         }
       ],
-      "duration_ms": 140653,
-      "name": "T\u00fa Eres",
-      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
+      "duration_ms": 183693,
+      "name": "Por qu\u00e9?",
+      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
     },
     {
       "added_at": "2025-01-28 15:41:46",

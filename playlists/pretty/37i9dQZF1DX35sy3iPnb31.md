@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,954 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,960 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 35 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 | 36 | [THEO](https://open.spotify.com/track/4k1C99VNcTqtGgTJk8OMBt) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [THEO](https://open.spotify.com/album/0Ia9aO3tQYbEWL9l4QERTv) | 2:56 |
 | 37 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 |
-| 38 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
-| 39 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
-| 40 | [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 |
+| 38 | [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 |
+| 39 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
+| 40 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
 | 41 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 42 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
 | 43 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 47 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
 | 48 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 |
 | 49 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
-| 50 | [Many Men](https://open.spotify.com/track/2QuWFGLmx5l6oFlmfiTNio) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [Many Men](https://open.spotify.com/album/57mPLz3Ii7CXM6kJqjvuWu) | 2:35 |
+| 50 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
 
 Snapshot ID: `AAAAAJT2AvyuofTCrJJtQ5Ru9AiINRb0`

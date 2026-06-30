@@ -4,13 +4,14 @@
 
 > These are some independent rock bands you need to hear.
 
-558 songs - 1 day 10 hr 31 min
+559 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 | 2026-04-25 | 2026-06-13 |
 | [27 Club](https://open.spotify.com/track/3UjPYwiPULXhmVK91dHYhd) | [justJOY](https://open.spotify.com/artist/7xpJWxpoYSVlE9rTgn5Wna) | [27 Club](https://open.spotify.com/album/6Ym82PzOA7dAM7UgtwMby3) | 4:24 | 2026-04-16 | 2026-06-13 |
 | [7 M 7](https://open.spotify.com/track/4vCG7nI3o8GaqG8JgGJADs) | [Cromo](https://open.spotify.com/artist/0Bxu4pu1OwbJQAMUOPe4fZ) | [Atomic Mass 51.996](https://open.spotify.com/album/4d39mxsDZnsMOJSRfyoPBx) | 4:33 | 2026-04-21 | 2026-06-13 |
+| [7\-7\-7](https://open.spotify.com/track/47RIBc1ppUx3dTW3HKKNAZ) | [Nikos Raptis 606](https://open.spotify.com/artist/6ArWbx65m6W1wvnKLz6DDu), [606' Trio](https://open.spotify.com/artist/3P8nnRW5bGtcOzWE6MiqIZ), [Takis Gkrekos](https://open.spotify.com/artist/3q9un5Y5ULs48p1BtbTx4Q), [Giannis Anestis](https://open.spotify.com/artist/18LjZXBPCqFSumSUA3v8gT) | [Tribal Suits](https://open.spotify.com/album/3LwhSOisS2ocjsU0Dn3yiD) | 3:16 | 2026-06-29 |  |
 | [9 to 5 Dreams](https://open.spotify.com/track/3WNHabi5yTf8a4bce3xIlL) | [Deadline/Daydreams](https://open.spotify.com/artist/4qYkrZKqZwnck4JVLMAw22) | [9 to 5 Dreams](https://open.spotify.com/album/2lcVxVFpsbSo7DzB7tXgMJ) | 3:53 | 2026-04-06 | 2026-05-08 |
 | [A Candle's Night](https://open.spotify.com/track/5SOKQmZoBsA4SaLKfntmE5) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 4:39 | 2026-01-22 | 2026-02-23 |
 | [A Cautionary Tale](https://open.spotify.com/track/6pDaf6QczqxT2fu52rTxWO) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:27 | 2026-01-05 | 2026-02-02 |

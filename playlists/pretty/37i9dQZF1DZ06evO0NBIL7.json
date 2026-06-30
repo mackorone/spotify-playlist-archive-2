@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAAAwToPZ3NDNLTfDCCeEUyI9",
+  "snapshot_id": "akBkAAAAAAD5Agftxy9QOU+weuN1oHnQ",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 206010,
-      "name": "Devotion Sickness",
-      "url": "https://open.spotify.com/track/3avsyV7s5wju0EDounjcHv"
+      "duration_ms": 190560,
+      "name": "You Had Me At Hello",
+      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "You Had Me At Hello",
-      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 173120,
       "name": "Neighbourhood",
       "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Sweater Forever",
+      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 241520,
-      "name": "Sweater Forever",
-      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
+      "duration_ms": 206010,
+      "name": "Devotion Sickness",
+      "url": "https://open.spotify.com/track/3avsyV7s5wju0EDounjcHv"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 288750,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 251544,
       "name": "Attention",
       "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 288750,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+      "duration_ms": 155840,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Heart Is A Landmine",
-      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 224063,
       "name": "Natural",
       "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Heart Is A Landmine",
+      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "High",
-      "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bullet Head",
         "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
@@ -487,22 +471,6 @@
       "duration_ms": 163699,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 187945,
-      "name": "Inside Joke",
-      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
     },
     {
       "added_at": null,
@@ -523,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 187945,
+      "name": "Inside Joke",
+      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bullet Head",
         "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 178232,
       "name": "Psycho - Demo",
       "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "High",
+      "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
     }
   ],
   "unique_name": "This Is Fangclub",

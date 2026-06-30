@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: Brandão85
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,280 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,300 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 46 | [Ruas Frias](https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Ruas Frias](https://open.spotify.com/album/12UMQAWVys24LITebtbIdY) | 3:33 |
 | 47 | [placo no pulso](https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf) | [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP), [Caio Shock](https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp) | [placo no pulso](https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X) | 2:56 |
 | 48 | [Grandeza](https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6), [Dactes](https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS), [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV), [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH) | [Lealdade Primeiro](https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0) | 3:18 |
-| 49 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
-| 50 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
+| 49 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
+| 50 | [MODA 2](https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [MODA 2](https://open.spotify.com/album/0ABSk1qJrZkcUXcusEEDwK) | 1:36 |
 
 Snapshot ID: `AAAAAPTRK9LhRhWiK8XATxV+BkfvHM1U`

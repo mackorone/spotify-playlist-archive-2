@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 70441,
+  "num_followers": 70453,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbC5SyheRCSOx4D+hTHnIHIRX7H",
+  "snapshot_id": "AAAAABL1073VN9MHRB3i8C/kTCo/PDeM",
   "tracks": [
+    {
+      "added_at": "2026-06-29 11:20:08",
+      "album": {
+        "name": "Baa KARAVALIGE (From \"KARAVALI\")",
+        "url": "https://open.spotify.com/album/1MF115WgEyL7E5yKLPZovq"
+      },
+      "artists": [
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "duration_ms": 184499,
+      "name": "Baa KARAVALIGE (From \"KARAVALI\")",
+      "url": "https://open.spotify.com/track/2m3NvJMD7tWv0Y3rm2TyGZ"
+    },
     {
       "added_at": "2026-05-04 11:03:23",
       "album": {
@@ -55,6 +79,54 @@
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic - Kannada\"",
       "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
+    },
+    {
+      "added_at": "2026-06-29 11:20:08",
+      "album": {
+        "name": "Hunnime Chandira (From \"Picture\")",
+        "url": "https://open.spotify.com/album/6qqmWRi0E7vwYs9VvttCfz"
+      },
+      "artists": [
+        {
+          "name": "Samuel Aby",
+          "url": "https://open.spotify.com/artist/4JaDivtCGH8szhNAiwan1M"
+        },
+        {
+          "name": "Suni",
+          "url": "https://open.spotify.com/artist/6LXukTmznOkGlvPu8TnJLC"
+        },
+        {
+          "name": "Jassie Gift",
+          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        }
+      ],
+      "duration_ms": 213004,
+      "name": "Hunnime Chandira (From \"Picture\")",
+      "url": "https://open.spotify.com/track/7edV4z3OYgI5zMRKGpyR75"
+    },
+    {
+      "added_at": "2026-06-29 11:20:08",
+      "album": {
+        "name": "Maataadalaare (From \"Agumbe Video\") [Female Vocals]",
+        "url": "https://open.spotify.com/album/27A7qkZXdby9smzrYl94rp"
+      },
+      "artists": [
+        {
+          "name": "Chetan - Daavy",
+          "url": "https://open.spotify.com/artist/0VVvrLAbnAzjjDfJ19PmyD"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        },
+        {
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/5vXI6nUgSVm91qrhAPsgC7"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Maataadalaare (From \"Agumbe Video\") - Female Vocals",
+      "url": "https://open.spotify.com/track/31PHzSK42aOtgFIhzGrfQE"
     },
     {
       "added_at": "2026-06-19 13:00:49",
@@ -133,6 +205,50 @@
       "url": "https://open.spotify.com/track/5oInTSO5vGd3JWakTspzOw"
     },
     {
+      "added_at": "2026-06-29 11:20:08",
+      "album": {
+        "name": "Kaala Kettu Hoythu (From \"Namkaaldal Hingirlilla Bidi\")",
+        "url": "https://open.spotify.com/album/0TVK41EKuF1BmkyiW8EhOD"
+      },
+      "artists": [
+        {
+          "name": "John Mozart",
+          "url": "https://open.spotify.com/artist/2fTxh0M7EZYPXFK834sKeE"
+        },
+        {
+          "name": "Amoghavarsha",
+          "url": "https://open.spotify.com/artist/5ZYB5iVTDHrIsymCoTSmv4"
+        }
+      ],
+      "duration_ms": 252794,
+      "name": "Kaala Kettu Hoythu (From \"Namkaaldal Hingirlilla Bidi\")",
+      "url": "https://open.spotify.com/track/4D1JFXVLLp4EsF98RuYXto"
+    },
+    {
+      "added_at": "2026-06-29 11:20:58",
+      "album": {
+        "name": "Aaraaro Ra Ra Ri Ro (From \"Jolly\")",
+        "url": "https://open.spotify.com/album/1Vvm7CLK5DCHqsRbNW94oT"
+      },
+      "artists": [
+        {
+          "name": "Nithinraj",
+          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        },
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        }
+      ],
+      "duration_ms": 237689,
+      "name": "Aaraaro Ra Ra Ri Ro (From \"Jolly\")",
+      "url": "https://open.spotify.com/track/1csXGWV0jrrcrTWv7b2UHd"
+    },
+    {
       "added_at": "2026-06-22 16:20:26",
       "album": {
         "name": "Mudd Muddu Putlakshmi (From \"Ayogya 2\")",
@@ -203,6 +319,30 @@
       "duration_ms": 286666,
       "name": "Inmele (From \"Lakshmi Puthra\")",
       "url": "https://open.spotify.com/track/24JVhWyyCygFBh9VaxbgCY"
+    },
+    {
+      "added_at": "2026-06-29 11:20:08",
+      "album": {
+        "name": "Oh Sukumari Title Song (From \"Oh Sukumari\")(Kannada)",
+        "url": "https://open.spotify.com/album/5t0c03Gy92wIQsMtRxbRXo"
+      },
+      "artists": [
+        {
+          "name": "Bharath Manchiraju",
+          "url": "https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7"
+        },
+        {
+          "name": "Abhijith Rao",
+          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
+        },
+        {
+          "name": "Dhananjay Ranjan",
+          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Oh Sukumari Title Song (From \"Oh Sukumari\")(Kannada)",
+      "url": "https://open.spotify.com/track/2lK4Ja0FoINHu8HFI5BrBD"
     },
     {
       "added_at": "2026-06-19 13:00:49",
@@ -1549,30 +1689,6 @@
       "url": "https://open.spotify.com/track/3PUuNnvfFrHFBzE8kLAQWQ"
     },
     {
-      "added_at": "2026-03-13 12:22:32",
-      "album": {
-        "name": "Muddu Magale (From \"Love Mocktail 3\")",
-        "url": "https://open.spotify.com/album/6ItlcgSOb75UDVYi51NhUH"
-      },
-      "artists": [
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Arun Kumar",
-          "url": "https://open.spotify.com/artist/0C3uhYRFJBXyIIKEw9cdMT"
-        }
-      ],
-      "duration_ms": 195804,
-      "name": "Muddu Magale (From \"Love Mocktail 3\")",
-      "url": "https://open.spotify.com/track/5lTHM4bDHzj4qiViqU4rwr"
-    },
-    {
       "added_at": "2026-03-26 09:50:51",
       "album": {
         "name": "Rama Rama Deva (From \"Brindhavihari\")",
@@ -1691,126 +1807,6 @@
       "duration_ms": 190344,
       "name": "Haaro Hakki (From \"Asurana Kaiyalli Parijatha'')",
       "url": "https://open.spotify.com/track/3ufd3JccCR1CLKXAtwj6Iu"
-    },
-    {
-      "added_at": "2026-03-05 11:07:31",
-      "album": {
-        "name": "Dugudaveke (From \"Sarala Subbarao\")",
-        "url": "https://open.spotify.com/album/2A80352mQppQfCSXXxZ3Zn"
-      },
-      "artists": [
-        {
-          "name": "B.Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Krishne Gowda",
-          "url": "https://open.spotify.com/artist/0rmx1sPZuIjldmlYEK7Nxf"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Dugudaveke (From \"Sarala Subbarao\")",
-      "url": "https://open.spotify.com/track/2V93PQzDFKwHvH8sNJ6Ijc"
-    },
-    {
-      "added_at": "2026-03-11 11:30:46",
-      "album": {
-        "name": "Akashadhi (From \"Calendar\")",
-        "url": "https://open.spotify.com/album/5vnVTfBmDNxUK0rDS4hRaO"
-      },
-      "artists": [
-        {
-          "name": "Sunaad Gowtham",
-          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        },
-        {
-          "name": "Rajath Hegde",
-          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
-        }
-      ],
-      "duration_ms": 221356,
-      "name": "Akashadhi (From \"Calendar\")",
-      "url": "https://open.spotify.com/track/2N07l5ESrWnglKjbpWX6a1"
-    },
-    {
-      "added_at": "2026-03-10 10:41:56",
-      "album": {
-        "name": "Hey Kamala (From \"Nadrusa\")",
-        "url": "https://open.spotify.com/album/5VKsTic2yS2mMvIe8rLj80"
-      },
-      "artists": [
-        {
-          "name": "Nandini Ganiga",
-          "url": "https://open.spotify.com/artist/4DJxf1MVt0K4tBGbijFbg5"
-        },
-        {
-          "name": "Vikas SG",
-          "url": "https://open.spotify.com/artist/3zwDW7yoVBUi6ykhAx2M4V"
-        },
-        {
-          "name": "Mallikarjun NK",
-          "url": "https://open.spotify.com/artist/5niZx2cYkymJ0lezZsNTk0"
-        }
-      ],
-      "duration_ms": 207699,
-      "name": "Hey Kamala (From \"Nadrusa\")",
-      "url": "https://open.spotify.com/track/0N885AxjaPpLOfV01wEZas"
-    },
-    {
-      "added_at": "2026-03-05 11:09:06",
-      "album": {
-        "name": "Badukina Bandige (From \"Majestic 2\") [Male Vocals]",
-        "url": "https://open.spotify.com/album/4EkhXfs3D975pJXemFdbnG"
-      },
-      "artists": [
-        {
-          "name": "Vinu Manasu",
-          "url": "https://open.spotify.com/artist/1ZibIIoDWcMC9UkJ4dHCfL"
-        },
-        {
-          "name": "Dilip Sharma",
-          "url": "https://open.spotify.com/artist/0IAQ3sv7PRwDPkmmKDPNl6"
-        },
-        {
-          "name": "Madhwesh Bharadwaj",
-          "url": "https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH"
-        }
-      ],
-      "duration_ms": 182455,
-      "name": "Badukina Bandige (From \"Majestic 2\") - Male Vocals",
-      "url": "https://open.spotify.com/track/5orHABGL0230OlqPGQABQN"
-    },
-    {
-      "added_at": "2026-03-10 10:39:23",
-      "album": {
-        "name": "Jumuku Jumuku (From \"Karikaada - Kannada\")",
-        "url": "https://open.spotify.com/album/54A3MG7RUuOE3Ed0gOXMMw"
-      },
-      "artists": [
-        {
-          "name": "VM Mahalingam",
-          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
-        },
-        {
-          "name": "Athishay Jain",
-          "url": "https://open.spotify.com/artist/2zPvFiANV9zd9lA1zzMjmb"
-        },
-        {
-          "name": "Gilli Venkatesh",
-          "url": "https://open.spotify.com/artist/3EISdTvkjnETXtRbCjr1Pv"
-        }
-      ],
-      "duration_ms": 241121,
-      "name": "Jumuku Jumuku (From \"Karikaada - Kannada\")",
-      "url": "https://open.spotify.com/track/5cs6fAwcjWctLrfbEaNrrR"
     }
   ],
   "unique_name": "Latest Kannada",

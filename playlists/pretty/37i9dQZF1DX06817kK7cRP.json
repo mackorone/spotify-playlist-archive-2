@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 202489,
+  "num_followers": 202505,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "act n' chill",
+        "url": "https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "act n' chill",
+      "url": "https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Sandscape Vibes",
         "url": "https://open.spotify.com/album/0kkCV2JYagLkcvkqR2eiZA"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 115714,
       "name": "Sandscape Vibes",
       "url": "https://open.spotify.com/track/4r7ND09OEWwcsGGaVR9w9d"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "act n' chill",
-        "url": "https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1"
-      },
-      "artists": [
-        {
-          "name": "HPY DAYZ",
-          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "act n' chill",
-      "url": "https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz"
-      },
-      "artists": [
-        {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
-        },
-        {
-          "name": "Myr\u00edad",
-          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Undertones (Live)",
         "url": "https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 168443,
       "name": "Up the Block (Live)",
       "url": "https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Good feeling",
-        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
-      },
-      "artists": [
-        {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
-        }
-      ],
-      "duration_ms": 135987,
-      "name": "Good feeling",
-      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Dew Point",
         "url": "https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 134690,
       "name": "Dew Point",
       "url": "https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Good feeling",
+        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
+      },
+      "artists": [
+        {
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+        }
+      ],
+      "duration_ms": 135987,
+      "name": "Good feeling",
+      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Hi",
+        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
+      },
+      "artists": [
+        {
+          "name": "Sidual.",
+          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Fever, Fever",
         "url": "https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Hi",
-        "url": "https://open.spotify.com/album/6zAeYgebURbZNvR5AoyQ7A"
+        "name": "Orle",
+        "url": "https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm"
       },
       "artists": [
         {
-          "name": "Sidual.",
-          "url": "https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI"
+          "name": "Zonyo",
+          "url": "https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b"
         }
       ],
-      "duration_ms": 175714,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/4ndGRAECW0JscMcund7I7Q"
+      "duration_ms": 186666,
+      "name": "Orle",
+      "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1051,22 +1067,6 @@
       "duration_ms": 202120,
       "name": "Glass",
       "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Orle",
-        "url": "https://open.spotify.com/album/6s3FEdI41LNe9vgPWbgQAm"
-      },
-      "artists": [
-        {
-          "name": "Zonyo",
-          "url": "https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Orle",
-      "url": "https://open.spotify.com/track/3HMSwkVRwDlSqHjAzJ8Pqh"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "The Puzzle",
-        "url": "https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "The Puzzle",
-      "url": "https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "High Expectations",
         "url": "https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "The Puzzle",
+        "url": "https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "The Puzzle",
+      "url": "https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Party Life",
         "url": "https://open.spotify.com/album/1UGqZB7FGCWvMbwdc2eAW1"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 189521,
       "name": "Yellow Rose",
       "url": "https://open.spotify.com/track/0NoXLmUqcyoGB6mwGA1HmC"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
-      },
-      "artists": [
-        {
-          "name": "Prod. By Outtake",
-          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
-        },
-        {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4gzdGWLEKxkUNxIyPwNp3K"
+      },
+      "artists": [
+        {
+          "name": "Prod. By Outtake",
+          "url": "https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6D8pqERRdI5nwsONPRDd87"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Sthlm Night",
         "url": "https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/7xy09uniqHYvBDiNJ9M4lW"
-      },
-      "artists": [
-        {
-          "name": "Soulone Beats",
-          "url": "https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Junior",
-      "url": "https://open.spotify.com/track/4cNqYiu2K5gBjjy1GmHngv"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Downtown Breeze",
         "url": "https://open.spotify.com/album/0gGiTCknsGBx5GP5kWm2ZV"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 166941,
       "name": "Downtown Breeze",
       "url": "https://open.spotify.com/track/2mXNs28oZuuwkBfwHqenvt"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/7xy09uniqHYvBDiNJ9M4lW"
+      },
+      "artists": [
+        {
+          "name": "Soulone Beats",
+          "url": "https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Junior",
+      "url": "https://open.spotify.com/track/4cNqYiu2K5gBjjy1GmHngv"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Frontside",
+        "url": "https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK"
+      },
+      "artists": [
+        {
+          "name": "Homson",
+          "url": "https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2"
+        },
+        {
+          "name": "Cali Soul",
+          "url": "https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6"
+        }
+      ],
+      "duration_ms": 160850,
+      "name": "Frontside",
+      "url": "https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Brooklyn Brownstone",
         "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 136000,
       "name": "Brooklyn Brownstone",
       "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Frontside",
-        "url": "https://open.spotify.com/album/6IzKnfHfRAABTOc81vFydK"
-      },
-      "artists": [
-        {
-          "name": "Homson",
-          "url": "https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2"
-        },
-        {
-          "name": "Cali Soul",
-          "url": "https://open.spotify.com/artist/05k7SGKHRRfKpBvjcRMxQ6"
-        }
-      ],
-      "duration_ms": 160850,
-      "name": "Frontside",
-      "url": "https://open.spotify.com/track/28W5X9itWJYO5XzJDRzzYO"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Soft Shadows",
+        "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
+      },
+      "artists": [
+        {
+          "name": "Jesse Houghton",
+          "url": "https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq"
+        }
+      ],
+      "duration_ms": 155647,
+      "name": "Soft Shadows",
+      "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "overtake on the outside",
         "url": "https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Soft Shadows",
-        "url": "https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf"
-      },
-      "artists": [
-        {
-          "name": "Jesse Houghton",
-          "url": "https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq"
-        }
-      ],
-      "duration_ms": 155647,
-      "name": "Soft Shadows",
-      "url": "https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/1misnUF0YhwPZiEWP7ugsf"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 102857,
       "name": "Dinner Party",
       "url": "https://open.spotify.com/track/0jTs2pJwZX2XHNyPyO4p2h"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Good feeling",
+        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
+      },
+      "artists": [
+        {
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+        }
+      ],
+      "duration_ms": 136246,
+      "name": "little lies",
+      "url": "https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1799,22 +1815,6 @@
       "duration_ms": 108000,
       "name": "Speakeasy",
       "url": "https://open.spotify.com/track/5YDoJVsS7bklB3c1YoETiy"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Good feeling",
-        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
-      },
-      "artists": [
-        {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
-        }
-      ],
-      "duration_ms": 136246,
-      "name": "little lies",
-      "url": "https://open.spotify.com/track/3x8mCjdAaPtXtAPUkFX5wn"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/4kckNSZAiccl99XZMxamVa"
+      },
+      "artists": [
+        {
+          "name": "Sem0r",
+          "url": "https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR"
+        }
+      ],
+      "duration_ms": 101254,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/7AqYHHE66LzOOtUKt7Jksd"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
         "name": "Orange Dawn",
         "url": "https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 121384,
       "name": "Orange Dawn",
       "url": "https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/4kckNSZAiccl99XZMxamVa"
-      },
-      "artists": [
-        {
-          "name": "Sem0r",
-          "url": "https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR"
-        }
-      ],
-      "duration_ms": 101254,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/7AqYHHE66LzOOtUKt7Jksd"
     },
     {
       "added_at": "2026-05-26 07:53:18",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-05-26 07:53:18",
       "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g"
-      },
-      "artists": [
-        {
-          "name": "Just Steezy Things",
-          "url": "https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF"
-    },
-    {
-      "added_at": "2026-05-26 07:53:18",
-      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 177142,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo"
+    },
+    {
+      "added_at": "2026-05-26 07:53:18",
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g"
+      },
+      "artists": [
+        {
+          "name": "Just Steezy Things",
+          "url": "https://open.spotify.com/artist/1WGInLKTtABkRppFt2637E"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF"
     },
     {
       "added_at": "2026-05-26 07:53:18",

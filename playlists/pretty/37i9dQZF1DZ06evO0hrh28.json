@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 256901,
+  "num_followers": 256885,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAADksAAOLmYMNz9oe4zl09lI",
+  "snapshot_id": "akBkAAAAAADKWX5PAN8CkXp0wcOe5kDe",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "La cita",
-      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "bunda \ud83c\udf51",
         "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 223855,
       "name": "bunda \ud83c\udf51",
       "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "La cita",
+      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "r\u00e1pido lento",
-        "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "r\u00e1pido lento",
-      "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KUSTOM",
         "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 201509,
       "name": "DAMN GIRL",
       "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "r\u00e1pido lento",
+        "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "r\u00e1pido lento",
+      "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
     },
     {
       "added_at": null,
@@ -859,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+        "name": "De Enero a Diciembre",
+        "url": "https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl"
       },
       "artists": [
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
+      "duration_ms": 164289,
+      "name": "De Enero a Diciembre",
+      "url": "https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL"
     },
     {
       "added_at": null,
@@ -907,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Enero a Diciembre",
-        "url": "https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl"
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
       },
       "artists": [
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 164289,
-      "name": "De Enero a Diciembre",
-      "url": "https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL"
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": null,

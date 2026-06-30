@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,217 songs - 14 day 11 hr 40 min
+6,218 songs - 14 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2022,6 +2022,7 @@
 | [G.O.T.U](https://open.spotify.com/track/2lP97dwkvjIgiadmKESXc7) | [NiTE](https://open.spotify.com/artist/5eFmGVpLCExDmZ8JawLvgI) | [G.O.T.U](https://open.spotify.com/album/6CIwpRdhfHtmasrBMjMr0b) | 2:37 | 2020-11-27 | 2020-12-12 |
 | [Gah Dam](https://open.spotify.com/track/4JNUF2iJ9eculCbALVkaVK) | [boldmovepilot](https://open.spotify.com/artist/6Zm6irrPHsQu05ljQrvskJ) | [Gah Dam](https://open.spotify.com/album/2Z9RmexYC43VAl6nOxBgWL) | 3:43 | 2021-09-18 | 2021-10-04 |
 | [Galaxies](https://open.spotify.com/track/0SQ3vTpNeaafHqKZpxUDMc) | [Malena Boccadoro](https://open.spotify.com/artist/2fnBai6J8KiaSDrMZ9kSAX) | [Galaxies](https://open.spotify.com/album/3Pg1dOxJqBXNytWxa1ipSc) | 2:58 | 2023-02-17 | 2023-03-18 |
+| [GALAXY](https://open.spotify.com/track/4McDbvfHPNoV538OQGr5P9) | [Jill Govan](https://open.spotify.com/artist/66XyaRhb5gOsHZ1nRcCgnk) | [GALAXY](https://open.spotify.com/album/0jFjIlcHB5b7ibQ8Uvbbij) | 4:07 | 2026-06-29 |  |
 | [Galaxy](https://open.spotify.com/track/3OeOgrwuCqNkrpWsFxDcL5) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [Galaxy](https://open.spotify.com/album/1M6CiP9dTyIJ43Mkg4hoZR) | 2:49 | 2020-08-12 | 2021-03-14 |
 | [Game Is On](https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Game Is On](https://open.spotify.com/album/6d3lJxR3EMd9opfL0rv99k) | 5:17 | 2022-12-10 | 2023-01-03 |
 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 | 2022-06-10 | 2022-06-26 |

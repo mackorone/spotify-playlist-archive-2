@@ -1,6 +1,6 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 4054,
+  "num_followers": 4076,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Sondelani",
         "url": "https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 330573,
       "name": "Sondela",
       "url": "https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Jamali",
-        "url": "https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7"
-      },
-      "artists": [
-        {
-          "name": "Jamali",
-          "url": "https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Love Me For Me",
-      "url": "https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Ntumba",
         "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 356706,
       "name": "Kum Nakum",
       "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Jamali",
+        "url": "https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7"
+      },
+      "artists": [
+        {
+          "name": "Jamali",
+          "url": "https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Love Me For Me",
+      "url": "https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
-        }
-      ],
-      "duration_ms": 320613,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
         "name": "Ndawo Yami",
         "url": "https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        }
+      ],
+      "duration_ms": 320613,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo"
     },
     {
       "added_at": "2026-04-24 07:22:05",

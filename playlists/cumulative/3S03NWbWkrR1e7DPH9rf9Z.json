@@ -5403,6 +5403,28 @@
     },
     {
       "album": {
+        "name": "Yee (Dr Phunk Remix)",
+        "url": "https://open.spotify.com/album/3I5E3G7S5ygMDuuAExLVIk"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135959,
+      "name": "Yee - Dr Phunk Remix",
+      "url": "https://open.spotify.com/track/4jZQvhKDhvd4RmATRYCech"
+    },
+    {
+      "album": {
         "name": "You Like It Rough (feat. Lee McKing)",
         "url": "https://open.spotify.com/album/7zGfUevKbCjaYhHUFe89km"
       },

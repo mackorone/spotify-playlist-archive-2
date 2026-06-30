@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ATEEZ
 
-1,030 songs - 2 day 7 hr 55 min
+1,031 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 | 2026-06-15 |  |
 | [Doctor! Doctor!](https://open.spotify.com/track/0XmY5tyjdXB7yYELGUfYpn) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0) | 2:32 | 2025-03-06 | 2025-06-25 |
 | [Doki it](https://open.spotify.com/track/0a1vGFcLDPS3auJ3OqixFT) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [Doki it / Don't Worry!!](https://open.spotify.com/album/43JZRnK8QFfxAwasYJ85rW) | 3:39 | 2025-03-06 | 2025-04-18 |
-| [Dokka de](https://open.spotify.com/track/70wGlktEYdD17rhe19gVSf) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jrFATDLscw7bsUFjPn67t) | 2:46 | 2026-06-09 |  |
+| [Dokka de](https://open.spotify.com/track/70wGlktEYdD17rhe19gVSf) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jrFATDLscw7bsUFjPn67t) | 2:46 | 2026-06-09 | 2026-06-30 |
 | [DOMINANCE](https://open.spotify.com/track/311pdfSxiVGKCzEff4wnNF) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [DOMINANCE](https://open.spotify.com/album/72Os16noHpDyT2M5wN476n) | 2:56 | 2025-06-02 | 2025-09-16 |
 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 | 2023-12-12 | 2024-02-25 |
 | [Don't Speak](https://open.spotify.com/track/1lMTjhv9a9XOfKLsRXOInQ) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Don't Speak](https://open.spotify.com/album/5YF2TZOyU46ioTxsr3PmCv) | 2:45 | 2025-03-27 | 2025-04-02 |
@@ -713,6 +713,7 @@
 | [Simmer \(Japanese Ver.\)](https://open.spotify.com/track/16MjZTUg4p646phx0t4hF2) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Simmer \(Japanese Ver.\)](https://open.spotify.com/album/4aZhX5TMq56qe1D99M296n) | 3:09 | 2025-06-24 | 2025-07-16 |
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 | 2024-02-16 |
 | [SING ALONG!](https://open.spotify.com/track/3i4BISVO0L6mrVM7V0IPGo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [The 1st full album \[BLISS\]](https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d) | 2:36 | 2025-07-08 | 2025-09-17 |
+| [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 | 2026-06-29 |  |
 | [SKIID](https://open.spotify.com/track/69Lfa6t4sskn5BwiHJ1nch) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [CTRL+ALT+SKIID](https://open.spotify.com/album/0SDZlJp4YTGAH1rApG7lyM) | 2:51 | 2025-11-05 | 2026-01-15 |
 | [SLAM DUNK](https://open.spotify.com/track/0dvPM5OyBYKAwoo5eszlCA) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/1pTD8hn63VyGChIfexGEw4) | 2:57 | 2025-07-22 | 2025-09-01 |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 | 2024-04-24 |

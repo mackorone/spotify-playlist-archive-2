@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 533278,
+  "num_followers": 533268,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Si Tu Vas A Rio",
-        "url": "https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe"
-      },
-      "artists": [
-        {
-          "name": "Dario Moreno",
-          "url": "https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Tout L'Amour",
-      "url": "https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Du Caf' Conc' au Music Hall",
         "url": "https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 205133,
       "name": "Tout va tr\u00e8s bien madame la marquise",
       "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Si Tu Vas A Rio",
+        "url": "https://open.spotify.com/album/3fuvWRKCCJ5GM9C4DAaQAe"
+      },
+      "artists": [
+        {
+          "name": "Dario Moreno",
+          "url": "https://open.spotify.com/artist/39rtUmVAGX9W1e2aXE9YkF"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Tout L'Amour",
+      "url": "https://open.spotify.com/track/3IpN4w5HAStXjJ1PNihtlc"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Vu De L'Ext\u00e9rieur",
-        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Je suis venu te dire que je m'en vais",
-      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Vu De L'Ext\u00e9rieur",
+        "url": "https://open.spotify.com/album/352XdbgCcdCMStQtgVDX3X"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Je suis venu te dire que je m'en vais",
+      "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
     },
     {
       "added_at": "2024-07-25 13:22:22",

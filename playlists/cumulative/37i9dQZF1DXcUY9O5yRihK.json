@@ -96,10 +96,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 176026,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
+    },
+    {
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX"
     },
     {
       "album": {
@@ -668,7 +686,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
@@ -686,7 +704,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
@@ -783,6 +801,24 @@
     },
     {
       "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135840,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/36FgNo5lmrUUSrDqXJLsrz"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
       },
@@ -794,7 +830,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 136362,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
@@ -1200,10 +1236,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/2JAiwcWRLIRI4uiroJ86U7"
+    },
+    {
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/3NTkDaR9hw7VbU3ziBnNVz"
     },
     {
       "album": {
@@ -1847,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "album": {
         "name": "Lover Girl",
         "url": "https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg"
       },
@@ -1858,7 +1930,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
@@ -2336,7 +2408,7 @@
     {
       "album": {
         "name": "pretty little thing",
-        "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
+        "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
       },
       "artists": [
         {
@@ -2347,6 +2419,24 @@
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
+    },
+    {
+      "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/5rEqccldKFTVMcgvm5bnrj"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2026-06-30",
       "duration_ms": 190959,
       "name": "pretty little thing",
       "url": "https://open.spotify.com/track/5ggLs5JiMn4xV449ZgQsTC"
@@ -2416,6 +2506,24 @@
     {
       "album": {
         "name": "recently",
+        "url": "https://open.spotify.com/album/6fSfONrRl8xVdH6esZE2Z4"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161929,
+      "name": "rises the moon",
+      "url": "https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA"
+    },
+    {
+      "album": {
+        "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
       "artists": [
@@ -2426,7 +2534,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
@@ -2712,7 +2820,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
@@ -2730,7 +2838,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP"
@@ -2922,7 +3030,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
@@ -2940,7 +3048,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
@@ -3264,10 +3372,32 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 163000,
       "name": "When I See You Again",
       "url": "https://open.spotify.com/track/0iVovmCYGAhXxugHDNd5em"
+    },
+    {
+      "album": {
+        "name": "When I See You Again",
+        "url": "https://open.spotify.com/album/5pNi1VewonqfOoj3YoNbbR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Cox",
+          "url": "https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9"
+        },
+        {
+          "name": "Abigail Flowers",
+          "url": "https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1"
+        }
+      ],
+      "date_added": "2025-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "When I See You Again",
+      "url": "https://open.spotify.com/track/15Ji4Y2FU2oa5sjOX89SuJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-284 songs - 19 hr 44 min
+285 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 | 2024-10-10 |
 | [For Sentimental Reasons](https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [For Sentimental Reasons](https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9) | 4:40 | 2024-12-11 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2024-08-11 |
+| [Glistening Leaves in the Rain](https://open.spotify.com/track/6KUJKvd8ofhwdL1yJOHImH) | [DJ LEE](https://open.spotify.com/artist/4hi2VfhxqYrijrmFQChsx3) | [Stillness on the Rainy Porch](https://open.spotify.com/album/45mp4vE0YTFJMqJ9dVdFC9) | 2:44 | 2026-06-29 |  |
 | [gray hair](https://open.spotify.com/track/65mCrA8bRPqvmlhdFBRzHC) | [U\-jin](https://open.spotify.com/artist/3ho6nC4QjX2r8PyaVyHlCS) | [Gray hair](https://open.spotify.com/album/6yHmPMWk2l1hBxVg3i3snm) | 2:16 | 2023-02-07 | 2024-11-07 |
 | [Growl \- Jazz Version](https://open.spotify.com/track/1wOlDvbVzBpKQaKcQgSI7w) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [PINK NOTE](https://open.spotify.com/album/169Xc0DtUg1XLTA82hTT8i) | 3:17 | 2025-11-20 |  |
 | [gut](https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [Research Daily 2](https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh) | 3:48 | 2024-08-29 | 2025-05-08 |
@@ -106,7 +107,7 @@
 | [Here I am](https://open.spotify.com/track/1ly3Lsq7Kn8Pj14ldHeNSE) | [김혜지](https://open.spotify.com/artist/6z0DShdQxwbWSmB3FLHTE7) | [김혜지의 15번째 싱글앨범](https://open.spotify.com/album/7I1R6zEVfYmWuOzjPN8ATO) | 5:03 | 2022-11-11 | 2023-02-08 |
 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 | 2022-05-18 | 2024-09-20 |
 | [Honeymoon](https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg) | [ZXQ](https://open.spotify.com/artist/7x9SoabYD4wuOML2PQ6onB) | [Honeymoon](https://open.spotify.com/album/6SFC5vD6tvizIL3ghFJOQe) | 2:24 | 2023-02-07 | 2024-11-07 |
-| [How do i fall in love with you](https://open.spotify.com/track/6xYYN4ttq1SxwEdNMNgME8) | [Jeong young ji](https://open.spotify.com/artist/5l16AiioJMUHIhC65zPLDh) | [How do i fall in love with you](https://open.spotify.com/album/4t6jNHHCEgkgtQPmK24qEw) | 2:51 | 2025-05-27 |  |
+| [How do i fall in love with you](https://open.spotify.com/track/6xYYN4ttq1SxwEdNMNgME8) | [Jeong young ji](https://open.spotify.com/artist/5l16AiioJMUHIhC65zPLDh) | [How do i fall in love with you](https://open.spotify.com/album/4t6jNHHCEgkgtQPmK24qEw) | 2:51 | 2025-05-27 | 2026-06-30 |
 | [I Can't Sleep](https://open.spotify.com/track/0c5D3qXQ1WfyDspBrS8SRV) | [Youn Sun Nah](https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj) | [I Can't Sleep](https://open.spotify.com/album/3yg5h8iww29SsQwjUCl7P9) | 3:05 | 2025-12-01 |  |
 | [I Will Never Fall In Love](https://open.spotify.com/track/3q0ASOCaqKj4ESgjx8wucp) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [I Will Never Fall In Love](https://open.spotify.com/album/3UXU5KaF2nWski3HG5SyBb) | 3:02 | 2023-12-12 | 2024-08-11 |
 | [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 | 2023-10-11 | 2024-11-07 |
@@ -279,7 +280,7 @@
 | [가족 \(feat\. Okubo Shigekki\)](https://open.spotify.com/track/6G0l99yhfsuigC9k8OFFnP) | [박완신](https://open.spotify.com/artist/5y3J29n3QOnbhB7PR40Gnn), [Okubo Shigekki](https://open.spotify.com/artist/7FAZmomF00H34HOWm1Pr3z) | [가족](https://open.spotify.com/album/0DN8oEGOT6KWbJyqH5W7LR) | 4:50 | 2023-03-31 | 2024-11-07 |
 | [간다](https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc) | [민송](https://open.spotify.com/artist/2ujuh580tpdUNreJnVuzPU) | [간다](https://open.spotify.com/album/7szuSdGlR05heXZGGGOgCH) | 4:28 | 2022-05-03 | 2022-05-19 |
 | [너와의 크리스마스 \(Christmas with you\)](https://open.spotify.com/track/13OsxxRjMBXho0DBVspPHQ) | [Lee Se Joon](https://open.spotify.com/artist/6z7PM9dWn2BNcyWTxVwZ8h) | [Month Lee 2512](https://open.spotify.com/album/3qaCoFy9SkB6yAd6TVCFzJ) | 4:17 | 2025-12-08 |  |
-| [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 | 2025-02-18 |  |
+| [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 | 2025-02-18 | 2026-06-30 |
 | [몬순 \(Monsoon\)](https://open.spotify.com/track/1CvFuxdYZT3bmM5F5MMmyZ) | [Time & Place](https://open.spotify.com/artist/4jBZhMOklXll4vFL5QZxho) | [범람 \(The Surge\)](https://open.spotify.com/album/33DcogyZUE6ATX0rEGMGM1) | 3:56 | 2023-07-19 | 2024-11-07 |
 | [무지개나라](https://open.spotify.com/track/6hxwYtDkQ35mNuYsiRgqId) | [승연아빠](https://open.spotify.com/artist/4cEdf85FeV9HB2sxDxzyJg) | [Story 25](https://open.spotify.com/album/08hWM6WLKVBeHqP6vDyLM2) | 2:46 | 2022-11-11 | 2023-12-13 |
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/3u2k4Mr3hpobfuDp9BLE1K) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/3BTYvOdXNu6CEKExO8jX6F) | 4:18 | 2022-05-18 | 2022-07-29 |

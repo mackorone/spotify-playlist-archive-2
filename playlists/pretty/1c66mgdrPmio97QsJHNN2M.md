@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,698 likes - 281 songs - 14 hr 52 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,709 likes - 288 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,5 +289,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 279 | [Calm Rain](https://open.spotify.com/track/3RID0H2spJ6T4nOfBGSTLs) | [OWADA](https://open.spotify.com/artist/4a8emEoEVxUrksnhVagSEQ) | [Calm Rain](https://open.spotify.com/album/5lt33ECWoFBAODWi7qNcbz) | 3:29 |
 | 280 | [whatever happened to US?](https://open.spotify.com/track/5StfR09C6SjhDmnWAkxTm8) | [Nathan Oswalt](https://open.spotify.com/artist/1p3fViLAZhmYFaZu2EPAFO) | [whatever happened to US?](https://open.spotify.com/album/6UOtGk08ilBwvqOoIGDEZD) | 3:00 |
 | 281 | [Never Meet Again](https://open.spotify.com/track/412lpqcx14nRzxB3orTega) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [Never Meet Again](https://open.spotify.com/album/3kRTgFuPKEhcIiwyJBHVoj) | 1:03 |
+| 282 | [400 Miles](https://open.spotify.com/track/7ce5dm8b6OrITIcNpu0A4T) | [DAYDREAM](https://open.spotify.com/artist/09DB2npCb6JDJA3NmIhg6Q) | [400 Miles](https://open.spotify.com/album/462abGDtQ6egEM9ydSzk9P) | 2:48 |
+| 283 | [Nashville Heart And Soul](https://open.spotify.com/track/66nkA6qJhcbbAax7Kbsjju) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK), [Les Thompson](https://open.spotify.com/artist/6amo9f2LyhPzIk1Zs35Dx4) | [Nashville Heart And Soul](https://open.spotify.com/album/1v8mGRwPuiEpfJtBbPOa1O) | 2:54 |
+| 284 | [Earthquake](https://open.spotify.com/track/7MHnh93P70y9GVdWFUGqSQ) | [NIIKEA](https://open.spotify.com/artist/4z18hR1iXyC4n9v9Gyo9iw) | [Earthquake](https://open.spotify.com/album/07fJDUTJ1N3axmUQFehbl2) | 2:48 |
+| 285 | [Narcissist](https://open.spotify.com/track/2WSB4vv0aBSwdvSUwRerfM) | [Lily Brooke](https://open.spotify.com/artist/33g49DPz7iFS5aYzGvSnM8) | [Narcissist](https://open.spotify.com/album/04MoACpnyeuRSBfy9sSmOh) | 2:57 |
+| 286 | [enough \- nothighkey Remix](https://open.spotify.com/track/7n5Vt3xlVfETID5K0CkR4l) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ), [nothighkey](https://open.spotify.com/artist/6ysGKQHRhtvHHuiGFILvp5) | [enough](https://open.spotify.com/album/5i0LVQzhPamktGjBJAxd6h) | 1:55 |
+| 287 | [You're Enough](https://open.spotify.com/track/4K9nHbzFfyKHzLwmnqZ3R2) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [You're Enough](https://open.spotify.com/album/6nuTX1CU4L6odrF1OgUrMF) | 2:19 |
+| 288 | [Nada Song](https://open.spotify.com/track/3iNPQvXKu6lRrm6mVmzSrs) | [Tim McInnes](https://open.spotify.com/artist/0J71GWwjERGNLrEBjOOiQX) | [Shadowlife](https://open.spotify.com/album/3twwMVhAciOQjdWVSRAIfP) | 2:02 |
 
-Snapshot ID: `AAA57MU/IDG7l/GP75x5zbxRphh4F8mj`
+Snapshot ID: `AAA584w/7C4eKaW/P42txMqAu0AdgnKh`

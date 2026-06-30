@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1074846,
+  "num_followers": 1074755,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "More!",
-        "url": "https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 147747,
-      "name": "More!",
-      "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 177600,
       "name": "Wrong Places",
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "More!",
+        "url": "https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 147747,
+      "name": "More!",
+      "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
     },
     {
       "added_at": "2026-02-12 23:00:22",

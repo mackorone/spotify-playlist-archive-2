@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 172823,
+  "num_followers": 172865,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Fuego Contra Fuego",
         "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 156320,
       "name": "Soy Lo Peor",
       "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "45 \u00c9xitos (Versiones Originales)",
         "url": "https://open.spotify.com/album/3j5xMGA9BmUE77O512excf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 181413,
       "name": "Ag\u00fcita De Coco",
       "url": "https://open.spotify.com/track/6yd503DovrZyEN4qZGaZcq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 159786,
       "name": "Pistoleros Famosos",
       "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Y Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "Amor Chiquito",
-      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Y Qu\u00e9 M\u00e1s Da",
+        "url": "https://open.spotify.com/album/6zTuzUc9zgt9vTKy66XDPr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Amor Chiquito",
+      "url": "https://open.spotify.com/track/1N7tTYOIDxz12SANrm7PhW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 231854,
-      "name": "CHOKE",
-      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
+      "duration_ms": 180000,
+      "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+      "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 180000,
-      "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
-      "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
+      "duration_ms": 231854,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
-        "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
-      },
-      "artists": [
-        {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Fuego Eterno",
         "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 163906,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "La Historia De Los Exitos Pop A La Mexicana (Version Mexico)",
+        "url": "https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK"
+      },
+      "artists": [
+        {
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Siento Que...",
-      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ser Como T\u00fa",
         "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 183400,
       "name": "En Tu Basura",
       "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Siento Que...",
+      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cari\u00f1o Santo",
         "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cholos al Punto",
-        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 159056,
-      "name": "Cholos al Punto",
-      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1471,6 +1455,22 @@
       "duration_ms": 158893,
       "name": "La Vieja Banca",
       "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cholos al Punto",
+        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159056,
+      "name": "Cholos al Punto",
+      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Rigo Tovar '81",
-        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Vuelve A Encender Mi Fuego",
-      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Mil Historias",
         "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 216840,
       "name": "C\u00f3mo le hago",
       "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Rigo Tovar '81",
+        "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Vuelve A Encender Mi Fuego",
+      "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Cuando Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Restaurant",
         "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 269866,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Cuando Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El M\u00fasico Chiflado",
-        "url": "https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 193266,
-      "name": "El M\u00fasico Chiflado",
-      "url": "https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Un Poco De Tiempo",
         "url": "https://open.spotify.com/album/3FXtE0YmR088BH0XsjCDiH"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 174432,
       "name": "Mi Chica Fea",
       "url": "https://open.spotify.com/track/6CgrdLEEXwjHDaDIdHKfiQ"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "El M\u00fasico Chiflado",
+        "url": "https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "El M\u00fasico Chiflado",
+      "url": "https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Hola Chicuelos",
-        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Pinche Stereo Band",
-      "url": "https://open.spotify.com/track/2ZatwN31dBpci9aSLNZkKC"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Sopa De Frijoles",
         "url": "https://open.spotify.com/album/0qH3KbWwf3LZHcBLr3xvo9"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 217573,
       "name": "La Flaca",
       "url": "https://open.spotify.com/track/0NyzwUrGvbJAXN4772B0de"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Hola Chicuelos",
+        "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Pinche Stereo Band",
+      "url": "https://open.spotify.com/track/2ZatwN31dBpci9aSLNZkKC"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "22 Exitos",
-        "url": "https://open.spotify.com/album/1Clyyw4jsXIdcZ9ZXV8GOk"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "El Preso de Nuevo Le\u00f3n",
-      "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Regalo Caro",
         "url": "https://open.spotify.com/album/4D6UIG5sjJUN1VQn5v1AvE"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 162440,
       "name": "Chao Chao Amor",
       "url": "https://open.spotify.com/track/4j5AdS0aQG5nummMEbSUNq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "22 Exitos",
+        "url": "https://open.spotify.com/album/1Clyyw4jsXIdcZ9ZXV8GOk"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "El Preso de Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 138640,
       "name": "Recordando Monterrey",
       "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
     },
     {
       "added_at": "2026-06-08 18:17:51",

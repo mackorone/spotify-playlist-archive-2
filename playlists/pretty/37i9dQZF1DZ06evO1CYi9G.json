@@ -1,12 +1,12 @@
 {
   "description": "This is Mudvayne. The essential tracks, all in one playlist.",
-  "num_followers": 64703,
+  "num_followers": 64708,
   "original_name": "This Is Mudvayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAAD46+wnJnvwZOxccJN4YpFV",
+  "snapshot_id": "akBkAAAAAACFwB7/MP4zc7y3E7WvFtFf",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU"
+        "name": "The End Of All Things To Come",
+        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 229378,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE"
+      "duration_ms": 294333,
+      "name": "Mercy, Severity",
+      "url": "https://open.spotify.com/track/1qVgFDjk2NLBAApNvHfJ9i"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End Of All Things To Come",
-        "url": "https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo"
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
         }
       ],
-      "duration_ms": 294333,
-      "name": "Mercy, Severity",
-      "url": "https://open.spotify.com/track/1qVgFDjk2NLBAApNvHfJ9i"
+      "duration_ms": 229378,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE"
     },
     {
       "added_at": null,

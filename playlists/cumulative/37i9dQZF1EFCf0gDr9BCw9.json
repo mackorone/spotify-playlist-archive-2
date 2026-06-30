@@ -4201,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "Not So Dukish",
+        "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141866,
+      "name": "Three And Six",
+      "url": "https://open.spotify.com/track/1rDSvUCDcz2KOoQVIPrQ9z"
+    },
+    {
+      "album": {
         "name": "So This Is Love: More Newly Discovered Works Of Billy Strayhorn",
         "url": "https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL"
       },

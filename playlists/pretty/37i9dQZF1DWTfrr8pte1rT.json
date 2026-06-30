@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 355932,
+  "num_followers": 355991,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "FIGURE IT OUT",
-        "url": "https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC"
-      },
-      "artists": [
-        {
-          "name": "ZEP",
-          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "FIGURE IT OUT",
-      "url": "https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
         "name": "Good F**King Music",
         "url": "https://open.spotify.com/album/2L2WGYRsX6dMazAmpJZneU"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 206433,
       "name": "Good F**King Music",
       "url": "https://open.spotify.com/track/75zbw2JGazrTzrJ5r36Af3"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
+        "name": "FIGURE IT OUT",
+        "url": "https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -1351,22 +1351,18 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Welcome To My Life",
-        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
       },
       "artists": [
         {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Welcome To My Life",
-      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
       },
       "artists": [
         {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2319,8 +2319,8 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Forget My Name",
-        "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
+        "name": "Kore",
+        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
       },
       "artists": [
         {
@@ -2328,17 +2328,13 @@
           "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "CRYBLOOD",
-          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
+          "name": "Nimda",
+          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
         }
       ],
-      "duration_ms": 254896,
-      "name": "Forget My Name",
-      "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
+      "duration_ms": 156863,
+      "name": "Kore",
+      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2443,26 +2439,6 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Dark Void EP",
-        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 189200,
-      "name": "Dark Void - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2483,6 +2459,26 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
+        "name": "Dark Void EP",
+        "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Dark Void - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -2499,18 +2495,18 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
         }
       ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     }
   ],
   "unique_name": "Rocktronic",

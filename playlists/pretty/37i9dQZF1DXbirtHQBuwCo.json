@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Suen(\uc218\uc5d4))",
-  "num_followers": 1098867,
+  "num_followers": 1099153,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
+        "name": "INVITATION (Feat. Gaeko)",
+        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "INVITATION (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
         "name": "Breaking Through",
         "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 252800,
       "name": "Breaking Through",
       "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
-        "name": "INVITATION (Feat. Gaeko)",
-        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "INVITATION (Feat. Gaeko)",
-      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -747,30 +747,6 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "Bittersweet (feat. LeeHi)",
-        "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
-      },
-      "artists": [
-        {
-          "name": "WONWOO",
-          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
-        },
-        {
-          "name": "MINGYU",
-          "url": "https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay"
-        },
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Bittersweet (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 195013,
       "name": "Nerves",
       "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
+        "name": "Bittersweet (feat. LeeHi)",
+        "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
+      },
+      "artists": [
+        {
+          "name": "WONWOO",
+          "url": "https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt"
+        },
+        {
+          "name": "MINGYU",
+          "url": "https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Bittersweet (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+        "name": "ABG",
+        "url": "https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "Joh!",
+          "url": "https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+      "duration_ms": 110103,
+      "name": "ABG",
+      "url": "https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "ABG",
-        "url": "https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI"
-      },
-      "artists": [
-        {
-          "name": "Joh!",
-          "url": "https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6"
-        }
-      ],
-      "duration_ms": 110103,
-      "name": "ABG",
-      "url": "https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
         "name": "Baby, Honey",
         "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
       },
@@ -943,22 +943,6 @@
       "duration_ms": 145000,
       "name": "Baby, Honey",
       "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
-        "name": "Bam Yang Gang",
-        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 146197,
-      "name": "Bam Yang Gang",
-      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "Forever Only - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 196120,
-      "name": "Forever Only",
-      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
+      "duration_ms": 146197,
+      "name": "Bam Yang Gang",
+      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "Essence of Reverie",
-        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+        "name": "Forever Only - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
       },
       "artists": [
         {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 186386,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
+      "duration_ms": 196120,
+      "name": "Forever Only",
+      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -1039,6 +1023,22 @@
       "duration_ms": 191000,
       "name": "Layback",
       "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "JULIE",
-          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
-      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
         "name": "Yes or No",
         "url": "https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "JULIE",
+          "url": "https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Magic (Feat. JULIE of KISS OF LIFE)",
+      "url": "https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj"
     },
     {
       "added_at": "2026-06-27 07:48:21",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-27 07:48:21",
       "album": {
-        "name": "PWLT",
-        "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
-      },
-      "artists": [
-        {
-          "name": "Krystal",
-          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
-        }
-      ],
-      "duration_ms": 218945,
-      "name": "PWLT",
-      "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
-    },
-    {
-      "added_at": "2026-06-27 07:48:21",
-      "album": {
         "name": "R.E.M",
         "url": "https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
+    },
+    {
+      "added_at": "2026-06-27 07:48:21",
+      "album": {
+        "name": "PWLT",
+        "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
+      },
+      "artists": [
+        {
+          "name": "Krystal",
+          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
+        }
+      ],
+      "duration_ms": 218945,
+      "name": "PWLT",
+      "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
     }
   ],
   "unique_name": "TrenChill K-R&B",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,105 likes - 80 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,106 likes - 80 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20Z4kH7E2EL.md) - [plain]
 | 9 | [Lockbox](https://open.spotify.com/track/511NzK5kWwBpWHAqln33j4) | [Shankz](https://open.spotify.com/artist/7JP8tEVrVknJlA3isvkQjz) | [Lockbox](https://open.spotify.com/album/64HHRzactSrnvygQo4y2XV) | 2:40 |
 | 10 | [Baby \- Tony Romera Remix](https://open.spotify.com/track/1ArFwgEU2iQMq9dU43sGZ9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Baby Love Cry](https://open.spotify.com/album/2zhHhFgcRNEJxjsshGNj4k) | 6:41 |
 | 11 | [Schwarm \- Martinou Remix](https://open.spotify.com/track/6VbRheInFUX6o3G2PiN2fh) | [Harald Björk](https://open.spotify.com/artist/2VvFUDg4FDXzEQkQdgWz9h), [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Schwarm \(Martinou Remix\)](https://open.spotify.com/album/6plr9rToACxVwRpHpW4fPZ) | 5:50 |
-| 12 | [Out The Door](https://open.spotify.com/track/6FToCZsVMGrBKb84pcTtS3) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Out The Door](https://open.spotify.com/album/05vealRTvoialI53c8oVBF) | 3:00 |
+| 12 | [](https://open.spotify.com/track/6FToCZsVMGrBKb84pcTtS3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Out The Door](https://open.spotify.com/album/05vealRTvoialI53c8oVBF) | 0:00 |
 | 13 | [This Is House](https://open.spotify.com/track/1TyVon4cY1g8APEvI0QNBF) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [This Is House](https://open.spotify.com/album/4l1keINo59f9KRRK0Qsy1j) | 3:12 |
 | 14 | [MEGA PUSH THE FEELING](https://open.spotify.com/track/4qsBHFXwKXi3OxVTVBNYSy) | [DJ FRACARI](https://open.spotify.com/artist/0zj6ZzbyA3IJuaCMEVhH9B), [DJ Petroski](https://open.spotify.com/artist/2ibOTUqkFFeIYei7my6n6A), [DJ TH PR](https://open.spotify.com/artist/6B3tFVc2vB9DHQKydDI92e), [MC MENOR DO DOZE](https://open.spotify.com/artist/5bnpaWpiU7oX1gYenzcSQu) | [MEGA PUSH THE FEELING](https://open.spotify.com/album/1NOgwo1gW1CuZxnL2dPiva) | 3:44 |
 | 15 | [Indie Muzik](https://open.spotify.com/track/6E7ozjsJmbDPkw19YFFVEz) | [RIKO & GUGGA](https://open.spotify.com/artist/3Xw8htgaMKuCumaCubDS8c) | [Indie Muzik](https://open.spotify.com/album/1ZUf8aslFsPrnI7VhizkLh) | 3:32 |

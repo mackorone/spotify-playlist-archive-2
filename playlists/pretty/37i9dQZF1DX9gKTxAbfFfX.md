@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,397 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,013 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 23 | [capaz \(merengueton\)](https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:53 |
 | 24 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 25 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
-| 26 | [UNA HOE](https://open.spotify.com/track/4WDHuHM0MJgT8IDTH3zP29) | [MARCE](https://open.spotify.com/artist/5fBsGbmh5tJ3kU7FhVnYbh), [Dlomalo](https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c), [Saint Cairo](https://open.spotify.com/artist/7p9VgsKSP07XUJdo8Oj7pz) | [UNA HOE](https://open.spotify.com/album/1p3wBYDNPGS0oAIAMJfPu9) | 2:16 |
+| 26 | [UNA HOE](https://open.spotify.com/track/4WDHuHM0MJgT8IDTH3zP29) | [Dlomalo](https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c), [MARCE](https://open.spotify.com/artist/5fBsGbmh5tJ3kU7FhVnYbh), [Saint Cairo](https://open.spotify.com/artist/7p9VgsKSP07XUJdo8Oj7pz) | [UNA HOE](https://open.spotify.com/album/1p3wBYDNPGS0oAIAMJfPu9) | 2:16 |
 | 27 | [El verano sabe mejor](https://open.spotify.com/track/2MGhnm503cjByMmiodQVpG) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [El verano sabe mejor](https://open.spotify.com/album/77NcnG1fZoUsYdyGMwnWyy) | 2:20 |
 | 28 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 |
 | 29 | [No te vistas](https://open.spotify.com/track/2iuxAZMqdNOFYS0LAkdJbU) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [No te vistas](https://open.spotify.com/album/5372YG5MZLGEEqzuKHELXT) | 3:09 |

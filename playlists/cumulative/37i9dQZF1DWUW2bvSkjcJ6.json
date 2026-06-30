@@ -25105,6 +25105,24 @@
     },
     {
       "album": {
+        "name": "brauch nh hug / mwm",
+        "url": "https://open.spotify.com/album/7tnyIiqoSu6r8YFH6kF0YP"
+      },
+      "artists": [
+        {
+          "name": "Zackavelli",
+          "url": "https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111580,
+      "name": "brauch nh hug",
+      "url": "https://open.spotify.com/track/6n7BZDZv2pP2Az0LjlgIUH"
+    },
+    {
+      "album": {
         "name": "Brauch nur dich",
         "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
       },

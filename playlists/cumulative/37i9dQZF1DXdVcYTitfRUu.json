@@ -691,6 +691,28 @@
     },
     {
       "album": {
+        "name": "can't be blue",
+        "url": "https://open.spotify.com/album/2vdPz23c5T1CixcxLUBcTH"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        },
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "blue daisy (Feat. Mulasaki Ima)",
+      "url": "https://open.spotify.com/track/60cwUqVU2BtRzZW2hnUD6X"
+    },
+    {
+      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP"
       },
@@ -4972,7 +4994,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 240000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/3Za3hxz2Hw4M9f0sFc1FuY"

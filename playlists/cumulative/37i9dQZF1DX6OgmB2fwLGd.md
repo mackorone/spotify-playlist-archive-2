@@ -2,9 +2,9 @@
 
 ### [hyp3r.wav](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> hyper\_sleaze.electro\_glitch.v2008.infamy.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.BrothelInBelize
+> hyper\_sleaze.electro\_glitch.v2008.infamy.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.BrothelinBelize
 
-1,382 songs - 2 day 9 hr 2 min
+1,383 songs - 2 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Cherry](https://open.spotify.com/track/1ElVUkyuyrFbyfwbXAK5j5) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Cherry](https://open.spotify.com/album/2DrqcEEEU1hGgWvZslvg12) | 2:19 | 2023-12-01 | 2024-04-27 |
 | [Chill Speedy](https://open.spotify.com/track/2e6nLAMw6z7H4gFmClyxhZ) | [IShowSpeed](https://open.spotify.com/artist/6fq2794JwAdmCXVaz5tDym) | [Chill Speedy](https://open.spotify.com/album/30qGOdpoLeLCIPUOMPCRa0) | 1:13 | 2023-04-21 | 2023-05-20 |
 | [Chores](https://open.spotify.com/track/6Z7iEn0fnabkVCgnR50YbA) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:23 | 2026-03-20 | 2026-04-18 |
-| [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 | 2026-04-10 |  |
+| [Château Brute](https://open.spotify.com/track/5v3GSpHEm5fHqZhndz0y4B) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Château Brute](https://open.spotify.com/album/2IHLwyoNxJhZ9BgeMsAZH8) | 2:44 | 2026-04-10 | 2026-06-30 |
 | [circus](https://open.spotify.com/track/0NVE77h0628NFCL2Xc2fUg) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [circus](https://open.spotify.com/album/18N7OqbHFi8CMatvhdrN5r) | 2:13 | 2022-10-14 | 2022-10-26 |
 | [City of screams](https://open.spotify.com/track/2gHldblsOfeXI9xitoINhy) | [J4y](https://open.spotify.com/artist/1gX9ZzZnjjI19QrSgW9Xkc) | [1.4.3](https://open.spotify.com/album/36nQ7UFHKL3u0lGZfjWsA6) | 1:48 | 2024-03-13 | 2024-10-05 |
 | [CLAY HEART](https://open.spotify.com/track/1dxxQAxZRLpB1rQhQUI51q) | [Raeusi](https://open.spotify.com/artist/2gVbZgSkbei8oQAfREgBMt) | [CLAY HEART](https://open.spotify.com/album/1zFUzr5m4N02u4T3wauMoc) | 2:22 | 2024-02-05 | 2024-10-26 |
@@ -1062,6 +1062,7 @@
 | [RuleBook](https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [RuleBook](https://open.spotify.com/album/1ubEirgnCx29hE78AP6iYV) | 2:59 | 2022-10-21 | 2023-01-26 |
 | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/track/29gijYs6GkiKaGDrEC1l4T) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Pretty Girls Love Slizzy](https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO) | 2:49 | 2023-09-29 | 2023-10-06 |
 | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/track/33jK0OMIl7zNzj5R9niW3A) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Rump \(feat\. Chow Lee\)](https://open.spotify.com/album/6UuDdz6UNlBFSxpOACU3mm) | 2:49 | 2023-08-25 | 2023-10-07 |
+| [run away](https://open.spotify.com/track/1WKzFx2fO5nA8LfXgkAPTL) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [poser](https://open.spotify.com/album/5dk6Et5f7SBRNGJjCZRyyw) | 2:12 | 2026-06-29 |  |
 | [Run It Up](https://open.spotify.com/track/7p9lnFWT6FKkbPe0Cv1fjG) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Run It Up](https://open.spotify.com/album/5QxmusJb1GnmkxR7nEjRcT) | 1:34 | 2022-04-15 | 2022-06-29 |
 | [Run Shannon Run](https://open.spotify.com/track/0Y5hDJTidQ5DsqJoH3QIHj) | [BBY GOYARD](https://open.spotify.com/artist/3V5tndgREjXGlJZEvYl3Xs) | [Run Shannon Run](https://open.spotify.com/album/3YNEhpOpo9TjwgjSioyclj) | 2:00 | 2023-04-10 | 2023-06-08 |
 | [RUNAROUND](https://open.spotify.com/track/7vIeWjMRYqgkJZBalVs6Dj) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [TuffLuckKid](https://open.spotify.com/artist/35Z9ISGpsxeonwsS63zNVN) | [RUNAROUND](https://open.spotify.com/album/1Oui1eGT7UEc8D3IMoLSfh) | 2:00 | 2025-02-26 | 2026-01-31 |

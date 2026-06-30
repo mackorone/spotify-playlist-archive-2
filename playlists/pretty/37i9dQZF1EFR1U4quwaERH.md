@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 71 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
 | 72 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 |
 | 73 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
-| 74 | [On My Mind](https://open.spotify.com/track/2hm4rlbQtbPcSgbcHvD2EQ) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [On My Mind](https://open.spotify.com/album/0i8FpUqtvarBHDV8iJ52Sl) | 2:41 |
-| 75 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
-| 76 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
-| 77 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 74 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 75 | [On My Mind](https://open.spotify.com/track/2hm4rlbQtbPcSgbcHvD2EQ) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [On My Mind](https://open.spotify.com/album/0i8FpUqtvarBHDV8iJ52Sl) | 2:41 |
+| 76 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
+| 77 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
 | 78 | [Don't Stop](https://open.spotify.com/track/5draS2gXFNSnUazm4YHeiW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Start Again](https://open.spotify.com/album/6UwelQHVWYMc580BAnq1av) | 3:09 |
 | 79 | [Just Like Magic](https://open.spotify.com/track/4qiyNCTRPTMQsWcANwYSMt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq) | [THE COLLECTIVE \(VOLUME 01\)](https://open.spotify.com/album/3h5rFOauIzjwqCUMWFNDLi) | 2:24 |
 | 80 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 97 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 98 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcVdpAAAAADE3+VKxjaeEHXVdGqWrpA/`
+Snapshot ID: `AcVjRAAAAACOnvNCO52gylqo+HqAoD1q`

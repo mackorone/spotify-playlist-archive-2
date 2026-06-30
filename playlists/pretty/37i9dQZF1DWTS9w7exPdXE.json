@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 166708,
+  "num_followers": 166752,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Strijdlustig",
-        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
+        "name": "Hartslag Van De Stad",
+        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Bloed, Zweet En Tranen",
-      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
+      "duration_ms": 179025,
+      "name": "Hartslag Van De Stad",
+      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -179,22 +183,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Hartslag Van De Stad",
-        "url": "https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo"
+        "name": "Strijdlustig",
+        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 179025,
-      "name": "Hartslag Van De Stad",
-      "url": "https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl"
+      "duration_ms": 241626,
+      "name": "Bloed, Zweet En Tranen",
+      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Een Blik In Jouw Ogen",
-        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "Een Blik In Jouw Ogen",
-      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Hoe Zou Je Doen",
         "url": "https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn (Feestmix)",
-        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
+        "name": "Een Blik In Jouw Ogen",
+        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
       "artists": [
         {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Drink Rode Wijn - Feestmix",
-      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
+      "duration_ms": 184671,
+      "name": "Een Blik In Jouw Ogen",
+      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1219,6 +1203,22 @@
       "duration_ms": 204933,
       "name": "Een bom",
       "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Drink Rode Wijn (Feestmix)",
+        "url": "https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Drink Rode Wijn - Feestmix",
+      "url": "https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 171285,
       "name": "De Laatste",
       "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
       "artists": [
         {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     }
   ],
   "unique_name": "Hollandse Meezingers",

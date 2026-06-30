@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, MIK's Reaction, JUST LIZZY and more",
+  "description": "With David Von Beahm, MIK's Reaction, photophor and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -5746,7 +5746,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -6640,7 +6640,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 414740,
       "name": "Her-To-Get (To-Get-Her)",
       "url": "https://open.spotify.com/track/6NcSlHDEbD72raPykWCmJi"
@@ -8000,7 +8000,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 323500,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/2Dc6DRMr5fKhcLn57iwnjz"
@@ -14193,6 +14193,24 @@
     },
     {
       "album": {
+        "name": "The Confession Of The Alligator",
+        "url": "https://open.spotify.com/album/7DjJFPGiEB1AmpQ2UwNBAw"
+      },
+      "artists": [
+        {
+          "name": "Bad Remy",
+          "url": "https://open.spotify.com/artist/3luWIAF9EERCEew5rrX3yq"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262138,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2q5DvDlIK3TUgiwKzXr3KF"
+    },
+    {
+      "album": {
         "name": "Tearskin",
         "url": "https://open.spotify.com/album/5CRxOjzKCZxdLFnmIEHly6"
       },
@@ -14476,6 +14494,24 @@
       "duration_ms": 257309,
       "name": "The Day After",
       "url": "https://open.spotify.com/track/1USFHPbSX1xxLcmvdCkwDi"
+    },
+    {
+      "album": {
+        "name": "Bridge To Resolution",
+        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
+      },
+      "artists": [
+        {
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245440,
+      "name": "The Dreaming Abyss",
+      "url": "https://open.spotify.com/track/1FsEE4LCWPcgT23wvkocLl"
     },
     {
       "album": {
@@ -14944,7 +14980,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 192687,
       "name": "The Skies are Watching!",
       "url": "https://open.spotify.com/track/1lYczvzmQXaaLK3R12hici"
@@ -15078,7 +15114,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 393680,
       "name": "The Weight of Heaven",
       "url": "https://open.spotify.com/track/6zHuhmN3Q9gV9Jpz3I6Ola"
@@ -15208,6 +15244,24 @@
       "duration_ms": 278779,
       "name": "THEREISAMOON",
       "url": "https://open.spotify.com/track/3hJssZi5Bx6KWSOHFUwAcF"
+    },
+    {
+      "album": {
+        "name": "After The Astronaut",
+        "url": "https://open.spotify.com/album/1QYRuODGbNGnFxT6OOxaCG"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303610,
+      "name": "They Came In",
+      "url": "https://open.spotify.com/track/7CHy5jYgVFA7lhc4O8GF9r"
     },
     {
       "album": {
@@ -17060,7 +17114,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

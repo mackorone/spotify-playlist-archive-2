@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2026\. Cover: Young Miko & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,913 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,838 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 13 | [Besos Chiquitos](https://open.spotify.com/track/4HJjTChqM6i1WdP4Wa6NXw) | [Fabio Duque](https://open.spotify.com/artist/12N3OoV3Av52c6anEEf1ab) | [Besos Chiquitos](https://open.spotify.com/album/3MidSY1JxMiMoaDk24pCuq) | 2:22 |
 | 14 | [Body](https://open.spotify.com/track/2LDvRwKpty6vuYWGGAYs75) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 3:07 |
 | 15 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
-| 16 | [PUES YA NI PEDO](https://open.spotify.com/track/6TBrjMIQOcT02JWSGTR0vR) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PUES YA NI PEDO](https://open.spotify.com/album/6wnTjCPl6OGSmpp5qf3zPq) | 3:21 |
-| 17 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
+| 16 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
+| 17 | [PUES YA NI PEDO](https://open.spotify.com/track/6TBrjMIQOcT02JWSGTR0vR) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PUES YA NI PEDO](https://open.spotify.com/album/6wnTjCPl6OGSmpp5qf3zPq) | 3:21 |
 | 18 | [Incondicional](https://open.spotify.com/track/0ccQ1CddR2I7vDaA9GoqZA) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Euforia](https://open.spotify.com/album/4DxyXoUaJ7fYUAC0FyShHI) | 4:16 |
 | 19 | [Puñaladas \- Remix](https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas \(Remix\)](https://open.spotify.com/album/4PoBGDfAuUZXpWBj1cc8Tz) | 3:26 |
 | 20 | [Pa' la seca](https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pa' la seca](https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ) | 3:04 |

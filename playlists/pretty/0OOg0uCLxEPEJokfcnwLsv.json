@@ -6,7 +6,7 @@
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGi7/YS9ugZkIxlnQBg+8USh9iUH5Q",
+  "snapshot_id": "AAAGjAfIVt9LgWvMdxbiCIFi6vQ3ne3Y",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1651,6 +1651,34 @@
       "duration_ms": 213500,
       "name": "Queen Of The Night",
       "url": "https://open.spotify.com/track/1XjSFctFEJ24ues0iIB4CB"
+    },
+    {
+      "added_at": "2026-06-29 14:21:11",
+      "album": {
+        "name": "Tribal Suits",
+        "url": "https://open.spotify.com/album/3LwhSOisS2ocjsU0Dn3yiD"
+      },
+      "artists": [
+        {
+          "name": "Nikos Raptis 606",
+          "url": "https://open.spotify.com/artist/6ArWbx65m6W1wvnKLz6DDu"
+        },
+        {
+          "name": "606' Trio",
+          "url": "https://open.spotify.com/artist/3P8nnRW5bGtcOzWE6MiqIZ"
+        },
+        {
+          "name": "Takis Gkrekos",
+          "url": "https://open.spotify.com/artist/3q9un5Y5ULs48p1BtbTx4Q"
+        },
+        {
+          "name": "Giannis Anestis",
+          "url": "https://open.spotify.com/artist/18LjZXBPCqFSumSUA3v8gT"
+        }
+      ],
+      "duration_ms": 196061,
+      "name": "7-7-7",
+      "url": "https://open.spotify.com/track/47RIBc1ppUx3dTW3HKKNAZ"
     }
   ],
   "unique_name": "Unsigned Rock",

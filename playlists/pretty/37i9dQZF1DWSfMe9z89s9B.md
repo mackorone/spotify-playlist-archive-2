@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Khal!l
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,317,112 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,317,034 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 62 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 63 | [Another Life \(Feat\. Bryant Barnes\)](https://open.spotify.com/track/76vnbFYXLxoaJq6ee2Q5VM) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Another Life \(Feat\. Bryant Barnes\)](https://open.spotify.com/album/7hk8631rjWBCtXKvjl06sJ) | 2:49 |
 | 64 | [Lone Wolf \(feat\. 4batz\)](https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:18 |
-| 65 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
-| 66 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
+| 65 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
+| 66 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
 | 67 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
 | 68 | [Babe](https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Babe](https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0) | 3:08 |
 | 69 | [Still Be Mine](https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Still Be Mine](https://open.spotify.com/album/1OaQukEK28zS45MdIzuP9g) | 2:36 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 101 | [Wonder](https://open.spotify.com/track/2aqq3bVljZMbwGuzYaf4om) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Wonder](https://open.spotify.com/album/7e1XIBDJA9TNmIJhBrB7Pw) | 3:43 |
 | 102 | [Nearsight \[SID\]](https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [CAOS](https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa) | 4:18 |
 | 103 | [July](https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [July](https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO) | 2:32 |
-| 104 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
-| 105 | [Rolling Stone](https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:23 |
+| 104 | [Rolling Stone](https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:23 |
+| 105 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
 | 106 | [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ThunderWave](https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL) | 3:14 |
 | 107 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 |
 | 108 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 |
@@ -146,17 +146,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 136 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 |
 | 137 | [Closer Than Close](https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Closer Than Close](https://open.spotify.com/album/6iCdb8zonKMIHFmvZ54HFZ) | 2:40 |
 | 138 | [pilot.](https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB) | [praise.](https://open.spotify.com/artist/3EdJnvPToPkWpjbaWg0CsD) | [pilot.](https://open.spotify.com/album/10AUh5FU4GV7eehXkMxbkB) | 2:26 |
-| 139 | [Forty Days](https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Fidelity](https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa) | 3:26 |
-| 140 | [THAT'S MY...](https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [THAT'S MY...](https://open.spotify.com/album/53tdq4fgJdOvP0FWV98Qom) | 3:02 |
+| 139 | [THAT'S MY...](https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [THAT'S MY...](https://open.spotify.com/album/53tdq4fgJdOvP0FWV98Qom) | 3:02 |
+| 140 | [Forty Days](https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Fidelity](https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa) | 3:26 |
 | 141 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 142 | [Pluto Baby](https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Pluto Baby](https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9) | 2:57 |
 | 143 | [The Boy and The Swan](https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 2:20 |
-| 144 | [GET YA MONEY](https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:20 |
-| 145 | [do you have a soul?](https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:03 |
+| 144 | [do you have a soul?](https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:03 |
+| 145 | [GET YA MONEY](https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:20 |
 | 146 | [Lights Down Low](https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Lights Down Low](https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN) | 3:40 |
 | 147 | [JUICY](https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [JUICY](https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP) | 3:12 |
 | 148 | [Your Ecstasy](https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 3:48 |
 | 149 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 | 150 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
 
-Snapshot ID: `AAAAAEOaF7aK/VO/TQpOgA4wCHuVBK2f`
+Snapshot ID: `AAAAABYoNcwmvCJJ8ocIBUyvRSElzdoY`

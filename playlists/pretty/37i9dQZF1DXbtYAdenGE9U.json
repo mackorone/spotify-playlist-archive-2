@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 799779,
+  "num_followers": 799998,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Clubbin'spirit 2",
         "url": "https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 241346,
       "name": "Mystery Land",
       "url": "https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -903,22 +903,18 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "The Club Mix Collection",
-        "url": "https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE"
+        "name": "Trance Top 1000 - The Legends",
+        "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+          "name": "Warrior",
+          "url": "https://open.spotify.com/artist/5h5zcDZF3qxBCskb39D8yt"
         }
       ],
-      "duration_ms": 188099,
-      "name": "Sun & Moon - Above & Beyond Club Mix",
-      "url": "https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC"
+      "duration_ms": 227428,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/3lI7LW2LP1994W7kTBOUaK"
     }
   ],
   "unique_name": "Trance Classics",

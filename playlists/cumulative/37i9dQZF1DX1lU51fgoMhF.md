@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Hearts2Hearts\)
 
-409 songs - 22 hr 11 min
+411 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-08 | 2022-08-30 |
 | [Bora](https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [HOOK](https://open.spotify.com/album/2sro0GXELrNHRYkvju3mVE) | 2:15 | 2025-07-23 | 2025-10-03 |
 | [Break Ice](https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS) | [Second Aunt KimDaVi](https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Break Ice](https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm) | 2:56 | 2021-11-17 | 2022-08-13 |
-| [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-05 |  |
+| [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-05 | 2026-06-30 |
 | [BUMPA](https://open.spotify.com/track/23a1R9cs5TQpaVoELO5TUA) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BUMPA](https://open.spotify.com/album/0i8Xp0uDUtNibZmFN5Z5xh) | 3:38 | 2026-05-26 |  |
 | [BUMPA](https://open.spotify.com/track/6GSdBUjAnJmIjxMAYz5WCa) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BUMPA](https://open.spotify.com/album/7je4W0rO93omBFfKDmkjNn) | 3:38 | 2026-05-20 | 2026-05-27 |
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2023-07-20 |  |
@@ -108,6 +108,7 @@
 | [Don't forget](https://open.spotify.com/track/3vUhplxWXZzRROaw3zmeag) | [SEULGI](https://open.spotify.com/artist/73Ag41hlRQlEj8wJloKccQ) | [Don't forget me](https://open.spotify.com/album/5o9y5DIHPh6zqlaPFUHFYX) | 3:14 | 2021-11-17 | 2022-07-24 |
 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 | 2023-07-05 | 2026-05-26 |
 | [Down For You](https://open.spotify.com/track/5NcJGNuS275gu8yzagz3L1) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 3:06 | 2021-11-17 | 2022-07-29 |
+| [Dream With Us](https://open.spotify.com/track/4MNxZZl9iyLRvz9n1kHSEg) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Dream With Us](https://open.spotify.com/album/1MKVIZSSI1346mVoBiLAy1) | 2:48 | 2026-06-29 |  |
 | [DREAMLIKE](https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:46 | 2021-11-17 | 2022-07-29 |
 | [DREAMLIKE](https://open.spotify.com/track/6d3pjHp69A5RABSAJ7zqJH) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:46 | 2022-09-05 | 2023-07-21 |
 | [Drive Away](https://open.spotify.com/track/0AghOiiy5SQslFmbtb87O3) | [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [Drive Away](https://open.spotify.com/album/6XBlTQ8DNF7T69ohs9SxTq) | 3:03 | 2022-05-11 | 2022-07-09 |
@@ -340,7 +341,7 @@
 | [Skip Skip](https://open.spotify.com/track/2Zb4ieqfoCB6WP5LO2NmCK) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:22 | 2021-11-17 | 2022-07-29 |
 | [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 | 2025-07-25 | 2026-05-01 |
 | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Smeraldo Garden Marching Band \(feat\. Loco\)](https://open.spotify.com/album/2PcM535knJOZb6MUth8axj) | 3:02 | 2024-06-28 | 2026-05-20 |
-| [Smile For You](https://open.spotify.com/track/3Wrx6EOtpJWi48sXo0VeTO) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [Smile For You](https://open.spotify.com/album/2zvY6mKJDASMNwSt008Iex) | 3:10 | 2026-06-22 |  |
+| [Smile For You](https://open.spotify.com/track/3Wrx6EOtpJWi48sXo0VeTO) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [Smile For You](https://open.spotify.com/album/2zvY6mKJDASMNwSt008Iex) | 3:10 | 2026-06-22 | 2026-06-30 |
 | [So What](https://open.spotify.com/track/2O6xWo72i6URMHmWVu4zgy) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:03 | 2022-06-08 | 2022-09-12 |
 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 | 2025-07-04 |  |
 | [Some Things Never Change](https://open.spotify.com/track/26PkMF0JgRobNBgMBDgUvE) | [ZOONIZINI\(ASTRO\)](https://open.spotify.com/artist/5rWyDdaaTqFKktqU2j0JdM) | [DICE](https://open.spotify.com/album/0wghP8LL50YyIia4U4JmbQ) | 3:02 | 2025-09-01 | 2026-05-20 |
@@ -386,6 +387,7 @@
 | [Too Too \(22\)](https://open.spotify.com/track/2uA3jfkWImtEGF0qIDoMRc) | [Hi\-L](https://open.spotify.com/artist/668EkqpqxR58Ww5mFGZucp) | [Go High](https://open.spotify.com/album/4H18w6Nolm5aPyGQZNSmo7) | 3:18 | 2021-11-17 | 2022-07-29 |
 | [Touch my body](https://open.spotify.com/track/33CmoSmppc5Xf65cf3Bv1X) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [<Queendom2> Part.1\-1](https://open.spotify.com/album/29VuFjH8b0MmLmRPeKb1cK) | 3:34 | 2022-04-18 | 2022-08-23 |
 | [Tra\-la](https://open.spotify.com/track/4s8IMVq4fLVCiovaW7HEim) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Neverland](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) | 3:57 | 2021-11-17 | 2022-07-29 |
+| [Umpah Umpah](https://open.spotify.com/track/5qSoW3ewNlhRN3FNZPmVns) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Day 2](https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc) | 3:40 | 2026-06-29 |  |
 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 | 2023-07-20 |  |
 | [Up](https://open.spotify.com/track/70QXJyGkuTJDhfxqW2XGED) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/548UwoyV9v9fTaoEfzoCBb) | 3:12 | 2022-07-27 | 2024-04-19 |
 | [Up](https://open.spotify.com/track/0yKtEkiVN8rPDWbtn6HvDd) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [HEART\*IZ](https://open.spotify.com/album/2UBE2MgNdsGa9OCSbvwdEQ) | 3:12 | 2021-11-17 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1402265,
+  "num_followers": 1402372,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "The Poison",
-        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Hand Of Blood",
-      "url": "https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Suicide Season",
         "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "Hand Of Blood",
+      "url": "https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Ich tu dir weh",
-      "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "With Teeth (Bonus Tracks)",
         "url": "https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211680,
       "name": "The Hand That Feeds",
       "url": "https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
+        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Ich tu dir weh",
+      "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "Revolution Is My Name",
-      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Brave New World (2015 Remaster)",
         "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 275253,
       "name": "The Wicker Man - 2015 Remaster",
       "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Slania",
-        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Inis Mona",
-      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 231933,
       "name": "Fall Into Sleep",
       "url": "https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Slania",
+        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Inis Mona",
+      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Adema",
-        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
-      },
-      "artists": [
-        {
-          "name": "Adema",
-          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "The Way You Like It",
-      "url": "https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Animosity",
         "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
       },
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "The Darker Side of Nonsense",
-        "url": "https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz"
+        "name": "Adema",
+        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
       "artists": [
         {
-          "name": "Dry Kill Logic",
-          "url": "https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX"
+          "name": "Adema",
+          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Rot",
-      "url": "https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK"
+      "duration_ms": 219933,
+      "name": "The Way You Like It",
+      "url": "https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
     }
   ],
   "unique_name": "00s Metal Classics",

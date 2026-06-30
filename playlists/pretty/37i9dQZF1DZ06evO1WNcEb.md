@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,653 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,651 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 29 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 30 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 |
 | 31 | [Descanse o Seu Coração + Deus é Deus \(Ao Vivo\)](https://open.spotify.com/track/0Gl9MavvqrkOR1X4FjELp9) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Eyshila 30 Anos \(Ao Vivo\)](https://open.spotify.com/album/1hjPAxFx07DpLKFrlgamzq) | 5:07 |
-| 32 | [Espírito Santo](https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:22 |
+| 32 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 |
 | 33 | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH) | 6:21 |
 | 34 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 |
 | 35 | [Fiel a Mim + Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fiel a Mim + Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf) | 8:16 |
-| 36 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 |
+| 36 | [Espírito Santo](https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:22 |
 | 37 | [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 |
 | 38 | [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 |
 | 39 | [Até Tocar o Céu + Profetiza \(Ao Vivo\)](https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Até Tocar o Céu + Profetiza \(Ao Vivo\)](https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB) | 8:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [É Assim Que Eu Quero Te Adorar + Som de um Coração \(Ao Vivo\)](https://open.spotify.com/track/2ydWTetNwvbuXhEDG0yq3V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [É Assim Que Eu Quero Te Adorar \(Ao Vivo\)](https://open.spotify.com/album/61wOcR7NX5iu1OfYb6V5Rf) | 6:46 |
 | 50 | [Aguenta Firme + Na Eternidade \(Ao Vivo\)](https://open.spotify.com/track/0vnuLFvkgtnEgll90njg5A) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Dani Ferber](https://open.spotify.com/artist/3QT08LehX9bIPs1PuXXBsH) | [Aguenta Firme + Na Eternidade \(Ao Vivo\)](https://open.spotify.com/album/5uZWtgelO4WRrmzUGLCgr6) | 5:48 |
 
-Snapshot ID: `aj8SgAAAAADbDjQhN7pai3vdtldl51iS`
+Snapshot ID: `akBkAAAAAABjRJYvXzUntErP28Uelz/d`

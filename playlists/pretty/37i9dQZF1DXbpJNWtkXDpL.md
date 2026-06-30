@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,998 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,025 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 39 | [mirar adentro](https://open.spotify.com/track/4D58UqIzqL8BXM0MDRYJMq) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [mirar adentro](https://open.spotify.com/album/5crFVDguekt65vFoLlKgew) | 3:29 |
 | 40 | [URUS](https://open.spotify.com/track/1orFV83o0XxHF3HHyJCsLD) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Kevin Santin](https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW) | [URUS](https://open.spotify.com/album/1L3Kqo9rwTmDUpRZxdGJuR) | 2:26 |
 | 41 | [250cc](https://open.spotify.com/track/0Ywh0NH8bmPTQFvQZ9G5yU) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h) | [250cc](https://open.spotify.com/album/6nUtF0ygYhS5iJh8JvnfuB) | 2:25 |
-| 42 | [Todavía No](https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Todavía No](https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq) | 4:05 |
-| 43 | [a la mitad](https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [a la mitad](https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY) | 2:54 |
-| 44 | [puede ser que mañana](https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [puede ser que mañana](https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A) | 2:50 |
-| 45 | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j) | 2:27 |
+| 42 | [a la mitad](https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [a la mitad](https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY) | 2:54 |
+| 43 | [Todavía No](https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Todavía No](https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq) | 4:05 |
+| 44 | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j) | 2:27 |
+| 45 | [puede ser que mañana](https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [puede ser que mañana](https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A) | 2:50 |
 | 46 | [Tempestad](https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Tempestad](https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE) | 4:15 |
 | 47 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
 | 48 | [besos de esquimal](https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt) | [sobresdylan](https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL) | [sobrio](https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 74 | [habitación backwo0d](https://open.spotify.com/track/3Wa7Qee0YpucLgD6ehUClD) | [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c), [GoldenVato](https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b), [GlobalBoy Da Glowop](https://open.spotify.com/artist/6axE366zCZhhvFJ304IMvq) | [HISTORIAS DEL CERRO](https://open.spotify.com/album/1yRX0S6IXARwJ0e9cw6auj) | 2:38 |
 | 75 | [YoPiensoEnTi](https://open.spotify.com/track/6lAP7P3vWHS84ktoyX2ZLQ) | [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [YoPiensoEnTi](https://open.spotify.com/album/3HvYLKvg7TQ3ieqLsxK2lZ) | 2:36 |
 
-Snapshot ID: `AAAAAJsdU7er649C5wGt7f6vJs2EvK3H`
+Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

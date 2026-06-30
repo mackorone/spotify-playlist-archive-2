@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,570 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,556 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 31 | [So Abgefuckt](https://open.spotify.com/track/40T4YzVoD5w8OrKNwRgEn6) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [So Abgefuckt](https://open.spotify.com/album/4nqSKEz2mPuXrpK1O1ubGU) | 2:30 |
 | 32 | [Holiday / Boulevard of Broken Dreams](https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 8:13 |
 | 33 | [fühlst du das auch](https://open.spotify.com/track/6j1rG6MdgGf6axvaRXKgvf) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [fühlst du das auch](https://open.spotify.com/album/2aAHDYWJ0tQzfmn1LsSq7a) | 1:58 |
-| 34 | [nie schön genug \(Bengio Edit\)](https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [Bengio](https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3) | [nie schön genug](https://open.spotify.com/album/1CM9BgAsbMrUsFM4ZCBwnU) | 2:35 |
+| 34 | [nie schön genug](https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [Bengio](https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3) | [nie schön genug](https://open.spotify.com/album/1CM9BgAsbMrUsFM4ZCBwnU) | 2:35 |
 | 35 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
 | 36 | [Soda Zitron](https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Soda Zitron](https://open.spotify.com/album/6xLhRYX5YJN8LGFNeJ1GYC) | 2:57 |
 | 37 | [für immer](https://open.spotify.com/track/4nEmfNsMdztb0ECZau0MIM) | [julee](https://open.spotify.com/artist/2FvYb4ggkzFJOVzr1kl5BM) | [für immer](https://open.spotify.com/album/5vsUZseWT8NG99lKrsZr94) | 2:22 |

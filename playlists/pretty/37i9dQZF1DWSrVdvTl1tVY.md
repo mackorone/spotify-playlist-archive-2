@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Ben Evers, Najeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,035 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,982 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 96 | [Hey Cookie](https://open.spotify.com/track/2TIRimntYOpeyYYEpmST6o) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Hey Cookie](https://open.spotify.com/album/5tS4fri3czKytarGiY1Azm) | 2:50 |
 | 97 | [Only You](https://open.spotify.com/track/26EARfSu4b4dUhNDkfCRbP) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Only You](https://open.spotify.com/album/75IwgNsbTf2zWuhhOXI480) | 3:47 |
 | 98 | [Story Of My Life](https://open.spotify.com/track/1zXjPVQeJKcKulwkVkU0rW) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Story Of My Life](https://open.spotify.com/album/6kg1pJ2pDOOBpy2jV5FNUE) | 2:51 |
-| 99 | [Loose Pt\. 3 \- Illyus Barrientos Remix](https://open.spotify.com/track/0Ue4Ta8UqQGchkj3YGog5W) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3 \(Illyus Barrientos Remix\)](https://open.spotify.com/album/4PYCyPzfYE1yes0BYAlvEG) | 3:11 |
+| 99 | [Loose Pt\. 3 \- Illyus Barrientos Remix](https://open.spotify.com/track/0Ue4Ta8UqQGchkj3YGog5W) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3 \(Illyus Barrientos Remix\)](https://open.spotify.com/album/4PYCyPzfYE1yes0BYAlvEG) | 3:11 |
 | 100 | [Escape](https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe) | [Jordan Peak](https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk) | [Escape](https://open.spotify.com/album/0YVAn2TP4lUzjFhq6Z89nD) | 2:41 |
 
 Snapshot ID: `AAAAANQiFKhu0pgPIN5Zotnt34gY4Hvk`

@@ -2462,10 +2462,28 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 232836,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ"
+    },
+    {
+      "album": {
+        "name": "Na Pegada da Thamires Cardoso 0.1",
+        "url": "https://open.spotify.com/album/2rA4ohJChPIt0xD3049mF5"
+      },
+      "artists": [
+        {
+          "name": "Thamires Cardoso",
+          "url": "https://open.spotify.com/artist/2e8UWKpClRQPYpQRjRyMjz"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169230,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/48IRc9BKB0rc47stIrqSdQ"
     },
     {
       "album": {

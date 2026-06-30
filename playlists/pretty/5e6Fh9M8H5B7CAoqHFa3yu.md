@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 341 likes - 2,419 songs - 5 day 22 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,421 songs - 5 day 22 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2427,5 +2427,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2417 | [Tight Formation](https://open.spotify.com/track/5TxViqOacvFQbBZHxdVFsi) | [Odyra](https://open.spotify.com/artist/1sgLt5j4wGd1c8JCmmnGk4) | [Team Routine Cinema](https://open.spotify.com/album/6YnybNMuQYQw2azSLErpbp) | 3:32 |
 | 2418 | [TIMELINE THE BROKEN](https://open.spotify.com/track/2M7H2SHbVMXFBQ9E3Z63SV) | [JNill](https://open.spotify.com/artist/6B95fKjfN8G03ZmBjmuuO5) | [TIMELINE THE BROKEN](https://open.spotify.com/album/5IpGEqV3cvoV5Rp8xhuqR5) | 2:37 |
 | 2419 | [DEROGATORY](https://open.spotify.com/track/6vFNlT9rxihG5ey0gxUkJo) | [YungBart](https://open.spotify.com/artist/3Zp9dPmBEhieo5EJa9RE1x) | [BIG BREAK](https://open.spotify.com/album/4d1jBtNusVXgO5K3Cun1IM) | 3:08 |
+| 2420 | [Son Of God](https://open.spotify.com/track/2gxdVIWXucZeOvAPIFq7Ye) | [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Holy Ground, Vol\. 1](https://open.spotify.com/album/5RugmFSjKKXVZQKvwkk4zo) | 3:46 |
+| 2421 | [TRY ME](https://open.spotify.com/track/0CavuOdspBDRkBXhEP6UMH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TRY ME](https://open.spotify.com/album/4Uvf4xhtQ3yPZOjpQ30VUs) | 2:40 |
 
-Snapshot ID: `AAAKQA03OJHZNxeUZaFyKgOaFeWVc5xU`
+Snapshot ID: `AAAKQsoqtF4YNY1TaiAlke6zOfWuKMCo`

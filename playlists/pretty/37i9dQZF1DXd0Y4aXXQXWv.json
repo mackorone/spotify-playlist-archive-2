@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 501846,
+  "num_followers": 501851,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Rupture 2 merde",
-        "url": "https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy"
-      },
-      "artists": [
-        {
-          "name": "Therapie TAXI",
-          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Et\u00e9 90",
-      "url": "https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 184173,
       "name": "J't'emm\u00e8ne au vent",
       "url": "https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Rupture 2 merde",
+        "url": "https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy"
+      },
+      "artists": [
+        {
+          "name": "Therapie TAXI",
+          "url": "https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Et\u00e9 90",
+      "url": "https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Caravane",
-      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 291400,
       "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Caravane",
+      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
+        "name": "Calog3ro",
+        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        },
+        {
+          "name": "Passi",
+          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Face \u00e0 la mer",
+      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
-        "name": "Calog3ro",
-        "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        },
-        {
-          "name": "Passi",
-          "url": "https://open.spotify.com/artist/41o2A93SPxIUxsy5HQjvul"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Face \u00e0 la mer",
-      "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
+        "name": "Ginger",
+        "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebtan Roussel",
+          "url": "https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Help Myself (Nous Ne Faisons Que Passer)",
+      "url": "https://open.spotify.com/track/2bwbKylFWjIeRNVuUWdYFN"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
         "name": "Un autre monde (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3"
       },
@@ -815,26 +831,6 @@
       "duration_ms": 273920,
       "name": "Un autre monde - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/3I4ecHrrMuD8FFfFCVy4g5"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
-        "name": "MESDAMES deluxe",
-        "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Camille Lellouche",
-          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Mais je t'aime",
-      "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
     }
   ],
   "unique_name": "Culture Tubes",

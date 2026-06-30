@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,489 likes - 79 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,486 likes - 79 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 11 | [Polsilver](https://open.spotify.com/track/2BG7eli63SGzeJaWn3wiSw) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [EX UMBRA AD LIBERTATEM](https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q) | 3:30 |
 | 12 | [NORADRENALINA](https://open.spotify.com/track/6X2DWPDZ2GumLmw8bGIr1W) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Duit](https://open.spotify.com/artist/6NUBt2nj5uT4iLLTIMRxra) | [PÓŁNOC / POŁUDNIE](https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1) | 3:45 |
 | 13 | [zanim spadnie deszcz](https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 3:08 |
-| 14 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
-| 15 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
+| 14 | [Dość](https://open.spotify.com/track/7gkTiEARqFOCwiMONpVnUh) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Dość](https://open.spotify.com/album/78new3GPxvYvNtNRi5WyVu) | 2:14 |
+| 15 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
 | 16 | [Niech żyje bal](https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Niech żyje bal](https://open.spotify.com/album/3dqGcvAwa84vGvmnersJxN) | 3:58 |
 | 17 | [Cud](https://open.spotify.com/track/5hhMCMRnKXW8IaUgKt4TZd) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 3:06 |
 | 18 | [sam na świecie](https://open.spotify.com/track/21ls6f3Hx3C60odiucKf5E) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 3:09 |

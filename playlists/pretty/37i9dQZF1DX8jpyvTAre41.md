@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: PUP
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,232 likes - 148 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,225 likes - 148 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 23 | [The Dark](https://open.spotify.com/track/6UCNITu31HUundg15nR9BY) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/0CKlR1QlZCj5DvE6ocesUD) | 3:33 |
 | 24 | [Chaos Ball](https://open.spotify.com/track/3OYDaKkG4dgfyGLHLAvGzY) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [Prairie](https://open.spotify.com/album/0rYKyoUPaD9R3VxZOPZEKD) | 4:18 |
 | 25 | [Get Up and Dance](https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Get Up and Dance](https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn) | 4:21 |
-| 26 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
+| 26 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
 | 27 | [ELEVEN87](https://open.spotify.com/track/6GIzqPQn0a2L6AHt1ToSIb) | [casi](https://open.spotify.com/artist/08KCycW58Ksyv5y5QaTyXH) | [CASI](https://open.spotify.com/album/1itTUvcQvI3gQGyzfQZUTR) | 4:27 |
 | 28 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
 | 29 | [Demain minuit](https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Demain minuit](https://open.spotify.com/album/3CPxTfaD77jkBWtXHKaldt) | 3:09 |

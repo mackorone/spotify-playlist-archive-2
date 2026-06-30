@@ -2,9 +2,9 @@
 
 ### [Turn Up Aus](https://open.spotify.com/playlist/37i9dQZF1DX4CLWFba8a7l)
 
-> In this house we celebrate Australian music\. Cover: The Avalanches
+> In this house we celebrate Australian music\. Cover: Amy Shark
 
-667 songs - 1 day 13 hr 17 min
+668 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 | 2025-10-31 |
 | [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 | 2026-04-16 |  |
 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-26 | 2025-08-17 |
-| [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 | 2026-02-26 |  |
+| [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 | 2026-02-26 | 2026-06-30 |
 | [I Don't Wanna Go Home](https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Don't Wanna Go Home](https://open.spotify.com/album/4N3Br72rwMUxSXZiBSOppL) | 2:41 | 2025-07-10 | 2025-07-18 |
 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 | 2025-08-07 | 2025-11-19 |
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
@@ -511,6 +511,7 @@
 | [Shot Caller](https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p) | [Shot Caller](https://open.spotify.com/album/1ZagA41DDTxulo2jWZzrmF) | 2:49 | 2025-06-05 | 2025-06-13 |
 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 | 2025-03-20 | 2025-05-16 |
 | [Site Unseen](https://open.spotify.com/track/13Xx3Q8vjOBouZuyJmwfEA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Site Unseen](https://open.spotify.com/album/066Z7ZIBEWHH4bqxtq5KwU) | 2:46 | 2026-01-22 | 2026-01-30 |
+| [Skyworks](https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 4:20 | 2026-06-26 |  |
 | [Sleepless Nights](https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Sleepless Nights](https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c) | 2:27 | 2025-05-15 | 2026-03-30 |
 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 | 2024-06-06 |  |
 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 | 2025-09-01 | 2025-09-05 |

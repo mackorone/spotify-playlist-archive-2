@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Get Worship",
-  "num_followers": 1218009,
+  "num_followers": 1218030,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-12 03:01:53",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2026-06-12 03:01:53",
-      "album": {
         "name": "Peregrino (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 330220,
       "name": "Peregrino - Ao vivo",
       "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+    },
+    {
+      "added_at": "2026-06-12 03:01:53",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2026-06-12 03:01:53",

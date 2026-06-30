@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 860244,
+  "num_followers": 860415,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAACAT1ZeB7Nc38X3wHeuDr80",
+  "snapshot_id": "akBkAAAAAABIfb7B9+ct6p7+wXPQIr0O",
   "tracks": [
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni\u00f1a Amada Mia",
         "url": "https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 192026,
       "name": "Ni\u00f1a Amada M\u00eda",
       "url": "https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv"
     },
     {
       "added_at": null,

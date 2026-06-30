@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 582 songs - 1 day 11 hr 19 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 583 songs - 1 day 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -590,5 +590,6 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 580 | [We Met In Our Eyes](https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [We Met In Our Eyes](https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx) | 4:21 |
 | 581 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
 | 582 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
+| 583 | [Little Jolie](https://open.spotify.com/track/3OxnFROm8zegbkLGCRBO6r) | [Pär Stenström](https://open.spotify.com/artist/470csy88vVgW8gLUuVAhva) | [Little Jolie](https://open.spotify.com/album/650ORU2g86Iq53ZTVswtQ8) | 4:01 |
 
-Snapshot ID: `AAAC2yt6UbLp8RSBvR9SmMACbCU47P4A`
+Snapshot ID: `AAAC3Gq5m+eT3Tfn/mE1CZdVbaASMAOD`

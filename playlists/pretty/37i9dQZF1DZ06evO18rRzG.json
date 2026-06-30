@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 438497,
+  "num_followers": 438591,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAACK1/rCPW8LqB6jVCd75ts1",
+  "snapshot_id": "akBkAAAAAABXe9F4Kv/tHnxURg7nomoc",
   "tracks": [
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pilgrim's Paradise",
-        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
+        "name": "Who Hurt You?",
+        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 246972,
-      "name": "Streetcar",
-      "url": "https://open.spotify.com/track/3m5rs2BeWjLUe0Ygc6aM7i"
+      "duration_ms": 231964,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Hurt You?",
-        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
+        "name": "Pilgrim's Paradise",
+        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 231964,
-      "name": "Who Hurt You?",
-      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
+      "duration_ms": 246972,
+      "name": "Streetcar",
+      "url": "https://open.spotify.com/track/3m5rs2BeWjLUe0Ygc6aM7i"
     },
     {
       "added_at": null,

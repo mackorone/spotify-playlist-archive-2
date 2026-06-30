@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 125317,
       "name": "Kilian",
       "url": "https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu"
@@ -5800,7 +5800,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -6523,6 +6523,50 @@
     },
     {
       "album": {
+        "name": "T\u00c2RZIU",
+        "url": "https://open.spotify.com/album/7f19U7dqscOlCWAr6BiA4A"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258823,
+      "name": "T\u00c2RZIU",
+      "url": "https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE"
+    },
+    {
+      "album": {
+        "name": "Vara nu e vara",
+        "url": "https://open.spotify.com/album/7vMbS8vbdAl0ko9clIHTMc"
+      },
+      "artists": [
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Vara nu e vara",
+      "url": "https://open.spotify.com/track/01bhnosc5HEyhHyszYtmtE"
+    },
+    {
+      "album": {
         "name": "Vin Sa Te Fur",
         "url": "https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8"
       },
@@ -6616,6 +6660,24 @@
       "duration_ms": 139200,
       "name": "Voila",
       "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
+    },
+    {
+      "album": {
+        "name": "SKINNY LEGEND",
+        "url": "https://open.spotify.com/album/1knBiRGxp2jbjmpyxFMFzZ"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "VOMIT BANI",
+      "url": "https://open.spotify.com/track/2hQqHpmnbzIGnhwIzRTHGQ"
     },
     {
       "album": {

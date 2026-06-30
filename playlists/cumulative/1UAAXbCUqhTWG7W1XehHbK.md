@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-160 songs - 9 hr 21 min
+160 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Nobody Else](https://open.spotify.com/track/5eR7DNmNasxNbaBRYzoUEI) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Nobody Else](https://open.spotify.com/album/3ddpL290hC2bOzbWHveGLr) | 3:21 | 2026-04-14 |  |
 | [Nonsense](https://open.spotify.com/track/1MhYUZfR3D8m5pgzzgLvzx) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Nonsense](https://open.spotify.com/album/0Rjqc7fYh8vM6lj1flG5FN) | 3:49 | 2025-08-27 | 2025-12-17 |
 | [Nuketown City](https://open.spotify.com/track/63kddsUAEtv9gPiicmeDZm) | [Ant1c](https://open.spotify.com/artist/5R14nKpPP8Jf9OTFRB16SR) | [Nuketown City](https://open.spotify.com/album/0ohAthOe1kAWeYU0HFlYtb) | 2:35 | 2025-11-07 |  |
-| [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:50 | 2026-01-12 |  |
+| [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:52 | 2026-01-12 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 |  |
 | [One of a Kind](https://open.spotify.com/track/711P5S0uw1PSzAgKthYcTP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [One of a Kind](https://open.spotify.com/album/2nA99Zidxymb7TVHgygcnp) | 3:59 | 2025-10-13 |  |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-21 |  |

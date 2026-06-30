@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=\_UdwKKPTRn6ORelUY3c2QQ"> Barry Can't Swim</a>'s favourite tracks\. Updated regularly\. Curated by Barry Can't Swim\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,037 likes - 93 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,046 likes - 93 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbfVJ3tB3QO.md) - [plain]
 | 8 | [without u](https://open.spotify.com/track/5vtKnPkIL2aHb6Yv3emFw9) | [not without friends](https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [without u](https://open.spotify.com/album/4EQPCwHjEAGue7IYafBBCV) | 3:36 |
 | 9 | [Summer Daze](https://open.spotify.com/track/2sbUWtAhUyGYXiCch6OcmO) | [Nick Holder](https://open.spotify.com/artist/2XyH5i2qSPSmSkv0Ck9mBF) | [Underground Alternatives](https://open.spotify.com/album/4seR9L4jUm7oFTJkaFdAMp) | 7:48 |
 | 10 | [Dream In The Desert \- Flight Facilities Remix](https://open.spotify.com/track/1ILafQhFjrStrboHQiiFd6) | [Lowbrows](https://open.spotify.com/artist/62EoUtEznF5M93EdNID1Jq), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dream In The Desert](https://open.spotify.com/album/5pgFizZK3e5qTYNLeGC5A4) | 8:11 |
-| 11 | [Strings](https://open.spotify.com/track/4sTB8MLtRNoL5SCgLC56TU) | [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Strings](https://open.spotify.com/album/6cOIYdDVojdVjjcOx18M30) | 6:45 |
+| 11 | [Strings](https://open.spotify.com/track/4sTB8MLtRNoL5SCgLC56TU) | [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Strings](https://open.spotify.com/album/6cOIYdDVojdVjjcOx18M30) | 6:45 |
 | 12 | [Stimulation](https://open.spotify.com/track/3EKDfS52GYH6mXT7pyo1JV) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Stimulation](https://open.spotify.com/album/28CIkCFWMObaWeO4KQ3lfb) | 4:46 |
 | 13 | [NY Lipps \- Kawazaki Dub](https://open.spotify.com/track/6HuY2kgP4imY4xDdjKYGkc) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Nite Versions \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4cGFG2xWOqE09EmRMUMd6t) | 5:42 |
 | 14 | [On The Road \- Matt Fear Remix](https://open.spotify.com/track/31ebQLtNlxtuTsyEyl1TCD) | [Lee M Kelsall](https://open.spotify.com/artist/5I8FMo1nYAsVrLAjTYc3Up) | [Hot Waves Compilation Vol\. Two](https://open.spotify.com/album/0w7UCEWHt0uggzleqISZ7p) | 7:08 |

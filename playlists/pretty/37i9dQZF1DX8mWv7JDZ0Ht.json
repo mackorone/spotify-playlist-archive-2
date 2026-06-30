@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Bryan Behr",
-  "num_followers": 434452,
+  "num_followers": 434438,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "ROLIDEI",
-        "url": "https://open.spotify.com/album/4RMCtuuCtPCxRHJCNuOEtT"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 188546,
-      "name": "SUDAM\u00c9RICA",
-      "url": "https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Faz de Conta",
         "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
       },
@@ -203,22 +187,18 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "NOVA: Surpresa",
-        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
+        "name": "ROLIDEI",
+        "url": "https://open.spotify.com/album/4RMCtuuCtPCxRHJCNuOEtT"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 255333,
-      "name": "NOVA: Surpresa",
-      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
+      "duration_ms": 188546,
+      "name": "SUDAM\u00c9RICA",
+      "url": "https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -243,6 +223,26 @@
       "duration_ms": 244357,
       "name": "Comum (xote)",
       "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "NOVA: Surpresa",
+        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "NOVA: Surpresa",
+      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "escapismo",
         "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 167372,
       "name": "belo horizonte",
       "url": "https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "A Menina Dan\u00e7a",
         "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 177978,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -503,18 +519,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+        "name": "Fica De Dengo",
+        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         }
       ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+      "duration_ms": 145306,
+      "name": "Fica De Dengo",
+      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -535,26 +555,6 @@
       "duration_ms": 203311,
       "name": "dois brilhantes",
       "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "Fica De Dengo",
-        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 145306,
-      "name": "Fica De Dengo",
-      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -595,6 +595,38 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "sofrer por voc\u00ea",
         "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
@@ -631,18 +663,18 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
         }
       ],
-      "duration_ms": 179541,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -663,22 +695,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Improv\u00e1vel",
         "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 176862,
       "name": "Improv\u00e1vel",
       "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "O Fim do Planeta Azul",
-        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 206739,
-      "name": "O Fim do Planeta Azul",
-      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "paix\u00e3o ou vaidade?",
         "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 183374,
       "name": "paix\u00e3o ou vaidade?",
       "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-06-26 03:00:29",

@@ -1,13 +1,29 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 46726,
+  "num_followers": 46736,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J",
+  "snapshot_id": "AAAAALcl6acJId17GtdzGlC//UamlyWd",
   "tracks": [
+    {
+      "added_at": "2026-06-29 06:57:12",
+      "album": {
+        "name": "Dayago Sadri",
+        "url": "https://open.spotify.com/album/5XJ9w79wQutSWWMXNgN30i"
+      },
+      "artists": [
+        {
+          "name": "Rabeh Saqer",
+          "url": "https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2"
+        }
+      ],
+      "duration_ms": 285725,
+      "name": "Dayago Sadri",
+      "url": "https://open.spotify.com/track/6f8vDZ3CyluqRhyeo12GVJ"
+    },
     {
       "added_at": "2026-06-18 11:40:09",
       "album": {

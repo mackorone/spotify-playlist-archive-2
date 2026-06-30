@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,738 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,732 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SUPERSTAR](https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0) | 2:29 |
-| 2 | [Gevaarlijk](https://open.spotify.com/track/7kuPk2p387tnOYTTGu0FmK) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Just A Lover Girl \(Deluxe\)](https://open.spotify.com/album/4Z0To29ffE0htwxvucjMf0) | 1:57 |
-| 3 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
-| 4 | [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 |
-| 5 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
-| 6 | [de laatste zomer](https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [lieve monsters: epiloog](https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr) | 3:24 |
-| 7 | [Ik Droom Alvast Van Jou](https://open.spotify.com/track/10fXUjOffC01ye6N151DGj) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Ik Droom Alvast Van Jou](https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh) | 2:36 |
-| 8 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
-| 9 | [Hypocriet](https://open.spotify.com/track/4xtPvPsghLZNCiifdABJ0r) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Hypocriet](https://open.spotify.com/album/3i5jFbergniuEq3DnpBE2Q) | 2:40 |
+| 2 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
+| 3 | [Gevaarlijk](https://open.spotify.com/track/7kuPk2p387tnOYTTGu0FmK) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Just A Lover Girl \(Deluxe\)](https://open.spotify.com/album/4Z0To29ffE0htwxvucjMf0) | 1:57 |
+| 4 | [Ik Droom Alvast Van Jou](https://open.spotify.com/track/10fXUjOffC01ye6N151DGj) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Ik Droom Alvast Van Jou](https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh) | 2:36 |
+| 5 | [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 |
+| 6 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
+| 7 | [Hypocriet](https://open.spotify.com/track/4xtPvPsghLZNCiifdABJ0r) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Hypocriet](https://open.spotify.com/album/3i5jFbergniuEq3DnpBE2Q) | 2:40 |
+| 8 | [de laatste zomer](https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [lieve monsters: epiloog](https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr) | 3:24 |
+| 9 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 10 | [Van Mij Is Van Mij](https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6) | [JANEY](https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN) | [Van Mij Is Van Mij](https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4) | 2:58 |
 | 11 | [Ik ben onzeker](https://open.spotify.com/track/4pgl1lIeawNxMASWpEBulm) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Benjamin / Benoni](https://open.spotify.com/album/6QbXDIUPK8fDULVHmsUiiL) | 3:31 |
 | 12 | [VAL](https://open.spotify.com/track/3m2bkSx0cjwZtKRBBleA91) | [Juultje Tieleman](https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK) | [VAL](https://open.spotify.com/album/6scVbQ46ciABrswVfh9cRL) | 2:43 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Leven Lang](https://open.spotify.com/track/0bS9eVEQ2bN2i5WrnVnFFb) | [Romy Monteiro](https://open.spotify.com/artist/7JPsdOU0xVePMa20YsbZdY) | [Leven Lang](https://open.spotify.com/album/5i0BtoioGdq7b1ozEfclKI) | 2:36 |
 | 80 | [Dit Is Liefde](https://open.spotify.com/track/12Pp1mW2jMyBExl6lbl4pg) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Dit Is Liefde](https://open.spotify.com/album/63jINBUTovCUxqzXj4dCta) | 2:41 |
 | 81 | [Ik word nooit je man](https://open.spotify.com/track/0QcqIDQXJlq9UEVwnmQnyt) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Ik word nooit je man / Houden van mij mag nu in je eentje](https://open.spotify.com/album/2er8o4xPtEE5JpoVXil3b9) | 3:18 |
-| 82 | [Hier Met Jou](https://open.spotify.com/track/4HFfDfPBalc5yyGZ67aiG3) | [Kiya van Rossum](https://open.spotify.com/artist/7KPAEc0pqS6UcwvwlSEo7h) | [Hier Met Jou](https://open.spotify.com/album/1OsiWUC1B5oGSLnRBHO15N) | 2:59 |
+| 82 | [Hier Met Jou](https://open.spotify.com/track/4HFfDfPBalc5yyGZ67aiG3) | [Kiya](https://open.spotify.com/artist/5AmyUXItyIVvSaIMO4seW9) | [Hier Met Jou](https://open.spotify.com/album/1OsiWUC1B5oGSLnRBHO15N) | 2:59 |
 | 83 | [Lauw Sixpack](https://open.spotify.com/track/1rbrgVWiMPVkGn9AjIhIJf) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lauw Sixpack](https://open.spotify.com/album/4YWVZtPIUexPuvTkwbwfN3) | 2:38 |
 | 84 | [Ik zou het zo weer overdoen](https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ) | [Julia Cecile](https://open.spotify.com/artist/1ujg2quXH0LCrTb1BD8ECa) | [Ik zou het zo weer overdoen](https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh) | 3:25 |
 | 85 | [Ik Ben Niet Meer Bang](https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Ben Niet Meer Bang](https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi) | 3:01 |
 
-Snapshot ID: `AAAAAPwq3sEDsN25B60bdk4TunusGuTu`
+Snapshot ID: `AAAAAJdTKdsYzWPM9e1b9rAWWsOFuEyM`

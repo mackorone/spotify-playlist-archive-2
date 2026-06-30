@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,590 likes - 1,061 songs - 2 day 18 hr 55 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,590 likes - 1,061 songs - 2 day 18 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -737,7 +737,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 727 | [Sangue Quente](https://open.spotify.com/track/3FwcAZnbpwQ9MdFzG3OKus) | [Lamarquez](https://open.spotify.com/artist/47TmTJiO9p0BgTx4iKA4Tc) | [Sangue Quente](https://open.spotify.com/album/5LUTNEuGmqawMpQh9LRLMo) | 2:53 |
 | 728 | [Horse Girl](https://open.spotify.com/track/62zz5ZfxZvWsF8E0b4uhny) | [Showpony](https://open.spotify.com/artist/2wrM8a4GFN37IinDtSNli7), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Tyler Lindsay](https://open.spotify.com/artist/3W9kWgFu5BouUIUwo94iSg) | [Horse Girl](https://open.spotify.com/album/0MmFeFNx3EOalC6qPOWG9a) | 1:48 |
 | 729 | [Our Lakehouse at the Edge of the Painting](https://open.spotify.com/track/6CfY4ctgQp1UjxuB4k6bng) | [Kuzu](https://open.spotify.com/artist/5uhwzozeBApn2zTs4FzDJW), [Tre Flip](https://open.spotify.com/artist/4b6yY9OX4LJMkAKYTGuYna) | [Our Lakehouse at the Edge of the Painting](https://open.spotify.com/album/47j4iVpwfcQFcr0irCxFVd) | 1:55 |
-| 730 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:05 |
+| 730 | [Ride or Die](https://open.spotify.com/track/3M4NMhrnmgiKVCN94MK5EF) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 5:34 |
 | 731 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 |
 | 732 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 |
 | 733 | [Que pasará](https://open.spotify.com/track/5JA1sAlf6P24JkFjc2AeD2) | [Forte](https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V) | [Que pasará](https://open.spotify.com/album/33inM3I3bjR9HWwshVyqEz) | 5:05 |

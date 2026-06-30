@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,917 likes - 95 songs - 5 hr 17 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,918 likes - 95 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 46 | [Hush](https://open.spotify.com/track/0F82vr7OPYVeI2HFM0HbJa) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hush](https://open.spotify.com/album/2leS9eLtMLDIZ8FpevuAGR) | 3:55 |
 | 47 | [Everything's Fine \(PM\)](https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Everything's Fine](https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR) | 2:45 |
 | 48 | [She's My Religion](https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [She's My Religion](https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG) | 4:00 |
-| 49 | [TODO O NADA](https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [TODO O NADA](https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC) | 3:28 |
+| 49 | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC) | 3:28 |
 | 50 | [Odio La Música \- Teo Lucadamo & PatataOnStereo Remix](https://open.spotify.com/track/4xlc52UATZBncFKRzLNZOr) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj), [PatataOnStereo](https://open.spotify.com/artist/1Oc9GLjfd9AbkyxEwFUxGR) | [Odio La Música \(Teo Lucadamo & PatataOnStereo Remix\)](https://open.spotify.com/album/0Ymf5jZdyiS983n8dD5d7q) | 3:09 |
 | 51 | [Babyline](https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Babyline](https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW) | 4:02 |
 | 52 | [De vacaciones](https://open.spotify.com/track/0mvnYTPZKJ157m6JosQP9M) | [Patronato](https://open.spotify.com/artist/2VQIzOxFnYy0bNOwjevel2) | [De vacaciones](https://open.spotify.com/album/2EbXHI9HCDHUPeRmOUz2MQ) | 2:35 |

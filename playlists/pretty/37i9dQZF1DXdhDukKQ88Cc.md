@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 ozzy på cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,313 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,311 likes - 48 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jordskælv](https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Jordskælv](https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm) | 3:05 |
 | 2 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 |
-| 3 | [Take Off](https://open.spotify.com/track/27Go4Yav2qrip0Xf7W80Ey) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Take Off](https://open.spotify.com/album/5Rci27Sz6d3QsP6gD7SfCC) | 2:12 |
-| 4 | [FORFAEN!](https://open.spotify.com/track/4YRdgqskTDE81gqiCGZaDF) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [FORFAEN!](https://open.spotify.com/album/4DybmZcSkspCRNBXh9r8yH) | 2:23 |
-| 5 | [Libre](https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Libre](https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw) | 2:03 |
-| 6 | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Willy](https://open.spotify.com/artist/6Ex4qMJYjLpfDpxDinHC82), [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8) | 2:36 |
-| 7 | [Kort & Kontant](https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kort & Kontant](https://open.spotify.com/album/7GDLqPFMdNBc7DfhOd5nnV) | 3:25 |
-| 8 | [Bounce](https://open.spotify.com/track/2rOlsr4io2ovZ6KaP2OBLu) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Bounce](https://open.spotify.com/album/6U4TJ4X6crvgPKl9UtlaeR) | 2:19 |
+| 3 | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Willy](https://open.spotify.com/artist/6Ex4qMJYjLpfDpxDinHC82), [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8) | 2:36 |
+| 4 | [Bounce](https://open.spotify.com/track/2rOlsr4io2ovZ6KaP2OBLu) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Bounce](https://open.spotify.com/album/6U4TJ4X6crvgPKl9UtlaeR) | 2:19 |
+| 5 | [Take Off](https://open.spotify.com/track/27Go4Yav2qrip0Xf7W80Ey) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Take Off](https://open.spotify.com/album/5Rci27Sz6d3QsP6gD7SfCC) | 2:12 |
+| 6 | [FORFAEN!](https://open.spotify.com/track/4YRdgqskTDE81gqiCGZaDF) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [FORFAEN!](https://open.spotify.com/album/4DybmZcSkspCRNBXh9r8yH) | 2:23 |
+| 7 | [Libre](https://open.spotify.com/track/4whm6QeeLouv2jc6iCV8Iq) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Libre](https://open.spotify.com/album/7duxJrzYUSBx9VuZfYCTkw) | 2:03 |
+| 8 | [Kort & Kontant](https://open.spotify.com/track/1VqsSu8ypQfuFqWSEhYXVW) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kort & Kontant](https://open.spotify.com/album/7GDLqPFMdNBc7DfhOd5nnV) | 3:25 |
 | 9 | [Turn Me Up](https://open.spotify.com/track/0CKeO5wgXwswNgpAVkec0e) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [Turn Me Up](https://open.spotify.com/album/1rQf3BNiAejFPcKK1cvRLd) | 3:10 |
 | 10 | [Etage](https://open.spotify.com/track/4Ky5e8gfgppoylrDOkMjR3) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ), [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB) | [Etage](https://open.spotify.com/album/3YfzKwoo8Or9xua0FJDH3d) | 2:01 |
 | 11 | [Halv Time](https://open.spotify.com/track/2GiEuTaFhmidwNltzHkcIc) | [WESTA](https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb) | [Halv Time](https://open.spotify.com/album/2RxHQd8G74RmpJCL4GsDco) | 2:09 |
@@ -54,9 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 44 | [Tal I](https://open.spotify.com/track/2r8QgkyOQD3scdt2s96Tan) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Tal I](https://open.spotify.com/album/1eglgzn0PahdeAbUsOnYHq) | 2:15 |
 | 45 | [Bad](https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Bad](https://open.spotify.com/album/2pt92EysnA3W9rTFOt5jct) | 2:15 |
 | 46 | [ALLEREDE](https://open.spotify.com/track/7zemG7X02GuBnJEUiKj2RN) | [AMRO](https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ) | [ALLEREDE](https://open.spotify.com/album/2JyzgAsW974AJslkCtyGs4) | 2:52 |
-| 47 | [Kender Mig](https://open.spotify.com/track/7dtKlZ5IQpWG1rtFzMqyif) | [Ferslev](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Kender Mig](https://open.spotify.com/album/2Otx30Zt8boiKM1vIlQmPR) | 2:18 |
-| 48 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
-| 49 | [Er du med mig?](https://open.spotify.com/track/0IcZtFpwvgf6zQw3aPwyFe) | [WESTA](https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb) | [Er du med mig?](https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC) | 2:57 |
-| 50 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
+| 47 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
+| 48 | [Er du med mig?](https://open.spotify.com/track/0IcZtFpwvgf6zQw3aPwyFe) | [WESTA](https://open.spotify.com/artist/0GH52FVEqAU8uWFlPUofqb) | [Er du med mig?](https://open.spotify.com/album/5CF47ZbFyakSVTPkavX5CC) | 2:57 |
 
-Snapshot ID: `AAAAABNbx1np8uPK+67dyz0eRdZ37adx`
+Snapshot ID: `AAAAAHa/Y1umjvc4cOWDo1ZVnv12uds9`

@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Tyla
+> Afro sounds crossing borders\. Cover: Sarz, Gunna and Asake
 
 1,031 songs - 2 day 4 hr 46 min
 

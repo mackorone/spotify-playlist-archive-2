@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAVTnXV2yjRpiqPYmXJUTL+7yacjCPD",
+  "snapshot_id": "AAAVVLNNi+qbVhxIiByteCmBu4ivF8vl",
   "tracks": [
     {
       "added_at": "2026-06-09 08:21:56",
@@ -3411,6 +3411,102 @@
       "duration_ms": 267428,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/6AmJ4InbpIViUHKQZcOlLg"
+    },
+    {
+      "added_at": "2026-06-29 16:30:30",
+      "album": {
+        "name": "Cold Wind Blows",
+        "url": "https://open.spotify.com/album/592zWSpTLDSlH5IvAM8kSi"
+      },
+      "artists": [
+        {
+          "name": "Deceased Me",
+          "url": "https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Cold Wind Blows",
+      "url": "https://open.spotify.com/track/416wi20CY4p28Ez9xaXgf6"
+    },
+    {
+      "added_at": "2026-06-29 16:30:32",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0VzEK8ziTsdwXszlm2QvDq"
+      },
+      "artists": [
+        {
+          "name": "Ain't no Ducks",
+          "url": "https://open.spotify.com/artist/6gpSt6r2hIoVRHzOcNxF6U"
+        }
+      ],
+      "duration_ms": 170364,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/0bNsre3voeNutKYyhRpdiA"
+    },
+    {
+      "added_at": "2026-06-29 16:30:37",
+      "album": {
+        "name": "4AM Courtroom",
+        "url": "https://open.spotify.com/album/3gYd4Np0DyBtRBM9YvShMv"
+      },
+      "artists": [
+        {
+          "name": "MUAD",
+          "url": "https://open.spotify.com/artist/7quXFbhtUmwBWx6NvxyqSv"
+        }
+      ],
+      "duration_ms": 246274,
+      "name": "4AM Courtroom",
+      "url": "https://open.spotify.com/track/7yY2TlWZxwzEZJq0yXUJNL"
+    },
+    {
+      "added_at": "2026-06-29 16:30:39",
+      "album": {
+        "name": "Du \u00e4r fri",
+        "url": "https://open.spotify.com/album/2CZgO1nVD6zL1MuAKHbJl5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Forsius",
+          "url": "https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3"
+        }
+      ],
+      "duration_ms": 189469,
+      "name": "Du \u00e4r fri",
+      "url": "https://open.spotify.com/track/53Vdv4GR4yCrBTA9ufhGjk"
+    },
+    {
+      "added_at": "2026-06-29 16:30:57",
+      "album": {
+        "name": "Feberdr\u00f6m",
+        "url": "https://open.spotify.com/album/2NQGGQVYzmTdDIUUHj1cy3"
+      },
+      "artists": [
+        {
+          "name": "Yung Tasso",
+          "url": "https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK"
+        }
+      ],
+      "duration_ms": 168100,
+      "name": "Feberdr\u00f6m",
+      "url": "https://open.spotify.com/track/3KUcmzPsQPytS8vAv0wzUh"
+    },
+    {
+      "added_at": "2026-06-29 16:33:40",
+      "album": {
+        "name": "Dinner with the inside monster",
+        "url": "https://open.spotify.com/album/2HeHHYfquLy6F9ylN7M9S0"
+      },
+      "artists": [
+        {
+          "name": "Trenic",
+          "url": "https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv"
+        }
+      ],
+      "duration_ms": 400645,
+      "name": "Dinner with the inside monster",
+      "url": "https://open.spotify.com/track/7rEBUuRza8ueBilHto2pFZ"
     }
   ],
   "unique_name": "New Indie Music",

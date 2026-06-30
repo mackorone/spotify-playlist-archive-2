@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- AtharvaMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,863 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,871 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 41 | [Promises](https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Promises](https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8) | 2:49 |
 | 42 | [Tu Hi Hoon](https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Tu Hi Hoon](https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n) | 3:41 |
 | 43 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 |
-| 44 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav](https://open.spotify.com/artist/1S7onr5TrZWAXIWUO2BhNG) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
-| 45 | [Qareeb](https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0) | [Jayant Joshi](https://open.spotify.com/artist/4feOH8EFdcvYwYfvkCTY5e), [Aastha Tiwari](https://open.spotify.com/artist/5ttg9TylEAZumuaczAn2YS), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Qareeb](https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG) | 3:15 |
+| 44 | [Qareeb](https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0) | [Jayant Joshi](https://open.spotify.com/artist/4feOH8EFdcvYwYfvkCTY5e), [Aastha Tiwari](https://open.spotify.com/artist/5ttg9TylEAZumuaczAn2YS), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Qareeb](https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG) | 3:15 |
+| 45 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav](https://open.spotify.com/artist/1S7onr5TrZWAXIWUO2BhNG) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
 | 46 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
 | 47 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 48 | [Door](https://open.spotify.com/track/6tQlePf1uabog15UzPZMNF) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Door](https://open.spotify.com/album/1JxVqCyPr7l5E1hqzTvsUM) | 3:09 |

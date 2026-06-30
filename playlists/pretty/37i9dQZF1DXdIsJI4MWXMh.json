@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 81459,
+  "num_followers": 81474,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+      "duration_ms": 279840,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 279840,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+      "duration_ms": 169466,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Camino al \u00c9xito",
-        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
-      },
-      "artists": [
-        {
-          "name": "Kevin y Sus Lumaquinos",
-          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Los Vampiros",
-      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 328974,
       "name": "Ahora por unas monedas",
       "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Camino al \u00c9xito",
+        "url": "https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR"
+      },
+      "artists": [
+        {
+          "name": "Kevin y Sus Lumaquinos",
+          "url": "https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Los Vampiros",
+      "url": "https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Tarjetita de Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 224328,
-      "name": "Tarjetita de Invitacion",
-      "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Una Asesina",
         "url": "https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 178586,
       "name": "La Rumbera",
       "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Tarjetita de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 224328,
+      "name": "Tarjetita de Invitacion",
+      "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Todos a la Pista",
+        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Sandoval De Calbuco",
+          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
+        }
+      ],
+      "duration_ms": 270883,
+      "name": "Como Quisiera Poder",
+      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Todos a la Pista",
-        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Sandoval De Calbuco",
-          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
-        }
-      ],
-      "duration_ms": 270883,
-      "name": "Como Quisiera Poder",
-      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Corridos de Rancho",
-        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
+        "name": "Palomita de Alas Blancas",
+        "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 246325,
-      "name": "Elenita",
-      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
+      "duration_ms": 115466,
+      "name": "Palomita de Alas Blancas",
+      "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1523,8 +1523,8 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Palomita de Alas Blancas",
-        "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
+        "name": "Corridos de Rancho",
+        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
       },
       "artists": [
         {
@@ -1532,9 +1532,9 @@
           "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 115466,
-      "name": "Palomita de Alas Blancas",
-      "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
+      "duration_ms": 246325,
+      "name": "Elenita",
+      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Sustancia",
-        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
-      },
-      "artists": [
-        {
-          "name": "Los S\u00faper Sicarios",
-          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
-        }
-      ],
-      "duration_ms": 206949,
-      "name": "La Sustancia",
-      "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Vivo en Tinieblas",
         "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 226727,
       "name": "Vivo en Tinieblas",
       "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Sustancia",
+        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
+      },
+      "artists": [
+        {
+          "name": "Los S\u00faper Sicarios",
+          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
+        }
+      ],
+      "duration_ms": 206949,
+      "name": "La Sustancia",
+      "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
     },
     {
       "added_at": "2026-02-19 20:52:53",

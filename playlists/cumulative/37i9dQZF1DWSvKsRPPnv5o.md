@@ -2,7 +2,7 @@
 
 ### [Westside](https://open.spotify.com/playlist/37i9dQZF1DWSvKsRPPnv5o)
 
-> Holdin' it down for the westside\. Cover: AZ Chike
+> Holdin' it down for the westside\. Cover: Tyler, The Creator
 
 1,661 songs - 3 day 5 hr 8 min
 

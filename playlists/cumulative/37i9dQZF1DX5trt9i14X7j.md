@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-193 songs - 12 hr 3 min
+195 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Particle Emission](https://open.spotify.com/track/7Gkse5oUgdsjBeVQn980ce) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf) | 2:43 | 2021-12-08 |  |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-12-08 |  |
 | [Patience Is A Virtue](https://open.spotify.com/track/2KJkKZ6u3QRm9Xpu5I2CPB) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Rest](https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn) | 1:59 | 2023-01-21 |  |
+| [Persica Blossoms](https://open.spotify.com/track/5iynHQ9dyOKR4HDQMy1dix) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [OrangeTone](https://open.spotify.com/artist/11AUvSX0E69Q9oQkMq3xOy) | [Persica Blossoms](https://open.spotify.com/album/6StHWBhHJka2FLesfx3QNb) | 3:01 | 2026-06-29 |  |
 | [Precipice](https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Piety of Ashes](https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf) | 2:10 | 2023-01-21 |  |
 | [Red Gold Yesterday](https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ) | 2:18 | 2021-12-08 |  |
 | [Relief](https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 2:06 | 2021-12-08 |  |
@@ -191,6 +192,7 @@
 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 | 2023-08-23 |  |
 | [Train From Paris](https://open.spotify.com/track/2xibxsCa7g3ScMB2vIwHWC) | [Mindtrap](https://open.spotify.com/artist/4OA32fupbR1suJd44PZJxU) | [Northern Rooms](https://open.spotify.com/album/1KKp6eBkErHQ6V04jWfqPR) | 4:28 | 2021-12-08 |  |
 | [two](https://open.spotify.com/track/39xRHgkRG13GJYOw8sOaQJ) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [alternative universe](https://open.spotify.com/album/5fC4bXk6Eo7PNikqtqU53T) | 3:08 | 2022-08-03 |  |
+| [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2026-06-29 |  |
 | [Void](https://open.spotify.com/track/2bcXFEJxYaQ1D3GRI4OM3Z) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:42 | 2021-12-08 |  |
 | [Void \(feat\. Cnebce\)](https://open.spotify.com/track/7vPuyrHssHCdaVHjiwiMYs) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/2mHj52L9rB4gIyQG5phdaH) | 3:42 | 2023-02-01 | 2024-04-19 |
 | [Void \(feat\. Malket\)](https://open.spotify.com/track/4NPWkFyAFiRDdx3p9UawXQ) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Void \(feat\. Malket\)](https://open.spotify.com/album/4Vr6a5NtoYNDvYCm7opniP) | 3:42 | 2022-12-19 | 2023-02-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 80695,
+  "num_followers": 80734,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAADbvPvOxWHHGTT94GLhY14g",
+  "snapshot_id": "akBkAAAAAACA0zlkxJOaU6Rkutrb6EOK",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "If I Go, I'm Goin",
-      "url": "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 179480,
       "name": "Dark, Dark, Dark",
       "url": "https://open.spotify.com/track/6QAH2Ji6xjUOJDUoIq6gab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 267160,
+      "name": "If I Go, I'm Goin",
+      "url": "https://open.spotify.com/track/1vqtj4c5aNPKkLS2LXkd4E"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 191080,
-      "name": "Honey, It's Alright",
-      "url": "https://open.spotify.com/track/5BTHMC1yaJGHmUi2nRpXfq"
+      "duration_ms": 213573,
+      "name": "All Shades of Blue",
+      "url": "https://open.spotify.com/track/1xhgkhzFBEg7n1SrUgmSmU"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 213573,
-      "name": "All Shades of Blue",
-      "url": "https://open.spotify.com/track/1xhgkhzFBEg7n1SrUgmSmU"
+      "duration_ms": 191080,
+      "name": "Honey, It's Alright",
+      "url": "https://open.spotify.com/track/5BTHMC1yaJGHmUi2nRpXfq"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
       "duration_ms": 293560,
       "name": "That Sea, The Gambler",
       "url": "https://open.spotify.com/track/12VXe2fhXFRtnU2k1imuCW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Surprises (feat. Gregory Alan Isakov)",
+        "url": "https://open.spotify.com/album/3NzR0FrJVJsw1vF2TfUPQc"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Fraites",
+          "url": "https://open.spotify.com/artist/3g2R76efKeTTrhOMz1oJly"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 257290,
+      "name": "No Surprises (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/0ur0BoMX0LcblJzYsQxAS1"
     },
     {
       "added_at": null,

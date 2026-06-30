@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 569400,
+  "num_followers": 569389,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAABcYkEjl6tB9qsrfKVPS/wC",
+  "snapshot_id": "akBkAAAAAAAOFbjHAw35A7OKnaEoQWvs",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prohibida",
-        "url": "https://open.spotify.com/album/55RTps2ryHXF5w4lVwzcuk"
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Zornoza",
-          "url": "https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Prohibida",
-      "url": "https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt"
+      "duration_ms": 236000,
+      "name": "ASI SOY",
+      "url": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+        "name": "Prohibida",
+        "url": "https://open.spotify.com/album/55RTps2ryHXF5w4lVwzcuk"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Zornoza",
+          "url": "https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu"
         }
       ],
-      "duration_ms": 236000,
-      "name": "ASI SOY",
-      "url": "https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC"
+      "duration_ms": 266866,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt"
     },
     {
       "added_at": null,

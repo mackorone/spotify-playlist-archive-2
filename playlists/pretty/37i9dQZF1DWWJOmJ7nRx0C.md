@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,869 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,819 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 84 | [Highs and Lows](https://open.spotify.com/track/2jqYwfkkbi9c4nTsRap9RL) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Highs and Lows](https://open.spotify.com/album/5nYfSJY34atP95u6wGEUNw) | 3:43 |
 | 85 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 |
 | 86 | [Boat Garage](https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Boat Garage](https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK) | 2:59 |
-| 87 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
+| 87 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
 | 88 | [Breaking The Mold](https://open.spotify.com/track/3iFReCvWK8flBrIiTPw5hG) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Carry The Light](https://open.spotify.com/album/4yXAcm3dPQhqEO0TEu9shz) | 4:15 |
 | 89 | [Bug In The Cake](https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [Be Sweet To Me](https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu) | 2:48 |
 | 90 | [Spin](https://open.spotify.com/track/7u4ifZOfedfYY0LQABsXzx) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Spin](https://open.spotify.com/album/5KX0Uj86kvTpEOMyEFgw8d) | 3:50 |

@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 123701,
+  "num_followers": 123720,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Day The Lord Has Made",
-        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
       },
       "artists": [
         {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 304800,
-      "name": "Day The Lord Has Made",
-      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Be Glad (Live)",
-        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
         }
       ],
-      "duration_ms": 533500,
-      "name": "Be Glad - Live",
-      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Beautiful Day (House of the Lord)",
         "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 227234,
       "name": "Beautiful Day (House of the Lord)",
       "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "GOOD THING",
-        "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 153770,
-      "name": "GOOD THING",
-      "url": "https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "So Blessed",
         "url": "https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "GOOD THING",
+        "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 153770,
+      "name": "GOOD THING",
+      "url": "https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
-        "name": "Pure Gold",
-        "url": "https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Pure Gold",
-      "url": "https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
         "name": "Hallow",
         "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 158608,
       "name": "Hallow",
       "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
+        "name": "Pure Gold",
+        "url": "https://open.spotify.com/album/29QjD47g5WsFp4H7RlxyRJ"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "Pure Gold",
+      "url": "https://open.spotify.com/track/4GPfoPbpLppbzVLBIR337i"
     },
     {
       "added_at": "2026-04-17 07:08:56",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-04-17 07:08:56",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 275726,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
+    },
+    {
+      "added_at": "2026-04-17 07:08:56",
+      "album": {
         "name": "Hope Builds (Live)",
         "url": "https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 343592,
       "name": "Hope Builds - Live",
       "url": "https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE"
-    },
-    {
-      "added_at": "2026-04-17 07:08:56",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 275726,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C"
     },
     {
       "added_at": "2026-04-17 07:08:56",

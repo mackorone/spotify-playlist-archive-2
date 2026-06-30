@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Hugo Tarres",
-  "num_followers": 26098,
+  "num_followers": 26102,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Ile?",
-        "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Ile?",
-      "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "Sen Multiplayer",
         "url": "https://open.spotify.com/album/5ZkPA2Q81jb384KdAPBhAP"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 146086,
       "name": "Z cukru piach",
       "url": "https://open.spotify.com/track/56FJDeFP8nB5pJfMd94VUv"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "Ile?",
+        "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Ile?",
+      "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Bilet",
-        "url": "https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Sas",
-          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bilet",
-      "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "z tob\u0105 nie my\u015bl\u0119 o ex",
         "url": "https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo"
       },
@@ -503,18 +487,18 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
+        "name": "Bilet",
+        "url": "https://open.spotify.com/album/6ZkKH54YNc9alqdm5sAPo5"
       },
       "artists": [
         {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
         }
       ],
-      "duration_ms": 173400,
-      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
+      "duration_ms": 160000,
+      "name": "Bilet",
+      "url": "https://open.spotify.com/track/244KMK3CqSVycNOfVJoSs8"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -535,22 +519,18 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "miss me, babe?",
-        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
+        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
       },
       "artists": [
         {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "Hera Lind",
-          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
         }
       ],
-      "duration_ms": 183750,
-      "name": "miss me, babe?",
-      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
+      "duration_ms": 173400,
+      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -571,6 +551,26 @@
       "duration_ms": 212000,
       "name": "narcyz",
       "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "miss me, babe?",
+        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "Hera Lind",
+          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "miss me, babe?",
+      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "Tarantino",
         "url": "https://open.spotify.com/album/3WBBAWjAnXfAqQzvVGTB3l"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 152307,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/6odp7mRhkFB9GO3K0lG6ZF"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "Szeroko\u015bci!",
-        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Szeroko\u015bci!",
-      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Mi\u0119dzy s\u0142owami",
+        "url": "https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr"
+      },
+      "artists": [
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "Aparat",
+      "url": "https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "B\u0105d\u017a ze mn\u0105 // Mia Wallace",
         "url": "https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 139000,
       "name": "B\u0105d\u017a ze mn\u0105",
       "url": "https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "Mi\u0119dzy s\u0142owami",
-        "url": "https://open.spotify.com/album/7H594gTYomUcEtTL08ZRtr"
-      },
-      "artists": [
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "Aparat",
-      "url": "https://open.spotify.com/track/4RGV9aOG8RG9Wu8Vyg9x7p"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "tatua\u017ce",
+        "url": "https://open.spotify.com/album/7ocaVaXTYrk8kv22jSDbrI"
+      },
+      "artists": [
+        {
+          "name": "Olivka Majewska",
+          "url": "https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn"
+        },
+        {
+          "name": "allme",
+          "url": "https://open.spotify.com/artist/5cTua8H3NI2HCFeUS5PZ6y"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "tatua\u017ce",
+      "url": "https://open.spotify.com/track/512kgzp5d2yCuTG4zp0lhu"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "BO TYLKO CIEBIE TU MAM",
         "url": "https://open.spotify.com/album/0Ib7YnoURJv2WOnGws50jV"
       },
@@ -959,26 +979,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "tatua\u017ce",
-        "url": "https://open.spotify.com/album/7ocaVaXTYrk8kv22jSDbrI"
-      },
-      "artists": [
-        {
-          "name": "Olivka Majewska",
-          "url": "https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn"
-        },
-        {
-          "name": "allme",
-          "url": "https://open.spotify.com/artist/5cTua8H3NI2HCFeUS5PZ6y"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "tatua\u017ce",
-      "url": "https://open.spotify.com/track/512kgzp5d2yCuTG4zp0lhu"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/5J13FhMrY4J7bgenI6ipXa"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 175821,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "Kupi\u0142am bilet",
-        "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
-      },
-      "artists": [
-        {
-          "name": "Zofia Alaya",
-          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
-        }
-      ],
-      "duration_ms": 192325,
-      "name": "Kupi\u0142am bilet",
-      "url": "https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Kupi\u0142am bilet",
+        "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
+      },
+      "artists": [
+        {
+          "name": "Zofia Alaya",
+          "url": "https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik"
+        }
+      ],
+      "duration_ms": 192325,
+      "name": "Kupi\u0142am bilet",
+      "url": "https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/4SVBHo8owk0YwvxiP9SJpa"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Per\u0142y za Kredensem",
-        "url": "https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N"
-      },
-      "artists": [
-        {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
-        }
-      ],
-      "duration_ms": 224295,
-      "name": "Per\u0142y za Kredensem",
-      "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "K\u0105pa\u0142am si\u0119 wczoraj w snach",
         "url": "https://open.spotify.com/album/3DhqZFXewd6BvLsKa5bIzZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 196000,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "Per\u0142y za Kredensem",
+        "url": "https://open.spotify.com/album/1l63Kqg0C6fuUPFpPHrZ2N"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "duration_ms": 224295,
+      "name": "Per\u0142y za Kredensem",
+      "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"
     },
     {
       "added_at": "2026-06-25 22:01:43",

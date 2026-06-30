@@ -14556,7 +14556,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 146250,
       "name": "AYAYAY",
       "url": "https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ"
@@ -25526,7 +25526,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 97777,
       "name": "CALL OF DUTY",
       "url": "https://open.spotify.com/track/5J0smgIS1cpTxX1Fqp6YT6"
@@ -47581,6 +47581,44 @@
     },
     {
       "album": {
+        "name": "Nuova Scena 3 Mixtape (From the Netflix Rap Show)",
+        "url": "https://open.spotify.com/album/7bbeEvlBXG1mi3OzkLNqiM"
+      },
+      "artists": [
+        {
+          "name": "Jacq Romeo",
+          "url": "https://open.spotify.com/artist/3qORkCpjGBYXe9kyZSV0iU"
+        },
+        {
+          "name": "Triste Vendetta",
+          "url": "https://open.spotify.com/artist/1zQsYdin4sBDv1ZDgWGR4E"
+        },
+        {
+          "name": "THYNA",
+          "url": "https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci"
+        },
+        {
+          "name": "Flextony",
+          "url": "https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv"
+        },
+        {
+          "name": "Tigerplug",
+          "url": "https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111853,
+      "name": "EXPLICIT",
+      "url": "https://open.spotify.com/track/59wRIDJPLCvaz4mzRZpJnh"
+    },
+    {
+      "album": {
         "name": "Extra G",
         "url": "https://open.spotify.com/album/4ZN0gktrRm4IrN0Ik35TZC"
       },
@@ -51800,7 +51838,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 124218,
       "name": "Firstvalley OG",
       "url": "https://open.spotify.com/track/0bzho9b622UP8nGn0fFLlZ"
@@ -53472,7 +53510,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 172031,
       "name": "Fredda come l'inferno",
       "url": "https://open.spotify.com/track/7L5upZvE5pdCQveaZbvk8K"
@@ -58190,6 +58228,28 @@
       "duration_ms": 210810,
       "name": "GIUBBOTTINO BLACK",
       "url": "https://open.spotify.com/track/0AXY09DqeW1kbmpBa9KFxy"
+    },
+    {
+      "album": {
+        "name": "Giudice (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/12Iy5Lm9wMcvVOuC9T3KI1"
+      },
+      "artists": [
+        {
+          "name": "Layelti",
+          "url": "https://open.spotify.com/artist/5U0TmdJmw0kywSFBAyzZDv"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153081,
+      "name": "Giudice (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/7F6M60tJ2baG3NnTJKwMBa"
     },
     {
       "album": {
@@ -64884,6 +64944,32 @@
       "duration_ms": 129882,
       "name": "il frutto",
       "url": "https://open.spotify.com/track/6171i0PgjeJc2vdsXl6UwK"
+    },
+    {
+      "album": {
+        "name": "Il Gatto e la volpe (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/4RcdZWyaLC5D3hxjWzTkid"
+      },
+      "artists": [
+        {
+          "name": "Flextony",
+          "url": "https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv"
+        },
+        {
+          "name": "Tigerplug",
+          "url": "https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150191,
+      "name": "Il Gatto e la volpe (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/48dD5hQ3Cw8YyaMBBxq8bh"
     },
     {
       "album": {
@@ -85912,7 +85998,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 166557,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2UWNMmJuvHFX28HYJgXYU5"
@@ -88834,6 +88920,28 @@
       "duration_ms": 198304,
       "name": "Mille lavori",
       "url": "https://open.spotify.com/track/6FIAh9cosxFM9mlyIPncUM"
+    },
+    {
+      "album": {
+        "name": "Mille Luci (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/2gkTUxFpZaMMoDX2c42xBy"
+      },
+      "artists": [
+        {
+          "name": "Nap",
+          "url": "https://open.spotify.com/artist/5EKlohYn204yWxXa3af021"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Mille Luci (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/5BjoZkS6etCCKrlquAzOZb"
     },
     {
       "album": {
@@ -107426,7 +107534,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 145055,
       "name": "Partenope",
       "url": "https://open.spotify.com/track/64piLHQ3Kh2hg8yZ2WNcya"
@@ -112074,6 +112182,28 @@
       "duration_ms": 154926,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
+    },
+    {
+      "album": {
+        "name": "Playa (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/4ZdsKiPvL2VrXOCGJbaIVv"
+      },
+      "artists": [
+        {
+          "name": "Dalfa",
+          "url": "https://open.spotify.com/artist/2iYGfKt0Tve6lQWUcoMONe"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123789,
+      "name": "Playa (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/1W4GCjKZDBEQv3mWC2to2a"
     },
     {
       "album": {
@@ -116914,6 +117044,28 @@
       "duration_ms": 156521,
       "name": "Puta Ciao",
       "url": "https://open.spotify.com/track/14ybvnAZPNnBtUCCkyJ7k6"
+    },
+    {
+      "album": {
+        "name": "PUTT**A (From the Netflix Rap Show \"Nuova Scena\")",
+        "url": "https://open.spotify.com/album/6QNUbZTI9mq1izRydhQawh"
+      },
+      "artists": [
+        {
+          "name": "THYNA",
+          "url": "https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci"
+        },
+        {
+          "name": "Nuova Scena",
+          "url": "https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158761,
+      "name": "PUTT**A (From the Netflix Rap Show \"Nuova Scena\")",
+      "url": "https://open.spotify.com/track/4Z7KWzHtc9rpS9wCiYTuLT"
     },
     {
       "album": {

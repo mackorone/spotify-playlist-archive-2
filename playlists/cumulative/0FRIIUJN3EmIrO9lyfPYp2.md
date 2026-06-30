@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-945 songs - 1 day 8 hr 48 min
+948 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [lands we've never seen](https://open.spotify.com/track/4aFWiGwGd42npAkENr4YEW) | [Sorry for the Delay](https://open.spotify.com/artist/0D2lWsYQ8aCg0zAPGydfBl) | [lands we've never seen](https://open.spotify.com/album/7sO1aQfUbYMfdXT49JQGMt) | 2:56 | 2025-08-02 |  |
 | [last chance](https://open.spotify.com/track/0tbN1yEALmjYhYLKfQNtrc) | [Geego Boy](https://open.spotify.com/artist/4lYlJVXSRFSmHOrRct5HsK), [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO) | [last chance](https://open.spotify.com/album/3wsvQ0orWtgqoexE8v7iJh) | 1:41 | 2025-10-10 | 2026-01-03 |
 | [last glance](https://open.spotify.com/track/3WkKPxQZNdEgH2nNBgg4vl) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP), [Houle](https://open.spotify.com/artist/7kyEbclVUPx4zFdUdNbMUI) | [last glance](https://open.spotify.com/album/5Eg9CgLBqmCblvgFVNMvao) | 4:16 | 2026-01-10 |  |
+| [last memory of you](https://open.spotify.com/track/3NBn1LsIlsNiR0VNiBUSro) | [Layanari](https://open.spotify.com/artist/22aDdyTumcQjpxGQ1432p3) | [last memory of you](https://open.spotify.com/album/2DVexEKn0nyZ7GlrCD0cvG) | 1:42 | 2026-06-29 |  |
 | [last time](https://open.spotify.com/track/4055OgA7NHdgGN1dOx8oEk) | [Envacity](https://open.spotify.com/artist/3iGC2HaEkc8iJFMTVYCigv) | [last time](https://open.spotify.com/album/5sRCgOKFOqF1Rnc9N7esR1) | 2:45 | 2026-01-10 | 2026-01-25 |
 | [late night walk](https://open.spotify.com/track/5c69E8UG1zju93UECXVscG) | [helix fracture](https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM) | [late night walk](https://open.spotify.com/album/2fL62Ptay4ls9aoABmHXNt) | 1:36 | 2025-09-26 |  |
 | [leave me alone](https://open.spotify.com/track/7AxPzwuSgcmkRXbrwQBAKD) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [leave me alone](https://open.spotify.com/album/3oBerqlKSXwdP9qoc5OGjE) | 1:54 | 2025-11-29 |  |
@@ -531,6 +532,7 @@
 | [Looking For You](https://open.spotify.com/track/6MgysMzJMEhRGNtLxp7qDu) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Looking For You](https://open.spotify.com/album/2VW1iytrLfaJmKYSkMTZFH) | 2:09 | 2026-04-18 |  |
 | [losing](https://open.spotify.com/track/377Kq6gWDt7AG9syJxqvjE) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Envacity](https://open.spotify.com/artist/3iGC2HaEkc8iJFMTVYCigv) | [losing](https://open.spotify.com/album/05AlFxwr7SWd51ZE44cb1g) | 1:31 | 2025-08-08 |  |
 | [Losing You](https://open.spotify.com/track/3MPzykAy66yJ5KTfGdWlRd) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Losing You](https://open.spotify.com/album/2SWhoALD7LhazKlrHBrRSm) | 2:01 | 2026-04-04 |  |
+| [loss](https://open.spotify.com/track/1pJCq6y8UA0HIGOJZ5V1Cm) | [Ghøst](https://open.spotify.com/artist/3STrdpCJ6ldVHF4q6Oszlq), [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO) | [loss](https://open.spotify.com/album/1arIuGp7c4hqM3f2OmvVzN) | 1:40 | 2026-06-29 |  |
 | [loss](https://open.spotify.com/track/4qU4lPsHDZeX7SNxqZCOB4) | [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [loss](https://open.spotify.com/album/24w8DtRvJbaYvv2Kk7oN4n) | 2:00 | 2025-10-17 |  |
 | [lost in the reminiscences](https://open.spotify.com/track/1HHdH1sUFQxFPOAlS528l2) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [twilight](https://open.spotify.com/album/3Pi7J76N6gTv6EMEfW56w3) | 2:15 | 2025-05-09 |  |
 | [lost in this void](https://open.spotify.com/track/0tdMgRU6nZu4F08godxTiC) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [lost in this void](https://open.spotify.com/album/0Y3rmVKHRotj4qodrrcgzu) | 2:17 | 2025-10-31 |  |
@@ -548,6 +550,7 @@
 | [lovesick](https://open.spotify.com/track/2AaUjBp0jWJnTVIhASYZQH) | [nohssiwi](https://open.spotify.com/artist/4CVCzMtPgCV07un7s3Ehbt), [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU) | [lovesick](https://open.spotify.com/album/3AnRrbAno7szHR96QbjHFY) | 2:29 | 2025-05-16 |  |
 | [lullaby](https://open.spotify.com/track/2JJTYzOy3UhxC8u0AbOf7R) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [lullaby](https://open.spotify.com/album/24ChWSFVrszjYuab3Zbd51) | 1:53 | 2025-01-31 |  |
 | [Luminescence](https://open.spotify.com/track/5plrgSc0eBRvz2zIgv55qU) | [Imxone](https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP) | [Luminescence](https://open.spotify.com/album/2ow03fjXATz6KD5icDnqo8) | 2:18 | 2026-04-25 |  |
+| [Luminous](https://open.spotify.com/track/0AAwceV030voImigLoYcd8) | [CEIBØ](https://open.spotify.com/artist/4iUHA1vt1kJhZm3rByy54A), [volmus](https://open.spotify.com/artist/24cCzCF9eeEaoCddKUqRvp) | [Luminous](https://open.spotify.com/album/7agHFiZ5ytYJFQjkQ4zxai) | 2:24 | 2026-06-29 |  |
 | [luminous hearts](https://open.spotify.com/track/4TupazCy5zszWG5iTE1T8A) | [kishiimu](https://open.spotify.com/artist/04Dtip36I6tkIThkhCcKya), [Fujiwara](https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX) | [luminous hearts](https://open.spotify.com/album/79zV7Bt9Y7mIyAuyHZfugA) | 2:16 | 2025-03-14 |  |
 | [lust](https://open.spotify.com/track/4vXNJJhBKzgxhoZJLg8npp) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf), [thenian](https://open.spotify.com/artist/3ydcLRbuZuZx3rKKemnwhJ) | [lust](https://open.spotify.com/album/3sf1sXUKPFxrfIsR3SV6z8) | 1:52 | 2025-02-07 |  |
 | [Lust](https://open.spotify.com/track/32vryepirFgwibxh1BBoqW) | [Nox Quarta](https://open.spotify.com/artist/34zMVLLW7mJclM2z8u8Lm6) | [Seven](https://open.spotify.com/album/7lUSJsq96jbu48eEATSiHB) | 2:28 | 2025-04-25 |  |

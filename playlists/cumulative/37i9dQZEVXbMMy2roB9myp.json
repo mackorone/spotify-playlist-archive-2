@@ -11224,7 +11224,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 268213,
       "name": "Hab\u00eda una Vez...",
       "url": "https://open.spotify.com/track/3ayHT7okY784fCWMYDbspt"
@@ -19858,7 +19858,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 186735,
       "name": "Pa' la Selecci\u00f3n",
       "url": "https://open.spotify.com/track/2l0hr2jYYXdkbF393AThLm"
@@ -19972,6 +19972,32 @@
       "duration_ms": 119387,
       "name": "Para el Tiktok",
       "url": "https://open.spotify.com/track/4zgEanSngHa5vqehDVlY8x"
+    },
+    {
+      "album": {
+        "name": "Para La Gilada (Remix)",
+        "url": "https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU"
+      },
+      "artists": [
+        {
+          "name": "Meta Guacha",
+          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Para La Gilada - Remix",
+      "url": "https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB"
     },
     {
       "album": {
@@ -22170,7 +22196,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 206440,
       "name": "Pu\u00f1aladas - Remix",
       "url": "https://open.spotify.com/track/37A4xk6GFrKZY1X71NYwMR"
@@ -28282,7 +28308,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g"
@@ -30596,7 +30622,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"

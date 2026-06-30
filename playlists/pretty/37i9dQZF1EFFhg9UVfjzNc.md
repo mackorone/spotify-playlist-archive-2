@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774 likes - 120 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 774 likes - 120 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 52 | [Digno \- Ao Vivo](https://open.spotify.com/track/3BV588K3wDvZnCEthzvOzp) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:29 |
 | 53 | [Nunca Falhará \- Ao Vivo](https://open.spotify.com/track/3SK3u55VbBTX2kpdHehbq4) | [Guilherme Baptista](https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Nunca Falhará \(Ao Vivo\)](https://open.spotify.com/album/3NPvGw9qNAUjhtSEdShSvu) | 6:02 |
 | 54 | [Teu Reino Aqui \- Ao Vivo](https://open.spotify.com/track/5g4WnxOsSBpYpWe7DMtvYi) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 5:56 |
-| 55 | [Bom Bom Pai](https://open.spotify.com/track/5ikQsaOvdSZuLS9yCXXojx) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 5:08 |
-| 56 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |
+| 55 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |
+| 56 | [Bom Bom Pai](https://open.spotify.com/track/5ikQsaOvdSZuLS9yCXXojx) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Maranata](https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs) | 5:08 |
 | 57 | [Rasga Os Céus \- Ao Vivo](https://open.spotify.com/track/1apoGgEmdV5bQhPdUxJ5DA) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 8:21 |
 | 58 | [Jesus \- Ao Vivo](https://open.spotify.com/track/7v6TBs2l91cNdiyZujXbUn) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 6:38 |
 | 59 | [Jesus, Amor Verdadeiro / Eu Te Exalto \- Ao Vivo](https://open.spotify.com/track/34mTfCVq0qcljBifF8bn8N) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Jesus, Amor Verdadeiro / Eu Te Exalto \(Ao Vivo\)](https://open.spotify.com/album/3h8uWCmB0SeQll74zpwJeR) | 4:58 |
@@ -127,6 +127,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 117 | [O céu é o meu lar](https://open.spotify.com/track/51u1BOC0ymaNgJni7Ofkyn) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 8:14 |
 | 118 | [Preço de Sangue \- Playback](https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Salmistas](https://open.spotify.com/artist/6WVtTtridZM8vFPbOIwrig) | [Preço de Sangue \(Playback\)](https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K) | 10:05 |
 | 119 | [Tudo pra Mim \- Ao Vivo](https://open.spotify.com/track/1GR5eaR5244BRi2ql4zj8C) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Última Palavra \(Ao Vivo\)](https://open.spotify.com/album/1SLlB32xmo3vAsXoANjrur) | 6:00 |
-| 120 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
+| 120 | [Saudade](https://open.spotify.com/track/48IRc9BKB0rc47stIrqSdQ) | [Thamires Cardoso](https://open.spotify.com/artist/2e8UWKpClRQPYpQRjRyMjz) | [Na Pegada da Thamires Cardoso 0.1](https://open.spotify.com/album/2rA4ohJChPIt0xD3049mF5) | 2:49 |
 
-Snapshot ID: `AcVdpAAAAADyRKP4u3VvkwUrwyNSzMJU`
+Snapshot ID: `AcVjOgAAAACsst1JSmUYkrjIeubVb+79`

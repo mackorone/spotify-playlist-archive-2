@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Roxy Dekker, Gracie Abrams, Yves Berendse, Sef en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,832 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,809 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 103 | [I've Got News](https://open.spotify.com/track/0eCjhuJaQXJynZb7JUOjUc) | [Apeshit](https://open.spotify.com/artist/60idytqipfbGaZr3u2a0QG) | [I've Got News](https://open.spotify.com/album/1tauaUmyL1LK2lLzjDkgIT) | 2:47 |
 | 104 | [Die Harden Anthem](https://open.spotify.com/track/5QGbSM0RuoLoKMNv52Bdmc) | [Die Harden](https://open.spotify.com/artist/3yIEdHV3tO9ltAf6c22uvw) | [Die Harden Anthem](https://open.spotify.com/album/568CqJypAfTIzYp4Mz6mG0) | 4:45 |
 
-Snapshot ID: `AAAAAJIVYv+BIcQsf4G5W+uSMnqwIdX+`
+Snapshot ID: `AAAAAKFXT8U3OunRJV4XNOTY+EFDo8Nm`

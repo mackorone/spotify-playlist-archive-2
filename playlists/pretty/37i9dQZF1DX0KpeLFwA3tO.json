@@ -1,12 +1,12 @@
 {
   "description": "The best new music from the wide world of punk. Cover: Fiddlehead",
-  "num_followers": 334999,
+  "num_followers": 335006,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC9tbNZ33cw1rpcOBat+4rfik/U+",
+  "snapshot_id": "AAAAAL3hpEn795jLfRKTKXfGi103zyH3",
   "tracks": [
     {
       "added_at": "2026-06-26 04:02:16",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-06-26 04:02:16",
       "album": {
-        "name": "Probable Claws",
-        "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Pilot Light",
-      "url": "https://open.spotify.com/track/24HILc3OqEmHTzspI3k6pe"
-    },
-    {
-      "added_at": "2026-06-26 04:02:16",
-      "album": {
         "name": "Anywhere But Here",
         "url": "https://open.spotify.com/album/2z3N8mE03g76yyLcLidsJs"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 156173,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0g5ywJ6PxIu8qzBtvu7BvB"
+    },
+    {
+      "added_at": "2026-06-26 04:02:16",
+      "album": {
+        "name": "Probable Claws",
+        "url": "https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Pilot Light",
+      "url": "https://open.spotify.com/track/24HILc3OqEmHTzspI3k6pe"
     },
     {
       "added_at": "2026-06-26 04:02:16",
@@ -107,6 +107,22 @@
       "duration_ms": 133320,
       "name": "Melted Heart",
       "url": "https://open.spotify.com/track/0dUo5PVIXQPdj1B6o4Ojal"
+    },
+    {
+      "added_at": "2026-06-29 15:10:25",
+      "album": {
+        "name": "Lobotomize Me",
+        "url": "https://open.spotify.com/album/66rMquEDW9rb9kod8qs0wW"
+      },
+      "artists": [
+        {
+          "name": "The Rat Utopia Experiment",
+          "url": "https://open.spotify.com/artist/3JyFf0L4m9YDuka462BWKa"
+        }
+      ],
+      "duration_ms": 191602,
+      "name": "Lobotomize Me",
+      "url": "https://open.spotify.com/track/7I1NaF9iuckI7GDdcGdu2y"
     },
     {
       "added_at": "2026-06-26 04:02:16",

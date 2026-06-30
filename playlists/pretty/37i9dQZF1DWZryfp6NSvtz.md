@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover:  The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,657 likes - 176 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,718 likes - 176 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 85 | [Strange Apparition](https://open.spotify.com/track/7mBlN3mTMpmUDKzQSuppnt) | [nightdive](https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL) | [Strange Apparition](https://open.spotify.com/album/3EHBHNvLWfRMIeKDMyScW0) | 3:35 |
 | 86 | [Fake Friends](https://open.spotify.com/track/78K4HnzTUGREWUNIiu8RK8) | [Reach NYC](https://open.spotify.com/artist/3rkU2OpZ256eMkAzNOkz5x) | [Fake Friends](https://open.spotify.com/album/3DMHaUionQzyx9FCqNVKxo) | 3:25 |
 | 87 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
-| 88 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
+| 88 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
 | 89 | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK) | 4:00 |
 | 90 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 |
 | 91 | [A Perfect Life is Such a Bore](https://open.spotify.com/track/3Asexp97zKH0k7SxXU6Kpe) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Perfect Life is Such a Bore](https://open.spotify.com/album/2mntyxTAs1gleybobNwXYc) | 3:21 |

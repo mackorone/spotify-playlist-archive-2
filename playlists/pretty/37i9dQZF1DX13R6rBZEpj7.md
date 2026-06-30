@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,448 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,461 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 13 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 |
 | 14 | [Talk That Talk](https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Talk That Talk](https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ) | 2:19 |
 | 15 | [Play Me](https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC), [Wardy](https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp) | [Play Me](https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY) | 4:05 |
-| 16 | [If You Don't Want This](https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT) | [ManLikeTwin](https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV) | [If You Don't Want This](https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD) | 2:33 |
-| 17 | [Breaka Breaka](https://open.spotify.com/track/3q2bl0SmrWfeQVr8a0ngzg) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Breaka Breaka](https://open.spotify.com/album/09OOjJikUHGZZ0nULvH3Vp) | 3:38 |
+| 16 | [Breaka Breaka](https://open.spotify.com/track/3q2bl0SmrWfeQVr8a0ngzg) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Breaka Breaka](https://open.spotify.com/album/09OOjJikUHGZZ0nULvH3Vp) | 3:38 |
+| 17 | [If You Don't Want This](https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT) | [ManLikeTwin](https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV) | [If You Don't Want This](https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD) | 2:33 |
 | 18 | [Lululemon](https://open.spotify.com/track/4gUQvWM9KoiIkbw9cOLJWW) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Lululemon](https://open.spotify.com/album/66ToBa4wAO6EOnlZHPfsVR) | 3:28 |
 | 19 | [Fallin](https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE) | [Fallin](https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm) | 3:02 |
 | 20 | [Eskimo](https://open.spotify.com/track/78FRJd1KwrS9YVCoSunbsv) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Kast](https://open.spotify.com/artist/6WLAalXCIN6c4BTXBGIe18) | [Eskimo](https://open.spotify.com/album/1Y0kZHSeN822nNHFHd6gIg) | 2:12 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 36 | [You](https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [You](https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE) | 2:50 |
 | 37 | [Hit The Ground](https://open.spotify.com/track/658noe7AopzUVafqSR6x61) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Hit The Ground](https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ) | 3:16 |
 | 38 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
-| 39 | [Pretty & Plump](https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Pretty & Plump](https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3) | 2:24 |
-| 40 | [Take It Underground](https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:05 |
+| 39 | [Take It Underground](https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:05 |
+| 40 | [Pretty & Plump](https://open.spotify.com/track/14wKQXw7pRc5nCqrqgbSJ0) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Pretty & Plump](https://open.spotify.com/album/6iPArDxTfZDMtj0Ync4SD3) | 2:24 |
 | 41 | [The Things That We Should Say](https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [The Things That We Should Say](https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv) | 2:08 |
 | 42 | [See Thru](https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5) | [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [See Thru](https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO) | 2:40 |
 | 43 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |

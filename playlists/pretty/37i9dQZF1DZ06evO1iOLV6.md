@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,620 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,619 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 5 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
 | 6 | [Jericho](https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol.1](https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe) | 3:15 |
 | 7 | [Melanin](https://open.spotify.com/track/6P4kIjBGUzlieJBkUFobTL) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afrikan Sauce](https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU) | 4:27 |
-| 8 | [Suh Different](https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Suh Different](https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7) | 3:38 |
-| 9 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 |
+| 8 | [Abule](https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:19 |
+| 9 | [Suh Different](https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Suh Different](https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7) | 3:38 |
 | 10 | [No Kissing Baby](https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:41 |
 | 11 | [Jah Eli Jah](https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jah Eli Jah](https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4) | 3:53 |
 | 12 | [Prayer Request](https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request](https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp) | 3:13 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 27 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 |
 | 28 | [Abobi](https://open.spotify.com/track/7echDVorySYxnup1HrR15b) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Abobi](https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1) | 3:21 |
 | 29 | [Pretty Girl](https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 |
-| 30 | [Make Am \(feat\. Ebonyi State Band\)](https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ebonyi State Band](https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur) | [Make Am \(feat\. Ebonyi State Band\)](https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS) | 3:52 |
-| 31 | [MA GIRL](https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [MA GIRL](https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h) | 3:28 |
+| 30 | [MA GIRL](https://open.spotify.com/track/3TVbIYJN2QGLOAdveevG2g) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [MA GIRL](https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h) | 3:28 |
+| 31 | [Make Am \(feat\. Ebonyi State Band\)](https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ebonyi State Band](https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur) | [Make Am \(feat\. Ebonyi State Band\)](https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS) | 3:52 |
 | 32 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 |
 | 33 | [Magbe \(feat\. Patoranking\)](https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Alagbe](https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn) | 2:53 |
 | 34 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 49 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 | 50 | [Murda](https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Shaydee](https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa) | [Seyi or Shay](https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm) | 3:48 |
 
-Snapshot ID: `aj8SgAAAAAATkHGoqFYANTKWLYpzSh7e`
+Snapshot ID: `akBkAAAAAABZklbfaikpB0oEfOZNkaj3`

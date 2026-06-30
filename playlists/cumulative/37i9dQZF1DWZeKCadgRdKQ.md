@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient electric guitar.
 
-1,201 songs - 2 day 9 hr 42 min
+1,203 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [Flow](https://open.spotify.com/track/1EoPRePRDBhnZz0uMRjPVY) | [Portal Plan](https://open.spotify.com/artist/01yE7EbTF9j8IQAN0VA1Wi) | [Flow](https://open.spotify.com/album/3jSaUVMNNmsg8j7gyftJBo) | 2:12 | 2024-06-11 | 2025-07-02 |
 | [Flowing](https://open.spotify.com/track/06G5MnuMA3cLbNwjFs8zIS) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Flowing](https://open.spotify.com/album/1lxdpGzbUD6WbQzoIeiY33) | 2:11 | 2020-08-07 | 2024-03-27 |
 | [Flowstate](https://open.spotify.com/track/1avao3kEPmPYm4ylwCu6Ew) | [bluescape](https://open.spotify.com/artist/1yu77LzkFIhpDDnHQ330aN) | [Flowstate](https://open.spotify.com/album/7k0u3SLBxocdh4XPSFySDH) | 2:12 | 2025-07-01 | 2026-03-20 |
-| [Fly](https://open.spotify.com/track/7ahDvcTdivU8S5Jd9aklmm) | [Charlie Blue](https://open.spotify.com/artist/6OdeyREZ1NsM1XMNtb8aH4) | [Fly](https://open.spotify.com/album/5nghkmkyfOwRhyumizNt03) | 2:20 | 2026-06-17 |  |
+| [Fly](https://open.spotify.com/track/7ahDvcTdivU8S5Jd9aklmm) | [Charlie Blue](https://open.spotify.com/artist/6OdeyREZ1NsM1XMNtb8aH4) | [Fly](https://open.spotify.com/album/5nghkmkyfOwRhyumizNt03) | 2:20 | 2026-06-17 | 2026-06-30 |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-05-18 | 2023-07-14 |
 | [Focus](https://open.spotify.com/track/3DZ7DFolE5U2xEGIzFjeGo) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Focus](https://open.spotify.com/album/11a6ahi4zzT4ZRFH06KODz) | 3:10 | 2019-06-27 | 2022-11-18 |
 | [Folded Time](https://open.spotify.com/track/6YMRzifsFqyi5I8Fgn0NpX) | [Astral Voyager](https://open.spotify.com/artist/6Bj7oeWzckGjkZdSwfKJHa) | [Folded Time](https://open.spotify.com/album/2Fd8gDuVTcvN4XaIYgqFrF) | 2:18 | 2025-09-24 | 2026-03-20 |
@@ -622,6 +622,7 @@
 | [Lysithea](https://open.spotify.com/track/49lt1cfVr74HRkAKFCiMIg) | [Milk E Way](https://open.spotify.com/artist/1FpLDA8N2boR9fqwgaeY7H) | [Lysithea](https://open.spotify.com/album/45Uw00LxbsBWlRikadpYtA) | 2:52 | 2026-06-25 |  |
 | [Magnetic Stillness](https://open.spotify.com/track/1SLoFm1ss9bO4QH1667q9c) | [novi quiet](https://open.spotify.com/artist/72ZfPWCuSwGhp2YIFbrGsK) | [Magnetic Stillness](https://open.spotify.com/album/24TNjNQNpU3CWPo9jX4j7l) | 2:15 | 2026-02-24 |  |
 | [Malibu](https://open.spotify.com/track/3RlwtjeKhemCfiPvwMFozS) | [Matthew Harvey](https://open.spotify.com/artist/30LkldJYxQgtaQBIGwzgMQ) | [Malibu](https://open.spotify.com/album/3kM89PKkU3cDQXTMIYDWxo) | 2:30 | 2019-09-14 | 2024-03-27 |
+| [Manegen](https://open.spotify.com/track/1ahSsvP2Eaqj0vOeCzD2xB) | [Casper Ilian](https://open.spotify.com/artist/3zKuKfgffnwonOzg8hxSta) | [Manegen](https://open.spotify.com/album/4UqPQXFd2zS0KgQsgMY97X) | 2:17 | 2026-06-29 |  |
 | [Mantra](https://open.spotify.com/track/38AKv3z5kTzFFM2YC793Gg) | [Køsk Skriner](https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu) | [Mantra](https://open.spotify.com/album/18eGZlOTFbGMEhgkIZJBtw) | 2:23 | 2025-12-12 |  |
 | [Mars](https://open.spotify.com/track/2hqrlnqY2lbaRRsc7SM2cU) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Mars](https://open.spotify.com/album/28gs93hKCxdd7r6amWFIXX) | 2:27 | 2019-06-19\* | 2021-09-14 |
 | [Mars Adventure](https://open.spotify.com/track/6pIK0JBICp9vSxyRAf9n2j) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Departure Lounge](https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok) | 3:04 | 2019-07-31 | 2020-01-09 |
@@ -755,6 +756,7 @@
 | [Otherworld](https://open.spotify.com/track/1ud6SDvC5yfDgeoHEtc5ev) | [Ciel](https://open.spotify.com/artist/0i33HVwcdV58Ci5dI7cfjx) | [Otherworld](https://open.spotify.com/album/3fH5wfX8PvtkPCPl1NadC2) | 2:20 | 2026-02-24 | 2026-06-12 |
 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 | 2021-12-22 | 2023-11-25 |
 | [Outdoors](https://open.spotify.com/track/5FWfUeYvoKI9PCM6NHf5HS) | [Pete McMurray](https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN) | [Outdoors](https://open.spotify.com/album/0C53oSDfBf1TAOH89CuEWN) | 2:10 | 2025-06-04 | 2026-03-20 |
+| [Over](https://open.spotify.com/track/3QNxNH5D9zoIi2nScaGy7B) | [Atlas Dusk](https://open.spotify.com/artist/7woZlT4kGt2ZrI3dMng7qe) | [Over](https://open.spotify.com/album/1E4JLpl132R8zG5su8xj4P) | 2:21 | 2026-06-29 |  |
 | [over the hill](https://open.spotify.com/track/4NU572LFi0MHtAEaPz6daw) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [over the hill](https://open.spotify.com/album/71ZNgRALged6rGlFU5I557) | 2:13 | 2025-09-24 | 2026-03-20 |
 | [Over Time](https://open.spotify.com/track/7lXbhwS6BQdF9XmZKfewpS) | [August Sands](https://open.spotify.com/artist/1eQxk3uFftcKvRvxc6KvbR) | [Over Time](https://open.spotify.com/album/7kNj4Jh3hem3EoKXRcRq0x) | 2:12 | 2026-02-24 |  |
 | [Overnight](https://open.spotify.com/track/4fFWgiplAvOOfHJ5rrvW7x) | [Aksel Rune](https://open.spotify.com/artist/0aHXh9twlvt1B0nI5vpEzA) | [Overnight](https://open.spotify.com/album/1zpBq1Mlz7eUVPHAwxdlL2) | 2:46 | 2024-12-18 | 2026-03-20 |
@@ -1154,7 +1156,7 @@
 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 | 2019-05-26\* | 2020-01-09 |
 | [Water Colors](https://open.spotify.com/track/7rpGOF9MwCP2Oaz9yDO452) | [Star Slide](https://open.spotify.com/artist/4tWKagNv3bHsJoLYD7vO1m) | [Water Colors](https://open.spotify.com/album/272XJrGegiXcXC5rA3yzek) | 3:02 | 2020-01-03 | 2024-03-27 |
 | [Water Lillies](https://open.spotify.com/track/1sVIrkPZob1Ul6aIqy8n8z) | [A Teardrop In The Lake](https://open.spotify.com/artist/0s4v0h7Hiez273tp6lDeL0) | [Water Lillies](https://open.spotify.com/album/1Ugt1z1iTwo8bAt9Y6gNmF) | 3:48 | 2020-06-19 | 2022-11-18 |
-| [Water Lily](https://open.spotify.com/track/4uuVG7pavsZssWmOP1NIBo) | [oerra](https://open.spotify.com/artist/10CEQXKS12lIzR6rlISiGe) | [Water Lily](https://open.spotify.com/album/7iBuzyHXCBCwidaMZsDKnn) | 2:22 | 2026-06-11 |  |
+| [Water Lily](https://open.spotify.com/track/4uuVG7pavsZssWmOP1NIBo) | [oerra](https://open.spotify.com/artist/10CEQXKS12lIzR6rlISiGe) | [Water Lily](https://open.spotify.com/album/7iBuzyHXCBCwidaMZsDKnn) | 2:22 | 2026-06-11 | 2026-06-30 |
 | [Watercolour](https://open.spotify.com/track/0SJ6vdthnCUeLIjRLmJwCC) | [The Flower Code](https://open.spotify.com/artist/6YEq9kdVw1nq67Ftir6Ejz) | [Watercolour](https://open.spotify.com/album/0p1EzxeUkcfntEVu12b0H2) | 2:14 | 2024-06-11 | 2026-03-20 |
 | [Waterfall](https://open.spotify.com/track/1ecl769oxHtJTGxVVJZ8Sj) | [Lifou](https://open.spotify.com/artist/30A8LRNZBq4B0GmcpvK0Cc) | [Easy Guitar](https://open.spotify.com/album/14NKXsFEn4gODC4D5pOUzJ) | 2:22 | 2023-10-13 | 2024-11-22 |
 | [waveforms](https://open.spotify.com/track/2dwLTY84vCeubyM0jM0nXH) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [waveforms](https://open.spotify.com/album/6Lo6uzBAeHRPlys9rzgEna) | 2:43 | 2022-12-02 | 2023-09-26 |

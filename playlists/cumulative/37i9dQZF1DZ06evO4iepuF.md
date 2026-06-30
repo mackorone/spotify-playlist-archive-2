@@ -4,14 +4,14 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-133 songs - 4 hr 17 min
+134 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14](https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [14](https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc) | 2:58 | 2024-12-14 |  |
 | [23 skidoo \(My 23rd Birthday song\)](https://open.spotify.com/track/2NwY0T1T7TeKORCA6WoBSu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [23 skidoo \(My 23rd Birthday song\)](https://open.spotify.com/album/5YS75TyDzP63G8RyvBVXZe) | 1:49 | 2026-02-11 |  |
 | [a little silly :3](https://open.spotify.com/track/3cuRlDTFOqTJ6IihVzVILb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [a little silly :3](https://open.spotify.com/album/3oROcqHWtydypLMjXGuHtK) | 1:30 | 2024-12-14 |  |
-| [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2025-01-20 |  |
+| [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 | 2025-01-20 | 2026-06-30 |
 | [against my shell](https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [against my shell](https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z) | 2:34 | 2024-12-14 |  |
 | [allowed to LOVE](https://open.spotify.com/track/6cqnApdgR7NjOk0V0Ixoou) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:48 | 2025-01-20 | 2026-01-01 |
 | [ass \- extended version](https://open.spotify.com/track/7IxVN67g3GjVlMgp10dlyF) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ass \(extended version\)](https://open.spotify.com/album/1AgqaCuY5vOYpQcWOcMx2z) | 1:30 | 2025-05-14 | 2025-09-16 |
@@ -62,7 +62,7 @@
 | [gamer](https://open.spotify.com/track/6YKBe2rIEOruhhQyMz3gZH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [gamer](https://open.spotify.com/album/0jiXdQvAuGADyf3eszdcOd) | 1:11 | 2025-07-20 | 2025-09-16 |
 | [happy forever](https://open.spotify.com/track/3bUF2XOsKeHVMHUDsRs7ua) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 2:08 | 2026-03-09 |  |
 | [heartbreaker feelings](https://open.spotify.com/track/5UDJZgIyoF6vvAbWeXsd0c) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:32 | 2024-12-15 | 2026-06-24 |
-| [hello sunshine](https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [hello sunshine](https://open.spotify.com/album/4ZXZ7Uc5qTQD8HWSRWcm44) | 1:39 | 2024-12-14 | 2026-05-09 |
+| [hello sunshine](https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [hello sunshine](https://open.spotify.com/album/4ZXZ7Uc5qTQD8HWSRWcm44) | 1:39 | 2024-12-14 |  |
 | [Highlighted and Underlined](https://open.spotify.com/track/3vKLIvioZ1Dz02Qw3GCuWH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Highlighted and Underlined](https://open.spotify.com/album/4ifTA4qzcBkinIqTunikCO) | 1:44 | 2025-03-01 | 2026-06-14 |
 | [i do not want to feel](https://open.spotify.com/track/1jGEGUINPtfoMnEYXRzjrC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 3:05 | 2025-10-30 | 2026-01-02 |
 | [i know what real animation is](https://open.spotify.com/track/25vR6xPnl7vI4m6H4x8psA) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 0:50 | 2026-05-11 | 2026-05-25 |
@@ -82,7 +82,7 @@
 | [intergalactic fractal](https://open.spotify.com/track/5cWLlJafnB5ALhSUmS72mi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [intergalactic fractal](https://open.spotify.com/album/2QyKIZdMkffelqWfcpvt37) | 1:11 | 2024-12-14 |  |
 | [it will be okay!!](https://open.spotify.com/track/1S3tp6591XdTxZw7Q1PQQr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [it will be okay!!](https://open.spotify.com/album/5L5c4lAg9iFRR1o3MkdUNw) | 2:22 | 2024-12-14 | 2026-06-27 |
 | [it's all love](https://open.spotify.com/track/6dXOhwojU2t3lLooHqt4Td) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [it's all love](https://open.spotify.com/album/0R86wIqXX0KzwYX1QyD1wM) | 1:57 | 2024-12-14 | 2026-04-27 |
-| [jus make it go boom](https://open.spotify.com/track/7yXLbFH6bK48Fng7HMWdT3) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [jus make it go boom](https://open.spotify.com/album/5bahpJwhf4XE5hr1EU4V6n) | 1:53 | 2025-01-29 |  |
+| [jus make it go boom](https://open.spotify.com/track/7yXLbFH6bK48Fng7HMWdT3) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [jus make it go boom](https://open.spotify.com/album/5bahpJwhf4XE5hr1EU4V6n) | 1:53 | 2025-01-29 | 2026-06-30 |
 | [jus make it go boom remake](https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [jus make it go boom remake](https://open.spotify.com/album/6QewYZxJeZJT1kYQ74fQtV) | 1:32 | 2024-12-14 |  |
 | [kys delete ur songs](https://open.spotify.com/track/07nOL4L0tXqL8O9ufMEeFT) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 0:51 | 2026-02-02 | 2026-06-15 |
 | [LFG](https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LFG](https://open.spotify.com/album/4mXKmWhpnjnEl3K3ltodyU) | 2:46 | 2025-01-05 | 2026-05-28 |
@@ -102,6 +102,7 @@
 | [no reception](https://open.spotify.com/track/4UMwxOfR9UMHRl6EOVnxBE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:46 | 2024-12-14 | 2026-06-04 |
 | [no response](https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no response](https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm) | 2:01 | 2024-12-14 |  |
 | [one touch](https://open.spotify.com/track/5acV2YistDobtrwjN9Q7MY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [one touch](https://open.spotify.com/album/2Jo2CqIHzBePJCkeDmJDOI) | 1:37 | 2024-12-14 |  |
+| [only fl i need is flipnote](https://open.spotify.com/track/6pbybtxU2bndDV2n0kXScS) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 0:53 | 2026-06-30 |  |
 | [only wonders now.](https://open.spotify.com/track/0VF21cnRMtUFtSie7P8xNh) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 0:56 | 2025-01-24 |  |
 | [outcast](https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [outcast \(they all hate me\)](https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62) | 3:02 | 2024-12-14 |  |
 | [overwrite](https://open.spotify.com/track/3supZFufFbI782cPH70Kou) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:32 | 2026-06-21 |  |

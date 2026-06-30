@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-903 songs - 2 day 15 hr 39 min
+904 songs - 2 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2021-10-06 | 2023-07-03 |
 | [Esperar Pra Ver](https://open.spotify.com/track/2gRtzGOxEsPaFLMEXGXYxy) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Beach Diggin’, Vol\. 1](https://open.spotify.com/album/2K2RVDtArhuNOc4HHDQ4oQ) | 2:08 | 2021-10-06 | 2022-07-29 |
 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 | 2023-09-26 | 2025-01-07 |
-| [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 | 2021-10-06 |  |
+| [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 | 2021-10-06 | 2026-06-30 |
 | [Ethiopian Sunshower](https://open.spotify.com/track/0K6QOkv9bXA5MeM5t1TgIx) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Ethiopian Sunshower](https://open.spotify.com/album/4HxFubImC2L6UShJBYRJi1) | 3:07 | 2021-10-06 | 2022-07-24 |
 | [Every Trick in the Book](https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY) | [Every Trick in the Book](https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl) | 3:10 | 2021-10-06 |  |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/1r2ZYOuhyyMDDCEMkYZV4U) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Awakening](https://open.spotify.com/album/76gQRKAN8Hs5lSjts05FpV) | 6:32 | 2021-10-06 | 2022-04-21 |
@@ -544,6 +544,7 @@
 | [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 | 2023-05-07 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-14 |
 | [Moody Cumbia](https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:36 | 2023-03-28 | 2023-05-13 |
+| [Moonshake](https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL) | [Marcello Cassanelli](https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm), [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR) | [Moonshake](https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA) | 2:34 | 2026-06-25 |  |
 | [Morning Sun](https://open.spotify.com/track/0ODz72aWsdWhKqgEmJYZ7Q) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Morning Sun](https://open.spotify.com/album/6gn7yCcrqB7zDovRUrn8ZH) | 5:04 | 2025-05-09 | 2025-10-10 |
 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 | 2021-10-06 | 2026-03-30 |
 | [Move On](https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS) | [Isaac Chambers](https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP), [Dub Princess](https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ) | [Isaac Chambers & Dub Princess](https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW) | 5:36 | 2022-03-17 |  |

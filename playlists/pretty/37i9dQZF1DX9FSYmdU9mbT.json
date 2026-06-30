@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474368,
+  "num_followers": 1474330,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+      "duration_ms": 270690,
+      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Nada Ser\u00e1 Como Antes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc"
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
       },
       "artists": [
         {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Clube Da Esquina N\u00ba2 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp"
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "Andar Com F\u00e9",
+        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 194175,
+      "name": "Andar Com F\u00e9",
+      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 397493,
       "name": "Preta Pretinha",
       "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Se Eu Quiser Falar Com Deus",
-        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 275882,
-      "name": "Se Eu Quiser Falar Com Deus",
-      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "Se Eu Quiser Falar Com Deus",
+        "url": "https://open.spotify.com/album/6IIhhDMiY6Abab01TmzLiV"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 275882,
+      "name": "Se Eu Quiser Falar Com Deus",
+      "url": "https://open.spotify.com/track/6j7cLMzPmnmlP5f6qQk9Cl"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 235106,
       "name": "Brasil Pandeiro",
       "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Andar Com F\u00e9",
-        "url": "https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 194175,
-      "name": "Andar Com F\u00e9",
-      "url": "https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+        "name": "As V\u00e1rias Pontas de uma Estrela (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+      "duration_ms": 218134,
+      "name": "Brasil - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1655,8 +1655,8 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "As V\u00e1rias Pontas de uma Estrela (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1"
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
       },
       "artists": [
         {
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 218134,
-      "name": "Brasil - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8"
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2026-05-22 11:20:59",

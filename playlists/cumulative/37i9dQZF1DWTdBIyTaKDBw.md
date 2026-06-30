@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-437 songs - 23 hr 21 min
+438 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Into the Reverie](https://open.spotify.com/track/71HJPOM7ZyWwWEcI4qfss7) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Blissful Dreams](https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd) | 2:36 | 2024-07-02 |  |
 | [Ishi](https://open.spotify.com/track/0kD4DaTdwjJdpnLs0Jl7Mb) | [Maiso Linua](https://open.spotify.com/artist/5xtRy4a2R7tyIVuFv9lGwd) | [Ishi](https://open.spotify.com/album/7qLb3Qj6ziLGjFMtzgpLg1) | 1:53 | 2025-05-02 | 2025-05-16 |
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-30 | 2022-07-28 |
+| [It's so hot outside](https://open.spotify.com/track/6nVARL36I0FPJKkAXEfivk) | [ANEUKAM POP](https://open.spotify.com/artist/4ZGuGTFnsHMR7TfrMJDQEH) | [summer Dawn](https://open.spotify.com/album/2u0zDu9mQiIOH6gZ6SG0UK) | 2:00 | 2026-06-29 |  |
 | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY) | 4:56 | 2022-07-22 | 2024-06-22 |
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-03 | 2022-07-29 |
 | [Izumi](https://open.spotify.com/track/5PDGyZGX8hsA0if5F6G1VU) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow) | [The Last Journey Of The Crane](https://open.spotify.com/album/4Ri0yp2ryJoua2es00SSvL) | 2:02 | 2026-02-27 | 2026-03-20 |
@@ -257,7 +258,7 @@
 | [NO WAY](https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 4:16 | 2022-07-22 | 2024-06-22 |
 | [NO WAY](https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [G.Soul](https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 4:16 | 2022-05-03 | 2022-07-29 |
 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 | 2022-05-03 | 2024-07-03 |
-| [Nocturne](https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Nocturne](https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X) | 2:19 | 2024-07-02 |  |
+| [Nocturne](https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Nocturne](https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X) | 2:19 | 2024-07-02 | 2026-06-30 |
 | [Nokori](https://open.spotify.com/track/63I16psnlcMcKpvI6ke646) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO), [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Nokori](https://open.spotify.com/album/2DehLH0c7OrvfdoSZm1At3) | 2:09 | 2024-07-02 | 2025-11-04 |
 | [Nosso Samba](https://open.spotify.com/track/67gT8rrjkmHtp8ZyORgnna) | [PRIMAVERA](https://open.spotify.com/artist/2dWal20OMFlgWaEMZ3tH3i) | [Nosso Samba](https://open.spotify.com/album/0nKwnNCcAKx5fEMO3pghor) | 3:31 | 2022-05-03 | 2022-07-04 |
 | [NOW](https://open.spotify.com/track/2Tb2yszENsQNbtyAGPcjIT) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Unlock My Boss, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3tfCBm0ZGzC2Rdhx9kkAfh) | 3:15 | 2023-01-13 | 2024-07-03 |

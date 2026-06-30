@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,913 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,831 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 21 | [SUPERPOWERS](https://open.spotify.com/track/0GJ9W1TSQzbxAgCCX2xc6d) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [SUPERPOWERS](https://open.spotify.com/album/2alYlwvRKwIy0w7nEpDnWY) | 2:53 |
 | 22 | [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 |
 | 23 | [Paris, Texas](https://open.spotify.com/track/63NguRzYIYAISLP4GZcXHd) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Paris, Texas](https://open.spotify.com/album/5hRL6lDWyGzZZNHTLI4WuE) | 3:06 |
-| 24 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
+| 24 | [NEW AMERICA//](https://open.spotify.com/track/4BY9Rflcb89aJ3WretM3v0) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NEW AMERICA//](https://open.spotify.com/album/6GP9tLWnUX9TYVKMAupHnH) | 2:49 |
 | 25 | [The Rush](https://open.spotify.com/track/1uhdYhrlIn7zA22ukBeNNH) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [The Rush](https://open.spotify.com/album/42cvVR2cwwFjOPssXu0Eab) | 3:35 |
 | 26 | [Arteries](https://open.spotify.com/track/1loKcR8dIFxjGwKUo1Gv1Q) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Arteries](https://open.spotify.com/album/6vxtYeDwJNK427fs3oCSV1) | 5:14 |
 | 27 | [The Table](https://open.spotify.com/track/4yqEQYjFl8CnPt46MbpcJl) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [The Table](https://open.spotify.com/album/60mTI6ljoeHukVMQwpI8tG) | 3:05 |

@@ -18581,6 +18581,24 @@
     },
     {
       "album": {
+        "name": "Dil Banjara",
+        "url": "https://open.spotify.com/album/1wiGzAI2FYVNW07Ur8DU9b"
+      },
+      "artists": [
+        {
+          "name": "Digital Pandit",
+          "url": "https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206628,
+      "name": "Dil Banjara",
+      "url": "https://open.spotify.com/track/13b7r0ioPRxL8D1QCdfo0C"
+    },
+    {
+      "album": {
         "name": "Dil Ye Dhadakta Hi Nahin",
         "url": "https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H"
       },
@@ -35178,6 +35196,24 @@
       "duration_ms": 197440,
       "name": "Impeto del Fuoco (another)",
       "url": "https://open.spotify.com/track/4AvbO9QCvznQ4SrqdfQdow"
+    },
+    {
+      "album": {
+        "name": "In a Room",
+        "url": "https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "In a Room",
+      "url": "https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC"
     },
     {
       "album": {

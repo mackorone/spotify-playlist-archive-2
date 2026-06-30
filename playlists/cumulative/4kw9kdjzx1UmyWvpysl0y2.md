@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,257 songs - 2 day 21 hr 51 min
+1,258 songs - 2 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,7 @@
 | [Mothership](https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Mothership](https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE) | 4:03 | 2023-07-04 | 2023-09-26 |
 | [Move Back](https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Move Back](https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI) | 3:28 | 2023-02-16 | 2023-05-09 |
 | [Move Yo Feet](https://open.spotify.com/track/1QGl7VLbqHDdBK81ccUflR) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L) | [Move Yo Feet](https://open.spotify.com/album/0VSlnw9OR0rAYLGJTEhyl8) | 2:33 | 2025-09-03 | 2025-11-28 |
-| [Move Your Body](https://open.spotify.com/track/1DsPPeID1anFjzeuvIKaLK) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Move Your Body](https://open.spotify.com/album/3c26X4k1tb3nui2V1aDC95) | 2:48 | 2026-03-25 |  |
+| [Move Your Body](https://open.spotify.com/track/1DsPPeID1anFjzeuvIKaLK) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Move Your Body](https://open.spotify.com/album/3c26X4k1tb3nui2V1aDC95) | 2:48 | 2026-03-25 | 2026-06-30 |
 | [Movements](https://open.spotify.com/track/7lMYRwvhweOmiuVfKFf0Sq) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Laminar](https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Movements](https://open.spotify.com/album/0upBLCWzxoULIoP6oiMNab) | 4:15 | 2024-08-12 | 2024-11-05 |
 | [Much Is Taken, Much Abides](https://open.spotify.com/track/4nF70Xzy8IpCHXpo5JuZZ1) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w) | [Much Is Taken, Much Abides](https://open.spotify.com/album/2UxnkfVsG0Oz9Hrycjl0lZ) | 3:26 | 2024-07-16 | 2024-10-08 |
 | [Multiverse](https://open.spotify.com/track/33TrEPQwAW93YUdHjGcECq) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Multiverse](https://open.spotify.com/album/2Ni1r9D9T1EoICJULapoRb) | 3:20 | 2022-02-25 | 2022-05-10 |
@@ -1201,6 +1201,7 @@
 | [Wasted](https://open.spotify.com/track/0Trr3QSf9SvtFRtuAPVoBn) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Wasted](https://open.spotify.com/album/1dklzQmTgzrPxN0YOrh7H3) | 3:31 | 2023-09-21 | 2024-01-11 |
 | [Wastin Time](https://open.spotify.com/track/6hpuWbCqRFYWAxCuYDhMev) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Wastin Time](https://open.spotify.com/album/5XcER4wQ8lYFk72OeLHm8q) | 2:30 | 2023-11-30 | 2024-03-14 |
 | [WATCH OUT!](https://open.spotify.com/track/5JZTxaNJMHNVZ6vR41UTkM) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [WATCH OUT!](https://open.spotify.com/album/7giuKvtcg2gzhRwnFi7hbd) | 3:20 | 2025-04-16 | 2025-07-09 |
+| [WATCHDIS!](https://open.spotify.com/track/4jnreaIZunqfQXtAb0JPDv) | [KRITIKAL](https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S) | [WATCHDIS!](https://open.spotify.com/album/7Hsxv3WK0XcI3cVA4jqfBz) | 2:08 | 2026-06-29 |  |
 | [Water Resistant](https://open.spotify.com/track/6LvU1xQJaAXxdVhJXviRJq) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [Water Resistant](https://open.spotify.com/album/2WLfJXC56KZzaTl4JQ0odn) | 3:17 | 2021-11-19 | 2022-02-23 |
 | [Waterloo](https://open.spotify.com/track/2m4CoBXFU89fVREZQeq8CW) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Waterloo](https://open.spotify.com/album/2IP4Jtybqn9yhijp7edZik) | 3:51 | 2022-04-15 | 2022-06-25 |
 | [Way Back](https://open.spotify.com/track/0TEiOUYQYGeDsoBqVSZYIQ) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Way Back](https://open.spotify.com/album/7MPJECu20Fx8ZNVpYUBFoJ) | 3:19 | 2022-08-05 | 2022-10-19 |

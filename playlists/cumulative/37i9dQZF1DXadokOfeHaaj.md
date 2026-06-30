@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Bonobo
 
-485 songs - 1 day 6 hr 26 min
+486 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-19 | 2026-05-08 |
 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2024-10-24 | 2026-05-08 |
 | [Lifetime \- Planningtorock 'Let It Happen' Remix](https://open.spotify.com/track/6U9opnMMouhZdQaseeVQTq) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Lifetime \(Planningtorock 'Let It Happen' Remix\)](https://open.spotify.com/album/5s9bJNRbfFkJAlxmjJbexn) | 6:59 | 2021-10-28 | 2024-02-23 |
-| [Lift You Up](https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 3:32 | 2025-11-07 |  |
+| [Lift You Up](https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 3:32 | 2025-11-07 | 2026-06-30 |
 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 | 2026-02-13 | 2026-06-09 |
 | [Lights Out](https://open.spotify.com/track/3hzazse5o4NZA13isN8eMp) | [GRAEY](https://open.spotify.com/artist/7IWvzeznlyMEE1APQe9iFL) | [Lights Out](https://open.spotify.com/album/42vVIc93UsSgQKFrtsnoet) | 3:12 | 2021-10-28 | 2024-02-23 |
 | [Like A Knife](https://open.spotify.com/track/3KtIEskaAF8eojLEoy9SgN) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [More Sad Music](https://open.spotify.com/album/4rBkmbNkDyYQYxjcPxJeTU) | 3:00 | 2021-10-28 | 2024-02-02 |
@@ -358,6 +358,7 @@
 | [Roller Coaster](https://open.spotify.com/track/6xwGsyTxtrClNf1hN8idvg) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Roller Coaster](https://open.spotify.com/album/6runm41hpgMzMSzA6S7u5a) | 3:00 | 2024-05-24 | 2025-02-14 |
 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-10 |  |
 | [Romantica](https://open.spotify.com/track/3PeuFE2pbe9xELrlt2iitD) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [Kenzie TTH](https://open.spotify.com/artist/1KCkoNEJ8ATn1W6GujtTom) | [In Daytona Yellow](https://open.spotify.com/album/0uxwDrSCeLR4coJ1xT9F0U) | 4:17 | 2025-10-03 | 2026-02-13 |
+| [ROUND & ROUND](https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ROUND & ROUND](https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi) | 3:44 | 2026-06-25 |  |
 | [Round The Block](https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [Jane](https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk) | [Round The Block](https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo) | 2:42 | 2026-06-18 |  |
 | [Rufufus \- Sylvan Esso Remix](https://open.spotify.com/track/6mS5UKJZo37hlMjru7qkfP) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 4:07 | 2021-10-28 | 2024-04-12 |
 | [Run](https://open.spotify.com/track/179sUkLRDlrfmRAITyK456) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Run](https://open.spotify.com/album/2VnjDDXPUaTwIwt3AkmwZO) | 4:57 | 2025-08-07 | 2025-10-11 |

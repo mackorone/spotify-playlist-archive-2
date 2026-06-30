@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 142000,
       "name": "D\u00f6nm\u00fc\u015f Devran",
       "url": "https://open.spotify.com/track/501cymFFR0zHSwtri0khCd"
@@ -10302,6 +10302,24 @@
       "duration_ms": 238590,
       "name": "Yalanc\u0131 \u015eahidim - Live",
       "url": "https://open.spotify.com/track/6zQZla6Gu8FBPUVpWHGQdX"
+    },
+    {
+      "album": {
+        "name": "YALVARIYO",
+        "url": "https://open.spotify.com/album/4kdyofWcuGB9dP24zeruLQ"
+      },
+      "artists": [
+        {
+          "name": "Ecrin Su \u00c7oban",
+          "url": "https://open.spotify.com/artist/13trRHQvVRg3Zu4TuVJdGH"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "YALVARIYO",
+      "url": "https://open.spotify.com/track/0MTpRe0w1AOn5TlzrbVDYP"
     },
     {
       "album": {

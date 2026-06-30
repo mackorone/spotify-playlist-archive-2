@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat OLGA ja Mirella, louna0nline, Isac Elliot..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,679 likes - 105 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,674 likes - 105 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 40 | [kopiokissa](https://open.spotify.com/track/0vBiimYhAvtSPmuQEtGV7b) | [dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [kopiokissa](https://open.spotify.com/album/4SbXUYbQfuxH3xK0d0Gvlg) | 2:41 |
 | 41 | [Love Me](https://open.spotify.com/track/1W8Ve8MBw5lYqXKHQin567) | [Diogi](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Love Me](https://open.spotify.com/album/5az3IFIk6qFiguI1r9TdNl) | 2:28 |
 | 42 | [Rankkoi Bämii](https://open.spotify.com/track/2qj1gE0PI8LDbGJay4bjby) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Rankkoi Bämii](https://open.spotify.com/album/2PElEOO9nD4b5OXFgpLVRs) | 2:18 |
-| 43 | [ASA](https://open.spotify.com/track/49pUYIOz30zNcHIAgvhOZZ) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah), [O6a](https://open.spotify.com/artist/29f9uya6ElL9qDI78XiLKA), [Ajuvibez](https://open.spotify.com/artist/6VziTek5QEv9G5pfj8gvr6) | [ASA](https://open.spotify.com/album/1pt180jbyOIpt5byHxUWPK) | 2:43 |
+| 43 | [ASA](https://open.spotify.com/track/49pUYIOz30zNcHIAgvhOZZ) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Sonia](https://open.spotify.com/artist/3pChBGkHC0rt1YzLkxRG9w), [O6a](https://open.spotify.com/artist/29f9uya6ElL9qDI78XiLKA), [Ajuvibez](https://open.spotify.com/artist/6VziTek5QEv9G5pfj8gvr6) | [ASA](https://open.spotify.com/album/1pt180jbyOIpt5byHxUWPK) | 2:43 |
 | 44 | [Liikaa](https://open.spotify.com/track/6lvn3S6McNFU3bhDyfwW5Y) | [WEWWE](https://open.spotify.com/artist/3pSj91T5aQGsVUoLJH2mb9) | [Liikaa](https://open.spotify.com/album/1Um8arUIWlNZdjcvjp4tC3) | 2:16 |
 | 45 | [Pommei](https://open.spotify.com/track/4gjpOB3Y6crup8AZQ0tOL1) | [LAURI](https://open.spotify.com/artist/7p2HG5Zs2sm3BJYD6pdSC4), [Q](https://open.spotify.com/artist/2igSpuEwchbEEk5CleKt6b) | [Pommei](https://open.spotify.com/album/5renC3UyNG35XtRXDa2Rk0) | 3:12 |
 | 46 | [Ehjä](https://open.spotify.com/track/0xZ7Dt8YkTIeN6KPI3LS8K) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Ehjä](https://open.spotify.com/album/1pGbeuNwlalgx9ealMNCuZ) | 2:15 |

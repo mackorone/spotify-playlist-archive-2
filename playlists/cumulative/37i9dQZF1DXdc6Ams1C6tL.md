@@ -2,7 +2,7 @@
 
 ### [Every UK Number One: 2026](https://open.spotify.com/playlist/37i9dQZF1DXdc6Ams1C6tL)
 
-> Taylor Swift takes the top spot with her Toy Story 5 soundtrack 🤠
+> Sam Fender and Olivia Dean are back on top
 
 50 songs - 2 hr 58 min
 

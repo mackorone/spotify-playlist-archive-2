@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Colby Acuff",
-  "num_followers": 222088,
+  "num_followers": 222198,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "added_at": "2026-06-05 15:44:50",
+      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2026-06-05 15:44:50",
-      "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2026-06-05 15:44:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-06-05 15:44:50",
       "album": {
-        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
-        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 121400,
-      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
-      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
-    },
-    {
-      "added_at": "2026-06-05 15:44:50",
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 232524,
       "name": "Jingle and Go",
       "url": "https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV"
+    },
+    {
+      "added_at": "2026-06-05 15:44:50",
+      "album": {
+        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
+        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
+      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
     },
     {
       "added_at": "2026-06-05 15:44:50",

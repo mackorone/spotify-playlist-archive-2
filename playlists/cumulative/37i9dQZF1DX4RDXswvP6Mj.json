@@ -1203,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "BAD (Remix)",
+        "url": "https://open.spotify.com/album/3XTrYtpw8lzLWvL4bvGg3L"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137041,
+      "name": "BAD (Speed Up Ver.)",
+      "url": "https://open.spotify.com/track/41yNTlsUC42eFdsd2BppqW"
+    },
+    {
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },

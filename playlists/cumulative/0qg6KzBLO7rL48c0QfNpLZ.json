@@ -6007,6 +6007,28 @@
     },
     {
       "album": {
+        "name": "Dancing Alone",
+        "url": "https://open.spotify.com/album/5GvgJBrAovLrzMpnTInhmA"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6nnefelt",
+          "url": "https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo"
+        },
+        {
+          "name": "vahr",
+          "url": "https://open.spotify.com/artist/0hAgMlpHjco4JujCnbZeLg"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Dancing Alone",
+      "url": "https://open.spotify.com/track/1fmAJ5Z4pzAwq1QzEd7Vkl"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4VBe5Cme5Ty5UgHnCWNxsP"
       },
@@ -17774,7 +17796,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 156206,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/4CPy28pUyD5MW3EKMDRUGB"
@@ -28362,7 +28384,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 139200,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu"
@@ -29393,6 +29415,24 @@
     },
     {
       "album": {
+        "name": "This Summer",
+        "url": "https://open.spotify.com/album/6ta0TvzGZMblAaC8NZoV9v"
+      },
+      "artists": [
+        {
+          "name": "Miravo",
+          "url": "https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176314,
+      "name": "This Summer",
+      "url": "https://open.spotify.com/track/2qlonMxUjncIN0435yTPKM"
+    },
+    {
+      "album": {
         "name": "Those Eyes",
         "url": "https://open.spotify.com/album/1KZb79nG2EG3duHzkwyi4I"
       },
@@ -29664,7 +29704,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 180937,
       "name": "To Be",
       "url": "https://open.spotify.com/track/5uxnKcEFm5lPPiMPfhvwg2"

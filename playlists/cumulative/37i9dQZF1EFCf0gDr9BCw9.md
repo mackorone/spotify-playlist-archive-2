@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-242 songs - 18 hr 7 min
+243 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [This Can't Be Love](https://open.spotify.com/track/3xkzu0STqniWfJqEvXXRkk) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson Trio Play the Songbook Hits](https://open.spotify.com/album/3QrFGR5cNt3ZTsELSDnLy9) | 9:55 | 2023-12-13 |  |
 | [This Can't Be Love \- Digitally Remastered](https://open.spotify.com/track/4emff6nFLGl610Bt6j3Sz6) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Genius of Jazz \- Ben Webster, Vol\. 2](https://open.spotify.com/album/69614zCrwPL3L9z4waAjkV) | 9:50 | 2023-08-25 | 2023-12-14 |
 | [This Can't Be Love: The Boys from Syracuse: This Can't Be Love](https://open.spotify.com/track/2uKLMLYcbqdDCaDQY3l4NT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Ed Thigpen](https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI) | [Milestones of a Jazz Legend \- Ben Webster, Vol\. 2 \(1957, 1959\)](https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP) | 9:51 | 2022-09-08 | 2023-08-20 |
+| [Three And Six](https://open.spotify.com/track/1rDSvUCDcz2KOoQVIPrQ9z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Not So Dukish](https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv) | 2:21 | 2026-06-29 |  |
 | [Tiffany](https://open.spotify.com/track/35WGvwOw4Be7RGXna1IvCJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:35 | 2022-09-08 |  |
 | [Tigress](https://open.spotify.com/track/0noCHxitAlY7F4lDCSyuag) | [Duke Ellington And His Orchestra](https://open.spotify.com/artist/2uRZKi0u39J5Ip0fMcSMVm) | [Afro Bossa](https://open.spotify.com/album/7M9vNpxkRVlKyV1gk9tbNB) | 3:09 | 2026-06-20 |  |
 | [Tonk](https://open.spotify.com/track/55zDLDvbE5ZTWkTqglNPN7) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Out Of The Past](https://open.spotify.com/album/52BjKc8aZ5xRZd5KWXVoxj) | 4:35 | 2026-02-19 |  |

@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190679,
+  "num_followers": 190677,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Car Crash",
         "url": "https://open.spotify.com/album/5YKTvMmaJ5q8Z31nn4WzJl"
       },
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "What Takes You Back",
+        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
+      },
+      "artists": [
+        {
+          "name": "Zachary Bloemperk",
+          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
+        }
+      ],
+      "duration_ms": 275166,
+      "name": "What Takes You Back",
+      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "Can You Swim?",
         "url": "https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 246764,
       "name": "Old Shadows",
       "url": "https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "What Takes You Back",
-        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
-      },
-      "artists": [
-        {
-          "name": "Zachary Bloemperk",
-          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
-        }
-      ],
-      "duration_ms": 275166,
-      "name": "What Takes You Back",
-      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Bright Belief",
-        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Bright Belief",
-      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "All That We Are",
         "url": "https://open.spotify.com/album/60B3oN31JFl2u2r6ryGg9i"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 403787,
       "name": "Dissolve",
       "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Bright Belief",
+        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
         }
       ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
+      "duration_ms": 172920,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
       },
       "artists": [
         {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
         }
       ],
-      "duration_ms": 172920,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
-      },
-      "artists": [
-        {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
-        }
-      ],
-      "duration_ms": 240822,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 244421,
       "name": "Pride",
       "url": "https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 240822,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -903,50 +903,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
         }
       ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "Dark Sky Reserve",
-        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 173343,
-      "name": "Tree-lined Lanes",
-      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -971,18 +939,50 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
       "artists": [
         {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
         }
       ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Dark Sky Reserve",
+        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 173343,
+      "name": "Tree-lined Lanes",
+      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -999,6 +999,22 @@
       "duration_ms": 153164,
       "name": "U&I",
       "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "My Child, My Friend - Anchor",
+        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 152146,
+      "name": "My Child, My Friend",
+      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "An Hour Per Day",
-        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 217646,
-      "name": "An Hour Per Day",
-      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "the bed-ties",
         "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "My Child, My Friend - Anchor",
-        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
       "artists": [
         {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
         }
       ],
-      "duration_ms": 152146,
-      "name": "My Child, My Friend",
-      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 237635,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
+      },
+      "artists": [
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
+        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
+      },
+      "artists": [
+        {
+          "name": "Cero Ismael",
+          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+        }
+      ],
+      "duration_ms": 217949,
+      "name": "EMBERS",
+      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "BB II",
         "url": "https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 306766,
       "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
       "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
-        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
-      },
-      "artists": [
-        {
-          "name": "Cero Ismael",
-          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
-        }
-      ],
-      "duration_ms": 217949,
-      "name": "EMBERS",
-      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+        "name": "My Hands",
+        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
       },
       "artists": [
         {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
         }
       ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+      "duration_ms": 218701,
+      "name": "My Hands",
+      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
-        "name": "My Hands",
-        "url": "https://open.spotify.com/album/1PHbCItyhGrNHBIwwdxdFD"
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
       "artists": [
         {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
         }
       ],
-      "duration_ms": 218701,
-      "name": "My Hands",
-      "url": "https://open.spotify.com/track/0SvSlr8HPXE577UkIMOT2P"
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-06-25 22:00:34",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-06-25 22:00:34",
       "album": {
+        "name": "The Moon Is Going For A Swim",
+        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
+      },
+      "artists": [
+        {
+          "name": "Christopher Green",
+          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
+        }
+      ],
+      "duration_ms": 227433,
+      "name": "The Moon Is Going For A Swim",
+      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
+    },
+    {
+      "added_at": "2026-06-25 22:00:34",
+      "album": {
         "name": "A Passage Between",
         "url": "https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 198806,
       "name": "When Everything Was Right",
       "url": "https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK"
-    },
-    {
-      "added_at": "2026-06-25 22:00:34",
-      "album": {
-        "name": "The Moon Is Going For A Swim",
-        "url": "https://open.spotify.com/album/3JhrlyhuzmS6WfSSpyunNq"
-      },
-      "artists": [
-        {
-          "name": "Christopher Green",
-          "url": "https://open.spotify.com/artist/7hsSRTKla7JWIsGRlq0LvL"
-        }
-      ],
-      "duration_ms": 227433,
-      "name": "The Moon Is Going For A Swim",
-      "url": "https://open.spotify.com/track/4yfEsna4QNbBL0EYnieNY6"
     },
     {
       "added_at": "2026-06-25 22:00:34",

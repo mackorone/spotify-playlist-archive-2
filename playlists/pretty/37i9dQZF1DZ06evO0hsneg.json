@@ -1,12 +1,12 @@
 {
   "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
-  "num_followers": 770,
+  "num_followers": 771,
   "original_name": "This Is Ramengvrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aj8SgAAAAABXzbOHSnTqLEUC35pjnAFo",
+  "snapshot_id": "akBkAAAAAADNKEcUFz2dsZZl98oWWBQT",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOMBAE",
-        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 146184,
-      "name": "BOMBAE",
-      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
         "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
       },
@@ -371,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+        "name": "BOMBAE",
+        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
       },
       "artists": [
         {
@@ -380,13 +360,13 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
         }
       ],
-      "duration_ms": 157498,
-      "name": "Vaselina (feat. euro)",
-      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
+      "duration_ms": 146184,
+      "name": "BOMBAE",
+      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
     },
     {
       "added_at": null,
@@ -407,6 +387,26 @@
       "duration_ms": 151020,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "duration_ms": 157498,
+      "name": "Vaselina (feat. euro)",
+      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onto The Next",
-        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214109,
-      "name": "Onto The Next",
-      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indo ME",
         "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 200899,
       "name": "Indo ME",
       "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onto The Next",
+        "url": "https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Onto The Next",
+      "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
     },
     {
       "added_at": null,
@@ -635,30 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Touch Me",
-        "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
-      },
-      "artists": [
-        {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        },
-        {
-          "name": "Danilla",
-          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 281642,
-      "name": "Don't Touch Me",
-      "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musikal Polarisasi",
         "url": "https://open.spotify.com/album/4frxq3cCVeuUkqdvrcCHvv"
       },
@@ -727,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Touch Me",
+        "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        },
+        {
+          "name": "Danilla",
+          "url": "https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 281642,
+      "name": "Don't Touch Me",
+      "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Da Man",
+        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 184663,
+      "name": "I'm Da Man",
+      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MING LING (feat. Yung Raja)",
         "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Da Man",
-        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 184663,
-      "name": "I'm Da Man",
-      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 174767,
       "name": "i make time (feat. Matter Mos)",
       "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 152695,
       "name": "Go Get That B",
       "url": "https://open.spotify.com/track/6HqGDaOqnFdAnmSPxHde2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
     },
     {
       "added_at": null,

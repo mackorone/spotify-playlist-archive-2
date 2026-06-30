@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 453966,
+  "num_followers": 454031,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Cuando No Estas Conmigo",
         "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/1xNni8clFCvN07YCdG5X8w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/5KcDU60p9xsYuPQarUpq6C"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Me Voy al Amanecer",
-        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 202029,
-      "name": "Me Voy al Amanecer",
-      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Me Voy al Amanecer",
+        "url": "https://open.spotify.com/album/0jGxlPzfSQvzY8y7MRurlr"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 202029,
+      "name": "Me Voy al Amanecer",
+      "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Mi Buen Corazon",
         "url": "https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 231982,
       "name": "Mi Buen Corazon",
       "url": "https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
+      },
+      "artists": [
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 151928,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1283,22 +1299,6 @@
       "duration_ms": 165887,
       "name": "Un Cari\u00f1o Como Tu (En Vivo)",
       "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/7zNROyJPmI1HfsO9QDCwd6"
-      },
-      "artists": [
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 151928,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/1XJV2D6qw73GMSAGcXu9nz"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 128073,
       "name": "Me Aceptaste (En Vivo)",
       "url": "https://open.spotify.com/track/3PatPHb6rdyOlPx6NVtnhO"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 244000,
       "name": "La Colaless (En Vivo)",
       "url": "https://open.spotify.com/track/1MZqax5Y23EZZLXq2EQE6d"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
+      },
+      "artists": [
+        {
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Dinamitazos Tropicales de Siempre",
-        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 189954,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Pa' Otro La 'o",
         "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 272666,
       "name": "Procura",
       "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Dinamitazos Tropicales de Siempre",
+        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
     },
     {
       "added_at": "2026-03-13 19:07:31",

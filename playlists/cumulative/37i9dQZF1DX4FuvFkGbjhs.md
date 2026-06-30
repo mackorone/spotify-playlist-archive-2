@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Alewya
 
-899 songs - 2 day 3 hr 56 min
+900 songs - 2 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [Irish Goodbye \(feat\. Kae Tempest\)](https://open.spotify.com/track/6Qyvf0qxn2TDOxHLdsfhUw) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Irish Goodbye](https://open.spotify.com/album/5RozyWyrAciRz9ldUZXCAE) | 3:34 | 2026-04-30 | 2026-06-17 |
 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 | 2025-05-01 | 2025-08-08 |
 | [is é a locht a laghad](https://open.spotify.com/track/4HNS5FBg9GwhYz2J9rVaXG) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [is é a locht a laghad](https://open.spotify.com/album/6ioKj1YhyhtsMvVO9cIXla) | 3:49 | 2025-08-14 | 2026-01-30 |
-| [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 |  |
+| [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 | 2026-06-30 |
 | [Itch](https://open.spotify.com/track/2rIARyDAPwTzTjqAMXVv1l) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Itch](https://open.spotify.com/album/2Sa9sXkfZiiFlLzZpczAq3) | 4:25 | 2024-09-20 | 2025-02-14 |
 | [It’s Gonna’ Cost You](https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 3:02 | 2024-09-27 | 2024-11-08 |
 | [I’LL BE YOUR FRIEND](https://open.spotify.com/track/4BPgkHV0D1E1UvG6t8gEYV) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [I’LL BE YOUR FRIEND](https://open.spotify.com/album/1ZKcdKRBAc1vfIPwU72g5k) | 3:30 | 2026-04-30 | 2026-06-05 |
@@ -833,6 +833,7 @@
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-08-22 |
 | [Twin Flame](https://open.spotify.com/track/16rTopi2DigEpazGkQLSrD) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Twin Flame](https://open.spotify.com/album/446qidglPF9sSPnz5jjS0u) | 2:23 | 2024-06-27 | 2024-08-09 |
 | [Two Steps](https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Two Steps](https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK) | 2:04 | 2025-07-31 | 2025-10-17 |
+| [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 | 2026-06-25 |  |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2024-11-22 | 2025-01-24 |
 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 | 2024-07-11 | 2024-08-16 |
 | [U R MINE \- Porches Remix](https://open.spotify.com/track/65WvwhavpXjK5XXnLZtK36) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [U R MINE \(Porches Remix\)](https://open.spotify.com/album/3s8LRlbbJ7QEIE1oROU6tt) | 3:04 | 2025-04-11 | 2025-06-20 |

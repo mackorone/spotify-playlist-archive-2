@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,347 songs - 5 day 18 hr 26 min
+2,349 songs - 5 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1848,6 +1848,7 @@
 | [Somewhere In My Life](https://open.spotify.com/track/2bzBviImqGjq1c7cI9sQIO) | [Jared Burris](https://open.spotify.com/artist/1E5h6hhhvLosMZ2rOELTiJ) | [Somewhere In My Life](https://open.spotify.com/album/5Acm8DpJD3LAqlLLz1YJdX) | 4:20 | 2025-08-19 |  |
 | [son](https://open.spotify.com/track/5OM9Wjmxfq5bHFrXsNtwYJ) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K) | [Abandoned Payphone Prayers](https://open.spotify.com/album/5Z2G3coccrXAdhazbNk0O1) | 2:12 | 2025-11-20 |  |
 | [Son latidos](https://open.spotify.com/track/5VOSgEmunAUim5YrSTvOqE) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:41 | 2026-04-12 |  |
+| [Son Of God](https://open.spotify.com/track/2gxdVIWXucZeOvAPIFq7Ye) | [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Holy Ground, Vol\. 1](https://open.spotify.com/album/5RugmFSjKKXVZQKvwkk4zo) | 3:46 | 2026-06-29 |  |
 | [Sono Emozioni](https://open.spotify.com/track/5WpyHsi4ox6SDat03QDa4e) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Sono Emozioni](https://open.spotify.com/album/4V997Gbrj2BfcExWo0KNet) | 4:06 | 2025-09-17 |  |
 | [Sonya Blade](https://open.spotify.com/track/1c5UpK07pwqH6qJG8g0kb2) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Sonya Blade](https://open.spotify.com/album/2mNUtH8Ce77EDogjAs8XWH) | 1:49 | 2025-10-21 |  |
 | [Soothing Sunset](https://open.spotify.com/track/1UGkUYPJcpociLHaj0niF7) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 2:12 | 2026-03-23 |  |
@@ -2115,6 +2116,7 @@
 | [True Friends](https://open.spotify.com/track/2eqtXSBIO0mya5fipLROhu) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [True Friends](https://open.spotify.com/album/6ChEwlwzpOMTLUcqjtQnQx) | 3:46 | 2025-08-11 |  |
 | [True Horns](https://open.spotify.com/track/2Rtl8Hmnodorp7fapLniBl) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:29 | 2024-03-25 |  |
 | [Trust your light](https://open.spotify.com/track/32HkxQwRLlHeOObWb1sZpk) | [TwoNames](https://open.spotify.com/artist/2NVBsCklQDkpTijPfqqlLI) | [Trust your light](https://open.spotify.com/album/2Lt5jvum82KtNsrDGGKiwJ) | 4:59 | 2026-05-10 |  |
+| [TRY ME](https://open.spotify.com/track/0CavuOdspBDRkBXhEP6UMH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TRY ME](https://open.spotify.com/album/4Uvf4xhtQ3yPZOjpQ30VUs) | 2:40 | 2026-06-30 |  |
 | [Trying](https://open.spotify.com/track/3AADaJc0V9aXGI7GI7oHfT) | [Ejunior EDM](https://open.spotify.com/artist/5ZXXytASfiohw5jSI47b7B), [Dimex OT](https://open.spotify.com/artist/4g5Xd4Umkm2uHmRSxMSqSY) | [Trying](https://open.spotify.com/album/24KWNQqsktZrSGxY6KzeKG) | 2:44 | 2025-09-21 |  |
 | [Tsunami Dub](https://open.spotify.com/track/3nZsRviwGz01cxVH4l9oSO) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:42 | 2024-03-25 |  |
 | [Tu Alma](https://open.spotify.com/track/0CrlLgCEZMRbgtTshIfgVl) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/1eK1aPMdKhSpW4c2uFGTx9) | 2:50 | 2026-04-03 |  |

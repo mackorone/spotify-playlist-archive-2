@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-381 songs - 19 hr 13 min
+382 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ciebie brak](https://open.spotify.com/track/1jQSDt9npU5n6HEfCKsokt) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [SALON](https://open.spotify.com/album/19oOJv14gKILUG9Re8O7SW) | 3:18 | 2026-03-27 | 2026-04-18 |
 | [Ciszej](https://open.spotify.com/track/6aZayI481YYsBFERs1a0UG) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [Ciszej](https://open.spotify.com/album/02gdMVpWIJtHi393VT1gbC) | 2:28 | 2026-04-10 | 2026-05-05 |
 | [Co ja robię tu](https://open.spotify.com/track/1SaUfQNBUXlf6clnOKBrfe) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Co ja robię tu](https://open.spotify.com/album/1T6p40fWQ3abElX4iU2xol) | 2:37 | 2024-06-28 | 2024-10-18 |
+| [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 | 2026-06-26 |  |
 | [Co noc](https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Co noc](https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd) | 2:39 | 2025-01-24 | 2026-03-28 |
 | [Co za lot](https://open.spotify.com/track/0hBRQSpUXTfzbw0SA9MuGp) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Co za lot](https://open.spotify.com/album/0h1U2EolnXwh547tdukGEY) | 3:18 | 2026-01-23 | 2026-02-24 |
 | [Co za stan](https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [Co za stan](https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm) | 2:39 | 2025-10-03 | 2025-10-11 |
@@ -292,7 +293,7 @@
 | [SANTORINI](https://open.spotify.com/track/725GGkOr07ss8F4ta39bc7) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [SANTORINI](https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97) | 3:47 | 2024-06-28 | 2024-07-21 |
 | [Seans](https://open.spotify.com/track/3jKOZJ66h9OtMMK9peLtbT) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Seans](https://open.spotify.com/album/2Fe1SexwAJoAjF5hVDcHir) | 3:39 | 2025-08-08 | 2025-10-04 |
 | [SEN](https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [Paulina Chmura](https://open.spotify.com/artist/4nq9i2sLDlG3BrVvEvwnH7), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ), [SZAJUR](https://open.spotify.com/artist/253rVwZnTeAXcpYSFwy13A) | [SEN](https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS) | 3:01 | 2025-10-10 |  |
-| [Serce](https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Serce](https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi) | 3:13 | 2026-01-23 |  |
+| [Serce](https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Serce](https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi) | 3:13 | 2026-01-23 | 2026-06-30 |
 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 | 2024-11-08 | 2025-02-08 |
 | [sezon](https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [sezon](https://open.spotify.com/album/31swt0uojnqryFf44XBDzx) | 3:01 | 2026-04-17 |  |
 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-02-07 | 2025-11-08 |

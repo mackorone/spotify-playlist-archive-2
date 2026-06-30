@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112665,
+  "num_followers": 112704,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
+        "name": "tylko kochaj mnie",
+        "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "tylko kochaj mnie",
+      "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
         "name": "Wracam",
         "url": "https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 185880,
       "name": "Wracam",
       "url": "https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
-        "name": "Don't Say That",
-        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "Don't Say That",
-      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "tylko kochaj mnie",
-        "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
       },
       "artists": [
         {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 161342,
-      "name": "tylko kochaj mnie",
-      "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 157272,
-      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
-        "name": "Serce",
-        "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Serce",
-      "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Fairy Pop",
         "url": "https://open.spotify.com/album/3cPdL4VimfdCUNqkfvdArO"
       },
@@ -1099,6 +1067,42 @@
       "duration_ms": 199583,
       "name": "Lucky Secret",
       "url": "https://open.spotify.com/track/002moL8vrvcntzM73R4ath"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "Co mi tam",
+        "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+        }
+      ],
+      "duration_ms": 167652,
+      "name": "Co mi tam",
+      "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
     }
   ],
   "unique_name": "... ale najpierw kawa",

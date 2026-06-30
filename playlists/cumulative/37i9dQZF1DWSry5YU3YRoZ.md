@@ -4,7 +4,7 @@
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-177 songs - 11 hr 0 min
+178 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Dear love](https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:42 | 2025-06-09 |  |
 | [Dear my dear](https://open.spotify.com/track/6R8sp9YDH1h7Gn65wnaHaY) | [younglong](https://open.spotify.com/artist/2EVjbOwYN7OgFkQZzGvjUQ) | [Recognize me](https://open.spotify.com/album/6bB3FCpNTIHdvZlGEATAG7) | 2:49 | 2025-05-19 | 2025-06-03 |
 | [Dear my little angel](https://open.spotify.com/track/1JM20oravW0HjvBY2PYXEd) | [Jaebin](https://open.spotify.com/artist/04zJcW6as75Xbr17YKKSNE) | [Dear my little angel](https://open.spotify.com/album/2QnromVlzLTGsuVmaQEsTA) | 3:00 | 2025-05-12 | 2025-05-20 |
-| [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 | 2025-06-30 |  |
+| [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 | 2025-06-30 | 2026-06-30 |
 | [dearmybaby \(with Kim Boo Kyung\)](https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Kim Boo Kyung](https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd) | [dearmybaby](https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW) | 4:09 | 2024-03-08 | 2025-04-14 |
 | [Diary](https://open.spotify.com/track/0vhWlFD7OuYack7ubf4srG) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Diary](https://open.spotify.com/album/75dsAreQtSJNsp2HPw2ViK) | 3:33 | 2026-03-09 | 2026-03-26 |
 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 | 2023-11-03 | 2025-07-08 |
@@ -62,6 +62,7 @@
 | [Goodbye](https://open.spotify.com/track/5hG9erX5epfASjh5ZNJZV1) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Reminiscence](https://open.spotify.com/album/1pFBI4pUiXq7Li4Y5uK6gn) | 4:13 | 2024-01-08 | 2024-04-19 |
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2023-11-03 | 2024-02-04 |
 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 | 2023-11-03 |  |
+| [Goodnight my dear](https://open.spotify.com/track/7rIvu66M5dw5J5AyXbNYhk) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [GO](https://open.spotify.com/album/4f00AHq5o2yWvAtum48ZFU) | 2:41 | 2026-06-29 |  |
 | [Habit](https://open.spotify.com/track/2T6F2riVLpJfmDywPgbI7N) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Wish](https://open.spotify.com/album/0yHV0gL9YT0rtRGFvKMzsQ) | 3:18 | 2025-04-21 | 2025-05-20 |
 | [Half Awake](https://open.spotify.com/track/17ggyD7GkCsCmHfrcXn1Hq) | [Kimeeum](https://open.spotify.com/artist/00wCPSTKdwVpRMESYGWtHg) | [The Day After Today](https://open.spotify.com/album/5vtDArVgAKBBBzTYD4qR5C) | 3:47 | 2026-02-09 | 2026-03-10 |
 | [Haze](https://open.spotify.com/track/1AIeM0tVZYsi9KCMjNECUx) | [kimpomme](https://open.spotify.com/artist/0jQQ9dAK1bMW7UW9zYdUc4) | [Haze](https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm) | 3:57 | 2024-03-08 | 2025-04-15 |

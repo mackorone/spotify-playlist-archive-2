@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 33168,
+  "num_followers": 33174,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "SEEK",
-        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "SEEK",
-      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 186000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "SEEK",
+        "url": "https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp"
+      },
+      "artists": [
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "SEEK",
+      "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "FOOTSTOOL",
-        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "FOOTSTOOL",
-      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "SAY SO",
         "url": "https://open.spotify.com/album/3fA62shc2rOStugUYC47HG"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 135601,
       "name": "SAY SO",
       "url": "https://open.spotify.com/track/4WVX0krwrhG46SObNcUVaq"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "FOOTSTOOL",
+        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "FOOTSTOOL",
+      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Give It All",
-        "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
+        "name": "Tale of a Free Man",
+        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
       },
       "artists": [
         {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
         }
       ],
-      "duration_ms": 174220,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
+      "duration_ms": 222157,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Tale of a Free Man",
-        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+        "name": "Give It All",
+        "url": "https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc"
       },
       "artists": [
         {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
         }
       ],
-      "duration_ms": 222157,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
+      "duration_ms": 174220,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 130576,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "Yellow Soul",
         "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 162000,
       "name": "Yellow Soul",
       "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
     },
     {
       "added_at": "2026-05-29 08:59:34",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-725 songs - 1 day 15 hr 4 min
+726 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,8 @@
 | [We Open in Venice](https://open.spotify.com/track/1SOKPop4Zk9mIHUKpAv6qm) | [The Rat Pack](https://open.spotify.com/artist/75kHCUYCZGNvAfSyoEuJTz) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 2:14 | 2026-04-20 |  |
 | [We Shall Never Be Younger](https://open.spotify.com/track/1ga120eHPwxC25lruYq6Z0) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [You're The Top: The Love Songs Of Cole Porter](https://open.spotify.com/album/26CKdEy7zAaLdrDV9SBaVg) | 3:18 | 2024-07-24 |  |
 | [Wedding Cake Island](https://open.spotify.com/track/4Vd0f5NZ3v1QXLaovA2qRo) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Delightful Rain](https://open.spotify.com/album/1C8EW4cXhFt8UhX9Xnkc1O) | 3:02 | 2024-07-24 | 2025-06-28 |
-| [Wedding Cake Walk](https://open.spotify.com/track/5mJTMq8pB7xXuy21vXtk7V) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 5:19 | 2025-09-10 |  |
+| [Wedding Cake Walk](https://open.spotify.com/track/5mJTMq8pB7xXuy21vXtk7V) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 5:19 | 2025-09-10 | 2026-06-30 |
+| [Wedding Cake Walk](https://open.spotify.com/track/3OY79KhLUGszJxMlAntvoS) | [Rita Hayworth](https://open.spotify.com/artist/24u2lWQYyTWB7VUTnwEavi) | [Sex Symbol \- Rita Hayworth](https://open.spotify.com/album/6wjGfbQn28E1NTMgyPvtc9) | 4:53 | 2026-06-29 |  |
 | [Wee\-Wee, Pee\-Pee, Tinkle!](https://open.spotify.com/track/5pJVrsl5Y7RSSDA4I1BQf8) | [Wonder Pets](https://open.spotify.com/artist/7ni4mcsUHE4P5g7Qd15DHD) | [Wonder Pets](https://open.spotify.com/album/7956RvTfKwsOZe6yljDVMa) | 1:38 | 2024-07-24 |  |
 | [Well, Did You Evah](https://open.spotify.com/track/1oEIJOMsKbIGTZL1TmM6xw) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Jon Lovitz](https://open.spotify.com/artist/6b73fLDh3CaDhlvPzfmi5Q) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 3:50 | 2025-06-27 |  |
 | [Weren't We Fools](https://open.spotify.com/track/7sjpQN1cFB9ExK6JiLKBQ7) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 | 2024-07-24 |  |

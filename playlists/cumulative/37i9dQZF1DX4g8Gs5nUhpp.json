@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Hngle",
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Dangrangto",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 257013,
       "name": "Anh L\u00e0 Ai",
       "url": "https://open.spotify.com/track/0JzNOFN9AfxWYCQX8kfiyp"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 137074,
       "name": "Cho Con (Lullaby pt.2)",
       "url": "https://open.spotify.com/track/71luUs5K7N1fdf7ecMKg04"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 253556,
       "name": "GI\u1ea2 V\u1edc",
       "url": "https://open.spotify.com/track/4DM8buF9J04zNPtYVMUt74"
@@ -7036,7 +7036,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 253565,
       "name": "Thi\u00ean M\u1ec7nh",
       "url": "https://open.spotify.com/track/0OB5hTu7ELKeVoD6JVRo6m"
@@ -7647,6 +7647,28 @@
     },
     {
       "album": {
+        "name": "T\u00ecm Em (feat. B\u1ea3o Anh)",
+        "url": "https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl"
+      },
+      "artists": [
+        {
+          "name": "Hngle",
+          "url": "https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ"
+        },
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274589,
+      "name": "T\u00ecm Em (feat. B\u1ea3o Anh)",
+      "url": "https://open.spotify.com/track/6ELX356o21U28T73ZxruUj"
+    },
+    {
+      "album": {
         "name": "T\u00ecnh Ca T\u00ecnh Ta",
         "url": "https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest"
       },
@@ -8140,7 +8162,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 225882,
       "name": "T\u1eebng Ng\u00e0y Y\u00eau Em",
       "url": "https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB"
@@ -8684,6 +8706,28 @@
       "duration_ms": 192720,
       "name": "Xoa \u0110\u1ea7u",
       "url": "https://open.spotify.com/track/6kSqwxia5o0DhzteO4Iwfa"
+    },
+    {
+      "album": {
+        "name": "tr\u00e1i tim b\u0103ng b\u00f3",
+        "url": "https://open.spotify.com/album/3YjTAcdJgKLFWjwinBtll8"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "x\u01b0\u01a1ng r\u1ed3ng (intro)",
+      "url": "https://open.spotify.com/track/6CTdPSNvUYw7UjerVIkUia"
     },
     {
       "album": {

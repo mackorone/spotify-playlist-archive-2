@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-897 songs - 1 day 18 hr 20 min
+898 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,7 @@
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-09 | 2023-02-11 |
 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-05-16 | 2025-06-10 |
 | [See Me yah](https://open.spotify.com/track/5ta3DW7XdUPYtlZNCUVGHc) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:38 | 2025-03-31 | 2025-05-03 |
-| [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 | 2025-09-19 |  |
+| [See What We've Done](https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42) | 3:05 | 2025-09-19 | 2026-06-30 |
 | [Senorita](https://open.spotify.com/track/04C3f1zE0YHypfmg8hF2cY) | [NAEOMI](https://open.spotify.com/artist/6cAU0bJ4IPWG2sT9XzyPkf), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Grown](https://open.spotify.com/album/0NqVsIlCwJbxJHuHuANjSb) | 2:15 | 2024-08-30 | 2024-10-15 |
 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 | 2023-10-23 | 2024-11-22 |
 | [shadow](https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [shadow](https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU) | 2:40 | 2024-04-12 | 2024-04-26 |
@@ -892,6 +892,7 @@
 | [Yaji](https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Brainee](https://open.spotify.com/artist/189RseQBNs5wltQ3iQfQ9E) | [Yaji](https://open.spotify.com/album/0abObVp5twgyfgUMju851a) | 4:02 | 2023-07-21 | 2023-08-11 |
 | [YAWA](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [YAWA](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 | 2023-06-23 | 2024-06-28 |
 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 | 2024-07-12 | 2025-04-01 |
+| [YBTM](https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [YBTM](https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv) | 2:56 | 2026-06-25 |  |
 | [Yebo](https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Turn Off The Lights](https://open.spotify.com/album/6muXgX86KpOiFDo0P07e7d) | 4:23 | 2024-06-07 | 2024-11-22 |
 | [Yemi Mi Lova](https://open.spotify.com/track/6LwQaDRHKctFHBlz3bYghy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Yemi Mi Lova](https://open.spotify.com/album/4ImcedMrDWH0UYkHtEMRxH) | 2:57 | 2026-04-17 | 2026-05-08 |
 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 | 2023-09-09 | 2023-11-17 |

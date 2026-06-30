@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 157485,
       "name": "Amalia",
       "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
@@ -6296,7 +6296,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/58UAQKAuiIYgixJ01BVBZc"
@@ -29168,7 +29168,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -29186,7 +29186,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV"
@@ -34812,10 +34812,28 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-30",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
     },
     {
       "album": {
@@ -35771,7 +35789,7 @@
     },
     {
       "album": {
-        "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
+        "name": "Punta cana (feat. ADF Antje & Trapmoneybiggie)",
         "url": "https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf"
       },
       "artists": [
@@ -35788,23 +35806,23 @@
           "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
         },
         {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        },
+        {
           "name": "ADF Antje",
           "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
         },
         {
           "name": "Trapmoneybiggie",
           "url": "https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv"
-        },
-        {
-          "name": "Carel",
-          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
         }
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 148185,
-      "name": "Punta cana (feat. ADF Antje, Trapmoneybiggie & Carel)",
+      "name": "Punta cana (feat. ADF Antje & Trapmoneybiggie)",
       "url": "https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH"
     },
     {
@@ -36826,7 +36844,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -43444,7 +43462,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

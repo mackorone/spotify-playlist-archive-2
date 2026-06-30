@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 367424,
+  "num_followers": 367450,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Crooked Shadows",
-        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Heart Beat Here",
-      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198400,
       "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
       "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Crooked Shadows",
+        "url": "https://open.spotify.com/album/0qByP4IV1nNHhLs3RfDrGB"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Heart Beat Here",
+      "url": "https://open.spotify.com/track/4NEAoEh4hZF1Tgp1QXrUHC"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Flames (feat. Avril Lavigne) [Acoustic]",
+        "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 147357,
+      "name": "Flames (feat. Avril Lavigne) [Acoustic]",
+      "url": "https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
         "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 247899,
       "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
       "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Flames (feat. Avril Lavigne) [Acoustic]",
-        "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 147357,
-      "name": "Flames (feat. Avril Lavigne) [Acoustic]",
-      "url": "https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Behind Your Walls",
-        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Behind Your Walls - Acoustic",
-      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Unintended [Acoustic Version]",
         "url": "https://open.spotify.com/album/4h1Etv3O9PHFBwpiZJ8L5b"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 242149,
       "name": "Unintended - Acoustic Version",
       "url": "https://open.spotify.com/track/2rx43ysBD4sXw5CuhsAWPT"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Behind Your Walls",
+        "url": "https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Behind Your Walls - Acoustic",
+      "url": "https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV"
     },
     {
       "added_at": "2024-07-05 19:40:49",

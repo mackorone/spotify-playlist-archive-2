@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Esther Graf, Dani Lia, yola, Zoë Më, reezy, DJ Antoine & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,175 likes - 96 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,177 likes - 96 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 40 | [Mejor Lejos](https://open.spotify.com/track/7CVHElmi9dpYqvtJdjnS0j) | [KZO Beat](https://open.spotify.com/artist/6lR6zcLWGjLduWyGBCxThH), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Mejor Lejos](https://open.spotify.com/album/6uWVixk9KHwjzfWaOhRj3m) | 2:51 |
 | 41 | [BORN BLUE \(THE SONG\)](https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [BORN BLUE \(THE SONG\)](https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr) | 3:30 |
 | 42 | [Soda Zitron](https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Soda Zitron](https://open.spotify.com/album/6xLhRYX5YJN8LGFNeJ1GYC) | 2:57 |
-| 43 | [Papillon](https://open.spotify.com/track/7h1tB4DIanO22TlRxbnTcc) | [4.4.2](https://open.spotify.com/artist/5ocH0jGbwm0TeLOlegUVUY), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Papillon](https://open.spotify.com/album/5k2ytou7kc4qjcmQQ0uaRr) | 3:20 |
+| 43 | [Papillon](https://open.spotify.com/track/7h1tB4DIanO22TlRxbnTcc) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Papillon](https://open.spotify.com/album/5k2ytou7kc4qjcmQQ0uaRr) | 3:20 |
 | 44 | [Méridien](https://open.spotify.com/track/7ntT59L6GztA50pvZZZc1t) | [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83), [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y), [Gaspard Sommer](https://open.spotify.com/artist/6c1ibSbg24losduxdCgy7C) | [Chaupard & Chopin](https://open.spotify.com/album/4YaYgKtMJWSoztm0P1Cy2G) | 2:43 |
 | 45 | [3 Racks](https://open.spotify.com/track/2pFsaGm7abzxwBNHjL8E3V) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [3 Racks](https://open.spotify.com/album/1z5x4MLyYDVFVSfL5vILre) | 2:20 |
 | 46 | [fühlst du das auch](https://open.spotify.com/track/6j1rG6MdgGf6axvaRXKgvf) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [fühlst du das auch](https://open.spotify.com/album/2aAHDYWJ0tQzfmn1LsSq7a) | 1:58 |

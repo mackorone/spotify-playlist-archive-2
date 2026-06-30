@@ -38285,6 +38285,24 @@
     },
     {
       "album": {
+        "name": "GALAXY",
+        "url": "https://open.spotify.com/album/0jFjIlcHB5b7ibQ8Uvbbij"
+      },
+      "artists": [
+        {
+          "name": "Jill Govan",
+          "url": "https://open.spotify.com/artist/66XyaRhb5gOsHZ1nRcCgnk"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247652,
+      "name": "GALAXY",
+      "url": "https://open.spotify.com/track/4McDbvfHPNoV538OQGr5P9"
+    },
+    {
+      "album": {
         "name": "Galaxy",
         "url": "https://open.spotify.com/album/1M6CiP9dTyIJ43Mkg4hoZR"
       },

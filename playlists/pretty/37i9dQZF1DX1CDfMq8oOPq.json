@@ -1,6 +1,6 @@
 {
   "description": "tuuudo conspirando a favor  \ud83c\udf13//  Amanda Sarmento",
-  "num_followers": 101694,
+  "num_followers": 101710,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-06-26 03:01:35",
       "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
-      },
-      "artists": [
-        {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
-    },
-    {
-      "added_at": "2026-06-26 03:01:35",
-      "album": {
         "name": "DISStrato",
         "url": "https://open.spotify.com/album/3CFXQYLTMqCng1dfLH2L9c"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 151570,
       "name": "DISStrato",
       "url": "https://open.spotify.com/track/28iLSNeOLHxGdrTQ9GNeuG"
+    },
+    {
+      "added_at": "2026-06-26 03:01:35",
+      "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
     },
     {
       "added_at": "2026-06-26 03:01:35",
