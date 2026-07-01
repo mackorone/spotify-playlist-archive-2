@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479496,
+  "num_followers": 479521,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABGPI0/O+QawikSnAQUT5UR",
+  "snapshot_id": "akG1gAAAAAA4HuJL4giDll9/1Frv2lEr",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+        "name": "El Primer Ministro (Version Deluxe)",
+        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 164866,
-      "name": "14 Guerras (En Vivo)",
-      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
+      "duration_ms": 159133,
+      "name": "Soy De Durango",
+      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Primer Ministro (Version Deluxe)",
-        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Soy De Durango",
-      "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"
+      "duration_ms": 164866,
+      "name": "14 Guerras (En Vivo)",
+      "url": "https://open.spotify.com/track/6FMBC8EazlnY5qias6mItl"
     },
     {
       "added_at": null,

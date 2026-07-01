@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,768 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,767 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 48 | [Faz A Posição](https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Faz A Posição](https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG) | 2:59 |
 | 49 | [Paga pra Ver](https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw) | [Paga pra Ver](https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8) | 2:12 |
 | 50 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
-| 51 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
-| 52 | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih) | 4:33 |
+| 51 | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Beija\-Fruta \(O Sexo\)](https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih) | 4:33 |
+| 52 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
 | 53 | [temporal](https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [temporal](https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw) | 3:36 |
 | 54 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
 | 55 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |

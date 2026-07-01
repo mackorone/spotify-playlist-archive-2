@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: KIARA
 
-1,487 songs - 3 day 9 hr 8 min
+1,488 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [heaven!](https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [heaven!](https://open.spotify.com/album/6hjlLYPwNxJSDa7AD32Cr7) | 2:47 | 2026-02-26 | 2026-05-01 |
 | [HEAVENFALL](https://open.spotify.com/track/7A9emHuiTyoEBhHMP4d5ml) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL](https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg) | 3:06 | 2024-06-27 | 2024-07-19 |
 | [HEAVENFALL \- Acoustic](https://open.spotify.com/track/2dxAMo7fJ74JraKtPf05tp) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL \(Acoustic\)](https://open.spotify.com/album/5tQvRkJMFU1qZWV2PYZiG6) | 3:04 | 2024-06-27 | 2024-07-27 |
+| [Heavenly Father](https://open.spotify.com/track/3dX9WPcdo9QSYEawNKO1DZ) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Heavenly Father](https://open.spotify.com/album/1oJaQHsPmciUxQPjpa8fQF) | 4:41 | 2026-07-01 |  |
 | [Hell For Leather](https://open.spotify.com/track/0SjZvHUyGs4Puf61JtQWz3) | [Rose Tinted Press](https://open.spotify.com/artist/3FTUadOZbGZAtGI2XWVUhV), [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Hell For Leather](https://open.spotify.com/album/5CUqYyZI98gEOXa2BZADoJ) | 4:07 | 2025-10-03 | 2025-11-14 |
 | [Her Love Is Mine](https://open.spotify.com/track/4L6lajKKCP869ZCPB34p9O) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Her Love Is Mine](https://open.spotify.com/album/2qB7skF4nDqdQsieTZmZb4) | 2:46 | 2026-01-15 | 2026-03-20 |
 | [Here](https://open.spotify.com/track/3CY82bx4vWzF7YUe5ZGDTY) | [Joel Quintis](https://open.spotify.com/artist/3q11dOe2pSvKVQlr4XTMmH) | [Here](https://open.spotify.com/album/4YEfQZbJgvPyvMoF7Ps3g6) | 2:23 | 2025-05-22 | 2025-06-13 |

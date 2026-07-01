@@ -4523,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "INNER SYNC",
+        "url": "https://open.spotify.com/album/5eTI6gucXOgrnMjbBMgUm2"
+      },
+      "artists": [
+        {
+          "name": "AVYSS",
+          "url": "https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC"
+        },
+        {
+          "name": "Kuyuru",
+          "url": "https://open.spotify.com/artist/0r0X62o6j7jbo5ZU4qZf52"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317600,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/3rVfB9e594HMyM6IRE9oui"
+    },
+    {
+      "album": {
         "name": "Internet Teenage Lover",
         "url": "https://open.spotify.com/album/1wF9osW6gyGBiUzdWQIIUK"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,673 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,723 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 50 | [THE SCIENTIST](https://open.spotify.com/track/7EqpD4HNExBWBfGDIvODr6) | [Ayce Bio](https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI) | [THE SCIENTIST](https://open.spotify.com/album/3dNUiOGMmL67IqxH2LWf37) | 2:22 |
 | 51 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 52 | [jeans](https://open.spotify.com/track/6C2nVSSeXNqfoY8t6tliZ4) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [jeans](https://open.spotify.com/album/7ANu2uI0FVnoQnQsrSiVcO) | 3:01 |
-| 53 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 |
-| 54 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
+| 53 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
+| 54 | [Catharina](https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Catharina](https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc) | 3:27 |
 | 55 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
 | 56 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 57 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 61 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 62 | [ESTA NOCHE](https://open.spotify.com/track/3ThLp7YS0F2rWHJaiNDLdy) | [sma$her](https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx) | [ESTA NOCHE](https://open.spotify.com/album/0O3WmqDoq6fBFQLFHvyNhA) | 1:08 |
 | 63 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
-| 64 | [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 |
+| 64 | [Butterfly 2026](https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly 2026](https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9) | 2:44 |
 | 65 | [oknottobeok](https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh) | 3:24 |
-| 66 | [Butterfly 2026](https://open.spotify.com/track/1DznCjR8ml1o2j2bEG5kN6) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly 2026](https://open.spotify.com/album/1lwNp8Fmtac2FTiI1fh3w9) | 2:44 |
+| 66 | [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 |
 | 67 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 68 | [XOXO](https://open.spotify.com/track/0LIEtliIARSvMc5niYy0OX) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/6Y6XreGMhHRm3FIqHYjGXF) | 1:51 |
 | 69 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |

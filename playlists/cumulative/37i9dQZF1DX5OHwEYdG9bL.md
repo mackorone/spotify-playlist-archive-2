@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: BTS\) \(Enjoy a playlist of songs that support music video features!\)
 
-252 songs - 13 hr 48 min
+256 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Baby, Honey](https://open.spotify.com/track/4aScgS59UgkUjZsnYYfGHT) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/53YWR2QYfULvJSuh2FOJSC) | 2:30 | 2026-03-20 |  |
 | [Back to Life](https://open.spotify.com/track/25McmaHvco0apX3blisYct) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/3jv3vrNtHF2fVMSJOS03RO) | 4:26 | 2025-12-03 |  |
 | [Back to Life](https://open.spotify.com/track/77ooqrLCZf4BNv3IroN49X) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/3KEEBXaOJPzdBj6adRlMIw) | 4:26 | 2025-12-03 |  |
+| [BAD](https://open.spotify.com/track/3SVX3EEHoia0DQLMTqBl4A) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD](https://open.spotify.com/album/0PtWbP7Km50SmLKTKwToEi) | 3:45 | 2026-06-30 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/2NXIhvX7tEhHjRXi7zhhs0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/1nOX4L5b6lCKfexhZU8ZND) | 2:46 | 2025-07-15 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/3c8XJaxue3pvT2bq0W6cna) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/7sidGuLHbrH2Vug76JRo26) | 2:46 | 2025-07-15 |  |
 | [BBUU!](https://open.spotify.com/track/2eRPvAVimwqU0LTIBPNlut) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [BBUU!](https://open.spotify.com/album/40NtdpmgyeLNRR6SGksIIb) | 2:58 | 2025-12-03 |  |
@@ -196,8 +197,11 @@
 | [REDRED](https://open.spotify.com/track/50Zyos50vXSPAx4OrzRneI) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/1bM2llz1kxKJRmYxWuEbbS) | 3:24 | 2026-04-25 |  |
 | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/track/3Sm48IuOVGZQC6uHCrMMcU) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED \(Conceptual Performance Film\)](https://open.spotify.com/album/7JCDz05dMWeVTZV4J7USnk) | 2:44 | 2026-04-25 |  |
 | [Rich Man](https://open.spotify.com/track/2stuLR7ix3QFg5XQbC6CoW) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man](https://open.spotify.com/album/2bvecqTmvOzEL8VnzlI6gJ) | 3:29 | 2025-10-24 |  |
+| [Ride or Die](https://open.spotify.com/track/5IPiIPBRzHnaSBe2ClEwLU) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [Ride or Die](https://open.spotify.com/album/7a2githGn9efS8nN1xLh7I) | 2:22 | 2026-06-30 |  |
 | [RUDE!](https://open.spotify.com/track/1G4U1zoIdkKaGFLzJ3autY) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/43AUpx51ume5mvtbnafghd) | 3:35 | 2026-02-27 |  |
+| [RUN IT](https://open.spotify.com/track/3to7XtEBfofsixyfEY1Z53) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/0VsTkduwip5mwOw4icKzXW) | 3:48 | 2026-06-30 |  |
 | [Running Wild](https://open.spotify.com/track/5QM9uyKvDfAAH1lRSdAyIY) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Running Wild](https://open.spotify.com/album/1kVFc1BCTKDjOktEXwNbUK) | 3:15 | 2025-07-15 | 2025-08-20 |
+| [Say It](https://open.spotify.com/track/6g2KX4JYuOUeyMZtBtMO1q) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/25mGXpqyhYIh8uPgFo9iK2) | 3:23 | 2026-06-30 |  |
 | [Sensitive](https://open.spotify.com/track/5Ukal3E7V4mnm6tsJDhzji) | [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Sensitive](https://open.spotify.com/album/2rI3sHX3ODdxoWjLsk7jqY) | 3:12 | 2025-08-13 |  |
 | [ShaLala](https://open.spotify.com/track/3UvBnrsBR9f9cMuQiKwuEc) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [ShaLala](https://open.spotify.com/album/7mdeEX98Eio0vM7j55rAEy) | 3:02 | 2025-07-15 | 2025-08-20 |
 | [SHEESH](https://open.spotify.com/track/3vGBGg4FkqYIdcZnbyENWW) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SHEESH](https://open.spotify.com/album/4I0MmN4GLDYNv8uLsYa997) | 3:05 | 2025-07-15 | 2025-08-20 |

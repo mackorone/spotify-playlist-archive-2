@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1501886,
+  "num_followers": 1501772,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Milk Box",
-        "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
-      },
-      "artists": [
-        {
-          "name": "Romero Ferro",
-          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        }
-      ],
-      "duration_ms": 261256,
-      "name": "Verdadeiro Amor - Studio Sessions",
-      "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "Capim-Cidreira (Infus\u00e3o)",
         "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 174706,
       "name": "Rei do Luau - Infus\u00e3o",
       "url": "https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Milk Box",
+        "url": "https://open.spotify.com/album/0NJn5bUXyBhRXIzdI3Qd3Z"
+      },
+      "artists": [
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        }
+      ],
+      "duration_ms": 261256,
+      "name": "Verdadeiro Amor - Studio Sessions",
+      "url": "https://open.spotify.com/track/4mbI71cdIBaXLzswdAlEoV"
     },
     {
       "added_at": "2026-05-29 03:00:27",

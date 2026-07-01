@@ -6710,7 +6710,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 122763,
       "name": "Bez pokoju",
       "url": "https://open.spotify.com/track/2n5ZbIp73chEOuXOJrfkOX"
@@ -28783,6 +28783,28 @@
     },
     {
       "album": {
+        "name": "Nie dla wszystkich",
+        "url": "https://open.spotify.com/album/2awboAOCpvqxoPYy7FmVqQ"
+      },
+      "artists": [
+        {
+          "name": "Majki",
+          "url": "https://open.spotify.com/artist/3e8V8NqZf6jsUjDEI6rwst"
+        },
+        {
+          "name": "Major SPZ",
+          "url": "https://open.spotify.com/artist/5iM4dDbBN6a4OqxKPuxgS6"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Kwadrat",
+      "url": "https://open.spotify.com/track/3sQgGP1r24Jw0CRHFpxgkz"
+    },
+    {
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -44872,7 +44894,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 181600,
       "name": "POLSKA VIXA",
       "url": "https://open.spotify.com/track/3r0Kd9oCcar7dmTyhVNqF7"
@@ -54100,7 +54122,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"

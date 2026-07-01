@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sukha & Tanu Grewal
 
-1,180 songs - 2 day 15 hr 37 min
+1,181 songs - 2 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Chunni](https://open.spotify.com/track/2vZ7SA9jkaV3JqHiQKdoEA) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp) | [Chitti Chunni](https://open.spotify.com/album/4Kq3o0uXjaBiyMtFx2IX0L) | 3:50 | 2022-03-08 | 2022-04-06 |
 | [Close](https://open.spotify.com/track/0MpMnxzwiF4dfzDwrd21MI) | [Saheb](https://open.spotify.com/artist/2ShbFK8mw2wWXf0EkD36ch) | [Close](https://open.spotify.com/album/0O9YcekE4hqY003nZQ9W3b) | 3:21 | 2022-05-05 | 2022-05-11 |
 | [Closer](https://open.spotify.com/track/14kDPgrfj2jv6z4FmAZd4Q) | [Anirudh Sharma](https://open.spotify.com/artist/4lMtdJMEHNQok5YLbgUBEz) | [Closer](https://open.spotify.com/album/0b5hxi1Nqhy6Qq0EnlYqVJ) | 3:59 | 2022-08-17 | 2022-09-01 |
+| [Coffee](https://open.spotify.com/track/5CNSivEohUlVq9bd10y3pn) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Coffee](https://open.spotify.com/album/05mO6VNsgSVF5xQRsnpa3I) | 2:44 | 2026-06-30 |  |
 | [Compliment](https://open.spotify.com/track/0n2XEbw2Aie9srJZy51QME) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Compliment](https://open.spotify.com/album/2O9XAe0dQhYoQof89amZH6) | 3:29 | 2025-07-09 |  |
 | [Connection](https://open.spotify.com/track/12iksVmCMQzkwNyoNwZkXj) | [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Harinder Samra](https://open.spotify.com/artist/3DW8E00HNAKSAjy9uK3dAA) | [Connection, Vol.1](https://open.spotify.com/album/026NTTddiAuFbp2oynZnIN) | 2:19 | 2022-11-28 | 2023-01-28 |
 | [Conversation](https://open.spotify.com/track/169eHrJhaAKOPJJoda2Pgz) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Conversation](https://open.spotify.com/album/1AvCpygMn5bSEGm4kTqywo) | 3:22 | 2022-04-06 | 2022-05-11 |
@@ -495,7 +496,7 @@
 | [Kaleere](https://open.spotify.com/track/2D9LdMmol21XwsRlK0NYqb) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr) | [Kaleere](https://open.spotify.com/album/0pun4uoQVC6dAhqiHIBHRj) | 2:58 | 2022-12-16 | 2023-02-02 |
 | [Kall Parso](https://open.spotify.com/track/0vC43cySi6pPkgzBNaxtaQ) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse) | [6G](https://open.spotify.com/album/53T9VzK1lc0Psa4tiAzLtb) | 3:29 | 2022-11-07 | 2022-12-16 |
 | [Kalla Kalla Saah](https://open.spotify.com/track/7klr8SGVz5lVMv8GWqnpjW) | [Gurshabad](https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [Kalla Kalla Saah](https://open.spotify.com/album/0cGHHptx4NLfqVmlJAzLEK) | 3:25 | 2022-12-02 | 2023-02-02 |
-| [Kalla Kalla Taara](https://open.spotify.com/track/6qrZ6fu864a4lB0LXhxdbY) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Kalla Kalla Taara](https://open.spotify.com/album/0UVhcHIqIDQFyrcsSt9Vuo) | 3:25 | 2026-06-14 |  |
+| [Kalla Kalla Taara](https://open.spotify.com/track/6qrZ6fu864a4lB0LXhxdbY) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Kalla Kalla Taara](https://open.spotify.com/album/0UVhcHIqIDQFyrcsSt9Vuo) | 3:25 | 2026-06-14 | 2026-07-01 |
 | [Kamaal](https://open.spotify.com/track/45nICJyXtqNMX7PvaTrwkV) | [Sandeep Gill](https://open.spotify.com/artist/1TinCcjEkSRXW0JLygRjJQ) | [Ambition](https://open.spotify.com/album/7p9YsHtwxhJPCtLRuJ9mR0) | 3:53 | 2022-05-31 | 2022-07-06 |
 | [Kamaal Ho Gea](https://open.spotify.com/track/7Ja3egkluF7BuxEIhSYdvu) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Kamaal Ho Gea](https://open.spotify.com/album/5CC1wvdf4kTeBlS6yBDOmj) | 4:56 | 2022-01-10 | 2022-05-20 |
 | [Kami](https://open.spotify.com/track/2k4ncNHZXjOmfu9Gcy4sI9) | [Masha Ali](https://open.spotify.com/artist/3xPUYrDgDJb1lQ17YYwcfd) | [Kami](https://open.spotify.com/album/6rEnRPUy1MPXqp6WDP4b3G) | 4:01 | 2022-06-30 | 2022-07-06 |

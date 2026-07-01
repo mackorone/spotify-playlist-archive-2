@@ -14192,7 +14192,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 166586,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/1NMfL64fnNv94W3RpsE8aK"
@@ -15902,7 +15902,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -21912,7 +21912,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 240753,
       "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
       "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
@@ -23858,7 +23858,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 217720,
       "name": "\u591a\u9060\u90fd\u8981\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8"
@@ -27366,7 +27366,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -30532,7 +30532,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 224142,
       "name": "\u8ddf\u8457\u611f\u89ba\u8d70",
       "url": "https://open.spotify.com/track/4wEiSpoJlHu4iWE3m5AK9H"
@@ -30590,6 +30590,24 @@
       "duration_ms": 326853,
       "name": "\u8ecc\u8de1",
       "url": "https://open.spotify.com/track/4KENiBmHZ4cxn1KcK5TShe"
+    },
+    {
+      "album": {
+        "name": "\u8f15\u8f15 (Ultimate Collection)",
+        "url": "https://open.spotify.com/album/5FuVQYtZd50abo28wowwNi"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5afa\u975c",
+          "url": "https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212088,
+      "name": "\u8f15\u8f15 (Original)",
+      "url": "https://open.spotify.com/track/1G6oFGVf2BoXfmKruxSSRb"
     },
     {
       "album": {
@@ -31172,7 +31190,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 271493,
       "name": "\u958b\u59cb\u61c2\u4e86",
       "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"

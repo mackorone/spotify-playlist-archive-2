@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/0PtWbP7Km50SmLKTKwToEi"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225578,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/3SVX3EEHoia0DQLMTqBl4A"
+    },
+    {
+      "album": {
         "name": "Bad Desire (With or Without You)",
         "url": "https://open.spotify.com/album/1nOX4L5b6lCKfexhZU8ZND"
       },
@@ -3461,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/7a2githGn9efS8nN1xLh7I"
+      },
+      "artists": [
+        {
+          "name": "EVAN",
+          "url": "https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142089,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/5IPiIPBRzHnaSBe2ClEwLU"
+    },
+    {
+      "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/43AUpx51ume5mvtbnafghd"
       },
@@ -3479,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/0VsTkduwip5mwOw4icKzXW"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/3to7XtEBfofsixyfEY1Z53"
+    },
+    {
+      "album": {
         "name": "Running Wild",
         "url": "https://open.spotify.com/album/1kVFc1BCTKDjOktEXwNbUK"
       },
@@ -3494,6 +3548,24 @@
       "duration_ms": 195136,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/5QM9uyKvDfAAH1lRSdAyIY"
+    },
+    {
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/25mGXpqyhYIh8uPgFo9iK2"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203562,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/6g2KX4JYuOUeyMZtBtMO1q"
     },
     {
       "album": {

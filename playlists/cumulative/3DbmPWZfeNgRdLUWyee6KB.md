@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,235 songs - 2 day 23 hr 52 min
+1,240 songs - 3 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Coming on Too Strong](https://open.spotify.com/track/5CIfISXBoPboo4otAbYT2A) | [Cael Dadian](https://open.spotify.com/artist/46jXUfvQSM7aDYDv7YadFU), [Grace Marie Glenn](https://open.spotify.com/artist/4MX6ZaxWVv7ucry2Ln7qSS) | [Coming on Too Strong](https://open.spotify.com/album/7BOClUiiGklgrRkN4aECsV) | 2:49 | 2026-06-11 |  |
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 | 2026-01-15 |
 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 | 2026-04-07 | 2026-05-03 |
+| [Contromano](https://open.spotify.com/track/4aWtfu4zFHETjfGmDWHwCY) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:17 | 2026-06-30 |  |
 | [Cool](https://open.spotify.com/track/0lEyuxEtiz90tgC542d3Iz) | [Tim Allan](https://open.spotify.com/artist/1PAvHNGevlHvYXRC5JityS) | [Not the Bad Boy](https://open.spotify.com/album/4fHVgR7PMm8nO8FPpaxIx1) | 2:45 | 2026-06-19 |  |
 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 | 2026-03-03 | 2026-03-25 |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2026-03-30 | 2026-05-03 |
@@ -322,6 +323,7 @@
 | [Fade \- Remix](https://open.spotify.com/track/376ImRIk78DYFiY03n7s8L) | [GRAMZ NFT](https://open.spotify.com/artist/2W3A0iYZ114bkHssTcl3Cr) | [Blues & Rhythms](https://open.spotify.com/album/7w3z8FgUCAoXFLtGUHHcVG) | 2:47 | 2026-04-16 | 2026-05-14 |
 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 | 2026-03-11 | 2026-04-12 |
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-09 | 2026-01-05 |
+| [Falling In Love \(Pop Version\)](https://open.spotify.com/track/0KaO2d6SjeICD58unNz9dd) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling In Love \(Pop Version\)](https://open.spotify.com/album/5rIGxGR4QNlJF2gtoXR8rW) | 2:04 | 2026-06-30 |  |
 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 | 2025-12-04 | 2026-01-05 |
 | [Falling Overboard](https://open.spotify.com/track/6AfWBqiJuRf4dlphj8lshD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Falling Overboard](https://open.spotify.com/album/7jELmunE3P5jU0JmzF0EcG) | 2:33 | 2025-09-23 | 2025-12-21 |
 | [False Prophet](https://open.spotify.com/track/3wE5xlV9u7L91aa7KfknwG) | [Holy Island](https://open.spotify.com/artist/4mDskLBS4JOyI52mzQ9H5m) | [False Prophet](https://open.spotify.com/album/29bErY1NGaYrHjmNIMvX7x) | 4:10 | 2026-05-01 | 2026-06-05 |
@@ -804,6 +806,7 @@
 | [Photographs](https://open.spotify.com/track/3IKbxWwUD73DWsEnC7JpMt) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Photographs](https://open.spotify.com/album/73mMrzIKfiutjKbQjCFfFi) | 6:06 | 2025-11-24 | 2026-01-05 |
 | [Pick a Side](https://open.spotify.com/track/6B4NPK1kymjumXhnJisVdP) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Pick a Side](https://open.spotify.com/album/1VBR04V2BOLxpeZLDaDw3f) | 2:52 | 2026-03-02 | 2026-03-25 |
 | [Pick Up The Phone](https://open.spotify.com/track/0qtiw8duA3223Ra48ORunD) | [Hard To Miss](https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR) | [Pick Up The Phone](https://open.spotify.com/album/6p9rLyli7GEmQvEdr20MT9) | 4:25 | 2026-01-28 | 2026-02-28 |
+| [Piece it All Together](https://open.spotify.com/track/57bUSMKc2qXs5YaSAr3v5B) | [sye](https://open.spotify.com/artist/5dEiL3I7NaBoztJwTW57Eu), [hostile](https://open.spotify.com/artist/6L2LCvRvTnMqleBeyQjNWW) | [Piece it All Together](https://open.spotify.com/album/5yKiMqbs4V121dElzcyTEZ) | 3:36 | 2026-06-30 |  |
 | [Pierdo el Control](https://open.spotify.com/track/3C0bku6a2HSE7D7SdR1h0r) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Cuerdas Nocturnas](https://open.spotify.com/album/1HZmIA87i8LsruJ1rSglCC) | 2:49 | 2026-04-07 | 2026-05-03 |
 | [Pink Harmonie](https://open.spotify.com/track/6ORBa7ahuoNpXF9RCDELtM) | [Dominique Swerts](https://open.spotify.com/artist/38JCflyUOnNkNJKJU7D9CE) | [No Rush](https://open.spotify.com/album/0aDtHXEXNUtCjpHBbS8BR5) | 4:10 | 2026-05-27 |  |
 | [pink lighter](https://open.spotify.com/track/27Q0loZ8fo0EaRKjSKLEkz) | [violet eve](https://open.spotify.com/artist/5JziLUitDN8xU6TufJEmhz) | [pink lighter](https://open.spotify.com/album/59rTYZ1wQAaHaPTFNimomy) | 2:16 | 2025-08-26 | 2025-11-29 |
@@ -1124,6 +1127,7 @@
 | [UH HUH](https://open.spotify.com/track/5wufjtva81eRadg2fEgVzt) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 4:25 | 2026-02-08 | 2026-03-25 |
 | [Ultraviolet GT](https://open.spotify.com/track/3Gx9KqZzJWYKsZorL9VTNW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 3:28 | 2026-04-19 | 2026-06-05 |
 | [Un dia más](https://open.spotify.com/track/5CoArSA5E3RF9oCC8rre89) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Un dia más](https://open.spotify.com/album/1OLDwFDUrKgP5pEItqi2bj) | 3:27 | 2026-05-05 | 2026-06-05 |
+| [Un Gringo Tonto \- Aceleró](https://open.spotify.com/track/0JeEMvyeweVd1BCECBYXKS) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Speedy Boy](https://open.spotify.com/album/5Qa1vozoeYtdDbiXYzfEPo) | 2:08 | 2026-06-30 |  |
 | [Un'altra lacrima](https://open.spotify.com/track/7Dhz8HBG6kELvHBxrvrIvB) | [Aranini](https://open.spotify.com/artist/6Kj7garqqGAHTTJ1hPiKid), [Bruggio](https://open.spotify.com/artist/07I8xA92ygY3jQMthS2hcu) | [Un'altra lacrima](https://open.spotify.com/album/6QOZ48cHPFvruAI8kvyu1m) | 3:03 | 2026-02-11 | 2026-03-15 |
 | [Una Volta Sola](https://open.spotify.com/track/3bJeBzbGUQfTEyAyeYQtKV) | [Cabi Jr](https://open.spotify.com/artist/2bDwLhQgYUDqaqSOobCPh2) | [Una Volta Sola](https://open.spotify.com/album/09KVL9lKEndRLy72CL0f4I) | 2:47 | 2026-05-27 |  |
 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 | 2026-01-18 | 2026-02-20 |
@@ -1221,6 +1225,7 @@
 | [You Can Do the Same](https://open.spotify.com/track/2RZMibMFWns4SQhrUSqSyI) | [Cuppa' Joe](https://open.spotify.com/artist/3eMMjC1LbVq0XVxcAs43YD) | [You Can Do the Same](https://open.spotify.com/album/2cvKWCsF6EO2m5HgPclPyO) | 3:14 | 2025-12-15 | 2026-01-15 |
 | [You fill my life](https://open.spotify.com/track/3mfd2t6gCPVT4EPTshodMW) | [Debora Gioè](https://open.spotify.com/artist/6C9jZZoxXCFasaJ989cQyd) | [You fill my life](https://open.spotify.com/album/2QHcqrhbL3napTYSiPdBWI) | 3:23 | 2026-06-02 |  |
 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-05 | 2026-01-15 |
+| [You Only Live Once](https://open.spotify.com/track/78ZUdJY596WjWnlO2rrf1H) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [You Only Live Once](https://open.spotify.com/album/7A3KnD5zWY1u4obrLVdN5f) | 3:43 | 2026-06-30 |  |
 | [YOU SHOULD KNOW](https://open.spotify.com/track/0sPPHtsOUhgGZP7vC366rP) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [YOU SHOULD KNOW](https://open.spotify.com/album/4CkIrQzgFRTE1aNK1kJB0V) | 2:23 | 2026-01-15 | 2026-02-20 |
 | [You're Enough](https://open.spotify.com/track/4K9nHbzFfyKHzLwmnqZ3R2) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [You're Enough](https://open.spotify.com/album/6nuTX1CU4L6odrF1OgUrMF) | 2:19 | 2026-06-09 |  |
 | [You're Leaving](https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Andrea Pullone](https://open.spotify.com/artist/5qu2na5lSZrhmvL8OtvUks), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [You're Leaving](https://open.spotify.com/album/4q1tPf6cWNrKRPAMKa70WD) | 3:47 | 2025-10-23 |  |

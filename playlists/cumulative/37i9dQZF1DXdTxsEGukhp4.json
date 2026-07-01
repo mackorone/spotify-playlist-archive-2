@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u697d\u97f3",
+  "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: SUPER BEAVER",
   "name": "Buzz Tracker #\u30d0\u30ba\u30c8\u30e9",
   "tracks": [
     {
@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 163750,
       "name": "mosi mosi? - Korean ver.",
       "url": "https://open.spotify.com/track/69GBglAPVNImTzGiklvZjA"
@@ -6988,7 +6988,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 184800,
       "name": "\u304a\u8fd4\u4e8b\u307e\u3060\u30ab\u30ca\uff1f\u304a\u3058\u3055\u3093\u69cb\u6587\uff01 (feat. \u96e8\u8863)",
       "url": "https://open.spotify.com/track/3MDuA12HzorT65LovtOMKr"
@@ -8104,6 +8104,24 @@
       "duration_ms": 318762,
       "name": "\u30ad\u30ea\u30a8\u30fb\u6190\u308c\u307f\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f",
+        "url": "https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260079,
+      "name": "\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P"
     },
     {
       "album": {
@@ -9435,6 +9453,24 @@
     },
     {
       "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/1K2r7X50UbIsSC0bdhlvdc"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "\u4eba\u3068\u3057\u3066",
+      "url": "https://open.spotify.com/track/5sCLe2F8qkAIUtTORsnjpE"
+    },
+    {
+      "album": {
         "name": "\u4eca\u65e5\u3060\u3051 I LOVE YOU (Japanese Ver.)",
         "url": "https://open.spotify.com/album/60xOAemKnuMAHORMZofpcN"
       },
@@ -10558,7 +10594,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 214627,
       "name": "\u660e\u65e5\u306e\u79c1\u306b\u5e78\u3042\u308c",
       "url": "https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke"
@@ -10940,6 +10976,24 @@
       "duration_ms": 162914,
       "name": "\u793e\u4f1a\u306e\u30b4\u30df\u30ab\u30b6\u30de\u30bf\u30ab\u30d5\u30df",
       "url": "https://open.spotify.com/track/72sYT21EAMIAKRVkJ6svqV"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30e9\u30f4\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "\u7a81\u7834\u53e3",
+      "url": "https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW"
     },
     {
       "album": {

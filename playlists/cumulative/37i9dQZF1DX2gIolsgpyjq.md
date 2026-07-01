@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Clutter
+> The best new music by independent artists in the Nordics\. Cover: Kelly No Brakes
 
-1,657 songs - 3 day 15 hr 7 min
+1,660 songs - 3 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [A Little Too Real](https://open.spotify.com/track/49OPnSiQqtCF8Yz7YdOhGD) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [FREAK](https://open.spotify.com/album/3SqXo3XcVunYmwUTNRIlUv) | 2:47 | 2025-01-02 | 2025-02-07 |
 | [A Mother's Touch](https://open.spotify.com/track/36QR24ko74w3ZZ6RbHjJjb) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [A Mother's Touch](https://open.spotify.com/album/2xKU9gBYRXTOLaVJdYDGJv) | 2:57 | 2024-03-07 | 2024-04-26 |
 | [a second](https://open.spotify.com/track/42bZLdDCYPTvWoXPiSxrTc) | [Lavender Blu](https://open.spotify.com/artist/19sfPqgN1yp0YbZpzN6BEr), [Rachel Gonzalez](https://open.spotify.com/artist/63VWVmNJRT50AnblZm24U7), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [a second](https://open.spotify.com/album/3F624um7lJklR0L9xLzi6X) | 3:16 | 2025-03-06 | 2025-04-11 |
-| [A Stitch For Grand Affairs](https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [A Stitch For Grand Affairs](https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx) | 3:01 | 2026-04-14 |  |
+| [A Stitch For Grand Affairs](https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [A Stitch For Grand Affairs](https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx) | 3:01 | 2026-04-14 | 2026-07-01 |
 | [ABOUT YOU](https://open.spotify.com/track/0r0QzIYzJiOveIUWnRGXjU) | [Julian Hall](https://open.spotify.com/artist/0hFYvKvXCBlrnTghqcm9Lj) | [ABOUT YOU](https://open.spotify.com/album/6KJV5yel4I60lYBmMvylBL) | 2:29 | 2025-01-02 | 2025-02-14 |
 | [About You](https://open.spotify.com/track/47ys2BoQL7cwWtPyYIlIE7) | [Regina Amado](https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5) | [About You](https://open.spotify.com/album/5Uzw8ZhZEfpkUzvy6GY2sw) | 2:39 | 2025-09-18 | 2025-11-14 |
 | [Acid Island 45](https://open.spotify.com/track/2NAap7hg4WFqVHbp8bNGfO) | [Kindsight](https://open.spotify.com/artist/69INXmdJGXIPAZQuThqRjw) | [Acid Island 45](https://open.spotify.com/album/093IjFAwne2RIarSPLzrpX) | 2:11 | 2024-03-14 | 2024-06-01 |
@@ -754,7 +754,7 @@
 | [Insecure \(feat\. Larrenwong\)](https://open.spotify.com/track/3YmMIOWKbriddl4VxknSw2) | [STEPH](https://open.spotify.com/artist/1R2fKqz7jiie5ZyElTecre), [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Insecure \(feat\. Larrenwong\)](https://open.spotify.com/album/6ac19u2pqOB8ZJD5dAR1c8) | 3:32 | 2025-02-06 | 2025-03-21 |
 | [Intense](https://open.spotify.com/track/1ePMoEf4mcl8FmTxpyi6qX) | [M Rosenbaum](https://open.spotify.com/artist/5p7dnAi92CdaxxbWQkjRyt) | [Intense](https://open.spotify.com/album/1cLlT9nitfVfxMVCLVtxwh) | 2:54 | 2025-02-27 | 2025-03-28 |
 | [Interstellar](https://open.spotify.com/track/3gEu8hQn94HveUMkDoy1yB) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [XO EGO](https://open.spotify.com/album/2hTNlvPOVJN02vIdtrk1Zr) | 3:06 | 2024-04-04 | 2024-05-24 |
-| [into you](https://open.spotify.com/track/12DbIjfgIVgGx1I2jjKgMO) | [muuk](https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F) | [into you](https://open.spotify.com/album/6xDBySKhGeQ2dBhzPV09yL) | 2:35 | 2026-04-21 |  |
+| [into you](https://open.spotify.com/track/12DbIjfgIVgGx1I2jjKgMO) | [muuk](https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F) | [into you](https://open.spotify.com/album/6xDBySKhGeQ2dBhzPV09yL) | 2:35 | 2026-04-21 | 2026-07-01 |
 | [introvert](https://open.spotify.com/track/4BEgC8E3yuE8nmevDUNbMK) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [introvert](https://open.spotify.com/album/54HHjKn4JFZJhkOiG7z4v7) | 2:32 | 2025-04-17 | 2025-05-23 |
 | [Is This Real Love](https://open.spotify.com/track/6NTukeIafDUeYPzJdcu7AM) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM), [Vincent & Jules](https://open.spotify.com/artist/7hM7HvhHXLCydzgR24VqP9) | [Is This Real Love](https://open.spotify.com/album/5aG8nRt1EPYyrO2UNo6oIA) | 3:02 | 2024-07-25 | 2024-09-06 |
 | [iskall](https://open.spotify.com/track/27DCmU21u68FLJo1GXFrUp) | [A Himitsu](https://open.spotify.com/artist/2OWBve72RIOOqOmydsasPz) | [iskall](https://open.spotify.com/album/5xRvsxC9ko10aCqYNAhrFz) | 3:45 | 2025-02-20 | 2025-03-14 |
@@ -948,6 +948,7 @@
 | [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Miranda](https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4) | 2:49 | 2025-10-30 | 2026-02-20 |
 | [Mirror](https://open.spotify.com/track/4y6tduyVsVIkMjuwJYLmz2) | [Sally F](https://open.spotify.com/artist/3W1oOTi2VTBprsvw6IWVe4) | [Mirror](https://open.spotify.com/album/5IwgOIrLulRYrAZvLmSlHJ) | 2:51 | 2025-10-23 | 2026-02-06 |
 | [mirror song](https://open.spotify.com/track/2Ds4H4rHq6Sy56Kn8O94In) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [mirror song](https://open.spotify.com/album/2k3DL7ctpQLvY74dmD4i6k) | 2:07 | 2025-11-27 | 2026-03-20 |
+| [Miscommunication](https://open.spotify.com/track/1Iufyww7vBObAq95TsleLn) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [Miscommunication](https://open.spotify.com/album/0XUJr36WbA7gYBm2HcYpsY) | 4:40 | 2026-06-30 |  |
 | [Misconception](https://open.spotify.com/track/7GAExfw1SSZklMzTwfPDW0) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/1LgTFDtxq0cyXnBEJYjP5U) | 3:33 | 2025-09-18 | 2025-11-14 |
 | [MISS ME](https://open.spotify.com/track/2M4CkwOClFTWSjv5cndkWq) | [Nellie Drené](https://open.spotify.com/artist/2UYVoGUWe4w4ctQvYikm7W) | [MISS ME](https://open.spotify.com/album/6KQqofHnF3ZW6z5rV2kiVQ) | 2:36 | 2025-05-08 | 2025-06-06 |
 | [Miss U](https://open.spotify.com/track/5sJ1xbRFMVUgTy8qLaEHba) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Miss U](https://open.spotify.com/album/2OESSRquRHX18HYGPsIHsq) | 2:41 | 2025-01-16 | 2025-02-28 |
@@ -1231,7 +1232,7 @@
 | [Runrunrunrun](https://open.spotify.com/track/3jqThr5s8GwfpOlCPiLXSQ) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Runrunrunrun](https://open.spotify.com/album/1N15Wlc2sq5iEljPSj9UgI) | 3:38 | 2025-12-31 | 2026-03-20 |
 | [Sacred Scars](https://open.spotify.com/track/0LOb3tEOaMW9Pu6HeQ9bLO) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Sacred Scars](https://open.spotify.com/album/2fW3hwCm8ziEPXasvTvIC8) | 3:11 | 2024-03-07 | 2024-04-26 |
 | [Sad Girl Party Girl](https://open.spotify.com/track/3etoOLDTJYwqwRGbo8YRjq) | [GERILJAPOP](https://open.spotify.com/artist/2LTtjD401W2QShUkzpprCd) | [Sad Girl Party Girl](https://open.spotify.com/album/5vFZiMg9JhnOsgctAiYuYt) | 1:36 | 2025-01-30 | 2025-02-21 |
-| [SAD GIRL SHIT](https://open.spotify.com/track/3xsUT7dSOYxpcLenhpIgGt) | [HEY SOFIA](https://open.spotify.com/artist/6k0Uz20Sl2peuzs2o7mhun) | [SAD GIRL SHIT](https://open.spotify.com/album/3GXGxZ0jVzQb8RlgmTVLVI) | 2:40 | 2026-04-21 |  |
+| [SAD GIRL SHIT](https://open.spotify.com/track/3xsUT7dSOYxpcLenhpIgGt) | [HEY SOFIA](https://open.spotify.com/artist/6k0Uz20Sl2peuzs2o7mhun) | [SAD GIRL SHIT](https://open.spotify.com/album/3GXGxZ0jVzQb8RlgmTVLVI) | 2:40 | 2026-04-21 | 2026-07-01 |
 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 | 2026-04-21 | 2026-06-17 |
 | [Safe and Sound](https://open.spotify.com/track/1rXEgR88Cm8jC28kWI99D8) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Safe and Sound](https://open.spotify.com/album/490fzBpBbQcuEBaOS116Fj) | 3:17 | 2026-04-08 | 2026-06-17 |
 | [Sage](https://open.spotify.com/track/7f4mbgKFT9UWnPAtdGp8gc) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Sage](https://open.spotify.com/album/2ADozOTc5xtC3XGGyGt4aR) | 2:46 | 2024-07-25 | 2024-09-14 |
@@ -1246,6 +1247,7 @@
 | [San Miguel](https://open.spotify.com/track/7pKavYYqM8LAkPgfea6xjp) | [Van Dame](https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC) | [San Miguel](https://open.spotify.com/album/7zTLBnPUtIvvWeUCv4Nxhc) | 3:54 | 2025-01-09 | 2025-02-07 |
 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 | 2024-02-08 | 2024-03-08 |
 | [Sand Castles \- TMI Tammi Remix](https://open.spotify.com/track/0Zfim47YsmdgqxTXcf6Y6w) | [GRETA](https://open.spotify.com/artist/6qcpBIlSWMhas6waVUKCbK), [TMI Tammi](https://open.spotify.com/artist/4S9F9lnFpjsqvCMiBpvsNu) | [Sand Castles \(TMI Tammi Remix\)](https://open.spotify.com/album/6PmdHy3dE0H1NbBmKDPaAK) | 2:21 | 2024-02-22 | 2024-03-22 |
+| [Sarah Jessica Parker](https://open.spotify.com/track/7F2Yl1aIrS57wy0CpfekLN) | [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj) | [Sarah Jessica Parker](https://open.spotify.com/album/5MsgGwZ649JiyQa9b9j6yA) | 4:04 | 2026-06-30 |  |
 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 | 2025-09-25 | 2025-12-04 |
 | [Say Ciao](https://open.spotify.com/track/4vjpJ2eiOJk3ECQAt8CSFc) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Say Ciao](https://open.spotify.com/album/67WSfTA4VUaknSxrnygkUq) | 2:57 | 2025-06-05 | 2025-07-25 |
 | [Say It's Over](https://open.spotify.com/track/2Bld0ECkYEE0Txsgdkp0hA) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Say It's Over](https://open.spotify.com/album/5vTE6chsIaysIXnlqJ22zE) | 2:05 | 2025-03-27 | 2025-04-25 |
@@ -1421,6 +1423,7 @@
 | [Talk](https://open.spotify.com/track/2GUHYcwwBpuEggOhG5LKUF) | [Superslow](https://open.spotify.com/artist/5PktU4ZazJ570kIpzHy7Jw), [Emma Putnam](https://open.spotify.com/artist/3nJrcBmKE26v1Bma1G82rk) | [Talk](https://open.spotify.com/album/0baFOOV1RKpCyGvsaE2SKN) | 3:18 | 2025-04-24 | 2025-05-30 |
 | [TALK TALK](https://open.spotify.com/track/5bym3p060xLsVaAyLKZboG) | [DEEJADE](https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK) | [TALK TALK](https://open.spotify.com/album/7bCddEZYiLDF2sN3Sqdpta) | 2:08 | 2024-10-17 | 2024-11-22 |
 | [Talk To Me](https://open.spotify.com/track/5ZTRxwqNEDMg7itvpIH8aK) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Talk To Me](https://open.spotify.com/album/1wcVXT9boBDEqxOcOkIP6v) | 3:53 | 2025-01-23 | 2025-03-07 |
+| [Talk To The Foot](https://open.spotify.com/track/10PckyDY29m5qRABg7jtAo) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [Talk To The Foot](https://open.spotify.com/album/3JR2ZdSJntgBtwS1zuJRXl) | 3:26 | 2026-06-30 |  |
 | [talking to myself](https://open.spotify.com/track/3hpfQ6IyB0eb4dxTGztLGk) | [rør](https://open.spotify.com/artist/3RRZYrtFAI0ENYz5brpjaf) | [true friends](https://open.spotify.com/album/1gRLzUpEnbeF5Qux7TL4zK) | 2:30 | 2025-06-12 | 2025-08-01 |
 | [Taste For You](https://open.spotify.com/track/1JQsbWWUYg3GH4nmv6YQus) | [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Taste For You](https://open.spotify.com/album/7lvwrHcxTUZyeEy7TjGwwQ) | 3:29 | 2025-07-31 | 2025-09-26 |
 | [Technology](https://open.spotify.com/track/1yQbR35MXXMhF1GpCK8IQI) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Technology](https://open.spotify.com/album/1WMjIoQ9QlCDbNxcxTKDJ7) | 3:20 | 2025-09-11 | 2025-10-31 |

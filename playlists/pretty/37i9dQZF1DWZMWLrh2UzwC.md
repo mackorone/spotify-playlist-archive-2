@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from MASDO, Zynakal, sombr, Gracie Abrams, Benson Boone, Stray Kids, Nadeera,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,256 likes - 117 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,247 likes - 117 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

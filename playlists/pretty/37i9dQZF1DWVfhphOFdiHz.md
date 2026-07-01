@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Jamie Fine
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,680 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,710 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 46 | [Joke's On Me](https://open.spotify.com/track/3GFyLwl2NTYggGoJ6qk84U) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [Joke's On Me](https://open.spotify.com/album/4EFWXnsRVyJ79VFgrS702u) | 3:31 |
 | 47 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 48 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
-| 49 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 |
+| 49 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 4:59 |
 | 50 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 |
 | 51 | [Dog](https://open.spotify.com/track/7EhOrPGj3Tfc4CPoDiA8rl) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Gentleman](https://open.spotify.com/album/1I82HtlqS1Fdb6zp7R0deo) | 3:08 |
 | 52 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 |

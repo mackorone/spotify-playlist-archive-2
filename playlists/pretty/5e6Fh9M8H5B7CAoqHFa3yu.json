@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 343,
+  "num_followers": 342,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKQsoqtF4YNY1TaiAlke6zOfWuKMCo",
+  "snapshot_id": "AAAKRMhgYg/UUfhlxs4nYGWyKpOfGsPL",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -41155,6 +41155,38 @@
       "duration_ms": 160003,
       "name": "TRY ME",
       "url": "https://open.spotify.com/track/0CavuOdspBDRkBXhEP6UMH"
+    },
+    {
+      "added_at": "2026-06-30 08:27:16",
+      "album": {
+        "name": "Como nuevo",
+        "url": "https://open.spotify.com/album/2yePXIFjQ7in7kDhb96zEA"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal",
+          "url": "https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r"
+        }
+      ],
+      "duration_ms": 182804,
+      "name": "Como nuevo",
+      "url": "https://open.spotify.com/track/03NRpkZhScby10Vs3eueuw"
+    },
+    {
+      "added_at": "2026-06-30 14:40:03",
+      "album": {
+        "name": "Leggera",
+        "url": "https://open.spotify.com/album/6830m8vrvafqg1U3wi1ktW"
+      },
+      "artists": [
+        {
+          "name": "SAM D",
+          "url": "https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr"
+        }
+      ],
+      "duration_ms": 167701,
+      "name": "Leggera",
+      "url": "https://open.spotify.com/track/1DBVYfntIhxnP3Id67tw62"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

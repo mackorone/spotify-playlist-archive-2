@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Nduduzo Makhathini",
-  "num_followers": 13935,
+  "num_followers": 13943,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -711,30 +711,6 @@
     {
       "added_at": "2026-06-25 22:02:00",
       "album": {
-        "name": "Water from an Ancient Well",
-        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Ibrahim",
-          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
-        },
-        {
-          "name": "Noah Jackson",
-          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
-        },
-        {
-          "name": "Cleave Guyton Jr.",
-          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
-        }
-      ],
-      "duration_ms": 244278,
-      "name": "Water from an Ancient Well - Single Edit",
-      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
-    },
-    {
-      "added_at": "2026-06-25 22:02:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2026-06-25 22:02:00",
+      "album": {
+        "name": "Water from an Ancient Well",
+        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+        },
+        {
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
+        }
+      ],
+      "duration_ms": 244278,
+      "name": "Water from an Ancient Well - Single Edit",
+      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
     },
     {
       "added_at": "2026-06-25 22:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 
 > This is Elori Saxl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 26 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 27 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 10 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
 | 11 | [How We Got Here](https://open.spotify.com/track/3c4SGPUxFrVg0gEqsUxyvW) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 3:16 |
 | 12 | [It Happened Once](https://open.spotify.com/track/1PC3QnBq0vsi9ANqyoOtda) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:30 |
-| 13 | [Heart](https://open.spotify.com/track/5IyrOfZhWm90lqIqyNpRY9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 6:56 |
+| 13 | [Dream](https://open.spotify.com/track/0RfFLapbioWmnPXY3LFOTf) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 1:51 |
 | 14 | [Wave II](https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 2:40 |
 | 15 | [Surfaces](https://open.spotify.com/track/3AOGToArEclNahkwA3k21d) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:46 |
 | 16 | [Architectural Plans](https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:01 |
-| 17 | [Dream](https://open.spotify.com/track/0RfFLapbioWmnPXY3LFOTf) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 1:51 |
+| 17 | [Heart](https://open.spotify.com/track/5IyrOfZhWm90lqIqyNpRY9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 6:56 |
 | 18 | [Before Blue](https://open.spotify.com/track/05yney4nfLhGR1UVhIBVib) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 1:31 |
 | 19 | [The Quarry](https://open.spotify.com/track/5PiKI2BYCbQmfPbvuVqnqE) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:24 |
 | 20 | [Grows Along the River Slow](https://open.spotify.com/track/71ct1kTZ6O0PsWmCrClTjH) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:06 |
@@ -34,5 +34,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 24 | [Alternative Futures](https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:18 |
 | 25 | [Drifts II](https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:28 |
 | 26 | [Changing Neighborhood](https://open.spotify.com/track/01VCmdLsbkgm6Hc9RcunWY) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 3:01 |
+| 27 | [Drifts I](https://open.spotify.com/track/7Gp8T4YlNRpXUqgnJPupSz) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 12:32 |
 
-Snapshot ID: `akBkAAAAAACLc/2Io8weSVlfh1Dyl0Xc`
+Snapshot ID: `akG1gAAAAABp8p33m/uLBR/6pYalvsCF`

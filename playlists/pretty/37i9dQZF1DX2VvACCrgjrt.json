@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
-  "num_followers": 1313073,
+  "num_followers": 1313087,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Whiplash",
-        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
-        }
-      ],
-      "duration_ms": 195114,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/3B2VzWQGV32CbRitgZo4lq"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 200353,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7klsdxLeKIkIE9RG49mDpD"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "SOFI",
+          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
+        }
+      ],
+      "duration_ms": 195114,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "CODEINE",
         "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 195000,
       "name": "CODEINE",
       "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1543,26 +1543,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
+        "name": "Let Me Clear My Throat",
+        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "RYA",
-          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 181384,
-      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
+      "duration_ms": 161818,
+      "name": "Let Me Clear My Throat",
+      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1587,18 +1579,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Let Me Clear My Throat",
-        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
+        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
       },
       "artists": [
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "RYA",
+          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
         }
       ],
-      "duration_ms": 161818,
-      "name": "Let Me Clear My Throat",
-      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
+      "duration_ms": 181384,
+      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
+      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1717,6 +1717,22 @@
       "url": "https://open.spotify.com/track/62yNypLpqka98xwxh0zZ3J"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
       "added_at": "2026-02-06 05:00:42",
       "album": {
         "name": "KODAK",
@@ -1737,20 +1753,20 @@
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-04-10 04:02:08",
       "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
       },
       "artists": [
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
         }
       ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+      "duration_ms": 204242,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1771,22 +1787,6 @@
       "duration_ms": 151384,
       "name": "Big Bad Sound",
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
-    },
-    {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/0kwpOGmAHpXoqIHtF7kTxZ"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 204242,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aZsySQ0iYcpyihLTqV3ky"
     },
     {
       "added_at": "2026-04-17 04:02:12",
@@ -1833,22 +1833,6 @@
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Candela",
-        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
-      },
-      "artists": [
-        {
-          "name": "Juos",
-          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
-    },
-    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "GO GO GO",
@@ -1867,6 +1851,22 @@
       "duration_ms": 212307,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/2pQQGWXI5ucqaKmIWUthng"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/3PZbnISrk8qy51tmreL5Hc"
     },
     {
       "added_at": "2026-05-15 15:18:31",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "N9",
         "url": "https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c"
       },
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Tease",
-        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tease",
-      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
       },
@@ -1963,22 +1963,6 @@
       "duration_ms": 229384,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2001,24 +1985,20 @@
       "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
     },
     {
-      "added_at": "2026-01-16 05:00:37",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "REAL FRIENDS",
-        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
       "artists": [
         {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "BROSA",
-          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 140567,
-      "name": "REAL FRIENDS",
-      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2039,6 +2019,26 @@
       "duration_ms": 217846,
       "name": "Renegade Master - Don Diablo Edit",
       "url": "https://open.spotify.com/track/4lNAIalHgxfJGztrrxVFom"
+    },
+    {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "REAL FRIENDS",
+        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BROSA",
+          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
+        }
+      ],
+      "duration_ms": 140567,
+      "name": "REAL FRIENDS",
+      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
       "added_at": "2026-04-24 04:01:50",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "That's the Spot",
         "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2241,24 +2241,24 @@
       "url": "https://open.spotify.com/track/4ekPN8q9in7XPXHbT4cYTo"
     },
     {
-      "added_at": "2026-04-03 04:01:48",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "SHE TOXIC",
-        "url": "https://open.spotify.com/album/5pt9g3iJNSmBxwBs69bwEC"
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
         }
       ],
-      "duration_ms": 158222,
-      "name": "SHE TOXIC",
-      "url": "https://open.spotify.com/track/6IHUVOd7zmRYkZdrAYWNMF"
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2285,40 +2285,24 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-04-03 04:01:48",
       "album": {
-        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
-        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
+        "name": "SHE TOXIC",
+        "url": "https://open.spotify.com/album/5pt9g3iJNSmBxwBs69bwEC"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         },
         {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 167633,
-      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
-      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+      "duration_ms": 158222,
+      "name": "SHE TOXIC",
+      "url": "https://open.spotify.com/track/6IHUVOd7zmRYkZdrAYWNMF"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -2335,26 +2319,6 @@
       "duration_ms": 196521,
       "name": "Hit The Ground",
       "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
-    },
-    {
-      "added_at": "2026-04-24 04:01:50",
-      "album": {
-        "name": "Mind On The Beat",
-        "url": "https://open.spotify.com/album/1FcuJRN9laNZB82swrPrUR"
-      },
-      "artists": [
-        {
-          "name": "SEUNG",
-          "url": "https://open.spotify.com/artist/1CuQ0y8pGZjIKzOiEzxRbV"
-        },
-        {
-          "name": "AVE",
-          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Mind On The Beat",
-      "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2375,6 +2339,42 @@
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/5T00wwk5KYi81rHvFq3qfX"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
+    },
+    {
+      "added_at": "2026-04-24 04:01:50",
+      "album": {
+        "name": "Mind On The Beat",
+        "url": "https://open.spotify.com/album/1FcuJRN9laNZB82swrPrUR"
+      },
+      "artists": [
+        {
+          "name": "SEUNG",
+          "url": "https://open.spotify.com/artist/1CuQ0y8pGZjIKzOiEzxRbV"
+        },
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Mind On The Beat",
+      "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
       "added_at": "2026-02-27 05:00:47",

@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 189498,
       "name": "French Press",
       "url": "https://open.spotify.com/track/7bl9M1KZTZglIYfygVb0Pb"
@@ -1498,6 +1498,24 @@
       "duration_ms": 175213,
       "name": "Harry Lime's Theme",
       "url": "https://open.spotify.com/track/3uKUBSVaBeIasROH4eYSGZ"
+    },
+    {
+      "album": {
+        "name": "Haute tension",
+        "url": "https://open.spotify.com/album/7armeTDJKu0ItaHVENbaJn"
+      },
+      "artists": [
+        {
+          "name": "Cordeone",
+          "url": "https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120235,
+      "name": "Haute tension",
+      "url": "https://open.spotify.com/track/3AatypS8Wrzo75lYnrmX7e"
     },
     {
       "album": {
@@ -1676,6 +1694,24 @@
       "duration_ms": 184895,
       "name": "Je Ne Pourrai Jamais Vivre Sans Toi",
       "url": "https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv"
+    },
+    {
+      "album": {
+        "name": "Je t'aime",
+        "url": "https://open.spotify.com/album/3lphX8YkY4WX4NUhmC6mOy"
+      },
+      "artists": [
+        {
+          "name": "Le Quintette Bleu",
+          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219205,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/18eFw8Zuta9fc2Z3wr2VJZ"
     },
     {
       "album": {
@@ -2542,7 +2578,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 126183,
       "name": "Les Yeux Noirs",
       "url": "https://open.spotify.com/track/6bwaxaqDX81qCJbYzbb3rX"
@@ -2636,6 +2672,24 @@
       "duration_ms": 287893,
       "name": "Magnitsky Mazurka",
       "url": "https://open.spotify.com/track/5ZXjV4dL6GAc4yRUtf48IP"
+    },
+    {
+      "album": {
+        "name": "Mama Zouk",
+        "url": "https://open.spotify.com/album/5jdDsEXwBIIYJUymedWDCK"
+      },
+      "artists": [
+        {
+          "name": "Velours Noir",
+          "url": "https://open.spotify.com/artist/5fwmrmMYdyldKxvqlgGa2w"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153817,
+      "name": "Mama Zouk",
+      "url": "https://open.spotify.com/track/31mhkMf1l4qBquDfd9OTQD"
     },
     {
       "album": {
@@ -2909,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Ne partez pas",
+        "url": "https://open.spotify.com/album/4rVQ0xFtDURS8OC2FS5DKf"
+      },
+      "artists": [
+        {
+          "name": "George Laffitte",
+          "url": "https://open.spotify.com/artist/73svkXqxHEpuyC39kOuuCP"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157529,
+      "name": "Ne partez pas",
+      "url": "https://open.spotify.com/track/0m2uXUpiOId5jnchCg7g9h"
+    },
+    {
+      "album": {
         "name": "Nuits de Paris",
         "url": "https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq"
       },
@@ -2978,6 +3050,24 @@
       "duration_ms": 147624,
       "name": "Nuits Fran\u00e7aises",
       "url": "https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar"
+    },
+    {
+      "album": {
+        "name": "Oiseau En Cage",
+        "url": "https://open.spotify.com/album/0EVi0LWKaZmxZq7UoYv6JH"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158433,
+      "name": "Oiseau En Cage",
+      "url": "https://open.spotify.com/track/2G5JLF2ToNu5PfO7mjdyS4"
     },
     {
       "album": {
@@ -3802,7 +3892,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 127478,
       "name": "Simple Swing",
       "url": "https://open.spotify.com/track/6aIbLuicVL1duWs97oZ1cq"
@@ -4082,7 +4172,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 247593,
       "name": "Swing detox",
       "url": "https://open.spotify.com/track/7jqVzbrbcy3I8qFlnJl3ZZ"
@@ -4136,7 +4226,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 169584,
       "name": "Swing Parisien",
       "url": "https://open.spotify.com/track/1buoPIkULZPuxAyKMveXtE"
@@ -4262,7 +4352,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 230708,
       "name": "Trente-trois",
       "url": "https://open.spotify.com/track/14Y02FJYobg2STuon9THoX"
@@ -4526,6 +4616,42 @@
       "duration_ms": 126516,
       "name": "Valse du chignon",
       "url": "https://open.spotify.com/track/6oBgyC4xuXj8XLr6S5WojN"
+    },
+    {
+      "album": {
+        "name": "Valse Mignonne",
+        "url": "https://open.spotify.com/album/0cSjYMPRKeuYP0dFYUdAC2"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Antoine Martin",
+          "url": "https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Valse Mignonne",
+      "url": "https://open.spotify.com/track/0FL4CUxg1DiPu1ezgOCZMC"
+    },
+    {
+      "album": {
+        "name": "Valse pour Diana Mendes",
+        "url": "https://open.spotify.com/album/5T3x1dBZ9bmO6Q3krxlmUE"
+      },
+      "artists": [
+        {
+          "name": "Le Quintette Bleu",
+          "url": "https://open.spotify.com/artist/4Z1RjLPuWfGYAIbXPquetd"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156940,
+      "name": "Valse pour Diana Mendes",
+      "url": "https://open.spotify.com/track/64kGHhoftyYZupMgWKk01c"
     },
     {
       "album": {

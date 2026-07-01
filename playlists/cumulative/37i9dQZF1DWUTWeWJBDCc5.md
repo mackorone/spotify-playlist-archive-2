@@ -2,9 +2,9 @@
 
 ### [Editor's Picks Korea: 에디터의 취향](https://open.spotify.com/playlist/37i9dQZF1DWUTWeWJBDCc5)
 
-> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: Gracie Abrams\)
+> 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요\. \(Cover: go!go!vanillas\)
 
-249 songs - 13 hr 46 min
+250 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 | 2026-06-25 |  |
 | [Higher](https://open.spotify.com/track/2B8TaI5UMZRGD2yevIB50L) | [Macha](https://open.spotify.com/artist/3bFXatbONkvlFtx0mqN79k) | [Higher](https://open.spotify.com/album/4Vp2511G5p1ULaUjZupB8W) | 3:50 | 2026-06-29 |  |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-06-15 |  |
-| [Hold onto My Back](https://open.spotify.com/track/0s5xyZNa3emVvY4AqiISQX) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:06 | 2026-06-12 |  |
+| [Hold onto My Back](https://open.spotify.com/track/0s5xyZNa3emVvY4AqiISQX) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:06 | 2026-06-12 | 2026-07-01 |
 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 | 2026-04-29 | 2026-06-13 |
 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-03-24 | 2026-04-30 |
 | [hopelessly falling](https://open.spotify.com/track/0HOuw2iR2bMhajd4urUlRc) | [bast](https://open.spotify.com/artist/3ajeLjEdOpuwPehkzDqb2C) | [hopelessly falling](https://open.spotify.com/album/68GCmbLhxjPShYiCyCxa7K) | 2:56 | 2026-02-04 | 2026-03-04 |
@@ -125,7 +125,7 @@
 | [I'll Remember](https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I'll Remember \(Positively Yours X Onestar\) \[Original Soundtrack\]](https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q) | 3:48 | 2026-02-04 | 2026-03-04 |
 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 | 2026-04-06 | 2026-04-30 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/2NtidJuimmXzUsExfMYcvk) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:41 | 2025-12-04 | 2026-02-05 |
-| [if i'm lucky](https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [better late than not at all](https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu) | 2:57 | 2026-04-29 |  |
+| [if i'm lucky](https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [better late than not at all](https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu) | 2:57 | 2026-04-29 | 2026-07-01 |
 | [iffy iffy](https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:09 | 2026-05-25 |  |
 | [incense \(feat\. Sik\-K\)](https://open.spotify.com/track/6xaQfsdGCnqkcvjyRobZWK) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [aurora](https://open.spotify.com/album/08LNy0xcfUdMbM5PzzAGmW) | 3:17 | 2026-04-29 | 2026-06-13 |
 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 | 2026-04-29 |  |
@@ -140,6 +140,7 @@
 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 | 2026-02-04 | 2026-03-04 |
 | [LIGHTS GO OUT](https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [LIGHTS GO OUT](https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj) | 2:38 | 2026-02-04 | 2026-03-04 |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-12-04 | 2026-02-05 |
+| [LILAC](https://open.spotify.com/track/6yYRpnx6akiRTcdjKVz2Bi) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 3:12 | 2026-06-30 |  |
 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-12-04 | 2026-02-05 |
 | [LIT](https://open.spotify.com/track/2IvMayUNvcBnQDQM0VQO7a) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [LIT](https://open.spotify.com/album/6g7UQY5P57dq99rQPHb2zi) | 3:23 | 2025-12-04 | 2026-02-05 |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 6:43 | 2026-02-04 | 2026-03-04 |
@@ -220,7 +221,7 @@
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2026-06-09 |  |
 | [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 | 2026-04-29 | 2026-06-13 |
 | [Ten Thirty Hang Out \(Feat\. Dynamicduo\)](https://open.spotify.com/track/1SbCGS2xJJBYbEyQYrHsH8) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Ten Thirty Lovey Dovey](https://open.spotify.com/album/6gKxrbKdtQwOoQjUQ0yD6j) | 3:15 | 2026-05-25 | 2026-06-26 |
-| [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 | 2026-06-09 |  |
+| [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 | 2026-06-09 | 2026-07-01 |
 | [The devil](https://open.spotify.com/track/3nOUII8GzDtAPST9KCeSJ6) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Shadow Of Your Smile](https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E) | 5:30 | 2026-06-23 |  |
 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 | 2026-04-29 | 2026-06-13 |
 | [THE PRESSURE](https://open.spotify.com/track/5EwqL32rIUkHbfjYZ0WLXB) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [KILL THE GHOST](https://open.spotify.com/album/65XQpfjNaYkGLT7bKg2Wo3) | 2:52 | 2026-05-25 | 2026-06-26 |
@@ -230,7 +231,7 @@
 | [Tonight \(Feat\. Junggigo\)](https://open.spotify.com/track/0MQSKGgfUzyBsHoPO03dkd) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [2](https://open.spotify.com/album/1H59BSWW8dygtTZv51DmbA) | 3:22 | 2026-02-04 | 2026-03-04 |
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-12-04 | 2026-02-05 |
 | [TOO CLOSE \(feat\. Suen\)](https://open.spotify.com/track/4iW0ma7CQtJ7zBrZe0Thuh) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [INTOXICATED](https://open.spotify.com/album/7CRoouenkq1sJfYwVxCvVG) | 2:33 | 2026-02-04 | 2026-03-04 |
-| [Too Good](https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:37 | 2026-06-09 |  |
+| [Too Good](https://open.spotify.com/track/3GP7l2bmXT6T2FNAzERwBr) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:37 | 2026-06-09 | 2026-07-01 |
 | [TOXICK](https://open.spotify.com/track/58usw15bgarns0kTKmNP9U) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [6SEOUL](https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh) | 2:18 | 2026-03-03 | 2026-04-30 |
 | [Type of Girl](https://open.spotify.com/track/0BYDagZqjCPZxOVh0iruo2) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:09 | 2026-06-03 | 2026-06-26 |
 | [U \(feat\. YI SUNG YOL\)](https://open.spotify.com/track/6081FOFgWCFrUlb6lAyBmS) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 4:09 | 2026-06-23 |  |

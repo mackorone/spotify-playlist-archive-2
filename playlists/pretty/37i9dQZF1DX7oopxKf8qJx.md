@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,107 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,153 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 56 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
 | 57 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
 | 58 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |
-| 59 | [Capri Serenade](https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [West of Sunset](https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7) | 3:10 |
+| 59 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
 | 60 | [Love Is a Many Splendoured Thing](https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8) | [Stanley Black and his Orchestra](https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9) | [Hollywood Love Themes](https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ) | 3:44 |
 | 61 | [Green \- 1999 Remastered](https://open.spotify.com/track/3xCoRt3PkPJKpN8UnP3VXx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra Conducts Tone Poems Of Color \(Remastered\)](https://open.spotify.com/album/5hIh9dtYekwchUA8tOgySP) | 4:03 |
 | 62 | [Liebestraum](https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ) | [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Stoppers](https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9) | 4:11 |
 | 63 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
-| 64 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
+| 64 | [Capri Serenade](https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [West of Sunset](https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7) | 3:10 |
 | 65 | [I Could Have Danced All Night \(From "My Fair Lady"\)](https://open.spotify.com/track/4Cj61od23ZCPmdKgOzYDwU) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Ros on Broadway](https://open.spotify.com/album/58H5lgy2iotSiySfZHxH4V) | 2:31 |
 | 66 | [Two Lovers Theme](https://open.spotify.com/track/77wlTZKngci9HsYbGYp1Aa) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [How to Steal a Million \- Original Sound Track](https://open.spotify.com/album/45Jxg1wxDTfFt0aX2WqxFA) | 2:46 |
 | 67 | [Theme From A Summer Place](https://open.spotify.com/track/369DA2r2Ycpk8DjJGVIU9S) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Summer Place](https://open.spotify.com/album/50nW5dxPVFGwwo61jmlwxG) | 2:45 |

@@ -1,6 +1,6 @@
 {
   "description": "Hottest tracks from Coke Studio Bharat. ",
-  "num_followers": 99652,
+  "num_followers": 99668,
   "original_name": "Best of: Coke Studio Bharat",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "AAAAAG3YGDyJlKE3k4KBLSvq130TSfM/",
   "tracks": [
+    {
+      "added_at": "2026-06-25 23:40:24",
+      "album": {
+        "name": "Hoor | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/7CWIrGsju5yTIo3jvXn8BV"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Qaiser Nizami",
+          "url": "https://open.spotify.com/artist/2TFelufhNan03C8eODRkbY"
+        }
+      ],
+      "duration_ms": 385882,
+      "name": "Hoor | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/0XiZEqOr2ZF4EzQaBzUGIg"
+    },
     {
       "added_at": "2026-03-19 00:43:01",
       "album": {

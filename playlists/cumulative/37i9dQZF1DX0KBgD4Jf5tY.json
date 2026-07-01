@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5AQAAs2emLmGYAd8UuNmbK\">Quercia</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5AaaaiuLFShXMWKTw0KpSL\">Motel Cecil</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2868,6 +2868,24 @@
       "duration_ms": 203916,
       "name": "anedonia",
       "url": "https://open.spotify.com/track/0bs9DFxBrKvOd6VEsC2p6W"
+    },
+    {
+      "album": {
+        "name": "Anfield",
+        "url": "https://open.spotify.com/album/0rJxklj5724y48QB1DZhHF"
+      },
+      "artists": [
+        {
+          "name": "Forse Danzica",
+          "url": "https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179391,
+      "name": "Anfield",
+      "url": "https://open.spotify.com/track/6nbHwx75LccXZUfvMsYncG"
     },
     {
       "album": {
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 173592,
       "name": "Crescere",
       "url": "https://open.spotify.com/track/5p8gWl58IBovZ1xO3oABZD"
@@ -10297,6 +10315,28 @@
     },
     {
       "album": {
+        "name": "POP PUNK GLAMOUR",
+        "url": "https://open.spotify.com/album/7I6DK8vSwq1T7bFTVXtO0x"
+      },
+      "artists": [
+        {
+          "name": "\u00e9cole",
+          "url": "https://open.spotify.com/artist/398nsxSkvbelv4Owh9b4XI"
+        },
+        {
+          "name": "kasp",
+          "url": "https://open.spotify.com/artist/048NuaV1oQuPYY6sgEcsDG"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "DISCO FANCULO",
+      "url": "https://open.spotify.com/track/0LRld9YQNBngCLz7JlehEw"
+    },
+    {
+      "album": {
         "name": "Disordine",
         "url": "https://open.spotify.com/album/1icevKrCENJg4o5zegPMFH"
       },
@@ -11314,7 +11354,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 168004,
       "name": "DYK",
       "url": "https://open.spotify.com/track/6t9aSHVQJXCgyrFptsJxBg"
@@ -11460,6 +11500,24 @@
       "duration_ms": 230243,
       "name": "Eco",
       "url": "https://open.spotify.com/track/61dcUcm498MpM19fP2JhAR"
+    },
+    {
+      "album": {
+        "name": "eco",
+        "url": "https://open.spotify.com/album/00edV6cTwmqINpTR7Pe6aI"
+      },
+      "artists": [
+        {
+          "name": "seraphiel",
+          "url": "https://open.spotify.com/artist/7BvpHaU1BqIKMEMKB8goGO"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217217,
+      "name": "eco",
+      "url": "https://open.spotify.com/track/2JwjMGTmsop9VkWiDyJ69s"
     },
     {
       "album": {
@@ -13112,7 +13170,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 165581,
       "name": "Filosofia Dello Stare Bene",
       "url": "https://open.spotify.com/track/42z88dhlj7hs3HxvG3B0jt"
@@ -13546,7 +13604,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 230040,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/4dLcBSla3iDJFuwBc7eu0V"
@@ -14202,7 +14260,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 278284,
       "name": "Furtuna",
       "url": "https://open.spotify.com/track/08uUKdiwUqYnFvOMJisIBw"
@@ -14612,7 +14670,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 167340,
       "name": "Giorni d\u2019inverno",
       "url": "https://open.spotify.com/track/3MBa38VlZ1aOVIWEW3snS4"
@@ -16073,6 +16131,24 @@
     },
     {
       "album": {
+        "name": "Hysteric",
+        "url": "https://open.spotify.com/album/637Jw3oZUMOTvkCnDhHjSI"
+      },
+      "artists": [
+        {
+          "name": "nm rem",
+          "url": "https://open.spotify.com/artist/5YOv0H9RZYWaympdXEiaTF"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124839,
+      "name": "Hysteric",
+      "url": "https://open.spotify.com/track/3oHM8IMrIGdLM6kOUUHoeZ"
+    },
+    {
+      "album": {
         "name": "theSIGN",
         "url": "https://open.spotify.com/album/6VgrmHqwCnholF2srCaXxd"
       },
@@ -16106,6 +16182,24 @@
       "duration_ms": 163300,
       "name": "I Don't Love You (Anymore)",
       "url": "https://open.spotify.com/track/413J57t7ydyRaNqEscI6IB"
+    },
+    {
+      "album": {
+        "name": "I HATE MILANO",
+        "url": "https://open.spotify.com/album/7zcD5QilDCfUETudGPVJS6"
+      },
+      "artists": [
+        {
+          "name": "Motel Cecil",
+          "url": "https://open.spotify.com/artist/5AaaaiuLFShXMWKTw0KpSL"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91791,
+      "name": "I HATE MILANO",
+      "url": "https://open.spotify.com/track/1wxZV1KbqWuMnBYUnezCNN"
     },
     {
       "album": {
@@ -17478,7 +17572,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 196224,
       "name": "INGANNO (io non esisterei)",
       "url": "https://open.spotify.com/track/03DApyRyCA2X4L5AeJQvVS"
@@ -19604,6 +19698,24 @@
       "duration_ms": 175000,
       "name": "Le tue dita ferme",
       "url": "https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU"
+    },
+    {
+      "album": {
+        "name": "Le Vostre Confidenze Ad Alta Voce",
+        "url": "https://open.spotify.com/album/4cZCq3ZxhzpYwgSrOZDU10"
+      },
+      "artists": [
+        {
+          "name": "Carlotta Ceraudo",
+          "url": "https://open.spotify.com/artist/3NcOkSIiPkRXd3UT7DUey5"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Le Vostre Confidenze Ad Alta Voce",
+      "url": "https://open.spotify.com/track/0Ix3zOg1wyQh4QOowLYnrb"
     },
     {
       "album": {
@@ -36997,6 +37109,24 @@
     },
     {
       "album": {
+        "name": "te non ci 6",
+        "url": "https://open.spotify.com/album/4QfRRjyC5y0b421M248kB5"
+      },
+      "artists": [
+        {
+          "name": "Gioac",
+          "url": "https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "te non ci 6",
+      "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"
+    },
+    {
+      "album": {
         "name": "Te soltanto",
         "url": "https://open.spotify.com/album/6WkpabHhNwIhz3VOdWRhy4"
       },
@@ -40103,6 +40233,24 @@
     },
     {
       "album": {
+        "name": "non \u00e8 uno ; sono due",
+        "url": "https://open.spotify.com/album/2NwiFGJdHL3EuLKsca9DWa"
+      },
+      "artists": [
+        {
+          "name": "AKA5HA",
+          "url": "https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "ventimila passi",
+      "url": "https://open.spotify.com/track/4GvXwrJPjPVtwPIPHNMr44"
+    },
+    {
+      "album": {
         "name": "Ventinove",
         "url": "https://open.spotify.com/album/1RX9tY03iljfxgt3i9ZDgJ"
       },
@@ -41658,7 +41806,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 190333,
       "name": "\u2735\ud81a\uddb9 luce bambina \ud81a\uddb9\u2735",
       "url": "https://open.spotify.com/track/0OsrsjyPrLcDWB6Ocv2m34"

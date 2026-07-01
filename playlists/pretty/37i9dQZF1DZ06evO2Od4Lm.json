@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 132897,
+  "num_followers": 132922,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAADPD+RC1PP2eoYEmiF0zJfW",
+  "snapshot_id": "akG1gAAAAABkr4r+BY1/rYrfrZ7PytOV",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Age of Adz",
+        "url": "https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 328013,
+      "name": "Vesuvius",
+      "url": "https://open.spotify.com/track/3GWZX3YtldXCdSQqrzGgV5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/64U7yOMQtMNro5WD9rw5e2"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 234003,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0lDmaJqbfQLbnhOGGQvSxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Age of Adz",
-        "url": "https://open.spotify.com/album/4kRMCapj9nEyBWnM0kc9OX"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 328013,
-      "name": "Vesuvius",
-      "url": "https://open.spotify.com/track/3GWZX3YtldXCdSQqrzGgV5"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

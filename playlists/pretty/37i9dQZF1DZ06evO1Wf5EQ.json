@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 817,
+  "num_followers": 818,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAADM3YiWS60P5N62PRZFJpTq",
+  "snapshot_id": "akG1gAAAAAByLgmwppFuGC5lyuDMbhPs",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
       },
       "artists": [
         {
           "name": "Carlos Rafael Rivera",
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        },
+        {
+          "name": "Alejandro Rafael Rivera",
+          "url": "https://open.spotify.com/artist/7lQk0Mnfyr5MTaxjKEdRa7"
+        },
+        {
+          "name": "Brian Kilgore",
+          "url": "https://open.spotify.com/artist/19hHxqWssEZPiOWfklrBJ7"
         }
       ],
-      "duration_ms": 154091,
-      "name": "Mysteries of The Divine",
-      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
+      "duration_ms": 36448,
+      "name": "Department Q",
+      "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
     },
     {
       "added_at": null,
@@ -115,30 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Department Q (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        },
-        {
-          "name": "Alejandro Rafael Rivera",
-          "url": "https://open.spotify.com/artist/7lQk0Mnfyr5MTaxjKEdRa7"
-        },
-        {
-          "name": "Brian Kilgore",
-          "url": "https://open.spotify.com/artist/19hHxqWssEZPiOWfklrBJ7"
-        }
-      ],
-      "duration_ms": 36448,
-      "name": "Department Q",
-      "url": "https://open.spotify.com/track/39Vwrh3qa7GOTpSJBYoKAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 132899,
       "name": "One Step, One Step\u2026",
       "url": "https://open.spotify.com/track/15QrBebHg594K2nagWN8EQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 86546,
+      "name": "You Lost Your Shadow, Bill",
+      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 86546,
-      "name": "You Lost Your Shadow, Bill",
-      "url": "https://open.spotify.com/track/6QHUneXaBqZDM02tJjtZxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
       },
@@ -216,9 +200,25 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 108178,
-      "name": "Supper at Six",
-      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+      "duration_ms": 154091,
+      "name": "Mysteries of The Divine",
+      "url": "https://open.spotify.com/track/1cXkZUNDG90ScQY2uMaoTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 398320,
+      "name": "Atascadero (Denouement)",
+      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 398320,
-      "name": "Atascadero (Denouement)",
-      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
       },
@@ -284,9 +268,25 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 122261,
-      "name": "A Lead",
-      "url": "https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU"
+      "duration_ms": 108178,
+      "name": "Supper at Six",
+      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godless (Original Music from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 122261,
+      "name": "A Lead",
+      "url": "https://open.spotify.com/track/07g1Gd78OSWGuHhT2K15VU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 184000,
       "name": "Mcnue Leaves",
       "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
       "duration_ms": 120946,
       "name": "Getting Late Night",
       "url": "https://open.spotify.com/track/3OTeopQuiNsNLR2fonFZlU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 130728,
+      "name": "Best Alone",
+      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

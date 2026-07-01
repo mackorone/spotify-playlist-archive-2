@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108041,
+  "num_followers": 108043,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 166875,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
+      },
+      "artists": [
+        {
+          "name": "Tommy Bueno",
+          "url": "https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR"
+        },
+        {
+          "name": "Lisan Beat",
+          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
         "name": "Entre Familia",
         "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 249576,
       "name": "Coritos Medley 2.0",
       "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
-        "name": "Lejos",
-        "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
-      },
-      "artists": [
-        {
-          "name": "Tommy Bueno",
-          "url": "https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR"
-        },
-        {
-          "name": "Lisan Beat",
-          "url": "https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 185528,
-      "name": "Nada Sin Ti",
-      "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "Salvame",
         "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 201633,
       "name": "Salvame",
       "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 185528,
+      "name": "Nada Sin Ti",
+      "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Cada ma\u00f1ana",
-        "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "Grande y Maravillosas Son Tus Obras",
         "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 246919,
       "name": "Grande y Maravillosas Son Tus Obras",
       "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Cada ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2bIrI9nbxJj73KJkr00DTe"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rpuMehsTKtZ26XFUTlnnO"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
+        "name": "Verso de Amor",
+        "url": "https://open.spotify.com/album/2puEEYFBPFfmMQqXbaEITd"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "Verso de Amor",
+      "url": "https://open.spotify.com/track/20Wr0dFjG4qfFBnlZqJmh1"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
         "name": "Lo Mejor De La Vida",
         "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 193846,
       "name": "La alegr\u00eda del Se\u00f1or",
       "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
-        "name": "Verso de Amor",
-        "url": "https://open.spotify.com/album/2puEEYFBPFfmMQqXbaEITd"
-      },
-      "artists": [
-        {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
-        },
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 197173,
-      "name": "Verso de Amor",
-      "url": "https://open.spotify.com/track/20Wr0dFjG4qfFBnlZqJmh1"
     },
     {
       "added_at": "2026-06-26 12:29:56",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-06-26 12:29:56",
       "album": {
-        "name": "Agarra La Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Punto de Encuentro",
-          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 191447,
-      "name": "Agarra La Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
-    },
-    {
-      "added_at": "2026-06-26 12:29:56",
-      "album": {
         "name": "Ola de Calma",
         "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 232320,
       "name": "Hay Una Fuente en M\u00ed",
       "url": "https://open.spotify.com/track/4740Eg06Z9xOZg39sI345N"
+    },
+    {
+      "added_at": "2026-06-26 12:29:56",
+      "album": {
+        "name": "Agarra La Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto de Encuentro",
+          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 191447,
+      "name": "Agarra La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
     },
     {
       "added_at": "2026-06-26 12:29:56",

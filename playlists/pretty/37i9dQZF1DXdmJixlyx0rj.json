@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Peggy Gou, Ayra Starr)",
-  "num_followers": 37373,
+  "num_followers": 37380,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
         "name": "Nocturne 07 (for aerse)",
         "url": "https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 152473,
       "name": "Nocturne 07 (for aerse)",
       "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
+        "name": "FIX OFF Desire Project 1",
+        "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
+      },
+      "artists": [
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        }
+      ],
+      "duration_ms": 124637,
+      "name": "ROAR (Raiden Hard Techno Ver.)",
+      "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
         "name": "ScreaM Rookies : The Chase (Remixes)",
         "url": "https://open.spotify.com/album/1KI3YacgsB9kdxCrfttqhq"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 215168,
       "name": "The Chase - 0to Remix",
       "url": "https://open.spotify.com/track/32yoamnHf2sqYvzZIN9OJr"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
-        "name": "FIX OFF Desire Project 1",
-        "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
-      },
-      "artists": [
-        {
-          "name": "MINGI",
-          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
-        }
-      ],
-      "duration_ms": 124637,
-      "name": "ROAR (Raiden Hard Techno Ver.)",
-      "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
+        "name": "NO DRUGS",
+        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
+      },
+      "artists": [
+        {
+          "name": "DPR CREAM",
+          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
+        },
+        {
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -751,42 +771,6 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
-        "name": "NO DRUGS",
-        "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
-      },
-      "artists": [
-        {
-          "name": "DPR CREAM",
-          "url": "https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw"
-        },
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "DRIFT",
-      "url": "https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
-        "name": "allez, pousse!",
-        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 190151,
-      "name": "allez, pousse!",
-      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
         "name": "Eu li EP",
         "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 472841,
       "name": "Bail-E",
       "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
+        "name": "allez, pousse!",
+        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 190151,
+      "name": "allez, pousse!",
+      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
-        "name": "I,God",
-        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
-      },
-      "artists": [
-        {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Extancy (Wumuti&Rui)",
-      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
         "name": "Photon",
         "url": "https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
+        "name": "I,God",
+        "url": "https://open.spotify.com/album/2TDH8goBXv2mQ22XrHTfsX"
+      },
+      "artists": [
+        {
+          "name": "XLOV",
+          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Extancy (Wumuti&Rui)",
+      "url": "https://open.spotify.com/track/4UPuKqtMeW0WuHbwBoiUKp"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
-        "name": "AREA X",
-        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
-      },
-      "artists": [
-        {
-          "name": "I\u00d6N",
-          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
-        },
-        {
-          "name": "DJ co.kr",
-          "url": "https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3"
-        }
-      ],
-      "duration_ms": 220555,
-      "name": "Baya",
-      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 205360,
       "name": "High",
       "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
+        "name": "AREA X",
+        "url": "https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ"
+      },
+      "artists": [
+        {
+          "name": "I\u00d6N",
+          "url": "https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV"
+        },
+        {
+          "name": "DJ co.kr",
+          "url": "https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk"
+        }
+      ],
+      "duration_ms": 220555,
+      "name": "Baya",
+      "url": "https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 139419,
       "name": "Back for More (with Anitta) (House Remix)",
       "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Mount XLR",
-          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Armageddon - Mount XLR Remix",
-      "url": "https://open.spotify.com/track/4z58YfbLph7Z7l7DhkdctO"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
         "name": "Pondeggi",
         "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 279400,
       "name": "Pondeggi",
       "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Mount XLR",
+          "url": "https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Armageddon - Mount XLR Remix",
+      "url": "https://open.spotify.com/track/4z58YfbLph7Z7l7DhkdctO"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
-        "name": "Unstable",
-        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
-      },
-      "artists": [
-        {
-          "name": "Itzel",
-          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Unstable",
-      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
         "name": "Iab",
         "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 190312,
       "name": "Iab",
       "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
     },
     {
       "added_at": "2026-06-29 08:09:19",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-06-29 08:09:19",
       "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
+    },
+    {
+      "added_at": "2026-06-29 08:09:19",
+      "album": {
         "name": "LOTTO - The 3rd Album Repackage",
         "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 126000,
       "name": "Narak",
       "url": "https://open.spotify.com/track/4inxQrdnjvlyphqdkRNufm"
-    },
-    {
-      "added_at": "2026-06-29 08:09:19",
-      "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-06-29 08:09:19",

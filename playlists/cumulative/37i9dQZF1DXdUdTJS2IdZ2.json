@@ -8387,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/1oJaQHsPmciUxQPjpa8fQF"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281171,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/3dX9WPcdo9QSYEawNKO1DZ"
+    },
+    {
+      "album": {
         "name": "Hell For Leather",
         "url": "https://open.spotify.com/album/5CUqYyZI98gEOXa2BZADoJ"
       },

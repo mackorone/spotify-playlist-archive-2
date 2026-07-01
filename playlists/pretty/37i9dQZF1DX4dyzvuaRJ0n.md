@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Peggy Gou & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,559,164 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,558,562 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 52 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
 | 53 | [Beautiful Places](https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Beautiful Places](https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi) | 2:59 |
 | 54 | [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 |
-| 55 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
+| 55 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
 | 56 | [Passion \(R U Satisfied\)](https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [The Flirts](https://open.spotify.com/artist/3tjF6wLt90r7qSWukrn401) | [Passion \(R U Satisfied\)](https://open.spotify.com/album/2cBsiboy6NvsFuQkhh8tta) | 3:13 |
 | 57 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
 | 58 | [Morning Coffee](https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Morning Coffee](https://open.spotify.com/album/0bi4ncyJTGZvi4eP8PIZFn) | 3:02 |

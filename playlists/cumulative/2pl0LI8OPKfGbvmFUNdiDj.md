@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-519 songs - 1 day 5 hr 23 min
+520 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Hallelujah](https://open.spotify.com/track/4NqOMrht9seUtUw54kap5Q) | [Highlyfe Earl](https://open.spotify.com/artist/36SIhWxeax5jHjWP3pQjNa), [1 OF A KAI](https://open.spotify.com/artist/0tsDsJLHoOIU3AhDosfPrQ), [JAY SUAVE](https://open.spotify.com/artist/30GrLG3wzbjqrVyocoxcWp) | [HELLBOYZ](https://open.spotify.com/album/4RisMx8FZ4ik57GZtKfWwE) | 3:23 | 2026-03-09 | 2026-05-26 |
 | [Happy Lonely](https://open.spotify.com/track/2IyFQwfeIxVQ16hQFtow3n) | [Becky Crosby](https://open.spotify.com/artist/5WH57q9fG8QFAwzXyzEmZz) | [Happy Lonely](https://open.spotify.com/album/4C0ZftGQgWUgXYtIeje85E) | 3:06 | 2026-05-19 | 2026-06-14 |
 | [Happy Pills](https://open.spotify.com/track/6aB6cq6abx0aYTTQsoXbo3) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Happy Pills](https://open.spotify.com/album/4Tsj4nbRo7e4SaltWiZda7) | 3:01 | 2026-02-16 | 2026-05-17 |
+| [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2026-06-30 |  |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 | 2026-01-05 |
 | [Hectic Movement](https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 2:17 | 2025-11-08 | 2025-12-01 |
 | [Heir To The Throne](https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Heir To The Throne](https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB) | 4:09 | 2026-04-28 | 2026-06-14 |

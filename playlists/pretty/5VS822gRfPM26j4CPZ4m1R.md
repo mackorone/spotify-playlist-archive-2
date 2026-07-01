@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,076 likes - 647 songs - 1 day 14 hr 25 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,075 likes - 647 songs - 1 day 14 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,7 +226,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 216 | [How It Started](https://open.spotify.com/track/5RZLyrwguH60Ieqe98rg8E) | [Sky Days](https://open.spotify.com/artist/7oWHZ2Uh7Gaf4UL8CRHjX2) | [How It Started](https://open.spotify.com/album/15QpBS7iv70KNOgXcJSjOC) | 3:56 |
 | 217 | [Let's Pretend](https://open.spotify.com/track/5Lwh5vPwydKnTMbddgO1xM) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Clay](https://open.spotify.com/album/4QkkOZZbnzdxAWjEuLMxeT) | 2:44 |
 | 218 | [Clay](https://open.spotify.com/track/0Veyw4uQ7JN2QdWK0Mm3wt) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Clay](https://open.spotify.com/album/4QkkOZZbnzdxAWjEuLMxeT) | 2:56 |
-| 219 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 |
+| 219 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 |
 | 220 | [Still There](https://open.spotify.com/track/4PX1l25gDqLjaJTShFSZkL) | [Caraml](https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg) | [Still There](https://open.spotify.com/album/0Vwbdn1CSBCpDz2magEHwy) | 4:05 |
 | 221 | [So](https://open.spotify.com/track/4dpxqHfYMyiUsK4DaRahyB) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [So](https://open.spotify.com/album/6AOo2VUfDIWZkS6UurB6Pz) | 4:08 |
 | 222 | [E, Otkad Mi Se Nisi Javila](https://open.spotify.com/track/6UHmrBwUol13c4BAxKSMua) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Nice Guys Love You \(Vol\. 2\)](https://open.spotify.com/album/7cDmYKgKIhmhxBdG9LmPkg) | 3:29 |
@@ -248,7 +248,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 238 | [Shoulders / Spine](https://open.spotify.com/track/4iWbGEYM1jbwu6NNs8HFGv) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Shoulders / Spine](https://open.spotify.com/album/3fDb8mv3tSGsXQK2H91och) | 3:03 |
 | 239 | [Clearer](https://open.spotify.com/track/3UBQq5eaQsNZ4r6VbOju9P) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Clearer](https://open.spotify.com/album/3ncfxBkQrt8ozN1YB9QNOB) | 4:14 |
 | 240 | [Baby Blue](https://open.spotify.com/track/1U8biqYHpLsJ6PD1PEgHud) | [Frazier Blue](https://open.spotify.com/artist/6tdhC262dmuL7W8MnTr1tx) | [Baby Blue](https://open.spotify.com/album/7HevGHsEW7pY3Wj56ELwZC) | 3:29 |
-| 241 | [Vertebrae](https://open.spotify.com/track/5bImEFz89tnLPQXiDc3M9d) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Vertebrae](https://open.spotify.com/album/0m3GTqifxN8YEua3vACYD2) | 2:57 |
+| 241 | [Vertebrae](https://open.spotify.com/track/5bImEFz89tnLPQXiDc3M9d) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Vertebrae](https://open.spotify.com/album/0m3GTqifxN8YEua3vACYD2) | 2:57 |
 | 242 | [Statue in the Dark](https://open.spotify.com/track/39fGhbua4rQ63JML0bgMPW) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Statue in the Dark](https://open.spotify.com/album/4sYVcbUifpyyGFdjAWQQgW) | 2:57 |
 | 243 | [Night Time](https://open.spotify.com/track/10JTcTlSRGYrAszcGFxEJz) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [Night Time](https://open.spotify.com/album/4qRZeDMouGPifXzP3dSepz) | 3:18 |
 | 244 | [Undercover Women](https://open.spotify.com/track/4WrHmORhuDtWEfEtpcl5KZ) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG) | [Undercover Women](https://open.spotify.com/album/7bXZoUNdMjQeqVbzS4vwPU) | 2:31 |
@@ -303,11 +303,11 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 293 | [You're Right](https://open.spotify.com/track/14ADhB93rwSTiLxXbPSWXi) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [You're Right](https://open.spotify.com/album/7hNMng5xJjgifqPSCfKSAI) | 4:11 |
 | 294 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 |
 | 295 | [Equal Trouble](https://open.spotify.com/track/7Jb5HMSHWwAVAqfApS54Iq) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Equal Trouble](https://open.spotify.com/album/4q7YKgej4p7syDMAPpTedg) | 4:02 |
-| 296 | [Raindrop Lullaby](https://open.spotify.com/track/37r0a1ExiP6yECadOY3i7v) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:23 |
-| 297 | [Baby Interlude](https://open.spotify.com/track/1wnGCXzSGVqAckAn4WN4SM) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 1:33 |
-| 298 | [Who Woulda Thought, Pt\. II](https://open.spotify.com/track/5UqVfjbQyKdgco2YA9LjfK) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 3:31 |
-| 299 | [Capsicumism \- Bonus Track](https://open.spotify.com/track/0B6onG6OQ2Sx6QTbHxGv3i) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:15 |
-| 300 | [Money Dream](https://open.spotify.com/track/06WY1X33z9lEv5ZgRkgLBN) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:52 |
+| 296 | [Raindrop Lullaby](https://open.spotify.com/track/37r0a1ExiP6yECadOY3i7v) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:23 |
+| 297 | [Baby Interlude](https://open.spotify.com/track/1wnGCXzSGVqAckAn4WN4SM) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 1:33 |
+| 298 | [Who Woulda Thought, Pt\. II](https://open.spotify.com/track/5UqVfjbQyKdgco2YA9LjfK) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 3:31 |
+| 299 | [Capsicumism \- Bonus Track](https://open.spotify.com/track/0B6onG6OQ2Sx6QTbHxGv3i) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:15 |
+| 300 | [Money Dream](https://open.spotify.com/track/06WY1X33z9lEv5ZgRkgLBN) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:52 |
 | 301 | [Halcyon Days](https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Halcyon Days](https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k) | 3:08 |
 | 302 | [Havana Burning](https://open.spotify.com/track/54SoJJzbZoXIZ50AG8EJhS) | [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Havana Burning](https://open.spotify.com/album/4hqcU2XHOjkbbwvJx61C68) | 1:58 |
 | 303 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 |

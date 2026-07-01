@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Nduduzo Makhathini
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,935 likes - 60 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,943 likes - 60 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 39 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
 | 40 | [Sombhuluka](https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:58 |
 | 41 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 |
-| 42 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
-| 43 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
+| 42 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
+| 43 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
 | 44 | [The Aha Moment](https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy) | [Zu.](https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq), [Zuko Collective](https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK) | [Tones of Epiphany](https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea) | 6:02 |
 | 45 | [Ngeke!](https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:30 |
 | 46 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |

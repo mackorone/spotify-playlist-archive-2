@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Monsta",
-  "num_followers": 55290,
+  "num_followers": 55311,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-06-25 23:00:48",
       "album": {
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
+    },
+    {
+      "added_at": "2026-06-25 23:00:48",
+      "album": {
         "name": "Aguarela",
         "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 196912,
       "name": "Aguarela",
       "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
-    },
-    {
-      "added_at": "2026-06-25 23:00:48",
-      "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2026-06-25 23:00:48",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-06-25 23:00:48",
       "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        },
-        {
-          "name": "Carla Prata",
-          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
-        }
-      ],
-      "duration_ms": 193601,
-      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
-      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
-    },
-    {
-      "added_at": "2026-06-25 23:00:48",
-      "album": {
         "name": "Flexin On U",
         "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 271500,
       "name": "Flexin On U",
       "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
+    },
+    {
+      "added_at": "2026-06-25 23:00:48",
+      "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        },
+        {
+          "name": "Carla Prata",
+          "url": "https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS"
+        }
+      ],
+      "duration_ms": 193601,
+      "name": "\u00a1 S\u00d3 N\u00d3S ! (feat. Carla Prata)",
+      "url": "https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ"
     },
     {
       "added_at": "2026-06-25 23:00:48",

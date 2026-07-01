@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Claudia Zuazo.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: d.dram\u00e1tico.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -4679,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "AA Ana Psic\u00f3loga",
+        "url": "https://open.spotify.com/album/1jnI8QArLMi5WIFab106HW"
+      },
+      "artists": [
+        {
+          "name": "Marina Dom\u00ednguez",
+          "url": "https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168468,
+      "name": "AA Ana Psic\u00f3loga",
+      "url": "https://open.spotify.com/track/3WjDjxTiTzO6rrKdsC6G8U"
+    },
+    {
+      "album": {
         "name": "aaMam\u00e1",
         "url": "https://open.spotify.com/album/2dw8JQ8BnZA1eAK3IJzrEs"
       },
@@ -8674,7 +8692,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 214170,
       "name": "Alguien especial",
       "url": "https://open.spotify.com/track/70l1yDDqBeh8rGxBPM3GEt"
@@ -12596,6 +12614,24 @@
       "duration_ms": 183000,
       "name": "Aquesta casa",
       "url": "https://open.spotify.com/track/0neRVJq4H8vJATHhvZgDnK"
+    },
+    {
+      "album": {
+        "name": "FOUND",
+        "url": "https://open.spotify.com/album/6pyVYSelFB3ERfiEWQJYNc"
+      },
+      "artists": [
+        {
+          "name": "Blu Boi",
+          "url": "https://open.spotify.com/artist/1AQkOwrwQg43nUandgPhAK"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160301,
+      "name": "Aquesta Nit",
+      "url": "https://open.spotify.com/track/0X85R1RJ6o1MVB3qnJnjaw"
     },
     {
       "album": {
@@ -21182,7 +21218,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 185454,
       "name": "Cabriolas",
       "url": "https://open.spotify.com/track/6MUKyohIAFyULlCbYcqBKZ"
@@ -25403,6 +25439,24 @@
     },
     {
       "album": {
+        "name": "Cerca Otra Vez",
+        "url": "https://open.spotify.com/album/0vkDvV5CpCNMzqgF6TeoVq"
+      },
+      "artists": [
+        {
+          "name": "Sao",
+          "url": "https://open.spotify.com/artist/0nK9GRlVPFtzXceyELkAed"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211264,
+      "name": "Cerca Otra Vez",
+      "url": "https://open.spotify.com/track/0CecWAF9lKTKrZeZmjxtSu"
+    },
+    {
+      "album": {
         "name": "PERSONALIDAD AL LIMITE",
         "url": "https://open.spotify.com/album/4tsvkGJdeDShEtwhPjTP2T"
       },
@@ -27638,7 +27692,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 156671,
       "name": "Co-op",
       "url": "https://open.spotify.com/track/11V4FtQ6ST6SNi6IIGprmH"
@@ -42445,6 +42499,24 @@
     },
     {
       "album": {
+        "name": "Cabriola (Relato Breve)",
+        "url": "https://open.spotify.com/album/6rsC5QPi6SoEbMGWgYKfU7"
+      },
+      "artists": [
+        {
+          "name": "Dianka",
+          "url": "https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dulcinea",
+      "url": "https://open.spotify.com/track/1q02PqPVPSnZ3I5LcTr06r"
+    },
+    {
+      "album": {
         "name": "Duro",
         "url": "https://open.spotify.com/album/5MCTnOABSS8aLTSztfiCtK"
       },
@@ -52274,7 +52346,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 234093,
       "name": "Espejito espejito",
       "url": "https://open.spotify.com/track/0usBL5asJPsE0My9HeJs2C"
@@ -52984,6 +53056,24 @@
       "duration_ms": 140092,
       "name": "Estampida - Remix",
       "url": "https://open.spotify.com/track/7C2pjqbdi2F4WQHhGeNqQY"
+    },
+    {
+      "album": {
+        "name": "Estar sin ti",
+        "url": "https://open.spotify.com/album/192cDxtuYkcqplMO0IODZZ"
+      },
+      "artists": [
+        {
+          "name": "Elem",
+          "url": "https://open.spotify.com/artist/4Ld1TuG5yea5RoYMLBNOVT"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166159,
+      "name": "Estar sin ti",
+      "url": "https://open.spotify.com/track/51xLpKk7oDa2ATOBhC6PHP"
     },
     {
       "album": {
@@ -69412,7 +69502,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 193322,
       "name": "Kinder",
       "url": "https://open.spotify.com/track/40fSYZBEKbvWGfXc8huXAv"
@@ -88765,6 +88855,24 @@
     },
     {
       "album": {
+        "name": "me rezo a m\u00ed",
+        "url": "https://open.spotify.com/album/0wz4MG9sWpUtXQpxw3QEmu"
+      },
+      "artists": [
+        {
+          "name": "killdevil",
+          "url": "https://open.spotify.com/artist/5vpWVMn0QugjvV7SkztUEH"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202448,
+      "name": "me rezo a m\u00ed",
+      "url": "https://open.spotify.com/track/7wLUsoMsvjdU9fV5UHevfo"
+    },
+    {
+      "album": {
         "name": "Me robaste el sue\u00f1o",
         "url": "https://open.spotify.com/album/2kEjLlW7Ocoze5eppnmdpl"
       },
@@ -100788,7 +100896,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 150769,
       "name": "No hay miedo",
       "url": "https://open.spotify.com/track/03zgSeSUisX7CQQbYx204H"
@@ -108123,6 +108231,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s de esa nube",
+        "url": "https://open.spotify.com/album/20HX1jnHFdwbysoVaMTblp"
+      },
+      "artists": [
+        {
+          "name": "BARIRI",
+          "url": "https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190410,
+      "name": "Oh no!",
+      "url": "https://open.spotify.com/track/50dSDiNFqqRKMY9OrTg9NB"
+    },
+    {
+      "album": {
         "name": "oh oh",
         "url": "https://open.spotify.com/album/3iyE6926o2WIrBwrLvLg4U"
       },
@@ -110128,7 +110254,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 205872,
       "name": "Otro Nivel",
       "url": "https://open.spotify.com/track/7yN8651sD87XT9JZwJNUJX"
@@ -120342,7 +120468,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 206813,
       "name": "P\u00cdSAME!",
       "url": "https://open.spotify.com/track/2elKOUJduoluYmIQjb8tFr"
@@ -121300,7 +121426,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 201223,
       "name": "Quedar",
       "url": "https://open.spotify.com/track/3RHNjEbqNAdJNP7TruNJ74"
@@ -128359,6 +128485,24 @@
     },
     {
       "album": {
+        "name": "San Antonio",
+        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
+      },
+      "artists": [
+        {
+          "name": "caracazador",
+          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238208,
+      "name": "San Antonio",
+      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
+    },
+    {
+      "album": {
         "name": "San Bernardo",
         "url": "https://open.spotify.com/album/06GPxBGP3qMpG2BkwIvyut"
       },
@@ -132324,6 +132468,24 @@
       "duration_ms": 125429,
       "name": "Siempre Me Acuesto Tarde",
       "url": "https://open.spotify.com/track/7f0u7QzRjqwW48OmiGb8Cx"
+    },
+    {
+      "album": {
+        "name": "Un sitio que no conozco",
+        "url": "https://open.spotify.com/album/2QXzHINVSKm3igvS1Nltlk"
+      },
+      "artists": [
+        {
+          "name": "Perd\u00f3n",
+          "url": "https://open.spotify.com/artist/6rvuyWGNXKoO2dyYy3VgM6"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186356,
+      "name": "Siempre me enfado cuando pierdo",
+      "url": "https://open.spotify.com/track/3Vd10SXvxc78cif2AEzjSL"
     },
     {
       "album": {
@@ -152094,7 +152256,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 207547,
       "name": "Una se\u00f1al",
       "url": "https://open.spotify.com/track/1vZwJbowaH7qxo5Wu0ULQp"
@@ -159814,6 +159976,24 @@
       "duration_ms": 175511,
       "name": "Zarzas",
       "url": "https://open.spotify.com/track/2N3QG3nH2EVyZ58qoufYe7"
+    },
+    {
+      "album": {
+        "name": "Zaunk",
+        "url": "https://open.spotify.com/album/3hwYocTARqsviz8Rxxwv9P"
+      },
+      "artists": [
+        {
+          "name": "EZEZEZ",
+          "url": "https://open.spotify.com/artist/2C8yeU7Y8UkgUHr2maUwBF"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Zaunk",
+      "url": "https://open.spotify.com/track/6rkHcbEZ5I90cdyJGNX4rW"
     },
     {
       "album": {

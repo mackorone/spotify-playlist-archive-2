@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Khal!l",
-  "num_followers": 1317034,
+  "num_followers": 1316938,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1173,6 +1173,22 @@
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "hillside",
+        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "hillside",
+      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
+    },
+    {
       "added_at": "2026-06-21 21:45:09",
       "album": {
         "name": "Still Be Mine",
@@ -1195,22 +1211,6 @@
       "duration_ms": 156666,
       "name": "Still Be Mine",
       "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "hillside",
-        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "hillside",
-      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
     },
     {
       "added_at": "2025-05-09 04:12:41",
@@ -1657,20 +1657,20 @@
       "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
-      "added_at": "2025-09-19 06:19:16",
+      "added_at": "2026-06-21 21:45:09",
       "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
+      "duration_ms": 125278,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -1705,20 +1705,20 @@
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
+      "added_at": "2025-09-19 06:19:16",
       "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
+        "name": "I Wish I Didn\u2019t Waste Your Time",
+        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 125278,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -1909,22 +1909,6 @@
       "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Y PREE",
-        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 140870,
-      "name": "Y PREE",
-      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
-    },
-    {
       "added_at": "2025-03-28 04:00:52",
       "album": {
         "name": "10 songs",
@@ -1959,6 +1943,22 @@
       "duration_ms": 184227,
       "name": "LUV IN DA 6 (with Smino)",
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -2081,6 +2081,22 @@
       "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "raindance",
+        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 218918,
+      "name": "raindance",
+      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+    },
+    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "SMOKIN POTNA",
@@ -2101,20 +2117,20 @@
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
+      "added_at": "2024-10-20 00:14:41",
       "album": {
-        "name": "raindance",
-        "url": "https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
       },
       "artists": [
         {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
         }
       ],
-      "duration_ms": 218918,
-      "name": "raindance",
-      "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2131,22 +2147,6 @@
       "duration_ms": 233824,
       "name": "bits + pieces",
       "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
-    },
-    {
-      "added_at": "2024-10-20 00:14:41",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -2201,22 +2201,6 @@
       "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Asleep At The Wheel",
-        "url": "https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "Petty Pete",
@@ -2231,6 +2215,22 @@
       "duration_ms": 160248,
       "name": "Petty Pete",
       "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Asleep At The Wheel",
+        "url": "https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -2401,22 +2401,6 @@
       "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "Fidelity",
-        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 206907,
-      "name": "Forty Days",
-      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
-    },
-    {
       "added_at": "2025-06-27 04:16:56",
       "album": {
         "name": "Homerun 2021",
@@ -2433,20 +2417,20 @@
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
+      "added_at": "2026-04-17 06:06:32",
       "album": {
-        "name": "Pluto Baby",
-        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
       },
       "artists": [
         {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Pluto Baby",
-      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+      "duration_ms": 206907,
+      "name": "Forty Days",
+      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2497,24 +2481,20 @@
       "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
+      "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "Lights Down Low",
-        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
+        "name": "Pluto Baby",
+        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        },
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
         }
       ],
-      "duration_ms": 220222,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
+      "duration_ms": 177440,
+      "name": "Pluto Baby",
+      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
     },
     {
       "added_at": "2025-09-12 20:05:34",
@@ -2547,6 +2527,26 @@
       "duration_ms": 228262,
       "name": "Your Ecstasy",
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
+    },
+    {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "Lights Down Low",
+        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
+      },
+      "artists": [
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        },
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "duration_ms": 220222,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
     },
     {
       "added_at": "2024-06-14 07:30:32",

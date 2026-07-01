@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,979 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,988 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 21 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 22 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
 | 23 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
-| 24 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
+| 24 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
 | 25 | [Hello Hello](https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:36 |
-| 26 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
+| 26 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 27 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
 | 28 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 |
 | 29 | [My Hair Looks Fierce \- Original](https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW) | [Amanda Lepore](https://open.spotify.com/artist/4rPzjuxvcad2GgpIRt2civ) | [Introducing...Amanda Lepore](https://open.spotify.com/album/0Z96e8zrSgJfokKZfo0Qxb) | 3:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 37 | [Excuse the Beauty](https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Excuse the Beauty](https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS) | 3:09 |
 | 38 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 39 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
-| 40 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
-| 41 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 40 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |
+| 41 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
 | 42 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 43 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0DwQVJX7NGrRcPnfn2zUvL), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 44 | [Bring Back My Girls](https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [The Shady Bunch / Bring Back My Girls](https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Alvaro Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,745 likes - 63 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,746 likes - 63 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 6 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 7 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 |
 | 8 | [PERDISTE EL EMMY.](https://open.spotify.com/track/13ZG0ttABjb0rpL84bOBm6) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [OMAKASE](https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2) | 4:03 |
-| 9 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
-| 10 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 |
+| 9 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 |
+| 10 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
 | 11 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
 | 12 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |
 | 13 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 52 | [JACKIE'S BACK](https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [JACKIE'S BACK](https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI) | 2:39 |
 | 53 | [2 C U](https://open.spotify.com/track/6lUM0QGNVT65iu4aRLU3LM) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [2 C U](https://open.spotify.com/album/5MoouUulpYW0XWheX1Wlue) | 2:19 |
 | 54 | [BENJAMINS](https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [BENJAMINS](https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U) | 3:11 |
-| 55 | [Sekete](https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c) | [Sekete](https://open.spotify.com/album/1vFPEZJWV5hNVsaMORHPi1) | 3:04 |
-| 56 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 |
+| 55 | [So True](https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f), [Lewis John](https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb) | [So True](https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt) | 2:43 |
+| 56 | [Sekete](https://open.spotify.com/track/2PqPTeBqrzY3dEHie9rSvU) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Swordman Kitala](https://open.spotify.com/artist/58JJJyz6aYl9nRkTWSzH1c) | [Sekete](https://open.spotify.com/album/1vFPEZJWV5hNVsaMORHPi1) | 3:04 |
 | 57 | [Stoner Music](https://open.spotify.com/track/6CRcnYpkrVGZ4rCOskOelE) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Stoner Music](https://open.spotify.com/album/2TjTiFkPnKmjWg5xaJT3OA) | 1:58 |
 | 58 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
 | 59 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |

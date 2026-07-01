@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,503 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,500 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 41 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
 | 42 | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Back to Basics \(feat\. Skepta\) \(Floating Points Remix\)](https://open.spotify.com/album/5AqA9sP5nWY0Q4ysvpJOdo) | 3:49 |
 | 43 | [Maia Maia](https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Maia Maia](https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu) | 3:01 |
-| 44 | [Spiralen](https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Spiralen](https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ) | 7:17 |
-| 45 | [I Want You To Know](https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe) | [I Want You To Know](https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS) | 3:10 |
+| 44 | [I Want You To Know](https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe) | [I Want You To Know](https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS) | 3:10 |
+| 45 | [Spiralen](https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Spiralen](https://open.spotify.com/album/1kEZXSkIPpoDcjEMsJVQLJ) | 7:17 |
 | 46 | [Mad](https://open.spotify.com/track/4i2PhAH8B2dOtPsRY5EluD) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Mad](https://open.spotify.com/album/4pDwGAeGYaZB0Nee3q13ch) | 3:58 |
 | 47 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 48 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |

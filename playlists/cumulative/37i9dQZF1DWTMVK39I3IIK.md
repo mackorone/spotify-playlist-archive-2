@@ -4,7 +4,7 @@
 
 > youngs soundss 🥞 Klara Vibe på forsiden
 
-447 songs - 22 hr 57 min
+448 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-07 | 2025-10-10 |
 | [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-07-13 |
 | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Coast II Coast \(feat\. USSEL\)](https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE) | 2:08 | 2024-09-05 | 2025-01-20 |
-| [cool words](https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [tense present](https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT) | 2:07 | 2026-06-04 |  |
+| [cool words](https://open.spotify.com/track/2YemLBdJSJQAwndrKhPgqb) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [tense present](https://open.spotify.com/album/3Y3jFgpvIJY3tT7h8y9FbT) | 2:07 | 2026-06-04 | 2026-07-01 |
 | [Crush](https://open.spotify.com/track/2bxy5KcIllYS4D0TSlXnNf) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Crush](https://open.spotify.com/album/2OzQaOnxPar53ymM66qm4G) | 2:46 | 2025-09-25 | 2025-10-03 |
 | [Crying In The Bathroom](https://open.spotify.com/track/6wd4LAk8S7Y0HLW44YKdeR) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Crying In The Bathroom](https://open.spotify.com/album/1qQ4jnca6xEmrc6gKF6DwZ) | 2:46 | 2024-11-21 | 2025-01-10 |
 | [Cursing and Lying!](https://open.spotify.com/track/5dslPul1UbjAHzUcFZZoUw) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 5:14 | 2024-10-03 | 2024-11-27 |
@@ -438,6 +438,7 @@
 | [Vægtløs](https://open.spotify.com/track/1D5t5C40UMsyIVxooccqQX) | [Malte August](https://open.spotify.com/artist/0jXOczqKCZPeNfF0vtEvm6) | [Gode Dage Venter](https://open.spotify.com/album/6OMdkRGQXsRaLKAh2qp2FX) | 2:57 | 2025-10-30 | 2025-11-07 |
 | [været der for mig](https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w) | [Undertekst](https://open.spotify.com/artist/6bYrq1Uxd15cMGbmcZCLMM) | [været der for mig](https://open.spotify.com/album/75xujGRiyUtiiw67mmJOnn) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 | 2026-04-24 |
+| [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 | 2026-06-26 |  |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-02-06 |
 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 | 2025-12-11 | 2026-03-03 |

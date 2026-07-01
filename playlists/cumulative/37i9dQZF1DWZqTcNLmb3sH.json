@@ -7432,7 +7432,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 218769,
       "name": "Bombe Bombe (From \"Terror\")",
       "url": "https://open.spotify.com/track/4LQ2yAKJLPnlMIUGXHG0kU"
@@ -28907,6 +28907,36 @@
     },
     {
       "album": {
+        "name": "Muddu Muddu Kanasugalu (From \"Breakfast - Kannada\")",
+        "url": "https://open.spotify.com/album/23EGiSHVEoPeejYnhXmkFW"
+      },
+      "artists": [
+        {
+          "name": "Ajai Kashyap",
+          "url": "https://open.spotify.com/artist/0Y5FTy64SVe7XMBvQ2qpMe"
+        },
+        {
+          "name": "Sharanya Srinivas",
+          "url": "https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vishwajith Rao",
+          "url": "https://open.spotify.com/artist/4yoso4oy6CJUzfVOS6zkjS"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211914,
+      "name": "Muddu Muddu Kanasugalu (From \"Breakfast - Kannada\")",
+      "url": "https://open.spotify.com/track/3X7Im2XU349J6aELnqxrUd"
+    },
+    {
+      "album": {
         "name": "Love You Rachchu",
         "url": "https://open.spotify.com/album/3Kcmwfojkowiowh3beUyRn"
       },
@@ -30624,7 +30654,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 257288,
       "name": "Namo Re (From \"Nagabandham\") (Kannada) (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/2MK6NIxLfVPwfjd3RMRbVz"
@@ -43342,6 +43372,36 @@
       "duration_ms": 243373,
       "name": "Student Party",
       "url": "https://open.spotify.com/track/18bEtr0jCjLkbwAzUn98Hv"
+    },
+    {
+      "album": {
+        "name": "Su Subblakshmi (From \"Boys Never Compromise\")",
+        "url": "https://open.spotify.com/album/7GHuhXE1zzvaFucz3604Hc"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Loki Tavasya",
+          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
+        },
+        {
+          "name": "Harish Jalgere",
+          "url": "https://open.spotify.com/artist/0f7cKBA6JTLqVoxYXOsJTp"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "Su Subblakshmi (From \"Boys Never Compromise\")",
+      "url": "https://open.spotify.com/track/1ycpvbd12mVnw0AU6Ij2Lb"
     },
     {
       "album": {

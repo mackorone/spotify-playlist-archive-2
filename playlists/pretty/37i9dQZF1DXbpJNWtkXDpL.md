@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,025 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,040 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 42 | [a la mitad](https://open.spotify.com/track/1dbDRlYvm4KaCVzMVUPlby) | [Majo Rivas](https://open.spotify.com/artist/3S4muLLIYiYK4P9ApjyLbY), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [a la mitad](https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY) | 2:54 |
 | 43 | [Todavía No](https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Todavía No](https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq) | 4:05 |
 | 44 | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j) | 2:27 |
-| 45 | [puede ser que mañana](https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [puede ser que mañana](https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A) | 2:50 |
-| 46 | [Tempestad](https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Tempestad](https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE) | 4:15 |
+| 45 | [Tempestad](https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Tempestad](https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE) | 4:15 |
+| 46 | [puede ser que mañana](https://open.spotify.com/track/04JyEAMKSbbaYePxUxl2ko) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [puede ser que mañana](https://open.spotify.com/album/72dQTdU4eSEjraSXzXNc9A) | 2:50 |
 | 47 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
 | 48 | [besos de esquimal](https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt) | [sobresdylan](https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL) | [sobrio](https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY) | 4:00 |
 | 49 | [AYER \- Plugg conciencia](https://open.spotify.com/track/2cmGC5QRB7mNufvsGwwaZM) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Young Dune](https://open.spotify.com/artist/2O6WxYXVduRSokMq8JHHkT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz) | [AYER \(Plugg conciencia\)](https://open.spotify.com/album/0WwrrFr6K8BBUgyjjuA2FR) | 3:13 |

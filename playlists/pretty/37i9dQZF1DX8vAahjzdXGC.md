@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Bernadya, Rony Parulian, Tenxi, Tyler, The Creator, Sombr, Gracie Abrams, Charli xcx, Stray Kids, Heart2Hearts dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,473 likes - 109 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,479 likes - 109 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

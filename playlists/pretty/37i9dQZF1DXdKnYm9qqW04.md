@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,507 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,567 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 51 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
 | 52 | [The Only Way Is Up](https://open.spotify.com/track/1V0Zy7533bjXFSVtn3crzY) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 4:18 |
 | 53 | [Secrets \- Radio Edit](https://open.spotify.com/track/69zxj1EFDfAouZu9JDmQld) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Secrets \(Radio Edit\)](https://open.spotify.com/album/4p3CULd5VeCSikL0PYkoP3) | 3:36 |
-| 54 | [Shine](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 4:15 |
-| 55 | [Gonna Love Ya](https://open.spotify.com/track/1rDETmcizen79JghAEm1Se) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:35 |
+| 54 | [Gonna Love Ya](https://open.spotify.com/track/1rDETmcizen79JghAEm1Se) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:35 |
+| 55 | [Shine](https://open.spotify.com/track/7KM7AeGDIWKxrMN7E4ljRA) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 4:15 |
 | 56 | [Reality](https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Reality](https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx) | 2:39 |
 | 57 | [Samsara \(feat\. Emila\)](https://open.spotify.com/track/6oJflQkp7lFXOQce4wPTAW) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Emila](https://open.spotify.com/artist/3AlnY6JafbuFhod8D3Lo8l) | [Samsara \(feat\. Emila\)](https://open.spotify.com/album/4rKrPkq8zi6jKmuLdzpNY2) | 3:31 |
 | 58 | [Closer](https://open.spotify.com/track/3h5IIiL9vK5aR0DZO6jD7D) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 4:30 |

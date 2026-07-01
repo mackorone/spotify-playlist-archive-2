@@ -10366,7 +10366,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 318274,
       "name": "Quick!",
       "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
@@ -14676,6 +14676,24 @@
       "duration_ms": 199093,
       "name": "Whole",
       "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"
+    },
+    {
+      "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O"
     },
     {
       "album": {

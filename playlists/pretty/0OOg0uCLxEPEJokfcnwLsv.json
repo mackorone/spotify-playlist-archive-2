@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1111,
+  "num_followers": 1114,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGjAfIVt9LgWvMdxbiCIFi6vQ3ne3Y",
+  "snapshot_id": "AAAGj85Itgdg0wzEMmPtZL2noh7njSwb",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1679,6 +1679,54 @@
       "duration_ms": 196061,
       "name": "7-7-7",
       "url": "https://open.spotify.com/track/47RIBc1ppUx3dTW3HKKNAZ"
+    },
+    {
+      "added_at": "2026-07-01 01:53:45",
+      "album": {
+        "name": "Two Souls",
+        "url": "https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Two Souls",
+      "url": "https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j"
+    },
+    {
+      "added_at": "2026-07-01 02:10:55",
+      "album": {
+        "name": "Man Made Machine",
+        "url": "https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wallisch Jr.",
+          "url": "https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ"
+        }
+      ],
+      "duration_ms": 307399,
+      "name": "Torre Pendente",
+      "url": "https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj"
+    },
+    {
+      "added_at": "2026-07-01 02:18:15",
+      "album": {
+        "name": "It's a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4"
+      },
+      "artists": [
+        {
+          "name": "Dimestore Freud",
+          "url": "https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6"
+        }
+      ],
+      "duration_ms": 151687,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/6zSniKNMTVgqQIbwcp4NMG"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: Prompts",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: THE SIXTH LIE",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 231773,
       "name": "IKIZAMA",
       "url": "https://open.spotify.com/track/5yppaWzGbOvKS2Wik6oWUk"
@@ -3649,6 +3649,24 @@
     },
     {
       "album": {
+        "name": "LIGHT FADE",
+        "url": "https://open.spotify.com/album/3LlAhfNSVtbdg7jJHVafPT"
+      },
+      "artists": [
+        {
+          "name": "Kala",
+          "url": "https://open.spotify.com/artist/7pPCkPhaRLkGmovI5M0zCq"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224021,
+      "name": "LIGHT FADE",
+      "url": "https://open.spotify.com/track/3o8C68TqVWid7ySEk6jLrn"
+    },
+    {
+      "album": {
         "name": "Beast Mode / Octave",
         "url": "https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ"
       },
@@ -3664,6 +3682,24 @@
       "duration_ms": 249700,
       "name": "Light my fire",
       "url": "https://open.spotify.com/track/5UqYxHu2f1fumEZdYZ8el1"
+    },
+    {
+      "album": {
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/5zBRnUWh547MkgZwAegm4o"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215034,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/50u76DXok7cIouLPLQxGfc"
     },
     {
       "album": {
@@ -5176,6 +5212,24 @@
       "duration_ms": 187908,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
+    },
+    {
+      "album": {
+        "name": "Raise Your Flag",
+        "url": "https://open.spotify.com/album/2PnF8XNl9MptTBMv3J2KId"
+      },
+      "artists": [
+        {
+          "name": "THE SIXTH LIE",
+          "url": "https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "Raise Your Flag",
+      "url": "https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap"
     },
     {
       "album": {
@@ -6760,7 +6814,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS (PARIS MIX)",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
@@ -8358,7 +8412,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 180666,
       "name": "\u5384\u707d",
       "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"

@@ -2,7 +2,7 @@
 
 ### [Tech House Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> 50% techno, 50% house 🐈 Tech house operators, featuring DJ Tennis
+> 50% techno, 50% house 💜 Tech house operators, featuring DJ Tennis
 
 2,870 songs - 6 day 12 hr 43 min
 

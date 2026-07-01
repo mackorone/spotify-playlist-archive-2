@@ -4,7 +4,7 @@
 
 > 
 
-253 songs - 13 hr 19 min
+257 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bittersweet](https://open.spotify.com/track/5jwi6uej7cKEXRKl5T5NJe) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Bittersweet](https://open.spotify.com/album/5PpYInSPwb0qYYMFyCN0FL) | 2:31 | 2025-09-11 |  |
 | [Blue Light Special](https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo), [TeaYaMay](https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5) | [Blue Light Special](https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E) | 2:10 | 2026-06-22 |  |
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2026-04-07 |  |
+| [BURI ENDEMONIAO](https://open.spotify.com/track/6OYOWLHlok3ProIUXIyW10) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Tente](https://open.spotify.com/artist/1LAGbvUX2QG5pAtnVhwl2M), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [BURI ENDEMONIAO](https://open.spotify.com/album/1qTnvUtjY681bIevE4Z2Wc) | 1:58 | 2026-06-30 |  |
 | [Cadeado na Cabeça](https://open.spotify.com/track/2cRuFyGzf3dqC7VvWGu97Q) | [Trilogia Urbana](https://open.spotify.com/artist/7JEEQ1GSiNLKy8RNgEFlOM) | [Cadeado na Cabeça](https://open.spotify.com/album/37gI2wJQTpRB5TUdWNpSSD) | 2:48 | 2026-06-29 |  |
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Ce monde est sale](https://open.spotify.com/track/4mGlOdhgRBOtTZPHGXt6A4) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [SATURATION](https://open.spotify.com/album/2BQB5dXXMSsYAQKx0V8YMb) | 1:39 | 2026-06-22 |  |
@@ -92,6 +93,7 @@
 | [Foolish](https://open.spotify.com/track/4Rx9hSHqsf7EnarIK4ogCq) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Foolish](https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw) | 3:22 | 2026-03-15 |  |
 | [Footsteps In The Snow](https://open.spotify.com/track/4rEIvYWAoxaJMQtn2Vxh22) | [TRUE VIOLENCE](https://open.spotify.com/artist/4Nd2abwG3lQaZFAOJkrKc5), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [TRUE VIOLENCE II](https://open.spotify.com/album/675EWaERbVUkX532tpDywe) | 7:00 | 2026-06-24 |  |
 | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/track/5jEA3MfSYes1opYzW1A15B) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/album/54etYLc84CmETgjN65td9C) | 1:58 | 2026-03-05 |  |
+| [FRESA](https://open.spotify.com/track/6MW4bg0ThytV9jELeTYkI2) | [Jack SS](https://open.spotify.com/artist/2oQMY35cF4L9Xvaksl8ifB) | [FRESA](https://open.spotify.com/album/4uqqB0p3BjugeFdIVzvdD1) | 1:54 | 2026-06-30 |  |
 | [Genuine](https://open.spotify.com/track/51mLBSASbfih09HkTViS8M) | [Pixiewolf](https://open.spotify.com/artist/2MjyIcU2BRGLYXtpW9aVa7) | [Genuine](https://open.spotify.com/album/1yhCbT665XRK4sbp19WRCQ) | 2:43 | 2025-04-07 |  |
 | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/track/5LcrOJjKRQ8opafD72lCm6) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/album/4WIZ3Cf2dJTEKeGLdhKLmZ) | 3:26 | 2025-03-12 |  |
 | [Gimmick](https://open.spotify.com/track/4uFT0D47ztptmYn4lfybCb) | [Pigeon Pye](https://open.spotify.com/artist/72kLEU6mRB5iLrmABFhjlz) | [Story](https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6) | 2:50 | 2026-06-19 |  |
@@ -127,6 +129,7 @@
 | [Jazz Soul \- \(Freestyle\)](https://open.spotify.com/track/2SGF1liiKRxgtJM12X2XfU) | [Pazzo](https://open.spotify.com/artist/1DDE68aTInM89DhuzkIWAR) | [Jazz Soul](https://open.spotify.com/album/3pdWZJ8FhYGdasB8Qon7l5) | 3:32 | 2026-04-02 |  |
 | [jealousy misery](https://open.spotify.com/track/0x2N0M44PqRv2Dx4YtYJSy) | [Rafael Dies](https://open.spotify.com/artist/4td046m3qUPVqi53lzbw3N) | [Hush](https://open.spotify.com/album/3D6Dnsu11iFwDWIUoB1GUJ) | 2:47 | 2026-06-13 |  |
 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 | 2025-11-28 |  |
+| [Julie](https://open.spotify.com/track/4ppjfF1wbORmSAMAnzTE0O) | [R.A.G.Z.](https://open.spotify.com/artist/2zvknLzskQCJLxpHOEY18d) | [Julie](https://open.spotify.com/album/6qkM8RySVoePuyOjI4H8TX) | 5:32 | 2026-06-30 |  |
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
 | [keep your head up, bitch](https://open.spotify.com/track/14P02Pz06wm2Mnov97XFyg) | [NikhiL Keolan Gounden](https://open.spotify.com/artist/1ZcgW5GN8CCg2vANZwMgG1) | [BROKEN SIGNALS](https://open.spotify.com/album/7o3fL9GzxzP2RwnPwALHUB) | 3:06 | 2026-05-06 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
@@ -208,6 +211,7 @@
 | [Shoot Me Like A Doll](https://open.spotify.com/track/2QDBsajFcgMppn7zlYxQDt) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Shoot Me Like A Doll](https://open.spotify.com/album/3Yt2Y5JabvIsWl90cOZV9o) | 3:09 | 2026-03-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-04-14 |  |
+| [Sin ir tan lejos](https://open.spotify.com/track/3ad5lw5L4WZVObfvgVsCWL) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Giovanni Tonight](https://open.spotify.com/artist/2q9fWbtFZdI3il6GffVCfp) | [Los Testamentos](https://open.spotify.com/album/6GK49Zb0RCnDjkCu8iEUg4) | 2:51 | 2026-06-30 |  |
 | [SIN REMORDIMIENTOS](https://open.spotify.com/track/17AxppFQG4GtpsnSd9WL9h) | [Lope](https://open.spotify.com/artist/5xjht9gF2pJkmWwCu6SwHm) | [SIN REMORDIMIENTOS](https://open.spotify.com/album/7ISPuPra9vpoHernREfFBb) | 2:37 | 2025-06-06 |  |
 | [Situationships](https://open.spotify.com/track/17BZbS3oOKmTmHTlZ0LqUS) | [Chloe Hepburn](https://open.spotify.com/artist/4sem4vxRZAFrz2uohwhs4i) | [Situationships](https://open.spotify.com/album/3g6GU9jBMKdNszmOvITNos) | 3:18 | 2025-04-06 |  |
 | [so...............................?](https://open.spotify.com/track/6wAGRDEEsUNkbcnWVZORSg) | [ArfHudson](https://open.spotify.com/artist/1r88jRdaqwfu3r6AHp7VVU) | [cute practice](https://open.spotify.com/album/18chTHeiJkJUX3Q5T9Rry6) | 1:33 | 2026-01-28 |  |

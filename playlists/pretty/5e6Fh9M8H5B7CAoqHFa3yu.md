@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,421 songs - 5 day 22 hr 42 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 342 likes - 2,423 songs - 5 day 22 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2429,5 +2429,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2419 | [DEROGATORY](https://open.spotify.com/track/6vFNlT9rxihG5ey0gxUkJo) | [YungBart](https://open.spotify.com/artist/3Zp9dPmBEhieo5EJa9RE1x) | [BIG BREAK](https://open.spotify.com/album/4d1jBtNusVXgO5K3Cun1IM) | 3:08 |
 | 2420 | [Son Of God](https://open.spotify.com/track/2gxdVIWXucZeOvAPIFq7Ye) | [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat), [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA) | [Holy Ground, Vol\. 1](https://open.spotify.com/album/5RugmFSjKKXVZQKvwkk4zo) | 3:46 |
 | 2421 | [TRY ME](https://open.spotify.com/track/0CavuOdspBDRkBXhEP6UMH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TRY ME](https://open.spotify.com/album/4Uvf4xhtQ3yPZOjpQ30VUs) | 2:40 |
+| 2422 | [Como nuevo](https://open.spotify.com/track/03NRpkZhScby10Vs3eueuw) | [Saúl](https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r) | [Como nuevo](https://open.spotify.com/album/2yePXIFjQ7in7kDhb96zEA) | 3:02 |
+| 2423 | [Leggera](https://open.spotify.com/track/1DBVYfntIhxnP3Id67tw62) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr) | [Leggera](https://open.spotify.com/album/6830m8vrvafqg1U3wi1ktW) | 2:47 |
 
-Snapshot ID: `AAAKQsoqtF4YNY1TaiAlke6zOfWuKMCo`
+Snapshot ID: `AAAKRMhgYg/UUfhlxs4nYGWyKpOfGsPL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,105 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,157 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 13 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:37 |
 | 14 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 |
 | 15 | [From Gagarin's Point of View](https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138) | 4:03 |
-| 16 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 |
+| 16 | [We Will Meet Again \- Remastered](https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:04 |
 | 17 | [I Love Music](https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 7:22 |
 | 18 | [Strange Meadow Lark](https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 7:26 |
 | 19 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 |
 | 20 | [Köln, January 24, 1975, Part II a \- Live](https://open.spotify.com/track/3hrt1fLgEZIZPONUbcDY0c) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 14:54 |
-| 21 | [We Will Meet Again \- Remastered](https://open.spotify.com/track/3UZSpAlc0WZjxkfbUBdUgT) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:04 |
+| 21 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 |
 | 22 | [Volga Boatman](https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Count 'Em 88](https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3) | 3:52 |
 | 23 | [I'm In The Mood For Love](https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Complete Savoy Master Takes](https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0) | 2:55 |
 | 24 | [You Look Good To Me](https://open.spotify.com/track/2NER1VcufbZDBO8ZbdJlNR) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 4:49 |

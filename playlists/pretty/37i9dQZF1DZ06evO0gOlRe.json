@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 36779,
+  "num_followers": 36780,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABP5c+Fiz/3kvkJLIZXCzem",
+  "snapshot_id": "akG1gAAAAABmyp+0j/mohB3MhImbXHAU",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Good Things Go",
-      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
+      "duration_ms": 178160,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
+      "duration_ms": 215173,
+      "name": "Good Things Go",
+      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
     },
     {
       "added_at": null,

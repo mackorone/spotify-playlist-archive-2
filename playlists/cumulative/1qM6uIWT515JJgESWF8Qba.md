@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-274 songs - 17 hr 8 min
+277 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-03-12 | 2026-05-19 |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-05-19 |
+| [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2026-07-01 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-17 | 2026-05-17 |
 | [Fickled](https://open.spotify.com/track/0sSi3pV5lJk7bwCNC3NQt5) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Fickled](https://open.spotify.com/album/5KbqNfYxhr2lK6wuvf6L2i) | 3:43 | 2026-03-21 |  |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2026-06-09 |  |
@@ -163,6 +164,7 @@
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |
 | [Loverboy](https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Loverboy](https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF) | 2:53 | 2026-06-02 |  |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-11-18 | 2025-12-28 |
+| [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-07-01 |  |
 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 | 2026-03-21 |
 | [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 | 2026-05-26 |  |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 | 2026-01-21 |
@@ -239,6 +241,7 @@
 | [Summer Ends In June](https://open.spotify.com/track/0sJKhlWsiYhYDR8KEcC7Zn) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [Memory Tattoos](https://open.spotify.com/album/225MfCZIbTNTA5m9tOollK) | 3:50 | 2026-06-21 |  |
 | [Summertime \(2025\)](https://open.spotify.com/track/5KnewAmxxneui5ZujMZkQV) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 4:33 | 2025-12-31 | 2026-01-21 |
 | [Sunday Lazy Afternoon](https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t) | [Johnny & The G\-Men](https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6) | [Sunday Lazy Afternoon](https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB) | 4:52 | 2025-12-25 | 2026-01-21 |
+| [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2026-07-01 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 | 2025-12-28 |
 | [take me to the other side](https://open.spotify.com/track/7DVCnily4QAjO3jaaD6eGd) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [take me to the other side](https://open.spotify.com/album/44gz5UtRohvze3YuLSX224) | 4:13 | 2026-02-07 | 2026-05-17 |
 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 | 2025-12-06 |  |

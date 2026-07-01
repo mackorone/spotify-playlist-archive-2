@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 El Kuelgue
 
-468 songs - 1 day 5 hr 42 min
+469 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Los Días Felices](https://open.spotify.com/track/38XOxAeqVTg8007GN09dQL) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Los Días Felices](https://open.spotify.com/album/3FFmwE0BQBwX1XsdCdgRfw) | 3:24 | 2022-07-19 | 2022-07-25 |
 | [Los pibes son campeones](https://open.spotify.com/track/2l5e1hw6zazIxRaUe6Wqeh) | [CACUCA](https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe), [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Los pibes son campeones](https://open.spotify.com/album/6kvQPk3H8hopgjdFBSggIn) | 3:00 | 2026-02-06 | 2026-02-14 |
 | [Los Prejuicios](https://open.spotify.com/track/56Bbpl6wbG8BnNE4D3ylgo) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Prietto](https://open.spotify.com/artist/3Xm2CjJ6i14krOHOGVDYts) | [Los Prejuicios](https://open.spotify.com/album/1zehKXJWFuBafpq12GR56U) | 4:53 | 2023-08-25 | 2023-09-22 |
-| [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 | 2022-07-19 |  |
+| [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 | 2022-07-19 | 2026-07-01 |
 | [Los Viejos Vinagres](https://open.spotify.com/track/3qGkFTw5nEDmBn8bgwFN1H) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Los Viejos Vinagres](https://open.spotify.com/album/0HPyIrvLK6bMIjA9q8HSFC) | 3:38 | 2022-06-29 | 2022-07-22 |
 | [LUZ DELITO](https://open.spotify.com/track/13VEtVCYfLTVsq5STs3SlW) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CARAVANA](https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91) | 2:35 | 2022-07-19 | 2023-01-28 |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-08-14 | 2023-10-07 |
@@ -384,6 +384,7 @@
 | [SI TÚ NO ESTÁS](https://open.spotify.com/track/62Ozbu1BRDzKUraXEkrCoq) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [SI TÚ NO ESTÁS](https://open.spotify.com/album/7xpTyOH2YHfvGQDjxeh13c) | 3:58 | 2025-08-22 | 2025-09-05 |
 | [Siglo Vacío](https://open.spotify.com/track/5eZ32JnRAeiGvFlMsxRVtj) | [Rempalago Amarillo](https://open.spotify.com/artist/2yNJuJBkFNFEDcdxlQEhii) | [Siglo Vacío](https://open.spotify.com/album/25bdcOaAXhzEVkI1DyrPBL) | 3:57 | 2025-04-25 | 2025-05-02 |
 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 | 2022-09-09 |  |
+| [Sin la Piel](https://open.spotify.com/track/0wI0lXjRGo7O6Z1n73I1hs) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Sin la Piel](https://open.spotify.com/album/3c7T7Aph81kFqXddp9dchz) | 3:41 | 2026-06-30 |  |
 | [Sin Rumbo](https://open.spotify.com/track/0Z1AdL0tTwA5ob29Oe82Vs) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 3:24 | 2025-02-21 | 2025-04-04 |
 | [Soy](https://open.spotify.com/track/2eucmvlETqs4wRhvvThfEm) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Soy](https://open.spotify.com/album/2RNZYpHSYSgkP4BqLFymhp) | 3:11 | 2022-06-29 | 2022-07-29 |
 | [Soy](https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Lo Que Somos](https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ) | 3:11 | 2023-03-03 | 2024-04-19 |

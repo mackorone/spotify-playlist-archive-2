@@ -10879,6 +10879,24 @@
     },
     {
       "album": {
+        "name": "Viraha Vimanam",
+        "url": "https://open.spotify.com/album/1KEz0ON03B5xKJkPjniE0F"
+      },
+      "artists": [
+        {
+          "name": "Radio Legs",
+          "url": "https://open.spotify.com/artist/7biyxbWnxnAq0LbNvaCdiV"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205792,
+      "name": "Viraha Vimanam",
+      "url": "https://open.spotify.com/track/2WJZ2DEKs3cQDCKsbBNzNs"
+    },
+    {
+      "album": {
         "name": "When Nature Calls",
         "url": "https://open.spotify.com/album/1MraQsbPfSly4llApBNHae"
       },

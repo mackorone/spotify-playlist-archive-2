@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,450 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,520 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 60 | [My World Is Empty Without You \- Single Version \(Mono\)](https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Story Of The Supremes \(2CD Set\)](https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl) | 2:32 |
 | 61 | [I Never Loved A Man \[The Way I Love You\]](https://open.spotify.com/track/3zyDPAVCR5FQuvkzV0vs5e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Definitive Soul: Aretha Franklin](https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n) | 2:44 |
 | 62 | [Boogie On Reggae Woman](https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(International Version\)](https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g) | 5:13 |
-| 63 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
-| 64 | [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 2:38 |
+| 63 | [People Get Ready](https://open.spotify.com/track/7mJIrjmjWH37U9MG2U4oZC) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Best Of The Impressions Featuring Curtis Mayfield](https://open.spotify.com/album/5na5qMbh58m7zr9vccvxWg) | 2:38 |
+| 64 | [Wish Someone Would Care](https://open.spotify.com/track/1svjzDsiaW04M8A4tr6tvj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol\. 1](https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG) | 2:19 |
 | 65 | [Tell It Like It Is](https://open.spotify.com/track/6xDVsf5wUYfA70Us2pFWu5) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Rock The Boat](https://open.spotify.com/album/3ZKYRKHbC6kLXh6xc8sABA) | 3:06 |
 | 66 | [Oh, No Not My Baby](https://open.spotify.com/track/0UaDKKReLUGqJVNUIemaPk) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [The Very Best Of Maxine Brown](https://open.spotify.com/album/64qNZpi71sBTDe2F23IlOn) | 2:37 |
 | 67 | [Boogie Down \- Single Version](https://open.spotify.com/track/1g6IiMTz9cPHLOIn7aAkCd) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [True Funk \[3 CD Set\]](https://open.spotify.com/album/6YQxPRto33Zn2SpzIFIobt) | 3:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > Para bailar hasta el amanecer\. Foto: Campedrinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,718 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,719 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 29 | [Por Tu Querer](https://open.spotify.com/track/6cyjG51eS5wNBClG2ggkPX) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Por Tu Querer](https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke) | 2:29 |
 | 30 | [La Noche Salteña](https://open.spotify.com/track/4EYyuY7x7OsbzC6MzkusHM) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [La Noche Salteña](https://open.spotify.com/album/5HSE5Sx8MmtWdb66EmR3yj) | 2:52 |
 | 31 | [Volver a Verte](https://open.spotify.com/track/5OP2PMkXcIIbEzztGKPYve) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 2:23 |
-| 32 | [Calle Angosta](https://open.spotify.com/track/10BOpW1thPZpDrIMuJVqLv) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi), [Los Tabaleros](https://open.spotify.com/artist/2teaiwOEozXRJEni6xUW0m) | [Calle Angosta](https://open.spotify.com/album/5ePgkF5LGxPRGcIGZUJ256) | 3:30 |
+| 32 | [Calle Angosta](https://open.spotify.com/track/10BOpW1thPZpDrIMuJVqLv) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi), [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Calle Angosta](https://open.spotify.com/album/5ePgkF5LGxPRGcIGZUJ256) | 3:30 |
 | 33 | [Gato del Festival](https://open.spotify.com/track/4KHBPKKzPuPtj5I73AAXpX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Yámana](https://open.spotify.com/artist/54aqhNJ3tynW46SOwMR9hT) | [Gato del Festival](https://open.spotify.com/album/3HLPRr5dA9yuJMlirISWxr) | 2:08 |
 | 34 | [Espada y Copa](https://open.spotify.com/track/0IEaQkwfbfnbqfMFLhPbLN) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Espada y Copa](https://open.spotify.com/album/4ovyXcGwRK4ApOuOlnxsuR) | 2:58 |
 | 35 | [Cantor de Chacarera](https://open.spotify.com/track/0We54vDRP7gyuBrhn36QV1) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Origen](https://open.spotify.com/album/2GRvGXSzytFedJyhlIXJRx) | 2:45 |

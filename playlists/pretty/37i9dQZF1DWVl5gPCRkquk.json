@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1963686,
+  "num_followers": 1963495,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHeHkRN0BwHkwNbyjz1HmPObflTW",
+  "snapshot_id": "AAAAAB3NktUPpC7z/N2ns3VrplfxRyXJ",
   "tracks": [
     {
       "added_at": "2026-06-22 21:45:44",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-22 21:45:44",
       "album": {
-        "name": "Mountain Girl",
-        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 162925,
-      "name": "Mountain Girl",
-      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
-    },
-    {
-      "added_at": "2026-06-22 21:45:44",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2026-06-22 21:45:44",
+      "album": {
+        "name": "Mountain Girl",
+        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 162925,
+      "name": "Mountain Girl",
+      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
     },
     {
       "added_at": "2026-06-22 21:45:44",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-22 21:45:44",
       "album": {
-        "name": "New Star",
-        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
-    },
-    {
-      "added_at": "2026-06-22 21:45:44",
-      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2026-06-22 21:45:44",
+      "album": {
+        "name": "New Star",
+        "url": "https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1"
     },
     {
       "added_at": "2026-06-22 21:45:44",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-06-22 21:45:44",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/7w25Rqt9D2fDxUwntGAlw0"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        }
+      ],
+      "duration_ms": 131427,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ"
+    },
+    {
+      "added_at": "2026-06-22 21:45:44",
+      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 193333,
       "name": "Take Back Thy Gift",
       "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
-    },
-    {
-      "added_at": "2026-06-22 21:45:44",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/7w25Rqt9D2fDxUwntGAlw0"
-      },
-      "artists": [
-        {
-          "name": "C. James",
-          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
-        }
-      ],
-      "duration_ms": 131427,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3tFXa569w5PRRtb2rCwoQQ"
     },
     {
       "added_at": "2026-06-22 21:45:44",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2026-06-22 21:45:44",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
-    },
-    {
-      "added_at": "2026-06-22 21:45:44",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244951,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2026-06-22 21:45:44",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -1107,6 +1075,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2026-06-22 21:45:44",
+      "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 248853,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
     },
     {
       "added_at": "2026-06-22 21:45:44",
@@ -1143,6 +1127,22 @@
       "duration_ms": 210546,
       "name": "Seed of Joy",
       "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2026-06-22 21:45:44",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244951,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2026-06-22 21:45:44",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-06-22 21:45:44",
       "album": {
-        "name": "Death Grip",
-        "url": "https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        },
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 177974,
-      "name": "Death Grip (with HAFFWAY)",
-      "url": "https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv"
-    },
-    {
-      "added_at": "2026-06-22 21:45:44",
-      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 250246,
       "name": "Going Where the Lonely Go",
       "url": "https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw"
+    },
+    {
+      "added_at": "2026-06-22 21:45:44",
+      "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/1llv8Op2jSF1108gJmw8lh"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        },
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 177974,
+      "name": "Death Grip (with HAFFWAY)",
+      "url": "https://open.spotify.com/track/3qtqyrxRDuG0ORWZ1BoIUv"
     }
   ],
   "unique_name": "Chill Folk",

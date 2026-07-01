@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-312 songs - 1 day 1 hr 25 min
+313 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 | 2024-06-21 | 2026-01-18 |
 | [Katarze](https://open.spotify.com/track/47HUapTIiVAORkL3Eu04Su) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Katarze](https://open.spotify.com/album/5oadbRzPuGPkHAy3sRSINV) | 6:11 | 2022-07-05 | 2022-07-27 |
 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 | 2023-11-10 | 2025-08-16 |
-| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
+| [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 | 2026-07-01 |
 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-08-16 | 2025-09-01 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-02-16 |  |
 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 | 2026-02-04 |  |
@@ -267,6 +267,7 @@
 | [Teatro](https://open.spotify.com/track/5wDHm6XJA1vkysHDPdI8Db) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Teatro](https://open.spotify.com/album/6t3Zksrkbhfkf8UOzBVn9k) | 6:44 | 2022-10-28 | 2022-11-17 |
 | [Techno Acid 303](https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Techno Acid 303](https://open.spotify.com/album/1qo26STwNIEujdeZ2S4IyG) | 3:50 | 2023-10-13 | 2024-08-17 |
 | [Terra](https://open.spotify.com/track/5sxjDcq1CPIQ6pmLbMRY1o) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Terra](https://open.spotify.com/album/2HE22ZqykGRTdLjqrTJuVN) | 6:50 | 2022-07-05 | 2022-07-28 |
+| [Testo Skin Part 1](https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:49 | 2026-06-26 |  |
 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 | 2025-11-21 |  |
 | [The Abyss](https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [The Abyss](https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS) | 7:18 | 2023-08-09 | 2023-10-04 |
 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2022-10-28 | 2024-04-19 |

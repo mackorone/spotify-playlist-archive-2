@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAggwXAJNP29sFhN5iA9bD7r0pszg3/",
+  "snapshot_id": "AAAghXKgQVgdn6gYbKvGeqGqFZB+kmW9",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -5323,6 +5323,38 @@
       "duration_ms": 204094,
       "name": "Tunnels In The Air",
       "url": "https://open.spotify.com/track/5tGKnLXNqYedC7YGoWpLVz"
+    },
+    {
+      "added_at": "2026-06-30 18:18:06",
+      "album": {
+        "name": "Don't Quit Your Day Job",
+        "url": "https://open.spotify.com/album/37dKTmpuFAV0n0A5THoliS"
+      },
+      "artists": [
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Who Knew My Luck Would Change",
+      "url": "https://open.spotify.com/track/0VZd335N0WXijaRPorVpIj"
+    },
+    {
+      "added_at": "2026-07-01 02:00:21",
+      "album": {
+        "name": "Lucy Pearl",
+        "url": "https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR"
+      },
+      "artists": [
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Lucy Pearl's Way",
+      "url": "https://open.spotify.com/track/6yHi0vuRfBZb0aOqjU5L1D"
     }
   ],
   "unique_name": "main ",

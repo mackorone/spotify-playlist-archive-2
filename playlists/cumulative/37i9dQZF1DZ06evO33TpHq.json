@@ -1053,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/4p6kzgFOhScjUElxQddUFN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325791,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/70LE3Qk0VsT1Hw5MtHaueA"
+    },
+    {
+      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Sunidhi Chauhan
 
-3,007 songs - 6 day 22 hr 34 min
+3,007 songs - 6 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Breathe Me](https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:32 | 2025-09-03 | 2025-09-18 |
 | [Brilla](https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Brilla](https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ) | 3:54 | 2023-07-05 | 2023-08-03 |
 | [Bring It Home \- ICC Women’s Cricket World Cup Official Event Song](https://open.spotify.com/track/6EI0VHTkJOFimPaMsERAlW) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Bring It Home \(ICC Women’s Cricket World Cup Official Event Song\)](https://open.spotify.com/album/5cHI4KXCGU8BZdw7XpZ6Zg) | 3:20 | 2025-10-01 | 2025-11-08 |
-| [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 | 2026-05-06 |  |
+| [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 | 2026-05-06 |  |
 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 | 2023-07-05 | 2023-08-03 |
 | [BRITTANY MURPHY.](https://open.spotify.com/track/4oUrl0RyDqr1DvNDvPNdRL) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:44 | 2026-04-08 | 2026-05-07 |
 | [BROKEN](https://open.spotify.com/track/3TWxBXRLQTPNr2E2wOop68) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 4:31 | 2025-04-02 | 2026-04-09 |

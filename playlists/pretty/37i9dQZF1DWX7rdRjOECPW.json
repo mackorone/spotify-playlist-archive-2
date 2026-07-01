@@ -1,6 +1,6 @@
 {
   "description": "Sommer kann kommen \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1578861,
+  "num_followers": 1579123,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,6 @@
     {
       "added_at": "2026-06-18 14:23:38",
       "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-06-18 14:23:38",
-      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-06-18 14:23:38",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
       "added_at": "2026-06-18 14:23:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-18 14:23:38",
       "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 138354,
-      "name": "AKON",
-      "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
-    },
-    {
-      "added_at": "2026-06-18 14:23:38",
-      "album": {
         "name": "KITSCHKRIEG ZWEI",
         "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
+    },
+    {
+      "added_at": "2026-06-18 14:23:38",
+      "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 138354,
+      "name": "AKON",
+      "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
     },
     {
       "added_at": "2026-06-18 14:23:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-18 14:23:38",
       "album": {
-        "name": "Only Friends",
-        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Only Friends",
-      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
-    },
-    {
-      "added_at": "2026-06-18 14:23:38",
-      "album": {
         "name": "call me back",
         "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 114906,
       "name": "call me back",
       "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
+    },
+    {
+      "added_at": "2026-06-18 14:23:38",
+      "album": {
+        "name": "Only Friends",
+        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Only Friends",
+      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
     }
   ],
   "unique_name": "Sommerhits 2026",

@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 252510,
+  "num_followers": 252565,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 153031,
+      "name": "LA PEOPLE",
+      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 288671,
       "name": "4x4",
       "url": "https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 153031,
-      "name": "LA PEOPLE",
-      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Mercenarios",
-        "url": "https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q"
-      },
-      "artists": [
-        {
-          "name": "Capo",
-          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Mercenarios",
-      "url": "https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "Contando",
         "url": "https://open.spotify.com/album/0sYFaXcYzBjHaIMINygdx2"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 191515,
       "name": "Contando",
       "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Mercenarios",
+        "url": "https://open.spotify.com/album/57F0XyYYCfiQ7D4ZL0Ca6Q"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Mercenarios",
+      "url": "https://open.spotify.com/track/1YtBEZolFa52BcyDZg7U2L"
     },
     {
       "added_at": "2026-05-29 06:00:17",
@@ -1359,46 +1359,6 @@
     {
       "added_at": "2026-05-29 06:00:17",
       "album": {
-        "name": "Pow Wow Wow",
-        "url": "https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy"
-      },
-      "artists": [
-        {
-          "name": "Neto Reyno",
-          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Pow Wow Wow",
-      "url": "https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 150974,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": "2026-05-29 06:00:17",
-      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -1431,6 +1391,46 @@
       "duration_ms": 407179,
       "name": "A2P",
       "url": "https://open.spotify.com/track/0IPD4hNAGIjVDBTHfVdv8o"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
+    },
+    {
+      "added_at": "2026-05-29 06:00:17",
+      "album": {
+        "name": "Pow Wow Wow",
+        "url": "https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy"
+      },
+      "artists": [
+        {
+          "name": "Neto Reyno",
+          "url": "https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Pow Wow Wow",
+      "url": "https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY"
     },
     {
       "added_at": "2026-05-29 06:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 587560,
+  "num_followers": 587656,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-06-26 00:01:53",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
         "name": "IGBO",
         "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 133852,
       "name": "IGBO",
       "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "added_at": "2026-06-26 00:01:53",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-06-26 00:01:53",
       "album": {
-        "name": "AFRICAN GIRLS",
-        "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 123582,
-      "name": "AFRICAN GIRLS",
-      "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 243253,
       "name": "Je m'appelle",
       "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "AFRICAN GIRLS",
+        "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 123582,
+      "name": "AFRICAN GIRLS",
+      "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
     },
     {
       "added_at": "2026-06-26 00:01:53",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-06-26 00:01:53",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
-    },
-    {
-      "added_at": "2026-06-26 00:01:53",
-      "album": {
         "name": "1942",
         "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 150508,
       "name": "1942",
       "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
+    },
+    {
+      "added_at": "2026-06-26 00:01:53",
+      "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     }
   ],
   "unique_name": "Afro Party Anthems",

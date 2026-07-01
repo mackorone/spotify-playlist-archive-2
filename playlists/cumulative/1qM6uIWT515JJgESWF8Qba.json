@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Tolerance Paradox",
+        "url": "https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO"
+      },
+      "artists": [
+        {
+          "name": "One Dimensional Creatures",
+          "url": "https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143641,
+      "name": "Favourite Saprophyte",
+      "url": "https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO"
+    },
+    {
+      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
       },
@@ -2800,6 +2818,24 @@
       "duration_ms": 132115,
       "name": "Loving in C",
       "url": "https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx"
+    },
+    {
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381085,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8"
     },
     {
       "album": {
@@ -4180,6 +4216,24 @@
       "duration_ms": 292936,
       "name": "Sunday Lazy Afternoon",
       "url": "https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Fight (About Saturday Night)",
+        "url": "https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224802,
+      "name": "Sunday Morning Fight (About Saturday Night)",
+      "url": "https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 65644,
+  "num_followers": 65652,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/76Wx8Rrj18iuEwa7tB1zuj"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 297845,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/1L7X1Y9YNvD3Vo6GlMyqVj"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
         "name": "Con Estilo Mbaret\u00e9",
         "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 474053,
       "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
       "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2026-05-18 13:34:35",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-05-18 13:34:35",
       "album": {
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
+    },
+    {
+      "added_at": "2026-05-18 13:34:35",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
-    },
-    {
-      "added_at": "2026-05-18 13:34:35",
-      "album": {
-        "name": "Con Alma y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dioses del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
-      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
     },
     {
       "added_at": "2026-05-18 13:34:35",

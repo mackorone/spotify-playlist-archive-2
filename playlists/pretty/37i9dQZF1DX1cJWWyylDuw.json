@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: FIt For An Autopsy",
-  "num_followers": 297809,
+  "num_followers": 297976,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER",
         "url": "https://open.spotify.com/album/0dHQH04nSGugSUSQOHOUpF"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 194114,
       "name": "INVERTED SPEAR OF HEAVEN",
       "url": "https://open.spotify.com/track/1c5WFko3iRB0uCshh5YCjZ"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Been There, Mutilated That",
+        "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
+      },
+      "artists": [
+        {
+          "name": "Rev3rent",
+          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
+        }
+      ],
+      "duration_ms": 158635,
+      "name": "Been There, Mutilated That",
+      "url": "https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "The Maker",
         "url": "https://open.spotify.com/album/3INCg86OumH3EymmO3Ytpz"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 169848,
       "name": "Set the World on Fire",
       "url": "https://open.spotify.com/track/6UzntVyCu5wfJkjb5ddczQ"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Been There, Mutilated That",
-        "url": "https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW"
-      },
-      "artists": [
-        {
-          "name": "Rev3rent",
-          "url": "https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD"
-        }
-      ],
-      "duration_ms": 158635,
-      "name": "Been There, Mutilated That",
-      "url": "https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Moments of Misery",
-        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
-      },
-      "artists": [
-        {
-          "name": "Heavy//Hitter",
-          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "Heaven's Gate",
-      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Sing to the Grave",
         "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 159417,
       "name": "Sing to the Grave",
       "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Moments of Misery",
+        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
+      },
+      "artists": [
+        {
+          "name": "Heavy//Hitter",
+          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Heaven's Gate",
+      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "A Bloodsoaked Symphony",
-        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 268283,
-      "name": "A Bloodsoaked Symphony",
-      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Sharp Teeth",
-        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+        "name": "A Bloodsoaked Symphony",
+        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
         }
       ],
-      "duration_ms": 184640,
-      "name": "Sharp Teeth",
-      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+      "duration_ms": 268283,
+      "name": "A Bloodsoaked Symphony",
+      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1631,6 +1615,22 @@
       "duration_ms": 254446,
       "name": "Infinity Of Horrors",
       "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Sharp Teeth",
+        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Sharp Teeth",
+      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
+        "name": "Alter of Self",
+        "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 189704,
+      "name": "Alter of Self",
+      "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 219360,
       "name": "snuff.tape",
       "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
-        "name": "Alter of Self",
-        "url": "https://open.spotify.com/album/1uaRwI5nCeV09tfBvhS1bD"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 189704,
-      "name": "Alter of Self",
-      "url": "https://open.spotify.com/track/222Pr7e0L9peOkdKVY9fIX"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "burning/bones",
-        "url": "https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh"
-      },
-      "artists": [
-        {
-          "name": "VCTMS",
-          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
-        },
-        {
-          "name": "Extortionist",
-          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
-        }
-      ],
-      "duration_ms": 228967,
-      "name": "burning/bones",
-      "url": "https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "HOLY MOONLIGHT",
         "url": "https://open.spotify.com/album/3chxstOY9xzmGyR37xA869"
       },
@@ -2051,6 +2031,26 @@
       "duration_ms": 205058,
       "name": "Fathomless Maw",
       "url": "https://open.spotify.com/track/3SSc3dcDRsvLuLYTSbyeYM"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "burning/bones",
+        "url": "https://open.spotify.com/album/3tAlPqKBq8yedhqCdj7GJh"
+      },
+      "artists": [
+        {
+          "name": "VCTMS",
+          "url": "https://open.spotify.com/artist/0Gav1syIZzd1D6fiyhd9dT"
+        },
+        {
+          "name": "Extortionist",
+          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
+        }
+      ],
+      "duration_ms": 228967,
+      "name": "burning/bones",
+      "url": "https://open.spotify.com/track/0EIVQZvinTmJoBLzC6WOKX"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2199,18 +2199,22 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+        "name": "The Bleeding Machine",
+        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
       },
       "artists": [
         {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
         }
       ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
+      "duration_ms": 223381,
+      "name": "The Bleeding Machine",
+      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2231,22 +2235,18 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "The Bleeding Machine",
-        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
       },
       "artists": [
         {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        },
-        {
-          "name": "Elysia",
-          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
         }
       ],
-      "duration_ms": 223381,
-      "name": "The Bleeding Machine",
-      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Kneel Before The Death",
-        "url": "https://open.spotify.com/album/1Cfc1tRM1GB9TfjQDKBv6m"
-      },
-      "artists": [
-        {
-          "name": "Kneel Before the Death",
-          "url": "https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Kneel Before The Death",
-      "url": "https://open.spotify.com/track/3zFG5qp6Ro8qTebzNEEuCk"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Rot With Me",
         "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 180500,
       "name": "Scars Upon Scars",
       "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Kneel Before The Death",
+        "url": "https://open.spotify.com/album/1Cfc1tRM1GB9TfjQDKBv6m"
+      },
+      "artists": [
+        {
+          "name": "Kneel Before the Death",
+          "url": "https://open.spotify.com/artist/3Gd8aErwIatbB6fw735SNK"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Kneel Before The Death",
+      "url": "https://open.spotify.com/track/3zFG5qp6Ro8qTebzNEEuCk"
     },
     {
       "added_at": "2026-03-22 01:11:05",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-03-22 01:11:05",
       "album": {
-        "name": "Crossing Nails",
-        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Crossing Nails",
-      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
-    },
-    {
-      "added_at": "2026-03-22 01:11:05",
-      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 242644,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
+    },
+    {
+      "added_at": "2026-03-22 01:11:05",
+      "album": {
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
     },
     {
       "added_at": "2026-03-22 01:11:05",

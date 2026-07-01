@@ -16213,6 +16213,24 @@
     },
     {
       "album": {
+        "name": "Can You Believe",
+        "url": "https://open.spotify.com/album/5TaGGGl0A0U1fFxbtc9Fwx"
+      },
+      "artists": [
+        {
+          "name": "Estella Dawn",
+          "url": "https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Can You Believe",
+      "url": "https://open.spotify.com/track/3J6NWIyXVCzHgkUvmWQSDQ"
+    },
+    {
+      "album": {
         "name": "Can You Feel It?",
         "url": "https://open.spotify.com/album/3jIngYInfVl02nCSlefq2h"
       },
@@ -53008,7 +53026,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 134485,
       "name": "Japanese Boots",
       "url": "https://open.spotify.com/track/2i9RSMzELHLCM6MxCIB678"
@@ -92242,6 +92260,28 @@
       "duration_ms": 133961,
       "name": "somethin sweet",
       "url": "https://open.spotify.com/track/0fF4tq5KE7S7QS2sxUIzxb"
+    },
+    {
+      "album": {
+        "name": "Somethin' Stupid",
+        "url": "https://open.spotify.com/album/6UMqzTlsaTgQkiY4TV1D4V"
+      },
+      "artists": [
+        {
+          "name": "Sacha Boutros",
+          "url": "https://open.spotify.com/artist/1PuKXBmVnyDWJEjXIsOY3y"
+        },
+        {
+          "name": "Patrick Hogan",
+          "url": "https://open.spotify.com/artist/205mXTyMLol4bRtPNMXw0V"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189521,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/05QlxcW9wqvDRRUJU5LRJx"
     },
     {
       "album": {

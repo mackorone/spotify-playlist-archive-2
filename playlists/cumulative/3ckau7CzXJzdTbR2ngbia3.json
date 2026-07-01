@@ -994,10 +994,28 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+    },
+    {
+      "album": {
+        "name": "lovestrong. (deluxe edition)",
+        "url": "https://open.spotify.com/album/672r6u4BHAkoI5UXe6VAQb"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247562,
+      "name": "jar of hearts - epic version",
+      "url": "https://open.spotify.com/track/0PxYL095QFxlQMn5pBRBBw"
     },
     {
       "album": {

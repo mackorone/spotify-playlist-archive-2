@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: I Prevail
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,050 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,138 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 86 | [Wolf And The Queen](https://open.spotify.com/track/5jmWzOQkCJzgzMFbLNcIBf) | [Shadowborne](https://open.spotify.com/artist/0Q00BXuHUT9CVuoO7Cgv4i) | [Wolf And The Queen](https://open.spotify.com/album/0tQsfWIDJOgmx4UtM3ugY1) | 3:29 |
 | 87 | [Residue](https://open.spotify.com/track/6B5BEEKK0YQU4cI3XNQqg2) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [From Hell I Rise](https://open.spotify.com/album/4ckLWU4gnRz63E4raWVEFF) | 4:38 |
 | 88 | [Of Tyrants](https://open.spotify.com/track/3xO7G9I4kxTFMoNDCf6EAt) | [Triosphere](https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG) | [Of Tyrants](https://open.spotify.com/album/4UtzhaKUtxqN9G9ue8s6Wl) | 4:29 |
-| 89 | [Last of Me](https://open.spotify.com/track/3fADt5rdPEj3mMBqbPcsJr) | [BAD WORLD](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg), [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Maker of Rules](https://open.spotify.com/album/0NhNgk9KroYDUePOiV2L9R) | 2:46 |
+| 89 | [Last of Me](https://open.spotify.com/track/3fADt5rdPEj3mMBqbPcsJr) | [BAD WORLD](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Maker of Rules](https://open.spotify.com/album/0NhNgk9KroYDUePOiV2L9R) | 2:46 |
 | 90 | [Blood Pact](https://open.spotify.com/track/5aS14v4x5nkDvks91OhuoI) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Blood Pact](https://open.spotify.com/album/41HtOA4cWgCaIj4BWgb3zU) | 2:52 |
 | 91 | [The Sword That Never Bends](https://open.spotify.com/track/4Rxlwrod7V5fN1blhkhzq7) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Sword That Never Bends](https://open.spotify.com/album/1hw6fav6T9LRREMG3HRInR) | 3:46 |
 | 92 | [Black & Blue \- 2026 Repented](https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Black & Blue \(2026 Repented\)](https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm) | 4:32 |

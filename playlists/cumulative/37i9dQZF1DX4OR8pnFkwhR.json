@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Rol3ert",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u540d\u8a89\u4f1d\u8aac",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 196967,
       "name": "Aftertaste - feat. REJAY",
       "url": "https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS"
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 215033,
       "name": "bye<3",
       "url": "https://open.spotify.com/track/6LrOegJFrpML859y73HkpS"
@@ -5672,7 +5672,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 255866,
       "name": "Deja-vu",
       "url": "https://open.spotify.com/track/7J9I6C6AE9XPbhfYUwamjf"
@@ -6770,7 +6770,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 231966,
       "name": "Eden",
       "url": "https://open.spotify.com/track/3jyqtuWqAyu498UCzVZKzb"
@@ -10998,6 +10998,24 @@
       "duration_ms": 175104,
       "name": "In The Game",
       "url": "https://open.spotify.com/track/4FVdp0vqp10V5gkSrOzrei"
+    },
+    {
+      "album": {
+        "name": "THE BLACK SHEEP OF THE FAMILY",
+        "url": "https://open.spotify.com/album/6DUcT1Dyt4JBmTJ67JyDAN"
+      },
+      "artists": [
+        {
+          "name": "Arche",
+          "url": "https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "in the room",
+      "url": "https://open.spotify.com/track/38yuVbQP4mHk0UX8pIzdsc"
     },
     {
       "album": {
@@ -15453,6 +15471,24 @@
     },
     {
       "album": {
+        "name": "NIGHT OWL",
+        "url": "https://open.spotify.com/album/0MCAXaeyYV6vYIFnpMlMEa"
+      },
+      "artists": [
+        {
+          "name": "o.j.o",
+          "url": "https://open.spotify.com/artist/1MIdwKIUNy1zQ810pq45Ti"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193277,
+      "name": "NIGHT OWL",
+      "url": "https://open.spotify.com/track/3PEbdU0U3P05AyQO2yTqIg"
+    },
+    {
+      "album": {
         "name": "Night Town",
         "url": "https://open.spotify.com/album/2RhDjYQOmgyUq8GEwBO9cx"
       },
@@ -15999,6 +16035,24 @@
     },
     {
       "album": {
+        "name": "ojigi",
+        "url": "https://open.spotify.com/album/0xcUMeamFTuOLMKSicNYWx"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234815,
+      "name": "ojigi",
+      "url": "https://open.spotify.com/track/4XTJaCl0DLgZrd7ZexuXQh"
+    },
+    {
+      "album": {
         "name": "OK",
         "url": "https://open.spotify.com/album/3YzWLuauk7PzsLIwyJMPVr"
       },
@@ -16160,7 +16214,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 225275,
       "name": "OMOKAGE",
       "url": "https://open.spotify.com/track/4bVNJ0qBNgJ1jZqLBnMe8v"
@@ -16923,6 +16977,24 @@
     },
     {
       "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/6PtnK8pgb02Y0TniYmnDta"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190233,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/4qXBod5nME8SxJCpjGfTSv"
+    },
+    {
+      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/71lEoD6H2dazsbv8MAAU1B"
       },
@@ -17510,7 +17582,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 232572,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/52z8YyNZYlL7ZBDRjUvgX6"
@@ -26301,6 +26373,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u91d1\u304c\u306a\u3044\u304b\u3089",
+        "url": "https://open.spotify.com/album/4hSwI4V6WGkUnzmfs4Gsq6"
+      },
+      "artists": [
+        {
+          "name": "\u8fbb\u4e95 \u304f\u306c\u3048",
+          "url": "https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164396,
+      "name": "\u304a\u91d1\u304c\u306a\u3044\u304b\u3089",
+      "url": "https://open.spotify.com/track/0Cz5qIJyUKRRtXC1Rgg5zc"
+    },
+    {
+      "album": {
         "name": "\u307c\u3084\u3041~\u3058\u3085",
         "url": "https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5"
       },
@@ -29212,7 +29302,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 188588,
       "name": "\u30ae\u30e5\u30fc\u30a2\u30b0",
       "url": "https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV"
@@ -30386,6 +30476,24 @@
       "duration_ms": 194813,
       "name": "\u30c0\u30f3\u30b9\u30fb\u30c7\u30ab\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/7IavE81AbbrRnKUuW2KZ7I"
+      },
+      "artists": [
+        {
+          "name": "kogare",
+          "url": "https://open.spotify.com/artist/34KfvzfQLme3L8i4xv2AYO"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194011,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/1UrAL2kpjRHXMArugHW96R"
     },
     {
       "album": {
@@ -37768,6 +37876,24 @@
       "duration_ms": 201266,
       "name": "\u65b0\u559c\u5287",
       "url": "https://open.spotify.com/track/0f1V0xG8CD5JKo7vEkJvyS"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u5973\u795e",
+        "url": "https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "\u65b0\u5973\u795e",
+      "url": "https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9"
     },
     {
       "album": {

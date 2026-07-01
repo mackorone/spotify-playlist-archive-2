@@ -6463,6 +6463,24 @@
     },
     {
       "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/0x9KWdKPTHfzF96ygr6qB5"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/6eR78hfwTyGcuoe9y8btOn"
+    },
+    {
+      "album": {
         "name": "My Days of 58",
         "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
       },

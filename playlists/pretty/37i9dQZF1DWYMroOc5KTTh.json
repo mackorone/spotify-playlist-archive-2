@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 748310,
+  "num_followers": 748567,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-06-23 15:21:25",
       "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+    },
+    {
+      "added_at": "2026-06-23 15:21:25",
+      "album": {
         "name": "Sound of You (ft. TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 236528,
       "name": "Sound of You (ft. TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
-    },
-    {
-      "added_at": "2026-06-23 15:21:25",
-      "album": {
-        "name": "Cult Classics",
-        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "JOY (Up The Street)",
-      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
     },
     {
       "added_at": "2026-06-23 15:21:25",

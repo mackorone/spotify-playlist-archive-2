@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 210 songs - 11 hr 53 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 215 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,5 +218,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 208 | [Du är fri](https://open.spotify.com/track/53Vdv4GR4yCrBTA9ufhGjk) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [Du är fri](https://open.spotify.com/album/2CZgO1nVD6zL1MuAKHbJl5) | 3:09 |
 | 209 | [Feberdröm](https://open.spotify.com/track/3KUcmzPsQPytS8vAv0wzUh) | [Yung Tasso](https://open.spotify.com/artist/3KOeNxUY9JKjzpYwxwOJUK) | [Feberdröm](https://open.spotify.com/album/2NQGGQVYzmTdDIUUHj1cy3) | 2:48 |
 | 210 | [Dinner with the inside monster](https://open.spotify.com/track/7rEBUuRza8ueBilHto2pFZ) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [Dinner with the inside monster](https://open.spotify.com/album/2HeHHYfquLy6F9ylN7M9S0) | 6:40 |
+| 211 | [Falling In Love \(Pop Version\)](https://open.spotify.com/track/0KaO2d6SjeICD58unNz9dd) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling In Love \(Pop Version\)](https://open.spotify.com/album/5rIGxGR4QNlJF2gtoXR8rW) | 2:04 |
+| 212 | [You Only Live Once](https://open.spotify.com/track/78ZUdJY596WjWnlO2rrf1H) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [You Only Live Once](https://open.spotify.com/album/7A3KnD5zWY1u4obrLVdN5f) | 3:43 |
+| 213 | [Piece it All Together](https://open.spotify.com/track/57bUSMKc2qXs5YaSAr3v5B) | [sye](https://open.spotify.com/artist/5dEiL3I7NaBoztJwTW57Eu), [hostile](https://open.spotify.com/artist/6L2LCvRvTnMqleBeyQjNWW) | [Piece it All Together](https://open.spotify.com/album/5yKiMqbs4V121dElzcyTEZ) | 3:36 |
+| 214 | [Un Gringo Tonto \- Aceleró](https://open.spotify.com/track/0JeEMvyeweVd1BCECBYXKS) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Speedy Boy](https://open.spotify.com/album/5Qa1vozoeYtdDbiXYzfEPo) | 2:08 |
+| 215 | [Contromano](https://open.spotify.com/track/4aWtfu4zFHETjfGmDWHwCY) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:17 |
 
-Snapshot ID: `AAAVVLNNi+qbVhxIiByteCmBu4ivF8vl`
+Snapshot ID: `AAAVWe6DGuKKTKUgWxpWq7uvNo+1ZLfT`

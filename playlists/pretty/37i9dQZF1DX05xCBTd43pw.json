@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37685,
+  "num_followers": 37682,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "WHERE\u2019S THE FUN?",
-        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "WHERE\u2019S THE FUN?",
-      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "How To Heal",
         "url": "https://open.spotify.com/album/5Ne5wTfd1KTjq5oP4Jel2l"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 189048,
       "name": "How To Heal",
       "url": "https://open.spotify.com/track/3s8dyCHLhV2Ha162qEoNaw"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "difficult",
         "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 156609,
       "name": "difficult",
       "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "joli d\u00e9sastre",
         "url": "https://open.spotify.com/album/6sglgOyD2hmP8M4guQCdUx"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 203904,
       "name": "joli d\u00e9sastre",
       "url": "https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Jamais \u00c9t\u00e9 (Cool)",
-        "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Jamais \u00c9t\u00e9 (Cool)",
-      "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "le rose c'est hasbeen",
         "url": "https://open.spotify.com/album/6ZW6GRq5HYL7z6P3o7b6t2"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 172985,
       "name": "oups",
       "url": "https://open.spotify.com/track/5x0k4z6vLe43YybPUwENQz"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Jamais \u00c9t\u00e9 (Cool)",
+        "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Jamais \u00c9t\u00e9 (Cool)",
+      "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -607,26 +607,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Take Me Dancing",
-        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        },
-        {
-          "name": "CRIMER",
-          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
-        }
-      ],
-      "duration_ms": 163231,
-      "name": "Take Me Dancing",
-      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -659,6 +639,26 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
+        "name": "Take Me Dancing",
+        "url": "https://open.spotify.com/album/1ty0U2RfIWdaZFF62AEyVW"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        },
+        {
+          "name": "CRIMER",
+          "url": "https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX"
+        }
+      ],
+      "duration_ms": 163231,
+      "name": "Take Me Dancing",
+      "url": "https://open.spotify.com/track/5inN55cH5BKn3Okb2Owouc"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
         "name": "Stories of the XXI",
         "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
-      },
-      "artists": [
-        {
-          "name": "Anna Rossinelli",
-          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
-        }
-      ],
-      "duration_ms": 163917,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "Don't Let Him Go",
         "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
+      },
+      "artists": [
+        {
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+        }
+      ],
+      "duration_ms": 163917,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Oscillare",
-        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
-      },
-      "artists": [
-        {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
-        }
-      ],
-      "duration_ms": 311641,
-      "name": "Estate torna presto",
-      "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
       },
@@ -1063,22 +1047,18 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+        "name": "Oscillare",
+        "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
       },
       "artists": [
         {
-          "name": "Tobias Jensen",
-          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
-        },
-        {
-          "name": "Tobias Carshey",
-          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
+      "duration_ms": 311641,
+      "name": "Estate torna presto",
+      "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -1111,6 +1091,26 @@
       "duration_ms": 136767,
       "name": "You Hurt Me",
       "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
+      },
+      "artists": [
+        {
+          "name": "Tobias Jensen",
+          "url": "https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK"
+        },
+        {
+          "name": "Tobias Carshey",
+          "url": "https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "Damaged By Their Silence",
         "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Will You Take Me As I Am?",
-        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 199983,
-      "name": "Take me as i am",
-      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "Can't Be Loved",
         "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
-    },
-    {
-      "added_at": "2026-06-25 22:01:20",
-      "album": {
         "name": "Trapped in the Middle",
         "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 138443,
       "name": "Trapped in the Middle",
       "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+    },
+    {
+      "added_at": "2026-06-25 22:01:20",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2026-06-25 22:01:20",
@@ -1639,26 +1639,18 @@
     {
       "added_at": "2026-06-25 22:01:20",
       "album": {
-        "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
-        "url": "https://open.spotify.com/album/09GIdZLuPhRNZAJIuIW2yr"
+        "name": "Old Again",
+        "url": "https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T"
       },
       "artists": [
         {
-          "name": "LOU KAENA",
-          "url": "https://open.spotify.com/artist/69Tf6ABMtbfliXm4FHNhUH"
-        },
-        {
-          "name": "Soukey",
-          "url": "https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6"
-        },
-        {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 206200,
-      "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
-      "url": "https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71"
+      "duration_ms": 197458,
+      "name": "Old Again",
+      "url": "https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3"
     }
   ],
   "unique_name": "Swiss Made",

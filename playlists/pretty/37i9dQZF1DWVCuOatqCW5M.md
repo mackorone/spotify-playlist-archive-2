@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Shekhar Ravjiani, Paresh Pahuja, Akhil Sachdeva and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,925 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,945 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 4 | [Saadgi](https://open.spotify.com/track/79U7rOCKRIRE2p4G5A2phe) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Vikki Nagar](https://open.spotify.com/artist/5tRdHbZDFNFrgX9ovVVivs) | [Saadgi](https://open.spotify.com/album/0exm7XO6qOjaoMe1t0QW8v) | 4:45 |
 | 5 | [Mehek Ne Lage Hain](https://open.spotify.com/track/0SCsnnh2uDMD4HzpKLx3fT) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw) | [Mehek Ne Lage Hain](https://open.spotify.com/album/5CmD6Vm7JOqGELaZaPKGst) | 3:38 |
 | 6 | [Teri Umeed \- Aaj Bhi](https://open.spotify.com/track/5pE1cy4IXmXlQWvxD94iLs) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Teri Umeed \- Aaj Bhi](https://open.spotify.com/album/7rlczJVWYyETpEPug2YKKi) | 3:59 |
-| 7 | [Mohabbat Kisi Aur Se](https://open.spotify.com/track/5UDqd1spTXBqEai60mjyGK) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Mohabbat Kisi Aur Se](https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI) | 3:06 |
+| 7 | [Mohabbat Kisi Aur Se](https://open.spotify.com/track/5UDqd1spTXBqEai60mjyGK) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Eemaan](https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX), [NYC](https://open.spotify.com/artist/31DxK9cElnsZ1wUFyY0cPG) | [Mohabbat Kisi Aur Se](https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI) | 3:06 |
 | 8 | [Ya Baba](https://open.spotify.com/track/6PborYNjbcF3SVUvQF4D0O) | [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Ya Baba](https://open.spotify.com/album/4SO67qeMAkZ5gjhA01aE3X) | 3:27 |
 | 9 | [Fanda](https://open.spotify.com/track/7dZcyOGqEuzialJ5PJsCka) | [PARTYTONYT](https://open.spotify.com/artist/53Ki4wRnZGiDPjBoZbJzpz), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Fanda](https://open.spotify.com/album/056oMfkfjqdtw2nJc4sWml) | 2:13 |
 | 10 | [Hua](https://open.spotify.com/track/7EYRZa6Grck3cCnIEaXLBn) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky Khanna](https://open.spotify.com/artist/706HpBx83UlG2Shf6zTnSC), [Elnaaz Norouzi](https://open.spotify.com/artist/59l92FFLwKblV1LHUHYw43) | [Hua](https://open.spotify.com/album/70IMPBS1XurUjhRdpxGfYs) | 3:11 |

@@ -1,15 +1,31 @@
 {
   "description": "Rueda el bal\u00f3n a ritmo de La Madre de Todas las Bandas. ",
-  "num_followers": 57256,
+  "num_followers": 57268,
   "original_name": "F\u00fatbol y Tambora con Banda El Recodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPq864VLBUd87TUafgjDErjsuwZw",
+  "snapshot_id": "AAAAAL9Av0MtqrK5PS9j0K/WKzyfmCi/",
   "tracks": [
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
+      "album": {
+        "name": "Ponte La Verde",
+        "url": "https://open.spotify.com/album/3l5joYyJUMBU6YvA3zt1Hq"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 182670,
+      "name": "Ponte La Verde",
+      "url": "https://open.spotify.com/track/3lndb7gIgxC2SSVPYR0Vtv"
+    },
+    {
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "El Corrido De Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/5qVope1SMLb5JdchrKUlEw"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3KqC0BCykXIBLd1No2I55Y"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5DjssjAQGlTipdXmRclqf6"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/6BlHb98Dl7Dv6jv74cdejY"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5DjssjAQGlTipdXmRclqf6"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/6NrAUiO6o7egmINdxDxi8g"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5DjssjAQGlTipdXmRclqf6"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/723aHyqcZjSJay0J5NtQek"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Concierto Mundial Digital Live",
         "url": "https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/2D8rkGvhOQCU8gBpBNe9GF"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Vivo Desde Jap\u00f3n",
         "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/5F1Mrz56k3u8muoVK7t6pj"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Vivo Desde Jap\u00f3n",
         "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/67nMeE7X39HTFTKPeh6UDN"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Vivo Desde Jap\u00f3n",
         "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/6tcqKDm6Xvm2feQDqRBEfO"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Vivo Desde Jap\u00f3n",
         "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/5sGbSIGsB2v5GVht2qMvqQ"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Vivo Desde Jap\u00f3n",
         "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/2Ani3qJhZWvmnVpVTEbJqS"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Concierto Mundial Digital Live",
         "url": "https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Vivo Desde Jap\u00f3n",
         "url": "https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/58qbMIwIgJA7uLYv5491uz"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Concierto Mundial Digital Live",
         "url": "https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/0o7bP9OCcgm6ipUZhhvxxL"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Con la No. 1: La Pelea del Siglo",
         "url": "https://open.spotify.com/album/0ipFmuKZLgVJPiAAuKuZDR"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/2oahGF49v5IkWz6tfxXZNJ"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/0dUGmwjvHXmuPREv0xfdTC"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
         "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/4qJylr6M0smswsVjpPQvTs"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/6btlotyCLtZUlZogXYSLCy"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "De Mexico para el Mundo",
         "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Esta...Si! Es Banda! Pegando Con Tubo",
         "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/1iJlcg3vmGbe0s3s7HYWb3"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Esta...Si! Es Banda! Pegando Con Tubo",
         "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "En Memoria: Las Canciones Preferidas de Don Cruz",
         "url": "https://open.spotify.com/album/4b9MByxyu2Sfb4aB9YBX7w"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/0As4JIfkhj2cHiSRj9kfsb"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "De Parranda Con La Banda",
         "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "De Parranda Con La Banda",
         "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/56ztKm9mnRxqrAMEtfE07J"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "60 Aniversario, Vol. 1",
         "url": "https://open.spotify.com/album/4ZHXY8ifNdoPPWgsG9dLPy"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/14GAOBV6m1VACDZVoshg9x"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Contigo Por Siempre",
         "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/3DqQhY5S4RIWIoFuowD7kX"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Contigo Por Siempre",
         "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/5aMNyHXPssxFQitvrvyF7q"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Contigo Por Siempre",
         "url": "https://open.spotify.com/album/10bfwCIfySATCoekmUjeab"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/7FPJBfDvf83vU4LmVxre9O"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "No Me Se Rajar",
         "url": "https://open.spotify.com/album/3fEqgA5b4SrsCU1WTjgRBg"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/4AZ5uxFyqkhArno8BTtt10"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Hay Amor",
         "url": "https://open.spotify.com/album/2yvdvfj2gjnAEWfBHSpq7u"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/3n6Ne0aeUxttPF4S4y2vuy"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/0Y7t0yxq86MFEWQ1rTTN89"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Lo Mejor De Mi Vida",
         "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/7JJsBWPem6EpYmmbQMOdHE"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Tengo Una Ilusi\u00f3n (60 Aniversario)",
         "url": "https://open.spotify.com/album/7MAgEJa3wbOp6RfV42WtBg"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/1GLxXu6AlBjPyo3a158CW4"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "M\u00e1s Fuerte Que Nunca",
         "url": "https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/4nmKe7dKATZcG1ttfvWIiI"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "M\u00e1s Fuerte Que Nunca",
         "url": "https://open.spotify.com/album/7AvxzlH6dLsMeOtZGRKJyX"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/3lhHsnoOc8n1Xz2XZu2Q5Z"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Que Bonito Es Lo Bonito",
         "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/6CMUbdue9apkMR5RvIuA3H"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/2i61WI2fawXqjs1NuMPW3A"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/3rgETN4XlGeTJaU4w1BfEO"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/0Ndim92MYsrFSseD9gbBcg"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Mi Vicio M\u00e1s Grande",
         "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
@@ -737,23 +753,7 @@
       "url": "https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
-      "album": {
-        "name": "Mi Vicio M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Si No Es Contigo",
-      "url": "https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns"
-    },
-    {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/1sIsXmTW9LFqzro0CYnmDp"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Ayer Y Hoy",
         "url": "https://open.spotify.com/album/07k1iv2UI0SFD3aczEzzUa"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/3Hnh0OkZ8tSWGydI03AOHp"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Sones Ra\u00edces",
         "url": "https://open.spotify.com/album/3NBDJkiyvtvl77Zvs2JIph"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/5A40LJZRgmHQuXd9U8tMqD"
     },
     {
-      "added_at": "2026-06-10 21:10:33",
+      "added_at": "2026-06-30 18:09:10",
       "album": {
         "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
         "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"

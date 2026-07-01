@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ATEEZ
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
 
-1,031 songs - 2 day 7 hr 58 min
+1,032 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [REEEMINDER! \- feat\. Crystal Kay](https://open.spotify.com/track/2lDgDfW735tzdnm18LAZHL) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk), [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [REEEMINDER! \(feat\. Crystal Kay\)](https://open.spotify.com/album/0ftGozHZgrmumfN8ApPKuN) | 2:47 | 2025-04-29 | 2025-06-29 |
 | [Reflection](https://open.spotify.com/track/6bVPDhgG3NdK7YxxxN6SPK) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [PSYCHIC FILE III](https://open.spotify.com/album/4z8vldWRgTGlzLeVRX7Yj1) | 3:20 | 2025-05-29 | 2025-10-25 |
 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-01 | 2025-11-05 |
+| [Rendezvous](https://open.spotify.com/track/1ZdlRiJLciBb8zgGQAN28w) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Rendezvous](https://open.spotify.com/album/7Jl30Tq995b427KZddFOcj) | 3:40 | 2026-06-30 |  |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-30 | 2024-11-06 |
 | [Revolution](https://open.spotify.com/track/1iv9W7OAqcJcMpzy0s8vaT) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [mirror](https://open.spotify.com/album/4c7Xu0FHmZPfXgLAapJvPy) | 3:28 | 2023-11-23 | 2024-01-03 |
 | [RIDE](https://open.spotify.com/track/3ruczO0lHDACpJMdLQyYF9) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [AMAZONIA](https://open.spotify.com/album/7qlXvoA3UG4wC1ms9CzDMk) | 3:28 | 2025-11-25 | 2026-01-20 |
@@ -689,7 +690,7 @@
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 | 2023-12-20 |
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-10-01 | 2024-10-23 |
 | [Same Sky](https://open.spotify.com/track/0FAUYnNFMlHteLJ11r5Ix8) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/6aQ2GvMtXtrVACouE8pba7) | 3:04 | 2026-02-26 | 2026-03-18 |
-| [Sand Castle](https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Sand Castle](https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC) | 3:35 | 2026-06-09 |  |
+| [Sand Castle](https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Sand Castle](https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC) | 3:35 | 2026-06-09 | 2026-07-01 |
 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 | 2026-02-26 |  |
 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-15 | 2026-01-17 |
 | [SAVE YOUR HEART](https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [SAVE YOUR HEART](https://open.spotify.com/album/6qiYRd1slkVkoOOe5vGsPP) | 3:11 | 2026-05-25 |  |

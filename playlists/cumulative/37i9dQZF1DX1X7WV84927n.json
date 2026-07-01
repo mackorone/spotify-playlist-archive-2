@@ -11353,6 +11353,24 @@
     },
     {
       "album": {
+        "name": "Grey Hun",
+        "url": "https://open.spotify.com/album/3VUzrAnLKwA8YKPnThEwxp"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230001,
+      "name": "Grey Hun",
+      "url": "https://open.spotify.com/track/4z8huhqEYqfRwYTXrb8ZA3"
+    },
+    {
+      "album": {
         "name": "Guardian",
         "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
       },
@@ -26674,7 +26692,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 329723,
       "name": "The End of Us (feat. Black Veil Brides)",
       "url": "https://open.spotify.com/track/22FVOBc45wL0pOUFluCbY7"

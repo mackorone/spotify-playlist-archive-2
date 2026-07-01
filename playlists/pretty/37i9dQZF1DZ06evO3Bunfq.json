@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130247,
+  "num_followers": 130255,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABuPu72TG9OAdGUExVeQKjQ",
+  "snapshot_id": "akG1gAAAAADeOkJDGwHu0EQKmPpMajCO",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Toneladas",
-        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
+        "name": "Ve Como Ando",
+        "url": "https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL"
       },
       "artists": [
         {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 206726,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
+      "duration_ms": 194304,
+      "name": "Ve Como Ando",
+      "url": "https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz"
     },
     {
       "added_at": null,
@@ -727,26 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ve Como Ando",
-        "url": "https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL"
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
       },
       "artists": [
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         }
       ],
-      "duration_ms": 194304,
-      "name": "Ve Como Ando",
-      "url": "https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz"
+      "duration_ms": 206726,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
     },
     {
       "added_at": null,

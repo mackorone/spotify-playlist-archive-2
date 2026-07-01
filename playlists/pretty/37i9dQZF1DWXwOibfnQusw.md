@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,929 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 17 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
 | 18 | [No Hay Lugar Más Alto](https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [No Hay Lugar Más Alto](https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU) | 3:37 |
 | 19 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
-| 20 | [Verano Con Jesús](https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Verano Con Jesús](https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn) | 3:07 |
-| 21 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
+| 20 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
+| 21 | [Verano Con Jesús](https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Verano Con Jesús](https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn) | 3:07 |
 | 22 | [El Guerrero David](https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [El Guerrero David](https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt) | 2:49 |
 | 23 | [Quiero Conocer A Jesús](https://open.spotify.com/track/3as9Rl3GJ1pP03e4Wxn8c5) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [Quiero Conocer A Jesús](https://open.spotify.com/album/0AexjlzRjmXT5ix9GNKHOK) | 5:35 |
 | 24 | [Tu Gozo](https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Tu Gozo](https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R) | 2:27 |
-| 25 | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/track/6wOMhNcTwPedGs5wANNQSE) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq) | 3:13 |
-| 26 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
+| 25 | [El Nombre de los Animales](https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT) | [In Christ Kids](https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp) | [El Nombre de los Animales](https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5) | 3:13 |
+| 26 | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/track/6wOMhNcTwPedGs5wANNQSE) | [Los Gigantes De La Fe](https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh) | [Se Fuerte y Fiel \(Ester\)](https://open.spotify.com/album/1w6wXQQFMDXgjpZ6HWkBIq) | 3:13 |
 | 27 | [Tus Cuerdas De Amor](https://open.spotify.com/track/7yMlFK4sLlG4ywbHV9vk5L) | [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Tus Cuerdas De Amor](https://open.spotify.com/album/79nTtbZUKxTAPEENJFbUG9) | 3:56 |
 | 28 | [Cristo Vive en Mi](https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Cristo Vive en Mi](https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA) | 3:47 |
 | 29 | [Tu Mi Luz / My Lighthouse](https://open.spotify.com/track/5zhfBTPQuGsh6KG8empl2m) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Tu Mi Luz / My Lighthouse](https://open.spotify.com/album/0btwtH1HbnwnqiCvBeM5p5) | 3:40 |

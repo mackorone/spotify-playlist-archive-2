@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285568,
+  "num_followers": 285570,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "White Rabbit",
         "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 315309,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229516,
-      "name": "She's A Rainbow",
-      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Going To California",
         "url": "https://open.spotify.com/album/3UCiAPojwoDuxzbawjPyCQ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 250000,
       "name": "Going To California",
       "url": "https://open.spotify.com/track/1GreApnsVuQ45DwAaTTDgH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
-      },
-      "artists": [
-        {
-          "name": "Holler Choir",
-          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
-        }
-      ],
-      "duration_ms": 265066,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
+      },
+      "artists": [
+        {
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
+        }
+      ],
+      "duration_ms": 265066,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Million Reasons",
+        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
+      },
+      "artists": [
+        {
+          "name": "Shelby Means",
+          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Jukebox",
         "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 193000,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Million Reasons",
-        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
-      },
-      "artists": [
-        {
-          "name": "Shelby Means",
-          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
     },
     {
       "added_at": "2026-02-04 05:00:53",

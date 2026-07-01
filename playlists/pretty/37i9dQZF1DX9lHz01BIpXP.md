@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,487 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,485 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 34 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
 | 35 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
 | 36 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
-| 37 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
-| 38 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
+| 37 | [Stap Soldaat](https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Stap Soldaat](https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ) | 3:10 |
+| 38 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
 | 39 | [Die Hele Nag](https://open.spotify.com/track/32mG7p0lEzV1Uqk8HvHBKY) | [DxD](https://open.spotify.com/artist/7Leion5vRfpcrWvaksfIW5), [CampusMr007](https://open.spotify.com/artist/1gQAWDtAOTxgw8DqGTqF29), [Galx\-M](https://open.spotify.com/artist/3oCnyaGXgbCHSTqaKtJ0F1) | [Die Hele Nag](https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6) | 3:29 |
 | 40 | [Massive](https://open.spotify.com/track/5T9YoFqvvLDBMvjRw71WSx) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Massive](https://open.spotify.com/album/1kLvAMqMrqd1KbPamJfxah) | 2:57 |
 | 41 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
-| 42 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
-| 43 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
-| 44 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
+| 42 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
+| 43 | [Don](https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq) | [Don](https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5) | 2:59 |
+| 44 | [Stalaza Gedrik](https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Stalaza Gedrik](https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7) | 2:29 |
 | 45 | [Staan Uit](https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Staan Uit](https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw) | 2:27 |
-| 46 | [Stalaza Gedrik](https://open.spotify.com/track/6TnLVVsoFFcN1lPYbLAp9s) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Stalaza Gedrik](https://open.spotify.com/album/5i4wNu9pjANht2ln7xBkh7) | 2:29 |
-| 47 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
-| 48 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
-| 49 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
+| 46 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
+| 47 | [Ladies From The Cape](https://open.spotify.com/track/0xqENcBffVOxa2EWqhrhtI) | [illRow](https://open.spotify.com/artist/2dRcdCUa8vHBggtgvngMI1), [Charly X2C](https://open.spotify.com/artist/6yu8nIyG3jnvaF3xWPkXmX) | [Ladies From The Cape](https://open.spotify.com/album/6UPbO4Hwf2z1oaCwGI6iXN) | 2:57 |
+| 48 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
+| 49 | [Hulle Weet Nog Niks](https://open.spotify.com/track/5RwDOcL1wdXxjguzSpBgj9) | [Vaughn Valentine](https://open.spotify.com/artist/40AbXDnA4kje6ybZa3vpCH) | [Hulle Weet Nog Niks](https://open.spotify.com/album/2RU30FokgN5wzHyJ8AyCGe) | 2:19 |
 | 50 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
 
 Snapshot ID: `AAAAAH2LGxQnz9bJRiuQxiFS+amCP2eg`

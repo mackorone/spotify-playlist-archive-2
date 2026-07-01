@@ -1,15 +1,15 @@
 {
   "description": "Enjoy the freshest K-Pop new releases (Cover: VERNON, THE 8) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 355943,
+  "num_followers": 355994,
   "original_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJZoU5zJbpQ4jGnD66VxdGf3iI8",
+  "snapshot_id": "AAAAAClOIs4FNNJUgBUEVCaBEo3/cnfA",
   "tracks": [
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "V8",
         "url": "https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS"
@@ -24,12 +24,76 @@
           "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/3Zha4O3O4pPyO332FhsgUD"
+      "duration_ms": 187500,
+      "name": "singasong",
+      "url": "https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "Molecular Gastronomy",
+        "url": "https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "duration_ms": 192972,
+      "name": "Molecular Gastronomy",
+      "url": "https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "OXY_GEN",
+        "url": "https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "OXY",
+      "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "BAD (Steve Aoki Ver.)",
+        "url": "https://open.spotify.com/album/0gI8v6pcOpciGbUO6TVhrw"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 196361,
+      "name": "BAD (Steve Aoki Ver.)",
+      "url": "https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "Perfect Target",
+        "url": "https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Perfect Target",
+      "url": "https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "J-POP REMAKE Vol.1",
         "url": "https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu"
@@ -45,39 +109,23 @@
       "url": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
-        "name": "Album 0",
-        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
+        "name": "2026 Monthly Yoon June - Horizon",
+        "url": "https://open.spotify.com/album/0LZwmIaBaQpB9uyy1f7a07"
       },
       "artists": [
         {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
         }
       ],
-      "duration_ms": 275000,
-      "name": "What Do I Steal?",
-      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
+      "duration_ms": 322000,
+      "name": "2026 Monthly Yoon June - Horizon",
+      "url": "https://open.spotify.com/track/7nbV1IuCUb68rnHlZ33K94"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
-      "album": {
-        "name": "BEGIN AGAIN",
-        "url": "https://open.spotify.com/album/1CMVW0r3etkymx3JQq6Mog"
-      },
-      "artists": [
-        {
-          "name": "KIMSOHEE",
-          "url": "https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/0CNfF7viDNyqTdUo6jwWtM"
-    },
-    {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "GOLDEN HOUR : Part.5",
         "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
@@ -93,23 +141,71 @@
       "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
-        "name": "I LOVE THIS ALBUM*",
-        "url": "https://open.spotify.com/album/6isSnl2Yg3vXWIKBzhiV3Y"
+        "name": "SUMMERTIME STORY",
+        "url": "https://open.spotify.com/album/69KF67n03oFlMuDj6olUzP"
       },
       "artists": [
         {
-          "name": "sAewoo",
-          "url": "https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35"
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
         }
       ],
-      "duration_ms": 181942,
-      "name": "WHO CARES?*",
-      "url": "https://open.spotify.com/track/38wZ9oY6Y1YG1i0aoSMKvO"
+      "duration_ms": 191000,
+      "name": "SUMMERTIME STORY",
+      "url": "https://open.spotify.com/track/4gEayLXcxbZFoIVLoUUPpu"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "Album 0",
+        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "What Do I Steal?",
+      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "End of the Month, Jang Beom June (June 2026) - You, Unknown to Me",
+        "url": "https://open.spotify.com/album/1E1DtJpAWhdhDHEyJqNHe0"
+      },
+      "artists": [
+        {
+          "name": "Jang Beom June",
+          "url": "https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu"
+        }
+      ],
+      "duration_ms": 210142,
+      "name": "You, Unknown to Me",
+      "url": "https://open.spotify.com/track/1dZ131NZVSTDJk0VOUDKhA"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/0DDzrqbJQDQfsb5wZn5WuI"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/0RLZKorqroLTOrfvfMGpZO"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Criminal (feat. Skinny Brown, Jayci yucca, Urban Fisher)",
         "url": "https://open.spotify.com/album/1m04IysOyA2GSOXheFPHUY"
@@ -137,7 +233,87 @@
       "url": "https://open.spotify.com/track/0MsBvOThjHtbbsOR07Qfss"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/4It0dbgLYgNnisFfSSFNFF"
+      },
+      "artists": [
+        {
+          "name": "yejun",
+          "url": "https://open.spotify.com/artist/1hssy8adZHZwxs9PDXFAhd"
+        }
+      ],
+      "duration_ms": 160815,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/4jINoSekq4EUzwt2CTPnqj"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "MapleStory : OVERDRIVE (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6UxvkRRmI1dPCQB2Mv6dht"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "duration_ms": 181043,
+      "name": "The Endless Call",
+      "url": "https://open.spotify.com/track/4g3kTMsQCi4fWcWCXdjdGr"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "Where to go",
+        "url": "https://open.spotify.com/album/1V2AKF86rsLKuD8ZZhYyhX"
+      },
+      "artists": [
+        {
+          "name": "Ingyeong Choi",
+          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Where to go",
+      "url": "https://open.spotify.com/track/0866PysVLUDMNAU0TzOk8a"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "BEGIN AGAIN",
+        "url": "https://open.spotify.com/album/1CMVW0r3etkymx3JQq6Mog"
+      },
+      "artists": [
+        {
+          "name": "KIMSOHEE",
+          "url": "https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/0CNfF7viDNyqTdUo6jwWtM"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
+      "album": {
+        "name": "I LOVE THIS ALBUM*",
+        "url": "https://open.spotify.com/album/6isSnl2Yg3vXWIKBzhiV3Y"
+      },
+      "artists": [
+        {
+          "name": "sAewoo",
+          "url": "https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "WHO CARES?*",
+      "url": "https://open.spotify.com/track/38wZ9oY6Y1YG1i0aoSMKvO"
+    },
+    {
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Beach Baby",
         "url": "https://open.spotify.com/album/0UTKUiZjlhrsHXpOqOH127"
@@ -153,7 +329,7 @@
       "url": "https://open.spotify.com/track/2aTI4zTKUXPmypm0edsxeJ"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Flo Flo",
         "url": "https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy"
@@ -173,7 +349,7 @@
       "url": "https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Rollingloud",
         "url": "https://open.spotify.com/album/2NL3b1hb8pVdfcYSPPkuCy"
@@ -189,7 +365,7 @@
       "url": "https://open.spotify.com/track/31yTDaGkc5yV3LnxLCVkm9"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Agent Kim Reactivated, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2Jjp5etgH3pLcVZwaL8K8D"
@@ -205,7 +381,7 @@
       "url": "https://open.spotify.com/track/0MwL9081ImoKrlIXy0ksUW"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra"
@@ -225,7 +401,7 @@
       "url": "https://open.spotify.com/track/0e8IPLkIQkk5uBfQB4T4UO"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "My regards",
         "url": "https://open.spotify.com/album/15ntHz3MdLsoCa7rSPWsP3"
@@ -241,7 +417,7 @@
       "url": "https://open.spotify.com/track/0ODROizzkqFMvjpy0w9EUH"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Goodnight, love (with Jeongaro)",
         "url": "https://open.spotify.com/album/4p31fZ4rNy7KZw72HcM3JG"
@@ -261,7 +437,7 @@
       "url": "https://open.spotify.com/track/1cgtugKVuV9eRj1cUx5cK7"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4dr2byTs5CnGERWn6VFxxe"
@@ -277,7 +453,7 @@
       "url": "https://open.spotify.com/track/2RGX6bawrjRBzJUQ3sf0SG"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Forever Dreaming",
         "url": "https://open.spotify.com/album/25s5ISpr9Rykd1dBDif6kM"
@@ -293,7 +469,7 @@
       "url": "https://open.spotify.com/track/3Jaonj3OA81iPihWQ9pvzz"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "MY B",
         "url": "https://open.spotify.com/album/7k3V0uWqga7c1RoeEAIT7W"
@@ -313,7 +489,7 @@
       "url": "https://open.spotify.com/track/3oOzXcIkBgI3Cx8DjHta9X"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Holding It In",
         "url": "https://open.spotify.com/album/2q3FAf55nGxD0UgQgwNmmo"
@@ -329,7 +505,7 @@
       "url": "https://open.spotify.com/track/7lC5wsAbYbcF42GVJ15nyA"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "5, 6, 7, 8",
         "url": "https://open.spotify.com/album/6woWG9FMuW7d0H8cpSUaX2"
@@ -345,7 +521,7 @@
       "url": "https://open.spotify.com/track/37DD3T86yBk4UEonk8dosT"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Soju Everyday",
         "url": "https://open.spotify.com/album/6vGhhycvuSkH2AgpV3qr8v"
@@ -361,7 +537,7 @@
       "url": "https://open.spotify.com/track/6nTc6ZvYl9XV9y7EL6b59K"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "If It Hurts Me More (Feat. Lee Min Jeong)",
         "url": "https://open.spotify.com/album/3eyQX2PyXqMOHtiF1NuAQ7"
@@ -381,7 +557,7 @@
       "url": "https://open.spotify.com/track/22nrwCjAokqbsMj9LdPH2o"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Happy Depression",
         "url": "https://open.spotify.com/album/2PzcbjMsMzjlsK2KjX4Iba"
@@ -397,7 +573,7 @@
       "url": "https://open.spotify.com/track/5DzZm8NYsDb8OlkAUbTPDL"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/2nk1LpKlrjbPWh4uttWhlT"
@@ -413,7 +589,7 @@
       "url": "https://open.spotify.com/track/5kogY792zz6wrRueimdmIA"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "23\u00b0 : The Age of Us",
         "url": "https://open.spotify.com/album/3NP3L9rTysjQB9ObKNYNVZ"
@@ -429,7 +605,7 @@
       "url": "https://open.spotify.com/track/0cm0AYKpuoXb7d262wuWpT"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Rain Is Falling",
         "url": "https://open.spotify.com/album/6JEPmcKbAPYYUz4he46ONj"
@@ -445,7 +621,7 @@
       "url": "https://open.spotify.com/track/6UrVk1CzBZZLlFHbAQcsK9"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Fix Me (Feat. PARK HYEON JIN)",
         "url": "https://open.spotify.com/album/4qT5u2ZupexrzxvyoisOYV"
@@ -465,7 +641,7 @@
       "url": "https://open.spotify.com/track/2xS4ATc6Az2hP3TYfcd1Bz"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "VC//VRS",
         "url": "https://open.spotify.com/album/4tkX9ugoHammVzRc28DW9a"
@@ -481,7 +657,7 @@
       "url": "https://open.spotify.com/track/4Fcc5Xs5KrOhfBrbzUuRlr"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "RIDE OR DIE",
         "url": "https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25"
@@ -497,7 +673,7 @@
       "url": "https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Raindrop",
         "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
@@ -513,7 +689,7 @@
       "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/5UuEoJzmhcUiHSLhLwW5nB"
@@ -533,7 +709,7 @@
       "url": "https://open.spotify.com/track/2CcRyH6uzjyuGFDwpNfusO"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "[Things We Dream : Vol.2]",
         "url": "https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul"
@@ -549,7 +725,7 @@
       "url": "https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "\uc774\ub7f0 \ub0a0 \uae30\ub2e4\ub838\ub098\uc694",
         "url": "https://open.spotify.com/album/26YXRotIt5FQVQfFvcOKKW"
@@ -565,7 +741,7 @@
       "url": "https://open.spotify.com/track/487wNOBS9NKPdppvXw9A3g"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "I LOVE SUMMER",
         "url": "https://open.spotify.com/album/7CqcYywNSEGpI9JT3HRQoa"
@@ -581,7 +757,7 @@
       "url": "https://open.spotify.com/track/1aSqypbR0rwLGIxRrPLxNG"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Ocean (Feat. YULEUM)",
         "url": "https://open.spotify.com/album/1qUFB6GL9exhV5TIiEHktw"
@@ -601,7 +777,7 @@
       "url": "https://open.spotify.com/track/2UukuTzoq5g3nUqo3l687n"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Caution: New Driver",
         "url": "https://open.spotify.com/album/78tFM0cEuQhoG3S8BmATwE"
@@ -621,7 +797,7 @@
       "url": "https://open.spotify.com/track/2O5MJS2DSGT1R9LtVesdiE"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "RUN IT",
         "url": "https://open.spotify.com/album/7aJdRwCClpggPMRBKCYkzc"
@@ -637,7 +813,7 @@
       "url": "https://open.spotify.com/track/427pMqOjZUBYnwE2xchy2y"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Wait! (feat. Chan)",
         "url": "https://open.spotify.com/album/7v87uDFMLplDaHe72mSrdx"
@@ -657,7 +833,7 @@
       "url": "https://open.spotify.com/track/7BsKaPQU37bbS7ZbmimAvZ"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "FAVE",
         "url": "https://open.spotify.com/album/26UpoznK4VnOmC4RQzWhcv"
@@ -677,7 +853,7 @@
       "url": "https://open.spotify.com/track/6NjXCmgYBg1ABayPkhAorn"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "End: Under the Golden Sky",
         "url": "https://open.spotify.com/album/6XdtKdMhmyTvflEMu9dIcm"
@@ -693,7 +869,7 @@
       "url": "https://open.spotify.com/track/3j9pKghlBsYjCI69VWriov"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "SWITCH.zip",
         "url": "https://open.spotify.com/album/0GIgUx9OJbgSRlXfdVElP3"
@@ -717,7 +893,7 @@
       "url": "https://open.spotify.com/track/3MLnRHPDHsIwSiGlYHbwhi"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/0AtVx0uXZ6lY5xwJdu52v0"
@@ -733,7 +909,7 @@
       "url": "https://open.spotify.com/track/6P3LANW1Egvq5k74YW0E60"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "GIRL (Feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3Bc9ZjfO481qkqqG9bUioN"
@@ -753,7 +929,7 @@
       "url": "https://open.spotify.com/track/0Bjcxo2gPGTcW1sYQ5YASq"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Reminded of HAPPYEND",
         "url": "https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7"
@@ -773,7 +949,7 @@
       "url": "https://open.spotify.com/track/6oc2oKvVbLkWp1U5c9tNIq"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "FATPIG",
         "url": "https://open.spotify.com/album/15Eqr32AwKWknqSk3opwE3"
@@ -789,7 +965,7 @@
       "url": "https://open.spotify.com/track/4zWuZjomYVnSdUhayP5fSe"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "clear out the room",
         "url": "https://open.spotify.com/album/0hxMEdWolujsfpXAHEPGcY"
@@ -805,7 +981,7 @@
       "url": "https://open.spotify.com/track/61C9oLlD9mo78jLNpyMfVT"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "GO",
         "url": "https://open.spotify.com/album/4f00AHq5o2yWvAtum48ZFU"
@@ -821,7 +997,7 @@
       "url": "https://open.spotify.com/track/0DgsUd1tcKiNLtgc1NG9yq"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "See You At Work Tomorrow! (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/3XqrGW4WHJxzRs3I0nIbvA"
@@ -837,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0RsIMdiMbgHD5NWk3EMnRj"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/7rGcnNoG09g5Meje4gPrwN"
@@ -853,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "FOREVER KIDS",
         "url": "https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq"
@@ -873,7 +1049,7 @@
       "url": "https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Rain on me",
         "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
@@ -889,7 +1065,7 @@
       "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "RE:BOOT [AFTER TEARS]",
         "url": "https://open.spotify.com/album/5mD8EE3lOGlxx8p6a3x3wy"
@@ -905,7 +1081,7 @@
       "url": "https://open.spotify.com/track/58LrWUfLf4BWdMx1PNPefc"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "My Century",
         "url": "https://open.spotify.com/album/54YlCBsfkIo1iS9i0J6lWk"
@@ -921,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4GDdTaN2sTC9dVsdGBjtJD"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "See You At Work Tomorrow! (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/1mGVStAdoiU1YEEF2WU43Z"
@@ -937,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6VEIDBeyBvBFOZ3HmoxCbf"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Lv2",
         "url": "https://open.spotify.com/album/7MFsCPjOUFHtLZu87S9yWw"
@@ -953,7 +1129,7 @@
       "url": "https://open.spotify.com/track/0lQmvAEjJsdt8u2dO0NOGN"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "404 Girl",
         "url": "https://open.spotify.com/album/2CyuJL7BLSqyeZCkhun3xa"
@@ -969,7 +1145,7 @@
       "url": "https://open.spotify.com/track/4pGH17JPZTbM5LGZzo6SgE"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Paper Wing",
         "url": "https://open.spotify.com/album/2TxYJwV3JL3IfsnVw5xqOI"
@@ -985,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3C056Cw9lr6VqnrRDnEEfR"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Lemon Tang - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
@@ -1001,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "NAME.",
         "url": "https://open.spotify.com/album/0Ioutbqid0mPfXKSLkKW6y"
@@ -1017,7 +1193,7 @@
       "url": "https://open.spotify.com/track/0YsktruTFr4jxpwcSiHByE"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "T (Feat. George)",
         "url": "https://open.spotify.com/album/06R10OehS6NkRZlho922fe"
@@ -1037,7 +1213,7 @@
       "url": "https://open.spotify.com/track/7qK03HQmLzHFXWXvBMSbMy"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "YATA",
         "url": "https://open.spotify.com/album/6fEZzDe1mWBBIToX7iiujb"
@@ -1057,7 +1233,7 @@
       "url": "https://open.spotify.com/track/6qdTM5yID2MNsXgnDSPvJp"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/0IWcUqU4co78UO9Gzr6L1c"
@@ -1073,7 +1249,7 @@
       "url": "https://open.spotify.com/track/4x54Egxfx2Q4IokkMM8c5d"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Darkroom Disco",
         "url": "https://open.spotify.com/album/7I3hst2N78XNbxJEOv68nn"
@@ -1089,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6PqBlECI6ZqNkL95PScalt"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "4 Steps \u2018Fore the Spiral",
         "url": "https://open.spotify.com/album/3nuBJdFzPDzyguevYdiS2L"
@@ -1105,7 +1281,7 @@
       "url": "https://open.spotify.com/track/1lAFYV2Ne1FOpVnK42IYvU"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "GOGOSING",
         "url": "https://open.spotify.com/album/0OmchUWzWJ57qYfhtKgbUU"
@@ -1121,7 +1297,7 @@
       "url": "https://open.spotify.com/track/1tgnPC0lE5nCRTjo8XchFN"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "\u02c3mew\u02c2",
         "url": "https://open.spotify.com/album/1cFpZKTSJDtpQ1bMfh8Y95"
@@ -1137,7 +1313,7 @@
       "url": "https://open.spotify.com/track/4kNDl99JQxwdZoYxNZfYsC"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/6bVRoOgdl5Ebfi6LfuKeyQ"
@@ -1153,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6QToXmBsnTIuzluYFciK2t"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "4:18 (NO FEAR IN LOVE)",
         "url": "https://open.spotify.com/album/26fDXTKCLxld4Hhp9JnSEx"
@@ -1169,7 +1345,7 @@
       "url": "https://open.spotify.com/track/4Wg2FStGuHis8jX1ZhEYI0"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "On Another Level",
         "url": "https://open.spotify.com/album/6JWgd3Pmx7Zq3I7uFhIFqM"
@@ -1189,7 +1365,7 @@
       "url": "https://open.spotify.com/track/6aCWC7KTvlOb6osDY7yW9x"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Who'z At Da Door?",
         "url": "https://open.spotify.com/album/7s8SftrLMjezuzwk6UgT11"
@@ -1205,7 +1381,7 @@
       "url": "https://open.spotify.com/track/0tit9PwQGICzzdoIknmcS6"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "Beat That",
         "url": "https://open.spotify.com/album/5pIrVqhgu2SD5JJ5gfpMoV"
@@ -1221,7 +1397,7 @@
       "url": "https://open.spotify.com/track/7vLrJycwxY8BDkn5PbJ3R0"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "I LOVE",
         "url": "https://open.spotify.com/album/7HQh1rOJP4h3QaUw1c3JXj"
@@ -1241,7 +1417,7 @@
       "url": "https://open.spotify.com/track/63US6EZOfhVlTR78mmVA6V"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "A Rainy Day",
         "url": "https://open.spotify.com/album/2YcrHF0bsfOMbjJzT3dprH"
@@ -1257,7 +1433,7 @@
       "url": "https://open.spotify.com/track/2wAevk5NtUOjwGbSOJNLIJ"
     },
     {
-      "added_at": "2026-06-29 09:20:13",
+      "added_at": "2026-06-30 09:15:08",
       "album": {
         "name": "[SERIES363] YOUNGJAE - A Perfect Day",
         "url": "https://open.spotify.com/album/5uNsPwfxJVL8EM3yE3gkyh"

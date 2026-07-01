@@ -283,6 +283,28 @@
     },
     {
       "album": {
+        "name": "Crimson Requiem",
+        "url": "https://open.spotify.com/album/0NLiAl9Tte90YPwHOGQ3RC"
+      },
+      "artists": [
+        {
+          "name": "Yoshihi",
+          "url": "https://open.spotify.com/artist/41FN2VKfQzEI9LOX4LFeaI"
+        },
+        {
+          "name": "Miyamai Moca",
+          "url": "https://open.spotify.com/artist/76yTxMPtgbePrcsZxTkY82"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "Crimson Requiem feat. \u5bae\u821e\u30e2\u30ab",
+      "url": "https://open.spotify.com/track/0SSGGVbueYrTnPMH1HBQIo"
+    },
+    {
+      "album": {
         "name": "Cyclic",
         "url": "https://open.spotify.com/album/1gwVaZNJ2Ez8oUTDV1zYqU"
       },
@@ -2087,6 +2109,28 @@
     },
     {
       "album": {
+        "name": "\u30c4\u30fc\u30df\u30cb\u30c3\u30c4\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/5buX7eP6v75Qh2AC7Nnzyy"
+      },
+      "artists": [
+        {
+          "name": "\u306e\u30fc\u306d\u30fc\u3080",
+          "url": "https://open.spotify.com/artist/3nsuxvus8bQTckiewgGwhs"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "\u3048\u3089\u3044\u306d (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/3CCdlGXIclqrj5eNRBBarl"
+    },
+    {
+      "album": {
         "name": "\u304a\u3046\u305f\u30fb\u30a4\u30f3\u30b6\u30fb\u30ec\u30a4\u30f3",
         "url": "https://open.spotify.com/album/3xrjP0YWHuffNDcBJXHu8s"
       },
@@ -2282,7 +2326,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 252667,
       "name": "\u3053\u305f\u3048\u3066 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
       "url": "https://open.spotify.com/track/3lca3oPJceoWwcRgT0OpPv"
@@ -3892,7 +3936,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 168275,
       "name": "\u30aa\u30fc\u30eb\u30e6\u30fc\u30cb\u30fc\u30c9\u30a4\u30ba\u30aa\u30fc\u30c7\u30a3\u30ca\u30ea\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/28BbDaRvVIleHJfdaYNphR"
@@ -6805,6 +6849,28 @@
     },
     {
       "album": {
+        "name": "\u5919\u591c\u5922\u5bd0",
+        "url": "https://open.spotify.com/album/5vhhGflcZARmaeOwSJGOEA"
+      },
+      "artists": [
+        {
+          "name": "\u3050\u3061\u308a",
+          "url": "https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231192,
+      "name": "\u30e9\u30f4\u30a1\u30f3\u30c9\u30d8\u30a4\u30c8 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/5kCemENdWuT2w7pEOTy4Qc"
+    },
+    {
+      "album": {
         "name": "\u30ea\u30c8\u30eb\u30c0\u30a4\u30d0\u30fc",
         "url": "https://open.spotify.com/album/43B47OJ2YYY5vgcZzlCd0A"
       },
@@ -7084,7 +7150,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 204000,
       "name": "\u4e00\u5104\u5e74\u604b\u3057\u3066\u308b",
       "url": "https://open.spotify.com/track/30lpFMtGZ94BnuUqkHYCSD"
@@ -7110,7 +7176,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 248800,
       "name": "\u4e16\u754c\u6700\u5f8c\u306e\u97f3\u697d\u968a (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6Dj3KclYAVISnNSrprlnvS"
@@ -7162,6 +7228,28 @@
       "duration_ms": 191250,
       "name": "\u4e8c\u91cd\u3089\u305b\u3093 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3AyC86PBRZiX0B2MlgYFC9"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u751f\u306b\u610f\u5473\u306a\u3069\u306a\u3044!",
+        "url": "https://open.spotify.com/album/1M2aGlx1q3R7GDilplS5lq"
+      },
+      "artists": [
+        {
+          "name": "\u8584\u5869\u6307\u6570",
+          "url": "https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114174,
+      "name": "\u4eba\u751f\u306b\u610f\u5473\u306a\u3069\u306a\u3044! (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/0NcuNeNluaedvTMNghR5UB"
     },
     {
       "album": {
@@ -7312,7 +7400,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 162438,
       "name": "\u5168\u90e8\u58ca\u3057\u3061\u3083\u3048\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/5FxDWbZgSGLRFRkkMNmmGy"
@@ -8342,6 +8430,24 @@
       "duration_ms": 158780,
       "name": "\u5fc3\u6ce5\u5922(syndrome) (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1dUyZRxEkTeWhQyf1GkrWB"
+    },
+    {
+      "album": {
+        "name": "BLIND",
+        "url": "https://open.spotify.com/album/6kBAs7rtFKwRa21rzYt4lO"
+      },
+      "artists": [
+        {
+          "name": "Hikarisyuyo",
+          "url": "https://open.spotify.com/artist/10CcaFt45OqB7FyU0VrUCT"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "\u5fc3\u81d3\u304c\u6b62\u307e\u308b\u307e\u3067 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3yUONpdUtgqZElpAADOHgd"
     },
     {
       "album": {

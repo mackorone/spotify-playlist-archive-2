@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: NOWIAMYOUNG\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: Keyveatz\)
 
-1,925 songs - 4 day 6 hr 48 min
+1,927 songs - 4 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1250,6 +1250,7 @@
 | [Over\-Adaptation](https://open.spotify.com/track/4litdby90raKhdbjiCLK59) | [Lee Hyun Jun](https://open.spotify.com/artist/6HoP7A5DchkLchV82jDLDm) | [TRANSLATION ADDICTION](https://open.spotify.com/album/7J2r0QIm8X2owl5FEqTsiP) | 3:49 | 2022-08-17 | 2022-09-23 |
 | [Overclass](https://open.spotify.com/track/0TonzjCZUWODRE6wzLTTqr) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes EP](https://open.spotify.com/album/220KNMbQ5OF9XeLYT0AI9C) | 3:43 | 2023-07-05 | 2023-07-14 |
 | [OVERDRIVE](https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:55 | 2023-06-23 | 2023-09-15 |
+| [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 | 2026-06-30 |  |
 | [P.S\. \(Feat\. Wonstein\)](https://open.spotify.com/track/7cveOcaMCOOQXutYwjqxpd) | [Yang Kyle](https://open.spotify.com/artist/4x5ZXHL71AGw8hI2pC4Y4l), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [RAP:PUBLIC FINAL](https://open.spotify.com/album/6Fe3AaeLDjpSHZy4CEJ1KU) | 4:13 | 2024-12-11 | 2025-04-25 |
 | [Package \(feat\. Khundi Panda\)](https://open.spotify.com/track/63n1VzpEsJBlD97CzlbBv1) | [NEWTOWN BANGERS](https://open.spotify.com/artist/5lpEfPHS5i3nblRzsm64i9), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [ANTI VOGUE](https://open.spotify.com/album/4RUymlrJTmHXgjQnRp1jBu) | 3:12 | 2022-08-31 | 2022-12-10 |
 | [Pacman's Punch Cipher](https://open.spotify.com/track/3wxNexCjTWVnURWS1n73uY) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Styliztik Jones](https://open.spotify.com/artist/2mQFOrRbYJtWZtJb4Re6hB), [Bizzy](https://open.spotify.com/artist/12ceFY8dHtc9XsIknO45Pa), [Jacob Santana](https://open.spotify.com/artist/5vZXzbVJQ70r0x0ldKuG8s), [Illson](https://open.spotify.com/artist/3tky4Wd4sPBqtiHVdAr9R8) | [Trust Me I Know Everything You Think I Don't Mixtape](https://open.spotify.com/album/4o9fJQ3QDSmWgXIhFGIkX4) | 5:21 | 2022-03-24 | 2022-04-20 |
@@ -1552,6 +1553,7 @@
 | [Strictly \(feat\. HAON\)](https://open.spotify.com/track/2LoXbz47HkowRIFKKAN586) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [CHAPTER III](https://open.spotify.com/album/3eMzL0AxT1odEw7fsWA3Gr) | 2:52 | 2025-09-01 | 2025-12-09 |
 | [STUCK](https://open.spotify.com/track/7ssPQ5RezK2cjSf5aLWpnS) | [wnsday](https://open.spotify.com/artist/72LdkNVMGXuNd0FyRqqNhX), [Dowoo](https://open.spotify.com/artist/5OzPQDF14B8kuA5iVpa4gF) | [NOMATAPE](https://open.spotify.com/album/5ws4BzmS6WvCIf25b1t5rD) | 2:15 | 2024-03-08 | 2024-05-03 |
 | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Stuck \(Feat\. Yerin Baek\)](https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko) | 2:48 | 2026-05-06 |  |
+| [SUB\_ZERO \(Feat\. punchnello\)](https://open.spotify.com/track/3DevZvU4czIFeuzKyIEi0Y) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:10 | 2026-06-30 |  |
 | [SUBSCRIBE TO ESQUIRE](https://open.spotify.com/track/38uodvbFCQewhKohMLFMlB) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [SUBSCRIBE TO ESQUIRE](https://open.spotify.com/album/2c6MGgrptlzRPdGj404GyS) | 2:50 | 2023-02-24 | 2023-03-28 |
 | [Sugar Rush](https://open.spotify.com/track/5FJqpWkacWPUrXtJ5waI1j) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:28 | 2024-02-23 | 2024-06-05 |
 | [Suicide Squad \(Feat\. Kid Milli, lIlBOI\)](https://open.spotify.com/track/7n6Dpi2RIbfFJDpLOthlPe) | [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [RAP:PUBLIC FINAL](https://open.spotify.com/album/6Fe3AaeLDjpSHZy4CEJ1KU) | 4:04 | 2024-12-11 | 2025-05-03 |

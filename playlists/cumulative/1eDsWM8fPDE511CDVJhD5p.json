@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 187961,
       "name": "Daze Heat (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7EzYgWBCG1dFsD8OPwxvuW"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 116039,
       "name": "HEAVEN (feat. \u5de1\u97f3\u30eb\u30ab)",
       "url": "https://open.spotify.com/track/11RqjQIWMC61NP3rg4Pj12"
@@ -3866,7 +3866,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 249750,
       "name": "SUGARCRUSH (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6yztWzBXbo7tHxOuAD1uuL"
@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 237257,
       "name": "TAKEOVER (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/7oS3dXFiA3nOLvAKU4KAYz"
@@ -6205,6 +6205,28 @@
     },
     {
       "album": {
+        "name": "\u30b6\u30e9\u30e1\u30ce\u30ad\u30ef\u30df",
+        "url": "https://open.spotify.com/album/4dZw2NF41KbvI11Q61NkOi"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147567,
+      "name": "\u30b6\u30e9\u30e1\u30ce\u30ad\u30ef\u30df (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/7HcVwz4zAbQdX3p2sWhrmY"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30a2\u30f3\u30d6\u30eb\u30fc",
         "url": "https://open.spotify.com/album/2Z9EJw81AJyw4wHxZMr1X3"
       },
@@ -6268,7 +6290,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 190434,
       "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/4czJTr7YtRW8HTZiBXl6OM"
@@ -9496,7 +9518,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 220800,
       "name": "\u795e\u63a8\u3057\u30cd\u30eb\u69d8 - From \"Princess Miku: The Musical\" (feat. \u4e9e\u5317\u30cd\u30eb)",
       "url": "https://open.spotify.com/track/4ljKY0mpqBcXrgXJ4O06oI"
@@ -9518,6 +9540,28 @@
       "duration_ms": 219589,
       "name": "\u795e\u98a8",
       "url": "https://open.spotify.com/track/6kaOsnKt6ki85gLXtywYR0"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u305f\u3061\u306e\u8ddd\u96e2 \u2500\u2500 Scale of Us",
+        "url": "https://open.spotify.com/album/5UwTkX9ujgECQrX049S8Sz"
+      },
+      "artists": [
+        {
+          "name": "nyanyannya",
+          "url": "https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173189,
+      "name": "\u79c1\u305f\u3061\u306e\u8ddd\u96e2 \u2500\u2500 Scale of Us (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/48Lrltf0O5RXMacNUNrvdS"
     },
     {
       "album": {
@@ -9672,6 +9716,28 @@
       "duration_ms": 194000,
       "name": "\u81ea\u5f8b\u5411\u304d\u611b (feat. \u96e8\u8863)",
       "url": "https://open.spotify.com/track/3mluonKrAjfT7P3yB9v8Uh"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/1Sveo0wmsCjyu3Dmsjf7ZL"
+      },
+      "artists": [
+        {
+          "name": "ATOLS",
+          "url": "https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "\u82b1\u706b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1xqlVovUqpyPitEOySMCFU"
     },
     {
       "album": {
@@ -10052,6 +10118,32 @@
       "duration_ms": 155833,
       "name": "\u9759\u8108\u7684\u30aa\u30c8\u30ca (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/1ohVnKNU4Kpqu59m04Os0M"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u901f\u3092\u8d85\u3048\u3066",
+        "url": "https://open.spotify.com/album/1qbtmOPf4HjUuwvXv9tRBv"
+      },
+      "artists": [
+        {
+          "name": "Yunosuke",
+          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264300,
+      "name": "\u97f3\u901f\u3092\u8d85\u3048\u3066 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3YfBzvF5e5nVoNCgVTuRyU"
     },
     {
       "album": {

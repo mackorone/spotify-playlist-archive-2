@@ -929,6 +929,24 @@
     },
     {
       "album": {
+        "name": "Babyline",
+        "url": "https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242345,
+      "name": "Babyline",
+      "url": "https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4"
+    },
+    {
+      "album": {
         "name": "BACKSTABBER",
         "url": "https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs"
       },
@@ -3508,7 +3526,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 197586,
       "name": "DISCO (FT. TOMMY GENESIS)",
       "url": "https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC"
@@ -5888,7 +5906,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 162317,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY"
@@ -7821,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5"
+    },
+    {
+      "album": {
         "name": "You Signed Up For This",
         "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
       },
@@ -8492,7 +8528,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 154000,
       "name": "Lipstick on the Rearview",
       "url": "https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3"
@@ -9113,6 +9149,28 @@
     },
     {
       "album": {
+        "name": "Lucky Again (The Magician Remix)",
+        "url": "https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161384,
+      "name": "Lucky Again (The Magician Remix)",
+      "url": "https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
@@ -9572,6 +9630,24 @@
       "duration_ms": 275400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4orWSOYbKWFvbyKvgJCnXV"
+    },
+    {
+      "album": {
+        "name": "Molly In The Club",
+        "url": "https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216138,
+      "name": "Molly In The Club",
+      "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
     },
     {
       "album": {

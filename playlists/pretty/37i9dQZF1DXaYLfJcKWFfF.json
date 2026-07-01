@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
-  "num_followers": 2370,
+  "num_followers": 2380,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Djanne",
-        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
+        "name": "Nyoni Yami",
+        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
       },
       "artists": [
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Yoav",
+          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
         }
       ],
-      "duration_ms": 162707,
-      "name": "Djanne",
-      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
+      "duration_ms": 212500,
+      "name": "Nyoni Yami",
+      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -811,18 +815,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Lookalike",
-        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
+        "name": "Djanne",
+        "url": "https://open.spotify.com/album/3QkxgYHkAYDUQY3NxCZOdx"
       },
       "artists": [
         {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
+      "duration_ms": 162707,
+      "name": "Djanne",
+      "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -843,22 +847,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Nyoni Yami",
-        "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
+        "name": "Lookalike",
+        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
       },
       "artists": [
         {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        },
-        {
-          "name": "Yoav",
-          "url": "https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH"
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
         }
       ],
-      "duration_ms": 212500,
-      "name": "Nyoni Yami",
-      "url": "https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg"
+      "duration_ms": 154000,
+      "name": "Lookalike",
+      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Pour Some More",
-        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
-      },
-      "artists": [
-        {
-          "name": "Yas Mayou",
-          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
-        }
-      ],
-      "duration_ms": 207455,
-      "name": "Pour Some More",
-      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 189176,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Pour Some More",
+        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
+      },
+      "artists": [
+        {
+          "name": "Yas Mayou",
+          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
+        }
+      ],
+      "duration_ms": 207455,
+      "name": "Pour Some More",
+      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "OKAY!",
-        "url": "https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "OKAY!",
-      "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 236080,
       "name": "Faya",
       "url": "https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "OKAY!",
+        "url": "https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "OKAY!",
+      "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "You Want Me",
         "url": "https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7"
       },
@@ -1227,34 +1211,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "LUCKY UU",
-        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
       },
       "artists": [
         {
-          "name": "LUUKHANYO",
-          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
         }
       ],
-      "duration_ms": 186818,
-      "name": "The Midnight Wanderer",
-      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Not Alone",
-        "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
-      },
-      "artists": [
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        }
-      ],
-      "duration_ms": 173634,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1275,6 +1243,38 @@
       "duration_ms": 201959,
       "name": "Holu Lufuno",
       "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE"
+      },
+      "artists": [
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        }
+      ],
+      "duration_ms": 173634,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "LUCKY UU",
+        "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
+      },
+      "artists": [
+        {
+          "name": "LUUKHANYO",
+          "url": "https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "The Midnight Wanderer",
+      "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "A Different Corner",
-        "url": "https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe"
-      },
-      "artists": [
-        {
-          "name": "Nakhane",
-          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
-        }
-      ],
-      "duration_ms": 239415,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "The Coffee Song",
         "url": "https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 141981,
       "name": "The Coffee Song",
       "url": "https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "A Different Corner",
+        "url": "https://open.spotify.com/album/04KqIOGtMv9uJkagkupONe"
+      },
+      "artists": [
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "duration_ms": 239415,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/7bt4SUQM5Mh6CIlFLkXHdn"
     }
   ],
   "unique_name": "Afro Indie",

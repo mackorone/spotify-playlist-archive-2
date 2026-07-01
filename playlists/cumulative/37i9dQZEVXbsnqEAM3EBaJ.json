@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 254880,
       "name": "A Composer's Reflection",
       "url": "https://open.spotify.com/track/43WOrZaQk62QMyPcxCeK0G"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 264672,
       "name": "A Gentle Pause",
       "url": "https://open.spotify.com/track/7e0HdGBMVFYxJdW1pmfwWZ"
@@ -17820,7 +17820,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "En puntillas tras de ti",
       "url": "https://open.spotify.com/track/1W5rVxwo98IrgCMa7Mmb41"
@@ -52629,6 +52629,24 @@
     },
     {
       "album": {
+        "name": "Creedence Clearwater Revival: The Hits",
+        "url": "https://open.spotify.com/album/0KbxqqezuM6MlV56HhQkne"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239613,
+      "name": "Someday Never Comes",
+      "url": "https://open.spotify.com/track/4PPAyZYKA61yioG5OhaxkG"
+    },
+    {
+      "album": {
         "name": "Captain Fantastic And The Brown Dirt Cowboy (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3zRjCT3nLkeYanSFYHfQPu"
       },
@@ -54966,7 +54984,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 168000,
       "name": "Sur",
       "url": "https://open.spotify.com/track/3PT4yj5ydkblpu3VTEqxnH"
@@ -55160,7 +55178,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 274613,
       "name": "Susie Q",
       "url": "https://open.spotify.com/track/5eovPGBmrt40dC7eN3Ujwx"
@@ -67368,7 +67386,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 205987,
       "name": "Wine into Water (feat. Elton John)",
       "url": "https://open.spotify.com/track/39mBzzyygou7Xc3ydMZFgZ"
@@ -67390,7 +67408,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 205987,
       "name": "Wine into Water (feat. Elton John)",
       "url": "https://open.spotify.com/track/5ptZgAvkeGAzQfUFzmmYgb"

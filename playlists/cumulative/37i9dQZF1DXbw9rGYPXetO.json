@@ -499,6 +499,32 @@
     },
     {
       "album": {
+        "name": "Hoor | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/7CWIrGsju5yTIo3jvXn8BV"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Qaiser Nizami",
+          "url": "https://open.spotify.com/artist/2TFelufhNan03C8eODRkbY"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385882,
+      "name": "Hoor | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/0XiZEqOr2ZF4EzQaBzUGIg"
+    },
+    {
+      "album": {
         "name": "Ishq Bawla | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/19tJJMKefMTADntQ6RBrAx"
       },

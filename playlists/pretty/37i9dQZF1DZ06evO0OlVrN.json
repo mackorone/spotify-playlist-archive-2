@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAC5+okmjwZVSy7EPC1t7YWD",
+  "snapshot_id": "akG1gAAAAAAbixbsRawwerR0+BW0UBMs",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Falsa Ilusion",
-      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+      "duration_ms": 196893,
+      "name": "Falsa Ilusion",
+      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
     },
     {
       "added_at": null,

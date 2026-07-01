@@ -4,7 +4,7 @@
 
 > 
 
-8,679 songs - 22 day 2 hr 39 min
+8,680 songs - 22 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2505,6 +2505,7 @@
 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2025-01-03 |  |
 | [Gods Father](https://open.spotify.com/track/6eN9bwqvmItGjYNUqvOfqH) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 2:18 | 2025-01-03 |  |
 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 | 2025-01-03 |  |
+| [GODSTAINED](https://open.spotify.com/track/6phik4BkqTBtDodw8ZJJ5Q) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:25 | 2026-06-30 |  |
 | [Gohotekitobikatanosusume](https://open.spotify.com/track/0cLUVjdaZAdouPRhXMTC1h) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [INDIES COMPLETE](https://open.spotify.com/album/3SB17QmsAB1BquwIHOsaJA) | 4:00 | 2025-05-26 |  |
 | [Goin Dummi](https://open.spotify.com/track/6QFzUXTIZXOLesQcgmGOsR) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:41 | 2025-01-03 |  |
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2025-01-04 |  |

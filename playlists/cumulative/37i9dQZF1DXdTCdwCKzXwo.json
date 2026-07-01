@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "The Best Of The Waitresses",
+        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
+      },
+      "artists": [
+        {
+          "name": "The Waitresses",
+          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "I Know What Boys Like",
+      "url": "https://open.spotify.com/track/2SXRFmLvNjOTuL9eCYWsrx"
+    },
+    {
+      "album": {
         "name": "Songs of the Free",
         "url": "https://open.spotify.com/album/5QT43bbotQBPSb8fuv5g26"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 151520,
       "name": "Janitor",
       "url": "https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH"

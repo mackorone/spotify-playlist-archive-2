@@ -1,6 +1,6 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover:  Barry ",
-  "num_followers": 94418,
+  "num_followers": 94550,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,26 @@
     {
       "added_at": "2026-06-25 22:40:13",
       "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": "2026-06-25 22:40:13",
+      "album": {
         "name": "JET",
         "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 175200,
       "name": "JET",
       "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
-    },
-    {
-      "added_at": "2026-06-25 22:40:13",
-      "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
     },
     {
       "added_at": "2026-06-25 22:40:13",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-06-25 22:40:13",
       "album": {
-        "name": "ARA",
-        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Ara (600M)",
-      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
-    },
-    {
-      "added_at": "2026-06-25 22:40:13",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2026-06-25 22:40:13",
       "album": {
-        "name": "Id.Me",
-        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+        "name": "ARA",
+        "url": "https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 169273,
-      "name": "Id.Me",
-      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
+      "duration_ms": 185000,
+      "name": "Ara (600M)",
+      "url": "https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj"
     },
     {
       "added_at": "2026-06-25 22:40:13",
@@ -851,6 +835,22 @@
       "duration_ms": 146285,
       "name": "1000 Thoughts",
       "url": "https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5"
+    },
+    {
+      "added_at": "2026-06-25 22:40:13",
+      "album": {
+        "name": "Id.Me",
+        "url": "https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 169273,
+      "name": "Id.Me",
+      "url": "https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl"
     },
     {
       "added_at": "2026-06-25 22:40:13",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-06-25 22:40:13",
       "album": {
+        "name": "HOW E DEY BE (HEDB)",
+        "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
+      },
+      "artists": [
+        {
+          "name": "SHON",
+          "url": "https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "HOW E DEY BE (HEDB)",
+      "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
+    },
+    {
+      "added_at": "2026-06-25 22:40:13",
+      "album": {
         "name": "I'M OK",
         "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 157241,
       "name": "I'M OK",
       "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
-    },
-    {
-      "added_at": "2026-06-25 22:40:13",
-      "album": {
-        "name": "HOW E DEY BE (HEDB)",
-        "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
-      },
-      "artists": [
-        {
-          "name": "SHON",
-          "url": "https://open.spotify.com/artist/177g8yTTFy95mBCW6xudMo"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "HOW E DEY BE (HEDB)",
-      "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
     },
     {
       "added_at": "2026-06-25 22:40:13",

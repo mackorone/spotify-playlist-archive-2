@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 211806,
+  "num_followers": 211825,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Wargasm",
-      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 93493,
       "name": "New Radio",
       "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Wargasm",
+      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Smell the Magic",
-        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "Shove - Remastered",
-      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 565453,
       "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
       "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Smell the Magic",
+        "url": "https://open.spotify.com/album/0VgXvWzdF93KHuNdzzSgaB"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "Shove - Remastered",
+      "url": "https://open.spotify.com/track/3qtJyjX8gnhKlqbNKdY9jb"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Demonstration Tapes",
-        "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
-      },
-      "artists": [
-        {
-          "name": "Dolly Mixture",
-          "url": "https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv"
-        }
-      ],
-      "duration_ms": 118853,
-      "name": "Step Close Now",
-      "url": "https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "Desperate, Scared, but Social",
         "url": "https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 111266,
       "name": "Mr. Moneybag$",
       "url": "https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Demonstration Tapes",
+        "url": "https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU"
+      },
+      "artists": [
+        {
+          "name": "Dolly Mixture",
+          "url": "https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv"
+        }
+      ],
+      "duration_ms": 118853,
+      "name": "Step Close Now",
+      "url": "https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc"
     },
     {
       "added_at": "2024-10-07 20:36:39",

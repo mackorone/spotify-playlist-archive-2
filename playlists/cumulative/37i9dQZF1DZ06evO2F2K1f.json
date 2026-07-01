@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 172180,
       "name": "Braces And Boots",
       "url": "https://open.spotify.com/track/3PHxReooWvWGZltpiM8MJN"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 158400,
       "name": "Delivery Date",
       "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
@@ -2685,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: Classical Synthesiser / Stained Glass Windows",
+        "url": "https://open.spotify.com/album/2D3TBJfR9R574azGyR4dIm"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112564,
+      "name": "Rhapsodie Gentille",
+      "url": "https://open.spotify.com/track/1VuhDo9YgWLvBXzbiA1Jjf"
+    },
+    {
+      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/2lM35EXjHx3uxA1LRPtIAW"
       },
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"

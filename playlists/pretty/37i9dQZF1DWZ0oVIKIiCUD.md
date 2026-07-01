@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,034 likes - 116 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,047 likes - 116 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 | 62 | [斑马，斑马](https://open.spotify.com/track/60BuBZEzkOBWA3sesp9JeU) | [宋冬野](https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo) | [安和桥北](https://open.spotify.com/album/4MTEs0gR5jeInhPAu5aZkD) | 4:13 |
 | 63 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 |
 | 64 | [My Heart](https://open.spotify.com/track/62DVr5HPrKmJCK4kgBHQjw) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [YUMI's Cells, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Q2z3imJ8bbrXqeV7y7wEx) | 3:30 |
-| 65 | [Tetap Dalam Jiwa](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 3:29 |
-| 66 | [Anganku Anganmu \(With Raisa\) \(with Raisa\)](https://open.spotify.com/track/1nFfxe2VJdrnKdzwIMfNKz) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Paradox](https://open.spotify.com/album/4OTR3hEos8V9FqPZ754knV) | 4:30 |
+| 65 | [World on Fire!](https://open.spotify.com/track/2h9EU4K2HGh45uao8SKiyo) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [EKLEKTIKO](https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7) | 3:20 |
+| 66 | [UNLOCK THE KEY](https://open.spotify.com/track/5P54jRTGFj6IdJkz8PPWK5) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [UNLOCK THE KEY](https://open.spotify.com/album/3Vl819yGnGJOghjIRyUaco) | 4:30 |
 | 67 | [Goblin Rumblin'](https://open.spotify.com/track/3qS0yqelNKiyNo8jMTYMJx) | [UREUK AND THE GYPSIES](https://open.spotify.com/artist/3QQr6mc2bkCf1znKo4uUUa) | [Spirits Unbound](https://open.spotify.com/album/4nW3igniiPYgXbBpnpeG1F) | 7:37 |
 | 68 | [Spiritual Outburst](https://open.spotify.com/track/65hva5wRdqvUQuBhzRbDim) | [UREUK AND THE GYPSIES](https://open.spotify.com/artist/3QQr6mc2bkCf1znKo4uUUa) | [Spirits Unbound](https://open.spotify.com/album/4nW3igniiPYgXbBpnpeG1F) | 13:15 |
 | 69 | [Summer For You](https://open.spotify.com/track/4hoXJARvMTu2qBVQyjLbGg) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/1D5xRbEagBQAnQvUzRWivs) | 4:03 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 | 115 | [The Sun from Mars](https://open.spotify.com/track/7DpULjJnRGivJSuag4usTW) | [Fat Hamster and KANG New](https://open.spotify.com/artist/5W3W4W6r71LupxKRCVUf9T), [Fat Hamster](https://open.spotify.com/artist/2Hu4VMSHeLo0tKSiRwwy2N), [KANG New](https://open.spotify.com/artist/7KgZfnqiRtx1Nq27cOqBgc) | [Brains in a Vat](https://open.spotify.com/album/50TBHQCVbs2r1gIgFnplsA) | 3:02 |
 | 116 | [Live Fast, Die Young](https://open.spotify.com/track/1d8bveuGcc4GQdcpJ13oe9) | [Fat Hamster and KANG New](https://open.spotify.com/artist/5W3W4W6r71LupxKRCVUf9T), [Fat Hamster](https://open.spotify.com/artist/2Hu4VMSHeLo0tKSiRwwy2N), [KANG New](https://open.spotify.com/artist/7KgZfnqiRtx1Nq27cOqBgc) | [Brains in a Vat](https://open.spotify.com/album/50TBHQCVbs2r1gIgFnplsA) | 2:18 |
 
-Snapshot ID: `AAAAALpRNsA44GFImU3gvAFrmoYtyHeQ`
+Snapshot ID: `AAAAAIG4Rp/H9jk1HwxDhWgoqlOE0pcR`

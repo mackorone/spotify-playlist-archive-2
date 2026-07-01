@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8530,
+  "num_followers": 8532,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAACb6wzSfkpFIgf4bx194xjR",
+  "snapshot_id": "akG1gAAAAAD2afCNWPTvv6AZgAmAKsaT",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 243253,
       "name": "Je m'appelle",
       "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": null,
@@ -415,6 +415,26 @@
       "duration_ms": 167657,
       "name": "14DRoad",
       "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
     },
     {
       "added_at": null,
@@ -507,26 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+        "name": "Grind (Remix)",
+        "url": "https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Damo K",
+          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Saqi NFG",
+          "url": "https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n"
         }
       ],
-      "duration_ms": 208561,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/48olFFX6QTTXB47q4qfPFU"
+      "duration_ms": 204000,
+      "name": "Grind - Remix",
+      "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
     },
     {
       "added_at": null,
@@ -551,26 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grind (Remix)",
-        "url": "https://open.spotify.com/album/39gLwu2Xy7NTnCVGbAjH51"
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
       "artists": [
         {
-          "name": "Damo K",
-          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Saqi NFG",
-          "url": "https://open.spotify.com/artist/2ZuybLhxJk89IgAGhjCb5n"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Grind - Remix",
-      "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
+      "duration_ms": 208561,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/48olFFX6QTTXB47q4qfPFU"
     },
     {
       "added_at": null,
@@ -679,46 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeleton (feat. Zlatan)",
-        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
-      },
-      "artists": [
-        {
-          "name": "FEMI VEGA",
-          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Skeleton (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Life",
         "url": "https://open.spotify.com/album/3Wnmm7fzA7q6Ua6cMF4TNX"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skeleton (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/1XtZfFvbbaPA9M4flAeJDG"
+      },
+      "artists": [
+        {
+          "name": "FEMI VEGA",
+          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Skeleton (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/13jHYwD7bV73V5ywdc6zMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -779,30 +799,6 @@
       "duration_ms": 165063,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DREAMS II",
-        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 237647,
-      "name": "DREAMS II",
-      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": null,
@@ -831,6 +827,30 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DREAMS II",
+        "url": "https://open.spotify.com/album/5Gv2wMWPt9dmBEPjc47XZo"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 237647,
+      "name": "DREAMS II",
+      "url": "https://open.spotify.com/track/5rOIb9reu3rDswgaNKBo6s"
     },
     {
       "added_at": null,
@@ -911,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omo Ologo",
-        "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Omo Ologo",
-      "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagos Anthem",
         "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
       },
@@ -939,6 +943,22 @@
       "duration_ms": 209747,
       "name": "Lagos Anthem",
       "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Omo Ologo",
+      "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
     },
     {
       "added_at": null,
@@ -1047,26 +1067,6 @@
       "duration_ms": 141025,
       "name": "TE WO II",
       "url": "https://open.spotify.com/track/2FWdDRfkf1lfGxZnShMjpU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agege",
-        "url": "https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 196257,
-      "name": "Agege",
-      "url": "https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud"
     }
   ],
   "unique_name": "This Is Zlatan",

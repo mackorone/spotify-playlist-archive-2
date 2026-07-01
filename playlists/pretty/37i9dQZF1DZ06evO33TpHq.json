@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 65325,
+  "num_followers": 65332,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAACAeglxgV12dhrfzVN1CM8e",
+  "snapshot_id": "akG1gAAAAACTZj4ASXUHQ6JdBufVaLb/",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints (Deluxe)",
-        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Everyday Hallelujah - Hidden Track",
-      "url": "https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu"
+      "duration_ms": 258946,
+      "name": "Isn't He Good",
+      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Song Of The Saints (Deluxe)",
+        "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Isn't He Good",
-      "url": "https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693"
+      "duration_ms": 161000,
+      "name": "Everyday Hallelujah - Hidden Track",
+      "url": "https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 227810,
-      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 293720,
       "name": "Messiah / You're Beautiful",
       "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 227810,
+      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
       "duration_ms": 382684,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Praise The Lord Forever",
+        "url": "https://open.spotify.com/album/4p6kzgFOhScjUElxQddUFN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 325791,
+      "name": "Praise The Lord Forever",
+      "url": "https://open.spotify.com/track/70LE3Qk0VsT1Hw5MtHaueA"
     }
   ],
   "unique_name": "This Is Phil Wickham",

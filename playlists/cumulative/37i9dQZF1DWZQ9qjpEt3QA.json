@@ -920,7 +920,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 231467,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg"
@@ -1800,6 +1800,24 @@
       "duration_ms": 247250,
       "name": "Primadona",
       "url": "https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI"
+    },
+    {
+      "album": {
+        "name": "Private Jet",
+        "url": "https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u4e2d\u6d0b\u4ecb",
+          "url": "https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234153,
+      "name": "Private Jet",
+      "url": "https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg"
     },
     {
       "album": {

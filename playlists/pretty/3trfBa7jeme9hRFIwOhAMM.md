@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,304 likes - 40 songs - 2 hr 6 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,303 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 22 | [Take Our Time](https://open.spotify.com/track/5swvKzNqDwOnlF1CwQ6Vbq) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI), [Lefris](https://open.spotify.com/artist/3NxCFrrWRg6MVVNiPgPylF) | [Take Our Time](https://open.spotify.com/album/7lS34XcMcp2J28zbubcqZU) | 3:37 |
 | 23 | [Like This](https://open.spotify.com/track/5B4HHxK9pWgvwXjc4pT90A) | [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn), [WhySoSerious](https://open.spotify.com/artist/1MSh4iqHmVl5OoNR1Pl8VB) | [Like This](https://open.spotify.com/album/6JsJs2791iGmTl0C1skW1f) | 3:46 |
 | 24 | [Shake It](https://open.spotify.com/track/79hpiOdyCGHTJmkourQNYN) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Shake It](https://open.spotify.com/album/5pLIIiPDpI4dobUqDWNbNH) | 3:15 |
-| 25 | [Got Funk?](https://open.spotify.com/track/4nH0mcTvcpQwCdYOkL1TX1) | [HONÜ](https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq), [Rimbano](https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W) | [Bump That Funk EP](https://open.spotify.com/album/4paCpWNR1sTPKRIV2bQHZO) | 3:28 |
+| 25 | [Got Funk?](https://open.spotify.com/track/4nH0mcTvcpQwCdYOkL1TX1) | [HONÜ](https://open.spotify.com/artist/421o24lPKvTuI8fuGinmiO), [Rimbano](https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W) | [Bump That Funk EP](https://open.spotify.com/album/4paCpWNR1sTPKRIV2bQHZO) | 3:28 |
 | 26 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 |
 | 27 | [From The Top](https://open.spotify.com/track/5hcahAZzT089V7XALONuX9) | [Angie Mill](https://open.spotify.com/artist/4PoaRVsZfDU6DI8qs1vpK2), [DESTRO](https://open.spotify.com/artist/36tENaXXd6WfMiK1slOlEo) | [From The Top](https://open.spotify.com/album/4t3Grwr7lSHH7HcFgCwqd1) | 2:55 |
 | 28 | [Thousand Sides](https://open.spotify.com/track/7DsJI3bDw7kkOGGdJuCVfp) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Thousand Sides](https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8) | 3:11 |

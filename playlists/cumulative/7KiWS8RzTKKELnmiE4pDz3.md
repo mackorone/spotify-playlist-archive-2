@@ -4,7 +4,7 @@
 
 > 
 
-1,514 songs - 3 day 9 hr 35 min
+1,516 songs - 3 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,6 +788,7 @@
 | [Love Hurts \(feat\. Travis Scott\)](https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:00 | 2022-09-01 | 2023-05-09 |
 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 | 2021-11-13 | 2024-03-05 |
 | [Lucky](https://open.spotify.com/track/4GHaRpbH1lC8KplhOKc2QQ) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Where You Wanna Go](https://open.spotify.com/album/4iw4a3R3UIDLCjWqvloUNV) | 3:03 | 2024-12-29 | 2025-05-21 |
+| [Lucy Pearl's Way](https://open.spotify.com/track/6yHi0vuRfBZb0aOqjU5L1D) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 2:52 | 2026-07-01 |  |
 | [Lullaby](https://open.spotify.com/track/0EQGHDMLscIdLtgqHDfnRQ) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 2:31 | 2024-02-16 | 2024-11-06 |
 | [Lunch Meat](https://open.spotify.com/track/4bWByRIq2LZL7Nw7NWihbO) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2023-02-05 | 2023-05-09 |
 | [Lunchin](https://open.spotify.com/track/2jIU2VR6uIKBCJCpFi3aL4) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Flygod Is An Awesome God](https://open.spotify.com/album/2JUpGYRkV6ymlDOX7UFTL7) | 3:31 | 2024-01-29 | 2024-03-05 |
@@ -1485,6 +1486,7 @@
 | [Where Ya At?](https://open.spotify.com/track/4KAZyvyHDgNSX5Sz07QIvr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 2:37 | 2025-05-02 | 2025-05-21 |
 | [Whiplash'd](https://open.spotify.com/track/4dlsntjrHwjQlDPCFHfqgW) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Whiplash'd](https://open.spotify.com/album/7lirv2kkhnhhHm2TV1Pk8u) | 1:50 | 2022-09-19 | 2023-05-09 |
 | [Who Dat](https://open.spotify.com/track/7p0WZEpkRg4QqhUoO6bFQ8) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:49 | 2025-05-01 | 2026-02-08 |
+| [Who Knew My Luck Would Change](https://open.spotify.com/track/0VZd335N0WXijaRPorVpIj) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [Don't Quit Your Day Job](https://open.spotify.com/album/37dKTmpuFAV0n0A5THoliS) | 5:16 | 2026-06-30 |  |
 | [Who Shot Me?](https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:47 | 2025-01-28 | 2025-05-21 |
 | [Wholeworldslatt \(feat\. Veeze\)](https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 3:25 | 2023-07-12 | 2023-12-14 |
 | [Why Tf?!](https://open.spotify.com/track/4yuwWhW2dUREUILWnDFLiR) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:01 | 2023-01-03 | 2023-04-12 |

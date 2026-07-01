@@ -2,7 +2,7 @@
 
 ### [Extreme Metal](https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC)
 
-> Black, death and beyond\. Recent tracks and classics\. Cover: Witch Club Satan
+> Black, death and beyond\. Recent tracks only\. Cover: Witch Club Satan
 
 809 songs - 2 day 20 hr 57 min
 

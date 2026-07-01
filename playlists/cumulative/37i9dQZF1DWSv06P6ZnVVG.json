@@ -6669,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "Ponte La Verde",
+        "url": "https://open.spotify.com/album/3l5joYyJUMBU6YvA3zt1Hq"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Ponte La Verde",
+      "url": "https://open.spotify.com/track/3lndb7gIgxC2SSVPYR0Vtv"
+    },
+    {
+      "album": {
         "name": "Popurri Banda El Mexicano",
         "url": "https://open.spotify.com/album/4cM7ZQAyLemitwlaOiGEFv"
       },
@@ -7820,7 +7838,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 182013,
       "name": "Si No Es Contigo",
       "url": "https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns"

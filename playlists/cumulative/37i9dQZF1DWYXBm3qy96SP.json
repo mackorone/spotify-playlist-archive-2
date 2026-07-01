@@ -16820,7 +16820,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 234055,
       "name": "I'll Let You Finish",
       "url": "https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt"
@@ -22682,6 +22682,24 @@
       "duration_ms": 106181,
       "name": "My Head",
       "url": "https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/2Uvy40XpQFFxfgC9uT4yy7"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/3dYn7vEq6MkqM7t8djNwID"
     },
     {
       "album": {

@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 186062,
       "name": "Normal",
       "url": "https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER"
@@ -4222,6 +4222,28 @@
       "duration_ms": 240000,
       "name": "Qololo",
       "url": "https://open.spotify.com/track/5F7BK2CwSasvKaxD3278W0"
+    },
+    {
+      "album": {
+        "name": "Rani Maghmoum",
+        "url": "https://open.spotify.com/album/41wn3gtr5sCogsoNNcPdDc"
+      },
+      "artists": [
+        {
+          "name": "Kader Japonais",
+          "url": "https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe"
+        },
+        {
+          "name": "Reda Soussia",
+          "url": "https://open.spotify.com/artist/0Mctr7wQzPz5IsfcYrbPSX"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225399,
+      "name": "Rani Maghmoum",
+      "url": "https://open.spotify.com/track/22CUf3UFJtxiJaMx6kmPXl"
     },
     {
       "album": {

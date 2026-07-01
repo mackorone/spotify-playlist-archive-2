@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: JBABE
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,103 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,149 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 15 | [under my skin](https://open.spotify.com/track/2PWyhubh6VvSTlrw5w3m6t) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [under my skin](https://open.spotify.com/album/1OVLexXEgHSqEyJCfMsSLS) | 2:46 |
 | 16 | [Cries in Crocodile](https://open.spotify.com/track/2FAsIE5rXnHFxLbVgQbxYa) | [JBABE](https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby) | [A Little Larger Than The Entire Universe](https://open.spotify.com/album/6l66NGkulOLFL5HIwdnqZ2) | 3:01 |
 | 17 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |
-| 18 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
+| 18 | [Antipatica](https://open.spotify.com/track/3DRoZ6h54bS2JfWd8bAmvJ) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:16 |
 | 19 | [Rich As Fuck](https://open.spotify.com/track/0r3pzceW5ovmHKCM7OcfAI) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Rich As Fuck](https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr) | 3:01 |
-| 20 | [Antipatica](https://open.spotify.com/track/3DRoZ6h54bS2JfWd8bAmvJ) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:16 |
+| 20 | [LOVE ME](https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [LOVE ME](https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ) | 3:14 |
 | 21 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 |
 | 22 | [Bİ DAHA DÖNMEM](https://open.spotify.com/track/4HzcajLTN9Nr0Bml0coNbv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Bİ DAHA DÖNMEM](https://open.spotify.com/album/1TKonbiCF4nE7pW7AVfC2w) | 2:31 |
 | 23 | [Sesquicentennial](https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sesquicentennial](https://open.spotify.com/album/6oA7RFLJEdoJBlRWrsIb0a) | 3:12 |
 | 24 | [i wish im alright（抒情 版）](https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD) | [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [no time for sober](https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF) | 3:37 |
-| 25 | [MR\. SMILE](https://open.spotify.com/track/3ez7xQy4UKDqnCPz0q6cxc) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [MR\. SMILE](https://open.spotify.com/album/66P2RDdsOcRXDrDLVW5rhR) | 3:48 |
-| 26 | [IOIO](https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [IOIO](https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30) | 2:49 |
+| 25 | [IOIO](https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [IOIO](https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30) | 2:49 |
+| 26 | [MR\. SMILE](https://open.spotify.com/track/3ez7xQy4UKDqnCPz0q6cxc) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [MR\. SMILE](https://open.spotify.com/album/66P2RDdsOcRXDrDLVW5rhR) | 3:48 |
 | 27 | [Argentina Is Daing](https://open.spotify.com/track/1J9ZUpfmloiO4cKPJqhak3) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [Argentina Is Daing](https://open.spotify.com/album/4BHZFzDdF6HLHWrrKILekF) | 2:28 |
 | 28 | [girlhood](https://open.spotify.com/track/4Fx0LtLzhMvxSGSyfPIQeK) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:51 |
 | 29 | [RUDE BOYS](https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm) | 2:21 |

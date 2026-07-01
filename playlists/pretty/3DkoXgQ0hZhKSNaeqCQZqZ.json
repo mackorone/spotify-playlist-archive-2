@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1150,
+  "num_followers": 1151,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFahEgT+r6Pws+lRcu4as/lpGOVCxM",
+  "snapshot_id": "AAAFbNjYDWVvABKJ7Bpo+xKVtymhor3v",
   "tracks": [
     {
       "added_at": "2026-06-21 07:18:50",
@@ -103,6 +103,86 @@
       "duration_ms": 205440,
       "name": "CUT LIKE A KNIFE",
       "url": "https://open.spotify.com/track/5XbAt859S9dAMOd2fpbRpb"
+    },
+    {
+      "added_at": "2026-06-30 21:58:18",
+      "album": {
+        "name": "FIRST\u00b9",
+        "url": "https://open.spotify.com/album/16HRiIMD0kbwXQhQbYLLJ8"
+      },
+      "artists": [
+        {
+          "name": "GLITTERMUTT",
+          "url": "https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp"
+        }
+      ],
+      "duration_ms": 154157,
+      "name": "FIRST\u00b9",
+      "url": "https://open.spotify.com/track/5W9uYNkdIfUdr2UpjxNRUJ"
+    },
+    {
+      "added_at": "2026-06-30 21:58:18",
+      "album": {
+        "name": "AL DENTE",
+        "url": "https://open.spotify.com/album/1TVOQaaQiMJE9wVMWuvHxk"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "duration_ms": 182016,
+      "name": "AL DENTE",
+      "url": "https://open.spotify.com/track/2GnbgDahXJ8xe1YmV8f4oR"
+    },
+    {
+      "added_at": "2026-06-30 21:58:18",
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/4EUZ1pcTzkyRc2VlP8mBVn"
+      },
+      "artists": [
+        {
+          "name": "xaev",
+          "url": "https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/0bOR18kp6y4qRxYFXCfb5v"
+    },
+    {
+      "added_at": "2026-06-30 21:58:18",
+      "album": {
+        "name": "EVERY SECOND COUNTS",
+        "url": "https://open.spotify.com/album/5tK1KX4H4QicRcrlKgSm72"
+      },
+      "artists": [
+        {
+          "name": "flatroom !!",
+          "url": "https://open.spotify.com/artist/3oeqmvHqZaCf0gdCK0Eo4C"
+        }
+      ],
+      "duration_ms": 262285,
+      "name": "EVERY SECOND COUNTS",
+      "url": "https://open.spotify.com/track/37efM38CJZTstn8l7ZrufL"
+    },
+    {
+      "added_at": "2026-06-30 21:58:18",
+      "album": {
+        "name": "Horse Club",
+        "url": "https://open.spotify.com/album/5LvERCWJyeYHS9etXxSnno"
+      },
+      "artists": [
+        {
+          "name": "Horse Club",
+          "url": "https://open.spotify.com/artist/3GeQs87oFB5XSDsCoKddAo"
+        }
+      ],
+      "duration_ms": 334062,
+      "name": "This Might Be the Last Time That I See You",
+      "url": "https://open.spotify.com/track/7Lctmg2gPaUNEUS6H5tnfE"
     },
     {
       "added_at": "2026-06-16 22:13:12",

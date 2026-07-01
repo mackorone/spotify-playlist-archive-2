@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 엔플라잉 \(N.Flying\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,986 likes - 239 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,987 likes - 239 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 117 | [MERRY\-GO\-ROUND \(Feat\. Zion.T, Wonstein\) \(Prod\. Slom\)](https://open.spotify.com/track/2eLe81VDUQ5f0xFfc9cMWz) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 10 Episode 2](https://open.spotify.com/album/1wp620RExm0tih8QSvfmf0) | 4:09 |
 | 118 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 |
 | 119 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 |
-| 120 | [Serenade](https://open.spotify.com/track/6BW8ERYBXv2oSE5G71Nxzl) | [JEON WOO SUNG](https://open.spotify.com/artist/4wX95R4bzGztvCtWuRqJdH) | [2018 Confession of June ′Serenade′](https://open.spotify.com/album/4KTDTkcMkOmkr1CU3r9M6N) | 4:18 |
+| 120 | [Serenade](https://open.spotify.com/track/6BW8ERYBXv2oSE5G71Nxzl) | [JEON WOO SUNG](https://open.spotify.com/artist/4wX95R4bzGztvCtWuRqJdH) | [2018 Confession of June 'Serenade'](https://open.spotify.com/album/4KTDTkcMkOmkr1CU3r9M6N) | 4:18 |
 | 121 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
 | 122 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 |
 | 123 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39 \uae40\ud584\ucc0c POV: \uba38\ub9bf\uc18d\uc740 \ubcf5\uc7a1\ud558\uc9c0\ub9cc, \uac89\uc73c\ub85c\ub294 \uce60 & \ucfe8\ud574\ubcf4\uc774\uace0 \uc2f6\uc744 \ub54c.",
-  "num_followers": 17459,
+  "num_followers": 17462,
   "original_name": "act cool.",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-06-05 02:44:29",
       "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 36226,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP"
+    },
+    {
+      "added_at": "2026-06-05 02:44:29",
+      "album": {
         "name": "girl, get up. (feat. SZA)",
         "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 188600,
       "name": "girl, get up. (feat. SZA)",
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
-    },
-    {
-      "added_at": "2026-06-05 02:44:29",
-      "album": {
-        "name": "NewJeans 2nd EP 'Get Up'",
-        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 36226,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP"
     },
     {
       "added_at": "2026-06-05 02:44:29",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-06-05 02:44:29",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 210762,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i"
-    },
-    {
-      "added_at": "2026-06-05 02:44:29",
-      "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 185000,
       "name": "Shameful Game",
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
+    },
+    {
+      "added_at": "2026-06-05 02:44:29",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 210762,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i"
     },
     {
       "added_at": "2026-06-05 02:44:29",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAC1BAxVZD2LwH2O1MmU1kAn",
+  "snapshot_id": "akG1gAAAAADIQxVykjo46R2cKAAz56n6",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth 10 Remixed, Vol. 1",
-        "url": "https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE"
+        "name": "The Quieter You Become, the More You Hear",
+        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
       },
       "artists": [
-        {
-          "name": "Pastaboys",
-          "url": "https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          "name": "Mike Steva",
+          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
         }
       ],
-      "duration_ms": 480967,
-      "name": "Deep Musique - Rampa Remix",
-      "url": "https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL"
+      "duration_ms": 287043,
+      "name": "Recovery Music",
+      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
     },
     {
       "added_at": null,
@@ -307,22 +303,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Quieter You Become, the More You Hear",
-        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
+        "name": "Rebirth 10 Remixed, Vol. 1",
+        "url": "https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE"
       },
       "artists": [
+        {
+          "name": "Pastaboys",
+          "url": "https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l"
+        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "Mike Steva",
-          "url": "https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6"
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
         }
       ],
-      "duration_ms": 287043,
-      "name": "Recovery Music",
-      "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
+      "duration_ms": 480967,
+      "name": "Deep Musique - Rampa Remix",
+      "url": "https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 301713,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Beings (Remixes)",
         "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 414247,
       "name": "Human Beings - Atjazz Remix",
       "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 301713,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ache'",
-        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 97141,
-      "name": "Poh's Devotion",
-      "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
         "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
       },
@@ -619,6 +603,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ache'",
+        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 97141,
+      "name": "Poh's Devotion",
+      "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mandola",
+        "url": "https://open.spotify.com/album/6uYWjLwUXRS2NvpbFY6s69"
+      },
+      "artists": [
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Mandola",
+      "url": "https://open.spotify.com/track/3JD53qXeJnf5pEkWUtDgOD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muwekma EP",
         "url": "https://open.spotify.com/album/5nCsh7xwFw7jyCMe2iQDB3"
       },
@@ -639,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starbase 17",
         "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
       },
@@ -655,22 +691,6 @@
       "duration_ms": 375128,
       "name": "YOUniversal Love",
       "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -715,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -731,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
       "artists": [
         {
@@ -740,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+      "duration_ms": 514164,
+      "name": "Black Woman Cry",
+      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
     },
     {
       "added_at": null,
@@ -811,42 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 514164,
-      "name": "Black Woman Cry",
-      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mandola",
-        "url": "https://open.spotify.com/album/6uYWjLwUXRS2NvpbFY6s69"
-      },
-      "artists": [
-        {
-          "name": "Papa Wemba",
-          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Mandola",
-      "url": "https://open.spotify.com/track/3JD53qXeJnf5pEkWUtDgOD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 361000,
       "name": "No Way",
       "url": "https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -895,26 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Call Love",
-        "url": "https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv"
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
       },
       "artists": [
         {
-          "name": "Art Department",
-          "url": "https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x"
-        },
-        {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Soul Clap",
-          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
         }
       ],
-      "duration_ms": 378026,
-      "name": "We Call Love",
-      "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -931,6 +907,22 @@
       "duration_ms": 275419,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 304218,
+      "name": "Walkin' in Paris",
+      "url": "https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw"
     }
   ],
   "unique_name": "This Is Osunlade",

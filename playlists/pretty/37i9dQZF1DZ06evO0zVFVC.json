@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 113732,
+  "num_followers": 113750,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABNhp46DthnqQkysyulUQcy",
+  "snapshot_id": "akG1gAAAAADQNk+HNHKcVhn2/es8xlrx",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
+      "duration_ms": 211393,
+      "name": "Anasasis (Xenophontis)",
+      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211393,
-      "name": "Anasasis (Xenophontis)",
-      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
     },
     {
       "added_at": null,

@@ -12759,6 +12759,24 @@
     },
     {
       "album": {
+        "name": "Coming Alive",
+        "url": "https://open.spotify.com/album/3m87sHp8KkCCRJSXJIcLAe"
+      },
+      "artists": [
+        {
+          "name": "Dance Commander",
+          "url": "https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193820,
+      "name": "Coming Alive",
+      "url": "https://open.spotify.com/track/1BlAD4WwEs6zNx2fkhp2O6"
+    },
+    {
+      "album": {
         "name": "como la luna",
         "url": "https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0"
       },
@@ -29962,6 +29980,24 @@
       "duration_ms": 199453,
       "name": "God Save The Queen",
       "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
+    },
+    {
+      "album": {
+        "name": "God's Englishman",
+        "url": "https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe"
+      },
+      "artists": [
+        {
+          "name": "Joynes",
+          "url": "https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221999,
+      "name": "God's Englishman",
+      "url": "https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt"
     },
     {
       "album": {
@@ -60821,7 +60857,7 @@
     },
     {
       "album": {
-        "name": "Seven days a week",
+        "name": "Seven days a week (Demo)",
         "url": "https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd"
       },
       "artists": [
@@ -60834,7 +60870,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227000,
-      "name": "Seven days a week",
+      "name": "Seven days a week - Demo",
       "url": "https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT"
     },
     {

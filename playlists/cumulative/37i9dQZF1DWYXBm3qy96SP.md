@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Beabadoobee
 
-2,128 songs - 5 day 3 hr 55 min
+2,129 songs - 5 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -904,7 +904,7 @@
 | [I Won’t Run](https://open.spotify.com/track/1HrOEzhY9igRiYqCRQbEyA) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa) | 4:05 | 2023-11-02 | 2023-11-17 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-05 | 2024-09-20 |
 | [I'd Like To Help You With Your Problem](https://open.spotify.com/track/7owBMA9eVGOxPyvFzbDMMk) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod), [Slash](https://open.spotify.com/artist/52dwLBXhLh1mEMssxptmah) | [I'd Like To Help You With Your Problem](https://open.spotify.com/album/0rUPeD36vp8zUO1Ogz1UbB) | 4:18 | 2024-02-15 | 2024-02-23 |
-| [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 | 2026-04-30 |  |
+| [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 | 2026-04-30 | 2026-07-01 |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-20 | 2023-05-12 |
 | [I'm a Rat](https://open.spotify.com/track/4rNlmTlKXDBtvwzi63NkQc) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [I'm a Rat](https://open.spotify.com/album/6tFvJiq05ntPswq35Tq3Yk) | 2:10 | 2024-03-07 | 2024-04-05 |
 | [I'm Alice](https://open.spotify.com/track/1OGQwgrHDoNr8bHZxt6cCZ) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [I'm Alice](https://open.spotify.com/album/1QusqvFGQvsOZoriFvVxPG) | 3:55 | 2023-06-15 | 2023-06-23 |
@@ -1222,6 +1222,7 @@
 | [My Generation](https://open.spotify.com/track/67OMQfexlfcP6JQfxDmFzY) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [My Generation](https://open.spotify.com/album/3OMCNHJJAbgNJcJmYKFqYi) | 3:40 | 2023-04-06 | 2023-09-08 |
 | [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 | 2024-01-04 | 2024-01-12 |
 | [My Head](https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [My Head](https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL) | 1:46 | 2023-08-10 | 2023-08-18 |
+| [My Heart](https://open.spotify.com/track/3dYn7vEq6MkqM7t8djNwID) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [My Heart](https://open.spotify.com/album/2Uvy40XpQFFxfgC9uT4yy7) | 3:30 | 2026-06-26 |  |
 | [My Lady of Mercy](https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [My Lady Of Mercy](https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0) | 2:55 | 2024-07-26 | 2024-08-30 |
 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 | 2024-05-30 | 2024-06-07 |
 | [My Love](https://open.spotify.com/track/6BWftkg4PlAxSBd2WrYJv1) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [My Love](https://open.spotify.com/album/6tbY7Cir32vaJBbIbWUSJm) | 3:18 | 2026-03-12 | 2026-03-20 |

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-559 songs - 1 day 10 hr 35 min
+562 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [La Loca Con Ancla](https://open.spotify.com/track/1x582FY63ErBAC5CafxTnM) | [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [ACT](https://open.spotify.com/album/2T0zUxpubg0QwiCn8NTiRZ) | 3:58 | 2026-03-27 | 2026-06-13 |
 | [La Radio](https://open.spotify.com/track/5xM3Os39N9KSh2Q7AJ4AeI) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [La Radio](https://open.spotify.com/album/66uc9Jdwz34riwvTQrI0RG) | 2:38 | 2026-05-18 | 2026-06-13 |
 | [Last Chance](https://open.spotify.com/track/5lAdDCVg6gDfwnYqdtdolh) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Last Chance](https://open.spotify.com/album/4SBD0xXWkovvYJVlFdZi1D) | 3:09 | 2026-03-20 | 2026-04-20 |
+| [Lay Me Down](https://open.spotify.com/track/6zSniKNMTVgqQIbwcp4NMG) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 2:31 | 2026-07-01 |  |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-11 | 2025-12-12 |
 | [Leave Me Alone](https://open.spotify.com/track/73bDmL5oyycUsoeUWoNQQv) | [Elfrida](https://open.spotify.com/artist/6QpBOgN8u7jGqpewtIENFR) | [Cold, Drunk & Stoned](https://open.spotify.com/album/1T7O1DrMZ7QmAAN9p16YN2) | 3:55 | 2026-03-20 | 2026-04-20 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-11-08 | 2025-12-12 |
@@ -509,9 +510,11 @@
 | [Tonight](https://open.spotify.com/track/6bGdPY1JouZH9X6vfRw5wT) | [LOWSTONE](https://open.spotify.com/artist/6k0RzhlZFShZMv5nMdX6tI) | [Tonight](https://open.spotify.com/album/3UvJthTugKEgXskFI5pmR6) | 5:56 | 2026-04-10 | 2026-05-08 |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 |  |
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 | 2026-01-21 |
+| [Torre Pendente](https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 5:07 | 2026-07-01 |  |
 | [Tragic Lullaby](https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 6:20 | 2025-12-30 | 2026-05-17 |
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-11 | 2025-12-12 |
 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 | 2026-05-26 |  |
+| [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 | 2026-07-01 |  |
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-11 | 2025-12-12 |
 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-31 | 2026-04-20 |
 | [Uncrumpled](https://open.spotify.com/track/5Pv86y8cdyKj1VbKVrrJK9) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 2:24 | 2026-05-07 | 2026-05-26 |

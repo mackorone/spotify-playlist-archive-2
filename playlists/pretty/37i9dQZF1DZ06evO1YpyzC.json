@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267355,
+  "num_followers": 267361,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAAKYmegAHcmGg/DfmRDbnQk",
+  "snapshot_id": "akG1gAAAAAC42E40Vcb7HNtJjsl3GJ3P",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cool Again",
+        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 164668,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chapter 1 - EP",
         "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 211102,
       "name": "Saturday Nights REMIX",
       "url": "https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cool Again",
-        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 164668,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "17 Problems",
         "url": "https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 173215,
       "name": "Song For My Son (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Go Around",
-      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
     },
     {
       "added_at": null,

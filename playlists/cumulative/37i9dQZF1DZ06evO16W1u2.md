@@ -98,7 +98,7 @@
 | [Sin Ti](https://open.spotify.com/track/7E2vSzLfTAbFkXilM5pwpD) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:38 | 2025-11-27 | 2025-12-26 |
 | [Siénteme](https://open.spotify.com/track/1Bxhj28H15EC7GDDooVU8M) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 5:04 | 2025-11-29 | 2026-01-26 |
 | [Siénteme](https://open.spotify.com/track/1sHlR9KVDk35KBOLAx2tCO) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 5:04 | 2023-08-23 | 2024-12-25 |
-| [SOLO](https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [SOLO](https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS) | 3:34 | 2026-06-28 | 2026-06-29 |
+| [SOLO](https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [SOLO](https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS) | 3:34 | 2026-06-28 |  |
 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 | 2024-12-26 |  |
 | [Te Extraño Igual](https://open.spotify.com/track/0zec2JiiYQKF6SaLyOCvCi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 2:46 | 2025-11-30 | 2026-03-17 |
 | [Te Extraño Igual](https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 2:46 | 2023-09-09 | 2024-11-25 |
@@ -122,7 +122,7 @@
 | [Y Lloro](https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 3:44 | 2023-08-23 | 2025-11-30 |
 | [Y Lloro](https://open.spotify.com/track/2sK7V3dEOks0kZQ0u6qY8T) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:44 | 2025-11-30 |  |
 | [¡Vamos a Volver!](https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV) | 2:59 | 2023-08-23 | 2025-11-27 |
-| [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 | 2025-11-27 |  |
+| [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 | 2025-11-27 | 2026-07-01 |
 | [Ángel Enamorado](https://open.spotify.com/track/0q8J417ceMA17xLXfrMoTr) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:51 | 2025-11-26 | 2025-11-28 |
 
 \*This playlist was first scraped on 2023-08-24. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6N750kTaZdAypOStcgDqDZ\">Janek Bidiuk</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1HHUq0vNblVmHLNfWf3Ral\">Rembikowski</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 138000,
       "name": "always be there",
       "url": "https://open.spotify.com/track/6rA1ZbeoOgwOo4MV7exMb3"
@@ -4706,6 +4706,24 @@
       "duration_ms": 217290,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
+    },
+    {
+      "album": {
+        "name": "Bez fa\u0142szu",
+        "url": "https://open.spotify.com/album/344ZBg82l2oNsGE1DCtOlY"
+      },
+      "artists": [
+        {
+          "name": "Filip Mettler",
+          "url": "https://open.spotify.com/artist/1kKPq1YS7msHsIOmFr7d9r"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174967,
+      "name": "Bez fa\u0142szu",
+      "url": "https://open.spotify.com/track/1UUmz178k2FNFBOoQAbUig"
     },
     {
       "album": {
@@ -12736,6 +12754,24 @@
       "duration_ms": 176000,
       "name": "Dead Flowers",
       "url": "https://open.spotify.com/track/7zMFsDvep8XQt03S7clXIo"
+    },
+    {
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2zlhOB9tB9gVGEs5MKWO3p"
+      },
+      "artists": [
+        {
+          "name": "Iga Kumka",
+          "url": "https://open.spotify.com/artist/59nH7LKqK561XQ2xfLnXeL"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/2lz7ex1AeD8AFIB5lsZZQg"
     },
     {
       "album": {
@@ -20844,7 +20880,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 337215,
       "name": "halo",
       "url": "https://open.spotify.com/track/4Uo6yqnZASIngGDjONda74"
@@ -32237,6 +32273,24 @@
     },
     {
       "album": {
+        "name": "love witch",
+        "url": "https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv"
+      },
+      "artists": [
+        {
+          "name": "Kasia Babis",
+          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178819,
+      "name": "love witch",
+      "url": "https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9"
+    },
+    {
+      "album": {
         "name": "LoveSick",
         "url": "https://open.spotify.com/album/5kctCppRGiHDpg18hHSEiB"
       },
@@ -35558,7 +35612,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 159000,
       "name": "mi\u0119kn\u0119&wi\u0119dn\u0119",
       "url": "https://open.spotify.com/track/5VGl9p1HU0lBGmyZtfitbG"
@@ -48305,6 +48359,24 @@
     },
     {
       "album": {
+        "name": "paradise",
+        "url": "https://open.spotify.com/album/6OoCJHXdlyAM01ifMNzwxm"
+      },
+      "artists": [
+        {
+          "name": "t.typy",
+          "url": "https://open.spotify.com/artist/5oLhj75xB3LKuRyLTFQc8j"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227832,
+      "name": "paradise",
+      "url": "https://open.spotify.com/track/1dXA2GMivA1I7mtI6pdxeF"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/50aA0hddepG9ZxDLzWs17t"
       },
@@ -56762,7 +56834,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 173333,
       "name": "SALTO",
       "url": "https://open.spotify.com/track/3QfnBaww0hnXovBOM5GMSz"
@@ -61006,7 +61078,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 225777,
       "name": "Stare dobre czasy s\u0105 teraz",
       "url": "https://open.spotify.com/track/5hYRC8wLnYvk6vlLQPanZ4"
@@ -76584,7 +76656,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 262534,
       "name": "Za blisko",
       "url": "https://open.spotify.com/track/0uf86XdpIOSzyxcXiVjMCA"
@@ -78183,6 +78255,24 @@
     },
     {
       "album": {
+        "name": "za\u015bniesz",
+        "url": "https://open.spotify.com/album/3pdPejNbmbdwoJ2hIa5r1L"
+      },
+      "artists": [
+        {
+          "name": "Lynx.",
+          "url": "https://open.spotify.com/artist/6MY35otuE9BTVqMm3jAKiy"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151233,
+      "name": "za\u015bniesz",
+      "url": "https://open.spotify.com/track/1GospoNSbd3lWS6vstx4DC"
+    },
+    {
+      "album": {
         "name": "Zboczeniec",
         "url": "https://open.spotify.com/album/5Y63XJt8zx0fy0ogvI5lcg"
       },
@@ -79442,6 +79532,24 @@
       "duration_ms": 138094,
       "name": "zosta\u0144",
       "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
+    },
+    {
+      "album": {
+        "name": "Zosta\u0144my przyjaci\u00f3\u0142mi",
+        "url": "https://open.spotify.com/album/4dvN4GhZZk4Xzr7rEeIBSQ"
+      },
+      "artists": [
+        {
+          "name": "Rembikowski",
+          "url": "https://open.spotify.com/artist/1HHUq0vNblVmHLNfWf3Ral"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206272,
+      "name": "Zosta\u0144my przyjaci\u00f3\u0142mi",
+      "url": "https://open.spotify.com/track/1qjCc3MbrR7V1KIEm1MIU0"
     },
     {
       "album": {

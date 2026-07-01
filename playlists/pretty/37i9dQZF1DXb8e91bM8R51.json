@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53023,
+  "num_followers": 53018,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-06-26 03:01:36",
       "album": {
-        "name": "Blackberry Marmalade",
-        "url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Blackberry Marmalade",
-      "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
-    },
-    {
-      "added_at": "2026-06-26 03:01:36",
-      "album": {
         "name": "The Machinist",
         "url": "https://open.spotify.com/album/3G66rZa9aZA7x4L3iBTlHs"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "added_at": "2026-06-26 03:01:36",
+      "album": {
+        "name": "Blackberry Marmalade",
+        "url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Blackberry Marmalade",
+      "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
     },
     {
       "added_at": "2026-06-26 03:01:36",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-06-26 03:01:36",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2026-06-26 03:01:36",
-      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 233090,
       "name": "RUN [Feat. Young Thug] - Single Version",
       "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
+    },
+    {
+      "added_at": "2026-06-26 03:01:36",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2026-06-26 03:01:36",

@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 119538,
       "name": "Amo Minha Favela",
       "url": "https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju"
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 99802,
       "name": "Brasil com S",
       "url": "https://open.spotify.com/track/14AUZpRJBDxBrB2WVW56mG"
@@ -9044,7 +9044,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 135050,
       "name": "Criado Com V\u00f3 - Naiara 15 - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0dHNOjnwe22V4XD0kehHkY"
@@ -9260,7 +9260,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -18428,7 +18428,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 251840,
       "name": "Irm\u00e3o da Lua, Amigo das Estrelas",
       "url": "https://open.spotify.com/track/1PW3LjmxJqVoQ9nmdbxF9f"
@@ -22418,7 +22418,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 234461,
       "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
       "url": "https://open.spotify.com/track/5ooFbBHL6xleehCpWACc9M"
@@ -25074,7 +25074,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 178896,
       "name": "Nessa idade",
       "url": "https://open.spotify.com/track/3Q6BDjIoF5lsKZ3eaEeIVm"
@@ -25176,7 +25176,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 191402,
       "name": "No Mesmo Lugar",
       "url": "https://open.spotify.com/track/1mdW2ieN6VWyoIQxJIlzuT"
@@ -26554,7 +26554,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 194459,
       "name": "N\u00famero Chato - Ao Vivo",
       "url": "https://open.spotify.com/track/6AOBP3LgN0y8DgqwqD7913"
@@ -28296,7 +28296,7 @@
       },
       "artists": [
         {
-          "name": "MC Guime",
+          "name": "MC Guim\u00ea",
           "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
         },
         {
@@ -28306,7 +28306,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 149002,
       "name": "Pa\u00eds do Futebol",
       "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
@@ -29382,7 +29382,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 247893,
       "name": "Planos Imposs\u00edveis - Ao Vivo",
       "url": "https://open.spotify.com/track/7oqARxK7yPG9U0M3dG0VrR"
@@ -33246,7 +33246,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 197533,
       "name": "Se Saudade Sentir (Se Prepara 3)",
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
@@ -33956,7 +33956,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 129288,
       "name": "SENTA PRO COUNTRY",
       "url": "https://open.spotify.com/track/2BtWTNCE44KdrfBlheowua"
@@ -35812,7 +35812,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -36524,7 +36524,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 163207,
       "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
       "url": "https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf"
@@ -42656,7 +42656,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 150449,
       "name": "\u00daltima Saudade (Ao Vivo)",
       "url": "https://open.spotify.com/track/1tmD4Xpd1YNSGCG5AYqHDk"

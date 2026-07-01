@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88965,
+  "num_followers": 88967,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Better Days (Japanese Edition)",
-        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Every Second - Japanese Version",
-      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219434,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Better Days (Japanese Edition)",
+        "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Every Second - Japanese Version",
+      "url": "https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
-      },
-      "artists": [
-        {
-          "name": "Arata Manako",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30a2\u30a4\u30a6\u30bf",
         "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 292917,
       "name": "\u30a2\u30a4\u30a6\u30bf",
       "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
+      },
+      "artists": [
+        {
+          "name": "Arata Manako",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "\u706f\u53f0 (Live Session)",
-      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
       },
       "artists": [
         {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
         }
       ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
+      "duration_ms": 269048,
+      "name": "Museum of My Mess",
+      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Museum of My Mess",
-        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
       },
       "artists": [
         {
-          "name": "mindfreakk!",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
         }
       ],
-      "duration_ms": 269048,
-      "name": "Museum of My Mess",
-      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Silent Storm",
         "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
       },
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "lovlaine (The Deluxe Album)",
-        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 218513,
-      "name": "all my perfects",
-      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "TIME SLIP",
         "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "FIVE",
         "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 211855,
       "name": "FIVE",
       "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "MY\u5922\u4e2d",
-        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "MY\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "This must be the place",
         "url": "https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 232238,
       "name": "This must be the place",
       "url": "https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "MY\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "MY\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30f4\u30fb\u30a2\u30fc\u30ea\u30fc\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "\u671d\u65e5\u306e\u3042\u305f\u308b\u9053",
+      "url": "https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
         "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 211358,
       "name": "Tanana",
       "url": "https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30f4\u30fb\u30a2\u30fc\u30ea\u30fc\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26"
-      },
-      "artists": [
-        {
-          "name": "Original Love",
-          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "\u671d\u65e5\u306e\u3042\u305f\u308b\u9053",
-      "url": "https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
-      },
-      "artists": [
-        {
-          "name": "AVOCADO BOYS",
-          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
-        }
-      ],
-      "duration_ms": 298194,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 232820,
       "name": "I know",
       "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/5uMRnkmSWRgwuWvtdwayO7"
+      },
+      "artists": [
+        {
+          "name": "AVOCADO BOYS",
+          "url": "https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo"
+        }
+      ],
+      "duration_ms": 298194,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/2hsTr2uDmLOk5BusqU1jc6"
     }
   ],
   "unique_name": "Mid Tempo Magic",

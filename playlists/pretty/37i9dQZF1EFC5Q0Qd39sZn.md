@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,613 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,616 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 93 | [A Time for Letting Go](https://open.spotify.com/track/2ASRpUOn5JYc8QN0PpdpsA) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:38 |
 | 94 | [Love Can Move Mountains](https://open.spotify.com/track/7IyFcmDp07GRvxZIsuEPy1) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [All the Way...A Decade of Song](https://open.spotify.com/album/2ksJEvjT4ezhBeg6b5Irrx) | 3:58 |
 | 95 | [Just to Hear You Say That You Love Me \(with Tim McGraw\)](https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 4:28 |
-| 96 | [If I Was the One](https://open.spotify.com/track/1iNO6V1JBTSy9aaiLrOHkZ) | [Ruff Endz](https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW) | [Love Crimes](https://open.spotify.com/album/42P7eLV4ylVjWKnRJeCWHG) | 4:26 |
-| 97 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 96 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 |
+| 97 | [If I Was the One](https://open.spotify.com/track/1iNO6V1JBTSy9aaiLrOHkZ) | [Ruff Endz](https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW) | [Love Crimes](https://open.spotify.com/album/42P7eLV4ylVjWKnRJeCWHG) | 4:26 |
 | 98 | [Lessons Learned](https://open.spotify.com/track/0LviM04IykLs7JEkrZV9Xm) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:09 |
 | 99 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
 | 100 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 213 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
 | 214 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 215 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
-| 216 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
-| 217 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
+| 216 | [The One Thing](https://open.spotify.com/track/3mgXHv9bi2TFYeC5O1D1zT) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:09 |
+| 217 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
 | 218 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 |
 | 219 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
 | 220 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 241 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
 | 242 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
 | 243 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
-| 244 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
-| 245 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 244 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 245 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
 | 246 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 |
 | 247 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
 | 248 | [\(We Are All\) Looking for Home](https://open.spotify.com/track/3wBl37DTfhitJpXfCXDGJt) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [\(We Are All\) Looking for Home](https://open.spotify.com/album/5XKMXzwRFAtOsJk1ChPce6) | 2:52 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcVjJgAAAAD22zMVS7gWgIEsMD0MhlWV`
+Snapshot ID: `AcVovAAAAACsNaWhwKTmudGVnGIvhGT0`

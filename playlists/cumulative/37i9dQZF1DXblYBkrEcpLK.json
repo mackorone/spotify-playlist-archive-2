@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Blue Shining Star",
+        "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Blue Shining Star",
+      "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
+    },
+    {
+      "album": {
         "name": "Blue Velvet - From CrosSing",
         "url": "https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q"
       },
@@ -12520,7 +12538,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 262802,
       "name": "\u4e16\u754c\u306f\u3072\u3068\u308a\u3058\u3083\u306a\u304b\u3063\u305f",
       "url": "https://open.spotify.com/track/4U77xvBDzk8e03mgP30g73"

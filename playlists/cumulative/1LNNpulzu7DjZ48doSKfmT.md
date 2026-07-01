@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-971 songs - 2 day 1 hr 37 min
+976 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Donnie T](https://open.spotify.com/track/3qhR5XmadqHYwm4gCoZtYk) | [hatorisollo](https://open.spotify.com/artist/4Rxo0d95dlO107HUNvytso) | [Donnie T](https://open.spotify.com/album/5qobuiLNV8CwZ2RRBfhU9x) | 1:53 | 2026-01-26 |  |
 | [Double Vision](https://open.spotify.com/track/6teK4Tc58MLP0gxoHLpucF) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Double Vision](https://open.spotify.com/album/2hNv9pKB5qgTQ2VQIutREo) | 3:18 | 2026-01-22 |  |
 | [Dream](https://open.spotify.com/track/0DTuOYpTpE0qVRG25P3h4S) | [Avengelic](https://open.spotify.com/artist/06giUxnJQvrZH9nyQqqN8T) | [Dream](https://open.spotify.com/album/1cZSQLUH4xmkzJR6vHle4f) | 3:08 | 2026-01-08 | 2026-02-23 |
+| [Drunk](https://open.spotify.com/track/5l87Vam31WP0rQ6OdTWple) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Drunk](https://open.spotify.com/album/33ysXvwqJMGJ0N85kdoc3K) | 3:41 | 2026-06-30 |  |
 | [Du Ser På Min Bluse](https://open.spotify.com/track/7si1uu8ty9OKEXos2muQwn) | [AHMADUZ](https://open.spotify.com/artist/2qXhMxT2yUMDaVz9AFq6ad) | [Du Ser På Min Bluse](https://open.spotify.com/album/6DJbVQNahM3RYaXXDXMH85) | 2:49 | 2025-09-17 | 2026-01-15 |
 | [Du willst mich hassen](https://open.spotify.com/track/7MPP6QwzEH5JfMzxOvp3Yq) | [Minovuz](https://open.spotify.com/artist/2bAR8GwspDfTp4BuB1U22L), [JimMe](https://open.spotify.com/artist/51TFgYcXvQrk65OhFaU3aC) | [Fundament](https://open.spotify.com/album/6VPxTTqkZQkyM7cN07JF86) | 3:04 | 2025-09-10 | 2026-01-15 |
 | [Dying](https://open.spotify.com/track/0FkhYFMPcCiEr9yvVi3aH9) | [ImPrinceway](https://open.spotify.com/artist/3crDCPT1UMUgvePaUxITKk) | [Dying](https://open.spotify.com/album/020mxRcK9bePLdB0Rr2PxJ) | 3:00 | 2026-06-28 |  |
@@ -267,6 +268,7 @@
 | [Estate Mediterranea](https://open.spotify.com/track/5L4vDCUWLvMWZRGLy5eksH) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC) | [Estate Mediterranea](https://open.spotify.com/album/63XIHU4F5Wo3qOCnx9D6RI) | 3:30 | 2026-01-26 |  |
 | [EURO](https://open.spotify.com/track/7Md4A37i8QFniECzDrnMW3) | [Zenyo](https://open.spotify.com/artist/07SrHYWONJjsqEPIZtPenC), [RealDusty](https://open.spotify.com/artist/6kzU06WwpaQn4gPIf7IxML) | [EURO](https://open.spotify.com/album/3hwmjBH6064VCPpKwaj0GG) | 2:49 | 2026-02-18 |  |
 | [EvenThoughI \(on my way down\)](https://open.spotify.com/track/3VaWO35VvP6kn9lXkyy0dq) | [Addy Up](https://open.spotify.com/artist/2tOX9AOUlqdRG3lLzvlvsY) | [EvenThoughI \(on my way down\)](https://open.spotify.com/album/1JElzbxzfP5OOJz81HIb9F) | 2:48 | 2025-09-25 | 2026-01-15 |
+| [Everything You Had For Me](https://open.spotify.com/track/7x0d09N1favgyVJX4UhfqQ) | [Geet Nayak](https://open.spotify.com/artist/6BtoKVkCjI0zOuumvXDswo) | [Detonated](https://open.spotify.com/album/66IxFZIff05bB2kPLKogzG) | 3:12 | 2026-06-30 |  |
 | [everythinguwant](https://open.spotify.com/track/1AezLh8MPoskE4Iq3eiyeR) | [Uxban](https://open.spotify.com/artist/433lt9JbmTHzNzHqZtiK7C), [kkingston](https://open.spotify.com/artist/4JQeGNu09yerVNYxavbdQE) | [everythinguwant](https://open.spotify.com/album/7IJiyvFMc56YhrmVdoPv5i) | 2:41 | 2026-02-18 |  |
 | [Exchange](https://open.spotify.com/track/4XbrV6rllP6aIAsF1n0NL0) | [Darrell Simms](https://open.spotify.com/artist/4KRytc4AX8ONAwIs5OjAP7), [Mekfly](https://open.spotify.com/artist/1nLnT9Xt1Rkk4Sk62bGyQY) | [Love.Summer.Rehab](https://open.spotify.com/album/5y86ruaovGNTtfWJC5On0j) | 3:31 | 2026-02-08 |  |
 | [Exit Strategy](https://open.spotify.com/track/66vEV3by9gRtikIL7UQ6Q0) | [Villain Villain](https://open.spotify.com/artist/2qOs839t8GJef2AfQFXNb2) | [Exit Strategy](https://open.spotify.com/album/34vtSkZ8iUQd92O6TqG9ly) | 3:35 | 2025-10-19 | 2026-01-15 |
@@ -282,6 +284,7 @@
 | [Fall Back](https://open.spotify.com/track/14qb2OZvjBhCYdpvfc8VkU) | [Wheeze](https://open.spotify.com/artist/40R0Glc0hb29qFPQfcDx7x) | [Fall Back](https://open.spotify.com/album/3XNrkSAXglEzSqtuekZ6mO) | 3:39 | 2026-02-08 |  |
 | [Fall Out Of Love](https://open.spotify.com/track/18zswD6b04CXw6UgOBeK4j) | [Junior Pitt](https://open.spotify.com/artist/3dS7hjv6EJtZ122qSzkX7E) | [Fall out of love](https://open.spotify.com/album/42jOto0R9n87lkNdTRl9Sg) | 2:56 | 2025-11-04 | 2026-02-17 |
 | [Fantasy](https://open.spotify.com/track/4KIcjICZDgeRmLtJ37Ezyu) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Seeko](https://open.spotify.com/artist/6CE5ddAC32B4XKW6y0bbR3), [Danii Dee](https://open.spotify.com/artist/26hHacionHpjqCqFj8DX43) | [Fantasy](https://open.spotify.com/album/6pOTUKyF8Tvv2FHhJBkPUL) | 2:11 | 2025-11-28 | 2026-02-23 |
+| [FAR APART](https://open.spotify.com/track/5gxXCwcRe21ux7WzDZwltc) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [FAR APART](https://open.spotify.com/album/3tujgnwVYirnjvvIGHrNqc) | 2:07 | 2026-06-30 |  |
 | [Far out](https://open.spotify.com/track/3dV38XdBLKwXLwN1eNUAAi) | [Lëe Brœwn](https://open.spotify.com/artist/4mfih3bhrx972PCx2Jug9T) | [Far out](https://open.spotify.com/album/0uEa6UCsgqw0Fyu5lgznQz) | 3:11 | 2025-12-18 | 2026-02-23 |
 | [FATTI SENT!RE](https://open.spotify.com/track/6tGI2UefueT9Ozh6sXAUGd) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m) | [FATTI SENT!RE](https://open.spotify.com/album/43EQlztHvrFkN2Yu5Rre9C) | 2:44 | 2025-09-23 | 2026-01-15 |
 | [Feel It All](https://open.spotify.com/track/3N7gg7XImFXdYWrXmCCLco) | [Jeremy Voltz](https://open.spotify.com/artist/1Zu7L8siS7ugY35pTS6Wgw) | [Feel It All](https://open.spotify.com/album/4pQAtTSmCMEe7yYblXY5qN) | 2:38 | 2025-12-07 | 2026-02-23 |
@@ -498,6 +501,7 @@
 | [Lost for words](https://open.spotify.com/track/3r2qO0RM9qiozecXEMJLyn) | [Tavoc](https://open.spotify.com/artist/5vkNt8zpqVNxDZGBi8X5qI) | [Lost for words](https://open.spotify.com/album/7nYDouKL7kQTJlohGG9u1q) | 4:03 | 2026-02-18 |  |
 | [Lost Inside the Afterglow](https://open.spotify.com/track/1mfjmEdZqVNylQoRQrdLmP) | [Low Tide Signals](https://open.spotify.com/artist/0yLzIVCnk8YeBE8UikbhFG) | [Lost Inside the Afterglow](https://open.spotify.com/album/5lKuG4M3SKcCwNVAciHvxe) | 3:02 | 2026-03-21 |  |
 | [Love All Day](https://open.spotify.com/track/75T24lO3tu3zwCGuf8CzLU) | [Zaya Love](https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx) | [TRENDSETTER](https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg) | 3:28 | 2026-01-30 |  |
+| [Love Can Conquer All](https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd) | [Gravity 180](https://open.spotify.com/artist/2TKmTmVekVE3awZeJUOME5) | [Love Can Conquer All](https://open.spotify.com/album/2xTGBojPjGNKBLkaS6L9K1) | 4:12 | 2026-06-30 |  |
 | [Love in the Air](https://open.spotify.com/track/3Hg7NAMVr2hG1XQYNJFFWK) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p), [Kemwa Z](https://open.spotify.com/artist/6DebYJH8AS0EjTt3FpFz2W) | [Love in the Air](https://open.spotify.com/album/0sJCd4VlqSzr2OYRDSTGe4) | 2:46 | 2025-09-25 | 2026-01-15 |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-10-28 | 2026-02-17 |
 | [Love Is on Your Way](https://open.spotify.com/track/5pEUJRKrTQDA0ytC852XQ1) | [VERAÏN](https://open.spotify.com/artist/5B1HrVMrmP5flpYY81IbnW) | [Love Is on Your Way](https://open.spotify.com/album/1pV6hL6Oy2Ecm9mJ8fRAk9) | 3:37 | 2026-02-03 |  |
@@ -527,6 +531,7 @@
 | [Marry Her](https://open.spotify.com/track/6E4qQ2uPxy8GKduJqzpU1O) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Marry Her](https://open.spotify.com/album/4ZoHq2Soy1Bq9FrV5424RB) | 3:06 | 2026-03-21 |  |
 | [Masquerade](https://open.spotify.com/track/1u7Qx2Rfaqf8FOr0lOvKXk) | [Jason Qiu](https://open.spotify.com/artist/3nURExeoRtYAl0xDWP5gd4) | [Masquerade](https://open.spotify.com/album/4ghNQBGZ8e4ozxDe5HhyED) | 4:11 | 2025-09-28 | 2026-01-15 |
 | [Master](https://open.spotify.com/track/6FvtrPJRt38iNYe7Q4wKrE) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Odds](https://open.spotify.com/album/3qV1Oj8zNNa9S454IYNcbM) | 2:11 | 2026-01-13 | 2026-02-23 |
+| [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 | 2026-06-30 |  |
 | [Matrimony](https://open.spotify.com/track/6yehQaHlkAe58Yg5dxMYCy) | [Whitney Breanne](https://open.spotify.com/artist/69AVRa1SimPXSOtcMFyoBZ) | [Matrimony](https://open.spotify.com/album/2aqjhhZwpCh3mp8RhQROZ5) | 3:13 | 2025-10-30 | 2026-02-17 |
 | [Matrix](https://open.spotify.com/track/33vHHPwnt9munB7440hBUh) | [Siwson](https://open.spotify.com/artist/5XCs7iOyRKOPRvKL4DgFtQ), [Rager](https://open.spotify.com/artist/6j166NcrwPRF26SzQX2gXW) | [Matrix](https://open.spotify.com/album/0o9oezWpkYQprotlUKPWmS) | 4:05 | 2025-11-26 | 2026-02-23 |
 | [mazemindmess](https://open.spotify.com/track/6sSrPuMeP2IXyR2TLRS7LJ) | [Sicantricko](https://open.spotify.com/artist/5fNfqFDgpFatzg30wXvaO1), [Far2Gone](https://open.spotify.com/artist/2xbCYoJwKQi9MCeRcoN51j) | [mazemindmess](https://open.spotify.com/album/0WISsC5A1LTLsW1pC5D9ap) | 4:04 | 2025-10-09 | 2026-01-15 |

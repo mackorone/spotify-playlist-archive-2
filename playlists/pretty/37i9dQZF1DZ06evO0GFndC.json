@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 64327,
+  "num_followers": 64336,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABbIQiXQLhBuwqlH6LGac4i",
+  "snapshot_id": "akG1gAAAAAD6Ydx1Uk6SfsuGCJ476MP6",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 179600,
-      "name": "TRX",
-      "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
+      "duration_ms": 190966,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 190966,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/515cNEzyCxdppXVqt0uR9B"
+      "duration_ms": 179600,
+      "name": "TRX",
+      "url": "https://open.spotify.com/track/1oOUieyKJeJiJGiAOydpLx"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
+      "duration_ms": 171000,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,

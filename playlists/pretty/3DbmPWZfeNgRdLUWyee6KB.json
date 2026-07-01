@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAVVLNNi+qbVhxIiByteCmBu4ivF8vl",
+  "snapshot_id": "AAAVWe6DGuKKTKUgWxpWq7uvNo+1ZLfT",
   "tracks": [
     {
       "added_at": "2026-06-09 08:21:56",
@@ -3507,6 +3507,90 @@
       "duration_ms": 400645,
       "name": "Dinner with the inside monster",
       "url": "https://open.spotify.com/track/7rEBUuRza8ueBilHto2pFZ"
+    },
+    {
+      "added_at": "2026-06-30 07:23:03",
+      "album": {
+        "name": "Falling In Love (Pop Version)",
+        "url": "https://open.spotify.com/album/5rIGxGR4QNlJF2gtoXR8rW"
+      },
+      "artists": [
+        {
+          "name": "FreeRider X",
+          "url": "https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Falling In Love (Pop Version)",
+      "url": "https://open.spotify.com/track/0KaO2d6SjeICD58unNz9dd"
+    },
+    {
+      "added_at": "2026-06-30 07:23:37",
+      "album": {
+        "name": "You Only Live Once",
+        "url": "https://open.spotify.com/album/7A3KnD5zWY1u4obrLVdN5f"
+      },
+      "artists": [
+        {
+          "name": "ALTSOUND SRB",
+          "url": "https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA"
+        }
+      ],
+      "duration_ms": 223393,
+      "name": "You Only Live Once",
+      "url": "https://open.spotify.com/track/78ZUdJY596WjWnlO2rrf1H"
+    },
+    {
+      "added_at": "2026-06-30 07:24:35",
+      "album": {
+        "name": "Piece it All Together",
+        "url": "https://open.spotify.com/album/5yKiMqbs4V121dElzcyTEZ"
+      },
+      "artists": [
+        {
+          "name": "sye",
+          "url": "https://open.spotify.com/artist/5dEiL3I7NaBoztJwTW57Eu"
+        },
+        {
+          "name": "hostile",
+          "url": "https://open.spotify.com/artist/6L2LCvRvTnMqleBeyQjNWW"
+        }
+      ],
+      "duration_ms": 216699,
+      "name": "Piece it All Together",
+      "url": "https://open.spotify.com/track/57bUSMKc2qXs5YaSAr3v5B"
+    },
+    {
+      "added_at": "2026-06-30 07:24:40",
+      "album": {
+        "name": "Speedy Boy",
+        "url": "https://open.spotify.com/album/5Qa1vozoeYtdDbiXYzfEPo"
+      },
+      "artists": [
+        {
+          "name": "4est Fleur",
+          "url": "https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK"
+        }
+      ],
+      "duration_ms": 128182,
+      "name": "Un Gringo Tonto - Aceler\u00f3",
+      "url": "https://open.spotify.com/track/0JeEMvyeweVd1BCECBYXKS"
+    },
+    {
+      "added_at": "2026-06-30 07:24:42",
+      "album": {
+        "name": "Una pellicola di realt\u00e0",
+        "url": "https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB"
+      },
+      "artists": [
+        {
+          "name": "Daniele Foschia",
+          "url": "https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Contromano",
+      "url": "https://open.spotify.com/track/4aWtfu4zFHETjfGmDWHwCY"
     }
   ],
   "unique_name": "New Indie Music",

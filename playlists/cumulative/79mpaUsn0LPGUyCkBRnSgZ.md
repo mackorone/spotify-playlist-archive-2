@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,164 songs - 3 day 3 hr 8 min
+1,166 songs - 3 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-06-27 | 2023-07-29 |
 | [Departed](https://open.spotify.com/track/1piZEjk3QiqY7wekdSz3tb) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 2:14 | 2024-08-19 |  |
 | [Describe You](https://open.spotify.com/track/5QX8sjpXdXRqlvRKZHR2HW) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Teitur](https://open.spotify.com/artist/1vqy4yQURugSPGVDqiIT67) | [Confessions](https://open.spotify.com/album/523NK9KpUMDov85Flrn1kf) | 3:19 | 2024-01-18 |  |
+| [Detour](https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:36 | 2026-06-30 |  |
 | [Detroit Rock City](https://open.spotify.com/track/4DmBwHmp0FVO6NJ9QfH2w2) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer](https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0) | 5:18 | 2023-02-11 |  |
 | [Diamond Day](https://open.spotify.com/track/1SVbLtv66jl9djDekvnMTq) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2) | 1:47 | 2025-02-14 |  |
 | [Didn't It Rain](https://open.spotify.com/track/4wCO1K82DldGl4tAYgZcgx) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z), [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/5Q3CKS0VEKKJXpGbXvOrLa) | 7:52 | 2025-09-04 |  |
@@ -1076,6 +1077,7 @@
 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 | 2022-01-11 |  |
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2023-04-24 |  |
 | [Undesigned](https://open.spotify.com/track/671aKYHCinUvphO3iL6u9H) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi) | [Performing Belief](https://open.spotify.com/album/46lAvJ3wAf4lE27vCUMwPW) | 4:59 | 2025-09-09 |  |
+| [Unified Field](https://open.spotify.com/track/7c9jGex5KrGBLhkiDFF5D1) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Unified Field](https://open.spotify.com/album/40c4P9P3cVt3n2SphxEZbp) | 2:49 | 2026-07-01 |  |
 | [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 | 2026-03-23 | 2026-03-26 |
 | [Untitled](https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 0:46 | 2022-12-18 |  |
 | [Untitled](https://open.spotify.com/track/0VsjkAEkZvaUoDt0PAzJxC) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 0:12 | 2025-10-19 |  |

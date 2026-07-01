@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Josh Caffé.
 
-478 songs - 1 day 5 hr 4 min
+479 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [CRANK](https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CRANK](https://open.spotify.com/album/3zAXDaMbv8dr2TTw32vEnT) | 2:55 | 2025-10-24 |  |
 | [CRAZY](https://open.spotify.com/track/5BBQ9u0jtX77fE6TcMXPg5) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [CRAZY](https://open.spotify.com/album/2ihBNJlvKO7yhKqAHwnCEc) | 3:47 | 2025-03-14 | 2025-07-19 |
 | [CUNTY](https://open.spotify.com/track/6AKm7mdC27HWaHomhoKGS9) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24) | [WUPS!](https://open.spotify.com/album/2TLPuNYPn0sNJV4MWfs6By) | 4:35 | 2025-08-08 |  |
+| [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/track/3Fxebmm6QwVVS1HsuqyeqN) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/album/0Q3Qz11aspOYa9oUbVKQLH) | 4:41 | 2026-07-01 |  |
 | [CVNTY](https://open.spotify.com/track/6Z9DLcPnRFLupsw5WJ5sLw) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [CVNTY](https://open.spotify.com/album/3YaMAbTM3kQxy5Ke6q7jVt) | 2:20 | 2024-06-21 | 2024-09-07 |
 | [Da Function](https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5), [Warren B](https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 3:12 | 2023-06-20 | 2023-06-24 |
 | [DANCE..\. \- Edit](https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 3:56 | 2026-01-17 |  |
@@ -238,7 +239,7 @@
 | [J'adore](https://open.spotify.com/track/3ZspQSOFcZZfRZhNoYDPLs) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [J'adore](https://open.spotify.com/album/1WUIUtEcyOdIjnjosifXK0) | 3:02 | 2023-08-18 | 2024-06-29 |
 | [Jamie](https://open.spotify.com/track/474AX7mDeChFW3BNnF0FYC) | [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [Jamie](https://open.spotify.com/album/7cOAJwvj9tPfyrLj5zvtmp) | 3:06 | 2024-06-28 | 2024-11-16 |
 | [JIGGLE](https://open.spotify.com/track/1sZ42vLRrC1zU7V6YYbnQw) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [JIGGLE](https://open.spotify.com/album/5W9YXLtkI2TDeWOlFRIXF4) | 2:45 | 2025-08-08 | 2026-03-14 |
-| [Juicy Juice \(feat\. Marie Davidson\)](https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [deBasement](https://open.spotify.com/album/2HRRp7VG6cv6KAE1AlL981) | 3:00 | 2025-04-04 |  |
+| [Juicy Juice \(feat\. Marie Davidson\)](https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [deBasement](https://open.spotify.com/album/2HRRp7VG6cv6KAE1AlL981) | 3:00 | 2025-04-04 | 2026-07-01 |
 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 | 2024-06-14 | 2024-07-02 |
 | [Jump, Bounce](https://open.spotify.com/track/75oyg5VA2vBIwyVvUBO5mk) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Aaron Veal](https://open.spotify.com/artist/2zKQC2yK8SzmHcWhfrFnWL) | [Jump, Bounce](https://open.spotify.com/album/1K8X4oyI0CFTgZ94mEDZWz) | 2:40 | 2024-09-20 | 2025-02-01 |
 | [Just Not Cute](https://open.spotify.com/track/6Lr9s4byjOdhwLYDPxshHD) | [LOVEFOXY](https://open.spotify.com/artist/11pW7chJfzATeandApxMBo) | [Just Not Cute](https://open.spotify.com/album/2QoBgE08gFPMieaebjr8D8) | 6:34 | 2025-07-18 | 2025-11-08 |

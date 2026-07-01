@@ -1,12 +1,12 @@
 {
   "description": "Cover: Shobee",
-  "num_followers": 386602,
+  "num_followers": 386689,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANDr7f/MO0BLWHihsVt2/c2/8/wu",
+  "snapshot_id": "AAAAADJCndYtYRsGM+H2cnPMGz2Gkelb",
   "tracks": [
     {
       "added_at": "2026-06-25 23:00:28",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "L\u2019HARAKA",
+        "url": "https://open.spotify.com/album/489P1JurOGxA0jk9fQTdX4"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "duration_ms": 170787,
+      "name": "L\u2019HARAKA",
+      "url": "https://open.spotify.com/track/3mMki7s1p6KxtgphQDRHYB"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Parano",
         "url": "https://open.spotify.com/album/0w4CLHsQwLk6SEuZWoeG61"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 161194,
       "name": "DEPART",
       "url": "https://open.spotify.com/track/2Jzn2clALwnSCrHdXPBXfB"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "L\u2019HARAKA",
-        "url": "https://open.spotify.com/album/489P1JurOGxA0jk9fQTdX4"
-      },
-      "artists": [
-        {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
-        }
-      ],
-      "duration_ms": 170787,
-      "name": "L\u2019HARAKA",
-      "url": "https://open.spotify.com/track/3mMki7s1p6KxtgphQDRHYB"
     },
     {
       "added_at": "2026-06-25 23:00:28",

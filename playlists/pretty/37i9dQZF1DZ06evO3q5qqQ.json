@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118066,
+  "num_followers": 118062,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAA78jUBYJH9sqGmwRYfaC8T",
+  "snapshot_id": "akG1gAAAAAB230p+t1JHtfVhSBlsVG16",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 162048,
       "name": "El Mochomo (En vivo)",
       "url": "https://open.spotify.com/track/3rBfXOCyxYSrvIq5LSc9h2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Novedad",
-        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "La Novedad",
-      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
     },
     {
       "added_at": null,
@@ -871,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pisteando Entre Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo"
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
       },
       "artists": [
-        {
-          "name": "Chuy Lopez",
-          "url": "https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM"
-        },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 218443,
-      "name": "La Sombra Del Sombrero - En Vivo",
-      "url": "https://open.spotify.com/track/1kyAxI5VF8BQ9rfL07QV75"
+      "duration_ms": 167168,
+      "name": "Los Consejos (En vivo)",
+      "url": "https://open.spotify.com/track/579bSgsArdvofFwKRQgimo"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

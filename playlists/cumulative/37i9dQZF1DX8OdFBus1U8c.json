@@ -10677,6 +10677,32 @@
     },
     {
       "album": {
+        "name": "Thamarakkulam",
+        "url": "https://open.spotify.com/album/2XkegBQmT5dFQabWd8OvxT"
+      },
+      "artists": [
+        {
+          "name": "CJ J",
+          "url": "https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB"
+        },
+        {
+          "name": "Efy Music",
+          "url": "https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY"
+        },
+        {
+          "name": "Simmo",
+          "url": "https://open.spotify.com/artist/1jKClD0DpaGTCeUVlWEjbm"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246710,
+      "name": "Thamarakkulam",
+      "url": "https://open.spotify.com/track/6maGhMnuEchy1ddjrKGWgH"
+    },
+    {
+      "album": {
         "name": "Thamburati",
         "url": "https://open.spotify.com/album/05fOT0Hp6GgFl5cdiFOCrN"
       },

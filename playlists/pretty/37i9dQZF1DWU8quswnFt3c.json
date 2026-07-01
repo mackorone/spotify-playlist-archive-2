@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Sunidhi Chauhan",
-  "num_followers": 1033707,
+  "num_followers": 1033584,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPPQDM3LhYM32ZoGrdHk3jUBENO",
+  "snapshot_id": "AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle",
   "tracks": [
     {
       "added_at": "2026-06-05 05:06:12",
@@ -64,7 +64,7 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 216400,
+      "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-06-05 05:06:12",
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 125560,
-      "name": "Mal o Bien",
-      "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
-    },
-    {
-      "added_at": "2026-06-05 05:06:12",
-      "album": {
         "name": "\u966a\u4f60\u5230\u9019",
         "url": "https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 232500,
       "name": "\u966a\u4f60\u5230\u9019",
       "url": "https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt"
+    },
+    {
+      "added_at": "2026-06-05 05:06:12",
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 125560,
+      "name": "Mal o Bien",
+      "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
     },
     {
       "added_at": "2026-06-05 05:06:12",

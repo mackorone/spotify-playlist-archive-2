@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75795,
+  "num_followers": 75800,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Z calych sil",
         "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 229800,
       "name": "Na Chwile",
       "url": "https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2025-10-16 09:34:51",

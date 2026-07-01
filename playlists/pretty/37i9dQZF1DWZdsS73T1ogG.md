@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Paloma Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,604 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,613 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 47 | [DULCITO](https://open.spotify.com/track/5UPGrXZERAWOjOiWYzrrf2) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO) | [DULCITO](https://open.spotify.com/album/7igX6USnvNrSlOoUOWB4C4) | 3:27 |
 | 48 | [SOLO DIOS SABE](https://open.spotify.com/track/4tQYvX7knApFyQoNoMP2vw) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [SOLO DIOS SABE](https://open.spotify.com/album/5Kr4c08tnCOJFDZysQg0fl) | 2:32 |
 | 49 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
-| 50 | [TUKI TUKI](https://open.spotify.com/track/5lZ8kgIFTHbu1PrwMj3Tqr) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 3:11 |
+| 50 | [TUKI TUKI](https://open.spotify.com/track/5lZ8kgIFTHbu1PrwMj3Tqr) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 3:11 |
 | 51 | [COBRONA REMIX](https://open.spotify.com/track/7dFRzhfVgfVUAGUAMslmdi) | [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [COBRONA REMIX](https://open.spotify.com/album/0K81v43EITD6fa2bWqC1is) | 3:31 |
 | 52 | [OH NO](https://open.spotify.com/track/5O68amJ6eikevSjYGxQozg) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [OH NO](https://open.spotify.com/album/0XltFOQjcJYxEI9q14beYB) | 2:52 |
 | 53 | [Por Hollywood](https://open.spotify.com/track/7Myx7gRSYsue2sbMaGdXDr) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Por Hollywood](https://open.spotify.com/album/2aCy0ncs4obXxHu3pZ1DK8) | 2:48 |

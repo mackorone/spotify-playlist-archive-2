@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218344,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2"
+    },
+    {
+      "album": {
         "name": "Hazte oir",
         "url": "https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv"
       },

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Harsha Vardhan
 
-806 songs - 1 day 21 hr 40 min
+807 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [Vaanjai](https://open.spotify.com/track/4WpCKdwnolpO1xMWaQNPm4) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Vaanjai](https://open.spotify.com/album/40GCGd3W4oLHKJo8jDWuA2) | 3:20 | 2025-06-05 | 2025-10-24 |
 | [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 | 2023-09-22 | 2024-03-29 |
 | [Vaasam Pesum](https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/0qYC2EYGjddC8VabjWNBAz) | 3:55 | 2024-07-23 | 2024-12-06 |
+| [Vaazhkai](https://open.spotify.com/track/7ldYjcY8zGYKqi5IJ7i7Jp) | [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [Vaazhkai](https://open.spotify.com/album/0jvEkr6SlckdP35OG6MQp6) | 3:23 | 2026-06-30 |  |
 | [Vachi Seiyapora](https://open.spotify.com/track/7zP9oosuNW34MudwwLLDdF) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Vachi Seiyapora](https://open.spotify.com/album/3CpQGDhtO10nxGLJUXOXLo) | 3:56 | 2023-07-26 | 2024-05-04 |
 | [Vagalaadi \- Tamil](https://open.spotify.com/track/5eOOrz9evmVfB8gdlxeQDA) | [Nitish John](https://open.spotify.com/artist/6LctAOI9qvl3ix1PRfzbSF), [Shreya Krish](https://open.spotify.com/artist/1wVstRtBPtkRsQ1zusLfW0) | [Vagalaadi \- Tamil](https://open.spotify.com/album/5HkCjTzsacKfRGTrbuiNcV) | 4:52 | 2026-02-03 | 2026-06-11 |
 | [Valapodum Kannala](https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Rithvi Ramesh](https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq), [Allan Francis](https://open.spotify.com/artist/38WAcNnawdxZRRt96EAmDL) | [Valapodum Kannala](https://open.spotify.com/album/7KO1uHv3ZYY2wdNJJbVOxU) | 3:27 | 2023-10-12 | 2024-05-11 |

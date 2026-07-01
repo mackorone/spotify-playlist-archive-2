@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,077 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,108 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 31 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 32 | [Baby You Got It](https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 2:08 |
 | 33 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
-| 34 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
-| 35 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 3:01 |
+| 34 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 3:01 |
+| 35 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
 | 36 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
 | 37 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
 | 38 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 78 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
 | 79 | [Oh, How It Hurts](https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Oh, How It Hurts](https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh) | 2:59 |
 | 80 | [It's Gonna Take a Miracle](https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Best Of Deniece Williams: Gonna Take A Miracle](https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT) | 4:09 |
-| 81 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
-| 82 | [Hypnotized](https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q) | [Linda Jones](https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ) | [Turn off the Lights: Sweet Soul Music](https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g) | 2:47 |
+| 81 | [Hypnotized](https://open.spotify.com/track/18kKQf4bOwY0I9FUV3ne1q) | [Linda Jones](https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ) | [Turn off the Lights: Sweet Soul Music](https://open.spotify.com/album/20qD29YyUFyMjlqL4Ypx1g) | 2:47 |
+| 82 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
 | 83 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
 | 84 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
 | 85 | [Nite Owl \(A.K.A\. Night Owl\)](https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO) | [Tony Allen](https://open.spotify.com/artist/0uaoL1sn2yAzYbsREwtYFH), [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [The Specialty Story](https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh) | 2:45 |

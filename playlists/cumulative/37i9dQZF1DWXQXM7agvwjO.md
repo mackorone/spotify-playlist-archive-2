@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Rol3ert \(Japan\)
 
-2,667 songs - 6 day 18 hr 37 min
+2,668 songs - 6 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Broken Headphones](https://open.spotify.com/track/5eLvCWoVsiRkLGen6HMC4A) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Broken Headphones](https://open.spotify.com/album/6Z0NqW8Ww6x6nEeCCHqpd0) | 3:17 | 2024-12-20 | 2025-01-24 |
 | [Broken Party Girl](https://open.spotify.com/track/3s064Eg2JjLnfNLfV83usL) | [Tanayu](https://open.spotify.com/artist/32mJinuGJRIppgtdgxUXE5) | [Love On Our Side](https://open.spotify.com/album/3Dsten0a5DcWBpGojl6VqE) | 3:54 | 2023-07-20 | 2023-08-18 |
 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 | 2025-09-25 | 2025-11-14 |
+| [Bubble](https://open.spotify.com/track/4lHvbowqDKrM25i718OdsK) | [Straw 林水草](https://open.spotify.com/artist/4J9NMdvmSkuuD8ZgoBcTdv) | [Bubble](https://open.spotify.com/album/2mcWSPj1Pmp6GrYXYxsLoB) | 2:50 | 2026-06-30 |  |
 | [build a life](https://open.spotify.com/track/7LxlPRasB0Wq4hQRDvU4Sz) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [idk it's complicated](https://open.spotify.com/album/32q4VWN3LXqqGSaaqdsrwJ) | 3:48 | 2022-10-06 | 2022-11-25 |
 | [Bullet](https://open.spotify.com/track/2qvcPf2vl94xLrgVkaLWJ5) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Oath \(Deluxe\)](https://open.spotify.com/album/4VP8Ujp67UC0RgRjNBIZr4) | 3:07 | 2025-02-27 | 2025-03-07 |
 | [Bullseye](https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Bullseye](https://open.spotify.com/album/4K9A9hREpor7KTRbriaF7C) | 4:05 | 2022-06-30 | 2022-09-09 |
@@ -659,7 +660,7 @@
 | [Eyes on Me](https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Eyes on Me](https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso) | 3:34 | 2022-11-10 | 2022-12-02 |
 | [F.O.](https://open.spotify.com/track/2cXkI1xo0OAStKVlay0oqw) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [F.O.](https://open.spotify.com/album/57rwu82HeociGSkOaEPqJi) | 3:21 | 2023-05-25 | 2023-06-09 |
 | [face the dark](https://open.spotify.com/track/1absOKTg5rppI8ed8ZMYSz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [face the dark](https://open.spotify.com/album/3Nu8apPVgzTcocxAF2DtAu) | 3:08 | 2023-01-12 | 2023-02-10 |
-| [Face2Face](https://open.spotify.com/track/5Sf0irdrKw3sJAiUDNLyxF) | [Chucky Factory Land](https://open.spotify.com/artist/0Z7qDTkutsqgtcavcVPd6o) | [I, Ace](https://open.spotify.com/album/0rpp8UQsq5S19bYSQ3taIO) | 3:32 | 2026-06-25 |  |
+| [Face2Face](https://open.spotify.com/track/5Sf0irdrKw3sJAiUDNLyxF) | [Chucky Factory Land](https://open.spotify.com/artist/0Z7qDTkutsqgtcavcVPd6o) | [I, Ace](https://open.spotify.com/album/0rpp8UQsq5S19bYSQ3taIO) | 3:32 | 2026-06-25 | 2026-07-01 |
 | [FACES](https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [FACES](https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE) | 4:05 | 2025-10-02 | 2026-03-20 |
 | [FACTS](https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [FACTS](https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO) | 2:27 | 2022-05-12 | 2022-05-20 |
 | [Faded Corners \- Salamanda Remix](https://open.spotify.com/track/5uQtfKfU4IWkDaGL7lvvez) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Faded Corners \(Salamanda Remix\)](https://open.spotify.com/album/4dlNPTexE4Lh8wCcu6bHV8) | 4:42 | 2024-09-06 | 2024-09-13 |

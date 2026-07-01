@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-511 songs - 1 day 7 hr 30 min
+512 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
 | [Veyil](https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC) | [Thanveer Zaman](https://open.spotify.com/artist/0C4C8ElFOrWVKqWFwssLXH), [Shiyaz Mhmd](https://open.spotify.com/artist/3Woy8AbDUnbuquWZnc0ez9) | [Veyil](https://open.spotify.com/album/46mEHWBOQAyQHjnFhiVS1g) | 2:52 | 2025-06-26 | 2025-10-01 |
 | [Vidha \- From Saina Indie Radar](https://open.spotify.com/track/0Am7wCieAFwFsmFTmS3rJ7) | [Ali Najih](https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo), [Dhaliya navas](https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw), [Leno Martin](https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K) | [Vidha \(From Saina Indie Radar\)](https://open.spotify.com/album/7ys7bCJKziDqLkNRFoS8yK) | 4:16 | 2026-03-10 |  |
+| [Viraha Vimanam](https://open.spotify.com/track/2WJZ2DEKs3cQDCKsbBNzNs) | [Radio Legs](https://open.spotify.com/artist/7biyxbWnxnAq0LbNvaCdiV) | [Viraha Vimanam](https://open.spotify.com/album/1KEz0ON03B5xKJkPjniE0F) | 3:25 | 2026-06-30 |  |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |
 | [WILLING](https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8) | [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [WILLING](https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB) | 3:07 | 2025-12-12 |  |
 | [Wrath](https://open.spotify.com/track/4aO8R0YzvBJIi0Z2GRzXC0) | [DREAMCODE](https://open.spotify.com/artist/7mnOxPNja4UnbCqdnyQBKB), [DROPAMINE](https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd) | [Wrath](https://open.spotify.com/album/6s1pHJtpNLnFrsv7VMl1Ha) | 4:03 | 2025-04-21 | 2025-07-19 |

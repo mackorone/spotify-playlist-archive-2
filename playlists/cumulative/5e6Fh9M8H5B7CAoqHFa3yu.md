@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,349 songs - 5 day 18 hr 32 min
+2,351 songs - 5 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [COLOR SPOTIFY](https://open.spotify.com/track/4MFOfKQLJ9NP5ksad3XPBd) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [COLOR SPOTIFY](https://open.spotify.com/album/39Aop1tF4gQ97S8UoTu7LN) | 3:11 | 2025-10-19 |  |
 | [Combinacion](https://open.spotify.com/track/6oHcwOqCPpJpLSArsNH2S0) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g) | [Sun Is Dub](https://open.spotify.com/album/58sLyCLQWnNKhT0zozI9Bc) | 4:51 | 2024-03-10 |  |
 | [Come Hail the Lord](https://open.spotify.com/track/1YKAuBtB7D8Stwqgc038zv) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 6:38 | 2024-05-01 |  |
+| [Como nuevo](https://open.spotify.com/track/03NRpkZhScby10Vs3eueuw) | [Saúl](https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r) | [Como nuevo](https://open.spotify.com/album/2yePXIFjQ7in7kDhb96zEA) | 3:02 | 2026-06-30 |  |
 | [Complimenti Per Gli Allori](https://open.spotify.com/track/05mOCirI6ZmOgooo4fNuIa) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Paolo Russotto](https://open.spotify.com/artist/2qojmQGNwkXtfulktkX35X) | [Complimenti Per Gli Allori](https://open.spotify.com/album/2Z6SsuPbjanAFGERyaFEcm) | 4:46 | 2025-02-07 |  |
 | [Comprami](https://open.spotify.com/track/3VFrU5sKogsD5maX32joUB) | [Viola Valentino](https://open.spotify.com/artist/7y7fXMf0viI4KxjcPQaNSR) | [Le Piu' Belle Canzoni](https://open.spotify.com/album/1Qs8YugU5h9roi5CAdfpiP) | 3:56 | 2023-06-23 |  |
 | [Comprami](https://open.spotify.com/track/7K7iBR3rCpmBn4TFmhjnQ9) | [Viola Valentino](https://open.spotify.com/artist/7y7fXMf0viI4KxjcPQaNSR) | [Le più belle canzoni di Viola Valentino](https://open.spotify.com/album/1KaQSQBPIROovZ9DEYqnoP) | 3:57 | 2023-06-23 |  |
@@ -1136,6 +1137,7 @@
 | [Leaving Babylon Behind](https://open.spotify.com/track/7BTgabbcnStUyObdMD5rbF) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Leaving Babylon Behind](https://open.spotify.com/album/4AnzOMT8dJ11pxrIx09IqG) | 3:25 | 2024-03-10 |  |
 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 | 2025-12-12 |  |
 | [Legal \- Professor Skank Remix](https://open.spotify.com/track/1xNI4yxzus7PVTJbauA8tA) | [Mr Zebre](https://open.spotify.com/artist/3y7HySXXsJL04wmIQfrEPD), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:52 | 2024-03-23 |  |
+| [Leggera](https://open.spotify.com/track/1DBVYfntIhxnP3Id67tw62) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr) | [Leggera](https://open.spotify.com/album/6830m8vrvafqg1U3wi1ktW) | 2:47 | 2026-06-30 |  |
 | [Lemon](https://open.spotify.com/track/1dBOiO81ysvIzqZpoUx99T) | [fredo ananda](https://open.spotify.com/artist/5LUUDopKsbdRKUsOIkPwOK) | [Lemon](https://open.spotify.com/album/4tQCTSjSTnPtZPTFgbxyuX) | 3:03 | 2025-07-23 |  |
 | [Lerángatom](https://open.spotify.com/track/74tCgVZubxx6IhyqzbiHEV) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Lerángatom](https://open.spotify.com/album/5VRS1aoC0tqBNxJl5StxxC) | 4:15 | 2026-03-12 |  |
 | [Lest I Go Astray](https://open.spotify.com/track/1VnGMx6nCM3sDpxLMVTYIq) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:30 | 2024-03-25 |  |

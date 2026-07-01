@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-13",
-  "description": "Crowdpleasing classics for an easy, carefree day.",
+  "description": "Crowd-pleasing favorites for an easy, carefree day. ",
   "name": "Backyard BBQ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "album": {
+        "name": "365 Flavors",
+        "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238410,
+      "name": "365 Flavors",
+      "url": "https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH"
     },
     {
       "album": {
@@ -171,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/53LwBS4bovyljsMlLqGfd6"
+    },
+    {
+      "album": {
         "name": "Tom Petty & The Heartbreakers",
         "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
       },
@@ -254,7 +290,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 227760,
       "name": "And We Danced",
       "url": "https://open.spotify.com/track/5xkNd7kCRmjT2DxSAYVVyC"
@@ -650,7 +686,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 175720,
       "name": "can't slow down",
       "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
@@ -3046,7 +3082,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 232866,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
@@ -3475,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Right Back Where We Started From",
+        "url": "https://open.spotify.com/album/0R3e4Hcf2MQVed40q1zdSB"
+      },
+      "artists": [
+        {
+          "name": "Maxine Nightingale",
+          "url": "https://open.spotify.com/artist/6jQ9UtYXqNfVnPkrH1Xxwi"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "Right Back Where We Started From",
+      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
+    },
+    {
+      "album": {
         "name": "Pretzel Logic",
         "url": "https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp"
       },
@@ -3764,7 +3818,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 188442,
       "name": "She Wants To Go Dancing",
       "url": "https://open.spotify.com/track/0qi7eTaivYK7M7vq6lbsr5"
@@ -4056,6 +4110,24 @@
       "duration_ms": 262733,
       "name": "Somebody's Baby",
       "url": "https://open.spotify.com/track/4SlCb8n5Jw52astU7GWPyV"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
     },
     {
       "album": {
@@ -5474,6 +5546,24 @@
       "duration_ms": 448720,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+    },
+    {
+      "album": {
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Lucid Express \(Hong Kong\)
 
-329 songs - 22 hr 43 min
+330 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [someday we'll live in the sky](https://open.spotify.com/track/3mOFyiRlgcaxMyEdJfQLNO) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [someday we'll live in the sky](https://open.spotify.com/album/5la6f9KZoB8XRn8BYO49FN) | 2:17 | 2025-02-20 | 2025-10-10 |
 | [Something Blue](https://open.spotify.com/track/0eC5DI6DHdKNl6gCZR1HEO) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Instant Comfort](https://open.spotify.com/album/6KBQf0GFYaF9TvulppGidz) | 5:44 | 2025-11-20 |  |
 | [Sometimes](https://open.spotify.com/track/5cTPib9wffQwW6KEgldFBI) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Sometimes](https://open.spotify.com/album/6z1B90KXtwR4iG1JgjQ3KS) | 3:11 | 2024-06-27 | 2025-08-01 |
+| [Soul](https://open.spotify.com/track/3rVfB9e594HMyM6IRE9oui) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Kuyuru](https://open.spotify.com/artist/0r0X62o6j7jbo5ZU4qZf52) | [INNER SYNC](https://open.spotify.com/album/5eTI6gucXOgrnMjbBMgUm2) | 5:17 | 2026-06-30 |  |
 | [stay away go!](https://open.spotify.com/track/0v7lzkEqZsFPoaIngSnHw7) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [Internet Teenage Lover](https://open.spotify.com/album/1wF9osW6gyGBiUzdWQIIUK) | 4:34 | 2024-06-27 | 2024-08-31 |
 | [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 | 2024-12-04 | 2026-02-21 |
 | [Stayaway](https://open.spotify.com/track/2pwIqT1szJknFgSe4v9Mlv) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Stayaway](https://open.spotify.com/album/6WXDVCpbkIQ69jixsZESy8) | 3:16 | 2024-12-04 | 2025-03-07 |

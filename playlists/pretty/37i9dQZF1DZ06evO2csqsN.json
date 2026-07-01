@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 40986,
+  "num_followers": 40996,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABcnUihR+F4rkWaKVn9zhms",
+  "snapshot_id": "akG1gAAAAABUekbIlJjJrXKx3lIkFm0r",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album",
-        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AM I THE DRAMA? (ErrTime Edition)",
         "url": "https://open.spotify.com/album/4wQ6C0rMkwvWsANBN1kZXO"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 146560,
       "name": "ErrTime (feat. Latto) [Remix]",
       "url": "https://open.spotify.com/track/4hcQDZwYcx3qXTzfegb45N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/1g516K680WWGh6JFeYJkd0"
     },
     {
       "added_at": null,
@@ -819,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172584,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F.N.F. (Let's Go) [Remix]",
         "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 247762,
       "name": "F.N.F (Let's Go) - Remix",
       "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fast Lane",
-        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172584,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
     },
     {
       "added_at": null,

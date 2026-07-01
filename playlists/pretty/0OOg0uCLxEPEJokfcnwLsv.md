@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,111 likes - 103 songs - 6 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,114 likes - 106 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 101 | [Remember Me](https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:29 |
 | 102 | [Queen Of The Night](https://open.spotify.com/track/1XjSFctFEJ24ues0iIB4CB) | [LEADFEATHER](https://open.spotify.com/artist/4g6iW7Vr1fRCZAHJroAmZB) | [Queen Of The Night](https://open.spotify.com/album/6XY0v5RfZdnRoD3XXACsu3) | 3:33 |
 | 103 | [7\-7\-7](https://open.spotify.com/track/47RIBc1ppUx3dTW3HKKNAZ) | [Nikos Raptis 606](https://open.spotify.com/artist/6ArWbx65m6W1wvnKLz6DDu), [606' Trio](https://open.spotify.com/artist/3P8nnRW5bGtcOzWE6MiqIZ), [Takis Gkrekos](https://open.spotify.com/artist/3q9un5Y5ULs48p1BtbTx4Q), [Giannis Anestis](https://open.spotify.com/artist/18LjZXBPCqFSumSUA3v8gT) | [Tribal Suits](https://open.spotify.com/album/3LwhSOisS2ocjsU0Dn3yiD) | 3:16 |
+| 104 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 |
+| 105 | [Torre Pendente](https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 5:07 |
+| 106 | [Lay Me Down](https://open.spotify.com/track/6zSniKNMTVgqQIbwcp4NMG) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 2:31 |
 
-Snapshot ID: `AAAGjAfIVt9LgWvMdxbiCIFi6vQ3ne3Y`
+Snapshot ID: `AAAGj85Itgdg0wzEMmPtZL2noh7njSwb`

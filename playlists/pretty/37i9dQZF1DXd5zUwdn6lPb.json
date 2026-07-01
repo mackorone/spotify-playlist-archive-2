@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 601856,
+  "num_followers": 601969,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
+        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
+        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
+      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
-        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
-        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Alexandra Whittingham",
-          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
-      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -667,30 +667,22 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
-        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
+        "name": "Movement 5 - Pt. 2",
+        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
       "artists": [
         {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
         },
         {
-          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
-          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
-        },
-        {
-          "name": "Didier Bouture",
-          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
-        },
-        {
-          "name": "Ensemble Orchestral Harmonia Nova",
-          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
+          "name": "Scottish Ensemble",
+          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
         }
       ],
-      "duration_ms": 85000,
-      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
-      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+      "duration_ms": 252920,
+      "name": "Movement 5 - Pt. 2 - Instrumental",
+      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -719,26 +711,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Movement 5 - Pt. 2",
-        "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        },
-        {
-          "name": "Scottish Ensemble",
-          "url": "https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Movement 5 - Pt. 2 - Instrumental",
-      "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Solon Islandus (Complete Works)",
         "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
       },
@@ -751,6 +723,34 @@
       "duration_ms": 162374,
       "name": "Faded Leaves Fall",
       "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
+        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
+          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
+        },
+        {
+          "name": "Didier Bouture",
+          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova",
+          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
+      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
     },
     {
       "added_at": "2026-05-29 04:00:58",

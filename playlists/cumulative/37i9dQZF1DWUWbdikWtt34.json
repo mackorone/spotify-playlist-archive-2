@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: Lesti",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Mila DA7, Valen DA7",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -2980,6 +2980,28 @@
       "duration_ms": 220443,
       "name": "Maunya Apa Sih?",
       "url": "https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY"
+    },
+    {
+      "album": {
+        "name": "Meleleh Bahagia",
+        "url": "https://open.spotify.com/album/7xdmIa7yr8rvYLsHSL4dXz"
+      },
+      "artists": [
+        {
+          "name": "Mila DA7",
+          "url": "https://open.spotify.com/artist/7cntvd0cOrJUaDyW7CYsvN"
+        },
+        {
+          "name": "Valen DA7",
+          "url": "https://open.spotify.com/artist/5g635pulRemuOvmgo41GRC"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365538,
+      "name": "Meleleh Bahagia",
+      "url": "https://open.spotify.com/track/3c0V0U2cKhOXUVWL86jQ7z"
     },
     {
       "album": {

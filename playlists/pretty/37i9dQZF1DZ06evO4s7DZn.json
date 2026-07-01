@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAA2TtNOqUdJqdD+3aAtot88",
+  "snapshot_id": "akG1gAAAAAD7OatP8nGY0YasImaEPPuN",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 185887,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 223000,
       "name": "Popotitos - En Vivo",
       "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 196101,
+      "name": "Ya para Que",
+      "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 196101,
-      "name": "Ya para Que",
-      "url": "https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 357500,
-      "name": "Popurr\u00ed: Fr\u00edos Enemigos / Noche de Banda - En Vivo",
-      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 262666,
       "name": "Bota Y Tambora",
       "url": "https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Popurr\u00ed: Fr\u00edos Enemigos / Noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Quiero Que Me Vuelas Queder - En Vivo",
-      "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 156600,
       "name": "Para Toda La Vida",
       "url": "https://open.spotify.com/track/0ea6xuCmW7popUwQJBU9Js"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Quiero Que Me Vuelas Queder - En Vivo",
+      "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"
     },
     {
       "added_at": null,

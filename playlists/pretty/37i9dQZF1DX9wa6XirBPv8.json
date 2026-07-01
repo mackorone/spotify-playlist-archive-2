@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1913318,
+  "num_followers": 1913439,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -255,18 +255,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Dusk And Summer",
-        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Vindicated",
-      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 241640,
       "name": "The Quiet Things That No One Ever Knows",
       "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Dusk And Summer",
+        "url": "https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "Vindicated",
+      "url": "https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 280866,
-      "name": "Baby, You Wouldn't Last A Minute On The Creek",
-      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Tigers Jaw",
         "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 122680,
       "name": "Plane Vs. Tank Vs. Submarine",
       "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 280866,
+      "name": "Baby, You Wouldn't Last A Minute On The Creek",
+      "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Everything In Transit",
-        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "The Mixed Tape - 2015 Remastered",
-      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Home, Like Noplace Is There",
         "url": "https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Everything In Transit",
+        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "The Mixed Tape - 2015 Remastered",
+      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "The Albatross",
-        "url": "https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f"
+        "name": "One Fell Swoop",
+        "url": "https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL"
       },
       "artists": [
         {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
         }
       ],
-      "duration_ms": 202840,
-      "name": "The Medic",
-      "url": "https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr"
+      "duration_ms": 183960,
+      "name": "Polygraph, Right Now!",
+      "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "One Fell Swoop",
-        "url": "https://open.spotify.com/album/0zpPut1LDImgvq2ihslxOL"
+        "name": "The Albatross",
+        "url": "https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f"
       },
       "artists": [
         {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Polygraph, Right Now!",
-      "url": "https://open.spotify.com/track/0eF0hwXeVzUimc5YA5IT6J"
+      "duration_ms": 202840,
+      "name": "The Medic",
+      "url": "https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr"
     },
     {
       "added_at": "2025-08-05 14:57:44",

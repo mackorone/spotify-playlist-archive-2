@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,017 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,029 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

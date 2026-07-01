@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19901,
+  "num_followers": 19905,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOddTy7DzNRURZOWK3qDlrmXa2G6",
+  "snapshot_id": "AAAAAB/dpP7wdPqtUY4D1fLxxftpTEJx",
   "tracks": [
     {
       "added_at": "2026-06-10 10:19:16",
@@ -109,6 +109,26 @@
       "url": "https://open.spotify.com/track/2vRnCXR37fbbUhrIfFOweD"
     },
     {
+      "added_at": "2026-06-30 11:25:01",
+      "album": {
+        "name": "Vaazhkai",
+        "url": "https://open.spotify.com/album/0jvEkr6SlckdP35OG6MQp6"
+      },
+      "artists": [
+        {
+          "name": "Simeon Telfer",
+          "url": "https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak"
+        },
+        {
+          "name": "A-Gan",
+          "url": "https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH"
+        }
+      ],
+      "duration_ms": 203181,
+      "name": "Vaazhkai",
+      "url": "https://open.spotify.com/track/7ldYjcY8zGYKqi5IJ7i7Jp"
+    },
+    {
       "added_at": "2026-05-23 12:56:43",
       "album": {
         "name": "Bloom (From \"Loopd\")",
@@ -153,6 +173,30 @@
       "url": "https://open.spotify.com/track/38uon1nYNzQelci58PtnMp"
     },
     {
+      "added_at": "2026-06-10 11:42:28",
+      "album": {
+        "name": "First Vibe",
+        "url": "https://open.spotify.com/album/4EG64vjf5n6zQG1C3HuuCH"
+      },
+      "artists": [
+        {
+          "name": "Mathesh",
+          "url": "https://open.spotify.com/artist/7hJtNjalMpL6lcLCQnKRGc"
+        },
+        {
+          "name": "Varsha Baskar",
+          "url": "https://open.spotify.com/artist/4OPgvsG0jW3c4R2hIldZii"
+        },
+        {
+          "name": "Santhosh Arumugam",
+          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "First Vibe",
+      "url": "https://open.spotify.com/track/1HcyB26LTKPBOU35vFuLm1"
+    },
+    {
       "added_at": "2026-02-19 11:44:49",
       "album": {
         "name": "Maayam Neeyadi",
@@ -195,30 +239,6 @@
       "duration_ms": 194285,
       "name": "Malare Unnai Kaana (A Cappella)",
       "url": "https://open.spotify.com/track/1memLus2OlpRwDDRbuZB8f"
-    },
-    {
-      "added_at": "2026-06-10 11:42:28",
-      "album": {
-        "name": "First Vibe",
-        "url": "https://open.spotify.com/album/4EG64vjf5n6zQG1C3HuuCH"
-      },
-      "artists": [
-        {
-          "name": "Mathesh",
-          "url": "https://open.spotify.com/artist/7hJtNjalMpL6lcLCQnKRGc"
-        },
-        {
-          "name": "Varsha Baskar",
-          "url": "https://open.spotify.com/artist/4OPgvsG0jW3c4R2hIldZii"
-        },
-        {
-          "name": "Santhosh Arumugam",
-          "url": "https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "First Vibe",
-      "url": "https://open.spotify.com/track/1HcyB26LTKPBOU35vFuLm1"
     },
     {
       "added_at": "2026-05-04 07:47:45",

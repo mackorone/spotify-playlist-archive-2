@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante como Barboza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,642 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,644 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 22 | [MI EX](https://open.spotify.com/track/363f2yu0W2nJZPRqCh7i5P) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [MI EX](https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv) | 3:43 |
 | 23 | [BOMBÓN](https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [BOMBÓN](https://open.spotify.com/album/4wix4eBwzjNtaf5wlMexEF) | 2:10 |
 | 24 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 |
-| 25 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
-| 26 | [PASIÓN Y SEXO](https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [PASIÓN Y SEXO](https://open.spotify.com/album/3rBYLiBQUm7DfNsTGoNSni) | 3:33 |
+| 25 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dimelo Magic](https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg), [OGBOOY](https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
+| 26 | [PASIÓN Y SEXO](https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [PASIÓN Y SEXO](https://open.spotify.com/album/3rBYLiBQUm7DfNsTGoNSni) | 3:33 |
 | 27 | [REINA VALERA \- Spotify Sessions](https://open.spotify.com/track/6vzVW3oArF7RU9YM0MwmNQ) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Crudo Means Raw \- Spotify Sessions](https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC) | 4:19 |
 | 28 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |
 | 29 | [AMISTA](https://open.spotify.com/track/72veJ1UABNtqddwZKCIGMo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 2:57 |

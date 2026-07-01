@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 117785,
+  "num_followers": 117814,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,30 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "I Know Who I Be",
+        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "duration_ms": 233976,
+      "name": "I Know Who I Be",
+      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -351,6 +375,22 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Patek",
+        "url": "https://open.spotify.com/album/6KIKaRJ4UIYMC6c2bRdvii"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Patek",
+      "url": "https://open.spotify.com/track/6f6BRq14oa4HY6yBCJ2DFu"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -379,22 +419,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Patek",
-        "url": "https://open.spotify.com/album/6KIKaRJ4UIYMC6c2bRdvii"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Patek",
-      "url": "https://open.spotify.com/track/6f6BRq14oa4HY6yBCJ2DFu"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 178983,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
-        "name": "I Know Who I Be",
-        "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "JAZZWRLD",
-          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
-        },
-        {
-          "name": "GL_Ceejay",
-          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
-        }
-      ],
-      "duration_ms": 233976,
-      "name": "I Know Who I Be",
-      "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "Richard Mille",
+        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
+      },
+      "artists": [
+        {
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Richard Mille",
+      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "No Wam",
         "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Che Che (feat. Asake)",
-        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -1211,6 +1211,26 @@
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Che Che (feat. Asake)",
+        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1247,22 +1267,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
@@ -1287,6 +1291,22 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 171553,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
-        "name": "Richard Mille",
-        "url": "https://open.spotify.com/album/4hjaK3AT4U47LEXANnpHv0"
-      },
-      "artists": [
-        {
-          "name": "Vusic",
-          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Richard Mille",
-      "url": "https://open.spotify.com/track/62vNNwvVcdFLtq1COoj3ck"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Romeo and juliet",
-        "url": "https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 151725,
-      "name": "Romeo and juliet",
-      "url": "https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "Na So",
         "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 214441,
       "name": "Na So",
       "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Romeo and juliet",
+        "url": "https://open.spotify.com/album/0wMbgIjbepQQTZelXX9v2S"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 151725,
+      "name": "Romeo and juliet",
+      "url": "https://open.spotify.com/track/5qtqBs37uoil2KurOjGGni"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1423,6 +1423,26 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "On my mind",
+        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
     },
     {
       "added_at": "2026-06-25 22:36:06",
@@ -1467,26 +1487,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "On my mind",
-        "url": "https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT"
-      },
-      "artists": [
-        {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "On my mind",
-      "url": "https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "Laye Mi",
         "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-25 22:36:06",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
-    },
-    {
-      "added_at": "2026-06-25 22:36:06",
-      "album": {
         "name": "YBTM",
         "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 176727,
       "name": "YBTM",
       "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+    },
+    {
+      "added_at": "2026-06-25 22:36:06",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
     },
     {
       "added_at": "2026-06-25 22:36:06",

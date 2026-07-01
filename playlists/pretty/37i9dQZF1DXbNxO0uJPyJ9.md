@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,338 likes - 80 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,410 likes - 80 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 56 | [She Drives Me Crazy \- David Z 12" Remix](https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp), [David Z.](https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj) | [The Raw & The Cooked \(Remastered & Expanded\)](https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT) | 7:06 |
 | 57 | [The Promise You Made \- Extended Version](https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 6:38 |
 | 58 | [Shout \- U.S\. Remix](https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Steve Thompson](https://open.spotify.com/artist/072BKskZiAjsLMHqZkX9bo), [Michael Barbiero](https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:00 |
-| 59 | [C'est la ouate \- Extended Version](https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 6:03 |
+| 59 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
 | 60 | [Beat Dis \- 12" Version](https://open.spotify.com/track/3hWbM5cGgUiTUUkfSfD1kd) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [Beat Dis: The Very Best Of](https://open.spotify.com/album/0gs16qVEj1k1NAD1WdEnaN) | 5:57 |
-| 61 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
+| 61 | [C'est la ouate \- Extended Version](https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 6:03 |
 | 62 | [Gold \- 12" Mix](https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [80s 12'' Summer](https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn) | 7:15 |
 | 63 | [Dancing On The Ceiling \- 12" Version](https://open.spotify.com/track/3hCsLasVlmTBQu7QDw1isr) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 7:10 |
 | 64 | [Sweet Dreams \(Are Made of This\) \- Hot Remix / 2005 Remaster](https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Boxed](https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH) | 5:19 |

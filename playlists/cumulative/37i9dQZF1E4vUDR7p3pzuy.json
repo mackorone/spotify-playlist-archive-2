@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, MIK's Reaction, photophor and more",
+  "description": "With David Von Beahm, MIK's Reaction, Shane Embury and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 236412,
       "name": "Air",
       "url": "https://open.spotify.com/track/68aV0LAtm1AlefVKodPTDz"
@@ -786,6 +786,24 @@
       "duration_ms": 220190,
       "name": "AM PM",
       "url": "https://open.spotify.com/track/5bcq3tfrM2lerLrGqpLqBJ"
+    },
+    {
+      "album": {
+        "name": "The Living Likeness of My Electric Daemon",
+        "url": "https://open.spotify.com/album/3B0PS53QE27AjASIdocZFl"
+      },
+      "artists": [
+        {
+          "name": "Miracle",
+          "url": "https://open.spotify.com/artist/28VQJJAPiTYsyOGcFNNAcQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313549,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/6UCBjjduLh0jqKr1PjkRG2"
     },
     {
       "album": {
@@ -2983,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "The Living Likeness of My Electric Daemon",
+        "url": "https://open.spotify.com/album/3B0PS53QE27AjASIdocZFl"
+      },
+      "artists": [
+        {
+          "name": "Miracle",
+          "url": "https://open.spotify.com/artist/28VQJJAPiTYsyOGcFNNAcQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272565,
+      "name": "Consolamentum Day",
+      "url": "https://open.spotify.com/track/0HhhtfqmQTzeYeIj5rG5Jw"
+    },
+    {
+      "album": {
         "name": "*the colour of lead*",
         "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
       },
@@ -2994,7 +3030,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3561,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Dark Charm",
+        "url": "https://open.spotify.com/album/74JyTvjFZvFtWgA1zWEEZg"
+      },
+      "artists": [
+        {
+          "name": "Sugar Scars",
+          "url": "https://open.spotify.com/artist/3WCaN9QEGnSeC67w0n1LCQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Dark Charm",
+      "url": "https://open.spotify.com/track/1zjK2NHeqw2fUiOT0YAcrv"
+    },
+    {
+      "album": {
         "name": "Dark City",
         "url": "https://open.spotify.com/album/1wzS4vwKO9nnSn6gucuzqa"
       },
@@ -4016,7 +4070,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 206896,
       "name": "devotion",
       "url": "https://open.spotify.com/track/6DQU9ojClpHHDMq968QpTO"
@@ -4280,7 +4334,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 253000,
       "name": "Down",
       "url": "https://open.spotify.com/track/38lBgZ8eHPTPhp6pWrsxnB"
@@ -4992,7 +5046,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -5746,7 +5800,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -5910,7 +5964,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -6640,7 +6694,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 414740,
       "name": "Her-To-Get (To-Get-Her)",
       "url": "https://open.spotify.com/track/6NcSlHDEbD72raPykWCmJi"
@@ -6734,7 +6788,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 199311,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/4WmzoBRVjSsDpzXrt7CJED"
@@ -6972,6 +7026,24 @@
       "duration_ms": 203128,
       "name": "How To Be Dead",
       "url": "https://open.spotify.com/track/0YjyTuJy9GtNzDYzthd0Gm"
+    },
+    {
+      "album": {
+        "name": "Bridge To Resolution",
+        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
+      },
+      "artists": [
+        {
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240960,
+      "name": "How To Corrode Memories",
+      "url": "https://open.spotify.com/track/7AgedjQbTN2RVElOuXlbji"
     },
     {
       "album": {
@@ -7438,6 +7510,24 @@
       "duration_ms": 245454,
       "name": "If it's the last time",
       "url": "https://open.spotify.com/track/4ET93WeLlGHMtPKgB28FvU"
+    },
+    {
+      "album": {
+        "name": "Bridge To Resolution",
+        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
+      },
+      "artists": [
+        {
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333560,
+      "name": "Illusion Guillotine",
+      "url": "https://open.spotify.com/track/50FGQzrVa7XsEZfzIxZsVB"
     },
     {
       "album": {
@@ -8000,7 +8090,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 323500,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/2Dc6DRMr5fKhcLn57iwnjz"
@@ -8022,6 +8112,24 @@
       "duration_ms": 235264,
       "name": "Itch",
       "url": "https://open.spotify.com/track/3El09XGhOckUQBBHsqFYL0"
+    },
+    {
+      "album": {
+        "name": "hands on the board",
+        "url": "https://open.spotify.com/album/41CMWBGQAxTmWEI331BUHF"
+      },
+      "artists": [
+        {
+          "name": "Hrafnsson",
+          "url": "https://open.spotify.com/artist/2pcLHa5go2bwjHcWCresoY"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284800,
+      "name": "it\u2019s just cold",
+      "url": "https://open.spotify.com/track/10Gy93lhv1f6vfK7SwqPEe"
     },
     {
       "album": {
@@ -8545,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "So, this is a thing?",
+        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173792,
+      "name": "LBS",
+      "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
+    },
+    {
+      "album": {
         "name": "Ler\u00e1ngatom",
         "url": "https://open.spotify.com/album/0wkW9LugeTcpFKqpSgXr4l"
       },
@@ -8780,7 +8906,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -8928,6 +9054,24 @@
       "duration_ms": 183930,
       "name": "Limp",
       "url": "https://open.spotify.com/track/2Wn5Axqj2lkBUwZmiaZjzn"
+    },
+    {
+      "album": {
+        "name": "So, this is a thing?",
+        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123376,
+      "name": "Little Green Dots",
+      "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
     },
     {
       "album": {
@@ -10614,7 +10758,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -13726,7 +13870,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -14204,7 +14348,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 262138,
       "name": "Tears",
       "url": "https://open.spotify.com/track/2q5DvDlIK3TUgiwKzXr3KF"
@@ -15370,7 +15514,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -15579,6 +15723,28 @@
     },
     {
       "album": {
+        "name": "Cyber Savage OST Vol. 1",
+        "url": "https://open.spotify.com/album/56QkmIoJBfHcNeknBGm10q"
+      },
+      "artists": [
+        {
+          "name": "Cyber Savage",
+          "url": "https://open.spotify.com/artist/0LyGYv52iop8XQoxarrLsP"
+        },
+        {
+          "name": "King Yosef",
+          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "TIME 2 DIE",
+      "url": "https://open.spotify.com/track/6a5BA53BYbraUQAV65jn4v"
+    },
+    {
+      "album": {
         "name": "Smoke & Mirrors + Other Ghosts (2025 Expanded Remaster)",
         "url": "https://open.spotify.com/album/1imOO9BuzwPiMvxK9VfXl9"
       },
@@ -15630,7 +15796,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "To Follow",
       "url": "https://open.spotify.com/track/6rIQbbnOzzhqvSRKvmTXq1"
@@ -16268,7 +16434,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 240744,
       "name": "Velvet Black",
       "url": "https://open.spotify.com/track/5Qw3Xscsima9Mecp2uVDjN"
@@ -16612,7 +16778,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 216315,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
@@ -16738,7 +16904,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 301575,
       "name": "Water and Flesh",
       "url": "https://open.spotify.com/track/3va08x27StWDuVaetVitYA"

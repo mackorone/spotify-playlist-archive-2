@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Gogohawk) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Silica Gel) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -11760,7 +11760,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 220000,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR"
@@ -13786,6 +13786,24 @@
       "duration_ms": 252379,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu"
+    },
+    {
+      "album": {
+        "name": "Molecular Gastronomy",
+        "url": "https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "Molecular Gastronomy",
+      "url": "https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK"
     },
     {
       "album": {

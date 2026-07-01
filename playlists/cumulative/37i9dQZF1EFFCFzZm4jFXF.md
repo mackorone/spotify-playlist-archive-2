@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 7 hr 56 min
+146 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 | 2024-06-13 | 2024-09-27 |
 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 | 2024-06-13 |  |
 | [Wilder Days](https://open.spotify.com/track/7yiZtUUC5lPtoUxF5s0KH1) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Wilder Days EP](https://open.spotify.com/album/6XuJT50OLcO7j3oLNZM6Q3) | 3:37 | 2024-09-14 |  |
+| [You & I](https://open.spotify.com/track/0Jy4WX1rwTdXVrFzTgorCT) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [You & I](https://open.spotify.com/album/6tzI7zDhMUN5lPRYhlTkLK) | 2:54 | 2026-06-30 |  |
 | [Your Eyes](https://open.spotify.com/track/5A0adi2wTWMlyLnsnC67MZ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:30 | 2024-06-13 |  |
 | [Your Twilight](https://open.spotify.com/track/7HsrGGDmZrMfnbRyA2XMkr) | [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Your Twilight](https://open.spotify.com/album/5sIMic3WTMBZCwVGinynif) | 2:50 | 2025-02-16 |  |
 

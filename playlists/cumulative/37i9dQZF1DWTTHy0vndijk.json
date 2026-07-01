@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: CLASSy) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: CHOI YOOJUNG (\ucd5c\uc720\uc815)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -6183,6 +6183,24 @@
     },
     {
       "album": {
+        "name": "Perfect Target",
+        "url": "https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc"
+      },
+      "artists": [
+        {
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Perfect Target",
+      "url": "https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e"
+    },
+    {
+      "album": {
         "name": "PRODUCE 48 - NEKKOYA (PICK ME)",
         "url": "https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg"
       },
@@ -8370,7 +8388,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 177142,
       "name": "Tear Drop",
       "url": "https://open.spotify.com/track/58LrWUfLf4BWdMx1PNPefc"

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 204941,
+  "num_followers": 204943,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAAW5U1y8E9YAqI/8y1dHWYC",
+  "snapshot_id": "akG1gAAAAAB1HYpnMvd6jR5IU6uia9QB",
   "tracks": [
     {
       "added_at": null,
@@ -971,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
       "artists": [
         {
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
     },
     {
       "added_at": null,
@@ -1003,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/4bRGn94aQGGzuVzhfmEy59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stardust",
         "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 262663,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4bRGn94aQGGzuVzhfmEy59"
     },
     {
       "added_at": null,
@@ -1183,8 +1183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/2Q4HugjymuQggJWOpstx7P"
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 212546,
-      "name": "We'd Make A Good Movie",
-      "url": "https://open.spotify.com/track/293CdrhhfzsjNB7xdlNr1R"
+      "duration_ms": 146109,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
     }
   ],
   "unique_name": "This Is Willie Nelson",

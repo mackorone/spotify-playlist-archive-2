@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73858,
+  "num_followers": 73854,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAADUAXjFyD04YJt9qx/M49sD",
+  "snapshot_id": "akG1gAAAAADCBrH6mpzeCTzM4fCKxWEX",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
+        "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "Romanos 8:26",
+      "url": "https://open.spotify.com/track/7297XfxiTDouaiWlGTsjX0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cura-me",
         "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 233795,
       "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
-        "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "Romanos 8:26",
-      "url": "https://open.spotify.com/track/7297XfxiTDouaiWlGTsjX0"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 206657,
-      "name": "Seu Lugar",
-      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Seu Lugar",
+      "url": "https://open.spotify.com/track/5N4nevHlaNbF5jUNlxUsZo"
     },
     {
       "added_at": null,

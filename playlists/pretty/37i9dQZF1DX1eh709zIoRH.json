@@ -1,6 +1,6 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296548,
+  "num_followers": 296552,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "GANG",
-        "url": "https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU"
-      },
-      "artists": [
-        {
-          "name": "Kairo Keyz",
-          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "GANG",
-      "url": "https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "Galahad",
-        "url": "https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 186428,
-      "name": "Galahad",
-      "url": "https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
         "name": "R e a l W o m a n",
         "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Galahad",
+        "url": "https://open.spotify.com/album/721nvr0OG4VoFIm7TBHLVC"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Galahad",
+      "url": "https://open.spotify.com/track/2EafSuRnstn5xtJXO9adat"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "Wifey Riddim 4",
         "url": "https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3"
       },
@@ -1391,26 +1391,6 @@
       "duration_ms": 183935,
       "name": "Wifey Riddim 4",
       "url": "https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "Pink Lemonade (Str8 Reload)",
-        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Str8 Reload",
-          "url": "https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY"
-        }
-      ],
-      "duration_ms": 122208,
-      "name": "Pink Lemonade (Str8 Reload)",
-      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
     },
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1491,6 +1471,26 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "Pink Lemonade (Str8 Reload)",
+        "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Str8 Reload",
+          "url": "https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY"
+        }
+      ],
+      "duration_ms": 122208,
+      "name": "Pink Lemonade (Str8 Reload)",
+      "url": "https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -1507,22 +1507,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+        "name": "Distro Kid",
+        "url": "https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
         }
       ],
-      "duration_ms": 210194,
-      "name": "Ololufe (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
+      "duration_ms": 155200,
+      "name": "Redemption (feat. Nemzzz)",
+      "url": "https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY"
     }
   ],
   "unique_name": "Certi",

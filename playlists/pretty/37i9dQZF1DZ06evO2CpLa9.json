@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAAOFbjHAw35A7OKnaEoQWvs",
+  "snapshot_id": "akG1gAAAAABlaM8U8qLxWZ0VWK8vPS4v",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR (Remix)",
-        "url": "https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200631,
-      "name": "AMOR - Remix",
-      "url": "https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Mexico Song",
         "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 527000,
       "name": "Bendecidos",
       "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor x Dosis",
+        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200631,
+      "name": "AMOR - Remix",
+      "url": "https://open.spotify.com/track/1dVVhJmYqJFng3RNXgWhBI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-658 songs - 1 day 14 hr 40 min
+659 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 | 2024-01-26 |
 | [Do You Wanna Live Like That](https://open.spotify.com/track/686gHvtlUl4UXfUxGdiX5z) | [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Do You Wanna Live Like That](https://open.spotify.com/album/4HRMvnPwcG0OLF68s1UySZ) | 3:15 | 2022-07-21 | 2023-01-20 |
 | [DOCUMENT](https://open.spotify.com/track/3IjggA4afQs8t5rUQCBgLF) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/6XHAEkBpPQmiK9FvuUn46O) | 4:40 | 2022-03-24 | 2022-04-16 |
+| [Does She Know](https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong](https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi) | 3:14 | 2026-06-26 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:29 | 2023-06-01 | 2024-01-26 |
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Dream of Summer](https://open.spotify.com/track/1BNFek2O2KUY0UMPLKTAxF) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Dream of Summer](https://open.spotify.com/album/4lcPh7hqgmmqjV4UAqGzNO) | 4:06 | 2026-05-30 | 2026-06-13 |
@@ -304,7 +305,7 @@
 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 | 2021-12-23 |  |
 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 | 2024-10-11 | 2024-11-16 |
 | [Lavender & Red Roses](https://open.spotify.com/track/0lPZumEzxNLBOklVCEyiA4) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lavender & Red Roses](https://open.spotify.com/album/3UIVM6d0j9G2hSi7uBp6d4) | 2:54 | 2022-03-31 | 2022-04-19 |
-| [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 | 2025-08-29 |  |
+| [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 | 2025-08-29 | 2026-07-01 |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-02-29 | 2024-07-27 |
 | [Leaving Today](https://open.spotify.com/track/63tDRyYBftYrwURgtR42Zc) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Leaving Today](https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4) | 4:12 | 2022-03-31 | 2022-04-20 |
 | [Lemon Squeeze](https://open.spotify.com/track/14LgwZInulRb4IDix4jiBE) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [YEO CIG](https://open.spotify.com/artist/3OwLFw3VPQXWMa7WmLvQIE) | [Lemon Squeeze](https://open.spotify.com/album/5GEcEjaGF0fGXUmd8psXuh) | 3:02 | 2022-02-10 | 2022-04-21 |

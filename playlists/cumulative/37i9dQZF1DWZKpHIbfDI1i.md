@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. DANNA y El Malilla en portada
 
-1,800 songs - 4 day 0 hr 5 min
+1,801 songs - 4 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,6 +854,7 @@
 | [LE VA DOLER](https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LE VA DOLER](https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7) | 2:33 | 2023-05-26 | 2023-09-30 |
 | [Lealtad](https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:17 | 2024-02-02 | 2024-02-10 |
 | [lento](https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [idek](https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1) | 2:32 | 2024-03-08 | 2024-03-16 |
+| [Lento](https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Lento](https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL) | 2:26 | 2026-06-26 |  |
 | [lento \- Live performance](https://open.spotify.com/track/1N6yObVx8jtcgcjaE7HKQN) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [veme así \(Live performance\)](https://open.spotify.com/album/3PDqU6Qle7lCGzTXbcPVoj) | 4:06 | 2026-01-09 | 2026-01-17 |
 | [LEROLE](https://open.spotify.com/track/709jYM3gHXktzl9OHGTxyf) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LEROLE](https://open.spotify.com/album/4sM6PVTdneHtUZM9oxkFL4) | 3:23 | 2025-12-26 | 2026-02-28 |
 | [LEYENDA](https://open.spotify.com/track/45LzMBMAtMP6IeWBqd8mUR) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [LEYENDA](https://open.spotify.com/album/69TuNGeXi7iah9B755lakY) | 4:48 | 2024-03-15 | 2024-03-23 |
@@ -1412,7 +1413,7 @@
 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 | 2023-06-09 | 2023-06-23 |
 | [SC\-9](https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2) | 2:45 | 2024-03-15 | 2024-04-19 |
 | [Se Apagó](https://open.spotify.com/track/0wIX2MzoTa9FLBqC1sQ2C9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Apagó](https://open.spotify.com/album/0iA83K0YIx0cyB9kNIf27w) | 2:41 | 2023-09-29 | 2023-10-14 |
-| [Se Busca Plebita](https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Se Busca Plebita](https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs) | 2:33 | 2026-05-29 |  |
+| [Se Busca Plebita](https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Se Busca Plebita](https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs) | 2:33 | 2026-05-29 | 2026-07-01 |
 | [Se Cancela La Depre \(En Vivo\)](https://open.spotify.com/track/4NJAXc8SambFCaVoWOkUyw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Cancela La Depre \(En Vivo\)](https://open.spotify.com/album/07tgEwwKVe516EcidYUrUd) | 3:52 | 2023-08-18 | 2023-10-07 |
 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 | 2025-12-19 | 2026-02-14 |
 | [Se Fue la Luz](https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Se Fue la Luz](https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt) | 2:39 | 2022-03-25 | 2022-05-07 |

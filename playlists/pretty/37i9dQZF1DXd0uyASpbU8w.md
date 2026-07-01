@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Thando Zide, Davido, TEEKS, kwn, Mthunzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,132 likes - 97 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,181 likes - 97 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 65 | [To God's Ears \(feat\. Manu WorldStar, Nhlonipho & Slick Widit\)](https://open.spotify.com/track/1HEG3stzykAI8mmDjHKwO9) | [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Manu WorldStar](https://open.spotify.com/artist/4P9liSYQDYgABacn43YzV4), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe) | [To God's Ears \(feat\. Manu WorldStar, Nhlonipho & Slick Widit\)](https://open.spotify.com/album/2lDz3uPjNNJ6pRxc8N0sGo) | 3:55 |
 | 66 | [Kudala](https://open.spotify.com/track/7jquMUMKN5FWzgjTgQaLKK) | [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [While You Wait](https://open.spotify.com/album/45CN07jdqNWkKU5JE2eJhQ) | 5:13 |
 | 67 | [Sooner or Later](https://open.spotify.com/track/78iQfzUp6HcPN4AnONdqCf) | [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Sooner or Later](https://open.spotify.com/album/4ybDedFZDn9Y5G2wuc4KDA) | 3:04 |
-| 68 | [FIRST CLASS](https://open.spotify.com/track/1f2VfHlDSGQM2nLRSAh238) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [FIRST CLASS](https://open.spotify.com/album/0nPceCmpDo9TAvNvkISxkO) | 3:41 |
+| 68 | [FIRST CLASS](https://open.spotify.com/track/1f2VfHlDSGQM2nLRSAh238) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [FIRST CLASS](https://open.spotify.com/album/0nPceCmpDo9TAvNvkISxkO) | 3:48 |
 | 69 | [Inspire](https://open.spotify.com/track/7ettoH27TyeSODXT6spoow) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Malumz on Decks](https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS), [NAE \(SA\)](https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs) | [iLanga](https://open.spotify.com/album/0VP3ysbwTVoretQG6gC7Oh) | 5:52 |
 | 70 | [UYABALABALA](https://open.spotify.com/track/5rTY7H8nsBObD5ZNgr3XYL) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR), [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [UYABALABALA](https://open.spotify.com/album/2bYbwGqGtJNZrzEMDGrB4r) | 3:42 |
 | 71 | [AFTER HOURS](https://open.spotify.com/track/34mOVRtI5dzz5K4qQPAqBn) | [Real Nox](https://open.spotify.com/artist/37yerYkWszK8sKBXhEvryG), [DrummeRTee924](https://open.spotify.com/artist/7EBRU9cmJ711l9hh7uxTNR), [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu), [Kaygee The Vibe](https://open.spotify.com/artist/0dhf2gFU2DcfmiJnafkEnL) | [AFTER HOURS](https://open.spotify.com/album/7by2sazXbq21XfWPCQkJke) | 4:58 |

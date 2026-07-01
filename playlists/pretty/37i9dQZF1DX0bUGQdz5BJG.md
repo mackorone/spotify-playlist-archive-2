@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Max Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,567 likes - 215 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,614 likes - 215 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 128 | [Whiskey Won't](https://open.spotify.com/track/6B4oRzHp0s5q56g0BOaZFT) | [Kanaan Brock](https://open.spotify.com/artist/3mT9Fqi9eYdgSqKIqLvcr6) | [Whiskey Won't](https://open.spotify.com/album/1HyCv71s76yHToKmlgFVJE) | 3:08 |
 | 129 | [King Of Coal Dust County](https://open.spotify.com/track/0San9RoSR136UJzhAgSug0) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [King Of Coal Dust County](https://open.spotify.com/album/3tr1a9Sxn0iIfsML6tKJmZ) | 3:46 |
 | 130 | [Bleeding Out](https://open.spotify.com/track/6uWMgLQ5g0OB0lheMlw4nQ) | [Chase N Tyler](https://open.spotify.com/artist/0l0yhHebHW2nqtDIQZYsy2) | [Ain't No Quit In Our Blood](https://open.spotify.com/album/3OySPZiozg5pD2UJbMG09P) | 3:27 |
-| 131 | [I Do or Die](https://open.spotify.com/track/47HnrZ0zQDNg7upcgOtqyu) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Do or Die](https://open.spotify.com/album/1GSmeURnilId1kfyKK2VwU) | 3:40 |
+| 131 | [I Do Or Die](https://open.spotify.com/track/47HnrZ0zQDNg7upcgOtqyu) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [I Do Or Die](https://open.spotify.com/album/1GSmeURnilId1kfyKK2VwU) | 3:40 |
 | 132 | [CROOKED ROAD](https://open.spotify.com/track/47sb7pIsZeJ7v19Pcy8yZy) | [Dylan Wright](https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe) | [CROOKED ROAD](https://open.spotify.com/album/2zxfSHnDIzxmnfCsHrMgm3) | 3:22 |
 | 133 | [Take It Back](https://open.spotify.com/track/4BfCKvMa5ZDRvJ1SQICmSs) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Who You Are](https://open.spotify.com/album/2X3DZEzld6U84Jdo7tdAGZ) | 3:38 |
 | 134 | [When You Kiss Me Goodnight](https://open.spotify.com/track/5FG5av3BhGg7Dyg9uPdDEt) | [The Kruse Brothers](https://open.spotify.com/artist/3R58gxx259GoGeRrenhest), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [When You Kiss Me Goodnight](https://open.spotify.com/album/5sMH1kgr2Pt24jrUut0O2b) | 4:39 |

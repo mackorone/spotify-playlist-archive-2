@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 ### [Tech House Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> 50% techno, 50% house 🐈 Tech house operators, featuring DJ Tennis
+> 50% techno, 50% house 💜 Tech house operators, featuring DJ Tennis
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,044 likes - 130 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,112 likes - 130 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 129 | [Voce](https://open.spotify.com/track/44j8usDuYZaz6zx6WtDDpy) | [ESSE](https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19) | [Voce](https://open.spotify.com/album/4zlK48V8zCRDcz8kiny3Wz) | 2:51 |
 | 130 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 
-Snapshot ID: `AAAAAPeOKAog8YDdK7yKTUWhoexVJarD`
+Snapshot ID: `AAAAAHHovtZRuhQm58UgTQi29clQiTdW`

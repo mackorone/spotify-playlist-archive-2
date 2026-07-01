@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Nia Smith
 
-1,000 songs - 2 day 0 hr 56 min
+1,001 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Kill For Us](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:33 | 2026-06-04 | 2026-06-19 |
 | [Kill The Buddha](https://open.spotify.com/track/2bsusDVxGFVWKZec5tjAP2) | [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [Kill The Buddha](https://open.spotify.com/album/6JmvSaDVGCo8f07S4OMbUy) | 3:33 | 2026-04-10 | 2026-04-25 |
 | [KILLIN EM](https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [KILLIN EM](https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR) | 1:53 | 2026-06-25 |  |
+| [Knackered](https://open.spotify.com/track/54ySZZJ97QsQdydsTpsxuG) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/3mn36W4BM1OZiaDd8UmN1f) | [ᲘᲘ](https://open.spotify.com/album/3VssYONv9JggXulFIcQlds) | 2:33 | 2026-06-25 |  |
 | [Knock It](https://open.spotify.com/track/6bfKyXysd54p5f4rMZmcvI) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Knock It](https://open.spotify.com/album/2PqnmqLv4GWTvHCbVlM1aT) | 3:13 | 2026-05-07 | 2026-05-22 |
 | [KOLAY \(Stick\)](https://open.spotify.com/track/2ukSD65c5fAbGEQbA86TOx) | [Mighty](https://open.spotify.com/artist/2uKdwsWwPrwKzMh4pY4pb4), [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Shanika](https://open.spotify.com/artist/4bRIHVXfIPH6r3qe1Suybf) | [KOLAY \(Stick\)](https://open.spotify.com/album/6pHlYMiRJJe4J9Y4MJSyAh) | 2:29 | 2026-06-04 | 2026-06-19 |
 | [Kolomental](https://open.spotify.com/track/0S5i6O9lGZDSMheN8p17aE) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Wicked](https://open.spotify.com/album/5qiNP8sA873ePgXKzXuztO) | 2:48 | 2025-11-14 | 2025-11-21 |

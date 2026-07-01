@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,251 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,251 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 22 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 |
 | 23 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
 | 24 | [Dạo Bước Dưới Mùa Hè](https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:34 |
-| 25 | [Chờ Chia Tay](https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:06 |
-| 26 | [Benz ft\. V\# \(prod\. Larria.\)](https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:17 |
+| 25 | [Benz ft\. V\# \(prod\. Larria.\)](https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:17 |
+| 26 | [Chờ Chia Tay](https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:06 |
 | 27 | [traplock](https://open.spotify.com/track/5qpJGttNQHtVTbF6dCXz0W) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 3:10 |
 | 28 | [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 |
 | 29 | [Tan Ca](https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:08 |
-| 30 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
-| 31 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
+| 30 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
+| 31 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
 | 32 | [sweet savage](https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 2:21 |
 | 33 | [úm ba la xì bùa](https://open.spotify.com/track/2E9esf0fueLdAc0c1m64a6) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:33 |
 | 34 | [Hoàng Ku](https://open.spotify.com/track/2sCggTNr9EqiP7W97tnAIa) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Hoàng Ku](https://open.spotify.com/album/63sY910Q108Te3OjWqt1KH) | 3:03 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 46 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:16 |
 | 47 | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/track/1Si3UwZHOEUvayn45lcwqA) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/album/5mDCuDFwhlhKlmUBILSoRZ) | 3:07 |
 | 48 | [hắt xì hơi](https://open.spotify.com/track/3aEs5WVHT8oBPA95izGmIi) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [hắt xì hơi](https://open.spotify.com/album/1fiCWNNHDB9Fb4fhWN8KzE) | 3:35 |
-| 49 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
+| 49 | [Say That You Love Me](https://open.spotify.com/track/42EOWpTWFoAn56fBRJxN0T) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:36 |
 | 50 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 
 Snapshot ID: `AAAAAPGAo6i6VTCazm7PFkZJQP/hyWzh`

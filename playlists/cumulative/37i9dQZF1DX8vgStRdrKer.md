@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-813 songs - 2 day 21 hr 59 min
+814 songs - 2 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Atmosphere Is Shifting \- Live](https://open.spotify.com/track/0U42klnqrGN9WIqWMmBAbL) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Atmosphere Is Shifting \(Live\)](https://open.spotify.com/album/2OA7qYAr5ZzikxiaZgTiGt) | 10:29 | 2026-01-23 | 2026-03-04 |
 | [ATOFARATI](https://open.spotify.com/track/5JJCORb7DGLOUpPxCcNCwi) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [ATOFARATI](https://open.spotify.com/album/2zOO5doG10OaVijVrqsgMT) | 9:05 | 2025-09-12 | 2025-10-03 |
 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 | 2024-10-18 | 2025-05-30 |
-| [Available](https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Available](https://open.spotify.com/album/5t2SLnK7fLlEqVnRvm081u) | 3:08 | 2026-02-27 |  |
+| [Available](https://open.spotify.com/track/7IB7VmuWJV0IsMy9pQfcdm) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Available](https://open.spotify.com/album/5t2SLnK7fLlEqVnRvm081u) | 3:08 | 2026-02-27 | 2026-07-01 |
 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 | 2025-06-27 |
 | [Ayeyi](https://open.spotify.com/track/75csLQEYcOm3S8HVDL6FX6) | [Queendalyn Yurglee](https://open.spotify.com/artist/7CgCgY6thMKEKWc0h9iEWI) | [Ayeyi](https://open.spotify.com/album/62QjGeTeWvErqJJvQjc8K5) | 9:01 | 2025-07-04 | 2025-07-11 |
 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 | 2024-11-01 | 2025-06-20 |
@@ -383,6 +383,7 @@
 | [It's all about Jesus](https://open.spotify.com/track/0033J9wHuQAuOAGrDrQGyQ) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [It's all about Jesus](https://open.spotify.com/album/0uJrIIeTqcJJuP0R53sRfP) | 2:26 | 2025-06-06 | 2025-06-13 |
 | [It's You](https://open.spotify.com/track/4OgUgupBlYskKutfX6UsTw) | [Ayiba](https://open.spotify.com/artist/4ZzlkDq3VrsPW4TYhgAJiY) | [It's You](https://open.spotify.com/album/5GkyAi0MXss5cgtxmCTrqI) | 4:16 | 2026-06-12 |  |
 | [Iye re](https://open.spotify.com/track/6jsLwIpy0Ygel1E4Pb044R) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Iye re](https://open.spotify.com/album/1chftQ5YF2mVv9o8Wab8zG) | 2:56 | 2026-04-24 |  |
+| [Iyo Iyo](https://open.spotify.com/track/4TPcxjP5jGe061jKDcOYfM) | [Evan Olajide](https://open.spotify.com/artist/1mxs3ZUAx5ResgxqmevFje), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Iyo Iyo](https://open.spotify.com/album/4C3X0VJVk5rNpTBbdQE2R6) | 5:12 | 2026-06-26 |  |
 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 | 2024-03-22 | 2025-01-24 |
 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 | 2024-07-12 |
 | [JAGINMA](https://open.spotify.com/track/73vPpHMLDwR3t23Gzbx9Jk) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [JAGINMA](https://open.spotify.com/album/60rCu6OWKbkxo2oaa0Z6p0) | 3:06 | 2025-10-17 | 2025-12-24 |

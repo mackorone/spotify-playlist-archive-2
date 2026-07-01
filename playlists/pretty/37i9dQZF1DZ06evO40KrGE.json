@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABmg5IZ8WQmt1eDRRsS8LcG",
+  "snapshot_id": "akG1gAAAAACOZ+sQfXFv7vPplYEDSaZ5",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 232571,
+      "name": "Recompensa",
+      "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem \u00e9 Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/7kWHlrt0U9mKj9cUzbFwqu"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 399386,
       "name": "Quem \u00e9 Ele - Ao Vivo",
       "url": "https://open.spotify.com/track/7sbw0RaD6nxalNUtjAcKnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 232571,
-      "name": "Recompensa",
-      "url": "https://open.spotify.com/track/2jJrUywGnlCBziixCMf5JL"
     },
     {
       "added_at": null,

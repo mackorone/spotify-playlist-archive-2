@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Wordsplayed & Andy Mineo
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,839 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,837 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Still Praise You](https://open.spotify.com/track/3dHwzTrZSIebkL2VPn7omV) | [HERITVGE](https://open.spotify.com/artist/1Fh4jmCnu7PXa5rqmmasGX) | [Still Praise You](https://open.spotify.com/album/1n0xDcmIJ7JR6lOTJHWkvO) | 2:58 |
 | 98 | [A Symphony](https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [A Symphony](https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD) | 3:28 |
 | 99 | [Ambush](https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [Voyage](https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj) | 4:13 |
-| 100 | [It Is Well with My Soul](https://open.spotify.com/track/5WK3XBdYZRiWxW6gW8jjoi) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2) | [40 Hymns for Guitar](https://open.spotify.com/album/1ZmSKmWzQYFgbEAt3IqoqX) | 3:28 |
 
-Snapshot ID: `AAAAAHV9AuDOg/jjU/I/WP5b2bH43Rzi`
+Snapshot ID: `AAAAAD3Bq3pxIJa/Z2EQ9YrSdi41KSIs`

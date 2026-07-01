@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,483 songs - 9 day 23 hr 59 min
+4,485 songs - 10 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Come up and See Me](https://open.spotify.com/track/0emn0LIIhaxyg6b6Rl3cws) | [Teho Teardo](https://open.spotify.com/artist/3Amq9Iu3n8FEwaDq0sV5BL), [Blixa Bargeld](https://open.spotify.com/artist/0ecGioDyIR2QiyujHeiwHw) | [Still Smiling](https://open.spotify.com/album/7k0WGXPrNROKbejJ2Zhq90) | 4:45 | 2025-11-05 |  |
 | [ComeTe](https://open.spotify.com/track/2ECV2hrsNMx0kiSLTS8BSk) | [ETRE](https://open.spotify.com/artist/4KTgaVVDIvu8i1bbEKHmhx) | [ComeTe](https://open.spotify.com/album/0GtGIpHJJhLbA24uCKdj1s) | 2:40 | 2025-06-24 |  |
 | [comical](https://open.spotify.com/track/6BNXYLvJGBp3EBNoYcKQNM) | [6xat!c](https://open.spotify.com/artist/2uwEvDBKbB5xehCgTlYflx) | [comical](https://open.spotify.com/album/5uQn1YhgxrKRH5OzEN7iJS) | 2:35 | 2025-07-28 |  |
+| [Coming Alive](https://open.spotify.com/track/1BlAD4WwEs6zNx2fkhp2O6) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Coming Alive](https://open.spotify.com/album/3m87sHp8KkCCRJSXJIcLAe) | 3:13 | 2026-06-30 |  |
 | [como la luna](https://open.spotify.com/track/50zdQV83gf1guuk6bBBUDJ) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [como la luna](https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0) | 1:44 | 2026-06-19 |  |
 | [Companion](https://open.spotify.com/track/5gdTDWskPEc1QlJ4mukqBd) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC) | [Companion](https://open.spotify.com/album/4WuPNxFbBAuY9wyc0C3ptV) | 1:30 | 2025-05-16 |  |
 | [Company Car](https://open.spotify.com/track/13zKnltVahqjGRjFYKrYod) | [PLAY DEAD](https://open.spotify.com/artist/2XQ4KK7Ol8gTUBBLAkIF2j) | [Mug Cake](https://open.spotify.com/album/4b2FTmlWKSiCKPNY6djFfC) | 2:22 | 2025-11-05 |  |
@@ -1646,6 +1647,7 @@
 | [God Gave Us More](https://open.spotify.com/track/6KB88MYBB1CGut4RYHRPQs) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [Astral Dope](https://open.spotify.com/album/2RLsU51oCAs5nw9phvOumZ) | 4:35 | 2026-06-22 |  |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2025-04-09 |  |
 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 | 2025-11-05 |  |
+| [God's Englishman](https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [God's Englishman](https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe) | 3:41 | 2026-06-30 |  |
 | [going green](https://open.spotify.com/track/7dIclKcu97o52xHMXbioQk) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [going green](https://open.spotify.com/album/1N0ZHCWAJEHqVxVWUPq1Op) | 2:00 | 2025-07-28 |  |
 | [going red](https://open.spotify.com/track/3gdw3DAUSGF4Ge2ReCWxjE) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [going red](https://open.spotify.com/album/0nqJ1lB6XJo48s2c3cMn77) | 2:12 | 2025-05-16 |  |
 | [Going Viral \(another\)](https://open.spotify.com/track/2A59rniJY14wfB5Jm4g4jh) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Going Viral](https://open.spotify.com/album/4uuXqB7tKIKvr5pJ9dsLrV) | 2:34 | 2025-05-27 |  |
@@ -3326,7 +3328,7 @@
 | [Sesso & Vino](https://open.spotify.com/track/3jxMw9TxM04BgM6HF7Ve0t) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Sesso & Vino](https://open.spotify.com/album/0Cx1yXdH8B6tVxLO5jdVVW) | 3:09 | 2025-06-06 |  |
 | [Set Him Free](https://open.spotify.com/track/3WQUHix74Pp8RflJBNSNoX) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [Set Him Free](https://open.spotify.com/album/3aMryRUbkqhEUPUIc1PIL3) | 3:38 | 2025-11-02 |  |
 | [seven](https://open.spotify.com/track/3YzRYT7EtyE25xLljYqjoM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:04 | 2025-08-20 |  |
-| [Seven days a week](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven days a week](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 | 2025-09-17 |  |
+| [Seven days a week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven days a week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 | 2025-09-17 |  |
 | [seventeen](https://open.spotify.com/track/1ikx8mBXjEk45nbF6ZP7e5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:58 | 2025-08-20 |  |
 | [Sex Appeal](https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Sex Appeal](https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO) | 2:24 | 2024-10-06 |  |
 | [Sex Pest](https://open.spotify.com/track/0T32fh13xMmLivoaJNaerj) | [\[SCRAP\]](https://open.spotify.com/artist/5Nlu9OoO4dMMcxxV92sJb7) | [Sex Pest](https://open.spotify.com/album/1AMlkVRUDTup9D9NVm5F2F) | 2:25 | 2025-06-01 |  |

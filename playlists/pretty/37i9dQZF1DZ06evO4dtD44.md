@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,419 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,425 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 38 | [Izaura](https://open.spotify.com/track/4im3cvYs2A3dIjBDlXJU3C) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:28 |
 | 39 | [It Might As Well Be Spring \- Live At Carnegie Hall](https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 4:24 |
 | 40 | [Saudade Fêz Um Samba](https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:47 |
-| 41 | [É Luxo Só \- Ultimate Mix](https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 1:59 |
+| 41 | [O Barquinho](https://open.spotify.com/track/7AsVESJqlCHKQADfHpfNf9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Vocé e Eu](https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR) | 2:30 |
 | 42 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
-| 43 | [O Barquinho](https://open.spotify.com/track/7AsVESJqlCHKQADfHpfNf9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Vocé e Eu](https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR) | 2:30 |
+| 43 | [É Luxo Só \- Ultimate Mix](https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 1:59 |
 | 44 | [María Ninguém](https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 2:23 |
 | 45 | [Você Vai Ver](https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 |
 | 46 | [Um Abraco No Bonfa \- Live At Carnegie Hall/1964](https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \#2](https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Desde Que O Samba E Samba](https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 3:54 |
 | 50 | [Undiú](https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 6:37 |
 
-Snapshot ID: `akBkAAAAAAAqZ0lFjpM01DcWu/wmOb3i`
+Snapshot ID: `akG1gAAAAAAYBwKwGZcFMsS+vuyUHoya`

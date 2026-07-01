@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,764 likes - 50 songs - 13 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,769 likes - 50 songs - 13 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 27 | [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 |
 | 28 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 |
 | 29 | [Raga Mishra Manjh Khamaj: Chhitak Junaiya \(Pasar Ke Geet: Laoni Taal\)](https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7) | [Ruchira Panda](https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB), [Pandit Sanjay Mukherjee](https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn), [Anirban Chakrabarty](https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7) | [Music of the Pastoral, Vol\. 1](https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ) | 12:09 |
-| 30 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
-| 31 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
+| 30 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
+| 31 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
 | 32 | [Dheer Kaise: Raag Bageshri \(Drut Ektaal\)](https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Dheer Kaise: Raag Bageshri \(Drut Ektaal\)](https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB) | 7:29 |
 | 33 | [Raga Bhairavii: Baju Band Khul Khul Jani](https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 13:43 |
 | 34 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |

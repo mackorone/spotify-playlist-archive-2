@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with KETTAMA & Partiboi69
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,830 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828,671 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 69 | [Visualize](https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Finnuh](https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA) | [Visualize](https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz) | 3:18 |
 | 70 | [Let's Get Down](https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Let's Get Down](https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R) | 3:15 |
 | 71 | [Spirit Higher](https://open.spotify.com/track/5V1DrLET6vnoeerGE6ON25) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Spirit Higher](https://open.spotify.com/album/5FidC368bZdJWTqRomYvy9) | 3:36 |
-| 72 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
+| 72 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
 | 73 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 | 74 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |
 | 75 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |

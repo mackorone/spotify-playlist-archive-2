@@ -4103,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Paint It Red",
+        "url": "https://open.spotify.com/album/4Wi5IZG5ZIFs53Hr5tfJYN"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214594,
+      "name": "Paint It Red",
+      "url": "https://open.spotify.com/track/31giOS9KhpK97GcG9eT7PP"
+    },
+    {
+      "album": {
         "name": "X\u2019s For Eyes",
         "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
       },

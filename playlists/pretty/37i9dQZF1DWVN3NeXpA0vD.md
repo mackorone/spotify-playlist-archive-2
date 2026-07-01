@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,289 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,291 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 97 | [SICKO](https://open.spotify.com/track/2vDxrqUKTkgSxn7x3JYms9) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [SICKO](https://open.spotify.com/album/3kolpERtzYSxUzWpyxE7uE) | 2:37 |
 | 98 | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sweet & Sour \(feat\. Lauv & Tyga\)](https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL) | 2:43 |
 | 99 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk) | 3:06 |
-| 100 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 |
+| 100 | [Just Friends](https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Just Friends](https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL) | 2:48 |
 
 Snapshot ID: `AAAAAJxLk2Lx7ia9LlDfV0i2lgeZqI1y`

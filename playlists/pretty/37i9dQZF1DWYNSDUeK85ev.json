@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696820,
+  "num_followers": 696804,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -539,46 +539,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "P\u00c9GATE",
-        "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "DJ Roman",
-          "url": "https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y"
-        }
-      ],
-      "duration_ms": 137331,
-      "name": "P\u00c9GATE",
-      "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -607,6 +567,46 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "P\u00c9GATE",
+        "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "DJ Roman",
+          "url": "https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y"
+        }
+      ],
+      "duration_ms": 137331,
+      "name": "P\u00c9GATE",
+      "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -931,46 +931,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Auto Al Piso",
-        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Auto Al Piso",
-      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -999,6 +959,46 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Auto Al Piso",
+        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Auto Al Piso",
+      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Ritmo, Vol. 1",
+        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
+      },
+      "artists": [
+        {
+          "name": "Rkt",
+          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
+        }
+      ],
+      "duration_ms": 219211,
+      "name": "En el Party",
+      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Quiero Verte Bailar (DJ Alex Remix)",
         "url": "https://open.spotify.com/album/4oSOrj6okXZ4M4hOyLQbcf"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 171764,
       "name": "Quiero Verte Bailar - DJ Alex Remix",
       "url": "https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Ritmo, Vol. 1",
-        "url": "https://open.spotify.com/album/061ey5iAc8evXtWdY3CSwk"
-      },
-      "artists": [
-        {
-          "name": "Rkt",
-          "url": "https://open.spotify.com/artist/79IqrR42sN3ALgtibYWsaL"
-        }
-      ],
-      "duration_ms": 219211,
-      "name": "En el Party",
-      "url": "https://open.spotify.com/track/0yljGoheC8WIvdFx8W7eH9"
     },
     {
       "added_at": "2026-06-19 03:00:21",

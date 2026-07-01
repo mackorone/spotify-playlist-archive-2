@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2402,
+  "num_followers": 2401,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Un Nuevo Viaje",
-      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Bichos",
-      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+      "duration_ms": 124853,
+      "name": "Un Nuevo Viaje",
+      "url": "https://open.spotify.com/track/0amtQOumjJeGVMVbnq6EMl"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -607,8 +607,8 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
+        "name": "Vacaciones \u00a1Tope guay!",
+        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 69870,
-      "name": "\u00a1Qu\u00e9 empiece ya!",
-      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
+      "duration_ms": 235773,
+      "name": "Mi mam\u00e1",
+      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -687,8 +687,8 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Vacaciones \u00a1Tope guay!",
-        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Mi mam\u00e1",
-      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+      "duration_ms": 69870,
+      "name": "\u00a1Qu\u00e9 empiece ya!",
+      "url": "https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP"
     },
     {
       "added_at": "2020-04-27 15:43:16",

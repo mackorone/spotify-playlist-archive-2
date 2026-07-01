@@ -1,12 +1,12 @@
 {
   "description": "tasha on the cover <3",
-  "num_followers": 146487,
+  "num_followers": 146491,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFm8Lo5IGs9PHn/pCLuDHUikIUIY",
+  "snapshot_id": "AAAAABShZKkHQAO6fEuo1X65mBz/IWtr",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:51",
@@ -39,6 +39,22 @@
       "duration_ms": 276546,
       "name": "Special",
       "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
+    },
+    {
+      "added_at": "2026-06-30 16:42:39",
+      "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -183,22 +199,6 @@
       "duration_ms": 173833,
       "name": "dad im scared to age",
       "url": "https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Quick!",
-        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 318274,
-      "name": "Quick!",
-      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
     },
     {
       "added_at": "2026-06-19 04:01:40",

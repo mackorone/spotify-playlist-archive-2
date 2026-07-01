@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women, at full volume. Emel is co-curating EQUAL Arabia this month.\n",
+  "description": "Listen to Arab women, at full volume. Cover: Haifa Wehbe",
   "name": "EQUAL Arabia",
   "tracks": [
     {
@@ -746,6 +746,24 @@
       "duration_ms": 198089,
       "name": "Aghani Al Shouk",
       "url": "https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb"
+    },
+    {
+      "album": {
+        "name": "Nos Hala",
+        "url": "https://open.spotify.com/album/40O0l9iT14CZLBYfHvPzns"
+      },
+      "artists": [
+        {
+          "name": "Assala",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282540,
+      "name": "Ah Meen Aynah",
+      "url": "https://open.spotify.com/track/41oIOIH1ucXD4dmDijTMBK"
     },
     {
       "album": {
@@ -1825,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Konna Netlaka",
+        "url": "https://open.spotify.com/album/4vkuSbFlYdcZUItrukZeFi"
+      },
+      "artists": [
+        {
+          "name": "Fairuz",
+          "url": "https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244897,
+      "name": "Baadak Ala Baly",
+      "url": "https://open.spotify.com/track/67ubQBuUltyh88TdtJswhJ"
+    },
+    {
+      "album": {
         "name": "Baadni Bhebak",
         "url": "https://open.spotify.com/album/1Zg9xXXVmJvySNnlA9DBqJ"
       },
@@ -2648,7 +2684,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 202000,
       "name": "Chashm",
       "url": "https://open.spotify.com/track/7m9tqRXMeEb3jn2TFcsfeW"
@@ -2692,6 +2728,24 @@
       "duration_ms": 177438,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/2vbmlZNT3GNex5DaE1kO0h"
+    },
+    {
+      "album": {
+        "name": "Arabo-Cubano",
+        "url": "https://open.spotify.com/album/5VFrL9OiZnXR83F36qGBTS"
+      },
+      "artists": [
+        {
+          "name": "Hanine",
+          "url": "https://open.spotify.com/artist/3y7BL07kHwWEukmntMp8h5"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169296,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/6cBp82hK2xW1VvXGsE7O5x"
     },
     {
       "album": {
@@ -3196,7 +3250,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 210645,
       "name": "El Kedb",
       "url": "https://open.spotify.com/track/7vD1YufVV1EDNZs1tgiBxS"
@@ -4293,6 +4347,28 @@
     },
     {
       "album": {
+        "name": "Gannentini",
+        "url": "https://open.spotify.com/album/474cLK2iuKh468vGbrI9l1"
+      },
+      "artists": [
+        {
+          "name": "Nancy Mounir",
+          "url": "https://open.spotify.com/artist/4m5r3LO4fKgPUs45jEajMb"
+        },
+        {
+          "name": "Zaki Mourad",
+          "url": "https://open.spotify.com/artist/0cuFncsU7wnMTRLvBgAXLQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323801,
+      "name": "Gannentini",
+      "url": "https://open.spotify.com/track/7lBes5ACSeP6Yo4IL5SRdM"
+    },
+    {
+      "album": {
         "name": "Ghali",
         "url": "https://open.spotify.com/album/1vomYDGHrsyZt7VCkyS5q0"
       },
@@ -4326,6 +4402,24 @@
       "duration_ms": 192354,
       "name": "Ghalta",
       "url": "https://open.spotify.com/track/6zIXv7ielLKUY5dNI1lqCl"
+    },
+    {
+      "album": {
+        "name": "Helwa",
+        "url": "https://open.spotify.com/album/6k64y07I45X2yHRYJyTPWd"
+      },
+      "artists": [
+        {
+          "name": "Amar",
+          "url": "https://open.spotify.com/artist/5ABR2gVsVZ6Ma47en4ztrx"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234110,
+      "name": "Ghariba",
+      "url": "https://open.spotify.com/track/7tIUu6sPahSyqe3mZWTUVG"
     },
     {
       "album": {
@@ -4492,6 +4586,24 @@
       "duration_ms": 214362,
       "name": "Habiba",
       "url": "https://open.spotify.com/track/1meqGwp4PGEVXceQ8t1AaG"
+    },
+    {
+      "album": {
+        "name": "Leih Sebtaha",
+        "url": "https://open.spotify.com/album/0LyRF1HsXB2HP971UZNRPQ"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282868,
+      "name": "Habitak Leih",
+      "url": "https://open.spotify.com/track/62j1lINNInhgsxhsGLP35K"
     },
     {
       "album": {
@@ -5300,7 +5412,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 313586,
       "name": "J'ai Oubli\u00e9 Le Nom Des Oiseaux",
       "url": "https://open.spotify.com/track/1hax0USdXJ95PLADqDlCGv"
@@ -6173,6 +6285,28 @@
     },
     {
       "album": {
+        "name": "Leila (200 Shams Remix)",
+        "url": "https://open.spotify.com/album/5JOO9oOF634Y5KsMnO2FwZ"
+      },
+      "artists": [
+        {
+          "name": "MARCELINA",
+          "url": "https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi"
+        },
+        {
+          "name": "200 Shams",
+          "url": "https://open.spotify.com/artist/4Ak2clxvkKB3yh8tI8FjkM"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238541,
+      "name": "Leila - 200 Shams Remix",
+      "url": "https://open.spotify.com/track/2drCCvhzFigim2tVu6zIII"
+    },
+    {
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/2uXypWKKRp0X7YRMhAqGOK"
       },
@@ -6314,7 +6448,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "Lw",
       "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
@@ -7183,6 +7317,24 @@
     },
     {
       "album": {
+        "name": "Mesh Habibi Bas",
+        "url": "https://open.spotify.com/album/15rENBw7yFYHGAe2YBPlEv"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241163,
+      "name": "Mesh Habibi Bas",
+      "url": "https://open.spotify.com/track/1nOv83Igd6VoVoKNeGOGQJ"
+    },
+    {
+      "album": {
         "name": "Mezlaaj",
         "url": "https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6"
       },
@@ -7450,7 +7602,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 300713,
       "name": "Moon Boat",
       "url": "https://open.spotify.com/track/6Tp8KsHD8keV8pHPV2DvP7"
@@ -7938,7 +8090,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 179312,
       "name": "Niafiy\u00e9",
       "url": "https://open.spotify.com/track/32LPhx3fLLWtWYScoMIhrZ"
@@ -8140,7 +8292,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 309000,
       "name": "PRIVATE RUNWAY",
       "url": "https://open.spotify.com/track/1ScLs0SL5i5pHArc7AfFx3"
@@ -8390,7 +8542,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 182453,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/7E39jnOmNQV52Yxe1kRuXr"
@@ -9051,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "Shul Matloub",
+        "url": "https://open.spotify.com/album/3utTAcuGsFnvDhfHhZA51x"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108305,
+      "name": "Shul Matloub",
+      "url": "https://open.spotify.com/track/5JaF17AfofuEjc5jAC27IS"
+    },
+    {
+      "album": {
         "name": "Shway Shway",
         "url": "https://open.spotify.com/album/569KpQXH9KebsbcEjTI8jr"
       },
@@ -9408,7 +9578,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 229000,
       "name": "Talk Ur Talk",
       "url": "https://open.spotify.com/track/73Y2GXivOjrG8E5VFz52VI"
@@ -9559,6 +9729,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU"
+    },
+    {
+      "album": {
         "name": "Tholami",
         "url": "https://open.spotify.com/album/2AGYrWJihiTsyJz6lpLj7m"
       },
@@ -9632,7 +9820,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 246200,
       "name": "Toutes les filles",
       "url": "https://open.spotify.com/track/5W9gy6wnjyAvtk6enmhux8"
@@ -9672,6 +9860,24 @@
       "duration_ms": 176411,
       "name": "Tushkar",
       "url": "https://open.spotify.com/track/6tUQtTSX7noC1VFOlaYfsl"
+    },
+    {
+      "album": {
+        "name": "UmarKatu",
+        "url": "https://open.spotify.com/album/3soI9UiiOGcBNKpZikHIMx"
+      },
+      "artists": [
+        {
+          "name": "UYUH",
+          "url": "https://open.spotify.com/artist/4RUQvz5SBNtvfJ6f2sMTP5"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "UmarKatu",
+      "url": "https://open.spotify.com/track/7rXZzAfZINDHmBGynYvSvi"
     },
     {
       "album": {
@@ -10977,6 +11183,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627\u0646\u064a (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0633\u0644\u0645 \u0648\u0627\u0644\u062b\u0639\u0628\u0627\u0646: \u0644\u0639\u0628 \u0639\u064a\u0627\u0644)",
+        "url": "https://open.spotify.com/album/1n9HVURcDnOfc59yuxX3q1"
+      },
+      "artists": [
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198479,
+      "name": "\u0623\u0646\u0627\u0646\u064a (\u0645\u0646 \u0641\u064a\u0644\u0645 \u0627\u0644\u0633\u0644\u0645 \u0648\u0627\u0644\u062b\u0639\u0628\u0627\u0646: \u0644\u0639\u0628 \u0639\u064a\u0627\u0644)",
+      "url": "https://open.spotify.com/track/7la7ghkNw4NliIlXELUSXM"
+    },
+    {
+      "album": {
         "name": "\u0623\u0646\u0633\u0627\u0643",
         "url": "https://open.spotify.com/album/1FjKSu7MPy5dDQrA7FpFbn"
       },
@@ -11305,6 +11529,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
+        "url": "https://open.spotify.com/album/49xZ9aIX5FcUJp68g2zuM7"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174276,
+      "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
+      "url": "https://open.spotify.com/track/0dmDrpb754mYIssprDd6zG"
+    },
+    {
+      "album": {
         "name": "Elwarda Elbaida",
         "url": "https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO"
       },
@@ -11584,6 +11826,24 @@
       "duration_ms": 208316,
       "name": "\u0628\u064a\u0628\u0627\u0646 \u0627\u0644\u062e\u0648\u0641",
       "url": "https://open.spotify.com/track/2Ay6Pf8HGgkHV0IRo8Jx14"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
     },
     {
       "album": {
@@ -13328,6 +13588,24 @@
       "duration_ms": 235750,
       "name": "\u0648\u0645\u0639\u0627\u0643",
       "url": "https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
+        "url": "https://open.spotify.com/album/3tgmfcErtbKUtCtKH99pnJ"
+      },
+      "artists": [
+        {
+          "name": "Pousi",
+          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "\u0648\u0646\u0646\u0633\u0649 \u0627\u0644\u0644\u064a \u0643\u0627\u0646",
+      "url": "https://open.spotify.com/track/5ew2q5hC3OwnEWVB15uB9w"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Lesti
+> Dendang dangdut ngetop Tanah Air\. Cover: Mila DA7, Valen DA7
 
-304 songs - 1 day 0 hr 4 min
+305 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Matamu](https://open.spotify.com/track/4567XBj0AIseDcylxH3VMD) | [Meli](https://open.spotify.com/artist/11s9ZlR5AfrRW2vXUkpBO4) | [Matamu](https://open.spotify.com/album/08kfLLPvmYHfr8Zaqcrrsf) | 3:06 | 2023-05-18 | 2023-08-25 |
 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1) | [Matematika Cinta](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 4:53 | 2023-11-17 | 2024-11-29 |
 | [Maunya Apa Sih?](https://open.spotify.com/track/5ztHGFd8hHMYPSGERevtOY) | [Tommy Ali](https://open.spotify.com/artist/4eBRdZqPrrm48UmWCYngha) | [Maunya Apa Sih?](https://open.spotify.com/album/129lOLBQMRnOPWJcY8nC4e) | 3:40 | 2026-02-26 |  |
+| [Meleleh Bahagia](https://open.spotify.com/track/3c0V0U2cKhOXUVWL86jQ7z) | [Mila DA7](https://open.spotify.com/artist/7cntvd0cOrJUaDyW7CYsvN), [Valen DA7](https://open.spotify.com/artist/5g635pulRemuOvmgo41GRC) | [Meleleh Bahagia](https://open.spotify.com/album/7xdmIa7yr8rvYLsHSL4dXz) | 6:05 | 2026-06-30 |  |
 | [Melepasmu](https://open.spotify.com/track/5ahhrL4PMspbYlIqJEzIlv) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Melepasmu](https://open.spotify.com/album/5WumsUdGgys96NP3fT6XL6) | 6:10 | 2025-06-26 |  |
 | [Memandangmu](https://open.spotify.com/track/2rbRJydS6cK2TYDDHgTYG2) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [Danang](https://open.spotify.com/artist/5m5iTd6Xa4fITHqaN8d6eG) | [Memandangmu](https://open.spotify.com/album/6MzfZ9RzjxnbYO1S3RhvW1) | 5:05 | 2025-03-20 |  |
 | [Memori Berkasih](https://open.spotify.com/track/5LYzAfMFzCALsCw3wXzkIa) | [Arief](https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [Memori Berkasih](https://open.spotify.com/album/3Mi3AYmKgWKQNLQtPhOJmZ) | 5:54 | 2025-10-09 |  |

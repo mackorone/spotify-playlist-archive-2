@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Makropoulos",
-  "num_followers": 39235,
+  "num_followers": 39236,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-06-25 21:00:53",
       "album": {
-        "name": "Exigiste Mou",
-        "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 173308,
-      "name": "Exigiste Mou",
-      "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
-    },
-    {
-      "added_at": "2026-06-25 21:00:53",
-      "album": {
         "name": "Eipes",
         "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 243936,
       "name": "Eipes",
       "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
+    },
+    {
+      "added_at": "2026-06-25 21:00:53",
+      "album": {
+        "name": "Exigiste Mou",
+        "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 173308,
+      "name": "Exigiste Mou",
+      "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
     },
     {
       "added_at": "2026-06-25 21:00:53",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-25 21:00:53",
       "album": {
-        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
-        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 305263,
-      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
-      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
-    },
-    {
-      "added_at": "2026-06-25 21:00:53",
-      "album": {
         "name": "Deutera",
         "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 240222,
       "name": "Deutera",
       "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "added_at": "2026-06-25 21:00:53",
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
     },
     {
       "added_at": "2026-06-25 21:00:53",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-06-25 21:00:53",
       "album": {
+        "name": "Ola Gia Ola",
+        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 281503,
+      "name": "Ola Gia Ola",
+      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
+    },
+    {
+      "added_at": "2026-06-25 21:00:53",
+      "album": {
         "name": "Den Apantas",
         "url": "https://open.spotify.com/album/1vfjKo8jo84sTAiI5ciu5m"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 164181,
       "name": "Kati Xereis",
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
-    },
-    {
-      "added_at": "2026-06-25 21:00:53",
-      "album": {
-        "name": "Ola Gia Ola",
-        "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 281503,
-      "name": "Ola Gia Ola",
-      "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
     },
     {
       "added_at": "2026-06-25 21:00:53",

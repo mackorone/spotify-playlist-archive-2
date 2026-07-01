@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 44953,
+  "num_followers": 44966,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAACh9iXbm+bs2tGDoiYsYohJ",
+  "snapshot_id": "akG1gAAAAADjVLaBi5bDdJ0Y0MhozmNY",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANE",
+        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 197260,
+      "name": "MANE",
+      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POP DAT THANG (feat. GloRilla, Yung Miami & YKNIECE) [Official Remix]",
         "url": "https://open.spotify.com/album/1w388FR5FmKmAa6Ju1lrW1"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 213524,
       "name": "WYD (with GloRilla & Big Boogie)",
       "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MANE",
-        "url": "https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 197260,
-      "name": "MANE",
-      "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can You Please",
-        "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
-      },
-      "artists": [
-        {
-          "name": "GELO",
-          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 154505,
-      "name": "Can You Please (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Part 3",
         "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 153232,
       "name": "To The Side (with GloRilla)",
       "url": "https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can You Please",
+        "url": "https://open.spotify.com/album/0AuybXvfoqzt1NPpCKiiuI"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 154505,
+      "name": "Can You Please (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/1T86xlq1vFvWWUq1Wl2EiH"
     },
     {
       "added_at": null,

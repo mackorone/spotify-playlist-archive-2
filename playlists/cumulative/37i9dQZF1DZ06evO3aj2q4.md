@@ -4,7 +4,7 @@
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 41 min
+58 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Haunted](https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:05 | 2025-03-08 | 2026-05-18 |
 | [Haunted \- Live From Le Zénith,France/2004](https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:04 | 2025-03-08 | 2026-06-08 |
 | [Hi\-Lo \- feat\. Lindsey Stirling](https://open.spotify.com/track/6gWf8DlEgGSDChgrzOCfni) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Hi\-Lo \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/73CyYEWFPeRGWPuI1VJxsw) | 4:16 | 2025-03-08 | 2026-06-08 |
-| [How Do I Heal](https://open.spotify.com/track/5cJ0Hq2toS365zxFvGSvAE) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:49 | 2026-06-07 |  |
+| [How Do I Heal](https://open.spotify.com/track/5cJ0Hq2toS365zxFvGSvAE) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:49 | 2026-06-07 | 2026-07-01 |
 | [If You Don’t Mind](https://open.spotify.com/track/5XFvhTjWWDttRY2pi4SIwx) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 2:57 | 2025-03-08 |  |
 | [Imperfection](https://open.spotify.com/track/0TXI0l6soKX2UhB4bA69ts) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Synthesis](https://open.spotify.com/album/6NNgZE7QZi5mvDkA6aJsuF) | 4:23 | 2025-03-08 | 2026-06-11 |
 | [Lacrymosa](https://open.spotify.com/track/1M8YN6ekSgCnjc5UckHYpq) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 | 2025-03-08 |  |
@@ -64,6 +64,7 @@
 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 | 2025-03-08 |  |
 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 | 2025-03-08 |  |
 | [What You Want](https://open.spotify.com/track/0uOo8xRtQ6okTZMR89ppVk) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:41 | 2025-03-08 |  |
-| [Who Will You Follow](https://open.spotify.com/track/6XQdhnSZJqvhE6LxHEswCU) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/5JszBwCeRc1Psl5RU5oG7j) | 3:55 | 2026-04-12 |  |
+| [Who Will You Follow](https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr) | 3:55 | 2026-07-01 |  |
+| [Who Will You Follow](https://open.spotify.com/track/6XQdhnSZJqvhE6LxHEswCU) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/5JszBwCeRc1Psl5RU5oG7j) | 3:55 | 2026-04-12 | 2026-07-01 |
 
 \*This playlist was first scraped on 2025-03-08. Prior content cannot be recovered.

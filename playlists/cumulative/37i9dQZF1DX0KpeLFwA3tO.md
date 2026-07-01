@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Fiddlehead
 
-3,398 songs - 7 day 1 hr 59 min
+3,399 songs - 7 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-10 | 2023-04-09 |
 | [DOG HOUSE](https://open.spotify.com/track/1lqhub0atP7FkT5JA2NFkP) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOG HOUSE](https://open.spotify.com/album/3rQtGY9swdqTHrRor7uosQ) | 3:13 | 2024-09-05 | 2024-11-01 |
 | [DOG POUND](https://open.spotify.com/track/3FZaY7dTwbVFOA2e45vbin) | [Commitment](https://open.spotify.com/artist/6BDSYruuDE2UN8FidNylVn) | [DOG POUND](https://open.spotify.com/album/0m9VbcopBmqgovnyf9YNtT) | 1:26 | 2026-01-16 | 2026-02-28 |
-| [Dog Years](https://open.spotify.com/track/6aIvdrCnUurjjeT3LzPbfr) | [Smirk](https://open.spotify.com/artist/07iNk8rRYH0gXNXcewJ3n5) | [Dog Years](https://open.spotify.com/album/5PaiTi2st3ZgGSJphBQyBv) | 3:23 | 2026-05-22 |  |
+| [Dog Years](https://open.spotify.com/track/6aIvdrCnUurjjeT3LzPbfr) | [Smirk](https://open.spotify.com/artist/07iNk8rRYH0gXNXcewJ3n5) | [Dog Years](https://open.spotify.com/album/5PaiTi2st3ZgGSJphBQyBv) | 3:23 | 2026-05-22 | 2026-07-01 |
 | [Dogear](https://open.spotify.com/track/3CR95abHmSMKF1V7SXiXj3) | [J.R.C.G.](https://open.spotify.com/artist/4aNwMw5llWDwwA67i4sO7J) | [Dogear](https://open.spotify.com/album/16BjbpK5u6IOKJPhsR0UOD) | 5:23 | 2024-05-16 | 2024-06-28 |
 | [Dogs](https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd), [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Dogs](https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm) | 3:33 | 2024-10-04 | 2025-01-10 |
 | [Doigts de Metal](https://open.spotify.com/track/5yPFPkigFZ6Om3gkIWJJdg) | [Ultra Vomit](https://open.spotify.com/artist/4mnp6YW545j0Qb5PYS9Wmv) | [Doigts de Metal](https://open.spotify.com/album/7JKRoVcC4YMWWPKrcGnATX) | 3:06 | 2024-09-20 | 2024-11-16 |
@@ -2068,6 +2068,7 @@
 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 | 2024-07-11 | 2024-09-06 |
 | [No Love Lost](https://open.spotify.com/track/6PQA6MBU3xAsZKmahjF9Bg) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [No Love Lost](https://open.spotify.com/album/4NGdTUI88ytH8YUo2GAlNo) | 2:30 | 2026-04-03 | 2026-05-09 |
 | [No Me Jodas](https://open.spotify.com/track/5YQgVhiiM5mBa2BG801jHu) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [No Me Jodas](https://open.spotify.com/album/36AnLuLSwdVsDVZmLUYCF0) | 3:37 | 2026-03-27 | 2026-05-02 |
+| [No Me Jodas](https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Public Luxury](https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B) | 3:37 | 2026-06-30 |  |
 | [No More Photos](https://open.spotify.com/track/5RVqNzSqJHTUG8GgCxgLLg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [No More Photos](https://open.spotify.com/album/4TzrLB7kyyeHiQ6cbzKdq2) | 3:13 | 2024-08-23 | 2024-10-18 |
 | [No News Is Good News](https://open.spotify.com/track/6cZntUHzJ0shH0wq7mEKUg) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [No News Is Good News](https://open.spotify.com/album/7sLi0samb6YmLrHzVa94Ei) | 3:29 | 2024-02-23 | 2024-04-26 |
 | [No Obligation](https://open.spotify.com/track/5AnKgZ8Ctag36HxyPP5Uzn) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/1HVe5wBBPAASqbV4j6qhQg) | 2:06 | 2024-09-12 | 2024-11-16 |
@@ -3277,7 +3278,7 @@
 | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/track/0g6olXNFO0lM3QVzjXDiS3) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh), [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy), [Colin Young](https://open.spotify.com/artist/1Czqbs3tZ9A71hT3SytLvw) | [When It Betrays \(feat\. Colin Young\)](https://open.spotify.com/album/5fQ5kzqWf2LC7vmg7BJytl) | 2:50 | 2025-01-31 | 2025-04-04 |
 | [When Kevin Gets Free](https://open.spotify.com/track/2NqWTLHUCTzWC1L0jXEwIc) | [Public Opinion](https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF) | [When Kevin Gets Free](https://open.spotify.com/album/1K8p9jifebz5M3mMwTMSvP) | 1:54 | 2026-06-05 |  |
 | [When The Band Breaks Up Again](https://open.spotify.com/track/00SjZFplLEDMtpFPNKRyHw) | [Walter Etc.](https://open.spotify.com/artist/6oosocT7xXnTK2ehoe28mJ) | [When The Band Breaks Up Again](https://open.spotify.com/album/3WmGFABXLF7taKg7aWLmJO) | 1:40 | 2023-06-15 | 2023-07-21 |
-| [when we were friends](https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [when we were friends](https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3) | 2:25 | 2026-05-22 |  |
+| [when we were friends](https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [when we were friends](https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3) | 2:25 | 2026-05-22 | 2026-07-01 |
 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2022-10-13 | 2023-01-20 |
 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-04-12 | 2024-06-14 |
 | [When You Know You Know](https://open.spotify.com/track/3DpvrjdkaRAinFhNLoJuKa) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:08 | 2022-09-15 | 2022-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Hamilton is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,054 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,997 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 36 | [WO OH OH](https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:29 |
 | 37 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
 | 38 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:39 |
-| 39 | [TUKI TUKI](https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 3:11 |
+| 39 | [TUKI TUKI](https://open.spotify.com/track/0bn8tRZZtmn6Zdq82T1mOf) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU) | 3:11 |
 | 40 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 |
 | 41 | [SOLO DIOS SABE](https://open.spotify.com/track/4tQYvX7knApFyQoNoMP2vw) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [SOLO DIOS SABE](https://open.spotify.com/album/5Kr4c08tnCOJFDZysQg0fl) | 2:32 |
 | 42 | [Amor Bandido V3](https://open.spotify.com/track/2ctz5dNdgBbSRlEHOaFxyf) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Jan Glack](https://open.spotify.com/artist/0Vg3WP6VS3IuKYwvnGsJFh) | [Amor Bandido V3](https://open.spotify.com/album/0LD3dOzQxAbzALzdvKCH9a) | 2:46 |

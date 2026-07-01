@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 262 songs - 13 hr 50 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 267 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,5 +270,10 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 260 | [Heart of glass](https://open.spotify.com/track/7iBlEvdq7wmGdmb9FCNVPR) | [KAIFlaiy](https://open.spotify.com/artist/4B6GyvcrfRvy2i2CCzBWtS) | [Heart of glass](https://open.spotify.com/album/0SV4qCRVN9uRzKLSpiV5F0) | 3:05 |
 | 261 | [Cadeado na Cabeça](https://open.spotify.com/track/2cRuFyGzf3dqC7VvWGu97Q) | [Trilogia Urbana](https://open.spotify.com/artist/7JEEQ1GSiNLKy8RNgEFlOM) | [Cadeado na Cabeça](https://open.spotify.com/album/37gI2wJQTpRB5TUdWNpSSD) | 2:48 |
 | 262 | [Assassinatus Ruber](https://open.spotify.com/track/4E2MuFuLMGWTpvN3SkRwar) | [Ilay Sonoro](https://open.spotify.com/artist/3RZz4uk2brWykLANiPv4Bv) | [Assassinatus Ruber](https://open.spotify.com/album/6rbJISzJPnWbZSp8lcY5rF) | 4:39 |
+| 263 | [BURI ENDEMONIAO](https://open.spotify.com/track/6OYOWLHlok3ProIUXIyW10) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Tente](https://open.spotify.com/artist/1LAGbvUX2QG5pAtnVhwl2M), [EL TIO ZETTA](https://open.spotify.com/artist/52prEhuq9zDgQht8UfCLe0) | [BURI ENDEMONIAO](https://open.spotify.com/album/1qTnvUtjY681bIevE4Z2Wc) | 1:58 |
+| 264 | [Julie](https://open.spotify.com/track/4ppjfF1wbORmSAMAnzTE0O) | [R.A.G.Z.](https://open.spotify.com/artist/2zvknLzskQCJLxpHOEY18d) | [Julie](https://open.spotify.com/album/6qkM8RySVoePuyOjI4H8TX) | 5:32 |
+| 265 | [Sin ir tan lejos](https://open.spotify.com/track/3ad5lw5L4WZVObfvgVsCWL) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Giovanni Tonight](https://open.spotify.com/artist/2q9fWbtFZdI3il6GffVCfp) | [Los Testamentos](https://open.spotify.com/album/6GK49Zb0RCnDjkCu8iEUg4) | 2:51 |
+| 266 | [FRESA](https://open.spotify.com/track/6MW4bg0ThytV9jELeTYkI2) | [Jack SS](https://open.spotify.com/artist/2oQMY35cF4L9Xvaksl8ifB) | [FRESA](https://open.spotify.com/album/4uqqB0p3BjugeFdIVzvdD1) | 1:54 |
+| 267 | [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 |
 
-Snapshot ID: `AAAWDBGvmcB/a0fsIf+BqEr7r0WHb+Tx`
+Snapshot ID: `AAAWETS72PrTSpY5kOFdT+3evldTi8GT`

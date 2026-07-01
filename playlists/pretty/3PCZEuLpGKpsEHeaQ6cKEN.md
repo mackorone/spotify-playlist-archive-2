@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 258,610 likes - 432 songs - 22 hr 39 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 258,591 likes - 432 songs - 22 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 37 | [Love Claim](https://open.spotify.com/track/3e4rGQEn494zPrgTO9GjIk) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Love Claim](https://open.spotify.com/album/0RLgRszGbI9FPu7Fm1dBr6) | 2:58 |
 | 38 | [Gravity](https://open.spotify.com/track/6vNydze5Xmuiufk6gUQ5W9) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI) | [Gravity](https://open.spotify.com/album/5dlfsksB2j0pyMFLSdpDe6) | 3:42 |
 | 39 | [Serendipity](https://open.spotify.com/track/5x3iOxVPDySJaUtsr6USIe) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [Serendipity](https://open.spotify.com/album/6NuakLFnJhQUNFBVxrUtXR) | 3:37 |
-| 40 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
+| 40 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 41 | [Dark Love](https://open.spotify.com/track/272zNOGMxYSxDP9kAaCnPn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Dark Love](https://open.spotify.com/album/2GNCMmvymEw8GW4e3MBsmt) | 3:12 |
 | 42 | [She A Freak](https://open.spotify.com/track/19GpT6cvU5AOjChE4pXqbI) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [She A Freak](https://open.spotify.com/album/36RZEcH5nrERWd9KxHfe0B) | 2:48 |
 | 43 | [Discopolis 2.0 \- 2015 Rework](https://open.spotify.com/track/5wroYfXQb6ytyIWRC0lUoT) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0) | [Discopolis 2.0](https://open.spotify.com/album/4OmT94GgE8Y6TA6514jbf8) | 4:28 |

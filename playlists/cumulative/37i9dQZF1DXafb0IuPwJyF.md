@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: 米津玄師
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: YOASOBI
 
-1,808 songs - 4 day 15 hr 53 min
+1,809 songs - 4 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 | 2022-03-13 | 2022-04-11 |
 | [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 | 2025-11-11 | 2026-01-15 |
 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 | 2022-07-10 | 2022-08-02 |
-| [Follow Me](https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Follow Me](https://open.spotify.com/album/334wq5LsvTbKOIauntarEf) | 3:47 | 2026-06-02 |  |
+| [Follow Me](https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Follow Me](https://open.spotify.com/album/334wq5LsvTbKOIauntarEf) | 3:47 | 2026-06-02 | 2026-07-01 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-30 | 2023-05-15 |
 | [For bbys](https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [19.5](https://open.spotify.com/album/7aoxCAZQG1RINt6c0uYqtQ) | 2:31 | 2024-03-26 | 2024-05-22 |
 | [FOREVER](https://open.spotify.com/track/217wGZ7qxq9Id0JjlZhw2V) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [FOREVER](https://open.spotify.com/album/6VARq97kNwGMDwNOJdAfHv) | 3:51 | 2022-04-24 | 2022-05-02 |
@@ -1175,6 +1175,7 @@
 | [エルフ](https://open.spotify.com/track/5pnqpz99CGAvdzmMRsB5sD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [エルフ](https://open.spotify.com/album/7bstlR1nYVqjkyTlYKzv9D) | 4:20 | 2025-02-04 | 2025-05-28 |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-08 | 2025-04-16 |
 | [オドロウゼ！](https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [オドロウゼ！](https://open.spotify.com/album/2mBBbMDUPBWUpwLoJcEp3u) | 3:51 | 2026-03-03 | 2026-04-29 |
+| [オリオン](https://open.spotify.com/track/6VpeCZDyuFJD3HW5bwEc8Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK for,](https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA) | 3:26 | 2026-06-30 |  |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-18 | 2024-07-10 |
 | [カノープス](https://open.spotify.com/track/7Ai1pvWlZhefnnn7zt5yxA) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [カノープス](https://open.spotify.com/album/4NtyZmtkTcgejBosHTQ5Pl) | 3:38 | 2025-04-15 | 2025-05-21 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-02-27 | 2022-06-06 |

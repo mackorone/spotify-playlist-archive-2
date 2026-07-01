@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 470 songs - 23 hr 43 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 475 songs - 23 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -478,5 +478,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 468 | [Le corde della vita \- Home Version](https://open.spotify.com/track/54KDE8ObwHuPXbp647z3Bq) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Le corde della vita \(Home Version\)](https://open.spotify.com/album/2YZP47EHiWSjWHe25F82SJ) | 2:25 |
 | 469 | [Planet Nine](https://open.spotify.com/track/6Z2O6kpKGU8dCad66D7y2z) | [The Legendary Ten Seconds](https://open.spotify.com/artist/1tzb1W477F4SZUgdfSUyZ4) | [Sci Fi Hi Fi](https://open.spotify.com/album/4RJoTCP91GPkEkXl3zBvKn) | 2:48 |
 | 470 | [Coming In](https://open.spotify.com/track/0YQTEzdcm679GOdaHSIdNk) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Coming In](https://open.spotify.com/album/0Ki35gQYJkOBKlYUptBtlb) | 2:16 |
+| 471 | [Everything You Had For Me](https://open.spotify.com/track/7x0d09N1favgyVJX4UhfqQ) | [Geet Nayak](https://open.spotify.com/artist/6BtoKVkCjI0zOuumvXDswo) | [Detonated](https://open.spotify.com/album/66IxFZIff05bB2kPLKogzG) | 3:12 |
+| 472 | [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 |
+| 473 | [FAR APART](https://open.spotify.com/track/5gxXCwcRe21ux7WzDZwltc) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [FAR APART](https://open.spotify.com/album/3tujgnwVYirnjvvIGHrNqc) | 2:07 |
+| 474 | [Love Can Conquer All](https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd) | [Gravity 180](https://open.spotify.com/artist/2TKmTmVekVE3awZeJUOME5) | [Love Can Conquer All](https://open.spotify.com/album/2xTGBojPjGNKBLkaS6L9K1) | 4:12 |
+| 475 | [Drunk](https://open.spotify.com/track/5l87Vam31WP0rQ6OdTWple) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Drunk](https://open.spotify.com/album/33ysXvwqJMGJ0N85kdoc3K) | 3:41 |
 
-Snapshot ID: `AAAcfkualh+MAgTMT3qX3j5js5M9ZWDq`
+Snapshot ID: `AAAcg+J3hKCIe4gV1/XbXSb6NAd1mwfU`

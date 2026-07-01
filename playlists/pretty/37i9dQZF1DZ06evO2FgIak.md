@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,424 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,427 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Back to the Chicken Shack \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 6:28 |
 | 50 | [Close to You](https://open.spotify.com/track/62qspfndVN2mso1u2sE06b) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [IN THE DELTA](https://open.spotify.com/album/6qNqLN4k9bJPFfrw9L0EcG) | 3:05 |
 
-Snapshot ID: `akBkAAAAAACKiztBLwY7W/h1kp3570sM`
+Snapshot ID: `akG1gAAAAABqco1AsI93tB6XXzZyHCX3`

@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: Hearts2Hearts
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: Keyveatz
 
-1,758 songs - 3 day 20 hr 37 min
+1,760 songs - 3 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,7 +767,7 @@
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-17 | 2023-01-18 |
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-20 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-24 |
-| [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 | 2026-05-05 |  |
+| [Key Beats](https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [Key Beats](https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK) | 2:10 | 2026-05-05 | 2026-07-01 |
 | [Keychain \- from Original Motion Picture Soundtrack K\-POPS!](https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Keychain \(from Original Motion Picture Soundtrack K\-POPS!\)](https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02) | 2:50 | 2026-02-27 | 2026-04-25 |
 | [KILLA \(Face the other me\)](https://open.spotify.com/track/66fjOHg3C0mKJwEckZ875l) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [CRACK CODE](https://open.spotify.com/album/4lCQ7EHjnx9fR9a79RKJ2i) | 2:56 | 2026-03-31 |  |
 | [Killer](https://open.spotify.com/track/62DuGCeDO3gfVkKe0gBM9m) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Killer \- The 2nd Album Repackage](https://open.spotify.com/album/4l5BZ4tjisNEvwVa1rXDEv) | 3:50 | 2023-02-13 | 2023-05-10 |
@@ -1009,6 +1009,7 @@
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-01-25 |
 | [No Biggie](https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [No Biggie](https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX) | 3:01 | 2024-05-01 | 2024-07-10 |
 | [No Doubt \- Japanese Ver\. / Digital Only](https://open.spotify.com/track/5l5xxFoUI1IFLZDQBwhKrQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\- \(JAPAN Edition\)](https://open.spotify.com/album/2k58zfsAwrvH8OfHx9RXd7) | 2:47 | 2024-11-18 | 2025-03-07 |
+| [NO Game Over \- QUARTET ver.](https://open.spotify.com/track/7bIXucIKICFValNNs88vXd) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [QUARTET \(Extra Edition\)](https://open.spotify.com/album/2kfBVdpcThogvM0MzqQBSE) | 2:48 | 2026-06-30 |  |
 | [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 | 2024-04-12 | 2024-05-11 |
 | [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-12-01 | 2024-04-24 |
 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 | 2023-06-16 |
@@ -1075,6 +1076,7 @@
 | [Over You \(feat\. aespa & Chris Martin\)](https://open.spotify.com/track/7MSZg4Km8CM7NRXTeJoANZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 2:53 | 2024-02-29 | 2024-04-03 |
 | [OVERDRIVE](https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:55 | 2023-06-22 | 2023-08-02 |
 | [overture\~the blue wave](https://open.spotify.com/track/7Ca4bRzuQixXDgbFJPCtpO) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [overture\~the blue wave](https://open.spotify.com/album/1ekhNc9hfTnNrqfygHwu53) | 3:37 | 2024-09-19 | 2024-09-25 |
+| [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 | 2026-06-30 |  |
 | [Pain is Beautiful](https://open.spotify.com/track/6bU60cEu5E7l9unwEfGxjV) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Not Nightmare Christmas](https://open.spotify.com/album/1Mm2ohyMaIWZKKieokClID) | 3:19 | 2023-12-19 | 2023-12-30 |
 | [PainDrop \(by SeoYeon, JiWoo, YuBin, SoHyun\)](https://open.spotify.com/track/0lBpd8IbpD4m7BydKwNPqk) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Friendly Rivalry \(Music from the U+ Original Series\), Pt\. 4](https://open.spotify.com/album/0nRjUGQcqLiG3QjiHw6n5p) | 3:32 | 2025-03-04 | 2025-06-27 |
 | [PANDA](https://open.spotify.com/track/2QeuakrxtOESvNyROxyN1G) | [Celest1a](https://open.spotify.com/artist/7hMOFPZVD8QWoAXtaYWXld) | [PANDA](https://open.spotify.com/album/14bpdzXr1wJ7AnvNgM2Ij4) | 3:06 | 2024-07-30 | 2024-09-25 |
@@ -1138,7 +1140,7 @@
 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-01-31 | 2023-03-29 |
 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 | 2023-09-26 | 2024-04-27 |
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-20 | 2025-03-07 |
-| [Quartet](https://open.spotify.com/track/5mLciiSfvG8tUDU4siKN3J) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Quartet](https://open.spotify.com/album/7u7qPeCZWeVXbAhUGV38cI) | 3:25 | 2026-05-11 |  |
+| [Quartet](https://open.spotify.com/track/5mLciiSfvG8tUDU4siKN3J) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Quartet](https://open.spotify.com/album/7u7qPeCZWeVXbAhUGV38cI) | 3:25 | 2026-05-11 | 2026-07-01 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-08-24 |
 | [Queen of Hearts](https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN \-Japanese version\-](https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN) | 2:25 | 2022-10-18 | 2023-02-09 |
 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-05-15 | 2023-09-21 |

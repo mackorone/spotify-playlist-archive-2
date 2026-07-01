@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 159031,
+  "num_followers": 159055,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "CALMA",
+        "url": "https://open.spotify.com/album/21gKiglkiX3VY4PjHrKd0h"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 169604,
+      "name": "CALMA",
+      "url": "https://open.spotify.com/track/0ViCt3vmm2CAxI2VaOMafa"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "De Cabeza",
         "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "CALMA",
-        "url": "https://open.spotify.com/album/21gKiglkiX3VY4PjHrKd0h"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 169604,
-      "name": "CALMA",
-      "url": "https://open.spotify.com/track/0ViCt3vmm2CAxI2VaOMafa"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Corazon Cerrado",
         "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
       },
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "VIVE",
+        "url": "https://open.spotify.com/album/2brR0s3blQgdHhQaTIcEmH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 223914,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/5sbL2s9BSqy12XudGLmrje"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Mqb",
         "url": "https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 166779,
       "name": "DIOS es el que SABE",
       "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "VIVE",
-        "url": "https://open.spotify.com/album/2brR0s3blQgdHhQaTIcEmH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 223914,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/5sbL2s9BSqy12XudGLmrje"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 171703,
-      "name": "Rumbo Pa La Iglesia",
-      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Lo Mejor De La Vida (Cumbia Remix)",
         "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
       },
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 171703,
+      "name": "Rumbo Pa La Iglesia",
+      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -1167,34 +1167,6 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "EASY (REMIX)",
-        "url": "https://open.spotify.com/album/3sw0yFMKkzOiNtT8vpdeQI"
-      },
-      "artists": [
-        {
-          "name": "Giovani",
-          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
-        },
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "Guerrero De Cristo",
-          "url": "https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H"
-        },
-        {
-          "name": "Temperamento",
-          "url": "https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij"
-        }
-      ],
-      "duration_ms": 169494,
-      "name": "EASY - REMIX",
-      "url": "https://open.spotify.com/track/2X3oy7KFbJcaMPl2pT8j9t"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1227,6 +1199,34 @@
       "duration_ms": 222715,
       "name": "Lamento En Baile",
       "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "EASY (REMIX)",
+        "url": "https://open.spotify.com/album/3sw0yFMKkzOiNtT8vpdeQI"
+      },
+      "artists": [
+        {
+          "name": "Giovani",
+          "url": "https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG"
+        },
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "Guerrero De Cristo",
+          "url": "https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H"
+        },
+        {
+          "name": "Temperamento",
+          "url": "https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij"
+        }
+      ],
+      "duration_ms": 169494,
+      "name": "EASY - REMIX",
+      "url": "https://open.spotify.com/track/2X3oy7KFbJcaMPl2pT8j9t"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Abatido",
         "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 289043,
       "name": "Abatido",
       "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Yo Soy Cristiano",
-        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        },
-        {
-          "name": "La Cuarta Tribu",
-          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
-        }
-      ],
-      "duration_ms": 203368,
-      "name": "Yo Soy Cristiano",
-      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Pero Tengo a Cristo (Remix)",
         "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 221350,
       "name": "Pero Tengo a Cristo - Remix",
       "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Yo Soy Cristiano",
+        "url": "https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        },
+        {
+          "name": "La Cuarta Tribu",
+          "url": "https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7"
+        }
+      ],
+      "duration_ms": 203368,
+      "name": "Yo Soy Cristiano",
+      "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
+      },
+      "artists": [
+        {
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
+        }
+      ],
+      "duration_ms": 238695,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Poderoso De Israel",
         "url": "https://open.spotify.com/album/32KgLASqrbxqMGIxaQBp0x"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 138750,
       "name": "Poderoso De Israel",
       "url": "https://open.spotify.com/track/0iUC2K64fXVbzyh9XVdUfq"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 238695,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
     },
     {
       "added_at": "2026-04-25 04:59:02",

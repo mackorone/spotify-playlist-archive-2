@@ -3411,6 +3411,36 @@
     },
     {
       "album": {
+        "name": "BAMBOO",
+        "url": "https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy"
+      },
+      "artists": [
+        {
+          "name": "\u52e2\u559c\u904a",
+          "url": "https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        },
+        {
+          "name": "HANATANI",
+          "url": "https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak"
+        },
+        {
+          "name": "Cota Mori",
+          "url": "https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "BAMBOO",
+      "url": "https://open.spotify.com/track/2q2XA70NRreC33odqvghf9"
+    },
+    {
+      "album": {
         "name": "Banggg",
         "url": "https://open.spotify.com/album/3mWHF2gfMwZgcdMzi8MRGh"
       },

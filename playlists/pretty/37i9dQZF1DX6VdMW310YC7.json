@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3904461,
+  "num_followers": 3904303,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -276,14 +276,6 @@
       },
       "artists": [
         {
-          "name": "LE YORA",
-          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
-        },
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
           "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
         },
@@ -292,8 +284,16 @@
           "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
         },
         {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
           "name": "MAGNUS",
           "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
         }
       ],
       "duration_ms": 302044,
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
       },
@@ -443,38 +423,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "The Sun Comes Up Tremendous",
-        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 213284,
-      "name": "The Sun Comes Up Tremendous",
-      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -507,6 +471,42 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "The Sun Comes Up Tremendous",
+        "url": "https://open.spotify.com/album/7ky5M7uzAkPGBbHLgvCKZB"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 213284,
+      "name": "The Sun Comes Up Tremendous",
+      "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -667,6 +667,26 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Sunset In Pretoria",
+        "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Sunset In Pretoria",
+      "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "ABOUT YOU",
         "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 176470,
       "name": "YOUR EYES",
       "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Sunset In Pretoria",
-        "url": "https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
-        }
-      ],
-      "duration_ms": 238032,
-      "name": "Sunset In Pretoria",
-      "url": "https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Caught Up In The Fire",
         "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223538,
       "name": "Caught Up In The Fire",
       "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "More To Life",
-        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        },
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
-        }
-      ],
-      "duration_ms": 204374,
-      "name": "More To Life",
-      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Change of Driver",
         "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
       },
@@ -939,6 +919,50 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lilly",
+          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1083,30 +1107,6 @@
       "duration_ms": 359040,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lilly",
-          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Fire To The Water",
         "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
       },
@@ -1367,6 +1367,26 @@
       "duration_ms": 222148,
       "name": "Fire To The Water",
       "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Sun & Rain",
+        "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
+      },
+      "artists": [
+        {
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Run Rivers",
+          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "Sun & Rain",
+      "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1391,26 +1411,6 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Sun & Rain",
-        "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
-      },
-      "artists": [
-        {
-          "name": "Deeparture",
-          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
-        },
-        {
-          "name": "Run Rivers",
-          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Sun & Rain",
-      "url": "https://open.spotify.com/track/7bqtONADSmsbMHy57EVGix"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "edges",
         "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
       },
@@ -1599,18 +1615,26 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
       "artists": [
         {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
         }
       ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1647,18 +1671,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+      "duration_ms": 203000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1687,6 +1715,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
@@ -1703,30 +1747,6 @@
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "I Cared For You",
-        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "Noah Kulaga",
-          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "I Cared For You",
-      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1751,26 +1771,6 @@
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
     },
     {
       "added_at": "2026-06-26 04:01:21",

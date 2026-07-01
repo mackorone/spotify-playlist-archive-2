@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 590370,
+  "num_followers": 590463,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -60,14 +60,6 @@
       },
       "artists": [
         {
-          "name": "LE YORA",
-          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
-        },
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
           "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
         },
@@ -76,8 +68,16 @@
           "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
         },
         {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
           "name": "MAGNUS",
           "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
         }
       ],
       "duration_ms": 302044,
@@ -1135,6 +1135,30 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
+        "name": "Keep Me Close",
+        "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Keep Me Close",
+      "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
+    },
+    {
+      "added_at": "2026-06-26 15:27:45",
+      "album": {
         "name": "Believe In Us",
         "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
       },
@@ -1159,30 +1183,6 @@
       "duration_ms": 188852,
       "name": "Believe In Us",
       "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
-    },
-    {
-      "added_at": "2026-06-26 15:27:45",
-      "album": {
-        "name": "Keep Me Close",
-        "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "Sickluv",
-          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
-        },
-        {
-          "name": "Jake Neumar",
-          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Keep Me Close",
-      "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "Selva Selva",
-        "url": "https://open.spotify.com/album/1NHQlIsczGNZOh5V7w1hhl"
+        "name": "Nothing Wrong",
+        "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
         }
       ],
-      "duration_ms": 269217,
-      "name": "Selva Selva",
-      "url": "https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P"
+      "duration_ms": 205161,
+      "name": "Nothing Wrong - Love Mix",
+      "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "Nothing Wrong",
-        "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
+        "name": "Selva Selva",
+        "url": "https://open.spotify.com/album/1NHQlIsczGNZOh5V7w1hhl"
       },
       "artists": [
         {
-          "name": "OMRI.",
-          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Nothing Wrong - Love Mix",
-      "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
+      "duration_ms": 269217,
+      "name": "Selva Selva",
+      "url": "https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-06-26 15:27:45",
-      "album": {
         "name": "Bilmirem",
         "url": "https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 162937,
       "name": "Bilmirem",
       "url": "https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ"
+    },
+    {
+      "added_at": "2026-06-26 15:27:45",
+      "album": {
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2155,30 +2155,6 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
-      },
-      "artists": [
-        {
-          "name": "Naarly",
-          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
-        },
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Romy Janssen",
-          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
-    },
-    {
-      "added_at": "2026-06-26 15:27:45",
-      "album": {
         "name": "All The Love (WhoMadeWho & Samm Remix)",
         "url": "https://open.spotify.com/album/26MwrKWXpUpEV8AnnoHNiY"
       },
@@ -2215,6 +2191,30 @@
       "duration_ms": 226467,
       "name": "Porto",
       "url": "https://open.spotify.com/track/1TB6gXUbIuZO2keuAY3vQn"
+    },
+    {
+      "added_at": "2026-06-26 15:27:45",
+      "album": {
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/1eAwTFl959hlcrLUN5s61k"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Romy Janssen",
+          "url": "https://open.spotify.com/artist/5wizmv8KVwvSrcFyvagn8x"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/2d6hC7Uu13Pn1axD7LplmR"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
+        "name": "Gotta Be Cool",
+        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 231774,
+      "name": "Gotta Be Cool",
+      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+    },
+    {
+      "added_at": "2026-06-26 15:27:45",
+      "album": {
         "name": "Act A Fool",
         "url": "https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm"
       },
@@ -2295,6 +2311,22 @@
       "duration_ms": 218052,
       "name": "Act A Fool",
       "url": "https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj"
+    },
+    {
+      "added_at": "2026-06-26 15:27:45",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
+      },
+      "artists": [
+        {
+          "name": "Aden Lou",
+          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2323,18 +2355,22 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/1d2ZLzQ3y2UQzXYx6iLIKM"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
       },
       "artists": [
         {
-          "name": "Aden Lou",
-          "url": "https://open.spotify.com/artist/2SERlI6L4lfC7TOY8remiC"
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
         }
       ],
-      "duration_ms": 176585,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
+      "duration_ms": 180014,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2355,26 +2391,6 @@
       "duration_ms": 448757,
       "name": "Your Command - Paul Kalkbrenner Remix",
       "url": "https://open.spotify.com/track/1GDQ1w0fXYXswcX34AUAor"
-    },
-    {
-      "added_at": "2026-06-26 15:27:45",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
-      },
-      "artists": [
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2519,6 +2535,26 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
+        "name": "A.I.E.",
+        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+      },
+      "artists": [
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Alejandro Garrido",
+          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+        }
+      ],
+      "duration_ms": 166707,
+      "name": "A.I.E.",
+      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
+    },
+    {
+      "added_at": "2026-06-26 15:27:45",
+      "album": {
         "name": "The Thrill is Gone",
         "url": "https://open.spotify.com/album/6PXVu267RRh64SqiJiY5os"
       },
@@ -2543,26 +2579,6 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "A.I.E.",
-        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
-      },
-      "artists": [
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        },
-        {
-          "name": "Alejandro Garrido",
-          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
-        }
-      ],
-      "duration_ms": 166707,
-      "name": "A.I.E.",
-      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
-    },
-    {
-      "added_at": "2026-06-26 15:27:45",
-      "album": {
         "name": "Sympathy For The Devil",
         "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
       },
@@ -2583,18 +2599,22 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "Gotta Be Cool",
-        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB"
       },
       "artists": [
         {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Bautiii",
+          "url": "https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9"
         }
       ],
-      "duration_ms": 231774,
-      "name": "Gotta Be Cool",
-      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+      "duration_ms": 186554,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2615,26 +2635,6 @@
       "duration_ms": 148000,
       "name": "Genie Baby",
       "url": "https://open.spotify.com/track/3uI4pCvoglYfqg0kmlSaOb"
-    },
-    {
-      "added_at": "2026-06-26 15:27:45",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB"
-      },
-      "artists": [
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Bautiii",
-          "url": "https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9"
-        }
-      ],
-      "duration_ms": 186554,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY"
     },
     {
       "added_at": "2026-06-26 15:27:45",
@@ -2667,22 +2667,22 @@
     {
       "added_at": "2026-06-26 15:27:45",
       "album": {
-        "name": "Real, You Know?!",
-        "url": "https://open.spotify.com/album/3Y6tmTccFgBNu3OxrA61Yk"
+        "name": "Places & Spaces",
+        "url": "https://open.spotify.com/album/4eJFOr28wLZ0jwMWgEnFt9"
       },
       "artists": [
         {
-          "name": "Mano Le Tough",
-          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
         },
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "AVG",
+          "url": "https://open.spotify.com/artist/0CxqFWFFJmjGVdphWpJhxo"
         }
       ],
-      "duration_ms": 236226,
-      "name": "Real, You Know?!",
-      "url": "https://open.spotify.com/track/5sjsIBzfE5cfRj8XBkk5B8"
+      "duration_ms": 270518,
+      "name": "Places & Spaces",
+      "url": "https://open.spotify.com/track/5ZibjIUUEsl7NKwbAHYAjL"
     }
   ],
   "unique_name": "Tantra",

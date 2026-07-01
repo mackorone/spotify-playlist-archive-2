@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Hugo Tarres",
-  "num_followers": 26102,
+  "num_followers": 26106,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Tylko My",
+        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Tylko My",
+      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "z tob\u0105 nie my\u015bl\u0119 o ex",
         "url": "https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo"
       },
@@ -503,38 +519,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Tylko My",
-        "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
-      },
-      "artists": [
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Tylko My",
-      "url": "https://open.spotify.com/track/2uuvl8raTa0NMQqSAFBjnn"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "narcyz",
         "url": "https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "miss me, babe?",
-        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
+        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
       },
       "artists": [
         {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "Hera Lind",
-          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
         }
       ],
-      "duration_ms": 183750,
-      "name": "miss me, babe?",
-      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
+      "duration_ms": 173400,
+      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -599,6 +579,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Wieje",
+        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 253551,
+      "name": "Z\u0142y, najgorszy sen",
+      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "ASFALT",
         "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
       },
@@ -615,18 +611,38 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Wieje",
-        "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
+        "name": "miss me, babe?",
+        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "Hera Lind",
+          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
         }
       ],
-      "duration_ms": 253551,
-      "name": "Z\u0142y, najgorszy sen",
-      "url": "https://open.spotify.com/track/53DdqsoSrwQIa1gphtIJgF"
+      "duration_ms": 183750,
+      "name": "miss me, babe?",
+      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "bez s\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "bez s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -651,22 +667,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "bez s\u0142\u00f3w",
-        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
-      },
-      "artists": [
-        {
-          "name": "Manya",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "bez s\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "kochaj mnie",
         "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Do Ciebie",
-        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 222252,
-      "name": "Do Ciebie",
-      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "hyperl\u00f8ve",
         "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 157714,
       "name": "hyperl\u00f8ve",
       "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "Do Ciebie",
+        "url": "https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 222252,
+      "name": "Do Ciebie",
+      "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
-      },
-      "artists": [
-        {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
-        }
-      ],
-      "duration_ms": 190842,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "#bliska",
         "url": "https://open.spotify.com/album/7FhLyvap1aB6h8uE1vJI76"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 239011,
       "name": "#bliska",
       "url": "https://open.spotify.com/track/6mNCznYwsBp7N3FCGC83MQ"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-25 22:01:43",

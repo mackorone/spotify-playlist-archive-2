@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Gogohawk\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Silica Gel\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,363 songs - 3 day 10 hr 30 min
+1,364 songs - 3 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,7 +636,7 @@
 | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 | 2025-08-13 |
 | [Lego World](https://open.spotify.com/track/4Yc0l0eFYrcsCClR7TjzlX) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [B\-grade Media](https://open.spotify.com/album/393OXdx9w3DIlGDxYMTDIo) | 3:43 | 2025-08-08 | 2025-09-25 |
 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 | 2026-05-07 |  |
-| [Lemonade](https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Lemonade](https://open.spotify.com/album/1czEu9Hok2Y5YAZQZZbCvA) | 3:40 | 2026-05-07 |  |
+| [Lemonade](https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Lemonade](https://open.spotify.com/album/1czEu9Hok2Y5YAZQZZbCvA) | 3:40 | 2026-05-07 | 2026-07-01 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 | 2022-07-27 | 2025-07-26 |
 | [leodo Island \(Parangdo lsland\)](https://open.spotify.com/track/135gyYI8MukV8Ny5c63vWP) | [BAE CHUL SOO](https://open.spotify.com/artist/5w0paTeWKFlcJytIF06AcU) | [Fly Again](https://open.spotify.com/album/77zmrTi35NrLJ6zzLdtOi9) | 3:13 | 2025-03-04 | 2025-03-22 |
@@ -744,6 +744,7 @@
 | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq) | 3:59 | 2025-11-06 | 2026-01-15 |
 | [MISHMASH](https://open.spotify.com/track/7qBdRew80c7Di2CirI6XaO) | [Seen Hyun Hee](https://open.spotify.com/artist/3vd412swJreRPEn4cyirZQ) | [MISHMASH](https://open.spotify.com/album/77CBeZWS4hBgPqPCD6OkkY) | 3:35 | 2023-09-15 | 2024-05-10 |
 | [Missing You](https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu) | [ESDI](https://open.spotify.com/artist/6aESUF8JmhEzx3caQ0erOW) | [Missing You \(Original Webtoon Soundtrack from Naver Webtoon "Love Revolution Reminds"\)](https://open.spotify.com/album/1DGDbxPSrzvIf3tOgT4GTS) | 4:12 | 2026-02-02 | 2026-03-26 |
+| [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 | 2026-06-30 |  |
 | [Moment](https://open.spotify.com/track/3jYl9vCYKeVDawBCu5iHK5) | [paulkyte](https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x) | [Moment](https://open.spotify.com/album/5UUtfxQNNJknc3HwxZRQTO) | 3:37 | 2022-03-31 | 2022-04-20 |
 | [Mondegreen](https://open.spotify.com/track/7wEmOuZxqVJDPvArxyaSBw) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/3ttWXgnbXQWVleBm0Xj8TQ) | 3:13 | 2025-10-29 | 2025-11-18 |
 | [Money like \(feat\. meenoi\)](https://open.spotify.com/track/5U5QitagofLaXFkoVO1oLF) | [HOSIN](https://open.spotify.com/artist/3XOcDV9I5btpQqBqkEQWuU), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Money like](https://open.spotify.com/album/67YuFY9QZKY3loKA6634Sv) | 4:02 | 2022-07-04 | 2022-07-09 |

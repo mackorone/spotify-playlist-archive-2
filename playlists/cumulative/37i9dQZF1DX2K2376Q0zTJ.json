@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: MFS",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Julia Takada",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Blue Shining Star",
+        "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Blue Shining Star",
+      "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
+    },
+    {
+      "album": {
         "name": "\u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW"
       },
@@ -2054,6 +2072,28 @@
       "duration_ms": 154339,
       "name": "Body",
       "url": "https://open.spotify.com/track/7bjxgDqdmTVg9HaDZTmT9j"
+    },
+    {
+      "album": {
+        "name": "Body (feat. EMI MARIA) [Remix]",
+        "url": "https://open.spotify.com/album/6b6YYbVE7gDS5b3iGQQeNL"
+      },
+      "artists": [
+        {
+          "name": "MALIYA",
+          "url": "https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU"
+        },
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Body (feat. EMI MARIA) - Remix",
+      "url": "https://open.spotify.com/track/0AcvizWwaUXAO3MsSdUOfR"
     },
     {
       "album": {
@@ -3446,7 +3486,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 352524,
       "name": "Complete silence",
       "url": "https://open.spotify.com/track/6GVyulZvKqegdvUCT578vL"
@@ -4894,7 +4934,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 157920,
       "name": "EMO EMO",
       "url": "https://open.spotify.com/track/3vNKNIOLJyCh031B33YJh1"
@@ -13162,7 +13202,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 221800,
       "name": "No Epilogue",
       "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
@@ -17133,6 +17173,24 @@
     },
     {
       "album": {
+        "name": "sofa dance",
+        "url": "https://open.spotify.com/album/7934eaIQrqBKATvQ8t0h3Q"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "sofa dance",
+      "url": "https://open.spotify.com/track/6J4ZS19uwDVULr9N7NJC0I"
+    },
+    {
+      "album": {
         "name": "World Wide Pop",
         "url": "https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu"
       },
@@ -18544,6 +18602,24 @@
       "duration_ms": 234784,
       "name": "Take you away",
       "url": "https://open.spotify.com/track/1cVNT9wSkKx246wFWQmqGu"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/75iT7kAEfewzsuoWVeikdL"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234784,
+      "name": "Take you away",
+      "url": "https://open.spotify.com/track/2Xn9e89WyOIGigCQpuTtt6"
     },
     {
       "album": {
@@ -20068,7 +20144,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 163555,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3P3NfuvItDU8dV6oRWAF8r"
@@ -27901,6 +27977,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u5973\u795e",
+        "url": "https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183813,
+      "name": "\u65b0\u5973\u795e",
+      "url": "https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9"
+    },
+    {
+      "album": {
         "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
@@ -28518,7 +28612,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 175517,
       "name": "\u6c38\u9060\u306e\u899a\u609f",
       "url": "https://open.spotify.com/track/1IJPiPjhI0juxSW3fXyvaM"

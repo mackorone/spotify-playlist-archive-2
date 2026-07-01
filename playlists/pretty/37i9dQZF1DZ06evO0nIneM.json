@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 94478,
+  "num_followers": 94507,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAADQCJKV50fr28JCxTqWqg81",
+  "snapshot_id": "akG1gAAAAABbCtoPfRJgua0mvN3fk0XD",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Omarm",
+      "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Omarm",
-      "url": "https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Dichterbij Dan Ooit",
-      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 219546,
       "name": "Zoutelande",
       "url": "https://open.spotify.com/track/6aAJY5FYW0TMLsUe2T7x4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Het Midden Van Alles",
+        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Open Je Ogen",
+      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Het Midden Van Alles",
-        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Open Je Ogen",
-      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 365026,
       "name": "Was Je Maar Hier",
       "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,

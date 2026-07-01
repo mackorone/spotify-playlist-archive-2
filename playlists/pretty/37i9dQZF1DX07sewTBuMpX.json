@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141430,
+  "num_followers": 141433,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "WAHALA (FEAT. OLAMIDE)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "WAHALA (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "LIES",
         "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
       },
@@ -807,22 +787,22 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+        "name": "WAHALA (FEAT. OLAMIDE)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 154000,
-      "name": "COMO TU",
-      "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
+      "duration_ms": 170721,
+      "name": "WAHALA (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -847,6 +827,26 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "COMO TU",
+      "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
     },
     {
       "added_at": "2026-06-11 07:46:46",

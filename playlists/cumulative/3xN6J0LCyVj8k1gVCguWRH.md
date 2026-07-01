@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,218 songs - 14 day 11 hr 45 min
+6,220 songs - 14 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Can U Believe](https://open.spotify.com/track/6bTORCskFVRlnHXbVgnKEe) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:51 | 2019-09-29\* | 2021-11-19 |
 | [Can We](https://open.spotify.com/track/3t7BiH0pjjbhNGsvHcYmgl) | [Dusty Flavor](https://open.spotify.com/artist/0ZeApzBDi9axH1rBEfMTNU), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Can We](https://open.spotify.com/album/2YGGW83aJAdMGYwDQEvkK0) | 3:42 | 2022-10-05 | 2022-10-29 |
 | [Can We Do a Little More Than Talk?](https://open.spotify.com/track/0DKJ8WMPpen0iEAWyGqLLg) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [Can We Do a Little More Than Talk?](https://open.spotify.com/album/0dh6Jjkutja78TNndS479c) | 3:15 | 2024-07-28 | 2025-04-25 |
+| [Can You Believe](https://open.spotify.com/track/3J6NWIyXVCzHgkUvmWQSDQ) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Can You Believe](https://open.spotify.com/album/5TaGGGl0A0U1fFxbtc9Fwx) | 3:13 | 2026-06-30 |  |
 | [Can You Feel It?](https://open.spotify.com/track/5S6DMNWR4HP21GKI8OIXFU) | [Red Machine](https://open.spotify.com/artist/5937fULbm5xcjdHFi4G8Ef) | [Can You Feel It?](https://open.spotify.com/album/3jIngYInfVl02nCSlefq2h) | 2:06 | 2024-05-24 | 2024-06-05 |
 | [Can You Hear Me?](https://open.spotify.com/track/7dCanbfsmjPRKVR4MRPqJV) | [Kayda](https://open.spotify.com/artist/63gJJ9L45II6HLIaPvEhqc), [CHOPLIFEMUSIC](https://open.spotify.com/artist/6zQEo1U4xxQzTO6hhV0qib) | [Can You Hear Me?](https://open.spotify.com/album/6FFmbuVpEauWymDukl0rrn) | 3:06 | 2024-02-17 | 2024-02-29 |
 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 | 2025-12-12 | 2025-12-24 |
@@ -2796,7 +2797,7 @@
 | [Jan 18](https://open.spotify.com/track/1HyTBT6nTDCQ7DOVvEBG9K) | [Gee Litt](https://open.spotify.com/artist/62YcuNZvRkWXrXvmOU1bWc) | [Good Grief](https://open.spotify.com/album/35JTFVhzuOaoWA9ceoPp5T) | 2:37 | 2024-04-18 | 2024-05-06 |
 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-05-23 |  |
 | [Japan \(Cory Enemy Remix\)](https://open.spotify.com/track/0O7svJdqeBtBmx8hQLQrp8) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [Cory Enemy](https://open.spotify.com/artist/4dJlBSxhy0VNbtPt5qsFHO) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 2:49 | 2020-07-21 | 2020-08-02 |
-| [Japanese Boots](https://open.spotify.com/track/2i9RSMzELHLCM6MxCIB678) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Japanese Boots](https://open.spotify.com/album/47kjQIxUCh6N1O87un4kll) | 2:14 | 2026-05-29 |  |
+| [Japanese Boots](https://open.spotify.com/track/2i9RSMzELHLCM6MxCIB678) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Japanese Boots](https://open.spotify.com/album/47kjQIxUCh6N1O87un4kll) | 2:14 | 2026-05-29 | 2026-07-01 |
 | [Jardin de fleurs](https://open.spotify.com/track/1HRQ1QAf7oPU5DI3y6dPaJ) | [D.seo](https://open.spotify.com/artist/4yPFNOhjB8LZf1IonSIwJj) | [Jardin de fleurs](https://open.spotify.com/album/3lToOXO5oRKd9OG9zhCfSK) | 3:59 | 2025-07-24 | 2025-08-09 |
 | [Jaws Of The Jungle](https://open.spotify.com/track/4rIftODZqgJcr2QiobT3Ks) | [Luke Biscan](https://open.spotify.com/artist/0ecmjFQ7mFaYMfC0jQMbFd) | [Revivalist](https://open.spotify.com/album/5zwp50Ie1exYWLvgcvCzLQ) | 5:58 | 2021-05-21 | 2021-06-06 |
 | [Jaye Lo](https://open.spotify.com/track/4fpkZnuLnjvVrpScd0tyMn) | [Azeez Sanusi](https://open.spotify.com/artist/3u8xZzq1bVqVXhzQM6NbRi) | [Azeez](https://open.spotify.com/album/6TAMJJpeWUIh4eFhOdR3Ej) | 3:40 | 2024-04-02 | 2024-04-11 |
@@ -4866,6 +4867,7 @@
 | [Someone To Watch Over Me \(feat\. Pasquale Grasso\)](https://open.spotify.com/track/7MCGBbLKg9BS7lQS1S5SN5) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:02 | 2024-08-12 |  |
 | [Someone's In The Room](https://open.spotify.com/track/5B2ZFJW0oQtgwx985KLcnv) | [Fleming](https://open.spotify.com/artist/6nUMxwQm17D5tRTym3FotG) | [Someone's In The Room](https://open.spotify.com/album/5APlPBoOYa3suzxDXUtz41) | 2:41 | 2021-01-15 | 2022-01-23 |
 | [somethin sweet](https://open.spotify.com/track/0fF4tq5KE7S7QS2sxUIzxb) | [MUNNYCAT](https://open.spotify.com/artist/3mib3ZXDjjjGpWxnoZu0XF) | [somethin sweet](https://open.spotify.com/album/6F518HPERyXSC1Dd3Ha5W0) | 2:13 | 2024-12-06 | 2024-12-18 |
+| [Somethin' Stupid](https://open.spotify.com/track/05QlxcW9wqvDRRUJU5LRJx) | [Sacha Boutros](https://open.spotify.com/artist/1PuKXBmVnyDWJEjXIsOY3y), [Patrick Hogan](https://open.spotify.com/artist/205mXTyMLol4bRtPNMXw0V) | [Somethin' Stupid](https://open.spotify.com/album/6UMqzTlsaTgQkiY4TV1D4V) | 3:09 | 2026-06-30 |  |
 | [Something](https://open.spotify.com/track/03bhxJeqUt30mCYK5Qttj3) | [Kevin Harrison](https://open.spotify.com/artist/1fz8FWeX9HY6xuQtjORVfc) | [My Life Your Entertainment, Vol\. 1](https://open.spotify.com/album/39eafUKcVGZ9VU5z1A2InN) | 3:44 | 2024-07-31 | 2024-08-12 |
 | [Something Beautiful \- Equanimity: A Song for MP](https://open.spotify.com/track/3Y5Lb3EqA6uNQgGPUXxDP2) | [Karma Sisters](https://open.spotify.com/artist/3HZx4iQCozlj9xZ4xPLuBL) | [Something Beautiful \(Equanimity: A Song for MP\)](https://open.spotify.com/album/0MkbuALm84pN1RFQRoXKyv) | 3:11 | 2026-06-01 | 2026-06-13 |
 | [Something Greater \(Faith, Hope, Love\)](https://open.spotify.com/track/4vklv0IZvxYiqD53KB0qzW) | [Something Greater](https://open.spotify.com/artist/6WYjliZBIa0W9JZA1fBUyy) | [Something Greater \(Faith, Hope, Love\)](https://open.spotify.com/album/0BkeF6migF22g0977EV1oS) | 4:06 | 2025-02-05 | 2025-02-17 |

@@ -4483,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "It's a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4"
+      },
+      "artists": [
+        {
+          "name": "Dimestore Freud",
+          "url": "https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151687,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/6zSniKNMTVgqQIbwcp4NMG"
+    },
+    {
+      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0"
       },
@@ -9087,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "Man Made Machine",
+        "url": "https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wallisch Jr.",
+          "url": "https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307399,
+      "name": "Torre Pendente",
+      "url": "https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj"
+    },
+    {
+      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
       },
@@ -9138,6 +9174,24 @@
       "duration_ms": 160300,
       "name": "Twisting the Knife",
       "url": "https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN"
+    },
+    {
+      "album": {
+        "name": "Two Souls",
+        "url": "https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Two Souls",
+      "url": "https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j"
     },
     {
       "album": {

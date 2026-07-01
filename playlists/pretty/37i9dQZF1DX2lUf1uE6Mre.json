@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: RAF Camora",
-  "num_followers": 911543,
+  "num_followers": 911518,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "Xalaz",
+        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "duration_ms": 92653,
+      "name": "Xalaz",
+      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "ONLY ONE",
         "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 191062,
       "name": "ONLY ONE",
       "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "Xalaz",
-        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
-      },
-      "artists": [
-        {
-          "name": "Yc",
-          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
-        }
-      ],
-      "duration_ms": 92653,
-      "name": "Xalaz",
-      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
+      },
+      "artists": [
+        {
+          "name": "Kuto",
+          "url": "https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
         "name": "Show",
         "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/7HBTUzOju45QlMB7Ke7ZxQ"
-      },
-      "artists": [
-        {
-          "name": "Kuto",
-          "url": "https://open.spotify.com/artist/30QFo2u7KA312gze3bYxbR"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3bKMMAU72yWgIIT4ZRMFte"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Kodex",
         "url": "https://open.spotify.com/album/7o0nZVcmciQEMApCgzwRkE"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 130909,
       "name": "KODEX",
       "url": "https://open.spotify.com/track/4UkBELRYYTMUwyNl5PXSOU"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
-        "name": "4LAP",
-        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "304",
-      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1191,6 +1171,26 @@
       "duration_ms": 145652,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "4LAP",
+        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "304",
+      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Familie",
-        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 173277,
-      "name": "Familie",
-      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "CCTV",
         "url": "https://open.spotify.com/album/4KPzzYvMqvIVzfmTTtDa99"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 145339,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6XKxB2IUKWbTqh8oqCcYLR"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Familie",
+        "url": "https://open.spotify.com/album/0jCfNl7mqO5nlDi4tS2CvN"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 173277,
+      "name": "Familie",
+      "url": "https://open.spotify.com/track/7uDmgnVUcrqvSnqqaT99TM"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "wya?",
-        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 118360,
-      "name": "wya?",
-      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Alles",
         "url": "https://open.spotify.com/album/01BTZn6JgVZ6c4DmFwJ4SQ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 187317,
       "name": "Alles",
       "url": "https://open.spotify.com/track/7DbBL1xhWnlSwQTNup2kwg"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-06-11 22:00:49",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-06-11 22:00:49",
       "album": {
-        "name": "Bela",
-        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
-      },
-      "artists": [
-        {
-          "name": "Ardian Bujupi",
-          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
-        }
-      ],
-      "duration_ms": 139803,
-      "name": "Bela",
-      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
-    },
-    {
-      "added_at": "2026-06-11 22:00:49",
-      "album": {
         "name": "Push Push",
         "url": "https://open.spotify.com/album/12nqzQ7KDN476Io0KOEDwj"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 154122,
       "name": "Push Push",
       "url": "https://open.spotify.com/track/5j0rJRSqtQ5Tue5l7pllfF"
+    },
+    {
+      "added_at": "2026-06-11 22:00:49",
+      "album": {
+        "name": "Bela",
+        "url": "https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj"
+      },
+      "artists": [
+        {
+          "name": "Ardian Bujupi",
+          "url": "https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9"
+        }
+      ],
+      "duration_ms": 139803,
+      "name": "Bela",
+      "url": "https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P"
     },
     {
       "added_at": "2026-06-11 22:00:49",

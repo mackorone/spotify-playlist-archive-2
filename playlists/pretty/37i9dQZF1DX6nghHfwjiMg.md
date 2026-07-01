@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,887 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,886 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VOY A DISPARARME](https://open.spotify.com/track/6xSAUpJqJ1qwPLn4fH5R9u) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [VOY A DISPARARME](https://open.spotify.com/album/45EqJRM2e02jt1mECyRBBP) | 3:14 |
-| 2 | [Bendiciones](https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Bendiciones](https://open.spotify.com/album/3jNBH9AvasMDmqi0wnPQbf) | 2:44 |
-| 3 | [Brillá](https://open.spotify.com/track/0NzZwVdVE5nS4JG3O4JO6H) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Desde Lo Profundo](https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ) | 4:24 |
-| 4 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
-| 5 | [Nada Más en Mí](https://open.spotify.com/track/6scGrtyUxNjAK1FCoYPhbG) | [Jero Jones](https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ), [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Nada Más en Mí](https://open.spotify.com/album/6TxtP5KQ8y7hiLa4kW36P2) | 4:11 |
-| 6 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
-| 7 | [NEGRAZO](https://open.spotify.com/track/4Ur6nJfWrcpK4nejuuK2Mn) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [NEGRAZO](https://open.spotify.com/album/2J3ogAKcLR53CAxHplm2XD) | 2:55 |
-| 8 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
-| 9 | [EL TESORO PERDIDO](https://open.spotify.com/track/0zF8LdXJHaIJwu1ChfMzDq) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Cocodrilo P&B](https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo) | [EL TESORO PERDIDO](https://open.spotify.com/album/2UDGaQCkSR4TeGnQ05sdIX) | 2:30 |
-| 10 | [Diablo Que Soy](https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Diablo Que Soy](https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ) | 2:47 |
+| 2 | [Diablo Que Soy](https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Diablo Que Soy](https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ) | 2:47 |
+| 3 | [Bendiciones](https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Bendiciones](https://open.spotify.com/album/3jNBH9AvasMDmqi0wnPQbf) | 2:44 |
+| 4 | [Brillá](https://open.spotify.com/track/0NzZwVdVE5nS4JG3O4JO6H) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Desde Lo Profundo](https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ) | 4:24 |
+| 5 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
+| 6 | [Nada Más en Mí](https://open.spotify.com/track/6scGrtyUxNjAK1FCoYPhbG) | [Jero Jones](https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ), [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Nada Más en Mí](https://open.spotify.com/album/6TxtP5KQ8y7hiLa4kW36P2) | 4:11 |
+| 7 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
+| 8 | [NEGRAZO](https://open.spotify.com/track/4Ur6nJfWrcpK4nejuuK2Mn) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [NEGRAZO](https://open.spotify.com/album/2J3ogAKcLR53CAxHplm2XD) | 2:55 |
+| 9 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
+| 10 | [EL TESORO PERDIDO](https://open.spotify.com/track/0zF8LdXJHaIJwu1ChfMzDq) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi), [Cocodrilo P&B](https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo) | [EL TESORO PERDIDO](https://open.spotify.com/album/2UDGaQCkSR4TeGnQ05sdIX) | 2:30 |
 | 11 | [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [FRO!](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 |
 | 12 | [UTV](https://open.spotify.com/track/6xQpCxVaYwV6HWoeBGPuNi) | [Piku](https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz), [Koro Beats](https://open.spotify.com/artist/76m7RJJu4NnBjvHHBjCc3X) | [UTV](https://open.spotify.com/album/5Pcy9twleitUle6rMdBFWq) | 2:42 |
 | 13 | [Horóscopo \- 21:00](https://open.spotify.com/track/7hMVe5L6zluc4pCVEVznpN) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [Horóscopo \- 21:00](https://open.spotify.com/album/7zidZokFG6W5qS15J3VlfT) | 3:21 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 54 | [Marfil](https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Marfil / E.M.C](https://open.spotify.com/album/3kGuw41SZs0uBDTaTudef1) | 1:42 |
 | 55 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAACD8x40zmnqqtfn3JIaj4o/+9UFB`
+Snapshot ID: `AAAAANFGlctPbRiIQwNIIAzwCvSpn7yq`

@@ -4,14 +4,14 @@
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-202 songs - 13 hr 53 min
+204 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 | 2026-06-22 |  |
 | [12 Languages](https://open.spotify.com/track/1dP9oSPcXCe9rJTlth0tnZ) | [bongjeingan](https://open.spotify.com/artist/3zyq3DzSd4aue9Q7s1qMVu) | [12 Languages](https://open.spotify.com/album/6euOA9dVGPx4j7ULn9jIlP) | 3:46 | 2025-05-28 |  |
 | [Akarui Mirai](https://open.spotify.com/track/0Sigob3quryvB4L59nga0j) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1SBCieSwAZCs2d2ryUXlmQ) | 3:53 | 2026-06-22 |  |
-| [Anganku Anganmu \(With Raisa\) \(with Raisa\)](https://open.spotify.com/track/1nFfxe2VJdrnKdzwIMfNKz) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Paradox](https://open.spotify.com/album/4OTR3hEos8V9FqPZ754knV) | 4:30 | 2026-06-22 |  |
+| [Anganku Anganmu \(With Raisa\) \(with Raisa\)](https://open.spotify.com/track/1nFfxe2VJdrnKdzwIMfNKz) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Paradox](https://open.spotify.com/album/4OTR3hEos8V9FqPZ754knV) | 4:30 | 2026-06-22 | 2026-07-01 |
 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 | 2026-06-22 |  |
 | [Anthems of Defiance](https://open.spotify.com/track/1IxFHdxSdC5vK1mvxCE0BM) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 5:06 | 2026-06-22 |  |
 | [April Skies](https://open.spotify.com/track/7BIsEOxWH7hpTgCV60vXv7) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Darklands](https://open.spotify.com/album/7KLJM2KoVkWIaOpLzfyGHh) | 4:00 | 2026-06-22 |  |
@@ -152,7 +152,7 @@
 | [Supernova](https://open.spotify.com/track/6bkIfmlSYL5DoJss2EmEMa) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:18 | 2025-05-28 | 2026-06-22 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2025-05-28 |  |
 | [Take A Bite](https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:38 | 2025-05-28 | 2026-06-22 |
-| [Tetap Dalam Jiwa](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 3:29 | 2026-06-22 |  |
+| [Tetap Dalam Jiwa](https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 3:29 | 2026-06-22 | 2026-07-01 |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2026-06-22 |  |
 | [Thanks, liar](https://open.spotify.com/track/5a4DeUK4b1QxwGlt3q8TqX) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [b](https://open.spotify.com/album/4rjBdTmweEdniVomGJ00CN) | 3:55 | 2025-05-28 | 2026-06-22 |
 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 | 2025-05-28 | 2026-06-22 |
@@ -166,6 +166,7 @@
 | [U&I](https://open.spotify.com/track/1tsh6SaWefsAke06sDYKPq) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [FANTASIA](https://open.spotify.com/album/0yxzxnFO0cbLg86pqdJJ4a) | 4:21 | 2026-06-22 |  |
 | [Undertaker](https://open.spotify.com/track/5zRqQdEGdf8JuREvJaG6aB) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ) | [LAGEON](https://open.spotify.com/album/1OfHwciYLcQGLWAuBGjeZb) | 3:34 | 2026-06-22 |  |
 | [Unfinished Sympathy \- 2012 Mix/Master](https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Shara Nelson](https://open.spotify.com/artist/54bhVqHnHD8wDPBvk2Danm) | [Blue Lines \(2012 Mix/Master\)](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf) | 5:08 | 2026-06-22 |  |
+| [UNLOCK THE KEY](https://open.spotify.com/track/5P54jRTGFj6IdJkz8PPWK5) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [UNLOCK THE KEY](https://open.spotify.com/album/3Vl819yGnGJOghjIRyUaco) | 4:30 | 2026-07-01 |  |
 | [Wahaemaenae \(All I care about\)](https://open.spotify.com/track/5UTzwYzk7e2q9BEYHdGBgy) | [Omar and the Eastern Power](https://open.spotify.com/artist/5rCiWGekLiXuAdWJsKdQEN) | [Wahaemaenae \(All I care about\)](https://open.spotify.com/album/55OxhEJqAWpmvnzN5uB3a7) | 8:49 | 2025-05-28 | 2026-06-22 |
 | [Wakey Wakey](https://open.spotify.com/track/7ie3z8INSG550mxkjOqavT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [WAJANGCHANG](https://open.spotify.com/album/2ktH2zzm2Jbu8Gq7ISN5oN) | 2:40 | 2025-05-28 | 2026-06-22 |
 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 | 2025-05-28 | 2026-06-22 |
@@ -177,6 +178,7 @@
 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 | 2026-06-22 |  |
 | [Wish](https://open.spotify.com/track/51w21TeuNeDDqhKHOkslu2) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6cce6K1y8SQL0eGZgSzpCC) | 5:55 | 2026-06-22 |  |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2025-05-28 | 2026-06-22 |
+| [World on Fire!](https://open.spotify.com/track/2h9EU4K2HGh45uao8SKiyo) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [EKLEKTIKO](https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7) | 3:20 | 2026-07-01 |  |
 | [Worries](https://open.spotify.com/track/0K9woYuGh2Hc67Qo6fVIu1) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6cce6K1y8SQL0eGZgSzpCC) | 7:48 | 2026-06-22 |  |
 | [X](https://open.spotify.com/track/7IfAzbZZR9P27xZu2WfZW4) | [POSER](https://open.spotify.com/artist/4mLBThRire5oNOj0t6J3bb) | [力拔山氣蓋世](https://open.spotify.com/album/5CkxpDPiUdGrD44py9l86s) | 3:22 | 2026-06-22 |  |
 | [Young Man](https://open.spotify.com/track/0VrZodRby4IfK3rZIxSajI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:17 | 2025-05-28 | 2026-06-22 |

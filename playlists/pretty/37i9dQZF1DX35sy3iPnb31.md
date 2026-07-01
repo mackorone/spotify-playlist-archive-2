@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,964 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 8 | [Should've Known Better](https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Should've Known Better](https://open.spotify.com/album/5YejHoJ2w4gXBsdhwQ2wQt) | 3:16 |
 | 9 | [mailman](https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [speed](https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0) | 3:25 |
 | 10 | [stone sculpted heart](https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ) | [.ape](https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju) | [stone sculpted heart](https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX) | 2:56 |
-| 11 | [Wanted Me To Be](https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Wanted Me To Be](https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK) | 3:05 |
-| 12 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 |
+| 11 | [MAGFEST](https://open.spotify.com/track/61nYrNZFXChbd8HQnCM7do) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [MAGFEST](https://open.spotify.com/album/3tXUvtmuSLx2fwFuZmGLbZ) | 3:14 |
+| 12 | [Wanted Me To Be](https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Wanted Me To Be](https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK) | 3:05 |
 | 13 | [HOTLINE](https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOTLINE](https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou) | 2:46 |
 | 14 | [Bad Combination](https://open.spotify.com/track/6hEYKhkbUzXq15uRDTOcsU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Bad Combination](https://open.spotify.com/album/7GPl7lfPggDwXt1LfNi6wt) | 3:14 |
 | 15 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 |
-| 16 | [for keeps](https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Kiss the Sun](https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg) | 2:29 |
+| 16 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
 | 17 | [Heart on Fire](https://open.spotify.com/track/7tXVIybZ82zYhowStV0epZ) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Heart on Fire](https://open.spotify.com/album/77YMT2I0gx2cX7VLSA7y8c) | 2:48 |
-| 18 | [Free Wheeling](https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Free Wheeling](https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3) | 3:49 |
+| 18 | [for keeps](https://open.spotify.com/track/3EUwnOxvsfuTbc9pkHY8Sk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Kiss the Sun](https://open.spotify.com/album/1hRKn5DrlF0YPrOveJVpbg) | 2:29 |
 | 19 | [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 |
 | 20 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
 | 21 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 43 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 | 44 | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX), [Sevendeaths](https://open.spotify.com/artist/2w2KeI4G39Cn8m24ZpgIJW) | [étude05 \. R O A M E R \. AMII.0\-RW005](https://open.spotify.com/album/1vLeV6L7TCvHZHOihsJx6k) | 4:11 |
 | 45 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 |
-| 46 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 |
-| 47 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
+| 46 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
+| 47 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 |
 | 48 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 |
-| 49 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
-| 50 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
+| 49 | [Get It N Go](https://open.spotify.com/track/2mx5ILjJOOBgoVx690edNb) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Get It N Go](https://open.spotify.com/album/1Pob5uyZOs72497AiC2Qwj) | 2:57 |
+| 50 | [In Your Arms](https://open.spotify.com/track/5k5M9d3KpJv0zv6Y9LhraU) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [In Your Arms](https://open.spotify.com/album/2zR2CvE3sANYBc19r5dvC6) | 3:27 |
 
 Snapshot ID: `AAAAAJT2AvyuofTCrJJtQ5Ru9AiINRb0`

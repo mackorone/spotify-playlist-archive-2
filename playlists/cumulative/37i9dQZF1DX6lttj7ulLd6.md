@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-213 songs - 15 hr 31 min
+214 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Clover Club](https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47) | [Skylineer](https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii) | [Clover Club](https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL) | 3:53 | 2025-11-10 |  |
 | [Contemplations](https://open.spotify.com/track/7EwmPnpDQsAhGNdFvI9tKE) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Contemplations](https://open.spotify.com/album/6TyHCzyKbB1ON15RPiCdYu) | 2:35 | 2025-01-20 | 2025-02-14 |
 | [Costa del Soul](https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 5:18 | 2024-01-09 | 2024-04-19 |
-| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 |  |
+| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 | 2026-07-01 |
 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 | 2022-05-06 | 2023-05-12 |
 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 | 2022-05-06 |  |
 | [Divine Morning](https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7) | [Delorme & Co](https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W) | [Divine Morning](https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS) | 3:33 | 2023-08-15 |  |
@@ -128,6 +128,7 @@
 | [Melrose Avenue](https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Melrose Avenue](https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0) | 2:55 | 2023-03-16 | 2025-11-11 |
 | [Midnight At The Oasis](https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:20 | 2022-05-06 |  |
 | [Miss Bane](https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:51 | 2022-05-06 |  |
+| [Moonglow](https://open.spotify.com/track/1XZP9OAmx1naSx1BQLGc6l) | [The Ember Tones](https://open.spotify.com/artist/4nj0ihTitDydUAi1GFHy0F) | [Moonglow](https://open.spotify.com/album/5RRNoD1LWO66CAgINFrjgd) | 4:22 | 2026-06-30 |  |
 | [Moonlit Ocean](https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:58 | 2022-05-06 | 2023-08-11 |
 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 | 2022-08-16 |  |
 | [Mr\. Groove](https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:01 | 2022-05-06 |  |

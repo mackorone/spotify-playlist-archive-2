@@ -4,7 +4,7 @@
 
 > tasha on the cover <3
 
-835 songs - 2 day 2 hr 30 min
+836 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,7 @@
 | [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/17uCITlzfTYFubzabQunsn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying \(Live from AFAS, Amsterdam\)](https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM) | 3:59 | 2025-11-21 |  |
 | [Queen of Homecoming](https://open.spotify.com/track/1jhTdcryKV2Q3fsEJrfRGr) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Queen of Homecoming](https://open.spotify.com/album/75m5Ycyw89xTYr5EpZgkoq) | 2:31 | 2025-12-05 | 2026-06-20 |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 | 2025-06-21 |
-| [Quick!](https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Quick!](https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK) | 5:18 | 2026-06-12 |  |
+| [Quick!](https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Quick!](https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK) | 5:18 | 2026-06-12 | 2026-07-01 |
 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2024-01-14 | 2024-03-21 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 | 2025-03-13 |
 | [Rascal](https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:49 | 2024-12-06 | 2025-07-19 |
@@ -805,6 +805,7 @@
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-02-07 | 2025-08-09 |
 | [Who's This?](https://open.spotify.com/track/63Nufw8VuaOoslYFtkvZ0t) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Who's This?](https://open.spotify.com/album/1J9MEh9a267tMWN5BH6BnU) | 3:36 | 2025-09-19 | 2026-02-21 |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 | 2024-03-13 |
+| [whole thing](https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [whole thing](https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD) | 4:25 | 2026-06-30 |  |
 | [Why Are You So Uptight?](https://open.spotify.com/track/4wtHmhdPXF2klIR87Xb6ZO) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Why Are You So Uptight?](https://open.spotify.com/album/2VcKtGcz6o6xWz299XLIf9) | 3:24 | 2024-12-06 | 2025-05-14 |
 | [Why Do Men Sing](https://open.spotify.com/track/3XOapyiO6vB1v6k9KqHz2O) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [My Days of 58](https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl) | 6:58 | 2026-02-27 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2025-04-05 |

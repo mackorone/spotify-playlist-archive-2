@@ -4,7 +4,7 @@
 
 > Olivia Dean keeps the good vibes going all day long
 
-1,082 songs - 2 day 10 hr 21 min
+1,083 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 | 2025-08-08 | 2025-08-27 |
 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 | 2023-06-09 | 2023-08-12 |
 | [Chanel](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Chanel](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-03-31 | 2023-04-29 |
-| [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-14 |  |
+| [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-14 | 2026-07-01 |
 | [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 | 2026-05-15 | 2026-06-27 |
 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 | 2022-08-12 | 2022-09-03 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 | 2023-08-12 |
@@ -696,6 +696,7 @@
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-04-11 |  |
 | [OK](https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [OK](https://open.spotify.com/album/6AMTezrkvSp7i1PqL0Mb7F) | 3:13 | 2020-04-10 | 2021-08-28 |
 | [OK \- with Remi Wolf & Solomonophonic](https://open.spotify.com/track/2LqczHHyVkIN9WlaQyFG1R) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Solomonophonic](https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU) | [OK \(with Remi Wolf & Solomonophonic\)](https://open.spotify.com/album/0MsM0ZsU68EiOBrwtt0Lbz) | 2:42 | 2021-02-19 | 2022-03-05 |
+| [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 | 2026-06-30 |  |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-08-11 | 2024-05-04 |
 | [ON THE LINE](https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW EP](https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau) | 2:30 | 2024-02-09 | 2024-02-17 |
 | [One Love \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [One Love \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2) | 3:04 | 2024-02-16 | 2024-03-30 |

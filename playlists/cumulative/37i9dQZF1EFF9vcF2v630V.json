@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/3SXqs6UQiQyIOnk1TeodLo"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "Bad Together",
+      "url": "https://open.spotify.com/track/1xTQcEdplrqOKH8YBoPUO1"
+    },
+    {
+      "album": {
         "name": "Dua Lipa (Complete Edition)",
         "url": "https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 238826,
       "name": "Bad Together",
       "url": "https://open.spotify.com/track/4O2mz1CYlIwaYbUV93eHKZ"

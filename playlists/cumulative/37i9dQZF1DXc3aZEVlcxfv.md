@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-638 songs - 1 day 19 hr 1 min
+639 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [I'm a Living Fire](https://open.spotify.com/track/5jMev9PUAvCTqvx3KGUPG4) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [ReBirth](https://open.spotify.com/album/5aGAXK6OLeKDtDvC3WWfLO) | 3:38 | 2025-03-28 | 2025-05-16 |
 | [I'm So Blessed](https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up](https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E) | 2:55 | 2024-09-27 | 2025-02-28 |
 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 | 2025-05-16 | 2025-11-28 |
+| [If E No Be You Jesus](https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv) | [Blessings Ng](https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Elijah Daniel Omo Majemu](https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG) | [If E No Be You Jesus](https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw) | 3:54 | 2026-06-26 |  |
 | [If I Count](https://open.spotify.com/track/2mG1hVqKRLf1QTB6YxElUM) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [The Redeemed](https://open.spotify.com/album/56IXmzU5PiDWYEYu6YAuef) | 2:36 | 2024-11-01 | 2025-02-07 |
 | [If Not God](https://open.spotify.com/track/68nODsfxjljPKmaB9CB32c) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [If Not God](https://open.spotify.com/album/2iUg1oEVToUlHLGsVg3iJz) | 2:44 | 2025-08-22 | 2026-03-20 |
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-08-08 |
@@ -445,7 +446,7 @@
 | [O Come to the Altar \(Live\)](https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 5:49 | 2024-09-27 | 2025-02-28 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:55 | 2024-09-27 |  |
 | [Odogwu](https://open.spotify.com/track/28KSf1gG77PI0gZpDHMaKr) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [Odogwu](https://open.spotify.com/album/5ydHqazDMmOw4kEYzE3yMF) | 3:23 | 2025-02-21 | 2025-09-12 |
-| [Odogwu \(feat\. Prospa Ochimana\)](https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Odogwu \(feat\. Prospa Ochimana\)](https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww) | 4:22 | 2026-05-01 |  |
+| [Odogwu \(feat\. Prospa Ochimana\)](https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [Odogwu \(feat\. Prospa Ochimana\)](https://open.spotify.com/album/4OCdHRLhco7ZRdMpoUGeww) | 4:22 | 2026-05-01 | 2026-07-01 |
 | [Off Days](https://open.spotify.com/track/4ICreVvOWLDmvt98XAWSHz) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Off Days](https://open.spotify.com/album/32VGwDDqJ7ZG6mfnsAAIQU) | 3:20 | 2026-04-03 | 2026-06-30 |
 | [Ogbon Mi O Gbe](https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 4:18 | 2026-05-15 |  |
 | [Oghene Do](https://open.spotify.com/track/5XCC5Ht7wNIKGPSlpJg3Ww) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Oghene Do](https://open.spotify.com/album/4OMOfEjqFKN0rvpqDnWOyf) | 2:54 | 2025-03-28 | 2025-05-09 |

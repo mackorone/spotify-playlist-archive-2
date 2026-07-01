@@ -4609,6 +4609,24 @@
     },
     {
       "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156709,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3"
+    },
+    {
+      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -20002,6 +20020,24 @@
       "duration_ms": 299266,
       "name": "Undesigned",
       "url": "https://open.spotify.com/track/671aKYHCinUvphO3iL6u9H"
+    },
+    {
+      "album": {
+        "name": "Unified Field",
+        "url": "https://open.spotify.com/album/40c4P9P3cVt3n2SphxEZbp"
+      },
+      "artists": [
+        {
+          "name": "Emperor X",
+          "url": "https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Unified Field",
+      "url": "https://open.spotify.com/track/7c9jGex5KrGBLhkiDFF5D1"
     },
     {
       "album": {

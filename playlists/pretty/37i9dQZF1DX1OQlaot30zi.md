@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Ele A, Rhove, Kid Yugi, DJ Shocca e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,749 likes - 109 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,756 likes - 109 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

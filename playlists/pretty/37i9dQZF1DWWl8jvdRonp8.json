@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 307345,
+  "num_followers": 307399,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 226266,
       "name": "Que Vuelva",
       "url": "https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Para Dejarte de Querer",
-        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 184833,
-      "name": "Presiento Que Voy a Llorar - Con Banda",
-      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 204160,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Para Dejarte de Querer",
+        "url": "https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 184833,
+      "name": "Presiento Que Voy a Llorar - Con Banda",
+      "url": "https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Mira Nomas",
+      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 206760,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/4BQsF3AM4l1i1vLlcIwajQ"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Mira Nomas",
-      "url": "https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Nuestras Favoritas De Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Ya No Te Vayas",
-      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
         "name": "La Mas Completa Coleccion (Disco 1)",
         "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194506,
       "name": "Arrepentida Y Sola",
       "url": "https://open.spotify.com/track/2aAZ9PgtyKuUHrWgLfxxmX"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Ya No Te Vayas",
+      "url": "https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
+    },
+    {
+      "added_at": "2026-03-10 01:21:38",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 235106,
       "name": "\u00bf A D\u00f3nde Vamos A Parar ?",
       "url": "https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M"
-    },
-    {
-      "added_at": "2026-03-10 01:21:38",
-      "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt"
     },
     {
       "added_at": "2026-03-10 01:21:38",
@@ -2079,8 +2079,8 @@
     {
       "added_at": "2026-03-10 01:21:38",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+        "name": "Los Bukis",
+        "url": "https://open.spotify.com/album/0laqwYnxxk6KMzOND9b4ks"
       },
       "artists": [
         {
@@ -2088,9 +2088,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 211586,
-      "name": "Ladr\u00f3n De Buena Suerte",
-      "url": "https://open.spotify.com/track/0bXmkULAV5RNw9pL5iiLb8"
+      "duration_ms": 206440,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/0gYnWBpArbOOokGLDDhzyG"
     },
     {
       "added_at": "2026-03-10 01:21:38",

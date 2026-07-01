@@ -656,7 +656,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 135445,
       "name": "Bangoma",
       "url": "https://open.spotify.com/track/7ywASFRTukqg9kzX3gMfa6"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 148531,
       "name": "Global Tamilan Freestyle",
       "url": "https://open.spotify.com/track/7ilIGxCaYa0zT6TvVrQojv"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 154285,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/7cCs9sbW29Tzgbsq3aVPxK"
@@ -5125,6 +5125,28 @@
     },
     {
       "album": {
+        "name": "PESARAPO",
+        "url": "https://open.spotify.com/album/4HjAlXXQuuuRiSdgY2ad7K"
+      },
+      "artists": [
+        {
+          "name": "AYE1WAN",
+          "url": "https://open.spotify.com/artist/3OWYjuzCZ5p7xMHdWdU6XA"
+        },
+        {
+          "name": "Aaron Mishra",
+          "url": "https://open.spotify.com/artist/3GgC2m97wLfXuuo1OjaGss"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113117,
+      "name": "PESARAPO",
+      "url": "https://open.spotify.com/track/034qjpQp3mHdTiPYomRgOX"
+    },
+    {
+      "album": {
         "name": "Phone Na Hello",
         "url": "https://open.spotify.com/album/03gaec2o73uwaZA7iTSJS0"
       },
@@ -5276,7 +5298,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 172800,
       "name": "Pookadai",
       "url": "https://open.spotify.com/track/57Uo0uStYjLnOBfwFVlGqP"
@@ -7450,7 +7472,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 204376,
       "name": "Underdogz vs Everybody - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/4IktsJUxysGkRYii2WU57y"

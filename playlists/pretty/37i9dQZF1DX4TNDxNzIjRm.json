@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1285639,
+  "num_followers": 1285435,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -494,6 +494,14 @@
         {
           "name": "Kris R.",
           "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Dimelo Magic",
+          "url": "https://open.spotify.com/artist/1s09WzlGc9wC1ChjTOiMtg"
+        },
+        {
+          "name": "OGBOOY",
+          "url": "https://open.spotify.com/artist/0FHcoqof3mhgLgcPGW8EAF"
         }
       ],
       "duration_ms": 190843,
@@ -1143,26 +1151,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "2+2",
-        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198300,
-      "name": "2+2",
-      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "Hecho para ti",
         "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
       },
@@ -1179,6 +1167,26 @@
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1451,26 +1459,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "La Ciudad del Sol",
-        "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "La Ciudad del Sol",
-      "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "Comando Estelar",
         "url": "https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH"
       },
@@ -1495,6 +1483,26 @@
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "La Ciudad del Sol",
+        "url": "https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "La Ciudad del Sol",
+      "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1651,22 +1659,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
       },
@@ -1683,6 +1675,22 @@
       "duration_ms": 219252,
       "name": "MALPORTADA",
       "url": "https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -1707,22 +1715,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "/Lentes",
-      "url": "https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
@@ -1735,6 +1727,22 @@
       "duration_ms": 234461,
       "name": "SILENCIO",
       "url": "https://open.spotify.com/track/4q8bfTmtDfgLGmDc5IuoIQ"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189019,
+      "name": "/Lentes",
+      "url": "https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP"
     },
     {
       "added_at": "2026-03-18 17:58:35",
@@ -2271,22 +2279,6 @@
     {
       "added_at": "2026-03-18 17:58:35",
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
-    },
-    {
-      "added_at": "2026-03-18 17:58:35",
-      "album": {
         "name": "White Wine",
         "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
       },
@@ -2299,6 +2291,22 @@
       "duration_ms": 192075,
       "name": "White Wine",
       "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
+    },
+    {
+      "added_at": "2026-03-18 17:58:35",
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 176668,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
     }
   ],
   "unique_name": "Jangueo",

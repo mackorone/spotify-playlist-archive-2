@@ -5969,6 +5969,32 @@
     },
     {
       "album": {
+        "name": "If E No Be You Jesus",
+        "url": "https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw"
+      },
+      "artists": [
+        {
+          "name": "Blessings Ng",
+          "url": "https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m"
+        },
+        {
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        },
+        {
+          "name": "Elijah Daniel Omo Majemu",
+          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "If E No Be You Jesus",
+      "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
+    },
+    {
+      "album": {
         "name": "The Redeemed",
         "url": "https://open.spotify.com/album/56IXmzU5PiDWYEYu6YAuef"
       },
@@ -9222,7 +9248,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 262242,
       "name": "Odogwu (feat. Prospa Ochimana)",
       "url": "https://open.spotify.com/track/5uVme5GQDbipGSnuz5kweE"

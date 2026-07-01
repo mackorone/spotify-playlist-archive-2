@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863320,
+  "num_followers": 863295,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "Cobaia",
+        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 219442,
+      "name": "Cobaia",
+      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "VIBE (Ao Vivo)",
         "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 154291,
       "name": "Bebe e Vem Me Procurar",
       "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "Cobaia",
-        "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 219442,
-      "name": "Cobaia",
-      "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "O Embaixador in Cariri (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 215766,
-      "name": "Carreira Solo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Aonde Quer Chegar",
         "url": "https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 191641,
       "name": "Aonde Quer Chegar",
       "url": "https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "O Embaixador in Cariri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 215766,
+      "name": "Carreira Solo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Pisadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
+        "name": "Jogou Aonde",
+        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
       },
       "artists": [
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
         }
       ],
-      "duration_ms": 158661,
-      "name": "Pisadinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
+      "duration_ms": 158378,
+      "name": "Jogou Aonde",
+      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1463,18 +1459,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Jogou Aonde",
-        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+        "name": "Pisadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
       },
       "artists": [
         {
-          "name": "Gica",
-          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
         }
       ],
-      "duration_ms": 158378,
-      "name": "Jogou Aonde",
-      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
+      "duration_ms": 158661,
+      "name": "Pisadinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
     },
     {
       "added_at": "2026-06-22 17:28:18",

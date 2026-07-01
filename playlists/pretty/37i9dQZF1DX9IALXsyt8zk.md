@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: can’t be blue\(캔트비블루\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,577 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,575 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 22 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 |
 | 23 | [echo](https://open.spotify.com/track/3EY9EQ8Kmk5QLrviXMc77V) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [echo / dark k\-pop](https://open.spotify.com/album/32PeIolYQtbCd5WGEc3fpx) | 2:34 |
 | 24 | [Dinero](https://open.spotify.com/track/7M8d5kcqt7zLDwRQS5Kp2R) | [MINGI](https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO) | [FIX OFF Desire Project : ORIGIN](https://open.spotify.com/album/5PzbW9PKw8fMzuHiRp8Vku) | 2:27 |
-| 25 | [Baya](https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ co.kr](https://open.spotify.com/artist/0k2WLVktrgKTi9NN9NQEn3) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 3:40 |
+| 25 | [Baya](https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 3:40 |
 | 26 | [GIMME](https://open.spotify.com/track/08lCl7trHavgnghm8JwvN7) | [ChoCo1](https://open.spotify.com/artist/48ZmNBITUcYWmWZqoaIEAi), [ChoCo2](https://open.spotify.com/artist/479LeQR94Is2uPXyljxis8) | [ChoCo La Familia](https://open.spotify.com/album/1hmIzxtNhUckTodNrNc9C8) | 2:24 |
 | 27 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 |
 | 28 | [Busy Boy](https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [\[RESCENE X ???\]](https://open.spotify.com/album/0dbuXh0XcMsrgQsVep3jAk) | 2:30 |

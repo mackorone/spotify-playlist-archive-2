@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,030 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,041 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 28 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
 | 29 | [Apre bal la](https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Apre bal la](https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd) | 3:57 |
 | 30 | [Ti Sesi Ti Sela](https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt) | [BMIXX](https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4) | [Ti Sesi Ti Sela](https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz) | 2:53 |
-| 31 | [Magic Gouyad \#6](https://open.spotify.com/track/3hf1hsNVQoOV674dVguPYz) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#6](https://open.spotify.com/album/2wP33sB9KypBSi5V0Bw5Ll) | 3:50 |
-| 32 | [Ban'm Tout Afe'm](https://open.spotify.com/track/0YQHr8rlZwmcGx8Z7xiM7t) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH), [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM) | [IDANTITE'N](https://open.spotify.com/album/7dxoacw7mdk3aT7CvQZXCC) | 5:20 |
+| 31 | [Ban'm Tout Afe'm](https://open.spotify.com/track/0YQHr8rlZwmcGx8Z7xiM7t) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH), [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM) | [IDANTITE'N](https://open.spotify.com/album/7dxoacw7mdk3aT7CvQZXCC) | 5:20 |
+| 32 | [Magic Gouyad \#6](https://open.spotify.com/track/3hf1hsNVQoOV674dVguPYz) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#6](https://open.spotify.com/album/2wP33sB9KypBSi5V0Bw5Ll) | 3:50 |
 | 33 | [40 %](https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK) | [40 %](https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS) | 4:38 |
 | 34 | [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 |
 | 35 | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a) | [Balalatet](https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [thattoo love](https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh) | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy) | 3:48 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 83 | [Souvni](https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [Souvni](https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv) | 3:30 |
 | 84 | [Iko Kreyòl](https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Win Butler](https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN), [Regine Chassagne](https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [79rs Gang](https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX) | [HaitiaNola](https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z) | 3:02 |
 | 85 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
-| 86 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 |
-| 87 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 86 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 87 | [FENOMENAL](https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5) | [ÄSHH](https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK) | [FENOMENAL](https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY) | 3:07 |
 | 88 | [Plenyen Player Yo](https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Plenyen Player Yo](https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G) | 3:46 |
 | 89 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 90 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |

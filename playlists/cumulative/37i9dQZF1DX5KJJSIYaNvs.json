@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Sunidhi Chauhan",
+  "description": "Listen to women at full volume. Cover - Twinkle Aggrwal",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 296173,
       "name": "Deedar De (Nikhil Mix)",
       "url": "https://open.spotify.com/track/19uybTRF0AmvCe1VpnbIv6"
@@ -8673,6 +8673,32 @@
     },
     {
       "album": {
+        "name": "Mainu Ki Pata",
+        "url": "https://open.spotify.com/album/1DOe8ovWwYeiUUhpLWC1lx"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Mainu Ki Pata",
+      "url": "https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h"
+    },
+    {
+      "album": {
         "name": "Majnu",
         "url": "https://open.spotify.com/album/0Nh2YR5SASmzVn3nkBUobO"
       },
@@ -9562,6 +9588,14 @@
         {
           "name": "Jyoti Nooran",
           "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Eemaan",
+          "url": "https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX"
+        },
+        {
+          "name": "NYC",
+          "url": "https://open.spotify.com/artist/31DxK9cElnsZ1wUFyY0cPG"
         }
       ],
       "date_added": "2026-06-23",
@@ -13144,7 +13178,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 184171,
       "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
@@ -14028,7 +14062,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 197205,
       "name": "Tanhai (Female Vocals)",
       "url": "https://open.spotify.com/track/0waDYhYPvK5Ch7085j7Si3"
@@ -14973,6 +15007,24 @@
     },
     {
       "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268989,
+      "name": "Tu Kuja",
+      "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
+    },
+    {
+      "album": {
         "name": "Amar Singh Chamkila",
         "url": "https://open.spotify.com/album/3XBoJ6awI7H0aRvMWDszp3"
       },
@@ -15818,7 +15870,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 313283,
       "name": "Voh Tere Mere Ishq Ka",
       "url": "https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs"

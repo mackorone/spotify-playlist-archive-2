@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 
 > Celebremos que nuestro equipo salió vencedor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,418 likes - 54 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,395 likes - 54 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 34 | [Sal con Limón](https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:01 |
 | 35 | [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 |
 | 36 | [Camino de Guanajuato](https://open.spotify.com/track/50AnCqAVXt8qR1RJtGudUU) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [15 Autenticos Exitos De](https://open.spotify.com/album/63s84JhEaeuwENkdQZEIaP) | 3:04 |
-| 37 | [Arremángala Arrempújala](https://open.spotify.com/track/1eiEHx5HeyTB3cjVxvFwUO) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg), [J\. Carlos Vicencio](https://open.spotify.com/artist/4XHzBvLaR7uNxkqy38Qib0) | [Los Reyes de la Cumbia Playera \(Versión 2015\)](https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS) | 5:02 |
-| 38 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
+| 37 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 |
+| 38 | [Arremángala Arrempújala](https://open.spotify.com/track/1eiEHx5HeyTB3cjVxvFwUO) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg), [J\. Carlos Vicencio](https://open.spotify.com/artist/4XHzBvLaR7uNxkqy38Qib0) | [Los Reyes de la Cumbia Playera \(Versión 2015\)](https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS) | 5:02 |
 | 39 | [Mesa Que Mas Aplauda](https://open.spotify.com/track/4fDgav2yVHa3xQjEznSY9b) | [Grupo Climax](https://open.spotify.com/artist/7rqhEhaHFMNST911KdISZR) | [Mesa Que Mas Aplauda](https://open.spotify.com/album/6iMAsUL3pcFUrTcwRyUjd2) | 4:03 |
 | 40 | [Y Como Quieres Que Te Quiera](https://open.spotify.com/track/0lupD4hTJaH9h3SHMGymIK) | [Fabian Gomez](https://open.spotify.com/artist/3Cn7ENBsSKajCUvUAChaR3) | [Y Como Quieres Que Te Quiera?](https://open.spotify.com/album/6zGj3iA3V82YD3Eb9I6Bj1) | 3:00 |
 | 41 | [El son de la negra](https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:59 |

@@ -4,7 +4,7 @@
 
 > The hottest House Music of 2026! This electrifying House playlist features the biggest Dance Hits &amp; future anthems from David Guetta, Fred again.., Sonny Fodera, &amp; Prospa\. Dive into pulsating beats, fresh grooves, and an unforgettable vibe\. Uprdated Weekly! Like &amp; Save for your next dance session!
 
-538 songs - 1 day 2 hr 56 min
+539 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Chemistry](https://open.spotify.com/track/23E8Vr8RGP54IoP0n4Lr4Z) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C), [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Chemistry](https://open.spotify.com/album/7M2PgMJyOQ2Pc3FTwNkPBz) | 2:46 | 2023-11-03 | 2024-12-07 |
 | [Clingfilm](https://open.spotify.com/track/6rsnckYl9OQbXi6DPuKkCY) | [Tommy Gold](https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR) | [Clingfilm](https://open.spotify.com/album/5DhVVtUeqOLGvoc2MowgoI) | 3:35 | 2024-02-02 | 2024-07-20 |
 | [Close My Eyes](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Close My Eyes](https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr) | 3:00 | 2024-06-28 | 2024-12-07 |
-| [Cola](https://open.spotify.com/track/0pcbM85AHWo70ZkHa356z6) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Cola](https://open.spotify.com/album/5F2GLJHqu38G0p8YZVsL3G) | 2:35 | 2026-05-29 |  |
+| [Cola](https://open.spotify.com/track/0pcbM85AHWo70ZkHa356z6) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Cola](https://open.spotify.com/album/5F2GLJHqu38G0p8YZVsL3G) | 2:35 | 2026-05-29 | 2026-07-01 |
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-11-03 | 2025-05-03 |
 | [Come Closer](https://open.spotify.com/track/0Tq7TFuDgq2PykzxqK9Hmm) | [FENCHVRCH](https://open.spotify.com/artist/5c5py4J4rEULVOPJosUkTt) | [Come Closer](https://open.spotify.com/album/63jcO42jHH2WxOn1BjpRHS) | 2:38 | 2025-06-27 |  |
 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [Come Closer EP](https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz) | 3:26 | 2025-12-05 |  |
@@ -190,6 +190,7 @@
 | [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 | 2025-11-21 |  |
 | [Give Me Love](https://open.spotify.com/track/41e6baoe12ODYaJSEEhBZa) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Give Me Love](https://open.spotify.com/album/5hTomGQnlYZDi5p2z67MjJ) | 2:23 | 2023-11-03 | 2024-02-10 |
 | [Give Me Something To Hold](https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Give Me Something To Hold](https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU) | 3:21 | 2024-04-19 | 2025-11-22 |
+| [Giving U](https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P) | [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Giving U](https://open.spotify.com/album/7DWQB3oUJ3GNXtnscP92oF) | 2:22 | 2026-06-30 |  |
 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-12 | 2024-06-01 |
 | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [GLOW \(feat\. Au/Ra\)](https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ) | 2:30 | 2024-02-09 | 2024-12-07 |
 | [Going On](https://open.spotify.com/track/1MyfFxL5j902gsQNuNPT6F) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [David Allen](https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe) | [Going On](https://open.spotify.com/album/5zAs001Y1yvOWs2XaghKrF) | 2:51 | 2024-05-10 | 2024-06-01 |

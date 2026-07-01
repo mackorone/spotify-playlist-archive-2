@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Boards Of Canada on cover.",
-  "num_followers": 578942,
+  "num_followers": 578967,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "We Were We Still Are",
         "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 177920,
       "name": "We Were We Still Are",
       "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "Camina",
         "url": "https://open.spotify.com/album/3IrD7IpDBy3psoDWWpIubo"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Stung!",
         "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Season Finale",
         "url": "https://open.spotify.com/album/1vnozWw44b4fNNhV4sSNQP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 200476,
       "name": "Season Finale",
       "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1303,38 +1303,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
-        "name": "Turk Jerk",
-        "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
-      },
-      "artists": [
-        {
-          "name": "Tandy Love",
-          "url": "https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Indian Zone Drum Killer Inc.",
-      "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Dune",
         "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
       },
@@ -1351,6 +1319,22 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 541122,
       "name": "New Hope For The New Year",
       "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Turk Jerk",
+        "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
+      },
+      "artists": [
+        {
+          "name": "Tandy Love",
+          "url": "https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Indian Zone Drum Killer Inc.",
+      "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Moon Needs The Owl Pt. 1",
-        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
-      },
-      "artists": [
-        {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
-        }
-      ],
-      "duration_ms": 298828,
-      "name": "Moon Needs The Owl Pt. 1",
-      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Panoramas",
         "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 304901,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Moon Needs The Owl Pt. 1",
+        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 298828,
+      "name": "Moon Needs The Owl Pt. 1",
+      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Fliiim",
-        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
-      },
-      "artists": [
-        {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
-        }
-      ],
-      "duration_ms": 329102,
-      "name": "Fliiim",
-      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:37",
-      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2026-05-22 06:00:37",
+      "album": {
+        "name": "Fliiim",
+        "url": "https://open.spotify.com/album/3FoCvSpo76YEUAt98FSKAq"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 329102,
+      "name": "Fliiim",
+      "url": "https://open.spotify.com/track/1aAsUzTj2bIH6cAHLsacKw"
     },
     {
       "added_at": "2026-05-22 06:00:37",
@@ -1627,18 +1627,42 @@
     {
       "added_at": "2026-05-22 06:00:37",
       "album": {
-        "name": "Ah Yoluna!",
-        "url": "https://open.spotify.com/album/5PmuMgHnAPqx9ozpGWfTTX"
+        "name": "Alquimista",
+        "url": "https://open.spotify.com/album/1UBCy7CCPsiZQ63hHETUNo"
       },
       "artists": [
         {
-          "name": "Sedef Seb\u00fcktekin",
-          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+          "name": "COSMO",
+          "url": "https://open.spotify.com/artist/0niuvQnEaBaBVc7nSfyaaT"
+        },
+        {
+          "name": "Jesse Harris",
+          "url": "https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy"
+        },
+        {
+          "name": "CARM",
+          "url": "https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ"
+        },
+        {
+          "name": "Will Graefe",
+          "url": "https://open.spotify.com/artist/0rivjTqOUngqWm9w5tf5YH"
+        },
+        {
+          "name": "Jeremy Gustin",
+          "url": "https://open.spotify.com/artist/0x3OlNZcrhjvU1nmANdMe5"
+        },
+        {
+          "name": "Mike Boschen",
+          "url": "https://open.spotify.com/artist/0JT6KxolPEsNwijARLjb01"
+        },
+        {
+          "name": "Benjamin Lazar Davis",
+          "url": "https://open.spotify.com/artist/120AN9sqwd6UTkZbnjDPKE"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ah Yoluna!",
-      "url": "https://open.spotify.com/track/38DG2RKEcGgpxG5YANVP5G"
+      "duration_ms": 189000,
+      "name": "Alquimista",
+      "url": "https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

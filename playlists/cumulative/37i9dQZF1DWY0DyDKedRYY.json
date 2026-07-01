@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Fcukers - Spotify RADAR",
+        "url": "https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295140,
+      "name": "Anemone - (Live) | Spotify RADAR",
+      "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
+    },
+    {
+      "album": {
         "name": "Anestesia",
         "url": "https://open.spotify.com/album/2nYhva0TxRBllKxG3lqISd"
       },
@@ -12242,7 +12260,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp"
@@ -12264,6 +12282,24 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "album": {
+        "name": "Fcukers - Spotify RADAR",
+        "url": "https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149270,
+      "name": "L.U.C.K.Y - (Live) | Spotify RADAR",
+      "url": "https://open.spotify.com/track/6PQiK3sagwZIY04nQOhIAX"
     },
     {
       "album": {

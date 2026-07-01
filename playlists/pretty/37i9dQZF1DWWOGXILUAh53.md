@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Jennifer Lopez & Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,923 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,150 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 76 | [Girl's Girl \- Girls Trip](https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:15 |
 | 77 | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/track/2un4EaIKXxdVtQbO6cdYM4) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Fire Away \(feat\. Slayyyter\)](https://open.spotify.com/album/1PneNeTJUTq8ueNrXhjwQR) | 3:27 |
 | 78 | [Oblivion](https://open.spotify.com/track/6Dqmi7OfiXEqGfBNbZ41Ud) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Oblivion](https://open.spotify.com/album/6X3ZapGwM8HCkrRN3K8A6R) | 2:21 |
-| 79 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
+| 79 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 80 | [give me a call \(someday\)](https://open.spotify.com/track/72iJoeTxwgvntBgDK9JhVl) | [AUGIS](https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [give me a call \(someday\)](https://open.spotify.com/album/7xHyZooexQ6W1Yyj5Ey6sO) | 2:30 |
 | 81 | [terms and conditions](https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [terms and conditions](https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8) | 2:31 |
 | 82 | [who could love you like i do?](https://open.spotify.com/track/2HpGcpYIElLexIf8dwH8Kn) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [who could love you like i do?](https://open.spotify.com/album/6GQtcmkArttG2r4dtPYI3w) | 3:12 |

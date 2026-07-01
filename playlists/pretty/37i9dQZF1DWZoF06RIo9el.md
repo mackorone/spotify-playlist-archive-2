@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de junio 2026\. Cover: Young Miko & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,558,838 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,719 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 21 | [QHP PIÑATA](https://open.spotify.com/track/39PTRADxy0eQrK2CBTmyeG) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [QHP PIÑATA](https://open.spotify.com/album/4bEPyt76DUgLvsQsZ2czkf) | 3:38 |
 | 22 | [EA EA EA](https://open.spotify.com/track/4tz67i4hMleL46wToRT1Ak) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [AFTERAFTER](https://open.spotify.com/album/5SF4i0tWsZqNQ8wymtauRZ) | 2:42 |
 | 23 | [Dosis](https://open.spotify.com/track/6VUGq7Gi6q5luloeeROI6W) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:00 |
-| 24 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
+| 24 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
 | 25 | [De bar en bar](https://open.spotify.com/track/198CAwN85QgDb8eZTioRoT) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 2:54 |
-| 26 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
+| 26 | [Dando Vueltas](https://open.spotify.com/track/7CzjUysf1fRnpX6aseOlts) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Dando Vueltas](https://open.spotify.com/album/7wYT2QR0HAARGKAbZR0xTk) | 3:14 |
 | 27 | [HBU](https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [HBU](https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq) | 4:08 |
 | 28 | [AGRADECIMIENTO](https://open.spotify.com/track/3n2VrtOex6O2jV9SquyEyh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Quiero Que Se Acabe Este Bendito Verano](https://open.spotify.com/album/4p2RT61MvfZQGDKxssemWo) | 3:11 |
 | 29 | [TUS AMIGAS](https://open.spotify.com/track/1k3WX4cLH6umPTPuZdsqiX) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [SECHO GANG](https://open.spotify.com/album/2Fk1qxzc8hy0JXVUConpxn) | 2:18 |

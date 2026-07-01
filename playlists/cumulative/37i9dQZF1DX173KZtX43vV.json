@@ -9505,6 +9505,32 @@
     },
     {
       "album": {
+        "name": "\u1c98\u1c98",
+        "url": "https://open.spotify.com/album/3VssYONv9JggXulFIcQlds"
+      },
+      "artists": [
+        {
+          "name": "Cyst",
+          "url": "https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT"
+        },
+        {
+          "name": "Iglooghost",
+          "url": "https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB"
+        },
+        {
+          "name": "daisy*",
+          "url": "https://open.spotify.com/artist/3mn36W4BM1OZiaDd8UmN1f"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153215,
+      "name": "Knackered",
+      "url": "https://open.spotify.com/track/54ySZZJ97QsQdydsTpsxuG"
+    },
+    {
+      "album": {
         "name": "Knock It",
         "url": "https://open.spotify.com/album/2PqnmqLv4GWTvHCbVlM1aT"
       },

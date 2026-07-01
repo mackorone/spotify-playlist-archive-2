@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Vivaldi: Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) [Upright Version]",
+        "url": "https://open.spotify.com/album/2cOUIkSFT9DLS0BXvmuezG"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Justus Friedrich Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178131,
+      "name": "Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) - Upright Version",
+      "url": "https://open.spotify.com/track/7hqA2zUcotxKyhEt01WfEe"
+    },
+    {
+      "album": {
         "name": "Flute Concertos",
         "url": "https://open.spotify.com/album/0AjjU3CLnOBk9CGQ20yZDP"
       },

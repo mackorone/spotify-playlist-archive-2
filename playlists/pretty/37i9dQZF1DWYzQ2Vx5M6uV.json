@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
-  "num_followers": 143811,
+  "num_followers": 143808,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "A POCA LUZ",
-        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "A POCA LUZ",
-      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "A POCA LUZ",
+        "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "A POCA LUZ",
+      "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "AFRO RED 2",
-        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 143914,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
         "name": "MI ALGO",
         "url": "https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "White Wine",
         "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 192075,
       "name": "White Wine",
       "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 176668,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "Laho III",
-        "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Laho III",
-      "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "Wapa (Remix)",
         "url": "https://open.spotify.com/album/45V2HrcN52duWmzzXjkQqV"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 228693,
       "name": "Wapa - Remix",
       "url": "https://open.spotify.com/track/06RpXuLcw8SQn8kBlMLMvP"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "Laho III",
+        "url": "https://open.spotify.com/album/5cNmhhxoAbTfeAp541gD6i"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Laho III",
+      "url": "https://open.spotify.com/track/6Ax7HFmxQTWfJB5Wj8o1ET"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
+        "name": "SQD Quilla",
+        "url": "https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "SQD Quilla",
+      "url": "https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
         "name": "Yeye",
         "url": "https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 139200,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
-        "name": "SQD Quilla",
-        "url": "https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw"
-      },
-      "artists": [
-        {
-          "name": "Danny Polo",
-          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
-        }
-      ],
-      "duration_ms": 121043,
-      "name": "SQD Quilla",
-      "url": "https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0"
     },
     {
       "added_at": "2026-06-26 04:01:41",

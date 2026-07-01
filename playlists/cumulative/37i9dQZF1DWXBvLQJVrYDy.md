@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-248 songs - 15 hr 58 min
+249 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-08-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7) | [Cannonball Adderley Quintet In Chicago](https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk) | 6:14 | 2022-08-18 | 2022-11-10 |
 | [Stella by Starlight](https://open.spotify.com/track/3TVpiMoI86chM88b0I712D) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [Tea for Two](https://open.spotify.com/album/2ogUu6iYKmNTdddXXHBwp5) | 5:02 | 2022-08-18 | 2024-11-26 |
+| [Still Waiting](https://open.spotify.com/track/52whDkRvIWSkWgV3yLY2Ai) | [Sapphire 4](https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn) | [Still Waiting](https://open.spotify.com/album/6lwo3yTQxpJ4GHNscdRfsy) | 3:33 | 2026-06-30 |  |
 | [Still Water at Dawn](https://open.spotify.com/track/761pqXVFJDUaahAXuHMW7k) | [Bernina Quartet](https://open.spotify.com/artist/2Svnw11NWIp2PHpPAgIqRo) | [Still Water at Dawn](https://open.spotify.com/album/2Z4zoUN9XuDdN3NwFP6kMo) | 3:10 | 2026-05-27 |  |
 | [Strawberry Snow Cones For Two](https://open.spotify.com/track/1j2stEmsymDnJNi1uPZ1rD) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Strawberry Snow Cones For Two](https://open.spotify.com/album/578scmNeIm4OpGwLnlAd8Q) | 3:34 | 2023-08-10 | 2025-11-13 |
 | [Swidden](https://open.spotify.com/track/6PaiDpGH3Cj8BDVisUrulo) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Swidden](https://open.spotify.com/album/3zI5lpYrvFpEWxcakca78F) | 4:12 | 2026-04-24 |  |
@@ -236,7 +237,7 @@
 | [Waterway](https://open.spotify.com/track/2eszQxvnPJytQuJHsK6GiG) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Waterway](https://open.spotify.com/album/429CJ3uP8utN5IuDqdKBKv) | 3:16 | 2024-02-02 | 2025-11-13 |
 | [Waveless Sea](https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Waveless Sea](https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s) | 3:59 | 2022-09-01 | 2025-11-13 |
 | [Wayfaring](https://open.spotify.com/track/3H1tlHDW9neo5FtXFPCF5U) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Wayfaring](https://open.spotify.com/album/7IR73M4R78K3v4lp7gsCuA) | 3:59 | 2023-01-05 | 2025-11-13 |
-| [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 | 2024-01-19 |  |
+| [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 | 2024-01-19 | 2026-07-01 |
 | [What Else?](https://open.spotify.com/track/2OmEvRjQ7SK8LreKOA4QIP) | [Sapphire 4](https://open.spotify.com/artist/7K4kr1J5r8oL1B93QXSQFn) | [What Else?](https://open.spotify.com/album/04kJlLsBH8dwU7NVTEZqZ2) | 3:08 | 2026-04-24 |  |
 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 | 2022-08-18 | 2025-11-13 |
 | [What´s New](https://open.spotify.com/track/0BL42uZtaUUFXL26jWVmBR) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [What´s New](https://open.spotify.com/album/0c71OvAIq0htZlQAYh4TrT) | 3:38 | 2022-08-18 | 2025-11-13 |

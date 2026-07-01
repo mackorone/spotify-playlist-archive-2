@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Rvssian,  Lojay, Sech",
-  "num_followers": 38304,
+  "num_followers": 38338,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,42 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
+        "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
+        "url": "https://open.spotify.com/album/2WSgLz7JWbOApkctPaXOHW"
+      },
+      "artists": [
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 173185,
+      "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
+      "url": "https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
         "name": "PARTYGYAL",
         "url": "https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty"
       },
@@ -1255,42 +1291,6 @@
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
-        "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
-        "url": "https://open.spotify.com/album/2WSgLz7JWbOApkctPaXOHW"
-      },
-      "artists": [
-        {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 173185,
-      "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
-      "url": "https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc"
     },
     {
       "added_at": "2026-06-19 00:01:46",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
         "name": "NWANGOLO",
         "url": "https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 151024,
       "name": "NWANGOLO",
       "url": "https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-06-19 00:01:46",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1499,6 +1479,26 @@
     {
       "added_at": "2026-06-19 00:01:46",
       "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 176668,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
-    },
-    {
-      "added_at": "2026-06-19 00:01:46",
-      "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-06-19 00:01:46",
@@ -1547,6 +1531,22 @@
       "duration_ms": 175200,
       "name": "Dudu",
       "url": "https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf"
+    },
+    {
+      "added_at": "2026-06-19 00:01:46",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-06-19 00:01:46",

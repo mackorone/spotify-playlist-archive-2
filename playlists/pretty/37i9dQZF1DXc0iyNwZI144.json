@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1032476,
+  "num_followers": 1032444,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 159535,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1123,30 +1123,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Brother Louie",
-        "url": "https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV"
+        "name": "Pretty Girl (Cheat Codes X CADE Remix)",
+        "url": "https://open.spotify.com/album/6jO7hs4GsF6924w10xQTyA"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
         },
         {
-          "name": "Dieter Bohlen",
-          "url": "https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         }
       ],
-      "duration_ms": 172459,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe"
+      "duration_ms": 193613,
+      "name": "Pretty Girl - Cheat Codes X CADE Remix",
+      "url": "https://open.spotify.com/track/39IsH7B5byx8NRlEKlZVg9"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1175,26 +1171,30 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Pretty Girl (Cheat Codes X CADE Remix)",
-        "url": "https://open.spotify.com/album/6jO7hs4GsF6924w10xQTyA"
+        "name": "Brother Louie",
+        "url": "https://open.spotify.com/album/7sXd9MLEYPHUvQJzIdhSBV"
       },
       "artists": [
         {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         },
         {
-          "name": "CADE",
-          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Dieter Bohlen",
+          "url": "https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 193613,
-      "name": "Pretty Girl - Cheat Codes X CADE Remix",
-      "url": "https://open.spotify.com/track/39IsH7B5byx8NRlEKlZVg9"
+      "duration_ms": 172459,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/1rIIZijH9LIMqtdY5x9Ebe"
     },
     {
       "added_at": "2024-11-15 03:00:00",

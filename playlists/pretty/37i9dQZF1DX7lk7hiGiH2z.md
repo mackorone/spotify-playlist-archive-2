@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,957 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,963 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 21 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 |
 | 22 | [Was müssen das für Bäume sein](https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:18 |
 | 23 | [Jahreszeiten](https://open.spotify.com/track/4jHtjsvqHhOJaPgvq36szI) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Jahreszeiten](https://open.spotify.com/album/3HWPzMy11VN2SEH4NI5svm) | 3:22 |
-| 24 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 |
-| 25 | [Mango, Kiwi, Banana](https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E), [Rubi](https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu) | [Mango, Kiwi, Banana](https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee) | 2:22 |
+| 24 | [Mango, Kiwi, Banana](https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E), [Rubi](https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu) | [Mango, Kiwi, Banana](https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee) | 2:22 |
+| 25 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 |
 | 26 | [Der Gorilla mit der Sonnenbrille](https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:51 |
 | 27 | [Ab in den Urlaub](https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Urlaub \- EP](https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0) | 2:06 |
 | 28 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |

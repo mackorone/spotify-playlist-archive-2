@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 30707,
+  "num_followers": 30717,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABZdAW+BvWRTiPVMjikIdMK",
+  "snapshot_id": "akG1gAAAAAA1ad6komUX+36idxPiBfkU",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HABIBTI",
-        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 188877,
-      "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY"
     },
     {
       "added_at": null,
@@ -375,6 +375,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Embrace It (Remix) (feat. Sexyy Red, Flo Milli, RJ Pasin)",
+        "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Embrace It (feat. Sexyy Red, Flo Milli) - Remix",
+      "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
@@ -391,34 +419,6 @@
       "duration_ms": 174106,
       "name": "Need Luv 2 (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5aqzVN01Twl0HXWFNvQG3m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Embrace It (Remix) (feat. Sexyy Red, Flo Milli, RJ Pasin)",
-        "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        },
-        {
-          "name": "RJ Pasin",
-          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 202434,
-      "name": "Embrace It (feat. Sexyy Red, Flo Milli, RJ Pasin) - Remix",
-      "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
     },
     {
       "added_at": null,

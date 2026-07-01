@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11430,
+  "num_followers": 11433,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "slecht idee (let\u2019s do it)",
-        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 191998,
-      "name": "slecht idee (let\u2019s do it)",
-      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Ik Weet Hoe Het Werkt",
         "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vliegen",
-        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+        "name": "slecht idee (let\u2019s do it)",
+        "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
       },
       "artists": [
         {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Vliegen",
-      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
+      "duration_ms": 191998,
+      "name": "slecht idee (let\u2019s do it)",
+      "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -431,6 +415,22 @@
       "duration_ms": 271717,
       "name": "Vlijmscherp",
       "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Boterham",
         "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 127562,
       "name": "Boterham",
       "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "GEEN BEEST",
-        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 145536,
-      "name": "GEEN BEEST",
-      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Was Het Nou Maar Zo (EP)",
         "url": "https://open.spotify.com/album/4Qu9jV13GeXFLgSr7Voada"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 194125,
       "name": "Was Het Nou Maar Zo",
       "url": "https://open.spotify.com/track/16109XiqzxPp5UrwFTB285"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "GEEN BEEST",
+        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 145536,
+      "name": "GEEN BEEST",
+      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "De zachte krachten",
-        "url": "https://open.spotify.com/album/7FbZmatGGAGIkcuAeU5mM9"
-      },
-      "artists": [
-        {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
-        }
-      ],
-      "duration_ms": 172508,
-      "name": "Iedereen",
-      "url": "https://open.spotify.com/track/6bmJJv4rw4YvaiXT68Mlxe"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Kan Je Niet Blijven?",
         "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 215199,
       "name": "Kan Je Niet Blijven?",
       "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "De zachte krachten",
+        "url": "https://open.spotify.com/album/7FbZmatGGAGIkcuAeU5mM9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "duration_ms": 172508,
+      "name": "Iedereen",
+      "url": "https://open.spotify.com/track/6bmJJv4rw4YvaiXT68Mlxe"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Sneeuw In De Zomer",
-        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 164794,
-      "name": "Sneeuw In De Zomer",
-      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Normaal Toen",
         "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Sneeuw In De Zomer",
+        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 164794,
+      "name": "Sneeuw In De Zomer",
+      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
     },
     {
       "added_at": "2026-05-28 11:50:51",

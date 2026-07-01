@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Sam Smith, beabadoobee, YOASOBI, Eve, Tame Impala and more!
 
-14,184 songs - 32 day 23 hr 56 min
+14,185 songs - 32 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,6 +1022,7 @@
 | [Balut](https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Balut](https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG) | 3:27 | 2023-09-14 | 2023-09-22 |
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-16 | 2024-02-23 |
 | [Bambola](https://open.spotify.com/track/5RTtx4D4w29MlufofiIikv) | [toka](https://open.spotify.com/artist/4iXfHZIKHblaqytMwQhHua), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bambola](https://open.spotify.com/album/4yuvVNeV3g2eavxqmut25m) | 2:28 | 2024-05-10 | 2024-05-17 |
+| [BAMBOO](https://open.spotify.com/track/2q2XA70NRreC33odqvghf9) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [HANATANI](https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak), [Cota Mori](https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37) | [BAMBOO](https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy) | 2:45 | 2026-06-25 |  |
 | [bamboo \- Radio Edit](https://open.spotify.com/track/4nRRgkj2Mz06rKszlAKVwc) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [bamboo](https://open.spotify.com/album/6re6esdR18VkESmd46n7yr) | 4:57 | 2025-03-14 | 2025-03-21 |
 | [BANBANZAI!!](https://open.spotify.com/track/4lDypeXD2vfssfrKL7gyvT) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [BANBANZAI!!](https://open.spotify.com/album/7cQtBSNd2nv1medgJfAgDh) | 4:17 | 2026-02-26 | 2026-03-06 |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-06 | 2025-11-14 |

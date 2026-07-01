@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 75855,
+  "num_followers": 75862,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+      "duration_ms": 325124,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 325124,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
         "name": "Rastone (En Vivo en el Teatro de Flores)",
         "url": "https://open.spotify.com/album/4kENWmOZi09OBZL5ziwi7w"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 210000,
       "name": "Rastone (En Vivo en el Teatro de Flores)",
       "url": "https://open.spotify.com/track/2HQ7tr2KXASyKQJoIWtJiB"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Bebamos de las Copas Lindas",
-        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Bebamos de las Copas Lindas",
-      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -1563,18 +1563,22 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Si no Regreso",
-        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
+        "name": "Agua Nueva",
+        "url": "https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
         }
       ],
-      "duration_ms": 178953,
-      "name": "Si no Regreso",
-      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
+      "duration_ms": 222000,
+      "name": "Agua Nueva",
+      "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
     }
   ],
   "unique_name": "Reggae al Sur",

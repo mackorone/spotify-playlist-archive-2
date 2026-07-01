@@ -2943,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Blue Shining Star",
+        "url": "https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Blue Shining Star",
+      "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
+    },
+    {
+      "album": {
         "name": "Blue Velvet - From CrosSing",
         "url": "https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q"
       },
@@ -6400,7 +6418,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 214100,
       "name": "ENDROLL",
       "url": "https://open.spotify.com/track/2fVtDYI3EEs8dJnInh5eAB"
@@ -6888,7 +6906,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 215476,
       "name": "Facing My Shadow",
       "url": "https://open.spotify.com/track/4d2MWLSCSbBL8qmAhKUDzK"
@@ -7330,6 +7348,24 @@
       "duration_ms": 245106,
       "name": "Fireheart",
       "url": "https://open.spotify.com/track/2tEQ2BZD6wLfjMv3DZHIuW"
+    },
+    {
+      "album": {
+        "name": "Firetail",
+        "url": "https://open.spotify.com/album/4jSlDDk2biX9KdhQRceKH6"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215637,
+      "name": "Firetail",
+      "url": "https://open.spotify.com/track/4VocvAYtw3Vad3Fx0YH3p4"
     },
     {
       "album": {
@@ -22617,6 +22653,24 @@
     },
     {
       "album": {
+        "name": "Spinner",
+        "url": "https://open.spotify.com/album/3kiN96imRX0jI41IqlMcXo"
+      },
+      "artists": [
+        {
+          "name": "THE SPELLBOUND",
+          "url": "https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222155,
+      "name": "Spinner",
+      "url": "https://open.spotify.com/track/6nyyC9SqAGq965GMfMJXLW"
+    },
+    {
+      "album": {
         "name": "spiral",
         "url": "https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs"
       },
@@ -27148,7 +27202,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 190900,
       "name": "WHAT AN EXPLOSION",
       "url": "https://open.spotify.com/track/00vlXRYEnMTUnhM0NRjg4r"
@@ -40505,6 +40559,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u3089\u304c\u4e0a\u66f8\u304d\u3059\u308b\u4e16\u754c",
+        "url": "https://open.spotify.com/album/1aWdwGf8TtMbXQGffVSH8t"
+      },
+      "artists": [
+        {
+          "name": "20th Century",
+          "url": "https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "\u50d5\u3089\u304c\u4e0a\u66f8\u304d\u3059\u308b\u4e16\u754c",
+      "url": "https://open.spotify.com/track/3Bqfi3VwyO6tOoe2LTDvKW"
+    },
+    {
+      "album": {
         "name": "\u50d5\u3089\u304c\u611a\u304b\u3060\u306a\u3093\u3066\u8ab0\u304c\u8a00\u3063\u305f",
         "url": "https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk"
       },
@@ -42146,7 +42218,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 296500,
       "name": "\u591c\u306b\u6d6e\u304b\u3076",
       "url": "https://open.spotify.com/track/6EZt6AUMwRib336uJBqIOS"

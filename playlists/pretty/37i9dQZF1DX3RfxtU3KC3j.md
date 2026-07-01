@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Batu Akdeniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,563 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,560 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cambaz](https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Dünya Yalan Söylüyor](https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7) | 3:50 |
 | 2 | [Ben Senden Vazgeçmem \- Pür Cunda Live Sessions](https://open.spotify.com/track/0xs37QUHC0yhGWdMhCzaA0) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Pür Cunda Live Sessions](https://open.spotify.com/album/1kdeB8pxjRz6tnNqAgPQSQ) | 6:10 |
-| 3 | [Yoksun Yine](https://open.spotify.com/track/1eAgOZ5yuGIAFJaSLr4DyJ) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Yoksun Yine](https://open.spotify.com/album/1KSjZg0bd9Ev6qPoYvnN3k) | 5:07 |
+| 3 | [Yoksun Yine](https://open.spotify.com/track/1eAgOZ5yuGIAFJaSLr4DyJ) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Yoksun Yine](https://open.spotify.com/album/1KSjZg0bd9Ev6qPoYvnN3k) | 5:11 |
 | 4 | [Hata](https://open.spotify.com/track/3KGS5EBB5E0gPZLqleWH8o) | [Makbet](https://open.spotify.com/artist/5qwmcwRkE9KTZHYJfReVVC), [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Hata](https://open.spotify.com/album/3TFhZNWpYg6f0piOrhPepN) | 3:49 |
 | 5 | [Senden Sonra](https://open.spotify.com/track/3KRBVTuqsPRXBGExrv7ZeT) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Rock n Roll](https://open.spotify.com/album/1I9iD5B51kt0LhsIfo1xaw) | 3:38 |
 | 6 | [Sürpriz](https://open.spotify.com/track/126e3WGpvS6XVfFzkpaQE8) | [TNK](https://open.spotify.com/artist/4EJYpvhyY4gO4rjEeitXLa), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Sürpriz](https://open.spotify.com/album/0wFCvzggmKrfM1tF5pUR1d) | 3:03 |

@@ -2,7 +2,7 @@
 
 ### [CMA Fest](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
 
-> Watch The Music Event of Summer on June 25 at 8/7c on ABC! Cover: Ella Langley
+> We'll see you all next year at CMA Fest! Cover: Ella Langley
 
 433 songs - 1 day 0 hr 7 min
 

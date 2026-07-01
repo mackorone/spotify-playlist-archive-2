@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,541 likes - 56 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,548 likes - 56 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

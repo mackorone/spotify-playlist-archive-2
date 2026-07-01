@@ -4,7 +4,7 @@
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-124 songs - 7 hr 26 min
+125 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A LA ORDEN](https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [A LA ORDEN](https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD) | 2:55 | 2024-05-26 |  |
 | [A Mi Viejo](https://open.spotify.com/track/2Fur193ZfBVsT2tPFfuOiw) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [A Mi Viejo](https://open.spotify.com/album/53O7nM3lBoZyhT8QU9B8Dj) | 2:28 | 2025-10-26 | 2025-11-23 |
 | [Algo más](https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [TODO](https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W) | 3:12 | 2023-11-10 |  |
-| [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 | 2025-04-29 |  |
+| [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 | 2025-04-29 | 2026-07-01 |
+| [AMOR \- Remix](https://open.spotify.com/track/1dVVhJmYqJFng3RNXgWhBI) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:20 | 2026-07-01 |  |
 | [ASI SOY](https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:56 | 2025-11-08 |  |
 | [Así Soy](https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Así Soy](https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY) | 3:56 | 2023-11-10 | 2025-11-08 |
 | [Atrévete](https://open.spotify.com/track/1VMwXqyPNq6OUxjpmliimG) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Atrévete](https://open.spotify.com/album/20vNurDn3Jc6lpRWBiOxlP) | 3:29 | 2026-05-17 | 2026-06-20 |

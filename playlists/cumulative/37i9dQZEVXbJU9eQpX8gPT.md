@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,121 songs - 4 day 18 hr 53 min
+2,122 songs - 4 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1523,7 +1523,7 @@
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-07 |
 | [Piranha](https://open.spotify.com/track/0zDc0NZPLj8j0EOVyFqzOE) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Tornado](https://open.spotify.com/album/6uUrTYbVajuE7m4bCVrD3D) | 3:14 | 2026-04-10 | 2026-04-12 |
 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-10 | 2026-04-12 |
-| [PLAIES \(feat\. Oumay\)](https://open.spotify.com/track/53cNAn47ImKM86C3rHTmF0) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oumay](https://open.spotify.com/artist/4mbQrg8GXJIE1UTYvcO9Yc) | [SALGOAT \(Vol\. 2 \- Extension\)](https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g) | 2:36 | 2026-06-27 |  |
+| [PLAIES \(feat\. Oumay\)](https://open.spotify.com/track/53cNAn47ImKM86C3rHTmF0) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oumay](https://open.spotify.com/artist/4mbQrg8GXJIE1UTYvcO9Yc) | [SALGOAT \(Vol\. 2 \- Extension\)](https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g) | 2:36 | 2026-06-27 | 2026-07-01 |
 | [Plainte Alliées](https://open.spotify.com/track/4qtL0WwVpxaYAyiAP29Lfb) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Plainte Alliées](https://open.spotify.com/album/0Rgg3wqSlTQX4FldyilNF5) | 4:12 | 2023-06-23 | 2023-06-25 |
 | [Plainte Alliées](https://open.spotify.com/track/7zDFZo9soX5TuNNTDEqlzw) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 4:12 | 2023-05-27 | 2025-10-08 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2021-11-28 | 2021-12-02 |
@@ -1720,6 +1720,7 @@
 | [Skit](https://open.spotify.com/track/4GVwjLRT7oSsKby7Vy8EHr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 2:59 | 2021-11-22 | 2021-11-23 |
 | [SKITZO](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2023-07-29 | 2023-07-31 |
 | [Sky Priority](https://open.spotify.com/track/6ItXr7qOXzK6KlhTbUu6hp) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:49 | 2021-12-05 | 2021-12-12 |
+| [Skyline](https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Skyline](https://open.spotify.com/album/07EP0dTPYrapBsjRkzZrr0) | 2:37 | 2026-06-30 |  |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-17 | 2023-10-09 |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 | 2024-07-22 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-09 | 2024-06-03 |

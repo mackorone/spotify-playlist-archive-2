@@ -1,12 +1,12 @@
 {
   "description": "This is Aldous Harding. The essential tracks, all in one playlist.",
-  "num_followers": 4967,
+  "num_followers": 4973,
   "original_name": "This Is Aldous Harding",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAACrBIKjB5EwBBvowL1LmTFD",
+  "snapshot_id": "akG1gAAAAABhn+eyncxqqoE9QDSVji6i",
   "tracks": [
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 269908,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/0ALWJPTTsCyhMrXcYolqFO"
+      "duration_ms": 160310,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/2SM3Y0wuaxlJM5BpKL3mqp"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 160310,
-      "name": "Beast",
-      "url": "https://open.spotify.com/track/2SM3Y0wuaxlJM5BpKL3mqp"
+      "duration_ms": 269908,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/0ALWJPTTsCyhMrXcYolqFO"
     },
     {
       "added_at": null,

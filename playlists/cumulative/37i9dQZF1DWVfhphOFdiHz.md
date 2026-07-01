@@ -4,7 +4,7 @@
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Jamie Fine
 
-598 songs - 1 day 7 hr 56 min
+598 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [I DON'T MIND](https://open.spotify.com/track/1HqC2eHaSky81mBIiPICok) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [I DON'T MIND](https://open.spotify.com/album/1JK4oCMxn4PyQ8OCSNe9ve) | 3:00 | 2025-09-05 | 2025-11-01 |
 | [I DON’T WANNA DO THIS ANYMORE](https://open.spotify.com/track/6FguetQoUCSHkng6Fe1ofO) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:31 | 2023-12-15 | 2024-04-06 |
 | [I Drove All Night](https://open.spotify.com/track/2shk0j6nfPz3V4PDswXNNe) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [I Drove All Night](https://open.spotify.com/album/1oNdE0RsZ8IyzaKSjXO6VW) | 3:48 | 2026-05-15 | 2026-06-17 |
-| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 | 2026-04-20 |  |
+| [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 4:59 | 2026-04-20 |  |
 | [I JUST WANNA DANCE!](https://open.spotify.com/track/11hqkNchVpr8edC2AbtfRF) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [I JUST WANNA DANCE!](https://open.spotify.com/album/2t1FUKBXMSZvw0308pcLV5) | 3:10 | 2024-03-08 | 2025-05-31 |
 | [i think i like your girlfriend](https://open.spotify.com/track/4vfqtTA2gCEgorXHfay7XV) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [i think i like your girlfriend](https://open.spotify.com/album/4V9hYFIzK5hLLmxNEjyu2t) | 2:46 | 2023-12-15 | 2024-06-01 |
 | [I wanna see my friends dicks](https://open.spotify.com/track/0P1wKIjXnS8tSIawGJxv4t) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [I wanna see my friends dicks](https://open.spotify.com/album/4oJ6eDAZwR8Be2rW881AHR) | 2:30 | 2025-04-04 | 2025-11-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1319710,
+  "num_followers": 1319630,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 209100,
       "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
       "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 195360,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Warm on a Cold Night (10 Years)",
-        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 318120,
-      "name": "Warm on a Cold Night (10 Years)",
-      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Save My Heart",
         "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 181260,
       "name": "Save My Heart",
       "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Warm on a Cold Night (10 Years)",
+        "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "Warm on a Cold Night (10 Years)",
+      "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Made It Happen",
+        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
+      },
+      "artists": [
+        {
+          "name": "Finn Mungo",
+          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Made It Happen",
+      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Someone That's Better",
         "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Made It Happen",
-        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
+        "name": "HEADPHONES",
+        "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
       },
       "artists": [
         {
-          "name": "Finn Mungo",
-          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Made It Happen",
-      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
+      "duration_ms": 196200,
+      "name": "HEADPHONES",
+      "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "HEADPHONES",
-        "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
+        "name": "steal my soul",
+        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
         }
       ],
-      "duration_ms": 196200,
-      "name": "HEADPHONES",
-      "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
+      "duration_ms": 141320,
+      "name": "steal my soul",
+      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1563,22 +1579,6 @@
       "duration_ms": 214401,
       "name": "The Seize",
       "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "steal my soul",
-        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 141320,
-      "name": "steal my soul",
-      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1631,18 +1631,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
+        "name": "Still Run",
+        "url": "https://open.spotify.com/album/3avxMSC0AsjtdARQXC7tjF"
       },
       "artists": [
         {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        },
+        {
+          "name": "Starchild & The New Romantic",
+          "url": "https://open.spotify.com/artist/3JZZpDHgo1WxBrxuleA3Ab"
         }
       ],
-      "duration_ms": 231011,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
+      "duration_ms": 216780,
+      "name": "Still Run (feat. Starchild & The New Romantic)",
+      "url": "https://open.spotify.com/track/6oQr3o6tXx7ESYG2sHpNMl"
     }
   ],
   "unique_name": "Easy",

@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: CLASSy\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: CHOI YOOJUNG \(최유정\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-553 songs - 1 day 6 hr 3 min
+554 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 | 2024-04-19 |
 | [Pat Pat](https://open.spotify.com/track/49Ija3jkDVMCi5ZZnKWx8K) | [MelodyDay](https://open.spotify.com/artist/7lD3HWDgSgMxHNFno02dJp) | [Restless](https://open.spotify.com/album/3LsPMmtxBywAqrgc1QoMS6) | 3:48 | 2022-02-14 | 2022-06-20 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-29 |  |
+| [Perfect Target](https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Perfect Target](https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc) | 2:28 | 2026-06-30 |  |
 | [PICK ME](https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3) | [PRODUCE 48](https://open.spotify.com/artist/5ORE0ElD7HiONogJZzhKrS) | [PRODUCE 48 \- NEKKOYA \(PICK ME\)](https://open.spotify.com/album/2bl024XQdz3Pd4jQLNyaZg) | 4:39 | 2022-03-29 | 2022-04-02 |
 | [Picky Picky](https://open.spotify.com/track/2RwHcRK2KfIAUGNq4Nlfv5) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [LOCK END LOL](https://open.spotify.com/album/1JrQT5pcTgC9HfVe5f2SL6) | 3:16 | 2022-03-29 | 2022-04-10 |
 | [Pinball](https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:12 | 2024-09-25 |  |
@@ -469,7 +470,7 @@
 | [Talk to me](https://open.spotify.com/track/2wcFM3ZJwOjE09L6K2rBLc) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [SUMMER DREAM](https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ) | 3:13 | 2021-11-29 | 2022-07-22 |
 | [Tasty Tasty Tasty](https://open.spotify.com/track/1Tzcbnj2VqwHwvwJtVdpWe) | [Heyne](https://open.spotify.com/artist/3VIi3w8QEz7SHLBg5XM8c5) | [Tiny Bits of Life, Pt\. 10](https://open.spotify.com/album/1WpoE8sMwNk2I918nxcrk0) | 3:05 | 2021-11-29 | 2022-06-12 |
 | [TAXI](https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [LOVE ALL](https://open.spotify.com/album/48XkMlSp71d4SzQsxiaij2) | 2:48 | 2023-08-09 | 2023-10-21 |
-| [Tear Drop](https://open.spotify.com/track/58LrWUfLf4BWdMx1PNPefc) | [CLASSy](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [RE:BOOT \[AFTER TEARS\]](https://open.spotify.com/album/5mD8EE3lOGlxx8p6a3x3wy) | 2:57 | 2026-06-23 |  |
+| [Tear Drop](https://open.spotify.com/track/58LrWUfLf4BWdMx1PNPefc) | [CLASSy](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [RE:BOOT \[AFTER TEARS\]](https://open.spotify.com/album/5mD8EE3lOGlxx8p6a3x3wy) | 2:57 | 2026-06-23 | 2026-07-01 |
 | [Temptation](https://open.spotify.com/track/153Q9DPESoV9PfJXHMnAFH) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:27 | 2021-11-29 | 2022-04-21 |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-14 | 2022-07-24 |
 | [That day](https://open.spotify.com/track/7FO1P6TNaex2MfGFf5fRT0) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 4th Mini Album Heal](https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX) | 3:14 | 2022-01-04 | 2022-07-22 |

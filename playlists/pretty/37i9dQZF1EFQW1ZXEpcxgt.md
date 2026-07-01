@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 112 | [Hey Cutie](https://open.spotify.com/track/4eUJJtvEwDn45jG0gZdLdZ) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [The DeAndre Way \(Deluxe Explicit Version\)](https://open.spotify.com/album/0uOv76Q0q8w5PtiazPiq5z) | 3:15 |
 | 113 | [Hurt for Long](https://open.spotify.com/track/5Zo2q2qGbGMzPURPXqOqlX) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:17 |
 | 114 | [Weekend Behavior](https://open.spotify.com/track/6Ds1x8qOzlq3tBH12W7WPi) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Cuban Jesus](https://open.spotify.com/album/5qK4ZzsOUh7d0zD42r01ao) | 3:39 |
-| 115 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
-| 116 | [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 115 | [Hate You](https://open.spotify.com/track/5WN4ByXJLl7SmsQMsx2yQr) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess, My Heart, My Life.](https://open.spotify.com/album/08u2urMBBJIz9kMwAl08yI) | 3:16 |
+| 116 | [We're Not Friends](https://open.spotify.com/track/4v9L9xPXgoZnYoI204IBrE) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Better With You](https://open.spotify.com/album/5B6tCFDLdMHbd1P3p8ApL5) | 2:50 |
 | 117 | [Solo](https://open.spotify.com/track/37CtAzYl5Ci5y5wPEEcHFU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 3:53 |
 | 118 | [Never Do](https://open.spotify.com/track/5cMUMHAhMIgqSS8NNw5G6r) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Never Do](https://open.spotify.com/album/6240ajzU2Mcccqe6dCr3Yl) | 1:58 |
 | 119 | [Again](https://open.spotify.com/track/3uqwJF9yjcOrzY3weJqxU3) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 1:22 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 148 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 149 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcVjOgAAAAC53gQEC7PqhF0bOMJTlksC`
+Snapshot ID: `AcVo0AAAAAAEejH7wiy7+sTq+64HNeew`

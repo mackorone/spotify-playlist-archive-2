@@ -4,7 +4,7 @@
 
 > The most exciting new music on our radar, featuring Fcukers
 
-1,333 songs - 2 day 21 hr 43 min
+1,335 songs - 2 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Amor](https://open.spotify.com/track/0r9iiHyIEnnOYjK6kpGY9s) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Wish You Were Here](https://open.spotify.com/album/4ImJm5YBExvjj6X9N5yfeq) | 2:42 | 2022-04-08 | 2022-05-18 |
 | [An Alien In Minneapolis](https://open.spotify.com/track/6g7jWCRDBhLAABHKbiAiSv) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 5:25 | 2022-09-06 | 2022-11-15 |
 | [and when you look at the stars](https://open.spotify.com/track/27vDk9u9ayaGS1S2mMW4eQ) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [I The Ai](https://open.spotify.com/artist/6VmRC70MH7DjZdbYGoNCCc) | [and when you look at the stars](https://open.spotify.com/album/1wq9Bn9K8RCYftBDDb2Wya) | 3:15 | 2024-09-01 | 2024-12-05 |
+| [Anemone \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 4:55 | 2026-06-30 |  |
 | [Anestesia](https://open.spotify.com/track/2EQKYVMpnpvyUaHZL2VQlU) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Anestesia](https://open.spotify.com/album/2nYhva0TxRBllKxG3lqISd) | 3:13 | 2023-03-31 | 2023-05-09 |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2024-02-12 | 2025-01-18 |
 | [Anhedonia](https://open.spotify.com/track/09AvSIidFD4Z7SrZ8IMm9h) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Anhedonia](https://open.spotify.com/album/6CNwm8XPtOmYagAmoIt7vi) | 3:49 | 2025-04-01 | 2025-06-02 |
@@ -651,8 +652,9 @@
 | [Krunk](https://open.spotify.com/track/4JC2H3j5NOkpiOXTgMVsx7) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sad Night Dynamite](https://open.spotify.com/album/2a7NyNVcy7eJSeUzzOOF4x) | 3:07 | 2021-12-01 | 2022-04-09 |
 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 | 2022-09-06 | 2022-11-15 |
 | [L.O.A.T](https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [L.O.A.T](https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg) | 2:26 | 2025-10-01 | 2026-03-03 |
-| [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 | 2026-06-03 |  |
+| [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 | 2026-06-03 | 2026-07-01 |
 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-01-26 | 2026-03-24 |
+| [L.U.C.K.Y \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6PQiK3sagwZIY04nQOhIAX) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 2:29 | 2026-06-30 |  |
 | [LA CANCIÓN](https://open.spotify.com/track/4dC6muizwbm0zgzuSIP7kU) | [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv) | [LA CANCIÓN](https://open.spotify.com/album/1mqXnDs578VdV5a6gRPpcN) | 3:15 | 2022-04-08 | 2022-05-18 |
 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 | 2022-06-29 | 2022-07-27 |
 | [la de arca](https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [la de arca](https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu) | 2:29 | 2025-08-01 | 2025-10-02 |

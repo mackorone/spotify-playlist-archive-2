@@ -4,7 +4,7 @@
 
 > New music from Thando Zide, Davido, TEEKS, kwn, Mthunzi and more.
 
-10,774 songs - 31 day 10 hr 44 min
+10,774 songs - 31 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2925,7 +2925,7 @@
 | [Fired Up](https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF) | [Hoax \(BE\)](https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Fired Up](https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E) | 3:48 | 2025-05-15 | 2025-05-23 |
 | [Fired Up](https://open.spotify.com/track/3aZwW91aki8w7dOLph7f6F) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Fired Up](https://open.spotify.com/album/4bAqctBi23Fa2FiB3XRyzx) | 2:35 | 2025-11-06 | 2025-11-14 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-07 |
-| [FIRST CLASS](https://open.spotify.com/track/1f2VfHlDSGQM2nLRSAh238) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [FIRST CLASS](https://open.spotify.com/album/0nPceCmpDo9TAvNvkISxkO) | 3:41 | 2026-06-25 |  |
+| [FIRST CLASS](https://open.spotify.com/track/1f2VfHlDSGQM2nLRSAh238) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [FIRST CLASS](https://open.spotify.com/album/0nPceCmpDo9TAvNvkISxkO) | 3:48 | 2026-06-25 |  |
 | [first date](https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [first date](https://open.spotify.com/album/2mIJLycY91IuPczBAGX1PG) | 1:40 | 2025-07-25 | 2025-08-01 |
 | [First Heartbreak](https://open.spotify.com/track/1Q1lVyR7KPU4LjtaTrYlb4) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [First Heartbreak](https://open.spotify.com/album/1kCdW9GL9iml9d3XuSIdtq) | 3:49 | 2026-05-28 | 2026-06-05 |
 | [First Love](https://open.spotify.com/track/5qG1bS0QJMdBQ7ZWS7ARCx) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [First Love](https://open.spotify.com/album/2JV7DLFUqhL71henfidRcT) | 3:07 | 2025-01-17 | 2025-01-24 |

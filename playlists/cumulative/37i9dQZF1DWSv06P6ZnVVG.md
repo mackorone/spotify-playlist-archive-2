@@ -4,7 +4,7 @@
 
 > Rueda el balón a ritmo de La Madre de Todas las Bandas.
 
-487 songs - 1 day 3 hr 43 min
+488 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Pica Perica](https://open.spotify.com/track/0DsQSFHjzyjKlF0jjjPobe) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [Puras Carnavaleras, Vol\. 1](https://open.spotify.com/album/0Bj9gYecHspcizWQ7JaEvn) | 1:58 | 2026-04-28 | 2026-06-11 |
 | [Pica Perica](https://open.spotify.com/track/3o9Hwlv4ED9L9MNzT4XJEP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:10 | 2022-08-02 | 2026-04-29 |
 | [Pica Perica \- En Vivo Desde El Rancho](https://open.spotify.com/track/3rRsyxWKh1znG601xHefUN) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:36 | 2022-08-02 | 2026-04-29 |
+| [Ponte La Verde](https://open.spotify.com/track/3lndb7gIgxC2SSVPYR0Vtv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Ponte La Verde](https://open.spotify.com/album/3l5joYyJUMBU6YvA3zt1Hq) | 3:02 | 2026-06-30 |  |
 | [Popurri Banda El Mexicano \(Que Le Pasa A Lupita, Feliz Feliz,Ramito De Violetas\)](https://open.spotify.com/track/6zbLGCjIPY4U4jQzpcq32H) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Popurri Banda El Mexicano](https://open.spotify.com/album/4cM7ZQAyLemitwlaOiGEFv) | 4:46 | 2026-01-28 | 2026-04-29 |
 | [Popurri Costeño: Pinotepa / San Marqueña / Son Costeño](https://open.spotify.com/track/38dVZC4WrDThcgunQLD8Mg) | [La Internacional Picosa Hernández Banda](https://open.spotify.com/artist/33pLM8HfSgXsbNLOK8PQEf) | [Una Leyenda](https://open.spotify.com/album/6cJMfrdj90eOehGwOnQcy6) | 5:25 | 2026-01-28 | 2026-04-29 |
 | [Popurri De Sones Barbaro .\. Son Del Toro / Huitzuqueño / Los Colorados / Las Guacayas](https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 3:19 | 2022-08-02 | 2026-06-11 |
@@ -436,7 +437,7 @@
 | [Sentimiento De Dolor](https://open.spotify.com/track/3B0Wqqv6N7BSERdjncqnOe) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Déjate Llevar](https://open.spotify.com/album/0vlUHJGLk5Jov2Tgc64biB) | 2:01 | 2026-04-28 | 2026-06-11 |
 | [Sera Porque Te Amo](https://open.spotify.com/track/6aVNDcT9xLJ9DwXsr4TWZt) | [Banda Perla De Michoacán](https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84) | [12 Temas](https://open.spotify.com/album/6hPxsthWCeH7mBBbGHnylX) | 2:43 | 2026-04-28 | 2026-06-11 |
 | [Será Porque Te Amo](https://open.spotify.com/track/5WyCGNW2amJkrP2RWmZTxl) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [Y Aquí Nos Quedamos](https://open.spotify.com/album/3m8Rspu8sPgrrMWh0OUsh5) | 3:10 | 2026-01-28 | 2026-06-11 |
-| [Si No Es Contigo](https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 3:02 | 2026-06-10 |  |
+| [Si No Es Contigo](https://open.spotify.com/track/6zwhKdzJ4NXdY4HLU7pjns) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 3:02 | 2026-06-10 | 2026-07-01 |
 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 | 2025-05-02 | 2026-01-29 |
 | [Simplemente Amigos](https://open.spotify.com/track/4JfMdJ3nqAW2GwVtGkeICm) | [Los Nuevos Santa Rosa](https://open.spotify.com/artist/5ZiP7QnmyzZhbfvzSCOB2o) | [20 Grandes Exitos](https://open.spotify.com/album/7oofCuAPjsgKh3RYLuc2T8) | 3:18 | 2026-04-28 | 2026-06-11 |
 | [Sin Miedo Al Toro](https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Sin Miedo Al Toro](https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar) | 3:19 | 2022-08-02 | 2026-04-29 |

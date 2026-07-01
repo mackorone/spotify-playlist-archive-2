@@ -1,12 +1,12 @@
 {
   "description": "Olivia Dean keeps the good vibes going all day long",
-  "num_followers": 3635790,
+  "num_followers": 3635708,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4de0OKL4wYNj+0nvuWk7sIsgoZ",
+  "snapshot_id": "AAAAAHDSRBzIZbJpTPUuVM0NSfG2pmQn",
   "tracks": [
     {
       "added_at": "2026-05-01 04:15:26",
@@ -693,6 +693,26 @@
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
+      "added_at": "2026-06-30 17:15:57",
+      "album": {
+        "name": "Okunkun",
+        "url": "https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        },
+        {
+          "name": "Killertunes",
+          "url": "https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Okunkun",
+      "url": "https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9"
+    },
+    {
       "added_at": "2026-05-01 04:15:26",
       "album": {
         "name": "Messy",
@@ -831,22 +851,6 @@
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/2PmT48FrSBYvqFDCRRTARH"
-    },
-    {
-      "added_at": "2026-05-01 04:15:26",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-05-01 04:15:26",

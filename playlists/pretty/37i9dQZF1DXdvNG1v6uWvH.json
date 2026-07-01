@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of sombr,  Gracie Abrams og m\u00f6rgum fleiri!",
-  "num_followers": 9667,
+  "num_followers": 9665,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
+        "name": "KILLIN EM",
+        "url": "https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 113437,
+      "name": "KILLIN EM",
+      "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 229994,
       "name": "Jealous Lover",
       "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
-        "name": "KILLIN EM",
-        "url": "https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 113437,
-      "name": "KILLIN EM",
-      "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "PATRONA",
-        "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 165135,
-      "name": "PATRONA",
-      "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
       },
@@ -587,22 +571,18 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "ROMO",
-        "url": "https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci"
+        "name": "PATRONA",
+        "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 171028,
-      "name": "ROMO",
-      "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"
+      "duration_ms": 165135,
+      "name": "PATRONA",
+      "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -623,6 +603,26 @@
       "duration_ms": 195727,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
+        "name": "ROMO",
+        "url": "https://open.spotify.com/album/4cfo4dIkmXxP8lNkU58Oci"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171028,
+      "name": "ROMO",
+      "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "ZAMA ZAMA",
-        "url": "https://open.spotify.com/album/5TMZfoJkqljUnWAjV1M9xm"
+        "name": "Still The One",
+        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
       },
       "artists": [
         {
-          "name": "Die Antwoord",
-          "url": "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 236800,
-      "name": "WHAT DO THEY KNOW?",
-      "url": "https://open.spotify.com/track/6YcQiXL4WOETStiAp1zRjH"
+      "duration_ms": 232640,
+      "name": "Still The One",
+      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -707,42 +707,6 @@
       "duration_ms": 177230,
       "name": "Club Soda",
       "url": "https://open.spotify.com/track/17Nw8CO56qTJhtB4Mj4v1Q"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
-        "name": "AND WON'T (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 194321,
-      "name": "AND WON'T (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
-        "name": "Still The One",
-        "url": "https://open.spotify.com/album/3FEkrUyrF8yYV2QqD2n4ij"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 232640,
-      "name": "Still The One",
-      "url": "https://open.spotify.com/track/6s1xk1e6YI91p2pUFw1Bfr"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -767,18 +731,38 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "She's My Religion",
-        "url": "https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG"
+        "name": "ZAMA ZAMA",
+        "url": "https://open.spotify.com/album/5TMZfoJkqljUnWAjV1M9xm"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Die Antwoord",
+          "url": "https://open.spotify.com/artist/6urkHDoIVO1WO8vNIwcJmM"
         }
       ],
-      "duration_ms": 240194,
-      "name": "She's My Religion",
-      "url": "https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4"
+      "duration_ms": 236800,
+      "name": "WHAT DO THEY KNOW?",
+      "url": "https://open.spotify.com/track/6YcQiXL4WOETStiAp1zRjH"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
+        "name": "AND WON'T (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 194321,
+      "name": "AND WON'T (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -799,6 +783,22 @@
       "duration_ms": 167751,
       "name": "Sunset Of My Youth",
       "url": "https://open.spotify.com/track/38QrOtLPHvnZg7t84gL1CL"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
+        "name": "She's My Religion",
+        "url": "https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 240194,
+      "name": "She's My Religion",
+      "url": "https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -963,22 +963,18 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "State Of Mind (with Camden Cox)",
-        "url": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe"
+        "name": "Boy Crazy",
+        "url": "https://open.spotify.com/album/6h7b4HoaAY7sEWt9MDQGZD"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Lennixx",
+          "url": "https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6"
         }
       ],
-      "duration_ms": 184320,
-      "name": "State Of Mind (with Camden Cox)",
-      "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
+      "duration_ms": 149813,
+      "name": "Boy Crazy",
+      "url": "https://open.spotify.com/track/7Mt6YOzW8PiraXz7vfbnFc"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -999,34 +995,22 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "Boy Crazy",
-        "url": "https://open.spotify.com/album/6h7b4HoaAY7sEWt9MDQGZD"
+        "name": "State Of Mind (with Camden Cox)",
+        "url": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe"
       },
       "artists": [
         {
-          "name": "Lennixx",
-          "url": "https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6"
-        }
-      ],
-      "duration_ms": 149813,
-      "name": "Boy Crazy",
-      "url": "https://open.spotify.com/track/7Mt6YOzW8PiraXz7vfbnFc"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
-        "name": "Roses In The Dark",
-        "url": "https://open.spotify.com/album/6xpgyjIqQRJiNQ55Fd5XBx"
-      },
-      "artists": [
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 193803,
-      "name": "Roses In The Dark",
-      "url": "https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ"
+      "duration_ms": 184320,
+      "name": "State Of Mind (with Camden Cox)",
+      "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -1079,6 +1063,22 @@
       "duration_ms": 203000,
       "name": "Human",
       "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
+        "name": "Roses In The Dark",
+        "url": "https://open.spotify.com/album/6xpgyjIqQRJiNQ55Fd5XBx"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 193803,
+      "name": "Roses In The Dark",
+      "url": "https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1zLlTwN52fMQ1ljku2o5Lk"
-      },
-      "artists": [
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 223764,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/11offQkhMqj88OxCXNPCWW"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
         "name": "Calling My Line",
         "url": "https://open.spotify.com/album/0hfepChbNW2ndpIZpVYj51"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 151160,
       "name": "Calling My Line",
       "url": "https://open.spotify.com/track/08aFoOhHs04Qp7PiSRQD1I"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1zLlTwN52fMQ1ljku2o5Lk"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 223764,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/11offQkhMqj88OxCXNPCWW"
     },
     {
       "added_at": "2026-06-26 00:00:22",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-06-26 00:00:22",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0dlS4uaRTu87m5YeH9TqT0"
-      },
-      "artists": [
-        {
-          "name": "GERD",
-          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3L8WeELmAzaauECXkirrah"
-    },
-    {
-      "added_at": "2026-06-26 00:00:22",
-      "album": {
         "name": "Last Train Home",
         "url": "https://open.spotify.com/album/4BYuClhmYidSVfLtA7cXZs"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 182776,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ"
+    },
+    {
+      "added_at": "2026-06-26 00:00:22",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0dlS4uaRTu87m5YeH9TqT0"
+      },
+      "artists": [
+        {
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3L8WeELmAzaauECXkirrah"
     },
     {
       "added_at": "2026-06-26 00:00:22",

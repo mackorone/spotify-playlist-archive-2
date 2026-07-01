@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "AD KALAMI",
+        "url": "https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "AD KALAMI",
+      "url": "https://open.spotify.com/track/1qWPluFaHkzQPGwP7LuehO"
+    },
+    {
+      "album": {
         "name": "Ad3i",
         "url": "https://open.spotify.com/album/6mU2iJOgc4uFmZCeXg5ksP"
       },
@@ -4697,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "Siba Sawt-System #2",
+        "url": "https://open.spotify.com/album/0o6l9J6NUWLeAjyLjvyaIr"
+      },
+      "artists": [
+        {
+          "name": "Aziz Konkrite",
+          "url": "https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441869,
+      "name": "Love & Hayt",
+      "url": "https://open.spotify.com/track/30RCUXZSDyLOqAeuAujSu5"
+    },
+    {
+      "album": {
         "name": "Love TKO",
         "url": "https://open.spotify.com/album/0EYqnoNrlvfObgfIO4lb0P"
       },
@@ -4820,7 +4856,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 153600,
       "name": "MABA'TSH AFHAMHA !!!",
       "url": "https://open.spotify.com/track/0sE6Jc2Bnr4o8FCsfWSoEg"
@@ -5342,6 +5378,24 @@
       "duration_ms": 157647,
       "name": "MESH MOSTA2",
       "url": "https://open.spotify.com/track/4ChpOTg7RlVxB5BcKRK5Jl"
+    },
+    {
+      "album": {
+        "name": "Chambre 7",
+        "url": "https://open.spotify.com/album/0lYmNBWy9mfUf42Wlk7RYs"
+      },
+      "artists": [
+        {
+          "name": "KAPO",
+          "url": "https://open.spotify.com/artist/4wBIRnApFLa3Bg0kCwSM1k"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161674,
+      "name": "Mi amore",
+      "url": "https://open.spotify.com/track/3W6UUGz9IOYmdgH2sDP7dW"
     },
     {
       "album": {
@@ -8394,7 +8448,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 208780,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/6PcO08cZ8KLtix7hCB4Oej"
@@ -9872,7 +9926,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 139058,
       "name": "\u0643\u0645\u0628\u0648\u062f\u064a \u0645\u0648\u062a\u064a",
       "url": "https://open.spotify.com/track/6JP9JWd00sYDoVjdi1tZlX"

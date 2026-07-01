@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1100214,
+  "num_followers": 1100252,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
+        "name": "Love on a Real Train",
+        "url": "https://open.spotify.com/album/15SKhD1mm3wnBltcNq1w1c"
+      },
+      "artists": [
+        {
+          "name": "Earmake",
+          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
+        }
+      ],
+      "duration_ms": 309817,
+      "name": "Love on a Real Train",
+      "url": "https://open.spotify.com/track/0BVnj2LR0fptLTOgKh63VV"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
         "name": "Cosmic Voyage",
         "url": "https://open.spotify.com/album/3nDvD4T8sB20QeF8XsFSQZ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 284892,
       "name": "Cosmic Voyage",
       "url": "https://open.spotify.com/track/5rZ4Y6hbo4URT781qcGlLB"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
-        "name": "Love on a Real Train",
-        "url": "https://open.spotify.com/album/15SKhD1mm3wnBltcNq1w1c"
-      },
-      "artists": [
-        {
-          "name": "Earmake",
-          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
-        }
-      ],
-      "duration_ms": 309817,
-      "name": "Love on a Real Train",
-      "url": "https://open.spotify.com/track/0BVnj2LR0fptLTOgKh63VV"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Metaversal",
-        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
-      },
-      "artists": [
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 339333,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Floating Point",
         "url": "https://open.spotify.com/album/5wjAYZF4Qns8OBlycPcccu"
       },
@@ -1279,18 +1263,34 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Machine Wired",
-        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
+        "name": "Metaversal",
+        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
       },
       "artists": [
         {
-          "name": "SelloRekt / LA Dreams",
-          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
         }
       ],
-      "duration_ms": 243348,
-      "name": "Modern Touch",
-      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
+      "duration_ms": 339333,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "Nights",
+        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
+      },
+      "artists": [
+        {
+          "name": "Droid Bishop",
+          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
+        }
+      ],
+      "duration_ms": 301687,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Nights",
-        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
+        "name": "Machine Wired",
+        "url": "https://open.spotify.com/album/2XsHVM7MSv7Y65A0ktwpx4"
       },
       "artists": [
         {
-          "name": "Droid Bishop",
-          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
+          "name": "SelloRekt / LA Dreams",
+          "url": "https://open.spotify.com/artist/5I4GhQs6SMqW1aqvrtqFoa"
         }
       ],
-      "duration_ms": 301687,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
+      "duration_ms": 243348,
+      "name": "Modern Touch",
+      "url": "https://open.spotify.com/track/7Ig8Rh7hEFdtkJmwMwBx55"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
-      },
-      "artists": [
-        {
-          "name": "Ace Buchannon",
-          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 218666,
       "name": "Shift",
       "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
+      },
+      "artists": [
+        {
+          "name": "Ace Buchannon",
+          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
+        "name": "Eleos",
+        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
+      },
+      "artists": [
+        {
+          "name": "Turbo Knight",
+          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
+        },
+        {
+          "name": "Edictum",
+          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
+        }
+      ],
+      "duration_ms": 394999,
+      "name": "Eleos",
+      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/5QTDZ9YYznQVSu1RIQHnO6"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 363000,
       "name": "Why?",
       "url": "https://open.spotify.com/track/7oGJe42CJT5sqQOKfilqmW"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
-        "name": "Eleos",
-        "url": "https://open.spotify.com/album/1Z9YCKYva9IFskRxQMlgug"
-      },
-      "artists": [
-        {
-          "name": "Turbo Knight",
-          "url": "https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c"
-        },
-        {
-          "name": "Edictum",
-          "url": "https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd"
-        }
-      ],
-      "duration_ms": 394999,
-      "name": "Eleos",
-      "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Timewarp",
-        "url": "https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C"
-      },
-      "artists": [
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 247431,
-      "name": "Timewarp",
-      "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Power Light",
         "url": "https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 261614,
       "name": "Power Light",
       "url": "https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "Timewarp",
+        "url": "https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C"
+      },
+      "artists": [
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "duration_ms": 247431,
+      "name": "Timewarp",
+      "url": "https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
-        "url": "https://open.spotify.com/album/55l1WoJzMpquZIX4FWY6Yv"
-      },
-      "artists": [
-        {
-          "name": "\u041b\u0443\u0447",
-          "url": "https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ"
-        }
-      ],
-      "duration_ms": 182403,
-      "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
-      "url": "https://open.spotify.com/track/2AvDaqxSlxeXFb0kSWnVOs"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Pressure Point",
         "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 236216,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
+        "url": "https://open.spotify.com/album/55l1WoJzMpquZIX4FWY6Yv"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0443\u0447",
+          "url": "https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ"
+        }
+      ],
+      "duration_ms": 182403,
+      "name": "\u041f\u043e\u0433\u043e\u043d\u044f",
+      "url": "https://open.spotify.com/track/2AvDaqxSlxeXFb0kSWnVOs"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
+        "name": "Missense",
+        "url": "https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u"
+      },
+      "artists": [
+        {
+          "name": "PatternShift",
+          "url": "https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "Missense",
+      "url": "https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
         "name": "WUT",
         "url": "https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 342031,
       "name": "Echoes Of The Past",
       "url": "https://open.spotify.com/track/25yFIb4x438niHV77uRU8p"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
-        "name": "Missense",
-        "url": "https://open.spotify.com/album/5bIiP1fm9HipstrA6ZK56u"
-      },
-      "artists": [
-        {
-          "name": "PatternShift",
-          "url": "https://open.spotify.com/artist/6MNFOvQOGj0BYmHJa6tVIV"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "Missense",
-      "url": "https://open.spotify.com/track/2MFdVPnEWRjXQIY96VgiGn"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Polarity",
-        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
-      },
-      "artists": [
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Days Away",
-      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Sweet Gold (Ishi Rework)",
         "url": "https://open.spotify.com/album/41ZcvkwalOB9ysrTUINMWJ"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 208453,
       "name": "Sweet Gold (Ishi Rework)",
       "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "Polarity",
+        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
+      },
+      "artists": [
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Days Away",
+      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -2143,26 +2143,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "The Dark, The Light",
-        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
-      },
-      "artists": [
-        {
-          "name": "Bozart",
-          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
-        },
-        {
-          "name": "Jen Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "The Dark, The Light (Edit)",
-      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Sin",
         "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
       },
@@ -2179,50 +2159,22 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "Turnover",
-        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+        "name": "The Dark, The Light",
+        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
       "artists": [
         {
-          "name": "Envotion",
-          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "Turnover",
-      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
-        "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
-      },
-      "artists": [
+          "name": "Bozart",
+          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
+        },
         {
-          "name": "Stilz",
-          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
+          "name": "Jen Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
         }
       ],
-      "duration_ms": 310090,
-      "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/7Czxw27ltogod83b0w9lra"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
-        "name": "The Grid",
-        "url": "https://open.spotify.com/album/2cDnv7qFyCmeLlYaaSgHGd"
-      },
-      "artists": [
-        {
-          "name": "S A Z E R",
-          "url": "https://open.spotify.com/artist/4ITqwIiGfTR7LWAuLLuaaL"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "888 Mph",
-      "url": "https://open.spotify.com/track/5Yfuvy8pI9LrFZpxKfj94K"
+      "duration_ms": 234480,
+      "name": "The Dark, The Light (Edit)",
+      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -2247,6 +2199,54 @@
       "duration_ms": 118064,
       "name": "feel you",
       "url": "https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+      },
+      "artists": [
+        {
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "The Grid",
+        "url": "https://open.spotify.com/album/2cDnv7qFyCmeLlYaaSgHGd"
+      },
+      "artists": [
+        {
+          "name": "S A Z E R",
+          "url": "https://open.spotify.com/artist/4ITqwIiGfTR7LWAuLLuaaL"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "888 Mph",
+      "url": "https://open.spotify.com/track/5Yfuvy8pI9LrFZpxKfj94K"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
+      },
+      "artists": [
+        {
+          "name": "Stilz",
+          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/7Czxw27ltogod83b0w9lra"
     },
     {
       "added_at": "2026-06-19 04:01:49",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2026-06-19 04:01:49",
       "album": {
-        "name": "life support",
-        "url": "https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67"
-      },
-      "artists": [
-        {
-          "name": "dot",
-          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
-        }
-      ],
-      "duration_ms": 155227,
-      "name": "keep on",
-      "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
-    },
-    {
-      "added_at": "2026-06-19 04:01:49",
-      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/4EUv4vgiwW4DxuvmLQqNnj"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 247417,
       "name": "Far",
       "url": "https://open.spotify.com/track/3B3HvJPPzoc2YUeq3TAPeO"
+    },
+    {
+      "added_at": "2026-06-19 04:01:49",
+      "album": {
+        "name": "life support",
+        "url": "https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67"
+      },
+      "artists": [
+        {
+          "name": "dot",
+          "url": "https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT"
+        }
+      ],
+      "duration_ms": 155227,
+      "name": "keep on",
+      "url": "https://open.spotify.com/track/4Jnvo8mfZjXl911b9gFxZO"
     },
     {
       "added_at": "2026-06-19 04:01:49",

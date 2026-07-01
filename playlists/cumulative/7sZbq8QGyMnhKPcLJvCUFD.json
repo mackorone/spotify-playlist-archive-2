@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0cOEk2M6iLEVBbPAlHWzgu"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215147,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/65yS1gQXVRk2dHzR5m5j5u"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/53RQT1BteGO1olm1EZLSUX"
       },

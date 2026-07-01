@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136413,
+  "num_followers": 136414,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u98a8\u306b\u4e57\u308b",
-        "url": "https://open.spotify.com/album/756umARKInXvcyVNY1fq4p"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "\u00e9toile",
-      "url": "https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u706f\u706b",
         "url": "https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 219861,
       "name": "\u706f\u706b",
       "url": "https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u98a8\u306b\u4e57\u308b",
+        "url": "https://open.spotify.com/album/756umARKInXvcyVNY1fq4p"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "\u00e9toile",
+      "url": "https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 238858,
+      "name": "cuz",
+      "url": "https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u7dba\u9e97",
         "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 238858,
-      "name": "cuz",
-      "url": "https://open.spotify.com/track/4s3kcmPWMIxf7LmWF4F80m"
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -763,22 +779,6 @@
       "duration_ms": 270058,
       "name": "I Don't Want To Leave",
       "url": "https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 116880,
-      "name": "\u591c\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Branches",
         "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
       "artists": [
         {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
         }
       ],
-      "duration_ms": 220575,
-      "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
-      "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
+      "duration_ms": 116880,
+      "name": "\u591c\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -899,18 +883,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
         }
       ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+      "duration_ms": 220575,
+      "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
+      "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -931,6 +915,22 @@
       "duration_ms": 340573,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 392173,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Slow time lover",
         "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 241810,
       "name": "Slow time lover",
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u306f\u306a\u3088\u3069",
-        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
-      },
-      "artists": [
-        {
-          "name": "Natsuko Nisshoku",
-          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
-        }
-      ],
-      "duration_ms": 261282,
-      "name": "\u3084\u3048",
-      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 274066,
       "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u306f\u306a\u3088\u3069",
+        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
+      },
+      "artists": [
+        {
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
+        }
+      ],
+      "duration_ms": 261282,
+      "name": "\u3084\u3048",
+      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u30cf\u30f3\u30b5\u30e0\u30dc\u30fc\u30a4",
         "url": "https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
-      },
-      "artists": [
-        {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u3081\u3050\u308b",
         "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 265026,
       "name": "\u3081\u3050\u308b",
       "url": "https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "ITAI",
-        "url": "https://open.spotify.com/album/1iQaLxmV7ExoTtOoD5pQdx"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
-          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
-        }
-      ],
-      "duration_ms": 256607,
-      "name": "ITAI",
-      "url": "https://open.spotify.com/track/7q7eyW6Ivwh5GDDEQwsShh"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1479,6 +1463,22 @@
       "duration_ms": 257105,
       "name": "The Rose (15th Anniversary Version\uff09",
       "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "ITAI",
+        "url": "https://open.spotify.com/album/1iQaLxmV7ExoTtOoD5pQdx"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
+          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
+        }
+      ],
+      "duration_ms": 256607,
+      "name": "ITAI",
+      "url": "https://open.spotify.com/track/7q7eyW6Ivwh5GDDEQwsShh"
     },
     {
       "added_at": "2026-04-17 03:28:41",

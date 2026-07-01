@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-431 songs - 1 day 0 hr 39 min
+432 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Cut the Grass](https://open.spotify.com/track/6zQvexoU5zfWObLpIX7p2S) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [On Your Time](https://open.spotify.com/album/52ERswZYKe68NHnMAI8AXi) | 7:00 | 2023-10-06 | 2023-12-02 |
 | [Damned If I Do](https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Damned If I Do](https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF) | 3:37 | 2025-08-15 |  |
 | [Days of Gold](https://open.spotify.com/track/5ETe7SElBIgm2NAZY3SpX4) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:21 | 2023-01-20 | 2023-04-01 |
+| [Death Of Me](https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [The Tenth Album \(Side A\)](https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD) | 2:24 | 2026-06-26 |  |
 | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Demon or Ghost \(feat\. Underoath\)](https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb) | 3:35 | 2024-08-09 | 2025-11-16 |
 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 | 2021-11-01 |  |
 | [Devil You Know](https://open.spotify.com/track/2sKvfN6Kdjf9FA2yDWHQ6J) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Devil You Know](https://open.spotify.com/album/5HMTkM7veGMMg8sxammkYr) | 2:58 | 2023-10-06 | 2023-11-05 |
@@ -265,7 +266,7 @@
 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 | 2023-01-20 | 2024-08-24 |
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-11-12 | 2023-07-22 |
 | [Never Go Home](https://open.spotify.com/track/3K3uXpgYfvX8jMHH51tsaY) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Never Go Home](https://open.spotify.com/album/3FwRXqtlSKysLuH8R94fYi) | 3:29 | 2021-11-01 | 2022-07-26 |
-| [Next to You](https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Next to You](https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec) | 4:01 | 2024-04-26 |  |
+| [Next to You](https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Next to You](https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec) | 4:01 | 2024-04-26 | 2026-07-01 |
 | [No More Tears \- live from the let go letters tour](https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [No More Tears \(live from the let go letters tour\)](https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL) | 3:51 | 2025-12-19 |  |
 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2023-01-02 | 2024-04-20 |
 | [Off The Rails](https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Off The Rails](https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO) | 3:04 | 2024-03-08 |  |

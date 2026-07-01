@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : ElGrandeToto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,925 likes - 59 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,852 likes - 59 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

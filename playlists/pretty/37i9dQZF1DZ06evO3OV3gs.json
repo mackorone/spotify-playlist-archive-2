@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 710997,
+  "num_followers": 711069,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAADml952at9HxpDsNQHhRl0s",
+  "snapshot_id": "akG1gAAAAADy8pdY0miImeA51rrCj4PF",
   "tracks": [
     {
       "added_at": null,
@@ -88,7 +88,7 @@
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 216400,
+      "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
@@ -144,7 +144,7 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 228629,
+      "duration_ms": 227248,
       "name": "Love Sensation",
       "url": "https://open.spotify.com/track/3ziJR4EpMEzjvdli8YIV6X"
     },
@@ -160,7 +160,7 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 303528,
+      "duration_ms": 299479,
       "name": "I Feel So Free",
       "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
     },
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 351920,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 245080,
       "name": "4 Minutes (feat. Justin Timberlake and Timbaland)",
       "url": "https://open.spotify.com/track/1dDNz8h95Gsu0W4QdxVVln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 351920,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
         "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 166956,
       "name": "Read My Lips (FIFA World Cup 2026\u2122)",
       "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 94986,
-      "name": "Now I'm Following You (Part I)",
-      "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
+      "duration_ms": 241600,
+      "name": "Dress You Up",
+      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Dress You Up",
-      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
+      "duration_ms": 94986,
+      "name": "Now I'm Following You (Part I)",
+      "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 325720,
       "name": "La Isla Bonita - Extended Remix",
       "url": "https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,

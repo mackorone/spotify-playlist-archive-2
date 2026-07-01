@@ -2795,6 +2795,32 @@
     },
     {
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/6tzI7zDhMUN5lPRYhlTkLK"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Nova Tropics",
+          "url": "https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174609,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0Jy4WX1rwTdXVrFzTgorCT"
+    },
+    {
+      "album": {
         "name": "Volume One",
         "url": "https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm"
       },

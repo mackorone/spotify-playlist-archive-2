@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  Dabzee
 
-546 songs - 1 day 4 hr 4 min
+547 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [THALAKKANAM](https://open.spotify.com/track/75Jkb1Zt2KMdcPEwyQZR17) | [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [THALAKKANAM](https://open.spotify.com/album/0jGhSnF6ThEcKvhBWhbV36) | 2:51 | 2023-08-28 | 2025-04-22 |
 | [THALAVAN](https://open.spotify.com/track/5eSpRhumFiGvVoBPAJuAaL) | [OAG](https://open.spotify.com/artist/7pD8xvep7TLj2xazeLg3gi), [Uppan](https://open.spotify.com/artist/0KTXkOEbzYN39y6kQt3YYz), [whoisavi](https://open.spotify.com/artist/4eUXY3eIl8Dt3i1hFcv7Im) | [THALAVAN](https://open.spotify.com/album/3UAVjtwVjyHqgeGRRNSbJk) | 3:03 | 2025-02-24 | 2025-04-05 |
 | [Thalayana Manthram](https://open.spotify.com/track/5PyLZP4TRBUVBTEkYrfMyD) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Thalayana Manthram](https://open.spotify.com/album/5Cohg9TfF3ofvpNoAUsGUN) | 3:15 | 2023-03-06 | 2023-07-24 |
+| [Thamarakkulam](https://open.spotify.com/track/6maGhMnuEchy1ddjrKGWgH) | [CJ J](https://open.spotify.com/artist/6bVL3yWdI21Kj0nRYJXuNB), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [Simmo](https://open.spotify.com/artist/1jKClD0DpaGTCeUVlWEjbm) | [Thamarakkulam](https://open.spotify.com/album/2XkegBQmT5dFQabWd8OvxT) | 4:06 | 2026-06-30 |  |
 | [Thamburati](https://open.spotify.com/track/7zZsi7kpplYLn7q7K6qQUu) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Melvin](https://open.spotify.com/artist/2J9gqy4uIlVhZtgiLTTQOm) | [Thamburati](https://open.spotify.com/album/05fOT0Hp6GgFl5cdiFOCrN) | 2:58 | 2022-04-18 | 2024-03-01 |
 | [Thammi Thalli](https://open.spotify.com/track/2yJ6Wq1Mjd8Mk64ZRwxdOi) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Thammi Thalli](https://open.spotify.com/album/2iYx4mHDxUb2p3XtXJj9hL) | 2:30 | 2025-05-23 | 2025-08-12 |
 | [Thampuran](https://open.spotify.com/track/4xKPUaIGFKtArC7di4oqDu) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Sachin Raj](https://open.spotify.com/artist/4N0UOy9N9HGnKVVjNcnBsR) | [Thampuran](https://open.spotify.com/album/33kfbVUPzhJmLENH92yis5) | 4:16 | 2024-01-12 | 2024-02-13 |

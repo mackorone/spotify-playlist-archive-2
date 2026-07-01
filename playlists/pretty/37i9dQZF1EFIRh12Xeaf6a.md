@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,362 likes - 287 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,364 likes - 287 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 77 | [Goodbye Don't Mean I'm Gone](https://open.spotify.com/track/2R0RZiBr3JzEJR703AkcZh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:33 |
 | 78 | [Is This What I Get For Loving You?](https://open.spotify.com/track/2F4ix8buVKDFhVH4yjOg2s) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 3:21 |
 | 79 | [Don't Ever Change](https://open.spotify.com/track/2PYXzkcDUprnrGJqd4LXjx) | [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Something Old, Something New, Something Blue, Something Else](https://open.spotify.com/album/6c3my3DmnAEBJnqmyQAtRj) | 2:20 |
-| 80 | [Show Me the Way \- Mono](https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 2:19 |
-| 81 | [HE’S IN TOWN](https://open.spotify.com/track/6O8EwrqSfaZkeWx8gNuiif) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [イン・タウン](https://open.spotify.com/album/7kN6xIFWxiHwu1b2xlwpqB) | 2:39 |
+| 80 | [HE’S IN TOWN](https://open.spotify.com/track/6O8EwrqSfaZkeWx8gNuiif) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [イン・タウン](https://open.spotify.com/album/7kN6xIFWxiHwu1b2xlwpqB) | 2:39 |
+| 81 | [Show Me the Way \- Mono](https://open.spotify.com/track/7yTmwxIkV2tsxsBN6NDVjJ) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 2:19 |
 | 82 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 |
 | 83 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 |
 | 84 | [One Was Johnny](https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 2:08 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 286 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 287 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcVjOgAAAAAD3Y0q268ip5/QlSvO/fIm`
+Snapshot ID: `AcVo0AAAAAAXxj/qqxQhGo3YJnoGGL+c`

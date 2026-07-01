@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35115,
+  "num_followers": 35121,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Mesa Dulce",
-        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
       "artists": [
         {
           "name": "Dante Spinetta",
           "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 219632,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -539,22 +543,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Sudaka",
-        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
+        "name": "Mesa Dulce",
+        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
       },
       "artists": [
         {
           "name": "Dante Spinetta",
           "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 202808,
-      "name": "Sudaka",
-      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+      "duration_ms": 219632,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Aeronave",
-        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
-      },
-      "artists": [
-        {
-          "name": "Aeronave",
-          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "Aeronave",
-      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Los Funktasticos Genitales",
         "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 190790,
       "name": "Aceituna",
       "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Aeronave",
+        "url": "https://open.spotify.com/album/4cNSHBJGh8w2xfEpSnoJ5s"
+      },
+      "artists": [
+        {
+          "name": "Aeronave",
+          "url": "https://open.spotify.com/artist/16E1xP8EmdxO16UHGeRQG7"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "Aeronave",
+      "url": "https://open.spotify.com/track/5tcINAPrFrvnFbIuR67xNI"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Ya Lo Estoy Deseando",
         "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 202591,
       "name": "C\u00f3mo",
       "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 284213,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/7tMloZGLwMyeqS6EXtshxS"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1391,38 +1407,6 @@
       "duration_ms": 175249,
       "name": "Miro donde miro",
       "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "No la Ves",
-        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 259553,
-      "name": "No la Ves",
-      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "No la Ves",
+        "url": "https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 259553,
+      "name": "No la Ves",
+      "url": "https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Que Me Pasa",
         "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 184421,
       "name": "Que Me Pasa",
       "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1483,22 +1499,6 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
     },
     {
       "added_at": "2026-03-20 03:00:24",

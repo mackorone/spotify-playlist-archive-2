@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 273650,
+  "num_followers": 273687,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "if you didn't know",
-        "url": "https://open.spotify.com/album/1eJDf0cu1n4xHvW4LEJ6Yg"
-      },
-      "artists": [
-        {
-          "name": "Dimside",
-          "url": "https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX"
-        },
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        }
-      ],
-      "duration_ms": 139384,
-      "name": "if you didn't know",
-      "url": "https://open.spotify.com/track/7q7L7Non8WYaIV9PiFUfrV"
-    },
-    {
-      "added_at": "2026-06-25 23:00:14",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
+    },
+    {
+      "added_at": "2026-06-25 23:00:14",
+      "album": {
+        "name": "if you didn't know",
+        "url": "https://open.spotify.com/album/1eJDf0cu1n4xHvW4LEJ6Yg"
+      },
+      "artists": [
+        {
+          "name": "Dimside",
+          "url": "https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "duration_ms": 139384,
+      "name": "if you didn't know",
+      "url": "https://open.spotify.com/track/7q7L7Non8WYaIV9PiFUfrV"
     },
     {
       "added_at": "2026-06-25 23:00:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2026-06-25 23:00:14",
-      "album": {
         "name": "Ride At Dawn",
         "url": "https://open.spotify.com/album/7DiasgKMXc817JWAUi1org"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 173554,
       "name": "Ride At Dawn",
       "url": "https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d"
+    },
+    {
+      "added_at": "2026-06-25 23:00:14",
+      "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2026-06-25 23:00:14",

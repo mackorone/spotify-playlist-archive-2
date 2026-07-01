@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Belgium.",
-  "num_followers": 21679,
+  "num_followers": 21681,
   "original_name": "Top Songs - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MdXpAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mdc82AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-06-26 16:58:59",
@@ -160,7 +160,7 @@
       "added_at": "2026-06-26 16:58:59",
       "album": {
         "name": "So Good",
-        "url": "https://open.spotify.com/album/3ciEcHv8axaPC5YHTJ72Bg"
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
       },
       "artists": [
         {
@@ -170,7 +170,7 @@
       ],
       "duration_ms": 200646,
       "name": "Lush Life",
-      "url": "https://open.spotify.com/track/2kvgmr5CFhSvleQqTjB3eP"
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2026-06-26 16:58:59",
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-06-26 16:58:59",
       "album": {
-        "name": "Zootropolis 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT"
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
       "artists": [
         {
@@ -626,7 +626,7 @@
       ],
       "duration_ms": 190822,
       "name": "Zoo",
-      "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
       "added_at": "2026-06-26 16:58:59",
@@ -875,22 +875,22 @@
     {
       "added_at": "2026-06-26 16:58:59",
       "album": {
-        "name": "Emigrante Del Mundo (Remastered)",
-        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
       "artists": [
         {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        },
-        {
           "name": "Don Omar",
           "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
         }
       ],
-      "duration_ms": 216352,
-      "name": "Danza Kuduro - Version MTO",
-      "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     }
   ],
   "unique_name": "Top Songs - Belgium",

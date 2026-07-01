@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: RAVA, Antonia
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,304 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,310 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 28 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
 | 29 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 |
 | 30 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
-| 31 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
-| 32 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 |
+| 31 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 |
+| 32 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
 | 33 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 |
 | 34 | [CALIFORNIA](https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [CALIFORNIA](https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy) | 2:19 |
 | 35 | [Scandal](https://open.spotify.com/track/1XaX10K3ed5guoy4sNgfTM) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Bahoi](https://open.spotify.com/artist/0amWfb7MqNPnGi4SdCucIj), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Scandal](https://open.spotify.com/album/2IDxe57SCMfEJqfX4Vssph) | 3:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Stiu ca ai vrea](https://open.spotify.com/track/5uwyjLLf5mHOgFSsxIrxx5) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [AVIREX](https://open.spotify.com/album/2HJoxNWFuEN9f9r5Imog36) | 3:28 |
 | 46 | [Ani Și Ani La Rând](https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Ciresan](https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy) | [Ani Și Ani La Rând](https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV) | 3:20 |
 | 47 | [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 |
-| 48 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
-| 49 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 48 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
+| 49 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
 | 50 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
 
 Snapshot ID: `AAAAAL48my4RZp04dTjW9V35xpgnuWVJ`

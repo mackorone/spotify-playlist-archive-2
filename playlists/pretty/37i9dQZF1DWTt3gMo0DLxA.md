@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Peddi
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,556 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,914 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Light Theesko](https://open.spotify.com/track/7cXMZNe0X7Chs4MEx3tjkC) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Baba Sehgal](https://open.spotify.com/artist/7hYZXC29LqX4vWGloviTyG), [Murali](https://open.spotify.com/artist/0jPQeAGUSTql3lVywdnget) | [Mr Perfect](https://open.spotify.com/album/2i17pjaXyGutK1FgRJh9ZS) | 4:25 |
 | 50 | [Hai Re \(From "Itllu Arjuna"\)](https://open.spotify.com/track/1b5IfazTvAHfblmWymHf1p) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kalyan Chakravarthy](https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO) | [Hai Re \(From "Itllu Arjuna"\)](https://open.spotify.com/album/0nSjrDX65muAOgLafXGPfc) | 3:25 |
 
-Snapshot ID: `AAAAAJWlZ0sAOxFydpTTRKevQW+yBvGs`
+Snapshot ID: `AAAAAOiCRSdwO+3cxbpqNMCOqBu0Lv4Q`

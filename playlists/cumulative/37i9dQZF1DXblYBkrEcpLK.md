@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
 
-858 songs - 2 day 8 hr 25 min
+859 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-09-20 | 2023-10-24 |
 | [Bitter Sweet Harmony](https://open.spotify.com/track/4pY7Ls1vq65efdZfZaNn69) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [30 pieces of love \-selection\-](https://open.spotify.com/album/33L48U5bNYik44z86Zf9ah) | 4:34 | 2022-06-24 | 2022-07-03 |
 | [BLUE BUD](https://open.spotify.com/track/4tT27irqZ5muAdDoVbMeio) | [青木陽菜](https://open.spotify.com/artist/5mUGS61tvbFlPgRW3ibdbx) | [BLUE BUD](https://open.spotify.com/album/4PhY3tQSEPEubND9Vun5pG) | 3:56 | 2024-01-25 | 2024-02-14 |
+| [Blue Shining Star](https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Blue Shining Star](https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE) | 3:41 | 2026-06-30 |  |
 | [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2023-01-05 | 2023-01-11 |
 | [BONE ASH](https://open.spotify.com/track/6ITk0EQ1eiQBQCte3TKzaB) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [BONE ASH](https://open.spotify.com/album/5aVg9yjHnJ6nRPgd54b0wu) | 2:40 | 2023-05-16 | 2023-06-09 |
 | [Brand new diary](https://open.spotify.com/track/47RAi35e2x9JfDVUfo1mJz) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [世界が晴れたら](https://open.spotify.com/album/5JAaO4GOtFc0tMJ41El23S) | 4:09 | 2022-06-14 | 2022-07-29 |
@@ -662,7 +663,7 @@
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-14 | 2022-07-29 |
 | [不規則性エントロピー](https://open.spotify.com/track/380LeI6moud4Zlrr8EXSdr) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [不規則性エントロピー \(TVアニメ「ひぐらしのなく頃に 業」新EDテーマ\)](https://open.spotify.com/album/2C6nNaQMeZUg9D9qpcsv3n) | 4:23 | 2022-06-14 | 2022-06-19 |
 | [世界が私を呼ぶから](https://open.spotify.com/track/3ti5HbpOassT7t56Gs5JNH) | [Sachika Misawa](https://open.spotify.com/artist/7cFgscmiwzpnPjOKx1ZZAZ) | [深呼吸](https://open.spotify.com/album/46qejdyZJ6QBJJzSg7ItIv) | 3:00 | 2022-06-24 | 2022-07-27 |
-| [世界はひとりじゃなかった](https://open.spotify.com/track/4U77xvBDzk8e03mgP30g73) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [世界はひとりじゃなかった](https://open.spotify.com/album/2V5C2CrLlS9DSwbhI4Nkyn) | 4:22 | 2026-05-26 |  |
+| [世界はひとりじゃなかった](https://open.spotify.com/track/4U77xvBDzk8e03mgP30g73) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [世界はひとりじゃなかった](https://open.spotify.com/album/2V5C2CrLlS9DSwbhI4Nkyn) | 4:22 | 2026-05-26 | 2026-07-01 |
 | [世界は恋に落ちている](https://open.spotify.com/track/3pCc4xUyz0IIOvrwBlGtDW) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている](https://open.spotify.com/album/5gfX21tjkgqmlO1IGRYXmp) | 5:11 | 2022-06-12 | 2022-07-05 |
 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-07-28 | 2024-02-14 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-06-21 | 2022-06-23 |

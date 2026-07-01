@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Wxterboi",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Goldbug",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -392,6 +392,24 @@
       "duration_ms": 202371,
       "name": "1800",
       "url": "https://open.spotify.com/track/5BAI4QVp8p0yh0SiOEeVcU"
+    },
+    {
+      "album": {
+        "name": "18th c. bbygrl",
+        "url": "https://open.spotify.com/album/3PxPOKzYlJatAtRLQrGFBE"
+      },
+      "artists": [
+        {
+          "name": "Eim\u00edle",
+          "url": "https://open.spotify.com/artist/4N5ZUljCiIP5WQeuXLkAB9"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207822,
+      "name": "18th c. bbygrl",
+      "url": "https://open.spotify.com/track/57a9aM5oiaDCfWTfUwmz82"
     },
     {
       "album": {
@@ -15251,6 +15269,28 @@
     },
     {
       "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0PDSDiHj0Aa9h0EMZcVsST"
+      },
+      "artists": [
+        {
+          "name": "JNG",
+          "url": "https://open.spotify.com/artist/0Z0ZUXPo3rxOFa0gvsaHLc"
+        },
+        {
+          "name": "TOM LECHEF",
+          "url": "https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284117,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/76zNHQL2eF4haoZ3tJ2x3M"
+    },
+    {
+      "album": {
         "name": "Do It Like You Do It",
         "url": "https://open.spotify.com/album/0rGtnj7m7FKThfBAHep5st"
       },
@@ -15890,7 +15930,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 262459,
       "name": "Don't Kill the Vibe",
       "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
@@ -16836,6 +16876,28 @@
       "duration_ms": 219062,
       "name": "Drunk Text",
       "url": "https://open.spotify.com/track/4pe5oDdk2m1FlTN7IFOKZX"
+    },
+    {
+      "album": {
+        "name": "DTA",
+        "url": "https://open.spotify.com/album/74NhvvhTG2hIYdQxqMFl3x"
+      },
+      "artists": [
+        {
+          "name": "Jeorge II",
+          "url": "https://open.spotify.com/artist/5fM9asFPJ7skVt3GHrryM0"
+        },
+        {
+          "name": "Dok Beats",
+          "url": "https://open.spotify.com/artist/3Ehb7fn0aJmTKevLJrCa1o"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125701,
+      "name": "DTA",
+      "url": "https://open.spotify.com/track/5KcfN5xtnQb9M2HWh1tog3"
     },
     {
       "album": {
@@ -19568,7 +19630,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 161764,
       "name": "Fell Again",
       "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
@@ -21466,7 +21528,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 200760,
       "name": "Funeral at a Pep Rally",
       "url": "https://open.spotify.com/track/58mZi0RMHv44Y3xDIOaJZG"
@@ -50446,6 +50508,24 @@
     {
       "album": {
         "name": "Rush",
+        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nicholls",
+          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+    },
+    {
+      "album": {
+        "name": "Rush",
         "url": "https://open.spotify.com/album/7o37vrLZ5cNuLerTecfqVY"
       },
       "artists": [
@@ -59964,7 +60044,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 112941,
       "name": "thirty degrees.",
       "url": "https://open.spotify.com/track/2JkHcevzr1noJyFSSgA6me"
@@ -62218,6 +62298,24 @@
       "duration_ms": 209799,
       "name": "Uneasy",
       "url": "https://open.spotify.com/track/5TGFBsPeitVl3nvOQWDfeE"
+    },
+    {
+      "album": {
+        "name": "THE GOOD SIDE OF THINGS",
+        "url": "https://open.spotify.com/album/2L1ARTeGZ31DWtuPS9FJ2j"
+      },
+      "artists": [
+        {
+          "name": "Kelissa",
+          "url": "https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194479,
+      "name": "Uneasy",
+      "url": "https://open.spotify.com/track/0NDkfrZxZUVrN1iLI96zIE"
     },
     {
       "album": {
@@ -66120,7 +66218,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 236718,
       "name": "Workin'",
       "url": "https://open.spotify.com/track/35Dj515Ju4vvsGFVQ4YXPW"

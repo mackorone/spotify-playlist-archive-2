@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Wande Coal, Davido, Magixx, Joeboy, Adekunle Gold, Gyakie and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,937 likes - 62 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,014 likes - 62 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 16 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 |
 | 17 | [Yahoo Boyz](https://open.spotify.com/track/3wpeLSiAbdEOPEMe0FoPd8) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r) | [Yahoo Boyz](https://open.spotify.com/album/7mWIwlwwLAzL5Ez3DXJXho) | 3:24 |
 | 18 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
-| 19 | [FIRST CLASS](https://open.spotify.com/track/1f2VfHlDSGQM2nLRSAh238) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [FIRST CLASS](https://open.spotify.com/album/0nPceCmpDo9TAvNvkISxkO) | 3:41 |
+| 19 | [FIRST CLASS](https://open.spotify.com/track/1f2VfHlDSGQM2nLRSAh238) | [Lady Zamar](https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI) | [FIRST CLASS](https://open.spotify.com/album/0nPceCmpDo9TAvNvkISxkO) | 3:48 |
 | 20 | [Koto Na Gye \(Bend & Take\)](https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Koto Na Gye \(Bend & Take\)](https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY) | 2:03 |
 | 21 | [Motide](https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar, Vol\. 2](https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj) | 2:30 |
 | 22 | [Happiness](https://open.spotify.com/track/0ASno3zrAbwRe4cVfH1c7K) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [DJ YK](https://open.spotify.com/artist/2VLe3q3Vp7R9aQQGip5oMe) | [Built Different](https://open.spotify.com/album/0eZrosDFkbClhRzEnoJD63) | 2:41 |

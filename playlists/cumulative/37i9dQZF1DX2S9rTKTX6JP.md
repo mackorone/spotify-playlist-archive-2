@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-390 songs - 1 day 1 hr 12 min
+391 songs - 1 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [House of the rising sun](https://open.spotify.com/track/4rfYDrmdzFb9Saf4lCxQTP) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [The end of the world](https://open.spotify.com/album/1QsqQMps2AenCaWyddg3TX) | 4:50 | 2020-12-16 | 2022-07-27 |
 | [How To Save A Life](https://open.spotify.com/track/73TAUoeGvM7YPA8huwA9Yp) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [How To Save A Life](https://open.spotify.com/album/38ff67UQftBcR3DnBMSsyW) | 3:38 | 2024-02-02 |  |
 | [Hunger Strike \(feat\. Lajon Witherspoon\)](https://open.spotify.com/track/2QwqH7IMloNiB3F4L4fj5D) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lajon Witherspoon](https://open.spotify.com/artist/0vWxIYduLUVIrf0jCB8bOb) | [Hunger Strike \(feat\. Lajon Witherspoon\)](https://open.spotify.com/album/35lNonLplYB6UFw8nLheRk) | 4:03 | 2021-06-01 | 2022-07-29 |
-| [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2020-12-16 |  |
+| [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 | 2020-12-16 | 2026-07-01 |
 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 | 2020-12-16 |  |
 | [I Am The Walrus \- Live](https://open.spotify.com/track/7Mq2PA75YUS6T2ErxgytKT) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/4vVeWyiMSe9EDifvSr6wjQ) | 6:24 | 2020-12-16 | 2022-07-29 |
 | [I Am The Walrus – Live Glasgow Cathouse June '94 \- Remastered](https://open.spotify.com/track/71vIYl6DeQH8cXggFt38wN) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan \(Remastered Edition\)](https://open.spotify.com/album/3TOqth4BResSHzsrnREbbh) | 6:25 | 2023-11-17 | 2024-04-19 |
@@ -377,6 +377,7 @@
 | [What a Wonderful World](https://open.spotify.com/track/5UvspVN88FScdaUjfcIfhD) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/3yYqXOqczAfP6mDoMkbiga) | 2:23 | 2020-12-16 | 2022-07-29 |
 | [What's Love Got To Do With It](https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [What's Love Got To Do With It](https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ) | 3:19 | 2023-06-09 | 2025-06-06 |
 | [When Doves Cry](https://open.spotify.com/track/7umzok5rx1Lctwa2pb03OR) | [Everyone Loves A Villain](https://open.spotify.com/artist/4v9rMwiF0d2Fh7bStHloi1), [Brock Lindow](https://open.spotify.com/artist/7xit3T7EhNTFeEZ2RSRJV3) | [When Doves Cry](https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ) | 3:16 | 2020-12-16 | 2025-01-18 |
+| [Where's My Dini? \- Spotify Singles](https://open.spotify.com/track/3yANmEBnFRfWwScZ5VHf0s) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Where's My Dini? \(Spotify Singles\)](https://open.spotify.com/album/3m9zl3efQRswdVyYBfvcOm) | 4:43 | 2026-06-30 |  |
 | [White Room \(feat\. Jacoby Shaddix\)](https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [White Room \(feat\. Jacoby Shaddix\)](https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy) | 4:05 | 2021-03-10 | 2025-01-18 |
 | [Wicked Game](https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Wicked Game](https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO) | 1:49 | 2023-06-09 |  |
 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 | 2020-12-16 |  |

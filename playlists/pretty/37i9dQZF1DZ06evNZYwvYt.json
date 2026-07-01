@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 20471,
+  "num_followers": 20474,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAAD93Ke18r1FH0PGOVenXPNl",
+  "snapshot_id": "akG1gAAAAAD18VlXWSyvYyMkg93WM6DD",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/76jFWuJwsDbSl7t85KZyIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar de nubes",
         "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 249000,
       "name": "Domest\u00edcame",
       "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/76jFWuJwsDbSl7t85KZyIe"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 290426,
-      "name": "Eras Tan Para Mi",
-      "url": "https://open.spotify.com/track/4GbA6cGPbMohI23YgsvEne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1V8faK2E5dlifTERzgN9xF"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 251454,
       "name": "Resc\u00e1tame",
       "url": "https://open.spotify.com/track/213D70aof1PgFPFUvz3lUz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 290426,
+      "name": "Eras Tan Para Mi",
+      "url": "https://open.spotify.com/track/4GbA6cGPbMohI23YgsvEne"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morder",
         "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232653,
       "name": "Extra\u00f1arte",
       "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno De Morir De Amor",
-        "url": "https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Lo Bueno De Morir De Amor",
-      "url": "https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Respeta el Flow",
         "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 161964,
       "name": "Respeta el Flow",
       "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Bueno De Morir De Amor",
+        "url": "https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Lo Bueno De Morir De Amor",
+      "url": "https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL"
     },
     {
       "added_at": null,

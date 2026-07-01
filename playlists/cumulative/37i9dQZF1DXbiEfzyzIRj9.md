@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Stones Taro
 
-2,306 songs - 7 day 0 hr 47 min
+2,307 songs - 7 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Baiu mirage \- Risa Taniguchi Remix](https://open.spotify.com/track/0EQzFnIujdBGWvk9ABxX3V) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [TIMER](https://open.spotify.com/artist/2GxhgZGDysB1Q0l75SgViY), [SHIHAL](https://open.spotify.com/artist/4sYuxxYvMAQxfXpTNK0EZP), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Keep in Touch \- Sounds of Summer 2025 Remixes](https://open.spotify.com/album/7r0adXqc55qEh7TQrZzkik) | 5:53 | 2025-11-20 | 2025-11-28 |
 | [Baiu mirage \- Risa Taniguchi Remix](https://open.spotify.com/track/2flDw7wtTynOUH4kSY5gfQ) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [TIMER](https://open.spotify.com/artist/2GxhgZGDysB1Q0l75SgViY), [SHIHAL](https://open.spotify.com/artist/4sYuxxYvMAQxfXpTNK0EZP), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Baiu mirage \(Risa Taniguchi Remix\)](https://open.spotify.com/album/6Fgpvb7eVxGrsxAekAgkzB) | 5:53 | 2025-11-07 | 2025-11-21 |
 | [Balance Beam](https://open.spotify.com/track/29lLzEyH3UZGEeDX8IbCyZ) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [Socket Power / Balance Beam](https://open.spotify.com/album/1zWjGDeMwP3pyhYlFBHgVn) | 6:14 | 2024-12-26 | 2025-01-17 |
+| [BAMBOO](https://open.spotify.com/track/2q2XA70NRreC33odqvghf9) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [HANATANI](https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak), [Cota Mori](https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37) | [BAMBOO](https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy) | 2:45 | 2026-06-25 |  |
 | [Banggg](https://open.spotify.com/track/4f5uSjREePyZcVtFSMiUKH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Banggg](https://open.spotify.com/album/3mWHF2gfMwZgcdMzi8MRGh) | 2:32 | 2025-01-30 | 2025-04-07 |
 | [Banjo \- Original Mix](https://open.spotify.com/track/0TsnZCMEGqVg3mFHEYPb4H) | [Nobuharu Morimoto](https://open.spotify.com/artist/65alvKZhr7c6vuOZGb9CSa) | [Banjo ep](https://open.spotify.com/album/5nYqhTscOYy77f6Fb7apkx) | 5:15 | 2026-06-11 | 2026-06-26 |
 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0) | 4:33 | 2023-05-19 | 2023-06-07 |

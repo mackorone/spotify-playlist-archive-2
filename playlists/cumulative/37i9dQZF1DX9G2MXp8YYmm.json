@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 167250,
       "name": "Bitmedi Senelerce",
       "url": "https://open.spotify.com/track/6a24UkNP1NRrf2UWfMZT5V"
@@ -3176,6 +3176,24 @@
       "duration_ms": 203417,
       "name": "Daha Nas\u0131l Sevebilirim",
       "url": "https://open.spotify.com/track/0Wvad2SQsggWOPq6WdCoyI"
+    },
+    {
+      "album": {
+        "name": "Darbe",
+        "url": "https://open.spotify.com/album/4rAzyr5Ase0PJUXu4Naj09"
+      },
+      "artists": [
+        {
+          "name": "\u0130ntizar",
+          "url": "https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161110,
+      "name": "Darbe",
+      "url": "https://open.spotify.com/track/6utYISWOzCaV96ey2uXUF3"
     },
     {
       "album": {
@@ -5186,7 +5204,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 159500,
       "name": "hayran",
       "url": "https://open.spotify.com/track/6OeYAmYvqsE7zK1SsmaWDB"
@@ -8332,7 +8350,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 128947,
       "name": "SALINA SALINA",
       "url": "https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA"
@@ -8926,6 +8944,28 @@
       "duration_ms": 195236,
       "name": "Serseri",
       "url": "https://open.spotify.com/track/33uHDjMPVYI8Mcct0HUiD2"
+    },
+    {
+      "album": {
+        "name": "Serseri",
+        "url": "https://open.spotify.com/album/4GSCFa6EujYqbWxn1lwx6a"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        },
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Serseri",
+      "url": "https://open.spotify.com/track/0xY4QkNJD0GLXUBvLLE0Zr"
     },
     {
       "album": {
@@ -11500,6 +11540,32 @@
       "duration_ms": 180233,
       "name": "\u00c7ek Teti\u011fi",
       "url": "https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK"
+    },
+    {
+      "album": {
+        "name": "\u00c7ingenem",
+        "url": "https://open.spotify.com/album/2YXBQL6y1Pck5dh0Hxzx9U"
+      },
+      "artists": [
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172015,
+      "name": "\u00c7ingenem",
+      "url": "https://open.spotify.com/track/6BeEKJEEaZlR2pyjrLDs4r"
     },
     {
       "album": {

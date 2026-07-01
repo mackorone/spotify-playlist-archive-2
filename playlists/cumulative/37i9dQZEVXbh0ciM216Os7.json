@@ -18150,7 +18150,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 195826,
       "name": "Door",
       "url": "https://open.spotify.com/track/7lYhm6Ng8HVI2Hq0XZPkff"
@@ -42788,7 +42788,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 279982,
       "name": "Martian Monster - Live",
       "url": "https://open.spotify.com/track/6Wyi0TWZOBxZNstaWcF7Ia"
@@ -62012,7 +62012,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 1498478,
       "name": "SPAC3 Soundcheck Jam - Live",
       "url": "https://open.spotify.com/track/27jbvTiWMxzJoag9pgYN12"
@@ -62106,7 +62106,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 366613,
       "name": "spacetime",
       "url": "https://open.spotify.com/track/4zqIZAE6tIaMT8duNWOG6F"
@@ -76410,13 +76410,17 @@
         {
           "name": "Anderson .Paak",
           "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "STALONE",
+          "url": "https://open.spotify.com/artist/2Nrzz8bzVqcvmg3UVXTwK2"
         }
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225864,
-      "name": "WHERE I'M FROM (feat. Anderson .Paak)",
+      "name": "WHERE I'M FROM (feat. Anderson .Paak & STALONE)",
       "url": "https://open.spotify.com/track/3xRVgHRyAlUIBpQ8mFWDyh"
     },
     {

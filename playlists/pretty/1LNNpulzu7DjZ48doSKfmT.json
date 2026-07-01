@@ -1,12 +1,12 @@
 {
   "description": "beautiful music that you can put on repeat",
-  "num_followers": 460,
+  "num_followers": 459,
   "original_name": "TOP TIER TUNES \ud83c\udfde",
   "owner": {
     "name": "Exquisite Playlists",
     "url": "https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi"
   },
-  "snapshot_id": "AAAcfkualh+MAgTMT3qX3j5js5M9ZWDq",
+  "snapshot_id": "AAAcg+J3hKCIe4gV1/XbXSb6NAd1mwfU",
   "tracks": [
     {
       "added_at": "2026-02-14 10:26:48",
@@ -8383,6 +8383,86 @@
       "duration_ms": 136964,
       "name": "Coming In",
       "url": "https://open.spotify.com/track/0YQTEzdcm679GOdaHSIdNk"
+    },
+    {
+      "added_at": "2026-06-30 21:19:29",
+      "album": {
+        "name": "Detonated",
+        "url": "https://open.spotify.com/album/66IxFZIff05bB2kPLKogzG"
+      },
+      "artists": [
+        {
+          "name": "Geet Nayak",
+          "url": "https://open.spotify.com/artist/6BtoKVkCjI0zOuumvXDswo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Everything You Had For Me",
+      "url": "https://open.spotify.com/track/7x0d09N1favgyVJX4UhfqQ"
+    },
+    {
+      "added_at": "2026-06-30 21:19:30",
+      "album": {
+        "name": "Matory",
+        "url": "https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Matory",
+      "url": "https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h"
+    },
+    {
+      "added_at": "2026-06-30 21:19:45",
+      "album": {
+        "name": "FAR APART",
+        "url": "https://open.spotify.com/album/3tujgnwVYirnjvvIGHrNqc"
+      },
+      "artists": [
+        {
+          "name": "808 Corari",
+          "url": "https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi"
+        }
+      ],
+      "duration_ms": 127835,
+      "name": "FAR APART",
+      "url": "https://open.spotify.com/track/5gxXCwcRe21ux7WzDZwltc"
+    },
+    {
+      "added_at": "2026-06-30 21:20:24",
+      "album": {
+        "name": "Love Can Conquer All",
+        "url": "https://open.spotify.com/album/2xTGBojPjGNKBLkaS6L9K1"
+      },
+      "artists": [
+        {
+          "name": "Gravity 180",
+          "url": "https://open.spotify.com/artist/2TKmTmVekVE3awZeJUOME5"
+        }
+      ],
+      "duration_ms": 252083,
+      "name": "Love Can Conquer All",
+      "url": "https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd"
+    },
+    {
+      "added_at": "2026-06-30 21:20:47",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/33ysXvwqJMGJ0N85kdoc3K"
+      },
+      "artists": [
+        {
+          "name": "Trashbbx",
+          "url": "https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y"
+        }
+      ],
+      "duration_ms": 221545,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/5l87Vam31WP0rQ6OdTWple"
     }
   ],
   "unique_name": "TOP TIER TUNES \ud83c\udfde",

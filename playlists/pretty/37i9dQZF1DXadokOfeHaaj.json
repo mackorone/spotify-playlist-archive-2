@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43570,
+  "num_followers": 43573,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Essex_Honey.mp3",
-        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
         }
       ],
-      "duration_ms": 289075,
-      "name": "Essex_Honey.mp3",
-      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -279,22 +283,18 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+        "name": "Essex_Honey.mp3",
+        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 199196,
-      "name": "It's So Nice (ft. 3DDY)",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
+      "duration_ms": 289075,
+      "name": "Essex_Honey.mp3",
+      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Joy Without Sound",
+        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Joy Without Sound",
+      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Sound of You (ft. TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 236528,
       "name": "Sound of You (ft. TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Joy Without Sound",
-        "url": "https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Joy Without Sound",
-      "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
-        }
-      ],
-      "duration_ms": 244708,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "Mind Off",
         "url": "https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 212750,
       "name": "Mind Off",
       "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Kelsier",
+        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Kelsier",
+      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Like It",
         "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 266923,
       "name": "Like It",
       "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "ROUND & ROUND",
+        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Where The Waves Break",
         "url": "https://open.spotify.com/album/6R1xCzolR17w5pJWFKHHeu"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 266767,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/4x9RLHwtUvN2zchIJt7F3W"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Everything U",
-        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 210294,
-      "name": "Everything U",
-      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Everything U",
+        "url": "https://open.spotify.com/album/6u6pP0iEfqlP1fJPTyrkWi"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 210294,
+      "name": "Everything U",
+      "url": "https://open.spotify.com/track/6i2H5Guogjwx2ALTACHmTY"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "Curses Broken",
         "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 277838,
       "name": "Better Let It Go",
       "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     }
   ],
   "unique_name": "Indie Electronic ",

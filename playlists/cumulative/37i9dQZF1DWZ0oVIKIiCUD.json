@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 270687,
       "name": "Anganku Anganmu (With Raisa) (with Raisa)",
       "url": "https://open.spotify.com/track/1nFfxe2VJdrnKdzwIMfNKz"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 209293,
       "name": "Tetap Dalam Jiwa",
       "url": "https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk"
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "UNLOCK THE KEY",
+        "url": "https://open.spotify.com/album/3Vl819yGnGJOghjIRyUaco"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270856,
+      "name": "UNLOCK THE KEY",
+      "url": "https://open.spotify.com/track/5P54jRTGFj6IdJkz8PPWK5"
+    },
+    {
+      "album": {
         "name": "Wahaemaenae (All I care about)",
         "url": "https://open.spotify.com/album/55OxhEJqAWpmvnzN5uB3a7"
       },
@@ -3096,6 +3114,24 @@
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf"
+    },
+    {
+      "album": {
+        "name": "EKLEKTIKO",
+        "url": "https://open.spotify.com/album/4ZuFIzhOThgSnHJeKZyfQ7"
+      },
+      "artists": [
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200868,
+      "name": "World on Fire!",
+      "url": "https://open.spotify.com/track/2h9EU4K2HGh45uao8SKiyo"
     },
     {
       "album": {

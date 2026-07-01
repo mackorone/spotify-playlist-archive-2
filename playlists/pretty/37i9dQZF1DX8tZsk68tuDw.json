@@ -1,6 +1,6 @@
 {
   "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with KETTAMA & Partiboi69",
-  "num_followers": 1828830,
+  "num_followers": 1828671,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
@@ -1364,14 +1364,6 @@
       },
       "artists": [
         {
-          "name": "LE YORA",
-          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
-        },
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
           "name": "JEWELS",
           "url": "https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB"
         },
@@ -1380,8 +1372,16 @@
           "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
         },
         {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
           "name": "MAGNUS",
           "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        },
+        {
+          "name": "LE YORA",
+          "url": "https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR"
         }
       ],
       "duration_ms": 302044,

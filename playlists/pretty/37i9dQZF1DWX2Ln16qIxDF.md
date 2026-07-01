@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,309 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,239 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 45 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 46 | [La Gerencia](https://open.spotify.com/track/01gF7t5mxO24gVnJBbvDpS) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [La Gente del Patrón](https://open.spotify.com/album/0Yg03ogJHor5yqiHzHEqFj) | 5:00 |
 | 47 | [MÍA](https://open.spotify.com/track/79XRfEseZUgGESo8zfDn2b) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [MÍA](https://open.spotify.com/album/4yRpuHZBILhQLHsFmoIDSG) | 2:13 |
-| 48 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
+| 48 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 49 | [PANTALOM](https://open.spotify.com/track/67UNrrGXa3BNg0KQQo3UQV) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [PANTALOM](https://open.spotify.com/album/3BjRBfKzPPSgWyApLAiVbI) | 1:49 |
 | 50 | [Femme Fatale \- Spotify Sessions](https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Spotify Sessions\)](https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x) | 4:18 |
 | 51 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 52 | [escuchándote](https://open.spotify.com/track/1M4Q9Jz8E6KI6cxGwLRYAs) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Tadu Vázquez](https://open.spotify.com/artist/71scL1K5Nu1Z7FgBkg3Gjk) | [escuchándote](https://open.spotify.com/album/7862iXXB8YiF2Ggi0tIoF7) | 2:16 |
-| 53 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 5:03 |
+| 53 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 4:59 |
 | 54 | [VICIO](https://open.spotify.com/track/2z1BEZBuo8UyPVWLqdZhJk) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [CIUDAD DEL SOL](https://open.spotify.com/album/5cjSUDgWxw6pnbXTmSuGAs) | 2:27 |
 | 55 | [Tu Gata](https://open.spotify.com/track/7j4kf9YhvElmjz3if93V49) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 2:36 |
 | 56 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |

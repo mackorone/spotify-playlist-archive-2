@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. YoSoyMatt en portada.
 
-484 songs - 1 day 2 hr 48 min
+485 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Revelation](https://open.spotify.com/track/1L2yB766uJH2BCTDxPQOcP) | [AO \(MX\)](https://open.spotify.com/artist/1Xk4yfpxUMbLAnsYrJi1yM) | [Revelation](https://open.spotify.com/album/63EEXjXqMKfdyg4oo5sBVH) | 7:36 | 2023-07-04 | 2023-10-21 |
 | [Ritmo Sabroso](https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Ritmo Sabroso](https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm) | 2:34 | 2026-03-13 | 2026-06-27 |
 | [Ruja](https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Ruja](https://open.spotify.com/album/74wEP2eT4uSD4bX7MVibiS) | 2:54 | 2023-10-20 | 2024-08-31 |
+| [Runaways](https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Runaways](https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo) | 4:29 | 2026-06-30 |  |
 | [S.E.L.F.](https://open.spotify.com/track/3NPRvxOAE0ha3KAc6zwdi2) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [S.E.L.F.](https://open.spotify.com/album/7hP0dw1cQgQLid4NmYBoRi) | 4:23 | 2022-05-06 | 2022-07-29 |
 | [Safari](https://open.spotify.com/track/1sD7wfCf5OqgbQoCQylqu4) | [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl), [Yongo](https://open.spotify.com/artist/3O6jv8Iew1XZ8svS1Ug9UN) | [Safari](https://open.spotify.com/album/0i3aIyaIbZSNVSOOvBGisq) | 2:36 | 2022-05-06 | 2022-07-28 |
 | [Sakura](https://open.spotify.com/track/48HANicqTEwFPCRA3tPpNz) | [Kertox](https://open.spotify.com/artist/1jvwq1Nj0eSEeHMqRnwEDS) | [Sakura](https://open.spotify.com/album/1aWPYXlwhTSU3Z477jms6j) | 2:18 | 2024-02-02 | 2024-07-06 |
@@ -393,7 +394,7 @@
 | [Sin Sentir](https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [Dr Babe](https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW) | [Sin Sentir](https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7) | 3:39 | 2024-07-05 |  |
 | [Sink Or Swim](https://open.spotify.com/track/0Xnj524QeZdv6TL1lgSUie) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Sink Or Swim](https://open.spotify.com/album/5H4VTWlTP69pgYHergGye6) | 3:47 | 2022-05-06 | 2022-07-09 |
 | [Sink Or Swim](https://open.spotify.com/track/54hlq4fexO9qKO85nnlbCD) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [\#aparttogether](https://open.spotify.com/album/0QNvH5B30qLksTcfsqbRXI) | 3:47 | 2022-07-28 | 2023-03-25 |
-| [Siquiti Bum](https://open.spotify.com/track/4PnXdvfCpq0vvt55j9JfD3) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Siquiti Bum](https://open.spotify.com/album/1LpHJGh0TbC0IQdLEpvUlp) | 3:52 | 2026-06-26 |  |
+| [Siquiti Bum](https://open.spotify.com/track/4PnXdvfCpq0vvt55j9JfD3) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Siquiti Bum](https://open.spotify.com/album/1LpHJGh0TbC0IQdLEpvUlp) | 3:52 | 2026-06-26 | 2026-07-01 |
 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 | 2025-08-22 | 2025-10-09 |
 | [Slow Down](https://open.spotify.com/track/4abIT4XGykGVMWclOKTZC3) | [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Slow Down](https://open.spotify.com/album/4KSw7LdRE05BtwuspdSzWM) | 5:54 | 2022-05-06 | 2022-07-22 |
 | [Slow Motion](https://open.spotify.com/track/2r8Wq7tUVdkIZpeuI8TBsE) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Tándem 003](https://open.spotify.com/album/71edUZkWDVsyQjUwC4Bb3d) | 8:00 | 2022-05-06 | 2022-07-26 |

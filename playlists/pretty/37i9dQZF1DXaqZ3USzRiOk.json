@@ -1,6 +1,6 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 259314,
+  "num_followers": 259366,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Los A\u00f1os Viejos",
-        "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Los A\u00f1os Viejos",
-      "url": "https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Los A\u00f1os Viejos",
+        "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Los A\u00f1os Viejos",
+      "url": "https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Un Hombre Derecho",
         "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 188604,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Por Mujeres Como Tu",
+        "url": "https://open.spotify.com/album/2p3X5Nll2HePONcBnzesyi"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 198832,
+      "name": "Directo Al Corazon",
+      "url": "https://open.spotify.com/track/4XDADiwTlLFwK7dpN0nlVN"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Sigo de Frente",
         "url": "https://open.spotify.com/album/7KyS7fizjuGgxj8MaGU35P"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 206074,
       "name": "Oye Viejo",
       "url": "https://open.spotify.com/track/3TZqC6FXcc0O71tgJJgl9R"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Mi Historia - Pepe Aguilar",
-        "url": "https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 261131,
-      "name": "Por Mujeres Como Tu",
-      "url": "https://open.spotify.com/track/0CIz7t5BltLpaff8qyQFjB"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Mi Historia - Pepe Aguilar",
+        "url": "https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 261131,
+      "name": "Por Mujeres Como Tu",
+      "url": "https://open.spotify.com/track/0CIz7t5BltLpaff8qyQFjB"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Penas, Desenga\u00f1os... y Amores",
         "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 203240,
       "name": "Yo Se Que Te Acordaras",
       "url": "https://open.spotify.com/track/0fXfqbA0R0lr6fpuU84DSx"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Por Mujeres Como Tu",
-        "url": "https://open.spotify.com/album/2p3X5Nll2HePONcBnzesyi"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 198832,
-      "name": "Directo Al Corazon",
-      "url": "https://open.spotify.com/track/4XDADiwTlLFwK7dpN0nlVN"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Pr\u00e9stame a Mi Padre",
-        "url": "https://open.spotify.com/album/3QCWlcrpyAfOeqACcBBc5Y"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Pr\u00e9stame a Mi Padre",
-      "url": "https://open.spotify.com/track/38PoI8PKloxPJ02oGZgS6E"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Tus Desprecios",
         "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 142819,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Pr\u00e9stame a Mi Padre",
+        "url": "https://open.spotify.com/album/3QCWlcrpyAfOeqACcBBc5Y"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Pr\u00e9stame a Mi Padre",
+      "url": "https://open.spotify.com/track/38PoI8PKloxPJ02oGZgS6E"
     },
     {
       "added_at": "2024-07-11 01:00:12",

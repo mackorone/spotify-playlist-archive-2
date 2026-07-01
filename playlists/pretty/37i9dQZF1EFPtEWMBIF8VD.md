@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 31 | [Goodbye Glitter](https://open.spotify.com/track/0ldizzl7WbI7vsIuBZ1Ulg) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 3:53 |
 | 32 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 |
 | 33 | [I'll Still Be Here](https://open.spotify.com/track/56I2ieB2BnOneNSyahDye8) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 3:11 |
-| 34 | [Magic](https://open.spotify.com/track/2v92oN27BTO98W6xcQHlMu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:07 |
-| 35 | [24 Hours](https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:27 |
+| 34 | [24 Hours](https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:27 |
+| 35 | [Magic](https://open.spotify.com/track/2v92oN27BTO98W6xcQHlMu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:07 |
 | 36 | [Arrivals](https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:05 |
 | 37 | [Amor Real \- Holiday Song](https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Amor Real \(Holiday Song\)](https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13) | 3:05 |
 | 38 | [Symphony](https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:41 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 53 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 |
 | 54 | [Are you even real](https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Teddy Swims](https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp) | 2:26 |
 
-Snapshot ID: `AcVjOgAAAAAm0Ivi+41O75KbQJpTGo65`
+Snapshot ID: `AcVo0AAAAADU8r48kFmvDhRVSSG0UoYx`

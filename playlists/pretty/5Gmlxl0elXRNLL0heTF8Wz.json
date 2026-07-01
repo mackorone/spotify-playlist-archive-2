@@ -1,13 +1,33 @@
 {
   "description": "Cheerful classical music to wake up with or to accompany a leisurely breakfast. Even if the sun isn\u2019t shining it seems like it does! <a href=\"http://www.sinfinimusic.com/nl\">Discover more classical music on Classics To Go.</a>",
-  "num_followers": 9758,
+  "num_followers": 9760,
   "original_name": "Classical Sunday Morning",
   "owner": {
     "name": "Classics To Go",
     "url": "https://open.spotify.com/user/sinfinimusic.nl"
   },
-  "snapshot_id": "AAACxM4VGTOlPia6IDIZB5Hb/Uoc5KBv",
+  "snapshot_id": "AAACxrq+QIlac1neX7gk8IuEgm/F6Hyi",
   "tracks": [
+    {
+      "added_at": "2026-06-30 09:03:35",
+      "album": {
+        "name": "Vivaldi: Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) [Upright Version]",
+        "url": "https://open.spotify.com/album/2cOUIkSFT9DLS0BXvmuezG"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Justus Friedrich Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
+        }
+      ],
+      "duration_ms": 178131,
+      "name": "Flautino Concerto in C Major, RV 443: II. Largo (Arr. Eichhorn for Piano) - Upright Version",
+      "url": "https://open.spotify.com/track/7hqA2zUcotxKyhEt01WfEe"
+    },
     {
       "added_at": "2025-11-17 12:18:09",
       "album": {

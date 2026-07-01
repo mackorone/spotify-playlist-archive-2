@@ -2,37 +2,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Gogohawk\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Silica Gel\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,174 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,145 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HANRORO: Indie Korea](https://open.spotify.com/track/3rb7PFB21Qw7oZ5MOVxDyM) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HANRORO: Indie Korea](https://open.spotify.com/album/5eZwzHktMlMtn8xrwr2hxS) | 0:03 |
-| 2 | [P](https://open.spotify.com/track/33AR52AJz3yONq2OTFjuWc) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.10](https://open.spotify.com/album/7EFR2crZ7e3kHwss7Pnngn) | 4:09 |
+| 2 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
 | 3 | [LOVE \- “Damons year” Remix](https://open.spotify.com/track/6oc2oKvVbLkWp1U5c9tNIq) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 2:33 |
 | 4 | [Falling for You is Easy](https://open.spotify.com/track/2UM4NcdhDtz2bEMNAp5tC2) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Falling for You is Easy](https://open.spotify.com/album/0HbYUVNGwPfXSfjR6OG21e) | 3:18 |
-| 5 | [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 |
-| 6 | [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 |
-| 7 | [I Can Do Anything 4u](https://open.spotify.com/track/5bqwVI8kbD0eihDggyIpji) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [MAKI STRIKE](https://open.spotify.com/album/3DSBFAxShAyyLcqL6dbLmV) | 2:26 |
-| 8 | [Asymmetry Complex](https://open.spotify.com/track/60FUJwYyVrX9l8F3xrSHuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Asymmetry Complex](https://open.spotify.com/album/5UjkgZ3cwvq5Ly1wgs3DVP) | 2:12 |
-| 9 | [Bird](https://open.spotify.com/track/2pTdkEv8ZdWlNN4xJ5OOZn) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Bird](https://open.spotify.com/album/6jnsgqAS2FS4ynlBC9XYvr) | 3:39 |
-| 10 | [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 |
-| 11 | [DENY](https://open.spotify.com/track/469KVmto2MTpWFoJ7MGEaN) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [I don't think it's THAT bad](https://open.spotify.com/album/3ioXJFtha5tHn3O0Y8MCDc) | 3:02 |
-| 12 | [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 |
-| 13 | [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 |
-| 14 | [After the Curtain](https://open.spotify.com/track/1qMNSTLsr12MLhUq0s6oZX) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [After the Curtain](https://open.spotify.com/album/2OO4T6PTY1Za5U6ev89Tk7) | 3:06 |
-| 15 | [Would you?](https://open.spotify.com/track/6jWfqmdlDf0aVIW8vT9E0C) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Would you?](https://open.spotify.com/album/5cRbXO3l10xT8eiiSmrWgL) | 2:46 |
-| 16 | [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 |
-| 17 | [May, be](https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [May, be](https://open.spotify.com/album/1IDOtELn8WbIs33bBSQOlC) | 2:52 |
-| 18 | [Echo](https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Echo](https://open.spotify.com/album/31lghStw9FTYI9HSjEjfiZ) | 3:11 |
-| 19 | [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 |
-| 20 | [Violet](https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Violet](https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0) | 3:11 |
-| 21 | [Untitled\_08](https://open.spotify.com/track/4dQtKYJ9S4tR8JZPoPSIhy) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [We Are All Trying Here \(Original Soundtrack\) Part.6](https://open.spotify.com/album/15aLcoTHfvL5jZc4QH6BfY) | 3:38 |
-| 22 | [Too Young, Too Unready](https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De) | [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Too Young, Too Unready](https://open.spotify.com/album/27z5P4br8IwrmAjvTG2Iqq) | 3:09 |
-| 23 | [STOP](https://open.spotify.com/track/62rJ7J9AIDMG72Qwgecs5E) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [HINT](https://open.spotify.com/album/739iOyEIzVk5qhxuDxPOE3) | 4:09 |
-| 24 | [UFO](https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [UFO](https://open.spotify.com/album/35bk0ltkEVLGSAzONbbpw5) | 3:33 |
-| 25 | [Lemonade](https://open.spotify.com/track/0CWdKdDpnK6R6c0sRKnyAR) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Lemonade](https://open.spotify.com/album/1czEu9Hok2Y5YAZQZZbCvA) | 3:40 |
+| 5 | [P](https://open.spotify.com/track/33AR52AJz3yONq2OTFjuWc) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.10](https://open.spotify.com/album/7EFR2crZ7e3kHwss7Pnngn) | 4:09 |
+| 6 | [My Gravity](https://open.spotify.com/track/57B0qkzXUntlW1LiCAayBL) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [My Gravity](https://open.spotify.com/album/10wM1ZrpvmMAnXxrVfkc1d) | 3:41 |
+| 7 | [Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Remaining](https://open.spotify.com/album/07o0WLU12HUpGjvuzCvcJx) | 5:17 |
+| 8 | [I Can Do Anything 4u](https://open.spotify.com/track/5bqwVI8kbD0eihDggyIpji) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [MAKI STRIKE](https://open.spotify.com/album/3DSBFAxShAyyLcqL6dbLmV) | 2:26 |
+| 9 | [Asymmetry Complex](https://open.spotify.com/track/60FUJwYyVrX9l8F3xrSHuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Asymmetry Complex](https://open.spotify.com/album/5UjkgZ3cwvq5Ly1wgs3DVP) | 2:12 |
+| 10 | [Bird](https://open.spotify.com/track/2pTdkEv8ZdWlNN4xJ5OOZn) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Bird](https://open.spotify.com/album/6jnsgqAS2FS4ynlBC9XYvr) | 3:39 |
+| 11 | [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 |
+| 12 | [DENY](https://open.spotify.com/track/469KVmto2MTpWFoJ7MGEaN) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [I don't think it's THAT bad](https://open.spotify.com/album/3ioXJFtha5tHn3O0Y8MCDc) | 3:02 |
+| 13 | [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 |
+| 14 | [Keep On](https://open.spotify.com/track/2kLxc1zc9dFFSAMGv0bf2C) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Gongbu](https://open.spotify.com/album/2kwTXgEgFRv1DUbhmLsNcM) | 3:50 |
+| 15 | [After the Curtain](https://open.spotify.com/track/1qMNSTLsr12MLhUq0s6oZX) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [After the Curtain](https://open.spotify.com/album/2OO4T6PTY1Za5U6ev89Tk7) | 3:06 |
+| 16 | [Would you?](https://open.spotify.com/track/6jWfqmdlDf0aVIW8vT9E0C) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Would you?](https://open.spotify.com/album/5cRbXO3l10xT8eiiSmrWgL) | 2:46 |
+| 17 | [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 |
+| 18 | [May, be](https://open.spotify.com/track/2EzW4c95YjAfy3tVQPawrl) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [May, be](https://open.spotify.com/album/1IDOtELn8WbIs33bBSQOlC) | 2:52 |
+| 19 | [Echo](https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Echo](https://open.spotify.com/album/31lghStw9FTYI9HSjEjfiZ) | 3:11 |
+| 20 | [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 |
+| 21 | [Violet](https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Violet](https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0) | 3:11 |
+| 22 | [Untitled\_08](https://open.spotify.com/track/4dQtKYJ9S4tR8JZPoPSIhy) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [We Are All Trying Here \(Original Soundtrack\) Part.6](https://open.spotify.com/album/15aLcoTHfvL5jZc4QH6BfY) | 3:38 |
+| 23 | [Too Young, Too Unready](https://open.spotify.com/track/4SeEnAVNJI697SWzF7a5De) | [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Too Young, Too Unready](https://open.spotify.com/album/27z5P4br8IwrmAjvTG2Iqq) | 3:09 |
+| 24 | [STOP](https://open.spotify.com/track/62rJ7J9AIDMG72Qwgecs5E) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [homs](https://open.spotify.com/artist/4jb43XkP3Qog5XuO1LZMgF) | [HINT](https://open.spotify.com/album/739iOyEIzVk5qhxuDxPOE3) | 4:09 |
+| 25 | [UFO](https://open.spotify.com/track/7nUCrjYiberecjvOxVHYF6) | [ZIN CHOI](https://open.spotify.com/artist/3YoRa6VhgjdFdg8vv5OA4b) | [UFO](https://open.spotify.com/album/35bk0ltkEVLGSAzONbbpw5) | 3:33 |
 | 26 | [Home](https://open.spotify.com/track/73ZXHRLk5zJEjyStIOex2F) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Home](https://open.spotify.com/album/2h3Si1lhGsmDycd5uLRtpO) | 3:55 |
 | 27 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 |
 | 28 | [Find You](https://open.spotify.com/track/7lhuwwTReovk2mqGUNvy2M) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Find You](https://open.spotify.com/album/2qa2XETaR8FBmu1I4tH1Tz) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [This Life Feels Ruined](https://open.spotify.com/track/7e4kQ0rFWMazzPRHaib9qq) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [This Life Feels Ruined](https://open.spotify.com/album/3xTIKhAew5hPWXFxlc87o2) | 2:48 |
 | 50 | [slow day](https://open.spotify.com/track/6wBV7hsXeg7GAMXGbDen4T) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [slow day](https://open.spotify.com/album/3a698AQdmmt7abCGfIkxFr) | 3:53 |
 
-Snapshot ID: `AAAAALzLOS1rGcfmY3Ys1TcmqMtwrYsU`
+Snapshot ID: `AAAAAP1yHBlyy1OKIFRYarbVZOWyGJfT`

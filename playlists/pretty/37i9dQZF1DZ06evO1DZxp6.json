@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244343,
+  "num_followers": 244350,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAADSxTRiSqvMqLL2uuOvFts6",
+  "snapshot_id": "akG1gAAAAACvg2GmpGVro1GDbycuMTzT",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1a",
-        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Volver a Ti",
-      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 221146,
       "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
       "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1a",
+        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Volver a Ti",
+      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Ese Camino",
-      "url": "https://open.spotify.com/track/5gR1hNKjMjJwXNONX38FK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Historia",
         "url": "https://open.spotify.com/album/6ZUTwvLWMi29QUubkloBPk"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/5imWOqJtc9fRIGBixyFy1G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Ese Camino",
+      "url": "https://open.spotify.com/track/5gR1hNKjMjJwXNONX38FK8"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La L\u00ednea",
         "url": "https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 191426,
       "name": "La L\u00ednea",
       "url": "https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 172306,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 216746,
       "name": "M\u00edrame Bien",
       "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te solt\u00e9 la rienda",
-        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Te solt\u00e9 la rienda",
-      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 200906,
       "name": "Tu Nombre - Live",
       "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te solt\u00e9 la rienda",
+        "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Te solt\u00e9 la rienda",
+      "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
     },
     {
       "added_at": null,

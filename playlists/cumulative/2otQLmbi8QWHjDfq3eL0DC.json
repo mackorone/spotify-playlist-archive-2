@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 155272,
       "name": "Cola",
       "url": "https://open.spotify.com/track/0pcbM85AHWo70ZkHa356z6"
@@ -3934,6 +3934,24 @@
       "duration_ms": 201685,
       "name": "Give Me Something To Hold",
       "url": "https://open.spotify.com/track/4uPA1ZZZVNzRjUgQ5Wn98F"
+    },
+    {
+      "album": {
+        "name": "Giving U",
+        "url": "https://open.spotify.com/album/7DWQB3oUJ3GNXtnscP92oF"
+      },
+      "artists": [
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142900,
+      "name": "Giving U",
+      "url": "https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P"
     },
     {
       "album": {

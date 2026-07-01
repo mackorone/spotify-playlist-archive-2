@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Peggy Gou, Ayra Starr
 
-793 songs - 1 day 16 hr 52 min
+794 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 | 2023-03-16 | 2024-02-17 |
 | [Fantasista](https://open.spotify.com/track/1WyuqLzeEX499wLisKcTPf) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [SUPER DANCE TOOLS Vol.4](https://open.spotify.com/album/2qs1y0xXlO4DfO0DPUVEbW) | 6:10 | 2025-01-30 | 2025-02-07 |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-03-30 | 2023-05-05 |
+| [Feel Again](https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [can we do it all again?](https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI) | 3:41 | 2026-06-25 |  |
 | [Feel Alive](https://open.spotify.com/track/0EYoVxpvCLOoPMYz0ZEexD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Feel Alive](https://open.spotify.com/album/63Jad3snv2RS2tYRzcQBk6) | 2:48 | 2026-01-15 | 2026-02-21 |
 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 | 2023-07-20 | 2023-12-01 |
 | [feel U luv Me](https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [feel U luv Me](https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY) | 3:54 | 2024-09-26 | 2024-11-08 |
@@ -365,7 +366,7 @@
 | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [If Only I \(feat\. Bebe Rexha\)](https://open.spotify.com/album/0kd0OCzyoqrr0c9n66xjgi) | 2:22 | 2023-06-22 | 2023-06-24 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-30 | 2025-06-06 |
 | [Illusion \- The Blaze Remix](https://open.spotify.com/track/2Z8bXQpJTjR78t7nu4FRCk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Illusion \(The Blaze Remix\)](https://open.spotify.com/album/1eQnfWI0gVyTFV1aT3DQwE) | 4:10 | 2024-06-20 | 2024-06-29 |
-| [Impossible](https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Impossible](https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM) | 2:53 | 2026-04-23 |  |
+| [Impossible](https://open.spotify.com/track/64rrzPOGT6mu1928QXogfu) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Impossible](https://open.spotify.com/album/2NYFG63e3WzinNocpndoSM) | 2:53 | 2026-04-23 | 2026-07-01 |
 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-15 | 2025-08-30 |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-04-25 | 2024-11-29 |
 | [In My Dreams](https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [In My Dreams](https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia) | 4:50 | 2024-09-12 | 2024-11-15 |

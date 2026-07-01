@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Bryan Behr",
-  "num_followers": 434438,
+  "num_followers": 434429,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,30 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Comum (xote)",
+        "url": "https://open.spotify.com/album/7AkoIdDqVX5eV0cqlBQBdH"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "duration_ms": 244357,
+      "name": "Comum (xote)",
+      "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "Faz de Conta",
         "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 188546,
       "name": "SUDAM\u00c9RICA",
       "url": "https://open.spotify.com/track/7H4xwxwmxKtoF5mRTXyUNo"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "Comum (xote)",
-        "url": "https://open.spotify.com/album/7AkoIdDqVX5eV0cqlBQBdH"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        }
-      ],
-      "duration_ms": 244357,
-      "name": "Comum (xote)",
-      "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Am\u00e9frica",
+        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 207378,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "Am\u00e9frica",
-        "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
-      },
-      "artists": [
-        {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
-        }
-      ],
-      "duration_ms": 207378,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -495,6 +495,22 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -595,18 +611,18 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "O Fim do Planeta Azul",
-        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 206739,
-      "name": "O Fim do Planeta Azul",
-      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -623,22 +639,6 @@
       "duration_ms": 179541,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
         "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 211295,
       "name": "Doente",
       "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Mar\u00e9 Alta",
         "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 186363,
       "name": "Barco de Papel",
       "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
       },
       "artists": [
         {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
         }
       ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -915,22 +931,6 @@
       "duration_ms": 142553,
       "name": "BOCA GOSTOSA",
       "url": "https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Saber Confiar",
+        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Saber Confiar",
+      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "SENSA\u00c7\u00c3O BONITA",
         "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 159997,
       "name": "SENSA\u00c7\u00c3O BONITA",
       "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "Saber Confiar",
-        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Saber Confiar",
-      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "colete \u00e0 prova de m\u00e1goas",
-        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "colete \u00e0 prova de m\u00e1goas",
-      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "BALAN\u00c7O",
         "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "colete \u00e0 prova de m\u00e1goas",
+        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "colete \u00e0 prova de m\u00e1goas",
+      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
     },
     {
       "added_at": "2026-06-26 03:00:29",

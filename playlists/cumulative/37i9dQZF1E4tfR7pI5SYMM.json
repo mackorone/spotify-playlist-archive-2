@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, Dystopian X Vision, The Charlie Marshall Effect and more",
+  "description": "With Jon Drake, Bad Scullianz, HAM and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -3056,7 +3056,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 235589,
       "name": "Elden",
       "url": "https://open.spotify.com/track/5VcS5mmrBi7LJCTvN6N3oc"
@@ -3892,7 +3892,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 285931,
       "name": "Farewell Romero",
       "url": "https://open.spotify.com/track/4G9PYgNCjj3PTw1sRoglWE"
@@ -4206,7 +4206,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 168882,
       "name": "Freaky Ho's",
       "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 303464,
       "name": "Grief",
       "url": "https://open.spotify.com/track/36oVY58DO6phaiLLdVOyjh"
@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 217106,
       "name": "Heimamenn",
       "url": "https://open.spotify.com/track/5AKTnYiOl7Qqs4UVCxRBo3"
@@ -5339,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "Ham-Fisted-Hate-Filled-Joy",
+        "url": "https://open.spotify.com/album/09PzeyFtGlHaoLM2eJHPwW"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Marshall Effect",
+          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189899,
+      "name": "I wanna feel like an Animal",
+      "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
+    },
+    {
+      "album": {
         "name": "I'm not going home",
         "url": "https://open.spotify.com/album/12PBgSVohvM4sfhdvfNbT8"
       },
@@ -5566,7 +5584,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 366389,
       "name": "Insecurity",
       "url": "https://open.spotify.com/track/5DvTDrVcrfsfUWRQ9THC85"
@@ -6306,7 +6324,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -6480,7 +6498,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -6762,7 +6780,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 165552,
       "name": "Louisa",
       "url": "https://open.spotify.com/track/1n22ITZaAnJlIknNEpqbfJ"
@@ -7184,7 +7202,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -7776,7 +7794,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -8610,7 +8628,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -9104,7 +9122,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 249818,
       "name": "Picture Of Time",
       "url": "https://open.spotify.com/track/2kH79NnF6USM1qGX2NE0xk"
@@ -10194,7 +10212,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -11182,7 +11200,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 169456,
       "name": "Televised - Radio Edit",
       "url": "https://open.spotify.com/track/1oRgzB0NVhJ3Yc27Zxj2Ix"
@@ -11510,7 +11528,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -11882,7 +11900,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 193500,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/60tVvB34IfKDBqq0lbAdZr"
@@ -12146,7 +12164,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -12794,6 +12812,28 @@
       "duration_ms": 257180,
       "name": "Tyger of Fate",
       "url": "https://open.spotify.com/track/4HwYKaLUTeFfebAUknUrG4"
+    },
+    {
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/2C46esSRQCqty8uAsZBJqn"
+      },
+      "artists": [
+        {
+          "name": "Gamada",
+          "url": "https://open.spotify.com/artist/1t6jdTNClRJIkGRyyuH1re"
+        },
+        {
+          "name": "Joaqu\u00edn Pascual",
+          "url": "https://open.spotify.com/artist/2tV7JtO7IVYj7aMXs42geu"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/56MmifQx1g1OUXzWMb76H2"
     },
     {
       "album": {
@@ -14074,7 +14114,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"
@@ -14208,7 +14248,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-01",
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"
@@ -14364,7 +14404,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 186823,
       "name": "\u041d\u0456\u0445\u0442\u043e \u043d\u0456 \u0432 \u0447\u043e\u043c\u0443 \u043d\u0435 \u0432\u0438\u043d\u0435\u043d, \u043e\u043a\u0440\u0456\u043c \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/3ZrLynIiP5Bp0rfJtnqH19"

@@ -7097,6 +7097,24 @@
     },
     {
       "album": {
+        "name": "Como nuevo",
+        "url": "https://open.spotify.com/album/2yePXIFjQ7in7kDhb96zEA"
+      },
+      "artists": [
+        {
+          "name": "Sa\u00fal",
+          "url": "https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182804,
+      "name": "Como nuevo",
+      "url": "https://open.spotify.com/track/03NRpkZhScby10Vs3eueuw"
+    },
+    {
+      "album": {
         "name": "Complimenti Per Gli Allori",
         "url": "https://open.spotify.com/album/2Z6SsuPbjanAFGERyaFEcm"
       },
@@ -21526,6 +21544,24 @@
       "duration_ms": 232914,
       "name": "Legal - Professor Skank Remix",
       "url": "https://open.spotify.com/track/1xNI4yxzus7PVTJbauA8tA"
+    },
+    {
+      "album": {
+        "name": "Leggera",
+        "url": "https://open.spotify.com/album/6830m8vrvafqg1U3wi1ktW"
+      },
+      "artists": [
+        {
+          "name": "SAM D",
+          "url": "https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167701,
+      "name": "Leggera",
+      "url": "https://open.spotify.com/track/1DBVYfntIhxnP3Id67tw62"
     },
     {
       "album": {

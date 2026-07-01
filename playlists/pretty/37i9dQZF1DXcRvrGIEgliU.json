@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 18001,
+  "num_followers": 18021,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
+        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 251906,
+      "name": "Freakin' Out On the Interstate",
+      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Small Change",
         "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Freakin' Out On The Interstate (Acoustic Version [Live])",
-        "url": "https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 251906,
-      "name": "Freakin' Out On the Interstate",
-      "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 177176,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Emily Can't Sing",
         "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
       },
@@ -1467,22 +1451,6 @@
       "duration_ms": 213855,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 198009,
-      "name": "zarcillos de plata",
-      "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1507,18 +1475,34 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 198426,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+      "duration_ms": 198009,
+      "name": "zarcillos de plata",
+      "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 177176,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1543,6 +1527,22 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "I Don't Wanna Lose",
-        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "CHATO",
         "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 211283,
       "name": "TMF",
       "url": "https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "I Don't Wanna Lose",
+        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Liham Sa Ulap",
+        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
+      },
+      "artists": [
+        {
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+        }
+      ],
+      "duration_ms": 188664,
+      "name": "Liham Sa Ulap",
+      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Liham Sa Ulap",
-        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
-      },
-      "artists": [
-        {
-          "name": "KYLIX",
-          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
-        }
-      ],
-      "duration_ms": 188664,
-      "name": "Liham Sa Ulap",
-      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Daughter Of The Sun",
-        "url": "https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "Daughter Of The Sun",
-      "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "eyes don\u2019t lie",
         "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 226054,
       "name": "Eyes Don't Lie",
       "url": "https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Daughter Of The Sun",
+        "url": "https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "Daughter Of The Sun",
+      "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

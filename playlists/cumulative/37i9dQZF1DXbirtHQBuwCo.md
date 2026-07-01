@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: Suen\(수엔\)\)
 
-922 songs - 2 day 0 hr 38 min
+924 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-03-27 | 2024-04-06 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2022-11-15 |
 | [Have I Asked You](https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [Cityboys Attitude](https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq) | 3:32 | 2025-12-05 | 2026-02-11 |
+| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-30 |  |
 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-05 | 2023-10-23 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2022-04-19 | 2022-07-29 |
 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 | 2024-06-17 | 2024-11-14 |
@@ -660,10 +661,10 @@
 | [Prescription](https://open.spotify.com/track/7bAdDCF5HouWbsHPwLAfYY) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Precious](https://open.spotify.com/album/5kSldVJSFCbuMmBgmSEQef) | 3:26 | 2022-06-29 | 2022-07-01 |
 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 | 2023-12-16 | 2024-03-06 |
 | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Purple Love \(Feat\. Leellamarz\)](https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9) | 3:16 | 2023-06-01 | 2023-06-14 |
-| [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 | 2026-05-27 |  |
+| [PWLT](https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m) | [Krystal](https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI) | [PWLT](https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79) | 3:38 | 2026-05-27 | 2026-07-01 |
 | [Q&A](https://open.spotify.com/track/4hNcCU1IvB6Vaob6SNuaU3) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Q&A](https://open.spotify.com/album/5Wr4YTpwSvR0Z0SD2saGpC) | 2:57 | 2022-05-11 | 2022-05-29 |
 | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n) | 2:32 | 2024-08-10 | 2024-08-23 |
-| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-14 |  |
+| [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 | 2024-10-14 | 2026-07-01 |
 | [RADIONA \(Feat\. GIST\)](https://open.spotify.com/track/7yuZTTd7qxLV18dU1QsXrC) | [GOYA](https://open.spotify.com/artist/33ftrWjmTpIAXapZU7H1Iw), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [RADIONA](https://open.spotify.com/album/14jzyg9CvAWyVomsapigey) | 3:08 | 2022-11-03 | 2022-11-10 |
 | [Rain Song](https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Rain Song](https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi) | 4:01 | 2022-07-04 | 2022-07-08 |
 | [Rainbow Freestyle](https://open.spotify.com/track/5IzNyik573EIobd8OPPqpZ) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 3:13 | 2022-05-04 | 2022-07-17 |
@@ -774,6 +775,7 @@
 | [STUPID \(feat\. 2SO\)](https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY) | [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C), [2SO](https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8) | [future island](https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN) | 3:00 | 2023-05-03 | 2023-05-24 |
 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 | 2022-07-04 | 2022-07-15 |
 | [STUTTER \(feat\. Stella Jang\)](https://open.spotify.com/track/2r1HcLvdui5t1ZFMY7O0AV) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [PSST!](https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj) | 3:03 | 2024-10-30 | 2024-11-30 |
+| [SUCK IT UP](https://open.spotify.com/track/2iNDaQ0UnDxHjoy5IqEaQv) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:57 | 2026-06-30 |  |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-07-27 | 2022-08-25 |
 | [Sugarcoat \(NATTY Solo\)](https://open.spotify.com/track/0NoeYUnwpb9R26mpylHcR9) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 2:59 | 2023-08-22 |  |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2022-08-12 | 2022-08-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 122990,
+  "num_followers": 123000,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Escaleras y Serpientes",
+        "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
+      },
+      "artists": [
+        {
+          "name": "Metrik Vader",
+          "url": "https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T"
+        }
+      ],
+      "duration_ms": 192046,
+      "name": "Escaleras y Serpientes",
+      "url": "https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Escaleras y Serpientes",
-        "url": "https://open.spotify.com/album/53uvTdRvIxmC0bJDDEiI4j"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
       },
       "artists": [
         {
-          "name": "Metrik Vader",
-          "url": "https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T"
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 192046,
-      "name": "Escaleras y Serpientes",
-      "url": "https://open.spotify.com/track/6ginyVBjgynnyoSB47whnH"
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -543,22 +559,6 @@
       "duration_ms": 221648,
       "name": "De Mi Muerte",
       "url": "https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Vive Libre",
-        "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
-      },
-      "artists": [
-        {
-          "name": "Lengualerta",
-          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
-        },
-        {
-          "name": "Choko Rap De Luz",
-          "url": "https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU"
-        },
-        {
-          "name": "Maniobra Bits",
-          "url": "https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Vive Libre",
-      "url": "https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La Felicidad",
         "url": "https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q"
       },
@@ -1363,6 +1339,30 @@
       "duration_ms": 203089,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Vive Libre",
+        "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
+      },
+      "artists": [
+        {
+          "name": "Lengualerta",
+          "url": "https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW"
+        },
+        {
+          "name": "Choko Rap De Luz",
+          "url": "https://open.spotify.com/artist/4F1rAi3ITTqb3Vq5feXiZU"
+        },
+        {
+          "name": "Maniobra Bits",
+          "url": "https://open.spotify.com/artist/10lD2iNiTNdw9GXnDqp5Sn"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Vive Libre",
+      "url": "https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "En el Aire",
+        "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        }
+      ],
+      "duration_ms": 181110,
+      "name": "En el Aire",
+      "url": "https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Inedito",
         "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 167826,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 186044,
-      "name": "Fe de Errata",
-      "url": "https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 186044,
+      "name": "Fe de Errata",
+      "url": "https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 173466,
       "name": "Merced",
       "url": "https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "En el Aire",
-        "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
-      },
-      "artists": [
-        {
-          "name": "Astrid Cruz",
-          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
-        }
-      ],
-      "duration_ms": 181110,
-      "name": "En el Aire",
-      "url": "https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk"
     },
     {
       "added_at": "2025-05-23 06:00:30",

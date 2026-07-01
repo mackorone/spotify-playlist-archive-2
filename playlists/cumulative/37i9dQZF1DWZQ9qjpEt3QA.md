@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-168 songs - 11 hr 17 min
+169 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Happy now?](https://open.spotify.com/track/6RwDUPV6pi85CFV0saJqhy) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [line](https://open.spotify.com/album/1gu1o6myP72sB655MR28v7) | 3:43 | 2026-02-24 |  |
 | [Have You Ever](https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Have You Ever](https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv) | 3:52 | 2022-05-26 | 2026-05-08 |
 | [Hello Ocean](https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx) | [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [Hello Ocean](https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb) | 4:00 | 2022-05-26 |  |
-| [Hey You](https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg) | [Cyndi Seui](https://open.spotify.com/artist/6Vl77bkShN9BMikIfhdHG9) | [Toy Boy](https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG) | 3:51 | 2022-05-26 |  |
+| [Hey You](https://open.spotify.com/track/33DSizc0awGwq4MEBX7vYg) | [Cyndi Seui](https://open.spotify.com/artist/6Vl77bkShN9BMikIfhdHG9) | [Toy Boy](https://open.spotify.com/album/2GlRBipf5fOYz9gSGICgyG) | 3:51 | 2022-05-26 | 2026-07-01 |
 | [Hunky Dory](https://open.spotify.com/track/79s8CsG6AxcfPxyLVvlFqf) | [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf), [Monsdim](https://open.spotify.com/artist/4TSyT8NNuZfgzHVAfsnkQv) | [The Noir Scene and The White Sheep Before I Sleep](https://open.spotify.com/album/551bI1L2hl1saZBLyALX0t) | 4:09 | 2022-05-26 |  |
 | [In the Rain](https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:48 | 2026-02-24 |  |
 | [Insomnia](https://open.spotify.com/track/0AAEFC3RGirgzRFhi44Y79) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [timeabout,](https://open.spotify.com/album/1cBAfX0otvkoIOI6HtOrAc) | 3:27 | 2022-05-26 |  |
@@ -101,6 +101,7 @@
 | [PODCAST](https://open.spotify.com/track/0yPjTrXN41ONUZVhyZQtg9) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [BRUNCH TIME](https://open.spotify.com/album/551VB5xExkPbwV57w2HVfn) | 3:47 | 2022-05-26 | 2026-05-08 |
 | [Podcast](https://open.spotify.com/track/7uCA0lY4vsR98wcAwATSCO) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [Brunch Time](https://open.spotify.com/album/2ZOl7gmy5ShGP0yLESQu6Q) | 3:47 | 2022-05-26 | 2024-04-19 |
 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-05-16 |  |
+| [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 | 2026-06-30 |  |
 | [Pupus Harapan](https://open.spotify.com/track/1ABvISIP8cNOF3T8krbYC7) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5) | [Pop diKota \(SRM 10th Anniversary\)](https://open.spotify.com/album/200pEAgk87ajUpHGty4MDJ) | 3:38 | 2022-05-26 |  |
 | [Pura Pura Bahagia \- Japanese Version](https://open.spotify.com/track/76r78vQ7H7SQkrNpRAL6ma) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Morning in Osaka](https://open.spotify.com/album/54ms2CNMhAc2Ssio38mxOC) | 3:42 | 2024-10-24 |  |
 | [rehabilitasi.](https://open.spotify.com/track/6vhnz5MiMTbk42oUoYnCh7) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [Softboi](https://open.spotify.com/album/4d7cclZUEfdz0fHFPg0GRG) | 4:28 | 2022-05-26 |  |

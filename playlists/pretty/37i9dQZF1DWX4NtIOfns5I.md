@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > tasha on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,487 likes - 146 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,491 likes - 146 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 2 | [Special](https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [You Are Spring!](https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT) | 4:36 |
-| 3 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
-| 4 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
-| 5 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
-| 6 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
-| 7 | [Cinderella](https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Cinderella](https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4) | 3:26 |
-| 8 | [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 |
-| 9 | [bloodstream](https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus) | 2:57 |
-| 10 | [honeybee](https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:43 |
-| 11 | [dad im scared to age](https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [dad im scared to age](https://open.spotify.com/album/22lSxuKjTVyrh1zz8t6Ld8) | 2:53 |
-| 12 | [Quick!](https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Quick!](https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK) | 5:18 |
+| 3 | [whole thing](https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [whole thing](https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD) | 4:25 |
+| 4 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
+| 5 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
+| 6 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
+| 7 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
+| 8 | [Cinderella](https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Cinderella](https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4) | 3:26 |
+| 9 | [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 |
+| 10 | [bloodstream](https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4KGK9opFcC60xCe29CTZus) | 2:57 |
+| 11 | [honeybee](https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:43 |
+| 12 | [dad im scared to age](https://open.spotify.com/track/2pZwk0HqnTVPTHzUnFeI9R) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [dad im scared to age](https://open.spotify.com/album/22lSxuKjTVyrh1zz8t6Ld8) | 2:53 |
 | 13 | [My Love](https://open.spotify.com/track/34BOFpRdhkmFsVu2yUAgMY) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [My Love](https://open.spotify.com/album/5SQVlmRmuP89gnW6c12bfQ) | 3:23 |
 | 14 | [AMATEUR AT BEST](https://open.spotify.com/track/2ZlCllL9l6Xk3gGZFAUeU5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [AMATEUR AT BEST](https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih) | 3:21 |
 | 15 | [Gretchen](https://open.spotify.com/track/255KD8LTcbK1sqJVqtYwpe) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Gretchen](https://open.spotify.com/album/0uB6srYMGEDsmgE4sMzZj0) | 2:51 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 145 | [My Life in Art](https://open.spotify.com/track/3x122zrezspip9MUfAz2se) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni), [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [My Life in Art](https://open.spotify.com/album/3v68k1YXxKESVaoeymU8AR) | 5:08 |
 | 146 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
 
-Snapshot ID: `AAAAAFm8Lo5IGs9PHn/pCLuDHUikIUIY`
+Snapshot ID: `AAAAABShZKkHQAO6fEuo1X65mBz/IWtr`

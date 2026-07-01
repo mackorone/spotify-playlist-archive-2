@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-350 songs - 21 hr 25 min
+351 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [DEVOTION \- Mansionair Remix](https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [DEVOTION \(Mansionair Remix\)](https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O) | 4:19 | 2023-09-28 | 2023-10-23 |
 | [DEYA](https://open.spotify.com/track/5Irlkjy18pG847hcN3pJtR) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DEYA](https://open.spotify.com/album/6DrhGVMKEswgZdbmlsL7ga) | 2:56 | 2025-06-03 | 2025-07-12 |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-26 | 2026-06-30 |
+| [DIGITiSE](https://open.spotify.com/track/3BGWPMnHswMQh1OBXZ8qaf) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Pat Alvarez](https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp) | [DIGITiSE](https://open.spotify.com/album/3wgramFhznwdYSxucYuTQw) | 4:06 | 2026-06-30 |  |
 | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/track/7JdHEhOa7CXs8oEBnMtnjh) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Pooks](https://open.spotify.com/artist/4bK23BKvm2y1lYjenizdTN), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Hayley Trinca](https://open.spotify.com/artist/5l3jgJIgcCwcD0eG6wm0QH) | [Disappear \(feat\. Hayley Trinca\) \[ShockOne Remix\]](https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0) | 3:03 | 2022-12-15 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2023-07-13 |  |
 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 | 2025-08-01 |  |
@@ -335,7 +336,7 @@
 | [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 | 2024-02-01 | 2025-07-26 |
 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 | 2023-10-05 | 2023-11-10 |
 | [undrcut](https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [undrcut](https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR) | 4:02 | 2024-01-25 | 2024-08-23 |
-| [Vai No](https://open.spotify.com/track/6yJqyUWSqczkjt9lSjmkwK) | [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Vai No](https://open.spotify.com/album/6moykiZA1fAItBAw1A8Vco) | 6:09 | 2025-08-01 |  |
+| [Vai No](https://open.spotify.com/track/6yJqyUWSqczkjt9lSjmkwK) | [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Vai No](https://open.spotify.com/album/6moykiZA1fAItBAw1A8Vco) | 6:09 | 2025-08-01 | 2026-07-01 |
 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 | 2022-12-01 | 2023-04-14 |
 | [Waiting For Nothing](https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 4:08 | 2023-12-21 | 2024-04-19 |
 | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK) | 4:08 | 2022-12-15 | 2023-02-10 |

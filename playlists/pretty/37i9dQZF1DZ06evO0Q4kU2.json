@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akBkAAAAAABT0Ho/0saxJDu8OYIV/HMP",
+  "snapshot_id": "akG1gAAAAADuNHOc1mqLAuJCG+aqH/9j",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lullabies for Piano and Cello",
+        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 191901,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 118347,
+      "name": "Mosi",
+      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantas\u00eda for Cello and Orchestra",
         "url": "https://open.spotify.com/album/03AwBwflLN1q8y6DtuL0oz"
       },
@@ -287,38 +319,6 @@
       "duration_ms": 241673,
       "name": "Fantas\u00eda for Cello and Orchestra",
       "url": "https://open.spotify.com/track/3xc1tPUPPygJDabqiTwNjA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 118347,
-      "name": "Mosi",
-      "url": "https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lullabies for Piano and Cello",
-        "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 191901,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md"
     },
     {
       "added_at": null,
@@ -666,11 +666,15 @@
         {
           "name": "Gabr\u00edel \u00d3lafs",
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        },
+        {
+          "name": "Steiney Sigur\u00f0ard\u00f3ttir",
+          "url": "https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO"
         }
       ],
-      "duration_ms": 212415,
-      "name": "Draumheimar",
-      "url": "https://open.spotify.com/track/0dAPZAKj30bBP1dx9OPaXC"
+      "duration_ms": 120783,
+      "name": "Eldur",
+      "url": "https://open.spotify.com/track/4mhxSUqgONepu6dQ7gQR0p"
     },
     {
       "added_at": null,
